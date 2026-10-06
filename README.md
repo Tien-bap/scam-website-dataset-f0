@@ -6,7 +6,7 @@ Repository này lưu trữ, quản lý và review các bộ dữ liệu phục v
 
 | Dataset | Số mẫu | Mô tả |
 |---|---:|---|
-| [F0-v1](datasets/F0/README.md) | 488 | Website từ nguồn báo cáo lừa đảo, đã thu thập, làm sạch và review |
+| [F0-v1](datasets/F0/README.md) | 483 | Website từ nguồn báo cáo lừa đảo, đã thu thập, làm sạch và review |
 
 ## Reviewer
 

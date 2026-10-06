@@ -1,6 +1,8 @@
 {
   "all_live_traceable_to_keep": true,
   "manifest_directory_bijection": true,
+  "manual_rereview_applied": true,
+  "no_rejected_final_samples": true,
   "no_zero_byte_artifacts": true,
   "original_hashes_preserved": true,
   "passed": true,
@@ -16,5 +18,8 @@
     "screenshot_ocr_performed": false,
     "text_files_scanned": 989
   },
-  "samples": 488
+  "remaining_artifacts_byte_identical": true,
+  "requested_domain_comparison_policy": "Exact normalized hostname: lowercase, IDNA, remove trailing dot; www is retained as a distinct hostname.",
+  "requested_samples_absent": true,
+  "samples": 483
 }

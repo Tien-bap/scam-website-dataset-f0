@@ -55,7 +55,7 @@
     "2026-08-05": 2,
     "2026-08-06": 1,
     "2026-08-07": 1,
-    "2026-08-08": 3,
+    "2026-08-08": 1,
     "2026-08-09": 2,
     "2026-08-10": 3,
     "2026-08-12": 1,
@@ -80,7 +80,7 @@
     "2026-09-04": 2,
     "2026-09-05": 2,
     "2026-09-06": 4,
-    "2026-09-07": 2,
+    "2026-09-07": 1,
     "2026-09-08": 4,
     "2026-09-09": 3,
     "2026-09-10": 2,
@@ -88,7 +88,7 @@
     "2026-09-12": 2,
     "2026-09-13": 3,
     "2026-09-14": 1,
-    "2026-09-15": 6,
+    "2026-09-15": 5,
     "2026-09-16": 4,
     "2026-09-17": 13,
     "2026-09-18": 7,
@@ -105,14 +105,14 @@
     "2026-09-29": 2,
     "2026-10-01": 10,
     "2026-10-02": 4,
-    "2026-10-03": 8,
+    "2026-10-03": 7,
     "2026-10-04": 6,
     "2026-10-05": 193,
     "2026-10-06": 8
   },
   "capture_source_counts": {
     "live_playwright": 201,
-    "urlscan": 287
+    "urlscan": 282
   },
   "capture_strategy_breakdown": {
     "commit_fallback": 6,
@@ -123,22 +123,14 @@
   "capture_year_distribution": {
     "2024": 10,
     "2025": 28,
-    "2026": 450
+    "2026": 445
   },
-  "dom_bytes": 121952776,
+  "dom_bytes": 121690906,
   "duplicate_audit_classifications": {
     "duplicate_with_live": 8,
     "unique": 197
   },
   "exact_dom_duplicate_groups": [
-    {
-      "count": 2,
-      "sample_ids": [
-        "production_0b9de24286e383f1cb7c32465bf29579d92e12b01766facf8742216778eddc55",
-        "production_b020604c8138e25468409744a7875a9314148bb253c585d72d06295aac1fea4b"
-      ],
-      "sha256": "07ff23ec70d38fd1bdf8660f9d0a6dc0366db92ceff994faf20534459fbc07cc"
-    },
     {
       "count": 2,
       "sample_ids": [
@@ -155,14 +147,6 @@
         "production_b917feac791d4af14bef0e541e940995bda3e6adc17942f6de183577e622abb6"
       ],
       "sha256": "2b6c6dd57858619c2cd45b8a74771dad222b106e900407910d01529237c9f833"
-    },
-    {
-      "count": 2,
-      "sample_ids": [
-        "production_340c7a2fb36f11670af71d0e41b237d01bdde666331f194ded66bf5d78b4134e",
-        "production_3eb20d78f2e8da81aee7a4ab604bebb973d829736bb3cec9c87780be5f58cf49"
-      ],
-      "sha256": "35b81bb80e6aa0238e9a26a2849a12ef9f6588e8735b6d412fdc741bd4153776"
     },
     {
       "count": 2,
@@ -189,6 +173,14 @@
       "sha256": "55e8e8ff880aeee66c41ddbf9710413ec8a710a118b2899a2886c29609e16b85"
     },
     {
+      "count": 2,
+      "sample_ids": [
+        "production_340c7a2fb36f11670af71d0e41b237d01bdde666331f194ded66bf5d78b4134e",
+        "production_3eb20d78f2e8da81aee7a4ab604bebb973d829736bb3cec9c87780be5f58cf49"
+      ],
+      "sha256": "5ccf1a302836b14fb77b410f5383e2184aad138358552b606fb5eff33b71323c"
+    },
+    {
       "count": 3,
       "sample_ids": [
         "production_4899a22901255b73f7a724907120d63f46d03d8a403ad301838e119b5315b1b0",
@@ -213,14 +205,6 @@
         "production_13bd8116389d5041eeebce79d779a193a771822a876a601d6b6195da189851e7"
       ],
       "sha256": "7bc37c96666bf4ffc9b39c486aeb24a0efcc9b99902d54fbbd01fbf8ddde005e"
-    },
-    {
-      "count": 2,
-      "sample_ids": [
-        "live_cb499c293d471b087c42dc8ebab79dd612965b8f7c57b13828eb706693bbd619",
-        "live_d8c24712213dd0303a5a230e5a88ca7e59857d6292db09c521e496cdddaa675d"
-      ],
-      "sha256": "9335751329984de83fa4612cc087fbdfbb8186a0213df73b8647f27fa4605093"
     },
     {
       "count": 2,
@@ -261,6 +245,14 @@
         "production_e8a24ece2316e4a7e196f1519b05b6a00da0c8bbe43b5dbfe67c40835aba4146"
       ],
       "sha256": "e3b64aa4e69daf94a804e371c996a4bf3c8e45312eb7e1419ded9243954dec22"
+    },
+    {
+      "count": 2,
+      "sample_ids": [
+        "live_cb499c293d471b087c42dc8ebab79dd612965b8f7c57b13828eb706693bbd619",
+        "live_d8c24712213dd0303a5a230e5a88ca7e59857d6292db09c521e496cdddaa675d"
+      ],
+      "sha256": "e46f9ec93aba5c9384954bec7eacd4e30787f6e4885758f8aeb66f84e24ba92c"
     }
   ],
   "exact_screenshot_duplicate_groups": [
@@ -279,14 +271,6 @@
         "production_ddb525549b8402c0d08ec5e8fd91d9deeab09e1b2421f2e9c68d97da6a0883c0"
       ],
       "sha256": "4a610e4c96e895c8b9a78cb4b9646f9a6e40f4fb0115394d107d4b13341c3764"
-    },
-    {
-      "count": 2,
-      "sample_ids": [
-        "production_0b9de24286e383f1cb7c32465bf29579d92e12b01766facf8742216778eddc55",
-        "production_b020604c8138e25468409744a7875a9314148bb253c585d72d06295aac1fea4b"
-      ],
-      "sha256": "4e6127ab94015fea387a7b9848aed91e7a3527bdac77cc1b17e1722bb7972449"
     },
     {
       "count": 2,
@@ -396,11 +380,29 @@
       "sha256": "eb6afada9f5f8291eafc73770020447b9b3ba700ddb29c2f75916b68fad219ea"
     }
   ],
-  "existing_urlscan_clean": 287,
-  "final_clean_samples": 488,
+  "existing_urlscan_clean": 282,
+  "final_clean_samples": 483,
+  "final_rereview": {
+    "current_final_samples": 483,
+    "excluded_count": 5,
+    "historical_after": 282,
+    "historical_before": 287,
+    "live_after": 201,
+    "live_before": 201,
+    "previous_final_samples": 488,
+    "reason": "manual_rereview_artifact_not_useful",
+    "reject_is_benign": false,
+    "timestamp": "2026-10-06T13:43:30.927472+00:00"
+  },
+  "historical_review_counts": {
+    "keep": 282,
+    "pending": 0,
+    "reject": 3242,
+    "total": 3524
+  },
   "http_status_distribution": {
     "200": 201,
-    "unknown": 287
+    "unknown": 282
   },
   "live_keep_before_dedup": 205,
   "live_merged": 201,
@@ -408,15 +410,16 @@
   "live_reject": 986,
   "live_reviewed": 1191,
   "live_skipped_exact_duplicate": 4,
+  "merge_stage_counts_semantics": "previous_samples/new_samples_merged/new_keep_considered/already_represented_keep record the prior merge stage, before final re-review",
   "missing_artifacts": 0,
   "new_duplicates_skipped": 0,
   "new_keep_considered": 43,
   "new_samples_merged": 43,
   "previous_samples": 445,
-  "screenshot_bytes": 155650802,
+  "screenshot_bytes": 155504532,
   "storage": {
     "at_least_100_mib": [],
-    "file_count": 1464,
+    "file_count": 1449,
     "largest_files": [
       {
         "bytes": 18969725,
@@ -462,11 +465,11 @@
     "over_25_mib": [],
     "over_50_mib": [],
     "scope": "samples/ only; excludes metadata, reviewer and .git",
-    "total_bytes": 279051919
+    "total_bytes": 278640083
   },
-  "unique_captured_hostnames": 454,
-  "unique_final_urls": 470,
-  "unique_source_hostnames": 465,
-  "unique_source_urls": 488,
+  "unique_captured_hostnames": 451,
+  "unique_final_urls": 466,
+  "unique_source_hostnames": 461,
+  "unique_source_urls": 483,
   "zero_byte_artifacts": 0
 }

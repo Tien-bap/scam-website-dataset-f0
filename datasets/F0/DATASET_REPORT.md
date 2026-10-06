@@ -2,7 +2,7 @@
 
 ## Phạm vi và số liệu cuối
 
-Bộ dữ liệu có 488 mẫu: 287 URLScan lịch sử và 201 Playwright live. 488 thư mục sample tương ứng một-một với 488 bản ghi manifest và reviewer. Tài liệu này ghi số liệu tổng hợp, không công bố lịch sử quyết định cá nhân.
+Bộ dữ liệu có 483 mẫu: 282 URLScan lịch sử và 201 Playwright live. 483 thư mục sample tương ứng một-một với 483 bản ghi manifest và reviewer. Tài liệu này ghi số liệu tổng hợp, không công bố lịch sử quyết định cá nhân.
 
 ## Funnel chọn lọc
 
@@ -15,8 +15,8 @@ Bộ dữ liệu có 488 mẫu: 287 URLScan lịch sử và 201 Playwright live.
 | Mẫu có thể review | 1.191 | Artifact đáp ứng điều kiện kỹ thuật sau recovery |
 | KEEP thủ công | 205 | 17,21% mẫu có thể review |
 | Live cuối sau dedup | 201 | Bỏ 4 mẫu trùng mạnh screenshot và DOM với cùng mẫu được giữ |
-| URLScan lịch sử | 287 | Bộ đã review trước đó |
-| **F0-v1** | **488** | **287 + 201** |
+| URLScan lịch sử | 282 | Bộ đã review trước đó |
+| **F0-v1** | **483** | **282 + 201** |
 
 37 nhóm overlap chứa 48 bản ghi nguồn; đây không phải cùng đơn vị với số nhóm. Chỉ normalized source/final URL overlap mạnh mới tự bỏ; cùng hostname hoặc hostname+path nhưng khác query không đủ để tự bỏ.
 
@@ -77,7 +77,7 @@ Không dùng bảng này để suy ra lý do loại mẫu. KEEP là quyết đ�
 | Commit fallback | 6 |
 | No-JS fallback | 2 |
 
-287 mẫu lịch sử chiếm 58,81%; 201 mẫu live chiếm 41,19%. Live cuối chiếm khoảng 0,161% bản ghi URL đầu vào, không phải ước lượng tỷ lệ phishing thực tế.
+282 mẫu lịch sử chiếm 58,39%; 201 mẫu live chiếm 41,61%. Live cuối chiếm khoảng 0,161% bản ghi URL đầu vào, không phải ước lượng tỷ lệ phishing thực tế.
 
 ## Artifact, sanitization và kiểm chứng
 
@@ -94,3 +94,7 @@ Sanitization dựa trên pattern có giới hạn, đặc biệt với thông ti
 **URL bị loại ≠ URL benign.** Availability filtering, chất lượng capture, review và dedup làm thay đổi tập dữ liệu; không tạo nhãn benign cho phần bị loại. Nguồn báo cáo, thời điểm capture và chọn lọc thủ công tạo selection bias. URL/hostname có thể thay nội dung theo thời gian. No-JS và timeout salvage có thể ghi nhận ít hành vi hơn trang tương tác đầy đủ. F0-v1 không có bộ đối chứng benign và không đại diện toàn bộ web.
 
 Chi tiết sử dụng và cấu trúc mẫu: [README.md](README.md).
+
+## Cập nhật sau manual re-review
+
+Sau khi hoàn tất F0-v1, người dùng xác nhận loại 5 mẫu URLScan historical vì artifact không còn hữu ích (`manual_rereview_artifact_not_useful`). Historical KEEP giảm từ 287 xuống 282, REJECT tăng từ 3.237 lên 3.242. Bộ final còn 282 historical + 201 live = 483 mẫu. Funnel live, 205 KEEP / 986 REJECT và 4 live strong-dedup skips giữ nguyên. **REJECT không đồng nghĩa benign.** Lịch sử quyết định chi tiết được giữ trong audit nội bộ, không đưa artifact bị loại vào public repository.

@@ -32,7 +32,7 @@
     },
     "canonical_manifest": {
       "path": "F0_clean/manifest.json",
-      "sha256": "36b2d6b560fea7e221f760b3f5630846232e888300c531ed1a404a597cd040f7"
+      "sha256": "919bb940fd5e7e7c189037721bdcaf6889d3ad57242a550f6eb437b7ecc0ec8e"
     },
     "classifier": {
       "path": "F0/browser_stall.py",
@@ -52,12 +52,12 @@
     },
     "share_manifest": {
       "path": "datasets/F0/manifest.jsonl",
-      "sha256": "e5066b0aed941e9cb252d59ef8013cf472da8a1e847d240ebd0712fd4940541e"
+      "sha256": "a8c8ed5bd2cc13e056d7c5a8c94f94e52cfead3fcb1163b247edd6493db3458b"
     }
   },
   "final": {
     "end_to_end_live_percent": 0.160868208120243,
-    "historical": 287,
+    "historical": 282,
     "live": 201,
     "live_strategy_counts": {
       "commit_fallback": 6,
@@ -73,10 +73,22 @@
     },
     "live_strong_duplicate_skips": 4,
     "source_composition_percent": {
-      "live_playwright": 41.18852459016394,
-      "urlscan": 58.81147540983606
+      "live_playwright": 41.61490683229814,
+      "urlscan": 58.38509316770186
     },
-    "total": 488
+    "total": 483
+  },
+  "final_rereview": {
+    "current_final_samples": 483,
+    "excluded_count": 5,
+    "historical_after": 282,
+    "historical_before": 287,
+    "live_after": 201,
+    "live_before": 201,
+    "previous_final_samples": 488,
+    "reason": "manual_rereview_artifact_not_useful",
+    "reject_is_benign": false,
+    "timestamp": "2026-10-06T13:43:30.927472+00:00"
   },
   "funnel": [
     {
@@ -129,6 +141,12 @@
       "stage": "Mẫu live cuối sau dedup"
     }
   ],
+  "historical_review": {
+    "keep": 282,
+    "pending": 0,
+    "reject": 3242,
+    "total": 3524
+  },
   "http_error_status_distribution": {
     "400": 267,
     "401": 10,

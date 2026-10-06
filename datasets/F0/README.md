@@ -2,7 +2,7 @@
 
 ## 1. Tổng quan
 
-F0-v1 gồm **488 mẫu** website từ nguồn báo cáo lừa đảo, được thu thập, chọn lọc và review thủ công để phục vụ đề tài phát hiện website lừa đảo trực tuyến. Mỗi mẫu là một snapshot tại thời điểm capture, không phải chứng nhận rằng website hiện tại vẫn hoạt động hoặc một kết luận độc lập về tính độc hại.
+F0-v1 gồm **483 mẫu** website từ nguồn báo cáo lừa đảo, được thu thập, chọn lọc và review thủ công để phục vụ đề tài phát hiện website lừa đảo trực tuyến. Mỗi mẫu là một snapshot tại thời điểm capture, không phải chứng nhận rằng website hiện tại vẫn hoạt động hoặc một kết luận độc lập về tính độc hại.
 
 [Mở reviewer chung](https://tien-bap.github.io/scam-website-dataset-f0/reviewer/). Số liệu chi tiết nằm trong [DATASET_REPORT.md](DATASET_REPORT.md) và [selection_funnel.json](selection_funnel.json).
 
@@ -10,11 +10,11 @@ F0-v1 gồm **488 mẫu** website từ nguồn báo cáo lừa đảo, được 
 
 | Nguồn capture | Số mẫu |
 |---|---:|
-| URLScan lịch sử | 287 |
+| URLScan lịch sử | 282 |
 | Playwright live | 201 |
-| **Tổng** | **488** |
+| **Tổng** | **483** |
 
-Có 465 hostname nguồn và 454 hostname cuối. Một hostname có thể chứa nhiều trang khác nhau; không loại trùng chỉ dựa vào hostname.
+Có 461 hostname nguồn và 451 hostname cuối. Một hostname có thể chứa nhiều trang khác nhau; không loại trùng chỉ dựa vào hostname.
 
 ## 3. Nguồn dữ liệu
 
@@ -37,9 +37,9 @@ Nguồn URL ban đầu là danh sách website được báo cáo trên Tín Nhi�
         ↓ bỏ 4 mẫu trùng mạnh cả screenshot và DOM
     201 mẫu live duy nhất
         +
-    287 mẫu URLScan lịch sử
+    282 mẫu URLScan lịch sử
         =
-    488 mẫu F0-v1
+    483 mẫu F0-v1
 ```
 
 Từ 1.782 bản ghi đến 1.616 destination là thay đổi đơn vị đếm: nhiều URL nguồn có thể redirect về cùng URL cuối. 37 nhóm destination overlap mạnh với bộ lịch sử không được capture lại. So sánh URL có normalization scheme/hostname, default port, fragment và trailing slash; giữ path và query. Cùng hostname không đủ để tự loại mẫu.
@@ -99,3 +99,7 @@ sha256sum -c SHA256SUMS
 Khi dùng cho huấn luyện/đánh giá, tránh leakage giữa các trang liên quan bằng cách cân nhắc hostname, provenance và thời điểm capture. Ghi rõ phiên bản F0-v1, nguồn capture, giới hạn nhãn và cách chia tập.
 
 Để thêm F1/F2: tạo thư mục dataset có cùng quy ước artifact path, thêm compact metadata vào `reviewer/data/<id>.json`, rồi đăng ký trong `reviewer/data/datasets.json`. Reviewer đọc registry này, không cần tạo giao diện riêng cho từng bộ dữ liệu. Collection/capture/recovery tooling được giữ ở workspace nghiên cứu local, không thuộc repository public.
+
+## Cập nhật sau manual re-review
+
+Sau khi hoàn tất F0-v1, người dùng xác nhận loại 5 mẫu URLScan historical vì artifact không còn hữu ích (`manual_rereview_artifact_not_useful`). Historical KEEP giảm từ 287 xuống 282, REJECT tăng từ 3.237 lên 3.242. Bộ final còn 282 historical + 201 live = 483 mẫu. Funnel live, 205 KEEP / 986 REJECT và 4 live strong-dedup skips giữ nguyên. **REJECT không đồng nghĩa benign.** Lịch sử quyết định chi tiết được giữ trong audit nội bộ, không đưa artifact bị loại vào public repository.
