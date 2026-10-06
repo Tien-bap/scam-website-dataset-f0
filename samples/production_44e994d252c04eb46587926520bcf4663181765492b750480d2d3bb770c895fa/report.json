@@ -1,0 +1,27 @@
+{
+  "original_url": "https://imagoinfotech.com",
+  "hostname": "imagoinfotech.com",
+  "checked_at": "2026-10-04T13:34:12.823366+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f9f10-193a-72a2-9762-132b80d48c33",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-26T15:34:29.292Z",
+  "scan_original_url": "https://imagoinfotech.com/",
+  "final_url": "https://imagoinfotech.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2114,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 1.773,
+  "discovery": {
+    "batch_id": "3e78b61ec6cfbf5bd63447c0c43454e40887b6e0673e7e8c39e96f6174e10b7e",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

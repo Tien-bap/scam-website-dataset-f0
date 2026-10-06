@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.jugosbolivianos.com.bo/wp-includes/js/sjdropbox/www.dropbox.com/",
+  "hostname": "www.jugosbolivianos.com.bo",
+  "checked_at": "2026-10-04T14:30:03.444652+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fe722-3419-74fb-8eef-d9eef7931ee4",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-09T15:27:05.657Z",
+  "scan_original_url": "http://jugosbolivianos.com.bo/",
+  "final_url": "https://www.jugosbolivianos.com.bo/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 836,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.104,
+  "discovery": {
+    "batch_id": "c329ef5a7db78f36bf31719d4f5aa2d2cda6196cc200d57fea56ac53ab212e24",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://reurl.cc/gvjOLp?co=muj3e",
+  "hostname": "reurl.cc",
+  "checked_at": "2026-10-04T14:50:18.377147+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 40,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0f819-a4ca-778f-890f-798754d0a668",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-01T15:34:26.890Z",
+  "scan_original_url": "https://reurl.cc/qa4krD",
+  "final_url": "https://reurl.cc/qa4krD",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1190,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 7.864,
+  "discovery": {
+    "batch_id": "8927945ec259f89fb2a827db2c9738367fe158773e47156305c6f4dded81ded2",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

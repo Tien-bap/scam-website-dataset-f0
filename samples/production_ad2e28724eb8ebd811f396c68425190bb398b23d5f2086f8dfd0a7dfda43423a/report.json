@@ -1,0 +1,27 @@
+{
+  "original_url": "http://cnps.cv/nuedueg%20/eg",
+  "hostname": "cnps.cv",
+  "checked_at": "2026-10-04T15:57:09.372242+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 7,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a07452-8ab6-771e-b273-17f62b4a7ce2",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-06T01:26:09.067Z",
+  "scan_original_url": "http://cnps.cv/index.php/en/social-inclusion-programs/basic-social-pension",
+  "final_url": "https://cnps.cv/index.php/en/social-inclusion-programs/basic-social-pension",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3409,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.895,
+  "discovery": {
+    "batch_id": "dc258a7305bde5f7061e5b4f6b2ffd10f578bdefc65ccc1e6dacd9bf66087ac9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://buildusacredit.com/CD/client/countrywiderecycling/",
+  "hostname": "buildusacredit.com",
+  "checked_at": "2026-10-04T14:18:16.827133+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a073c5-057a-709d-82cf-838146c6ab54",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-05T22:51:34.774Z",
+  "scan_original_url": "https://www.buildusacredit.com/",
+  "final_url": "https://buildusacredit.com/password",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 253,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.834,
+  "discovery": {
+    "batch_id": "8f3ed283b6a88b1374fc680d6420164dde4b21fc15ae6d9a70da783383751279",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://instalacionesrubio.es/voice/mime.php",
+  "hostname": "instalacionesrubio.es",
+  "checked_at": "2026-10-04T14:03:46.091798+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a002fe-98f3-717e-9dfc-f3544a60f18e",
+  "match_kind": "exact_url",
+  "capture_timestamp": "2026-08-15T01:17:23.400Z",
+  "scan_original_url": "http://instalacionesrubio.es/voice/mime.php",
+  "final_url": "https://instalacionesrubio.es/voice/mime.php",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1126,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 18.914,
+  "discovery": {
+    "batch_id": "1edd7de150a9320862658ae50d844f70386b4febf75d953178bb55063b81a64c",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

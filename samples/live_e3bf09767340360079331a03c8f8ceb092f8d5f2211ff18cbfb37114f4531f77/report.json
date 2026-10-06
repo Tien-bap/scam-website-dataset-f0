@@ -1,0 +1,155 @@
+{
+  "candidate_id": "live_e3bf09767340360079331a03c8f8ceb092f8d5f2211ff18cbfb37114f4531f77",
+  "candidate_sha256": "f3079f45b90602e9fe0482746fdff363b7c9bf3cea8e4e006bb23ca9b1200bbd",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "zzcc.app",
+  "requested_url": "https://zzcc.app",
+  "browser_final_url": "https://zzcc.app/",
+  "source_urls": [
+    "zzcc.app"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11515,
+      "source_url": "zzcc.app",
+      "source_hostname": "zzcc.app",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://zzcc.app",
+      "final_hostname": "zzcc.app",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 994,
+      "checked_at": "2026-10-05T12:41:47.306998+00:00",
+      "error": null,
+      "normalized_source_url": "https://zzcc.app/",
+      "normalized_final_url": "https://zzcc.app/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_e3bf09767340360079331a03c8f8ceb092f8d5f2211ff18cbfb37114f4531f77",
+    "representative_source_index": 11515,
+    "representative_source_url": "zzcc.app",
+    "representative_final_url": "https://zzcc.app",
+    "normalized_final_url": "https://zzcc.app/",
+    "source_hostname": "zzcc.app",
+    "final_hostname": "zzcc.app",
+    "source_urls": [
+      "zzcc.app"
+    ],
+    "provenance": [
+      {
+        "source_index": 11515,
+        "source_url": "zzcc.app",
+        "source_hostname": "zzcc.app",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://zzcc.app",
+        "final_hostname": "zzcc.app",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 994,
+        "checked_at": "2026-10-05T12:41:47.306998+00:00",
+        "error": null,
+        "normalized_source_url": "https://zzcc.app/",
+        "normalized_final_url": "https://zzcc.app/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "zzcc - Fresh slot deals and simple play access",
+  "capture_timestamp": "2026-10-05T16:53:39.048552+00:00",
+  "dom_chars": 70900,
+  "screenshot_bytes": 848695,
+  "dom_sha256": "9517d1acc20a71210c44267387e29c4fadf6900075ba091ad9c0922afb923d37",
+  "screenshot_sha256": "54dff585d5bc1048298bf4d3cdbe22181740b4b724e4993990c6611d7f4bd95d",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://zzcc.app/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://zzcc.app",
+    "browser_final_url": "https://zzcc.app/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 3528,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:59:03.209505+00:00",
+    "previous_report_sha256": "0a70f682f7ca1e6ec704412cbe85de9e5134314b2d2d117db79284c1773360be",
+    "recovered_at": "2026-10-05T16:53:39.048552+00:00",
+    "result": "complete"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://guekiptv.shop/login.html",
+  "hostname": "guekiptv.shop",
+  "checked_at": "2026-10-04T14:05:17.556837+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f780a-1d40-746e-bec2-a8f47355c361",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-19T01:42:44.507Z",
+  "scan_original_url": "https://guekiptv.shop/",
+  "final_url": "https://guekiptv.shop/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 15345,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.941,
+  "discovery": {
+    "batch_id": "0a3a5e083a4fcab50463d2df4d3fda29761b5e2887d2fc43f5e19caaa165ebff",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

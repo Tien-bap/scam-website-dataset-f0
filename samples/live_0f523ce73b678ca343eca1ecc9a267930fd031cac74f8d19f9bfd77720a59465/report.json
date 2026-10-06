@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_0f523ce73b678ca343eca1ecc9a267930fd031cac74f8d19f9bfd77720a59465",
+  "candidate_sha256": "e8fd12578760458894965ac5e8cd138a2c91bf06cffc1b6f6745c7036ffd7b05",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "uchajq0.com",
+  "requested_url": "https://uchajq0.com",
+  "browser_final_url": "https://uchajq0.com/",
+  "source_urls": [
+    "uchajq0.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11482,
+      "source_url": "uchajq0.com",
+      "source_hostname": "uchajq0.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://uchajq0.com",
+      "final_hostname": "uchajq0.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 17072,
+      "elapsed_ms": 706,
+      "checked_at": "2026-10-05T12:41:47.154261+00:00",
+      "error": null,
+      "normalized_source_url": "https://uchajq0.com/",
+      "normalized_final_url": "https://uchajq0.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_0f523ce73b678ca343eca1ecc9a267930fd031cac74f8d19f9bfd77720a59465",
+    "representative_source_index": 11482,
+    "representative_source_url": "uchajq0.com",
+    "representative_final_url": "https://uchajq0.com",
+    "normalized_final_url": "https://uchajq0.com/",
+    "source_hostname": "uchajq0.com",
+    "final_hostname": "uchajq0.com",
+    "source_urls": [
+      "uchajq0.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 11482,
+        "source_url": "uchajq0.com",
+        "source_hostname": "uchajq0.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://uchajq0.com",
+        "final_hostname": "uchajq0.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 17072,
+        "elapsed_ms": 706,
+        "checked_at": "2026-10-05T12:41:47.154261+00:00",
+        "error": null,
+        "normalized_source_url": "https://uchajq0.com/",
+        "normalized_final_url": "https://uchajq0.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "𝒦8官网线路入口✌️ 🎁天生赢家✅一触即发🧧",
+  "capture_timestamp": "2026-10-05T14:35:05.419241+00:00",
+  "dom_chars": 28579,
+  "screenshot_bytes": 488646,
+  "dom_sha256": "3a4604745198ffcb1e82b5294b6cb703a92b2e88c11fdcf55c72b9d2f9c143e9",
+  "screenshot_sha256": "7036311c7e37c184aebc637808354a8194622f0f00bf847f604c3d0254d32e2d",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://uchajq0.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://uchajq0.com",
+    "browser_final_url": "https://uchajq0.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 7427
+}

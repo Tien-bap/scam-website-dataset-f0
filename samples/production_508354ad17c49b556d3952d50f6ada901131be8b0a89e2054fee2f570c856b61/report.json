@@ -1,0 +1,27 @@
+{
+  "original_url": "http://designeruniformes.com.br/julp",
+  "hostname": "designeruniformes.com.br",
+  "checked_at": "2026-10-04T14:21:15.360635+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a080a2-989a-7568-ae3a-23debe050a9b",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-08T10:49:02.630Z",
+  "scan_original_url": "http://designeruniformes.com.br/",
+  "final_url": "https://designeruniformes.com.br/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 6009,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.97,
+  "discovery": {
+    "batch_id": "f2e88a01fcd0cebd8e0f12ec5d712d376b2a516f39edc8fff3afa7be757c7a36",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

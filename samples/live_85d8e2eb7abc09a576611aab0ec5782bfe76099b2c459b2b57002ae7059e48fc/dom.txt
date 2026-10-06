@@ -1,0 +1,25 @@
+<!DOCTYPE html><html lang="zh"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lucky661 Support</title>
+<style>
+body{margin:0;background:#f2f4f7;font-family:Arial,"Microsoft YaHei",sans-serif}
+.box{width:360px;max-width:88%;margin:12vh auto;background:#fff;padding:32px;border-radius:14px;box-shadow:0 5px 25px rgba(0,0,0,.08)}
+h2{text-align:center;margin:0 0 25px}
+input{width:100%;box-sizing:border-box;padding:13px;margin:8px 0;border:1px solid #ddd;border-radius:8px;font-size:16px}
+button{width:100%;padding:13px;margin-top:15px;border:0;border-radius:8px;background:#2481cc;color:white;font-size:16px;cursor:pointer}
+.err{color:#d33;text-align:center}
+</style>
+</head>
+<body>
+<div class="box">
+<h2>Lucky661 客服后台</h2>
+
+<form method="post">
+<input name="username" placeholder="客服账号" autocomplete="username">
+<input type="password" name="password" placeholder="密码" autocomplete="current-password">
+<button type="submit">登录</button>
+</form>
+</div>
+
+</body></html>

@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_5efd2b787ca086bfca8990379a5c3f7a357a70c48dc6421eca9dbeae5fe2405c",
+  "candidate_sha256": "69e1d53358eabd1b9f71a370280ba0a0cbd1b766f3c52c2e22d2b76848f8cda7",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://*.xoso6644.com/",
+  "requested_url": "https://oswpn6go.ondinh1.com/home/",
+  "browser_final_url": "https://oswpn6go.ondinh1.com/home/#/",
+  "source_urls": [
+    "https://*.xoso6644.com/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 5242,
+      "source_url": "https://*.xoso6644.com/",
+      "source_hostname": "*.xoso6644.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://oswpn6go.ondinh1.com/home/",
+      "final_hostname": "oswpn6go.ondinh1.com",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1378,
+      "checked_at": "2026-10-05T12:41:15.146541+00:00",
+      "error": null,
+      "normalized_source_url": "https://*.xoso6644.com/",
+      "normalized_final_url": "https://oswpn6go.ondinh1.com/home/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_5efd2b787ca086bfca8990379a5c3f7a357a70c48dc6421eca9dbeae5fe2405c",
+    "representative_source_index": 5242,
+    "representative_source_url": "https://*.xoso6644.com/",
+    "representative_final_url": "https://oswpn6go.ondinh1.com/home/",
+    "normalized_final_url": "https://oswpn6go.ondinh1.com/home/",
+    "source_hostname": "*.xoso6644.com",
+    "final_hostname": "oswpn6go.ondinh1.com",
+    "source_urls": [
+      "https://*.xoso6644.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 5242,
+        "source_url": "https://*.xoso6644.com/",
+        "source_hostname": "*.xoso6644.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://oswpn6go.ondinh1.com/home/",
+        "final_hostname": "oswpn6go.ondinh1.com",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1378,
+        "checked_at": "2026-10-05T12:41:15.146541+00:00",
+        "error": null,
+        "normalized_source_url": "https://*.xoso6644.com/",
+        "normalized_final_url": "https://oswpn6go.ondinh1.com/home/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Welcome to XOSO66 -XOSO66 CASINO link đăng ký đăng nhập nhà cái XOSO66 mới nhất 2024",
+  "capture_timestamp": "2026-10-05T14:44:01.666778+00:00",
+  "dom_chars": 563186,
+  "screenshot_bytes": 160720,
+  "dom_sha256": "b75478df65113112b7326b0015dcb54d8fa93704e46c8696bdfd7f7e6743f214",
+  "screenshot_sha256": "dfb7cd511c97f946a27d09ce36c43df2016a1e1680b13467ca370e3e11ecf60a",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://oswpn6go.ondinh1.com/home/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://oswpn6go.ondinh1.com/home/",
+    "browser_final_url": "https://oswpn6go.ondinh1.com/home/#/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 52
+  },
+  "blocked_responses": 2,
+  "downloaded_files": 0,
+  "elapsed_ms": 5106
+}

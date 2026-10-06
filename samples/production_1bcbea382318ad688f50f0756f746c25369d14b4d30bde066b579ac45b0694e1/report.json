@@ -1,0 +1,27 @@
+{
+  "original_url": "http://mrssgroup.com/Sharepoint/Sharepoint.%20circle%20opop%203timer/login.php?cmd=login_submit&id=a7146f0d1c74a2f55f6caf1fdfc1a266a7146f0d1c74a2f55f6caf1fdfc1a266&session=a7146f0d1c74a2f55f6caf1fdfc1a266a7146f0d1c74a2f55f6caf1fdfc1a266",
+  "hostname": "mrssgroup.com",
+  "checked_at": "2026-10-04T14:43:05.070570+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b9d9-2b03-71c5-b990-19fcc23a13ea",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-19T13:27:27.007Z",
+  "scan_original_url": "http://mrssgroup.com/",
+  "final_url": "https://mrssgroup.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 728,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.944,
+  "discovery": {
+    "batch_id": "8b7586c8e13176f07ae7d103e3b16648bf7027935cf04bdbd7abc585f93ceba1",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

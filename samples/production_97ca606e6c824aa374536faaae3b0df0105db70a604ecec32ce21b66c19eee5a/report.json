@@ -1,0 +1,27 @@
+{
+  "original_url": "http://amazon.ld385r.cn/amazc/load?v=fb1619134",
+  "hostname": "amazon.ld385r.cn",
+  "checked_at": "2026-10-04T14:03:44.386257+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 3,
+  "selected_scan_uuid": "019fe983-0403-77d2-b9ee-a99c113ed69e",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-08-10T02:31:53.483Z",
+  "scan_original_url": "http://amazon.ld385r.cn/amazc/load?v=fb1619416",
+  "final_url": "http://ww17.amazon.ld385r.cn/amazc/load?v=fb1619416",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 44,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 21.64,
+  "discovery": {
+    "batch_id": "9b3a3645f7000e1fd0bfc65fb0265a8ac2179609ba4f1655c209c1d20e931c45",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

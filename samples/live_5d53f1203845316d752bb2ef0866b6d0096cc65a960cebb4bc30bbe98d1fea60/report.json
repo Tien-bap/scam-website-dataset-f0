@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_5d53f1203845316d752bb2ef0866b6d0096cc65a960cebb4bc30bbe98d1fea60",
+  "candidate_sha256": "404cd13f4fbf0954b4534dde40141d9d2454b3e10cdc476a4c7e810f7b86b021",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://assaablloy.com/",
+  "requested_url": "https://www.assaablloy.com/",
+  "browser_final_url": "https://www.assaablloy.com/",
+  "source_urls": [
+    "http://assaablloy.com/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 96265,
+      "source_url": "http://assaablloy.com/",
+      "source_hostname": "assaablloy.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.assaablloy.com/",
+      "final_hostname": "www.assaablloy.com",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 2963,
+      "elapsed_ms": 3502,
+      "checked_at": "2026-10-05T13:15:51.723099+00:00",
+      "error": null,
+      "normalized_source_url": "http://assaablloy.com/",
+      "normalized_final_url": "https://www.assaablloy.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_5d53f1203845316d752bb2ef0866b6d0096cc65a960cebb4bc30bbe98d1fea60",
+    "representative_source_index": 96265,
+    "representative_source_url": "http://assaablloy.com/",
+    "representative_final_url": "https://www.assaablloy.com/",
+    "normalized_final_url": "https://www.assaablloy.com/",
+    "source_hostname": "assaablloy.com",
+    "final_hostname": "www.assaablloy.com",
+    "source_urls": [
+      "http://assaablloy.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 96265,
+        "source_url": "http://assaablloy.com/",
+        "source_hostname": "assaablloy.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.assaablloy.com/",
+        "final_hostname": "www.assaablloy.com",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 2963,
+        "elapsed_ms": 3502,
+        "checked_at": "2026-10-05T13:15:51.723099+00:00",
+        "error": null,
+        "normalized_source_url": "http://assaablloy.com/",
+        "normalized_final_url": "https://www.assaablloy.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "assaablloy.com is registered at Namecheap",
+  "capture_timestamp": "2026-10-05T14:43:52.040232+00:00",
+  "dom_chars": 4941,
+  "screenshot_bytes": 299310,
+  "dom_sha256": "05307f9dacd13edc8af208d736a27d0f80ee3ff1bba8d63cb57003bf0391f53b",
+  "screenshot_sha256": "9e8c653a1a839b39ff7c46fd65970820ed5da08cd5f21aac6d2137f42ad6c392",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.assaablloy.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.assaablloy.com/",
+    "browser_final_url": "https://www.assaablloy.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5305
+}

@@ -1,0 +1,564 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>好体育 - 多语言在线娱乐平台</title>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@600;700&amp;display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+        }
+        
+        body {
+            background-color: #fff4d4;
+            color: #000000; /* 字体颜色加深 */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            position: relative;
+            width: 100%;
+            max-width: 1050px;
+            background: #ffffff;
+            border-radius: 20px;
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
+            display: flex;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        /* ------------------ PC端内容放大0.3倍 (1.3x) 并保持自适应 ------------------ */
+        @media (min-width: 769px) {
+            .container {
+                max-width: 1365px; /* 1050px * 1.3 */
+                border-radius: 26px;
+            }
+
+            .triangle-ribbon {
+                width: 156px !important; /* 120px * 1.3 */
+                height: 156px !important;
+            }
+
+            .logo-box {
+                top: 16px !important;
+                left: 16px !important;
+                gap: 5px !important;
+            }
+
+            .logo-icon {
+                font-size: 26px !important;
+            }
+
+            .logo-title {
+                font-size: 20px !important;
+            }
+
+            .sub-domain {
+                font-size: 12px !important;
+            }
+
+            .content-box {
+                padding: 72px 52px 52px 52px !important;
+            }
+
+            h1 {
+                font-size: 31px !important; /* 24px * 1.3 */
+                margin-bottom: 23px !important;
+                padding-top: 13px !important;
+                padding-left: 26px !important;
+            }
+
+            .sub-text {
+                font-size: 18px !important; /* 14px * 1.3 */
+                margin-bottom: 28px !important;
+            }
+
+            .sub-text p {
+                margin-bottom: 13px !important;
+            }
+
+            .sub-text p[style*="font-size: 15px"] {
+                font-size: 20px !important; /* 15px * 1.3 */
+            }
+
+            .tag-item {
+                font-size: 17px !important; /* 13px * 1.3 */
+                padding: 6px 16px !important;
+                border-radius: 21px !important;
+            }
+
+            .btn {
+                padding: 16px 31px !important;
+                font-size: 20px !important;
+                border-radius: 28px !important;
+            }
+
+            .btn-group {
+                gap: 16px !important;
+                margin-top: 7px !important;
+            }
+        }
+
+        /* ------------------ 左上角黄色斜角 ------------------ */
+        .triangle-ribbon {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 120px;
+            height: 120px;
+            background: linear-gradient(135deg, #ffbc00 50%, transparent 50%);
+            z-index: 10;
+            pointer-events: none;
+        }
+
+        .logo-box {
+            position: absolute;
+            top: 12px;
+            left: 12px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            color: #000000;
+            pointer-events: auto;
+        }
+
+        .logo-icon {
+            font-family: 'Fredoka', 'Arial Black', sans-serif;
+            font-size: 20px;
+            font-weight: 700;
+            font-style: italic;
+            color: #000000;
+            line-height: 1;
+        }
+
+        .logo-text-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .logo-title {
+            font-size: 15px;
+            font-weight: 900;
+            letter-spacing: 0.5px;
+            color: #000000;
+            transform: skewX(-4deg);
+            display: inline-block;
+            line-height: 1.1;
+        }
+
+        .sub-domain {
+            font-size: 9px;
+            font-weight: 800;
+            color: #111111;
+            letter-spacing: 0.3px;
+        }
+
+        .content-box {
+            flex: 1.15;
+            padding: 55px 40px 40px 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        h1 {
+            font-size: 24px;
+            color: #000000; /* 字体加深 */
+            margin-bottom: 18px;
+            line-height: 1.4;
+            font-weight: 900;
+            letter-spacing: -0.2px;
+            padding-top: 10px;
+            padding-left: 20px;
+        }
+
+        .sub-text {
+            font-size: 14px;
+            color: #111111; /* 字体加深 */
+            line-height: 1.8;
+            margin-bottom: 22px;
+            font-weight: 600;
+        }
+
+        .sub-text p {
+            margin-bottom: 10px;
+        }
+
+        /* ------------------ 标签组与快节奏突出动画 ------------------ */
+        .tags-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 8px;
+            margin-bottom: 16px;
+        }
+
+        .tag-item {
+            display: inline-flex;
+            align-items: center;
+            background: #fff3c4;
+            color: #000000; /* 加深文字 */
+            border: 1.5px solid #ffa000;
+            padding: 5px 12px;
+            border-radius: 16px;
+            font-size: 13px;
+            font-weight: 800;
+            box-shadow: 0 2px 6px rgba(255, 160, 0, 0.2);
+            will-change: transform, filter, box-shadow;
+            /* 快节奏复合动画：心跳 + 闪烁 + 轮流跳动 */
+            animation: tagAnimation 1.2s infinite ease-in-out;
+        }
+
+        /* 标签动画：心跳 + 跳动 + 高亮闪烁 */
+        @keyframes tagAnimation {
+            0%, 100% {
+                transform: translateY(0) scale(1);
+                filter: brightness(1);
+                box-shadow: 0 2px 6px rgba(255, 160, 0, 0.2);
+            }
+            15% {
+                transform: translateY(-6px) scale(1.18); /* 心跳突起放大 */
+                background-color: #ffea00;
+                color: #000000;
+                filter: brightness(1.25); /* 闪烁高亮 */
+                box-shadow: 0 8px 16px rgba(255, 160, 0, 0.5);
+            }
+            30% {
+                transform: translateY(0) scale(1);
+                filter: brightness(1);
+            }
+            45% {
+                transform: translateY(-3px) scale(1.08); /* 辅助二次微跳 */
+                filter: brightness(1.12);
+            }
+        }
+
+        /* 依次延迟实现“轮流跳动”流水效果 */
+        .tag-item:nth-child(1) { animation-delay: 0s; }
+        .tag-item:nth-child(2) { animation-delay: 0.15s; }
+        .tag-item:nth-child(3) { animation-delay: 0.30s; }
+        .tag-item:nth-child(4) { animation-delay: 0.45s; }
+        .tag-item:nth-child(5) { animation-delay: 0.60s; }
+        .tag-item:nth-child(6) { animation-delay: 0.75s; }
+        .tag-item:nth-child(7) { animation-delay: 0.90s; }
+
+        .highlight-text {
+            color: #b35900; /* 加深橙黄强调色 */
+            font-weight: 900;
+        }
+
+        .btn-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 5px;
+        }
+
+        @keyframes heartbeat {
+            0% { transform: scale(1); }
+            14% { transform: scale(1.08); }
+            28% { transform: scale(1); }
+            42% { transform: scale(1.05); }
+            70%, 100% { transform: scale(1); }
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 12px 24px;
+            font-size: 15px;
+            font-weight: 800;
+            border-radius: 22px;
+            text-decoration: none;
+            transition: background-color 0.2s ease, box-shadow 0.2s ease;
+            cursor: pointer;
+            animation: heartbeat 3s infinite ease-in-out;
+            will-change: transform;
+            text-align: center;
+        }
+
+        .btn-group .btn:nth-child(1) { animation-delay: 0s; }
+        .btn-group .btn:nth-child(2) { animation-delay: 0.6s; }
+        .btn-group .btn:nth-child(3) { animation-delay: 1.2s; }
+        .btn-group .btn:nth-child(4) { animation-delay: 1.8s; }
+
+        .btn:hover {
+            animation-play-state: paused;
+            transform: scale(1.06) !important;
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+        }
+
+        .btn-yellow {
+            background-color: #ffbc00;
+            color: #000000; /* 加深按钮文字 */
+            border: none;
+        }
+
+        .btn-yellow:hover {
+            background-color: #f0b000;
+        }
+
+        .btn-white {
+            background-color: #e2e5ec;
+            color: #000000; /* 加深按钮文字 */
+            border: none;
+        }
+
+        .btn-white:hover {
+            background-color: #d0d4dc;
+        }
+
+        .image-box {
+            flex: 0.85;
+            background-color: #fff9eb;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .image-box picture, .image-box img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* ------------------ H5 移动端适配 ------------------ */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                flex-direction: column;
+                border-radius: 16px;
+            }
+
+            .triangle-ribbon {
+                width: 90px;
+                height: 90px;
+            }
+
+            .logo-box {
+                top: 8px;
+                left: 8px;
+            }
+
+            .logo-title {
+                font-size: 13px;
+            }
+
+            .logo-icon {
+                font-size: 16px;
+            }
+
+            .content-box {
+                padding: 35px 18px 24px 18px;
+            }
+
+            h1 {
+                font-size: 18px;
+                margin-bottom: 12px;
+                line-height: 1.35;
+                padding-top: 15px;
+                padding-left: 20px;
+            }
+
+            .sub-text {
+                font-size: 13px;
+                line-height: 1.65;
+                margin-bottom: 16px;
+            }
+
+            .tags-container {
+                gap: 6px;
+            }
+
+            .tag-item {
+                font-size: 12px;
+                padding: 4px 10px;
+                border-radius: 12px;
+            }
+
+            .btn-group {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 10px;
+            }
+
+            .btn-group .btn:nth-child(1) { background-color: #ffbc00; color: #000000; }
+            .btn-group .btn:nth-child(2) { background-color: #e2e5ec; color: #000000; }
+            .btn-group .btn:nth-child(3) { background-color: #e2e5ec; color: #000000; }
+            .btn-group .btn:nth-child(4) { background-color: #ffbc00; color: #000000; }
+
+            .btn {
+                width: 100%;
+                padding: 12px 6px;
+                font-size: 14px;
+                border-radius: 18px;
+            }
+
+            .image-box {
+                width: 100%;
+                height: 200px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="triangle-ribbon">
+            <div class="logo-box">
+                <span class="logo-icon">h</span>
+                <div class="logo-text-group">
+                    <span class="logo-title">好体育</span>
+                    <span class="sub-domain">国际平台</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-box">
+            <h1 data-i18n="title">The first online gaming platform supporting multi-languages and multi-currencies</h1>
+            
+            <div class="sub-text">
+                <p data-i18n="p1_title">Featured Entertainment Categories:</p>
+                
+                <div class="tags-container" id="tagsContainer">
+                    <span class="tag-item" data-i18n-tag="t1">Live Casino</span>
+                    <span class="tag-item" data-i18n-tag="t2">Card Games</span>
+                    <span class="tag-item" data-i18n-tag="t3">Lottery</span>
+                    <span class="tag-item" data-i18n-tag="t4">Sports</span>
+                    <span class="tag-item" data-i18n-tag="t5">E-Sports</span>
+                    <span class="tag-item" data-i18n-tag="t6">Slots</span>
+                    <span class="tag-item" data-i18n-tag="t7">Fishing Games</span>
+                </div>
+
+                <p data-i18n="p2">We support deposits/withdrawals in multiple languages, currencies, and cryptocurrencies.</p>
+                <p data-i18n="p3" class="highlight-text">Stable operation for 32 years • Fair &amp; Just • Safe &amp; Secure Funds</p>
+                <p data-i18n="p4" style="font-weight: 900; font-size: 15px; margin-top: 10px; color: #000000;">HTY Sports Welcomes You</p>
+            </div>
+
+            <div class="btn-group">
+                <a href="https://39263.app/registered" target="_blank" class="btn btn-yellow" data-i18n="btnRegister">Register Now</a>
+                <a href="https://39263.app/promotion" target="_blank" class="btn btn-white" data-i18n="btnPromo">Promotions</a>
+                <a href="https://39263.app/mine" target="_blank" class="btn btn-yellow" data-i18n="btnLogin">Log In Now</a>
+                <a href="https://39263.app/login" target="_blank" class="btn btn-white" data-i18n="btnChat">Member Chat</a>
+            </div>
+        </div>
+
+        <div class="image-box">
+            <picture>
+                <source media="(max-width: 768px)" srcset="/huodong.png">
+                <img src="/hty.webp" alt="好体育" onerror="this.style.display='none'">
+            </picture>
+        </div>
+    </div>
+
+    <script>
+        const translations = {
+            'zh-CN': {
+                title: "全网首家支持多语种和多币种的在线娱乐平台",
+                p1_title: "平台涵盖了以下娱乐项目：",
+                tags: ["真人视讯", "棋牌游戏", "彩票", "体育赛事", "电子竞技", "老虎机", "捕鱼游戏"],
+                p2: "我们支持多种语言和不同货币以及虚拟货币的出入金，您可在平台页面自由选择切换",
+                p3: "平台已稳定运行32年 公平公正 资金安全稳定",
+                p4: "好体育 欢迎您加入",
+                btnRegister: "立即注册",
+                btnPromo: "优惠活动",
+                btnLogin: "立即登录",
+                btnChat: "会员聊天室"
+            },
+            'zh-TW': {
+                title: "全網首家支持多語種和多幣種的在線娛樂平台",
+                p1_title: "平台涵蓋了以下娛樂項目：",
+                tags: ["真人視訊", "棋牌遊戲", "彩票", "體育賽事", "電子競技", "老虎機", "捕魚遊戲"],
+                p2: "我們支持多種語言和不同貨幣以及虛擬貨幣的出入金，您可在平台頁面自由選擇切換",
+                p3: "平台已穩定運行32年 公平公正 資金安全穩定",
+                p4: "好體育 歡迎您加入",
+                btnRegister: "立即註冊",
+                btnPromo: "優惠活動",
+                btnLogin: "立即登錄",
+                btnChat: "會員聊天室"
+            },
+            'en': {
+                title: "The first online gaming platform supporting multi-languages and multi-currencies",
+                p1_title: "Featured Entertainment Categories:",
+                tags: ["Live Casino", "Card Games", "Lottery", "Sports", "E-Sports", "Slots", "Fishing Games"],
+                p2: "We support deposits/withdrawals in multiple languages, currencies, and cryptocurrencies.",
+                p3: "Stable operation for 32 years • Fair & Just • Safe & Secure Funds",
+                p4: "HTY Sports Welcomes You",
+                btnRegister: "Register Now",
+                btnPromo: "Promotions",
+                btnLogin: "Log In Now",
+                btnChat: "Member Chat"
+            },
+            'vi': {
+                title: "Nền tảng giải trí trực tuyến đầu tiên hỗ trợ đa ngôn ngữ và đa tiền tệ",
+                p1_title: "Các danh mục giải trí bao gồm:",
+                tags: ["Casino trực tuyến", "Game bài", "Xổ số", "Thể thao", "Esports", "Nổ hũ", "Bắn cá"],
+                p2: "Hỗ trợ nạp rút tiền bằng nhiều ngôn ngữ, tiền tệ và tiền điện tử.",
+                p3: "Hoạt động ổn định 32 năm • Công bằng • An toàn vốn",
+                p4: "HTY Thể Thao Chào Mừng Bạn",
+                btnRegister: "Đăng ký ngay",
+                btnPromo: "Khuyến mãi",
+                btnLogin: "Đăng nhập ngay",
+                btnChat: "Phòng chat"
+            }
+        };
+
+        const DEFAULT_LANG = 'en';
+
+        function getPreferredLanguage() {
+            const languages = navigator.languages || [navigator.language || navigator.userLanguage];
+            for (let lang of languages) {
+                if (!lang) continue;
+                const fullCode = lang.toLowerCase();
+                const mainCode = fullCode.split('-')[0];
+
+                for (let key in translations) {
+                    if (key.toLowerCase() === fullCode) return key;
+                }
+                for (let key in translations) {
+                    if (key.toLowerCase() === mainCode) return key;
+                }
+            }
+            return DEFAULT_LANG;
+        }
+
+        function applyLanguage(lang) {
+            document.documentElement.lang = lang;
+            
+            const elements = document.querySelectorAll('[data-i18n]');
+            elements.forEach(element => {
+                const key = element.getAttribute('data-i18n');
+                if (translations[lang] && translations[lang][key]) {
+                    element.innerText = translations[lang][key];
+                } else {
+                    element.innerText = translations[DEFAULT_LANG][key];
+                }
+            });
+
+            const tagElements = document.querySelectorAll('[data-i18n-tag]');
+            const langTags = (translations[lang] && translations[lang].tags) ? translations[lang].tags : translations[DEFAULT_LANG].tags;
+            tagElements.forEach((el, index) => {
+                if (langTags[index]) {
+                    el.innerText = langTags[index];
+                }
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const currentLang = getPreferredLanguage();
+            applyLanguage(currentLang);
+        });
+    </script>
+
+</body></html>

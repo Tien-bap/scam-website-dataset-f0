@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.thefueldelivery.com/point/Priv8/Priv8/",
+  "hostname": "www.thefueldelivery.com",
+  "checked_at": "2026-10-04T14:50:40.683004+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 7,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e687-4624-704d-a61a-3534b78b6a4b",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-28T05:40:30.318Z",
+  "scan_original_url": "http://thefueldelivery.com/",
+  "final_url": "https://www.thefueldelivery.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3402,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.295,
+  "discovery": {
+    "batch_id": "fb31cd0cf1126c99301afcbfdf1f68f90c02c66a4a1d723b18e401c851de0d91",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

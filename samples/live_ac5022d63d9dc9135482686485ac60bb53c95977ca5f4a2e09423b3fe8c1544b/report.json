@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_ac5022d63d9dc9135482686485ac60bb53c95977ca5f4a2e09423b3fe8c1544b",
+  "candidate_sha256": "104a0de83f2dcd11d1c2e29d7239d35eeaa4023d1f7695a5aff220374aeea567",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://m.yocvn.com",
+  "requested_url": "https://m.yocvn.com",
+  "browser_final_url": "https://m.yocvn.com/#/home",
+  "source_urls": [
+    "https://m.yocvn.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2917,
+      "source_url": "https://m.yocvn.com",
+      "source_hostname": "m.yocvn.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://m.yocvn.com",
+      "final_hostname": "m.yocvn.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 3553,
+      "elapsed_ms": 2419,
+      "checked_at": "2026-10-05T12:40:45.211055+00:00",
+      "error": null,
+      "normalized_source_url": "https://m.yocvn.com/",
+      "normalized_final_url": "https://m.yocvn.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_ac5022d63d9dc9135482686485ac60bb53c95977ca5f4a2e09423b3fe8c1544b",
+    "representative_source_index": 2917,
+    "representative_source_url": "https://m.yocvn.com",
+    "representative_final_url": "https://m.yocvn.com",
+    "normalized_final_url": "https://m.yocvn.com/",
+    "source_hostname": "m.yocvn.com",
+    "final_hostname": "m.yocvn.com",
+    "source_urls": [
+      "https://m.yocvn.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 2917,
+        "source_url": "https://m.yocvn.com",
+        "source_hostname": "m.yocvn.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://m.yocvn.com",
+        "final_hostname": "m.yocvn.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 3553,
+        "elapsed_ms": 2419,
+        "checked_at": "2026-10-05T12:40:45.211055+00:00",
+        "error": null,
+        "normalized_source_url": "https://m.yocvn.com/",
+        "normalized_final_url": "https://m.yocvn.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Trang chủ",
+  "capture_timestamp": "2026-10-05T14:52:24.212578+00:00",
+  "dom_chars": 28529,
+  "screenshot_bytes": 67448,
+  "dom_sha256": "0890bc2cbef4aed1182a304c49037ec0e351db21293766a1687ac500b5b1a146",
+  "screenshot_sha256": "9dab151952a70321e5ff74f3fc3b9bad1fa35c6f77b54965cec72f7645b35b09",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://m.yocvn.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://m.yocvn.com",
+    "browser_final_url": "https://m.yocvn.com/#/home",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2513
+}

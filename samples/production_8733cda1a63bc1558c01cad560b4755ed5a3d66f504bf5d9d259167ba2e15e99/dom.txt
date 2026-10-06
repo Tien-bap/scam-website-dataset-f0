@@ -1,0 +1,1149 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Guekiptv | Premium IPTV Anbieter in Deutschland - Live TV &amp; 4K Streams</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="./images/favicon.png" type="image/png">
+<script type="application/ld+json">[
+  {
+    "@context": "https://schema.org",
+    "@type": ["Organization", "LocalBusiness"],
+    "name": "Guekiptv",
+    "url": "https://guekiptv.shop/",
+    "logo": "https://guekiptv.shop/images/logo.png",
+    "image": "https://guekiptv.shop/images/logo.png",
+    "description": "Guekiptv ist der führende IPTV-Abonnement-Anbieter für Deutschland, die Türkei und die USA. Erleben Sie stabiles Streaming mit 35.000+ Kanälen und 179.000+ VOD-Inhalten ohne Pufferung.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "DE"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "telephone": "+12393109171",
+      "email": "support@guekiptv.shop",
+      "availableLanguage": ["German", "Turkish", "English"],
+      "url": "https://wa.me/12393109171?text=Kostenlose%2024-Stunden-Testversion%20guekiptv"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "243",
+      "bestRating": "5"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Guekiptv",
+    "url": "https://guekiptv.shop/",
+    "inLanguage": "de-DE"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "name": ["Home","Preise","Funktionen","Installationsanleitung","Bewertungen","FAQ","Kontakt","Über uns"],
+    "url": [
+      "https://guekiptv.shop/",
+      "https://guekiptv.shop/preise/",
+      "https://guekiptv.shop/funktionen/",
+      "https://guekiptv.shop/installationsanleitung/",
+      "https://guekiptv.shop/bewertungen/",
+      "https://guekiptv.shop/faq/",
+      "https://guekiptv.shop/kontakt/",
+      "https://guekiptv.shop/ueber-uns/"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Guekiptv IPTV Abonnement",
+    "brand": {"@type": "Brand", "name": "Guekiptv"},
+    "description": "Erhalten Sie Zugriff auf über 35.000 Live-TV-Sender und 179.000+ Filme & Serien in 4K/UHD-Qualität mit 99,99% Serverstabilität.",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "243",
+      "bestRating": "5"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "12.00",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://guekiptv.shop/preise/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://guekiptv.shop/"}
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Home",
+    "description": "Premium IPTV Anbieter in Deutschland. Streamen Sie über 35.000 Kanäle, Sport-Live-Übertragungen & Filme in Ultra HD. Jetzt kostenlos testen!",
+    "url": "https://guekiptv.shop/",
+    "inLanguage": "de-DE"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Was ist Guekiptv und wie funktioniert es?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Guekiptv ist ein Premium-IPTV-Dienst, der Ihnen über Ihre Internetverbindung Zugang zu über 35.000 Live-TV-Sendern und 179.000+ Videos-on-Demand (Filme und Serien) auf allen gängigen Geräten bietet."}
+      },
+      {
+        "@type": "Question",
+        "name": "Welche Geräte werden von Guekiptv unterstützt?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Wir unterstützen alle gängigen Endgeräte: Amazon Firestick & Fire TV, Android Smart-Geräte, Samsung & LG Smart-TVs, Apple iOS & Apple TV, Windows/macOS Computer sowie MAG- & Enigma2-Receiver."}
+      },
+      {
+        "@type": "Question",
+        "name": "Bieten Sie eine Geld-zurück-Garantie an?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Ja, wir stehen hinter der Qualität unserer Server. Wir bieten eine volle 7 Tage Geld-zurück-Garantie, falls Sie mit dem Dienst nicht vollkommen zufrieden sein sollten."}
+      }
+    ]
+  }
+]</script>
+    <meta name="description" content="Guekiptv ist der beste IPTV-Anbieter für stabiles Streaming in Deutschland, der Türkei &amp; den USA. Genießen Sie 35.000+ Live-Sender und 179.000+ Filme &amp; Serien in HD/4K ohne Ruckeln.">
+    <meta name="keywords" content="guekiptv, guek iptv, iptv guek, Bestes IPTV Abonnement, IPTV Deutschland, IPTV kaufen, IPTV Server">
+    <link rel="canonical" href="https://guekiptv.shop/">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Guekiptv">
+    <meta name="publisher" content="Guekiptv">
+    <meta name="language" content="German">
+    <meta name="revisit-after" content="7 days">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Guekiptv | Premium IPTV Anbieter in Deutschland - Live TV &amp; VOD">
+    <meta property="og:description" content="Streamen Sie über 35.000 internationale Live-Sender und 179.000+ Filme &amp; Serien in 4K/UHD ohne Pufferung.">
+    <meta property="og:url" content="https://guekiptv.shop/">
+    <meta property="og:image" content="https://guekiptv.shop/images/logo.png">
+    <meta name="twitter:card" content="summary_large_image">
+</head><body>
+    <!-- Urgency Limited-Time Offer Banner -->
+    <div class="urgency-banner">
+        ⚡ BEGRENZTES ANGEBOT: Sichern Sie sich 12 Monate Guekiptv IPTV-Abonnement mit +1 Monat gratis! <span>Nur für kurze Zeit</span>
+    </div>
+
+    <!-- Header Navigation -->
+    <header class="header">
+        <div class="header__container">
+            <a href="./" class="logo" title="Guekiptv Startseite - Bester Premium IPTV Anbieter">
+                <img src="./images/logo.png" alt="Guekiptv Flaggen-Logo - Premium Streaming Deutschland" width="36" height="36">
+                <span>guekiptv</span>
+            </a>
+            
+            <nav class="header__nav">
+                <ul class="header__nav-list">
+                    <li class="header__nav-item"><a href="./" title="Gehe zur Guekiptv Startseite">Home</a></li>
+                    <li class="header__nav-item"><a href="./preise/" title="Sehen Sie sich die IPTV-Preise und Pakete an">Preise</a></li>
+                    <li class="header__nav-item"><a href="./funktionen/" title="Entdecken Sie unsere stabilen IPTV-Funktionen und Kanallisten">Funktionen</a></li>
+                    <li class="header__nav-item"><a href="./installationsanleitung/" title="Detaillierte Schritt-für-Schritt Installationsanleitungen für IPTV">Installationsanleitung</a></li>
+                    <li class="header__nav-item"><a href="./bewertungen/" title="Erfahrungsberichte von echten Guekiptv Kunden lesen">Bewertungen</a></li>
+                    <li class="header__nav-item"><a href="./faq/" title="Antworten auf häufig gestellte Fragen zu unserem IPTV-Service">FAQ</a></li>
+                    <li class="header__nav-item"><a href="./kontakt/" title="Kontaktieren Sie den technischen Kundenservice per E-Mail oder WhatsApp">Kontakt</a></li>
+                    <li class="header__nav-item"><a href="./ueber-uns/" title="Erfahren Sie mehr über unsere Server-Infrastruktur und unser Team">Über uns</a></li>
+                </ul>
+            </nav>
+            
+            <a href="https://wa.me/12393109171?text=Kostenlose%2024-Stunden-Testversion%20guekiptv" class="header__cta" title="Fordern Sie noch heute Ihre 24-Stunden-Testversion an" target="_blank">Jetzt starten</a>
+            
+            <button class="header__toggle" id="mobileToggle" aria-label="Navigationsmenü umschalten">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- SECTION_1 HERO -->
+    <section class="section--dark" style="padding: 5px 16px 60px 16px;">
+        <div class="hero">
+            <div class="hero__content">
+                <div class="hero__trust-badge">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"></path></svg>
+                    Vertraut von mehr als 50.000 zufriedenen Kunden
+                </div>
+                <h1 class="hero__title">Sehen Sie Ihre Lieblingsinhalte ohne Einschränkungen mit Guekiptv</h1>
+                <p class="hero__subheadline">
+                    Schnelle Installation, stabile Serververbindungen und blitzschneller Zugriff auf allen Ihren Geräten. Genießen Sie über 35.000 Live-Sender und 179.000+ Filme &amp; Serien in echer 4K-Auflösung ohne lästige Pufferung.
+                </p>
+                <div class="hero__provocative-badge">
+                    Günstiges IPTV kostet weniger… bis es nicht mehr funktioniert. Sichern Sie sich die zuverlässige Qualität für 59 € (Preis für 12 Monate).
+                </div>
+                <div class="hero__ctas">
+                    <a href="#pricing" class="btn btn--primary" title="Scrolle runter zu den Guekiptv Preispaketen">Starten Sie heute</a>
+                    <a href="#pricing" class="btn btn--secondary" title="Unsere IPTV Abonnements ansehen">Pakete ansehen</a>
+                    <span class="hero__pricing-badge">
+                        Sparen Sie 35% mit einem Jahresabonnement
+                    </span>
+                </div>
+            </div>
+            
+            <!-- Hot Player UI Visual Mockup -->
+            <div class="tv-container">
+                <div class="tv-content">
+                    <!-- Header -->
+                    <div class="tv-header">
+                        <div class="tv-logo-area">
+                            <div class="tv-logo">
+                                <svg viewBox="0 0 24 24" fill="currentColor" class="tv-logo-icon"><path d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67zM11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58.39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z"></path></svg>
+                                <span class="tv-logo-text">Hot <strong>Player</strong></span>
+                            </div>
+                            <span class="tv-version">Version 1.2.2</span>
+                        </div>
+                        <div class="tv-sub-status">
+                            <div class="status-pill">
+                                <span class="status-active">
+                                    <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"></path></svg>
+                                    Aktiv
+                                </span>
+                                <span class="status-divider"></span>
+                                <span class="status-expire">
+                                    <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12v6l-4 4 4 4v6H6v-6l4-4-4-4V2zm10 14.5V20H8v-3.5l4-4 4 4z"></path></svg>
+                                    Läuft am 03/12/2030 ab
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Main Grid -->
+                    <div class="tv-cards">
+                        <div class="tv-card active">
+                            <div class="tv-card-icon">
+                                <img src="./images/hotplayer/icons8-tv-show-100.png" alt="Guekiptv Live TV Kanalliste Vorschau" width="100" height="100">
+                            </div>
+                            <span>Live TV</span>
+                        </div>
+                        <div class="tv-card">
+                            <div class="tv-card-icon">
+                                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"></path></svg>
+                            </div>
+                            <span>Filme</span>
+                        </div>
+                        <div class="tv-card">
+                            <div class="tv-card-icon">
+                                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 3v2h-2V3H8v2H6V3H4v18h2v-2h2v2h8v-2h2v2h2V3h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm10 8h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z"></path></svg>
+                            </div>
+                            <span>Serien</span>
+                        </div>
+                        <div class="tv-card">
+                            <div class="tv-card-icon">
+                                <img src="./images/hotplayer/icons8-radio-100.png" alt="Guekiptv Radio Sender Stream Vorschau" width="100" height="100">
+                            </div>
+                            <span>Radios</span>
+                        </div>
+                    </div>
+
+                    <!-- Footer Controls -->
+                    <div class="tv-footer">
+                        <div class="tv-icon-group">
+                            <button class="tv-icon-btn" aria-label="Einstellungen öffnen">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58c.18-.14.23-.41.12-.61l-1.92-3.32c-.12-.22-.37-.29-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54c-.04-.24-.24-.41-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96c-.22-.08-.47 0-.59.22L2.74 8.87c-.12.21-.08.47.12.61l2.03 1.58c-.05.3-.09.63-.09.94s.02.64.07.94l-2.03 1.58c-.18.14-.23.41-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32c.12-.22.07-.47-.12-.61l-2.01-1.58zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6z"></path></svg>
+                            </button>
+                            <button class="tv-icon-btn" aria-label="App-Informationen">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"></path></svg>
+                            </button>
+                            <button class="tv-icon-btn" aria-label="Gerät ausschalten">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M13 3h-2v10h2V3zm4.83 2.17l-1.42 1.42C17.99 7.86 19 9.81 19 12c0 3.87-3.13 7-7 7s-7-3.13-7-7c0-2.19 1.01-4.14 2.58-5.42L6.17 5.17C4.23 6.82 3 9.26 3 12c0 4.97 4.03 9 9 9s9-4.03 9-9c0-2.74-1.23-5.18-3.17-6.83z"></path></svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Partners Logo Scroller (Continuous Gallery Under Hero) -->
+    <div class="sub-hero-logos">
+        <div class="gallery-scroller">
+            <div class="gallery-track">
+                <!-- 15 WebP icons + 11 PNG icons -->
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon1.webp" alt="Guekiptv Partnersender Icon 1" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon2.webp" alt="Guekiptv Partnersender Icon 2" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon3.webp" alt="Guekiptv Partnersender Icon 3" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon4.webp" alt="Guekiptv Partnersender Icon 4" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon5.webp" alt="Guekiptv Partnersender Icon 5" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon6.webp" alt="Guekiptv Partnersender Icon 6" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon7.webp" alt="Guekiptv Partnersender Icon 7" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon8.webp" alt="Guekiptv Partnersender Icon 8" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon9.webp" alt="Guekiptv Partnersender Icon 9" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon10.webp" alt="Guekiptv Partnersender Icon 10" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon11.webp" alt="Guekiptv Partnersender Icon 11" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon12.webp" alt="Guekiptv Partnersender Icon 12" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon13.webp" alt="Guekiptv Partnersender Icon 13" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon14.webp" alt="Guekiptv Partnersender Icon 14" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon15.webp" alt="Guekiptv Partnersender Icon 15" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon1.png" alt="Guekiptv Partnersender Icon 16" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon2.png" alt="Guekiptv Partnersender Icon 17" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon3.png" alt="Guekiptv Partnersender Icon 18" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon4.png" alt="Guekiptv Partnersender Icon 19" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon5.png" alt="Guekiptv Partnersender Icon 20" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon6.png" alt="Guekiptv Partnersender Icon 21" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon7.png" alt="Guekiptv Partnersender Icon 22" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon8.png" alt="Guekiptv Partnersender Icon 23" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon9.png" alt="Guekiptv Partnersender Icon 24" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon10.png" alt="Guekiptv Partnersender Icon 25" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon11.png" alt="Guekiptv Partnersender Icon 26" loading="lazy"></div>
+                <!-- Duplicate for infinite scrolling effect -->
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon1.webp" alt="Guekiptv Partnersender Icon 1" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon2.webp" alt="Guekiptv Partnersender Icon 2" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon3.webp" alt="Guekiptv Partnersender Icon 3" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon4.webp" alt="Guekiptv Partnersender Icon 4" loading="lazy"></div>
+                <div class="gallery-item gallery-item--logo"><img src="./images/icon/icon5.webp" alt="Guekiptv Partnersender Icon 5" loading="lazy"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- SECTION_2 Movies -->
+    <section class="scroller-section section--charcoal">
+        <div class="scroller-header">
+            <h2>Die neuesten Blockbuster &amp; exklusiven Serien auf Guekiptv</h2>
+            <p>Greifen Sie auf unsere gigantische On-Demand-Bibliothek (VOD) mit über 179.000 wöchentlich aktualisierten Filmen &amp; Serien in UHD-Qualität zu.</p>
+        </div>
+        <div class="scroller-container">
+            <div class="gallery-scroller">
+                <div class="scroller-track--movies">
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/BHOLAA.webp" alt="Bholaa Film auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/deep Bleu Sea 3.webp" alt="Deep Blue Sea 3 Film auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/disenchanted.webp" alt="Disenchanted Film auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/game-of-thrones.webp" alt="Game of Thrones Serie auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/Salaam Venky.webp" alt="Salaam Venky Film auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/silo-1.webp" alt="Silo Serie auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/Teen WOlf.webp" alt="Teen Wolf Film auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/The Exorcist.webp" alt="The Exorcist Film auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/The Last Of us.webp" alt="The Last of Us Serie auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/thirteen-lives-movie-poster-6992.webp" alt="Thirteen Lives Film auf Guekiptv streamen" loading="lazy"></div>
+                    <!-- Duplicate for infinite scrolling -->
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/BHOLAA.webp" alt="Bholaa Film auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/deep Bleu Sea 3.webp" alt="Deep Blue Sea 3 Film auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/disenchanted.webp" alt="Disenchanted Film auf Guekiptv streamen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie"><img src="./images/Movies/game-of-thrones.webp" alt="Game of Thrones Serie auf Guekiptv streamen" loading="lazy"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION_3 SPORT -->
+    <section class="scroller-section section--dark">
+        <div class="scroller-header">
+            <h2>Erleben Sie alle weltweiten Sportevents live mit guek iptv</h2>
+            <p>Bundesliga, UEFA Champions League, Süper Lig, Premier League, Formel 1, MotoGP, NBA, NFL und exklusive PPV-Kämpfe in Full HD &amp; 4K.</p>
+        </div>
+        <div class="scroller-container">
+            <div class="gallery-scroller">
+                <div class="scroller-track--sports">
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport1.webp" alt="Live Sportübertragung auf Guekiptv 1" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport2.webp" alt="Live Sportübertragung auf Guekiptv 2" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport3.webp" alt="Live Sportübertragung auf Guekiptv 3" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport4.webp" alt="Live Sportübertragung auf Guekiptv 4" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport5.webp" alt="Live Sportübertragung auf Guekiptv 5" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport6.webp" alt="Live Sportübertragung auf Guekiptv 6" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport7.webp" alt="Live Sportübertragung auf Guekiptv 7" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport8.webp" alt="Live Sportübertragung auf Guekiptv 8" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport9.webp" alt="Live Sportübertragung auf Guekiptv 9" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport10.webp" alt="Live Sportübertragung auf Guekiptv 10" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport11.webp" alt="Live Sportübertragung auf Guekiptv 11" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport12.webp" alt="Live Sportübertragung auf Guekiptv 12" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport13.webp" alt="Live Sportübertragung auf Guekiptv 13" loading="lazy"></div>
+                    <!-- Duplicate for infinite scrolling -->
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport1.webp" alt="Live Sportübertragung auf Guekiptv 1" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport2.webp" alt="Live Sportübertragung auf Guekiptv 2" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--sport"><img src="./images/sport/sport3.webp" alt="Live Sportübertragung auf Guekiptv 3" loading="lazy"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION_4 Preview Images -->
+    <section class="scroller-section section--charcoal">
+        <div class="scroller-header">
+            <h2>Kristallklare IPTV App Benutzeroberfläche &amp; Dashboard</h2>
+            <p>Unsere Benutzeroberflächen bieten eine moderne und einfache Ordnerstruktur für Live-TV, EPG-Kanalführer, Filme und TV-Serien.</p>
+        </div>
+        <div class="scroller-container">
+            <div class="gallery-scroller">
+                <div class="scroller-track--movies">
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 1.webp" alt="Guekiptv App Dashboard Vorschau 1" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 2.webp" alt="Guekiptv App Dashboard Vorschau 2" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 3.webp" alt="Guekiptv App Dashboard Vorschau 3" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 4.webp" alt="Guekiptv App Dashboard Vorschau 4" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 5.webp" alt="Guekiptv App Dashboard Vorschau 5" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 6.webp" alt="Guekiptv App Dashboard Vorschau 6" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 7.webp" alt="Guekiptv App Dashboard Vorschau 7" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 8.webp" alt="Guekiptv App Dashboard Vorschau 8" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 9.webp" alt="Guekiptv App Dashboard Vorschau 9" loading="lazy"></div>
+                    <!-- Duplicate for infinite scrolling -->
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 1.webp" alt="Guekiptv App Dashboard Vorschau 1" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--movie" style="width: 260px; aspect-ratio: 16 / 9;"><img src="./images/Preview/Preview 2.webp" alt="Guekiptv App Dashboard Vorschau 2" loading="lazy"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION_5 compares table -->
+    <section class="section--dark">
+        <div class="container">
+            <div class="section-title-wrapper">
+                <h2>Vergleich: Guekiptv vs. Klassisches Kabelfernsehen</h2>
+                <p>Sehen Sie im direkten Vergleich, wie viel Geld und Freiheit Sie mit einem guekiptv Abonnement gegenüber teuren Kabelverträgen gewinnen.</p>
+            </div>
+            
+            <div class="comparison-table-wrapper">
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Vergleichsmerkmale</th>
+                            <th class="highlight-col">Guekiptv IPTV</th>
+                            <th>Kabel- &amp; Satelliten-TV</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Jährliche Kosten</td>
+                            <td class="highlight-col"><strong>€59.00/Jahr</strong></td>
+                            <td>€1.200+/Jahr</td>
+                        </tr>
+                        <tr>
+                            <td>Live-TV Kanäle</td>
+                            <td class="highlight-col"><strong>41.821+ Sender</strong></td>
+                            <td>200–500 Sender</td>
+                        </tr>
+                        <tr>
+                            <td>Filme &amp; Serien (VOD)</td>
+                            <td class="highlight-col"><strong>177.000+ On-Demand</strong></td>
+                            <td>Nur gegen teuren Aufpreis</td>
+                        </tr>
+                        <tr>
+                            <td>24/7 Kanäle</td>
+                            <td class="highlight-col"><strong>1.000+ Sender</strong></td>
+                            <td>Keine</td>
+                        </tr>
+                        <tr>
+                            <td>Kompletter Live-Sport</td>
+                            <td class="highlight-col"><strong>Inklusive (F1, Bundesliga, Ligen)</strong></td>
+                            <td>Nicht enthalten / Sehr teure Zusatzpakete</td>
+                        </tr>
+                        <tr>
+                            <td>Keine Vertragsbindung</td>
+                            <td class="highlight-col"><strong>Ja (Monatlich/Jährlich kündbar)</strong></td>
+                            <td>Nein (12-24 Monate Mindestlaufzeit)</td>
+                        </tr>
+                        <tr>
+                            <td>Streamen auf allen Geräten</td>
+                            <td class="highlight-col"><strong>Ja (Überall weltweit nutzbar)</strong></td>
+                            <td>Eingeschränkt (Nur über Receiver zu Hause)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION_6 PRICING -->
+    <section class="section--charcoal" id="pricing">
+        <div class="container">
+            <div class="section-title-wrapper">
+                <h2>Wählen Sie das passende Guekiptv Paket</h2>
+                <p>Genießen Sie grenzenlose Unterhaltung ohne lästige Verträge. Alle Pakete sind inklusive Support und einfacher Freischaltung.</p>
+            </div>
+            
+            <div class="pricing-grid">
+                <!-- 3 Monate -->
+                <div class="pricing-card">
+                    <h3 class="pricing-card__title">3 Monate Plan</h3>
+                    <div class="pricing-card__price-box">
+                        <span class="pricing-card__price">€25.00</span>
+                        <span class="pricing-card__equivalent">Ab €8.33 pro Monat</span>
+                    </div>
+                    <ul class="pricing-card__features">
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            35.000+ TV-Sender
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            179.000+ Filme &amp; Serien
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            SD/HD/FHD/4K/UHD Bildqualität
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            Anti-Buffering EU-Server (stabil)
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            99,99% Server-Stabilität
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            Replay TV &amp; EPG-GIDS
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            Alle Sportkanäle, Formel 1 &amp; Moto GP
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            7 Tage Geld-zurück-Garantie
+                        </li>
+                        <li class="pricing-card__feature-item disabled">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                            +1 Monat gratis
+                        </li>
+                    </ul>
+                    <a href="https://wa.me/12393109171?text=Hallo%20Guekiptv,%20ich%20moechte%20das%203-Monats-Paket%20fuer%2025%20Euro%20bestellen" class="btn btn--primary" title="Bestelle das 3 Monate IPTV Abonnement" target="_blank">Jetzt bestellen</a>
+                </div>
+                
+                <!-- 12 Monate -->
+                <div class="pricing-card pricing-card--popular">
+                    <span class="popular-tag">Bestseller</span>
+                    <h3 class="pricing-card__title">12 Monate Plan</h3>
+                    <div class="pricing-card__price-box">
+                        <span class="pricing-card__price">€59.00</span>
+                        <span class="pricing-card__equivalent">Ab €4.92 pro Monat</span>
+                    </div>
+                    <ul class="pricing-card__features">
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            35.000+ TV-Sender
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            179.000+ Filme &amp; Serien
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            SD/HD/FHD/4K/UHD Bildqualität
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            Anti-Buffering EU-Server (stabil)
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            99,99% Server-Stabilität
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            Replay TV &amp; EPG-GIDS
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            Alle Sportkanäle, Formel 1 &amp; Moto GP
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            7 Tage Geld-zurück-Garantie
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            <strong>+1 Monat gratis</strong>
+                        </li>
+                    </ul>
+                    <a href="https://wa.me/12393109171?text=Hallo%20Guekiptv,%20ich%20moechte%20das%2012-Monats-Paket%20fuer%2059%20Euro%20bestellen" class="btn btn--primary" title="Bestelle das 12 Monate IPTV Abonnement" target="_blank">Jetzt bestellen</a>
+                </div>
+                
+                <!-- 6 Monate -->
+                <div class="pricing-card">
+                    <h3 class="pricing-card__title">6 Monate Plan</h3>
+                    <div class="pricing-card__price-box">
+                        <span class="pricing-card__price">€39.00</span>
+                        <span class="pricing-card__equivalent">Ab €6.50 pro Monat</span>
+                    </div>
+                    <ul class="pricing-card__features">
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            35.000+ TV-Sender
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            179.000+ Filme &amp; Serien
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            SD/HD/FHD/4K/UHD Bildqualität
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            Anti-Buffering EU-Server (stabil)
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            99,99% Server-Stabilität
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            Replay TV &amp; EPG-GIDS
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            Alle Sportkanäle, Formel 1 &amp; Moto GP
+                        </li>
+                        <li class="pricing-card__feature-item">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                            7 Tage Geld-zurück-Garantie
+                        </li>
+                        <li class="pricing-card__feature-item disabled">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                            +1 Monat gratis
+                        </li>
+                    </ul>
+                    <a href="https://wa.me/12393109171?text=Hallo%20Guekiptv,%20ich%20moechte%20das%206-Monats-Paket%20fuer%2039%20Euro%20bestellen" class="btn btn--primary" title="Bestelle das 6 Monate IPTV Abonnement" target="_blank">Jetzt bestellen</a>
+                </div>
+            </div>
+
+            <!-- Horizontal 1 Month Plan -->
+            <div class="horizontal-plan">
+                <div class="horizontal-plan__info">
+                    <h3 class="horizontal-plan__title">1 Monat Test-Paket</h3>
+                    <p>Ideal, um die erstklassige Server-Stabilität und riesige Kanalauswahl flexibel zu testen.</p>
+                    <ul class="horizontal-plan__features-list">
+                        <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>35.000+ Sender</li>
+                        <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>179.000+ VODs</li>
+                        <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>Alle Sportkanäle</li>
+                        <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>Kein Vertrag</li>
+                    </ul>
+                </div>
+                <div class="horizontal-plan__price-action">
+                    <span class="horizontal-plan__price">€12.00 / Monat</span>
+                    <a href="https://wa.me/12393109171?text=Hallo%20Guekiptv,%20ich%20moechte%20das%201-Monats-Paket%20fuer%2012%20Euro%20bestellen" class="btn btn--secondary" title="Bestelle das 1 Monat IPTV Abonnement" target="_blank">1 Monat testen</a>
+                </div>
+            </div>
+
+            <!-- Multi-Screen plans under it -->
+            <div class="multiscreen-box">
+                <div class="multiscreen-header">
+                    <h3>Genießen Sie Entertainment überall mit Multi-Screen</h3>
+                    <p>Nie wieder Streit um die Fernbedienung! Mit unserem Multi-Screen-Abonnement schaut jeder gleichzeitig, was er oder sie möchte. Ob Sie im Wohnzimmer entspannen, im Büro arbeiten oder die Welt bereisen: Ihre Lieblingsinhalte reisen mit Ihnen. Streamen Sie grenzenlos auf mehreren Geräten gleichzeitig.</p>
+                </div>
+                <div class="multiscreen-grid">
+                    <div class="multiscreen-card">
+                        <h4 class="multiscreen-card__title">2 Geräte – 12 Monate</h4>
+                        <span class="multiscreen-card__price">€99.00</span>
+                        <p class="multiscreen-card__desc">Gleichzeitig auf beiden Geräten fernsehen. Gleiche Premium-Funktionen wie beim Standard-Abonnement.</p>
+                        <a href="https://wa.me/12393109171?text=Hallo%20Guekiptv,%20ich%20moechte%20das%202-Bildschirme-12-Monate-Paket%20fuer%2099%20Euro%20bestellen" class="btn btn--primary" title="Kaufe 2 Geräte für 12 Monate" target="_blank">Jetzt kaufen</a>
+                    </div>
+                    <div class="multiscreen-card">
+                        <h4 class="multiscreen-card__title">2 Geräte – 6 Monate</h4>
+                        <span class="multiscreen-card__price">€59.00</span>
+                        <p class="multiscreen-card__desc">Gleichzeitig auf beiden Geräten fernsehen. Ideal für WGs und Familien-Wochenenden.</p>
+                        <a href="https://wa.me/12393109171?text=Hallo%20Guekiptv,%20ich%20moechte%20das%202-Bildschirme-6-Monate-Paket%20fuer%2059%20Euro%20bestellen" class="btn btn--primary" title="Kaufe 2 Geräte für 6 Monate" target="_blank">Jetzt kaufen</a>
+                    </div>
+                    <div class="multiscreen-card">
+                        <h4 class="multiscreen-card__title">Mehr Bildschirme?</h4>
+                        <span class="multiscreen-card__price">Kontakt</span>
+                        <p class="multiscreen-card__desc">Sie benötigen 3, 4 oder mehr gleichzeitige Verbindungen? Kontaktieren Sie uns für ein individuelles Angebot.</p>
+                        <a href="https://wa.me/12393109171?text=Hallo%20Guekiptv,%20ich%20moechte%20weitere%20Informationen%20ueber%20mehr%20als%202%20Bildschirme" class="btn btn--secondary" title="Mehr Bildschirme anfragen" target="_blank">Kundenservice anfragen</a>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Payment Icons -->
+            <div class="payment-icons-row">
+                <div class="payment-icons-box">
+                    <img src="./images/payment-icons.webp" alt="Guekiptv Akzeptierte Zahlungsmethoden - Kreditkarte, Krypto, PayPal" width="531" height="60">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION_7 3-step activation -->
+    <section class="section--dark">
+        <div class="container">
+            <div class="section-title-wrapper">
+                <h2>Einfache IPTV-Installation in 3 Schritten</h2>
+                <p>Verbinden Sie Ihre Geräte innerhalb weniger Minuten mit unseren schnellen Streaming-Servern.</p>
+            </div>
+            
+            <div class="activation-grid">
+                <div class="activation-step">
+                    <span class="activation-step__num">01</span>
+                    <h3 class="activation-step__title">Schritt 1: App installieren</h3>
+                    <p class="activation-step__text">Laden Sie die gewünschte IPTV-Player-App wie den Hot Player oder IPTV Smarters Pro aus dem App Store Ihres Endgeräts (Smart TV, Firestick, Android, iOS) herunter.</p>
+                </div>
+                <div class="activation-step">
+                    <span class="activation-step__num">02</span>
+                    <h3 class="activation-step__title">Schritt 2: Zugangsdaten eingeben</h3>
+                    <p class="activation-step__text">Öffnen Sie den Player und tragen Sie die Zugangsdaten (M3U-Wiedergabeliste oder Xtream-Codes API) ein, die wir Ihnen unmittelbar nach dem Kauf per E-Mail &amp; WhatsApp zugesendet haben.</p>
+                </div>
+                <div class="activation-step">
+                    <span class="activation-step__num">03</span>
+                    <h3 class="activation-step__title">Schritt 3: Streamen starten</h3>
+                    <p class="activation-step__text">Laden Sie die Playlist und EPG-Informationen herunter. Schon können Sie über 35.000 Live-Sender sowie über 179.000 Filme &amp; Serien in bester Bildqualität auf Ihrem Fernseher genießen.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION_8 DEVICES -->
+    <section class="scroller-section section--charcoal">
+        <div class="scroller-header">
+            <h2>Guekiptv ist auf all Ihren Geräten kompatibel</h2>
+            <p>Egal welches Betriebssystem Sie nutzen, unsere stabilen Streams laufen flüssig auf jedem Smart-Endgerät.</p>
+        </div>
+        <div class="scroller-container">
+            <div class="gallery-scroller">
+                <div class="scroller-track--devices">
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device1.webp" alt="IPTV auf Fire Stick nutzen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device2.webp" alt="IPTV auf Smart TV nutzen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device3.webp" alt="IPTV auf Android Box nutzen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device4.webp" alt="IPTV auf Apple TV nutzen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device5.webp" alt="IPTV auf PC/Laptop nutzen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device6.webp" alt="IPTV auf iPhone/Tablet nutzen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device7.webp" alt="IPTV auf MAG Box nutzen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device8.webp" alt="IPTV auf Enigma2 Box nutzen" loading="lazy"></div>
+                    <!-- Duplicate for infinite scrolling -->
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device1.webp" alt="IPTV auf Fire Stick nutzen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device2.webp" alt="IPTV auf Smart TV nutzen" loading="lazy"></div>
+                    <div class="gallery-item gallery-item--device"><img src="./images/device/device3.webp" alt="IPTV auf Android Box nutzen" loading="lazy"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION_9 Customer Reviews -->
+    <section class="section--dark">
+        <div class="container">
+            <div class="section-title-wrapper">
+                <h2>Was unsere Kunden über Guekiptv sagen</h2>
+                <p>Tausende zufriedene Kunden in ganz Europa nutzen täglich unsere IPTV-Server für Live-Sport, hochauflösende Filme und internationale TV-Sender.</p>
+                <div class="reviews-summary">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                    <span>4.9 / 5 basierend auf 243 Bewertungen</span>
+                </div>
+            </div>
+            
+            <div class="reviews-carousel-wrapper">
+                <div class="reviews-track">
+                    <!-- Card 1 -->
+                    <div class="review-card">
+                        <div class="review-card__header">
+                            <img src="./images/reviews/0e07dc2d-083b-4c72-8030-f5c8edaa1d65.jpg" alt="Michael K. – England" class="review-card__avatar" loading="lazy">
+                            <div class="review-card__user-info">
+                                <span class="review-card__name">Michael K.</span>
+                                <span class="review-card__loc">London, England</span>
+                                <span class="verified-badge">✓ Verifizierter Käufer</span>
+                            </div>
+                        </div>
+                        <div class="review-card__stars">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                        </div>
+                        <p class="review-card__text">"Ich nutze Guekiptv hauptsächlich für Live-Fußball. Die Bundesliga- und Premier-League-Streams laufen in brillantem UHD und absolut flüssig. Die Einrichtung auf dem Firestick hat keine 5 Minuten gedauert."</p>
+                    </div>
+
+                    <!-- Card 2 -->
+                    <div class="review-card">
+                        <div class="review-card__header">
+                            <img src="./images/reviews/5a852756-4180-4644-820d-d311d552ef13.jpg" alt="Adam R. – Amsterdam" class="review-card__avatar" loading="lazy">
+                            <div class="review-card__user-info">
+                                <span class="review-card__name">Adam R.</span>
+                                <span class="review-card__loc">Amsterdam, Niederlande</span>
+                                <span class="verified-badge">✓ Verifizierter Käufer</span>
+                            </div>
+                        </div>
+                        <div class="review-card__stars">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                        </div>
+                        <p class="review-card__text">"Ich bin absolut begeistert von den On-Demand-Filmen. Über 179.000 Titel, wöchentlich neue Veröffentlichungen mit holländischen und deutschen Untertiteln. Extrem stabil."</p>
+                    </div>
+
+                    <!-- Card 3 -->
+                    <div class="review-card">
+                        <div class="review-card__header">
+                            <img src="./images/reviews/7b638369-5612-4212-a145-66199f7b9aba.jpg" alt="Camille L. – Dublin" class="review-card__avatar" loading="lazy">
+                            <div class="review-card__user-info">
+                                <span class="review-card__name">Camille L.</span>
+                                <span class="review-card__loc">Dublin, Irland</span>
+                                <span class="verified-badge">✓ Verifizierter Käufer</span>
+                            </div>
+                        </div>
+                        <div class="review-card__stars">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                        </div>
+                        <p class="review-card__text">"Hervorragender Kundendienst! Auf meine WhatsApp-Anfrage bezüglich der Aktivierung meines LG Smart-TVs wurde innerhalb von 3 Minuten reagiert. So sieht Premium-Support aus."</p>
+                    </div>
+
+                    <!-- Card 4 -->
+                    <div class="review-card">
+                        <div class="review-card__header">
+                            <img src="./images/reviews/841273e1-e7df-4377-939f-9f0ee8a084a2.jpg" alt="Jacob M. – Barcelona" class="review-card__avatar" loading="lazy">
+                            <div class="review-card__user-info">
+                                <span class="review-card__name">Jacob M.</span>
+                                <span class="review-card__loc">Barcelona, Spanien</span>
+                                <span class="verified-badge">✓ Verifizierter Käufer</span>
+                            </div>
+                        </div>
+                        <div class="review-card__stars">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                        </div>
+                        <p class="review-card__text">"Ich reise beruflich viel durch Europa. Mit dem M3U-Abonnement kann ich überall im Hotel auf meinem Tablet deutsches und spanisches Fernsehen ohne Sperren schauen. Bester Server!"</p>
+                    </div>
+
+                    <!-- Card 5 -->
+                    <div class="review-card">
+                        <div class="review-card__header">
+                            <img src="./images/reviews/ce180e0a-432c-4895-8c51-e66d5f09826e.jpg" alt="Jan V. – Copenhagen" class="review-card__avatar" loading="lazy">
+                            <div class="review-card__user-info">
+                                <span class="review-card__name">Jan V.</span>
+                                <span class="review-card__loc">Kopenhagen, Dänemark</span>
+                                <span class="verified-badge">✓ Verifizierter Käufer</span>
+                            </div>
+                        </div>
+                        <div class="review-card__stars">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                        </div>
+                        <p class="review-card__text">"Wir haben den 2-Geräte-Plan abgeschlossen. Mein Mann schaut im Wohnzimmer Premier League und ich im Schlafzimmer Serien in 4K. Läuft völlig ruckelfrei über WLAN!"</p>
+                    </div>
+
+                    <!-- Card 6 -->
+                    <div class="review-card">
+                        <div class="review-card__header">
+                            <img src="./images/reviews/eab49ca9-db65-42d6-9d33-77b0cd5631eb.jpg" alt="Luisa B. – Lisbon" class="review-card__avatar" loading="lazy">
+                            <div class="review-card__user-info">
+                                <span class="review-card__name">Luisa B.</span>
+                                <span class="review-card__loc">Lissabon, Portugal</span>
+                                <span class="verified-badge">✓ Verifizierter Käufer</span>
+                            </div>
+                        </div>
+                        <div class="review-card__stars">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                        </div>
+                        <p class="review-card__text">"Ich nutze Guekiptv auf meinem Smart TV über IBO Player. Das Laden der Playlists ging vollautomatisch, die Server sind super stabil und die Bildqualität ist unschlagbar."</p>
+                    </div>
+
+                    <!-- Card 7 -->
+                    <div class="review-card">
+                        <div class="review-card__header">
+                            <img src="./images/reviews/fd81f286-697f-4d9b-a914-ec4041ab1910.jpg" alt="Dieter S. – Berlin" class="review-card__avatar" loading="lazy">
+                            <div class="review-card__user-info">
+                                <span class="review-card__name">Dieter S.</span>
+                                <span class="review-card__loc">Berlin, Deutschland</span>
+                                <span class="verified-badge">✓ Verifizierter Käufer</span>
+                            </div>
+                        </div>
+                        <div class="review-card__stars">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+                        </div>
+                        <p class="review-card__text">"Ich hatte anfangs Bedenken bezüglich der Serverpufferung. Aber die europäischen Server sind extrem stabil. Absolut keine Aussetzer während wichtiger Live-Übertragungen!"</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION_10 WHATSAPP -->
+    <section class="section--charcoal">
+        <div class="container">
+            <div class="whatsapp-banner">
+                <div class="whatsapp-banner__content">
+                    <h2 class="whatsapp-banner__title">Haben Sie Fragen? Chatten Sie live mit Guekiptv auf WhatsApp</h2>
+                    <p class="whatsapp-banner__text">Unser technischer Kundensupport steht Ihnen rund um die Uhr zur Verfügung, um Ihnen bei der Einrichtung Ihres Geräts, der Auswahl des passenden Pakets oder der Beantwortung technischer Fragen zu helfen.</p>
+                    <a href="https://wa.me/12393109171?text=Hallo%20Guekiptv,%20ich%20habe%20eine%20Frage%20zu%20den%20IPTV%20Abonnements" class="btn btn--whatsapp" title="Öffne den Live-Chat auf WhatsApp mit Guekiptv" target="_blank">WhatsApp Live Support</a>
+                </div>
+                <div class="whatsapp-banner__preview">
+                    <!-- Carousel wtsp layout rule aspect ratio 473 / 1024 -->
+                    <div class="gallery-scroller" style="max-width: 250px;">
+                        <div class="scroller-track--wtsp">
+                            <div class="gallery-item gallery-item--wtsp"><img src="./images/wtsp/wtsp1.webp" alt="WhatsApp Support Chat Verlauf 1" loading="lazy"></div>
+                            <div class="gallery-item gallery-item--wtsp"><img src="./images/wtsp/wtsp2.webp" alt="WhatsApp Support Chat Verlauf 2" loading="lazy"></div>
+                            <div class="gallery-item gallery-item--wtsp"><img src="./images/wtsp/wtsp3.webp" alt="WhatsApp Support Chat Verlauf 3" loading="lazy"></div>
+                            <div class="gallery-item gallery-item--wtsp"><img src="./images/wtsp/wtsp4.webp" alt="WhatsApp Support Chat Verlauf 4" loading="lazy"></div>
+                            <div class="gallery-item gallery-item--wtsp"><img src="./images/wtsp/wtsp5.webp" alt="WhatsApp Support Chat Verlauf 5" loading="lazy"></div>
+                            <div class="gallery-item gallery-item--wtsp"><img src="./images/wtsp/wtsp6.webp" alt="WhatsApp Support Chat Verlauf 6" loading="lazy"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION_11 funktionen -->
+    <section class="section--dark">
+        <div class="container">
+            <div class="section-title-wrapper">
+                <h2>Die herausragenden Funktionen von Guekiptv</h2>
+                <p>Unsere technologische Plattform ist speziell darauf ausgelegt, Ihnen das stabilste und flüssigste TV-Erlebnis in Europa zu liefern.</p>
+            </div>
+            
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <h3 class="pricing-card__title" style="color: var(--primary);">Stabile Serververbindungen</h3>
+                    <p class="pricing-card__equivalent" style="margin-bottom: 20px;">99,99% garantierte Online-Zeit</p>
+                    <p style="font-size: 0.95rem; color: var(--text-muted); line-height: 1.6;">Wir betreiben dedizierte EU-Server mit hoher Bandbreite und modernster Hardware. Durch unsere Lastverteilung und redundante Anbindungen sind Ausfälle während gefragter Live-Sport-Events ausgeschlossen.</p>
+                </div>
+                <div class="pricing-card">
+                    <h3 class="pricing-card__title" style="color: var(--primary);">Anti-Buffering-Technologie</h3>
+                    <p class="pricing-card__equivalent" style="margin-bottom: 20px;">Kein Ruckeln oder Hängen</p>
+                    <p style="font-size: 0.95rem; color: var(--text-muted); line-height: 1.6;">Unsere Videostreams werden in Echtzeit transkodiert und über performante CDNs (Content Delivery Networks) verteilt. Pufferzeiten gehören mit guek iptv der Vergangenheit an – selbst bei 4K UHD Streams.</p>
+                </div>
+                <div class="pricing-card">
+                    <h3 class="pricing-card__title" style="color: var(--primary);">Intelligenter EPG-Kanalführer</h3>
+                    <p class="pricing-card__equivalent" style="margin-bottom: 20px;">Elektronischer Programmführer</p>
+                    <p style="font-size: 0.95rem; color: var(--text-muted); line-height: 1.6;">Verpassen Sie nie wieder eine Sendung! Unser EPG zeigt Ihnen in Echtzeit an, was auf den Kanälen läuft und welche Sendungen folgen, übersichtlich gegliedert und direkt in Ihre App integriert.</p>
+                </div>
+            </div>
+
+            <!-- SEO Content Section (>2000 words on actual topics) -->
+            <div class="editorial-content" style="margin-top: 80px; border-top: 1px solid rgba(255, 255, 255, 0.05); padding-top: 60px;">
+                <h2>Warum Guekiptv die Zukunft des Heim-Entertainments in Deutschland gestaltet</h2>
+                <p>
+                    Das Fernsehen befindet sich mitten in einer technologischen Revolution. Die klassischen Übertragungswege wie Satellitenschüsseln, Antennen und teures Kabel-TV werden zunehmend von IPTV (Internet Protocol Television) abgelöst. <strong>Guekiptv</strong> steht an der Spitze dieser Transformation und bietet Zuschauern im deutschsprachigen Raum, in der Türkei sowie in den Vereinigten Staaten eine Premium-Plattform, die maximale Vielfalt mit unübertroffener Streaming-Stabilität verbindet. Statt starre Programmpakete zu buchen und an langfristige Verträge gebunden zu sein, liefert Guekiptv das gesamte weltweite Entertainment über Ihre Internetleitung direkt auf Ihre Endgeräte.
+                </p>
+                <p>
+                    Der technologische Kern unseres IPTV-Dienstes beruht auf einem Netzwerk aus Hochgeschwindigkeitsservern, die strategisch über ganz Europa verteilt sind. Wenn Sie einen Kanal auf Ihrem Smart TV, Firestick oder Smartphone starten, verbindet sich Ihre Anwendung sofort mit dem optimalen Serverknotenpunkt. Durch die Integration moderner Kompressionsverfahren streamen wir hochauflösende Live-Inhalte in 4K Ultra HD und Full HD mit minimaler Latenz und ohne zeitverzögerte Übertragungen. Das bedeutet, dass Sie bei Live-Sport-Events die Tore zeitgleich mit dem Stadionerlebnis sehen und nicht erst Minuten später.
+                </p>
+
+                <h2>Optimierte Kanallisten und flexible Integrationen auf allen Endgeräten</h2>
+                <p>
+                    Ein entscheidender Vorteil von Guekiptv ist die Kompatibilität mit nahezu jedem auf dem Markt erhältlichen streamingfähigen Gerät. Viele traditionelle Kabel-Anbieter zwingen ihre Kunden dazu, klobige Receiver zu mieten, die nur im heimischen Wohnzimmer funktionieren. Mit Guekiptv sind Sie vollkommen frei: Ob auf dem Smart TV (Samsung, LG, Philips, Sony), dem Amazon Fire TV Stick, Android-Geräten, iPhones, MacBooks oder Enigma2-Receivern – die Einrichtung ist dank flexibler Wiedergabelisten im M3U-Format und der modernen Xtream-Codes-API im Handumdrehen erledigt.
+                </p>
+                <p>
+                    Sie können Anwendungen wie <strong>Hot Player</strong>, TiviMate oder IPTV Smarters Pro verwenden, um Ihre Kanallisten zu sortieren. Diese Player-Apps bieten eine ansprechende und intuitive Programmoberfläche, die das Umschalten von Sendern (Zapping) beschleunigt und Ihre Favoriten speichert. Das Guekiptv Abonnement umfasst über 35.000 internationale TV-Kanäle, darunter alle deutschen öffentlich-rechtlichen und privaten Sender, das komplette türkische Fernsehprogramm, US-Unterhaltungskanäle und Pay-TV. Hinzu kommt eine riesige Video-on-Demand (VOD) Mediathek mit über 179.000 Filmen und Serien, die regelmäßig mit neuen Blockbustern und aktuellen Episoden aktualisiert wird.
+                </p>
+
+                <h2>Stabile Server und Anti-Buffering für flüssigen Live-Sport</h2>
+                <p>
+                    Die größte Herausforderung für IPTV-Anbieter war in der Vergangenheit die Netzstabilität während großer Live-Events. Wenn Millionen Menschen gleichzeitig das Finale der Champions League oder ein wichtiges Formel-1-Rennen einschalten, brechen minderwertige Server unter der Last zusammen. Bei <strong>guek iptv</strong> haben wir diese Barriere durch den Einsatz von Load-Balancern und redundanten Backups gelöst. Unser System verteilt den Datenverkehr dynamisch, sodass selbst bei extremen Spitzenlasten keine Pufferung (Buffering) auftritt.
+                </p>
+                <p>
+                    Für ein optimales Ergebnis empfehlen wir eine Internetverbindung mit einer stabilen Download-Geschwindigkeit von mindestens 15 MBit/s für Full-HD-Streams und 25 MBit/s für 4K-UHD-Streams. Wenn möglich, verbinden Sie Ihr Gerät direkt per LAN-Kabel mit dem Router. Bei der Nutzung von WLAN empfiehlt sich die stabilere 5-GHz-Frequenz, um Signalstörungen durch andere Haushaltsgeräte zu minimieren. Mit diesen kleinen Optimierungen erleben Sie kristallklares Fernsehen ohne Unterbrechungen.
+                </p>
+
+                <h2>Maximale Privatsphäre und Datensicherheit beim Streamen</h2>
+                <p>
+                    Sicherheit und Datenschutz sind beim modernen Surfen und Streamen von zentraler Bedeutung. Da IPTV-Datenpakete über das öffentliche Internet transportiert werden, können Internetanbieter (ISPs) den Datenverkehr analysieren. In manchen Regionen drosseln Provider gezielt die Bandbreite, sobald sie datenintensive Streaming-Pakete registrieren. Um diese künstlichen Drosselungen zu umgehen und Ihre Privatsphäre zu schützen, unterstützt Guekiptv die nahtlose Nutzung von VPNs (Virtual Private Networks).
+                </p>
+                <p>
+                    Durch den Einsatz eines VPNs wie NordVPN, Surfshark oder ExpressVPN wird Ihre gesamte Verbindung verschlüsselt. Ihr Internetanbieter sieht nur noch einen verschlüsselten Datentunnel, kann die Inhalte nicht mehr analysieren und drosselt somit auch nicht Ihre Verbindungsgeschwindigkeit. Zudem schützt die Verschlüsselung Ihre persönlichen Zugangsdaten vor dem Zugriff unbefugter Dritter in öffentlichen Netzwerken, beispielsweise wenn Sie auf Reisen im Hotel streamen.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION_12 FAQs -->
+    <section class="section--charcoal">
+        <div class="container" style="max-width: 900px;">
+            <div class="section-title-wrapper">
+                <h2>Häufig gestellte Fragen (FAQ) – Guekiptv</h2>
+                <p>Finden Sie schnelle Antworten auf die wichtigsten Fragen rund um die Freischaltung, Kompatibilität und Funktionen unseres IPTV-Dienstes.</p>
+            </div>
+            
+            <div class="faq-list">
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Was genau ist Guekiptv und wie wird es eingerichtet?
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Guekiptv ist ein internetbasierter TV-Streaming-Dienst, der Ihnen über 35.000 Live-Sender und über 179.000 On-Demand-Videos auf Ihren Geräten bereitstellt. Zur Freischaltung laden Sie einfach eine IPTV-App (z.B. Hot Player oder IPTV Smarters Lite) herunter, geben die Zugangsdaten ein, die wir Ihnen per E-Mail senden, und starten Ihre Wiedergabeliste.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Welche Zahlungsmethoden werden von Guekiptv unterstützt?
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Wir akzeptieren alle gängigen Zahlungsmethoden wie Kreditkarte (Visa, MasterCard), Kryptowährungen (Bitcoin, USDT) sowie PayPal. Kontaktieren Sie unseren WhatsApp-Kundenservice, falls Sie eine alternative Zahlungsmethode bevorzugen.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Muss ich einen langfristigen Vertrag abschließen?
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Nein. Bei Guekiptv gibt es keine Verträge oder versteckten Gebühren. Jedes Abonnement läuft nach dem gewählten Zeitraum (1, 3, 6 oder 12 Monate) automatisch aus, sofern Sie es nicht manuell verlängern möchten.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Funktioniert Guekiptv auch im Ausland auf Reisen?
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Ja! Solange Sie über eine stabile Internetverbindung verfügen, können Sie Guekiptv weltweit nutzen. Es gibt keine länderspezifischen IP-Sperren, was den Dienst perfekt für Urlauber und Geschäftsreisende macht.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Wie schnell erhalte ich meine Zugangsdaten?
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Die Aktivierung erfolgt in der Regel innerhalb von 5 bis 15 Minuten nach Zahlungseingang. Sie erhalten eine automatische E-Mail mit all Ihren Daten (M3U-Link, Portal-URL, Xtream Codes) sowie eine Nachricht per WhatsApp für eventuelle Rückfragen.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer class="footer">
+        <div class="footer__container">
+            <div class="footer__about">
+                <a href="./" class="logo" title="Guekiptv Startseite - Premium Streaming">
+                    <img src="./images/logo.png" alt="Guekiptv Logo - Premium IPTV Anbieter" width="36" height="36">
+                    <span>guekiptv</span>
+                </a>
+                <p class="footer__about-text">
+                    Guekiptv ist Ihr erstklassiger IPTV-Anbieter in Deutschland, Österreich und der Schweiz. Wir streamen über 35.000 Sender und über 179.000 Filme &amp; Serien in 4K und HD.
+                </p>
+                <div class="payment-icons-row" style="margin-top: 10px; justify-content: flex-start;">
+                    <div class="payment-icons-box" style="padding: 6px 12px;">
+                        <img src="./images/payment-icons.webp" alt="Guekiptv Akzeptierte Zahlungsoptionen" style="width: 180px;">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer__column">
+                <h3 class="footer__column-title">IPTV Informationen</h3>
+                <ul class="footer__nav-list">
+                    <li><a href="./iptv-apps/" class="footer__nav-link" title="Erfahren Sie mehr über IPTV Player-Apps">IPTV Apps</a></li>
+                    <li><a href="./iptv-geraete/" class="footer__nav-link" title="Unterstützte IPTV streaming Hardware-Geräte">IPTV Geräte</a></li>
+                    <li><a href="./iptv-m3u-und-epg/" class="footer__nav-link" title="Anleitung zur Einrichtung von M3U Playlists und EPG Kanalführern">IPTV M3U &amp; EPG</a></li>
+                    <li><a href="./iptv-vod-und-tv-archiv/" class="footer__nav-link" title="Entdecken Sie unsere Video-on-Demand Bibliothek">IPTV VOD &amp; Replay</a></li>
+                    <li><a href="./iptv-sender-kategorien/" class="footer__nav-link" title="Stöbern Sie durch unsere IPTV Kanalkategorien">IPTV Sender-Kategorien</a></li>
+                    <li><a href="./iptv-probleme-und-loesungen/" class="footer__nav-link" title="Hilfe bei Pufferung und Ladeproblemen">IPTV Probleme &amp; Lösungen</a></li>
+                    <li><a href="./vpn-fuer-iptv/" class="footer__nav-link" title="Warum Sie ein VPN für IPTV nutzen sollten">VPN für IPTV</a></li>
+                    <li><a href="./iptv-legalitaet-und-sicherheit/" class="footer__nav-link" title="Rechtlicher Status und Sicherheit von IPTV-Diensten">IPTV Legalität &amp; Sicherheit</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer__column">
+                <h3 class="footer__column-title">Unternehmen &amp; Support</h3>
+                <ul class="footer__nav-list">
+                    <li><a href="./ueber-uns/" class="footer__nav-link" title="Erfahren Sie mehr über das Guekiptv Team">Über uns</a></li>
+                    <li><a href="./autor/" class="footer__nav-link" title="Lernen Sie unseren Chef-Techniker kennen">Autor</a></li>
+                    <li><a href="./blog/" class="footer__nav-link" title="Unser Blog mit den neuesten IPTV News und Tipps">Blog</a></li>
+                    <li><a href="./kontakt/" class="footer__nav-link" title="Kontaktieren Sie den Guekiptv Support">Kontakt</a></li>
+                    <li><a href="./faq/" class="footer__nav-link" title="Häufig gestellte Fragen zu unserem IPTV-Dienst">FAQ</a></li>
+                    <li><a href="./installationsanleitung/" class="footer__nav-link" title="Schritt-für-Schritt Anleitungen zur Einrichtung">Installationsanleitung</a></li>
+                    <li><a href="./bewertungen/" class="footer__nav-link" title="Bewertungen von verifizierten Kunden">Bewertungen</a></li>
+                    <li><a href="./preise/" class="footer__nav-link" title="Unsere IPTV Abonnements Preise ansehen">Preise</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer__column">
+                <h3 class="footer__column-title">Rechtliches</h3>
+                <ul class="footer__nav-list">
+                    <li><a href="./seiten/datenschutzerklaerung/" class="footer__nav-link" title="Unsere Datenschutzerklärung nach DSGVO">Datenschutzerklärung</a></li>
+                    <li><a href="./seiten/allgemeine-geschaeftsbedingungen/" class="footer__nav-link" title="Unsere allgemeinen Nutzungsbedingungen">Allgemeine Geschäftsbedingungen</a></li>
+                    <li><a href="./seiten/rueckerstattungsrichtlinie/" class="footer__nav-link" title="Unsere 7-tägige Rückerstattungsrichtlinie">Rückerstattungsrichtlinie</a></li>
+                    <li><a href="./seiten/dmca-urheberrechtsrichtlinie/" class="footer__nav-link" title="Informationen zum Urheberrecht und DMCA-Meldungen">DMCA- &amp; Urheberrechtsrichtlinie</a></li>
+                    <li><a href="./seiten/haftungsausschluss/" class="footer__nav-link" title="Rechtlicher Haftungsausschluss bezüglich Streaming-Inhalten">Haftungsausschluss</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer__bottom">
+            <p>© 2026 Guekiptv (guekiptv.shop). Alle Rechte vorbehalten. Vertraut von mehr als 50.000 zufriedenen Kunden.</p>
+            <div class="footer__bottom-links">
+                <a href="./seiten/datenschutzerklaerung/" title="Datenschutzerklärung ansehen">Datenschutzerklärung</a>
+                <a href="./seiten/allgemeine-geschaeftsbedingungen/" title="Allgemeine Geschäftsbedingungen ansehen">Nutzungsbedingungen</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Mobile side menu drawer container -->
+    <div class="header__mobile-overlay" id="mobileOverlay"></div>
+    <aside class="header__mobile-menu" id="mobileMenu">
+        <ul class="header__mobile-nav-list">
+            <li class="header__mobile-nav-item"><a href="./" title="Gehe zur Guekiptv Startseite">Home</a></li>
+            <li class="header__mobile-nav-item"><a href="./preise/" title="Unsere IPTV Abonnements Preise ansehen">Preise</a></li>
+            <li class="header__mobile-nav-item"><a href="./funktionen/" title="Unsere IPTV Funktionen und Senderlisten ansehen">Funktionen</a></li>
+            <li class="header__mobile-nav-item"><a href="./installationsanleitung/" title="Schritt-für-Schritt Anleitungen zur Einrichtung">Installationsanleitung</a></li>
+            <li class="header__mobile-nav-item"><a href="./bewertungen/" title="Erfahrungen von aktiven Guekiptv Kunden ansehen">Bewertungen</a></li>
+            <li class="header__mobile-nav-item"><a href="./faq/" title="Häufig gestellte Fragen ansehen">FAQ</a></li>
+            <li class="header__mobile-nav-item"><a href="./kontakt/" title="Guekiptv Support kontaktieren">Kontakt</a></li>
+            <li class="header__mobile-nav-item"><a href="./ueber-uns/" title="Mehr über unser Server-Netzwerk erfahren">Über uns</a></li>
+        </ul>
+        <a href="https://wa.me/12393109171?text=Kostenlose%2024-Stunden-Testversion%20guekiptv" class="header__cta" title="Fordern Sie noch heute Ihre 24-Stunden-Testversion an" target="_blank" style="margin-top: 20px;">Jetzt starten</a>
+    </aside>
+
+    <!-- Mobile Navigation Toggle Script -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const toggleBtn = document.getElementById('mobileToggle');
+            const menu = document.getElementById('mobileMenu');
+            const overlay = document.getElementById('mobileOverlay');
+
+            if (toggleBtn && menu && overlay) {
+                toggleBtn.addEventListener('click', function() {
+                    toggleBtn.classList.toggle('active');
+                    menu.classList.toggle('active');
+                    overlay.classList.toggle('active');
+                    document.body.style.overflow = menu.classList.contains('active') ? 'hidden' : '';
+                });
+
+                overlay.addEventListener('click', function() {
+                    toggleBtn.classList.remove('active');
+                    menu.classList.remove('active');
+                    overlay.classList.remove('active');
+                    document.body.style.overflow = '';
+                });
+            }
+
+            // Accordion FAQ behavior
+            const faqQuestions = document.querySelectorAll('.faq-question');
+            faqQuestions.forEach(question => {
+                question.addEventListener('click', () => {
+                    const item = question.parentElement;
+                    const isActive = item.classList.contains('active');
+                    
+                    // Close all FAQs
+                    document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('active'));
+                    
+                    // Open clicked one if it wasn't open
+                    if (!isActive) {
+                        item.classList.add('active');
+                    }
+                });
+            });
+        });
+    </script>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;50c4b5ec38244ffd84cfbc9fdf26fffe&quot;,&quot;r&quot;:1,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+
+
+</body>

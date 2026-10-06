@@ -1,0 +1,27 @@
+{
+  "original_url": "https://lee-knight.com/Monday/excelzz/bizmail.php?email=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1",
+  "hostname": "lee-knight.com",
+  "checked_at": "2026-10-04T14:07:06.618030+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fce23-395f-75ef-85f3-751242a8c12d",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-04T18:57:32.622Z",
+  "scan_original_url": "https://lee-knight.com/",
+  "final_url": "https://lee-knight.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2904,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.618,
+  "discovery": {
+    "batch_id": "8b254a113e20fb493ec2f48828b8a22dab66c6dd9c6b6bfe4456f1a1799ce9a4",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,878 @@
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<meta name="theme-color" content="#dd8500">	<link rel="profile" href="https://gmpg.org/xfn/11">
+	        <script type="text/javascript">
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                var originalAddEventListener = EventTarget.prototype.addEventListener,
+                    oldWidth = window.innerWidth;
+
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler, useCapture) {
+                    if (eventName === "resize") {
+                        originalAddEventListener.call(this, eventName, function (event) {
+                            if (oldWidth === window.innerWidth) {
+                                return;
+                            }
+                            oldWidth = window.innerWidth;
+                            if (eventHandler.handleEvent) {
+                                eventHandler.handleEvent.call(this, event);
+                            }
+                            else {
+                                eventHandler.call(this, event);
+                            };
+                        }, useCapture);
+                    }
+                    else {
+                        originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+                    };
+                };
+            };
+        </script>
+		<title>Prairie Bleeding and Clotting Center – Quality and Compassion</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+
+<link rel="alternate" type="application/rss+xml" title="Prairie Bleeding and Clotting Center » Feed" href="https://prairiebcc.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Prairie Bleeding and Clotting Center » Comments Feed" href="https://prairiebcc.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/prairiebcc.com\/lib\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://prairiebcc.com/lib/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://prairiebcc.com/lib/css/dist/block-library/style.min.css" type="text/css" media="all">
+<style id="wp-block-library-theme-inline-css" type="text/css">
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link rel="stylesheet" id="the7-Defaults-css" href="https://prairiebcc.com/storage/smile_fonts/Defaults/Defaults.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-icomoon-brankic-32x32-css" href="https://prairiebcc.com/storage/smile_fonts/icomoon-brankic-32x32/icomoon-brankic-32x32.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-icomoon-free-social-contact-16x16-css" href="https://prairiebcc.com/storage/smile_fonts/icomoon-free-social-contact-16x16/icomoon-free-social-contact-16x16.css" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="//prairiebcc.com/storage/js_composer/js_composer_front_custom.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-web-fonts-css" href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700%7COpen+Sans:400,600,700%7CRoboto:400,600,700" type="text/css" media="all">
+<link rel="stylesheet" id="dt-main-css" href="https://prairiebcc.com/vews/3de21daaa2/css/main.min.css" type="text/css" media="all">
+<style id="dt-main-inline-css" type="text/css">
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -ms-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-flow: column wrap;
+  flex-flow: column wrap;
+  -ms-flex-pack: center;
+  -ms-justify-content: center;
+  justify-content: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#load {
+  background: var(--the7-elementor-beautiful-loading-bg,#ffffff);
+  --the7-beautiful-spinner-color2: var(--the7-beautiful-spinner-color,#dd8500);
+}
+
+</style>
+<link rel="stylesheet" id="the7-font-css" href="https://prairiebcc.com/vews/3de21daaa2/fonts/icomoon-the7-font/icomoon-the7-font.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-awesome-fonts-css" href="https://prairiebcc.com/vews/3de21daaa2/fonts/FontAwesome/css/all.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-awesome-fonts-back-css" href="https://prairiebcc.com/vews/3de21daaa2/fonts/FontAwesome/back-compat.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-custom-scrollbar-css" href="https://prairiebcc.com/vews/3de21daaa2/lib/custom-scrollbar/custom-scrollbar.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-wpbakery-css" href="https://prairiebcc.com/vews/3de21daaa2/css/wpbakery.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-core-css" href="https://prairiebcc.com/modules/d92eea3fc4/assets/css/post-type.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-css-vars-css" href="https://prairiebcc.com/storage/the7-css/css-vars.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-custom-css" href="https://prairiebcc.com/storage/the7-css/custom.css" type="text/css" media="all">
+<link rel="stylesheet" id="dt-media-css" href="https://prairiebcc.com/storage/the7-css/media.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-mega-menu-css" href="https://prairiebcc.com/storage/the7-css/mega-menu.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-elements-albums-portfolio-css" href="https://prairiebcc.com/storage/the7-css/the7-elements-albums-portfolio.css" type="text/css" media="all">
+<link rel="stylesheet" id="the7-elements-css" href="https://prairiebcc.com/storage/the7-css/post-type-dynamic.css" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://prairiebcc.com/vews/3de21daaa2/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-vc-addons-google-fonts-css" href="https://fonts.googleapis.com/css?family=Montserrat:regular,700" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-vc-addons-style-css" href="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-css/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-vc-addons-slick-css" href="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-css/slick.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-vc-addons-icons-css" href="https://prairiebcc.com/modules/ad7bdb6c4e/assets/css/icons.css" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-vc-addons-animate-css" href="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-css/animate.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-vc-addons-btn-css" href="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-css/advanced-buttons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-vc-addons-headings-style-css" href="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-css/headings.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-vc-addons-info-box-style-css" href="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-css/info-box.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-vc-addons-tooltip-css" href="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-css/tooltip.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-vc-addons-stats-counter-style-css" href="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-css/stats-counter.min.css" type="text/css" media="all">
+<script type="text/javascript" src="https://prairiebcc.com/lib/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/lib/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/4b36101dcc/public/assets/js/rbtools.min.js" async="" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/4b36101dcc/public/assets/js/rs6.min.js" async="" id="revmin-js"></script>
+<script type="text/javascript" id="dt-above-fold-js-extra">
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"https:\/\/prairiebcc.com\/vews\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"699","ajaxurl":"https:\/\/prairiebcc.com\/sec_admin\/admin-ajax.php","REST":{"baseUrl":"https:\/\/prairiebcc.com\/wp-json\/the7\/v1","endpoints":{"sendMail":"\/send-mail"}},"contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy.","fillTheCaptchaError":"Please, fill the captcha."},"captchaSiteKey":"","ajaxNonce":"bdc9fedf65","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#dd8500"},"desktopHeader":{"height":200},"ToggleCaptionEnabled":"disabled","ToggleCaption":"Navigation","floatingHeader":{"showAfter":260,"showMenu":true,"height":60,"logo":{"showLogo":false,"html":"","url":"https:\/\/prairiebcc.com\/"}},"topLine":{"floatingTopLine":{"logo":{"showLogo":false,"html":""}}},"mobileHeader":{"firstSwitchPoint":990,"secondSwitchPoint":700,"firstSwitchPointHeight":70,"secondSwitchPointHeight":70,"mobileToggleCaptionEnabled":"disabled","mobileToggleCaption":"Menu"},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/prairiebcc.com\/storage\/2018\/07\/001-Logo.jpg\" srcset=\"https:\/\/prairiebcc.com\/storage\/2018\/07\/001-Logo.jpg 480w\" width=\"480\" height=\"156\"   sizes=\"480px\" alt=\"Prairie Bleeding and Clotting Center\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/prairiebcc.com\/storage\/2018\/07\/001-Logo.jpg\" srcset=\"https:\/\/prairiebcc.com\/storage\/2018\/07\/001-Logo.jpg 480w\" width=\"480\" height=\"156\"   sizes=\"480px\" alt=\"Prairie Bleeding and Clotting Center\" \/>"}},"content":{"textColor":"#898989","headerColor":"#252525"},"sidebar":{"switchPoint":970},"boxedWidth":"1280px","stripes":{"stripe1":{"textColor":"#898989","headerColor":"#272727"},"stripe2":{"textColor":"#ffffff","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"768"};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp"},"overlayOpacity":"85"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://prairiebcc.com/vews/3de21daaa2/js/above-the-fold.min.js" id="dt-above-fold-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-js/ultimate-params.min.js" id="ultimate-vc-addons-params-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-js/custom.min.js" id="ultimate-vc-addons-custom-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-js/jquery-appear.min.js" id="ultimate-vc-addons-appear-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-js/headings.min.js" id="ultimate-vc-addons-headings-script-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-js/slick.min.js" id="ultimate-vc-addons-slick-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-js/slick-custom.min.js" id="ultimate-vc-addons-slick-custom-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-js/countUp.min.js" id="ultimate-vc-addons-stats-counter-js-js"></script>
+<link rel="https://api.w.org/" href="https://prairiebcc.com/wp-json/"><link rel="alternate" type="application/json" href="https://prairiebcc.com/wp-json/wp/v2/pages/699"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://prairiebcc.com/xmlrpc.php?rsd">
+<link rel="canonical" href="https://prairiebcc.com/">
+<link rel="shortlink" href="https://prairiebcc.com/">
+<link rel="alternate" type="application/json+oembed" href="https://prairiebcc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprairiebcc.com%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://prairiebcc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprairiebcc.com%2F&amp;format=xml">
+<meta property="og:site_name" content="Prairie Bleeding and Clotting Center">
+<meta property="og:title" content="Home">
+<meta property="og:url" content="https://prairiebcc.com/">
+<meta property="og:type" content="website">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" id="the7-loader-script">
+document.addEventListener("DOMContentLoaded", function(event) {
+	var load = document.getElementById("load");
+	if(!load.classList.contains('loader-removed')){
+		var removeLoading = setTimeout(function() {
+			load.className += " loader-removed";
+		}, 300);
+	}
+});
+</script>
+		<link rel="icon" href="https://prairiebcc.com/storage/2021/06/Favicon.jpg" type="image/jpeg" sizes="16x16"><script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1494490890104{margin-top: -80px !important;padding-top: 60px !important;padding-right: 25px !important;padding-bottom: 80px !important;padding-left: 25px !important;}.vc_custom_1462822508532{padding-top: 80px !important;padding-bottom: 0px !important;}.vc_custom_1471297632374{padding-top: 40px !important;padding-bottom: 40px !important;background-color: #dd8500 !important;}.vc_custom_1542235625735{padding-top: 80px !important;padding-right: 10px !important;padding-bottom: 80px !important;padding-left: 10px !important;}.vc_custom_1471333741766{padding-top: 50px !important;padding-right: 10px !important;padding-bottom: 60px !important;padding-left: 10px !important;}.vc_custom_1461851167541{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1474220525910{margin-bottom: -80px !important;padding-top: 45px !important;padding-bottom: 0px !important;background-color: #dd8500 !important;}.vc_custom_1471297612919{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 40px !important;padding-left: 20px !important;background-color: #dd8500 !important;}.vc_custom_1471297618475{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 40px !important;padding-left: 20px !important;background-color: #dd8500 !important;}.vc_custom_1471297623988{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 40px !important;padding-left: 20px !important;background-color: #dd8500 !important;}.vc_custom_1471287151498{padding-bottom: 20px !important;}.vc_custom_1543273735540{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1471287207331{padding-bottom: 20px !important;}.vc_custom_1543273403675{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1471287169774{padding-bottom: 20px !important;}.vc_custom_1543273599045{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1471330901093{margin-bottom: 0px !important;padding-top: 30px !important;padding-bottom: 0px !important;}.vc_custom_1532044713763{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1463674168971{padding-top: 80px !important;padding-bottom: 95px !important;}.vc_custom_1532044079364{margin-bottom: -100px !important;padding-top: 60px !important;}.vc_custom_1532045542329{margin-bottom: 25px !important;}.vc_custom_1463071479632{padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1463071010461{padding-right: 0px !important;}.vc_custom_1532045932036{padding-bottom: 20px !important;}.vc_custom_1463071512494{padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1463071504489{padding-right: 0px !important;}.vc_custom_1532048270382{padding-bottom: 20px !important;}.vc_custom_1463071534749{padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1463071519302{padding-right: 0px !important;}.vc_custom_1532047877271{padding-bottom: 20px !important;}.vc_custom_1463071547612{padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1463071563936{padding-right: 0px !important;}.vc_custom_1532047974221{padding-bottom: 20px !important;}.vc_custom_1463071608571{padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1463071577013{padding-right: 0px !important;}.vc_custom_1532048071048{padding-bottom: 20px !important;}.vc_custom_1471297641929{margin-right: 15px !important;margin-bottom: 30px !important;margin-left: 15px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #dd8500 !important;}.vc_custom_1471297648170{margin-right: 15px !important;margin-bottom: 30px !important;margin-left: 15px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #dd8500 !important;}.vc_custom_1471297655246{margin-top: 0px !important;margin-right: 15px !important;margin-bottom: 30px !important;margin-left: 15px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #dd8500 !important;}.vc_custom_1471297660763{margin-top: 0px !important;margin-right: 15px !important;margin-bottom: 30px !important;margin-left: 15px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #dd8500 !important;}.vc_custom_1471290668451{padding-top: 25px !important;}.vc_custom_1471330969021{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1467285822009{border-radius: 1px !important;}.vc_custom_1471333784237{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1471290676926{padding-top: 20px !important;}.vc_custom_1471331891673{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1471289175547{padding-top: 0px !important;padding-right: 15px !important;padding-bottom: 0px !important;padding-left: 15px !important;}.vc_custom_1471289355800{padding-top: 0px !important;padding-right: 15px !important;padding-bottom: 0px !important;padding-left: 15px !important;}.vc_custom_1471289332733{padding-top: 0px !important;padding-right: 15px !important;padding-bottom: 0px !important;padding-left: 15px !important;}.vc_custom_1471289355800{padding-top: 0px !important;padding-right: 15px !important;padding-bottom: 0px !important;padding-left: 15px !important;}.vc_custom_1471289355800{padding-top: 0px !important;padding-right: 15px !important;padding-bottom: 0px !important;padding-left: 15px !important;}.vc_custom_1471289355800{padding-top: 0px !important;padding-right: 15px !important;padding-bottom: 0px !important;padding-left: 15px !important;}.vc_custom_1471289102295{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}.vc_custom_1471289364917{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}.vc_custom_1471289342595{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}.vc_custom_1471289364917{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}.vc_custom_1471289364917{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}.vc_custom_1471289364917{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}.vc_custom_1542235346294{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1534382312016{margin-bottom: 40px !important;}.vc_custom_1534382512672{margin-bottom: 40px !important;}.vc_custom_1534382615918{margin-bottom: 40px !important;}.vc_custom_1534382687104{margin-bottom: 40px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="the7-custom-inline-css" type="text/css">
+/* Pricing tables paddings */
+.custom_pricing_box .ult_pricing_table .ult_price_link {padding-bottom: 30px;}
+.custom_pricing_box .ult_pricing_table .ult_pricing_heading {padding-bottom:0px; padding-top:15px;}
+</style>
+<style>/** Ultimate: Media Responsive **/ .uvc-heading.ultimate-heading-70526ab86b09eb5f4 .uvc-sub-heading {font-size:18px;line-height:30px;}.uvc-heading.ultimate-heading-53826ab86b09eb70f .uvc-sub-heading {font-size:14px;line-height:28px;}#ubtn-2623{font-size:12px;line-height:12px;}.uvc-heading.ultimate-heading-14286ab86b09eb816 .uvc-sub-heading {font-size:14px;line-height:28px;}#ubtn-1039{font-size:12px;line-height:12px;}.uvc-heading.ultimate-heading-59236ab86b09eb8e5 .uvc-sub-heading {font-size:14px;line-height:28px;}#ubtn-5358{font-size:12px;line-height:12px;}.uvc-heading.ultimate-heading-6106ab86b09ebba1 .uvc-sub-heading {font-size:18px;line-height:28px;}.uvc-heading.ultimate-heading-36506ab86b09ec6c0 h2{font-size:30px;line-height:40px;}.uvc-heading.ultimate-heading-36506ab86b09ec6c0 .uvc-sub-heading {font-size:17px;line-height:27px;}.uvc-heading.ultimate-heading-49796ab86b09ec7cf h2{font-size:30px;line-height:40px;}.uvc-heading.ultimate-heading-49796ab86b09ec7cf .uvc-sub-heading {font-size:17px;line-height:27px;}#ubtn-2248{font-size:18px;line-height:18px;}#ubtn-5425{font-size:20px;line-height:20px;}.uvc-heading.ultimate-heading-78176ab86b09efa6c .uvc-sub-heading {font-size:18px;line-height:28px;}.uvc-heading.ultimate-heading-94036ab86b09efdb5 h3{font-size:16px;line-height:26px;}.uvc-heading.ultimate-heading-88116ab86b09f00c8 h3{font-size:16px;line-height:26px;}.uvc-heading.ultimate-heading-29866ab86b09f038a h3{font-size:16px;line-height:26px;}.uvc-heading.ultimate-heading-50826ab86b09f0651 h3{font-size:16px;line-height:26px;}#ubtn-3465{font-size:16px;line-height:16px;}.uvc-heading.ultimate-heading-34796ab86b09f09b1 h2{font-size:30px;line-height:36px;}.uvc-heading.ultimate-heading-34796ab86b09f09b1 .uvc-sub-heading {font-size:18px;line-height:28px;}.uvc-heading.ultimate-heading-88716ab86b09f0bb7 h3{font-size:18px;line-height:28px;}.uvc-heading.ultimate-heading-72056ab86b09f0e97 h3{font-size:18px;line-height:28px;}.uvc-heading.ultimate-heading-636ab86b09f1125 h3{font-size:18px;line-height:28px;}.uvc-heading.ultimate-heading-13986ab86b09f13a2 h3{font-size:18px;line-height:28px;}.uvc-heading.ultimate-heading-58156ab86b09f15f9 h3{font-size:18px;line-height:28px;}.uvc-heading.ultimate-heading-89136ab86b09f185d h3{font-size:18px;line-height:28px;}#ubtn-7558{font-size:16px;line-height:16px;}.uvc-heading.ultimate-heading-16836ab86b09f1d7d .uvc-sub-heading {font-size:18px;line-height:28px;}#counter-responsv-wrap-2523 .stats-number{font-size:30px;line-height:35px;}#counter-responsv-wrap-2523 .stats-text{font-size:14px;line-height:28px;}#counter-responsv-wrap-1831 .stats-number{font-size:30px;line-height:35px;}#counter-responsv-wrap-1831 .stats-text{font-size:14px;line-height:28px;}#counter-responsv-wrap-9224 .stats-number{font-size:30px;line-height:35px;}#counter-responsv-wrap-9224 .stats-text{font-size:14px;line-height:28px;}#counter-responsv-wrap-6289 .stats-number{font-size:30px;line-height:35px;}#counter-responsv-wrap-6289 .stats-text{font-size:14px;line-height:28px;}@media (max-width: 1199px) { }@media (max-width: 991px)  { }@media (max-width: 767px)  { }@media (max-width: 479px)  { }/** Ultimate: Media Responsive - **/</style><style>#ult-carousel-28729138106ab86b09f0a88 .slick-slide { margin:0 25px; } </style></head><body id="the7-body" class="home page-template-default page page-id-699 wp-embed-responsive the7-core-ver-2.5.8 slideshow-on dt-responsive-on right-mobile-menu-close-icon ouside-menu-close-icon mobile-hamburger-close-bg-enable mobile-hamburger-close-bg-hover-enable fade-medium-mobile-menu-close-icon fade-small-menu-close-icon srcset-enabled btn-flat custom-btn-color custom-btn-hover-color phantom-slide phantom-shadow-decoration phantom-logo-off sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style dt-fa-compatibility the7-ver-10.6.0 wpb-js-composer js-comp-ver-6.8.0 vc_responsive no-mobile closed-overlay-mobile-header">
+
+<div id="load" class="ring-loader loader-removed">
+	<div class="load-wrap">
+<style type="text/css">
+    .the7-spinner {
+        width: 72px;
+        height: 72px;
+        position: relative;
+    }
+    .the7-spinner > div {
+        border-radius: 50%;
+        width: 9px;
+        left: 0;
+        box-sizing: border-box;
+        display: block;
+        position: absolute;
+        border: 9px solid #fff;
+        width: 72px;
+        height: 72px;
+    }
+    .the7-spinner-ring-bg{
+        opacity: 0.25;
+    }
+    div.the7-spinner-ring {
+        animation: spinner-animation 0.8s cubic-bezier(1, 1, 1, 1) infinite;
+        border-color:var(--the7-beautiful-spinner-color2) transparent transparent transparent;
+    }
+
+    @keyframes spinner-animation{
+        from{
+            transform: rotate(0deg);
+        }
+        to {
+            transform: rotate(360deg);
+        }
+    }
+</style>
+
+<div class="the7-spinner">
+    <div class="the7-spinner-ring-bg"></div>
+    <div class="the7-spinner-ring"></div>
+</div></div>
+</div>
+<div id="page" class="closed-mobile-header">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<div class="mobile-header-space"></div><div class="masthead classic-header justify full-width-line widgets full-height dividers surround shadow-mobile-header-decoration small-mobile-menu-icon mobile-menu-icon-bg-on mobile-menu-icon-hover-bg-on dt-parent-menu-clickable show-sub-menu-on-hover" role="banner">
+
+	<div class="top-bar full-width-line top-bar-line-hide">
+	<div class="top-bar-bg"></div>
+	<div class="left-widgets mini-widgets"><div class="mini-search show-on-desktop in-top-bar-left in-top-bar popup-search custom-icon first"><form class="searchform mini-widget-searchform" role="search" method="get" action="https://prairiebcc.com/">
+
+	<div class="screen-reader-text">Search:</div>
+
+	
+		<a href="" class="submit"><i class=" mw-icon the7-mw-icon-search-bold"></i><span>Search</span></a>
+		<div class="popup-search-wrap">
+			<input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter …" title="Search form">
+			<a href="" class="search-icon"><i class="the7-mw-icon-search-bold"></i></a>
+		</div>
+
+			<input type="submit" class="assistive-text searchsubmit" value="Go!">
+</form>
+</div><span class="mini-contacts email show-on-desktop hide-on-first-switch hide-on-second-switch last"><i class="fa-fw the7-mw-icon-mail-bold"></i>info@prairiebcc.com</span><div class="mini-search in-top-bar popup-search custom-icon hide-on-desktop hide-on-first-switch show-on-second-switch display-none"><form class="searchform mini-widget-searchform" role="search" method="get" action="https://prairiebcc.com/">
+
+	<div class="screen-reader-text">Search:</div>
+
+	
+		<a href="" class="submit"><i class=" mw-icon the7-mw-icon-search-bold"></i><span>Search</span></a>
+		<div class="popup-search-wrap">
+			<input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter …" title="Search form">
+			<a href="" class="search-icon"><i class="the7-mw-icon-search-bold"></i></a>
+		</div>
+
+			<input type="submit" class="assistive-text searchsubmit" value="Go!">
+</form>
+</div><span class="mini-contacts phone hide-on-desktop in-top-bar hide-on-first-switch show-on-second-switch display-none"><i class="fa-fw the7-mw-icon-phone-bold"></i>217 546 7100</span><div class="mini-search in-top-bar-left popup-search custom-icon hide-on-desktop show-on-first-switch hide-on-second-switch display-none"><form class="searchform mini-widget-searchform" role="search" method="get" action="https://prairiebcc.com/">
+
+	<div class="screen-reader-text">Search:</div>
+
+	
+		<a href="" class="submit"><i class=" mw-icon the7-mw-icon-search-bold"></i><span>Search</span></a>
+		<div class="popup-search-wrap">
+			<input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter …" title="Search form">
+			<a href="" class="search-icon"><i class="the7-mw-icon-search-bold"></i></a>
+		</div>
+
+			<input type="submit" class="assistive-text searchsubmit" value="Go!">
+</form>
+</div><span class="mini-contacts phone hide-on-desktop in-top-bar-left show-on-first-switch hide-on-second-switch display-none"><i class="fa-fw the7-mw-icon-phone-bold"></i>217 546 7100</span></div><div class="right-widgets mini-widgets"><div class="soc-ico show-on-desktop in-top-bar-right in-menu-second-switch custom-bg disabled-border border-off hover-accent-bg hover-disabled-border hover-border-off first last"><a title="Facebook page opens in new window" href="#" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook page opens in new window</span></a></div><div class="soc-ico in-top-bar-right in-menu-second-switch custom-bg disabled-border border-off hover-accent-bg hover-disabled-border hover-border-off hide-on-desktop show-on-first-switch display-none"><a title="Facebook page opens in new window" href="#" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook page opens in new window</span></a></div></div></div>
+
+	<header class="header-bar">
+
+		<div class="branding">
+	<div id="site-title" class="assistive-text">Prairie Bleeding and Clotting Center</div>
+	<div id="site-description" class="assistive-text">Quality and Compassion</div>
+	<a class="" href="https://prairiebcc.com/"><img class=" preload-me" src="https://prairiebcc.com/storage/2018/07/001-Logo.jpg" srcset="https://prairiebcc.com/storage/2018/07/001-Logo.jpg 480w" width="480" height="156" sizes="480px" alt="Prairie Bleeding and Clotting Center"></a><div class="mini-widgets"></div><div class="mini-widgets"><span class="mini-contacts phone hide-on-desktop in-top-bar-left in-top-bar display-none"><i class="fa-fw the7-mw-icon-phone-bold"></i>217 546 7100</span><span class="mini-contacts address hide-on-desktop in-menu-first-switch in-menu-second-switch display-none"><i class="fa-fw the7-mw-icon-address-bold"></i>105 South Amos Avenue, Springfield, IL   62704</span><div class="text-area show-on-desktop hide-on-first-switch hide-on-second-switch first"><p><i class="fa fa-map-marker-alt" style="font-size: 24px;line-height: 28px;"></i></p>
+<p style="margin: -28px 50px 0px 27px; font-size: 15px;line-height: 22px;">105 South Amos Avenue<br><b>Springfield</b>, IL 62704</p>
+<p><i class="fa fa-map-marker-alt" style="font-size: 24px;line-height: 28px;"></i></p>
+<p style="margin: -28px 50px 0px 27px; font-size: 15px;line-height: 22px;">2805 North Knoxville Avenue, Suite B<br><b>Peoria</b>, IL 61604</p>
+<p><i class="fa fa-map-marker-alt" style="font-size: 24px;line-height: 28px;"></i></p>
+<p style="margin: -28px 50px 0px 27px; font-size: 15px;line-height: 22px;">6901 West Archer Avenue<br><b>Chicago</b>, IL 60638</p>
+</div><div class="text-area show-on-desktop hide-on-first-switch hide-on-second-switch last"><p><i class="fa fa-mobile-alt" style="font-size: 28px; line-height: 28px;"></i></p>
+<p class="dt-phone-header" style="margin: -26px 0px 0px 25px; font-size: 24px; line-height: 24px;">217 546 7100</p>
+<p style="margin: 5px 0px 0px 25px;"><a href="https://prairiebcc.com/contact/" style="color: #afafaf;">Request an appointment <i class="fa fa-angle-right"></i></a></p>
+</div></div></div>
+
+		<nav class="navigation">
+
+			<ul id="primary-menu" class="main-nav bg-outline-decoration hover-bg-decoration active-bg-decoration active-line-decoration level-arrows-on outside-item-remove-margin" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-699 current_page_item menu-item-746 act first depth-0" role="presentation"><a href="https://prairiebcc.com/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Home</span></span><span class="decoration-line"></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751 depth-0" role="presentation"><a href="https://prairiebcc.com/doctors/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Providers</span></span><span class="decoration-line"></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-752 depth-0" role="presentation"><a href="https://prairiebcc.com/services/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Services</span></span><span class="decoration-line"></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750 depth-0" role="presentation"><a href="https://prairiebcc.com/departments/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Strengths</span></span><span class="decoration-line"></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1525 depth-0" role="presentation"><a href="https://prairiebcc.com/who-we-are/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Who We Are</span></span><span class="decoration-line"></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755 last depth-0" role="presentation"><a href="https://prairiebcc.com/contact/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Contact Us</span></span><span class="decoration-line"></span></a></li> </ul>
+			
+		</nav>
+
+	</header>
+
+<div class="mobile-header-bar"><div class="mobile-navigation"><a href="#" class="dt-mobile-menu-icon" aria-label="Mobile menu icon"><div class="lines-button "><span class="menu-line"></span><span class="menu-line"></span><span class="menu-line"></span></div></a></div><div class="mobile-mini-widgets"></div><div class="mobile-branding"><a class="sticky-mobile-logo-second-switch" href="https://prairiebcc.com/"><img class=" preload-me" src="https://prairiebcc.com/storage/2018/07/001-Logo.jpg" srcset="https://prairiebcc.com/storage/2018/07/001-Logo.jpg 480w" width="480" height="156" sizes="480px" alt="Prairie Bleeding and Clotting Center"> </a><a class="sticky-mobile-logo-first-switch" href="https://prairiebcc.com/"><img class=" preload-me" src="https://prairiebcc.com/storage/2018/07/001-Logo.jpg" srcset="https://prairiebcc.com/storage/2018/07/001-Logo.jpg 480w" width="480" height="156" sizes="480px" alt="Prairie Bleeding and Clotting Center"> </a><a class="" href="https://prairiebcc.com/"><img class=" preload-me" src="https://prairiebcc.com/storage/2018/07/001-Logo.jpg" srcset="https://prairiebcc.com/storage/2018/07/001-Logo.jpg 480w" width="480" height="156" sizes="480px" alt="Prairie Bleeding and Clotting Center"></a></div></div></div>
+<div class="dt-mobile-header mobile-menu-show-divider dt-parent-menu-clickable"><div class="mobile-header-scrollbar-wrap">
+	<div class="dt-close-mobile-menu-icon"><div class="close-line-wrap"><span class="close-line"></span><span class="close-line"></span><span class="close-line"></span></div></div>	<ul id="mobile-menu" class="mobile-main-nav" role="menubar">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-699 current_page_item menu-item-746 act first depth-0" role="presentation"><a href="https://prairiebcc.com/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Home</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751 depth-0" role="presentation"><a href="https://prairiebcc.com/doctors/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Providers</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-752 depth-0" role="presentation"><a href="https://prairiebcc.com/services/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Services</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750 depth-0" role="presentation"><a href="https://prairiebcc.com/departments/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Strengths</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1525 depth-0" role="presentation"><a href="https://prairiebcc.com/who-we-are/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Who We Are</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755 last depth-0" role="presentation"><a href="https://prairiebcc.com/contact/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Contact Us</span></span></a></li> 	</ul>
+	<div class="mobile-mini-widgets-in-menu"><span class="mini-contacts address hide-on-desktop in-menu-first-switch in-menu-second-switch hide-on-second-switch show-on-first-switch"><i class="fa-fw the7-mw-icon-address-bold"></i>105 South Amos Avenue, Springfield, IL   62704</span><div class="soc-ico show-on-desktop in-top-bar-right in-menu-second-switch custom-bg disabled-border border-off hover-accent-bg hover-disabled-border hover-border-off first last hide-on-desktop hide-on-first-switch show-on-second-switch"><a title="Facebook page opens in new window" href="#" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook page opens in new window</span></a></div><span class="mini-contacts address hide-on-desktop in-menu-first-switch in-menu-second-switch hide-on-first-switch show-on-second-switch"><i class="fa-fw the7-mw-icon-address-bold"></i>105 South Amos Avenue, Springfield, IL   62704</span></div>
+</div></div>
+
+<div id="main-slideshow" class="empty-slider">
+			
+			<rs-fullwidth-wrap id="rev_slider_1_1_forcefullwidth" style="margin-top:0px;margin-bottom:0px;"><rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility: visible; background: rgb(244, 244, 244); padding: 0px; margin: 0px auto; height: 700px; display: block; width: 1600px; position: absolute; overflow: visible; left: 0px;"><rs-module id="rev_slider_1_1" style="height: 700px; width: 1600px; max-height: 700px;" data-version="6.5.19" data-idcheck="true" class="revslider-initialised rev_redraw_on_blurfocus" data-slideactive="rs-1">
+					
+				<rs-progress style="visibility:hidden;"><rs-progress-bar style="background: rgba(255, 255, 255, 0.5);"></rs-progress-bar></rs-progress><rs-slides style="visibility: visible; max-height: none; height: 100%; width: 100%; overflow: hidden;">
+						<rs-slide style="position: absolute; display: block; overflow: hidden; height: 100%; width: 100%; z-index: 20; opacity: 1; visibility: inherit;" data-key="rs-1" data-title="Slide" data-duration="10090" data-anim="ms:600;" data-in="o:0;" data-out="a:false;" data-originalindex="1" data-origindex="0" data-description="" data-sba="" data-scroll-based="false" data-owidth="1600" data-oheight="900" data-rspausetimeronce="0" data-isactiveslide="true"><rs-sbg-px><rs-sbg-wrap data-key="rs-1" data-owidth="1600" data-oheight="900"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="//prairiebcc.com/modules/4b36101dcc/public/assets/assets/dummy.png" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//prairiebcc.com/storage/revslider/the7-medical-hero-image/bg-img-slider.jpg" data-no-retina="">--><rs-sbg data-lazyload="//prairiebcc.com/storage/revslider/the7-medical-hero-image/bg-img-slider.jpg" class="" data-bgcolor="transparent" style="width: 100%; height: 100%;" data-src-rs-ref="//prairiebcc.com/storage/revslider/the7-medical-hero-image/bg-img-slider.jpg"><canvas style="width: 100%; height: 100%; background-color: transparent; opacity: 1; filter: none;" width="1600" height="700"></canvas></rs-sbg></rs-sbg-wrap></rs-sbg-px>
+							
+<rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; min-height: 100%; min-width: 100%; left: 7px; top: -3px; z-index: 5; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position: absolute; display: block; height: 100%; width: 100%;"><rs-mask-wrap style="position: absolute; display: block; height: 100%; width: 100%; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-21" class="tp-shape tp-shapewrapper rs-layer" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:7px;y:m;yo:-3px;" data-text="fw:600;" data-dim="w:100%;h:100%;" data-basealign="slide" data-frame_0="o:1;tp:600;" data-frame_1="tp:600;e:power2.inOut;sp:0;sR:10;" data-frame_999="tp:600;e:nothing;st:w;sp:0;sR:10080;" style="z-index: 5; background-color: rgba(37, 37, 37, 0.6); color: rgb(255, 255, 255); width: 100%; height: 100%; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; transform: translate(0px, 0px); opacity: 1; visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 301px; top: 60px; z-index: 6; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-color="#ffcc00||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;xo:-2px,0,0,0;y:m;yo:-257px,-208px,-310px,-310px;" data-text="s:60,65,40,40;l:65;fw:700;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:power2.out;st:1000;sp:800;sR:1000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sp:500;sR:8290;" style="z-index: 6; font-family: Montserrat; height: auto; width: auto; color: rgb(255, 204, 0); text-decoration: none; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: left; line-height: 65px; letter-spacing: 0px; font-weight: 700; font-size: 60px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">Blood disorders are our passion 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 399px; top: 224px; z-index: 7; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-3" class="open sans rs-layer" data-type="text" data-color="#c6c445||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-92px,-92px,-215px,-215px;" data-text="w:normal;s:22,24,22,22;l:34,36,34,34;fw:600;a:center;" data-dim="w:801px,850px,545px,545px;h:auto,101px,101px,101px;" data-frame_0="tp:600;" data-frame_1="tp:600;e:power1.out;st:1500;sp:800;sR:1500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sp:500;sR:7790;" style="z-index: 7; font-family: &quot;&quot;; height: auto; color: rgb(198, 196, 69); text-decoration: none; white-space: normal; width: 801px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: center; line-height: 34px; letter-spacing: 0px; font-weight: 600; font-size: 22px; transform-origin: 50% 50%; transform: translate(0px, 0px); opacity: 1; visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true">We are here for you. Our passion is helping everyone who has a blood related issue or problem. 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 227px; top: 330px; z-index: 8; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-10" class="tp-shape tp-shapewrapper rs-layer" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:-470px,-470px,-235px,-235px;y:m;yo:55px,55px,-50px,-50px;" data-dim="w:206px;h:150px;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:2000;sp:800;sR:2000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:7290;" style="z-index: 8; background-color: rgb(255, 255, 255); color: rgb(255, 255, 255); width: 206px; height: 150px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 298px; top: 348px; z-index: 9; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-1" data-type="image" data-rsp_ch="on" data-xy="x:c;xo:-470px,-470px,-235px,-235px;y:m;yo:30px,30px,-70px,-70px;" data-text="l:22;" data-dim="w:64px,64px,64px,64;h:64px,64px,64px,64;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:3000;sp:800;sR:3000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:6290;" style="z-index: 9; color: rgb(255, 255, 255); width: 64px; height: 64px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img src="//prairiebcc.com/storage/2018/07/Bleeding-Pro-e1531956868599.png" alt="" class="tp-rs-img rs-lazyload" width="64" height="64" data-lazyload="//prairiebcc.com/storage/2018/07/Bleeding-Pro-e1531956868599.png" data-no-retina="" data-reference="//prairiebcc.com/storage/2018/07/Bleeding-Pro-e1531956868599.png" data-src-rs-ref="//prairiebcc.com/storage/2018/07/Bleeding-Pro-e1531956868599.png" style="position: relative; height: 100%; width: 100%;"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 249px; top: 434px; z-index: 10; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-15" data-type="text" data-color="rgba(37, 37, 37, 1)" data-rsp_ch="on" data-xy="x:c;xo:-470px,-470px,-235px,-235px;y:m;yo:95px,95px,-10px,-10px;" data-text="s:16,17,17,19;l:22;fw:700;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:power2.out;st:2500;sp:800;sR:2500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:6790;" style="z-index: 10; font-family: Montserrat; height: auto; width: auto; color: rgb(37, 37, 37); text-decoration: none; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: left; line-height: 22px; letter-spacing: 0px; font-weight: 700; font-size: 16px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">Bleeding Problems 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 462px; top: 330px; z-index: 11; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-11" class="tp-shape tp-shapewrapper rs-layer" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:-235px,-235px,0,0;y:m;yo:55px,55px,-50px,-50px;" data-dim="w:206px;h:150px;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:2000;sp:800;sR:2000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:7290;" style="z-index: 11; background-color: rgb(255, 255, 255); color: rgb(255, 255, 255); width: 206px; height: 150px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 533px; top: 348px; z-index: 12; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-4" data-type="image" data-rsp_ch="on" data-xy="x:c;xo:-235px,-235px,0,0;y:m;yo:30px,30px,-70px,-70px;" data-text="l:22;" data-dim="w:64px,64,64px,64;h:64px,64,64px,64;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:3000;sp:800;sR:3000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:6290;" style="z-index: 12; color: rgb(255, 255, 255); width: 64px; height: 64px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img src="//prairiebcc.com/storage/2018/07/Platelets-e1531957176465.png" alt="" class="tp-rs-img rs-lazyload" width="64" height="64" data-lazyload="//prairiebcc.com/storage/2018/07/Platelets-e1531957176465.png" data-no-retina="" data-reference="//prairiebcc.com/storage/2018/07/Platelets-e1531957176465.png" data-src-rs-ref="//prairiebcc.com/storage/2018/07/Platelets-e1531957176465.png" style="position: relative; height: 100%; width: 100%;"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 490px; top: 434px; z-index: 13; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-16" data-type="text" data-color="rgba(37, 37, 37, 1)" data-rsp_ch="on" data-xy="x:c;xo:-235px,-235px,0,0;y:m;yo:95px,95px,-10px,-10px;" data-text="s:16,17,17,19;l:22;fw:700;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:power2.out;st:2500;sp:800;sR:2500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:6790;" style="z-index: 13; font-family: Montserrat; height: auto; width: auto; color: rgb(37, 37, 37); text-decoration: none; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: left; line-height: 22px; letter-spacing: 0px; font-weight: 700; font-size: 16px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">Platelet Problems 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 697px; top: 330px; z-index: 14; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-12" class="tp-shape tp-shapewrapper rs-layer" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:0,0,235px,235px;y:m;yo:55px,55px,-50px,-50px;" data-dim="w:206px;h:150px;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:2000;sp:800;sR:2000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:7290;" style="z-index: 14; background-color: rgb(255, 255, 255); color: rgb(255, 255, 255); width: 206px; height: 150px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 768px; top: 348px; z-index: 15; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-5" data-type="image" data-rsp_ch="on" data-xy="x:c;xo:0,0,235px,235px;y:m;yo:30px,30px,-70px,-70px;" data-text="l:22;" data-dim="w:64px,64,64px,64;h:64px,64,64px,64;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:3000;sp:800;sR:3000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:6290;" style="z-index: 15; color: rgb(255, 255, 255); width: 64px; height: 64px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img src="//prairiebcc.com/storage/2018/07/Blood-Clot-e1531957467770.png" alt="" class="tp-rs-img rs-lazyload" width="64" height="64" data-lazyload="//prairiebcc.com/storage/2018/07/Blood-Clot-e1531957467770.png" data-no-retina="" data-reference="//prairiebcc.com/storage/2018/07/Blood-Clot-e1531957467770.png" data-src-rs-ref="//prairiebcc.com/storage/2018/07/Blood-Clot-e1531957467770.png" style="position: relative; height: 100%; width: 100%;"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 723px; top: 434px; z-index: 16; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-17" data-type="text" data-color="rgba(37, 37, 37, 1)" data-rsp_ch="on" data-xy="x:c;xo:0,0,235px,235px;y:m;yo:95px,95px,-10px,-10px;" data-text="s:16,17,17,19;l:22;fw:700;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:power2.out;st:2500;sp:800;sR:2500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:6790;" style="z-index: 16; font-family: Montserrat; height: auto; width: auto; color: rgb(37, 37, 37); text-decoration: none; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: left; line-height: 22px; letter-spacing: 0px; font-weight: 700; font-size: 16px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">Clotting Problems 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 935px; top: 327px; z-index: 17; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-13" class="tp-shape tp-shapewrapper rs-layer" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:238px,238px,-117px,-117px;y:m;yo:52px,52px,130px,130px;" data-dim="w:206px;h:150px;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:2000;sp:800;sR:2000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:7290;" style="z-index: 17; background-color: rgb(255, 255, 255); color: rgb(255, 255, 255); width: 206px; height: 150px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 1003px; top: 348px; z-index: 18; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-7" data-type="image" data-rsp_ch="on" data-xy="x:c;xo:235px,235px,-117px,-117px;y:m;yo:30px,30px,110px,110px;" data-text="l:22;" data-dim="w:64px,64,64px,64;h:64px,64,64px,64;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:3000;sp:800;sR:3000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:6290;" style="z-index: 18; color: rgb(255, 255, 255); width: 64px; height: 64px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img src="//prairiebcc.com/storage/2018/07/White-Cells-e1531957768642.png" alt="" class="tp-rs-img rs-lazyload" width="64" height="64" data-lazyload="//prairiebcc.com/storage/2018/07/White-Cells-e1531957768642.png" data-no-retina="" data-reference="//prairiebcc.com/storage/2018/07/White-Cells-e1531957768642.png" data-src-rs-ref="//prairiebcc.com/storage/2018/07/White-Cells-e1531957768642.png" style="position: relative; height: 100%; width: 100%;"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 960px; top: 434px; z-index: 19; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-18" data-type="text" data-color="rgba(37, 37, 37, 1)" data-rsp_ch="on" data-xy="x:c;xo:235px,235px,-117px,-117px;y:m;yo:95px,95px,170px,170px;" data-text="s:16,17,17,19;l:22;fw:700;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:power1.out;st:2500;sp:800;sR:2500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:6790;" style="z-index: 19; font-family: Montserrat; height: auto; width: auto; color: rgb(37, 37, 37); text-decoration: none; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: left; line-height: 22px; letter-spacing: 0px; font-weight: 700; font-size: 16px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">	White Blood Cells 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 1167px; top: 330px; z-index: 20; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-14" class="tp-shape tp-shapewrapper rs-layer" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:470px,470px,117px,117px;y:m;yo:55px,55px,130px,130px;" data-dim="w:206px;h:150px;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:2000;sp:800;sR:2000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:7290;" style="z-index: 20; background-color: rgb(255, 255, 255); color: rgb(255, 255, 255); width: 206px; height: 150px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 1238px; top: 348px; z-index: 21; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-8" data-type="image" data-rsp_ch="on" data-xy="x:c;xo:470px,470px,117px,117px;y:m;yo:30px,30px,110px,110px;" data-text="l:22;" data-dim="w:64px,64,64px,64;h:64px,64,64px,64;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:3000;sp:800;sR:3000;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:6290;" style="z-index: 21; color: rgb(255, 255, 255); width: 64px; height: 64px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img src="//prairiebcc.com/storage/2018/07/Red-Cells-1.png" alt="" class="tp-rs-img rs-lazyload" data-lazyload="//prairiebcc.com/storage/2018/07/Red-Cells-1.png" data-no-retina="" data-src-rs-ref="//prairiebcc.com/storage/2018/07/Red-Cells-1.png" data-reference="//prairiebcc.com/storage/2018/07/Red-Cells-1.png" style="position: relative; height: 100%; width: 100%;"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 1203px; top: 434px; z-index: 22; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-19" data-type="text" data-color="rgba(37, 37, 37, 1)" data-rsp_ch="on" data-xy="x:c;xo:469px,470px,117px,117px;y:m;yo:95px,95px,170px,170px;" data-text="s:16,17,17,19;l:22;fw:700;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:power2.out;st:2500;sp:800;sR:2500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:6790;" style="z-index: 22; font-family: Montserrat; height: auto; width: auto; color: rgb(37, 37, 37); text-decoration: none; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: left; line-height: 22px; letter-spacing: 0px; font-weight: 700; font-size: 16px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">Red Blood Cells
+ 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 599px; top: 539px; z-index: 23; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><a id="slider-1-slide-1-layer-9" class="rs-layer rev-btn" href="https://prairiebcc.com/services/" target="_self" data-type="button" data-color="#ffcc00||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;xo:-106px,-128px,-128px,-128px;y:m;yo:215px,215px,290px,290px;" data-text="s:16,20,20,20;l:17,28,28,28;fw:700;a:center;" data-dim="w:190px,230px,230px,230px;" data-padding="t:15;r:20;b:14;l:20;" data-border="bos:solid;boc:rgba(255, 255, 255, 0.4);bow:3px,3px,3px,3px;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:3500;sp:800;sR:3500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:5790;" data-frame_hover="c:#fff;bgc:#34a6f7;boc:#34a6f7;bor:0px,0px,0px,0px;bos:solid;bow:3px,3px,3px,3px;oX:50;oY:50;sp:0;e:none;" style="z-index: 23; font-family: Montserrat; cursor: pointer; outline: none; box-shadow: none; box-sizing: border-box; height: auto; color: rgb(255, 204, 0); text-decoration: none; white-space: nowrap; width: 190px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: center; line-height: 17px; letter-spacing: 0px; font-weight: 700; font-size: 16px; border-color: rgba(255, 255, 255, 0.4); border-style: solid; border-width: 3px; padding: 15px 20px 14px; background-color: rgba(0, 0, 0, 0); transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true">More Services 
+							</a></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 812px; top: 540px; z-index: 24; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><a id="slider-1-slide-1-layer-20" class="rs-layer rev-btn" href="https://prairiebcc.com/our-clinic/prices/" target="_self" data-type="button" data-color="#ffcc00||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;xo:107px,128px,128px,128px;y:m;yo:216px,215px,290px,290px;" data-text="s:16,20,20,20;l:17,28,28,28;fw:700;a:center;" data-dim="w:190px,230px,230px,230px;" data-padding="t:15;r:20;b:14;l:20;" data-border="bos:solid;boc:rgba(255, 255, 255, 0.4);bow:3px,3px,3px,3px;" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;e:power2.out;st:3500;sp:800;sR:3500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:5790;" data-frame_hover="c:#fff;bgc:#34a6f7;boc:#34a6f7;bor:0px,0px,0px,0px;bos:solid;bow:3px,3px,3px,3px;oX:50;oY:50;sp:0;e:none;" style="z-index: 24; font-family: Montserrat; cursor: pointer; outline: none; box-shadow: none; box-sizing: border-box; height: auto; color: rgb(255, 204, 0); text-decoration: none; white-space: nowrap; width: 190px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: center; line-height: 17px; letter-spacing: 0px; font-weight: 700; font-size: 16px; border-color: rgba(255, 255, 255, 0.4); border-style: solid; border-width: 3px; padding: 15px 20px 14px; background-color: rgba(0, 0, 0, 0); transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" data-idcheck="true" data-stylerecorder="true" data-initialised="true">We're here for you 
+							</a></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 555px; top: 131px; z-index: 25; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-23" data-type="text" data-rsp_ch="on" data-xy="xo:360px;yo:131px;" data-text="s:60;l:22;a:inherit;" data-dim="w:472px;h:54px;" data-frame_0="tp:600;" data-frame_1="tp:600;sR:10;" data-frame_999="o:0;tp:600;st:w;sR:9780;" style="z-index: 25; font-family: &quot;Open Sans&quot;; color: rgb(255, 255, 255); text-decoration: none; white-space: nowrap; width: 472px; height: 54px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: inherit; line-height: 22px; letter-spacing: 0px; font-weight: 400; font-size: 60px; transform-origin: 50% 50%; transform: translate(0px, 0px); opacity: 1; visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 552px; top: 27px; z-index: 26; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-25" data-type="text" data-color="#ffcc00" data-rsp_ch="on" data-xy="xo:357px;yo:27px;" data-text="s:25;l:28;fw:600;a:inherit;" data-dim="w:465px;h:31px;" data-frame_0="tp:600;" data-frame_1="tp:600;st:0;" data-frame_999="o:0;tp:600;st:w;sR:9790;" style="z-index: 26; font-family: &quot;Open Sans&quot;; color: rgb(255, 204, 0); text-decoration: none; white-space: nowrap; width: 465px; height: 31px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: inherit; line-height: 28px; letter-spacing: 0px; font-weight: 600; font-size: 25px; transform-origin: 50% 50%; transform: translate(0px, 0px); opacity: 1; visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">At Prairie Bleeding and Clotting Center 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap>						</rs-slide>
+					</rs-slides></rs-module>
+				
+				<script>
+					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[],gw:[1210,1210,750,750],gh:[700,700,750,800],type:'hero',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider11"]!==undefined) {window.RS_MODULES.modules["revslider11"].once = false;window.revapi1 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+				</script>
+			</rs-module-wrap><rs-fw-forcer style="height:700px"></rs-fw-forcer></rs-fullwidth-wrap>
+			
+</div>
+
+<div id="main" class="sidebar-none sidebar-divider-off">
+
+	
+	<div class="main-gradient"></div>
+	<div class="wf-wrap">
+	<div class="wf-container-main">
+
+	
+
+
+	<div id="content" class="content" role="main">
+
+		<div class="vc_row wpb_row vc_row-fluid vc_custom_1494490890104 vc_column-gap-30 vc_row-o-equal-height vc_row-flex ult-vc-hide-row vc_row-has-fill" data-rtl="false" style="position: relative;" data-row-effect-mobile-disable="true"><div class="upb_row_bg" data-bg-override="ex-full" style="background: rgb(244, 244, 244); min-width: 1600px; left: -185px; width: 1600px;"></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-offset-2 vc_col-md-offset-2 vc_col-sm-offset-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="ultimate-heading-70526ab86b09eb5f4" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-70526ab86b09eb5f4 uvc-6046  uvc-heading-default-font-sizes" data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-70526ab86b09eb5f4 h1" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"><h1 style="font-weight:bold;">We are Central and Southern Illinois'<br>
+Blood Care leader</h1></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-70526ab86b09eb5f4 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:30px;&quot;}" style="font-weight:normal;color:#9a9a9a;margin-top:20px;margin-bottom:20px;"><p></p>
+<p style="text-align: center;">If your doctor tells you that there are concerns with your blood, please ask him/her to send you the Prairie Bleeding and Clotting Center. We are specialists in all things related to the blood.</p>
+<p></p></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-0 vc_col-md-4 vc_col-sm-offset-2 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471297612919"><div class="wpb_wrapper"><div class="ult-just-icon-wrapper   vc_custom_1471287151498"><div class="align-icon" style="text-align:center;">
+<div class="aio-icon advanced " style="color:#dd8500;background:#ffffff;border-style:solid;border-color:#ffffff;border-width:3px;width:70px;height:70px;line-height:70px;border-radius:500px;font-size:32px;display:inline-block;">
+	<i class="icomoon-brankic-32x32-health"></i>
+</div></div></div><div id="ultimate-heading-53826ab86b09eb70f" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-53826ab86b09eb70f uvc-3905  uvc-heading-default-font-sizes" data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-53826ab86b09eb70f h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"><h3 style="font-weight:bold;color:#ffffff;">ABOUT US</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-53826ab86b09eb70f .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:14px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" style="font-weight:normal;color:#ffffff;margin-top:10px;margin-bottom:20px;"><p></p>
+<p style="text-align: center;">We care. If there is a problem with your blood, we care. We are there for you from the moment the problem is discovered onward.</p>
+<p></p></div></div><div class=" vc_custom_1543273735540 ubtn-ctn-center "><a class="ubtn-link ult-adjust-bottom-margin ubtn-center ubtn-custom " href="https://prairiebcc.com/departments/"><button type="button" id="ubtn-2623" class="ubtn ult-adjust-bottom-margin ult-responsive ubtn-custom ubtn-fade-bg  none  ubtn-center   tooltip-6ab86b09eb72b" data-hover="#dd8500" data-border-color="rgba(255,255,255,0.4)" data-bg="rgba(255,255,255,0.01)" data-hover-bg="#ffffff" data-border-hover="#ffffff" data-shadow-hover="" data-shadow-click="none" data-shadow="" data-shd-shadow="" data-ultimate-target="#ubtn-2623" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:12px;&quot;,&quot;line-height&quot;:&quot;desktop:12px;&quot;}" style="font-family:'Montserrat';font-weight:normal;font-style:normal;width:px;min-height:34px;padding:5px 12px;border-radius:0px;border-width:2px;border-color:rgba(255,255,255,0.4);border-style:solid;background: rgba(255,255,255,0.01);color: #ffffff;"><span class="ubtn-hover" style="background-color:#ffffff"></span><span class="ubtn-data ubtn-text ">See our strengths</span></button></a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-0 vc_col-md-4 vc_col-sm-offset-2 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471297618475"><div class="wpb_wrapper"><div class="ult-just-icon-wrapper   vc_custom_1471287207331"><div class="align-icon" style="text-align:center;">
+<div class="aio-icon advanced " style="color:#dd8500;background:#ffffff;border-style:solid;border-color:#ffffff;border-width:3px;width:70px;height:70px;line-height:70px;border-radius:500px;font-size:32px;display:inline-block;">
+	<i class="icomoon-brankic-32x32-profile2"></i>
+</div></div></div><div id="ultimate-heading-14286ab86b09eb816" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-14286ab86b09eb816 uvc-4228  uvc-heading-default-font-sizes" data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-14286ab86b09eb816 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"><h3 style="font-weight:bold;color:#ffffff;">PROVIDERS</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-14286ab86b09eb816 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:14px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" style="font-weight:normal;color:#ffffff;margin-top:10px;margin-bottom:20px;"><p></p>
+<p style="text-align: center;">Our providers have years of experience and extensive knowledge of problems with the blood as well as problems with the immune system.</p>
+<p></p></div></div><div class=" vc_custom_1543273403675 ubtn-ctn-center "><a class="ubtn-link ult-adjust-bottom-margin ubtn-center ubtn-custom " href="https://prairiebcc.com/doctors/"><button type="button" id="ubtn-1039" class="ubtn ult-adjust-bottom-margin ult-responsive ubtn-custom ubtn-fade-bg  none  ubtn-center   tooltip-6ab86b09eb82e" data-hover="#dd8500" data-border-color="rgba(255,255,255,0.4)" data-bg="rgba(255,255,255,0.01)" data-hover-bg="#ffffff" data-border-hover="#ffffff" data-shadow-hover="" data-shadow-click="none" data-shadow="" data-shd-shadow="" data-ultimate-target="#ubtn-1039" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:12px;&quot;,&quot;line-height&quot;:&quot;desktop:12px;&quot;}" style="font-family:'Montserrat';font-weight:normal;font-style:normal;width:px;min-height:34px;padding:5px 12px;border-radius:0px;border-width:2px;border-color:rgba(255,255,255,0.4);border-style:solid;background: rgba(255,255,255,0.01);color: #ffffff;"><span class="ubtn-hover" style="background-color:#ffffff"></span><span class="ubtn-data ubtn-text ">See our providers</span></button></a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-0 vc_col-md-4 vc_col-sm-offset-2 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471297623988"><div class="wpb_wrapper"><div class="ult-just-icon-wrapper   vc_custom_1471287169774"><div class="align-icon" style="text-align:center;">
+<div class="aio-icon advanced " style="color:#dd8500;background:#ffffff;border-style:solid;border-color:#ffffff;border-width:3px;width:70px;height:70px;line-height:70px;border-radius:500px;font-size:32px;display:inline-block;">
+	<i class="icomoon-brankic-32x32-calendar"></i>
+</div></div></div><div id="ultimate-heading-59236ab86b09eb8e5" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-59236ab86b09eb8e5 uvc-6940  uvc-heading-default-font-sizes" data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-59236ab86b09eb8e5 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"><h3 style="font-weight:bold;color:#ffffff;">APPOINTMENTS</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-59236ab86b09eb8e5 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:14px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" style="font-weight:normal;color:#ffffff;margin-top:10px;margin-bottom:20px;"><p></p>
+<p style="text-align: center;">We can get you in within a day or two of your call. Please call us at 217-546-7100</p>
+<p></p></div></div><div class=" vc_custom_1543273599045 ubtn-ctn-center "><a class="ubtn-link ult-adjust-bottom-margin ubtn-center ubtn-custom " href="https://prairiebcc.com/contact/"><button type="button" id="ubtn-5358" class="ubtn ult-adjust-bottom-margin ult-responsive ubtn-custom ubtn-fade-bg  none  ubtn-center   tooltip-6ab86b09eb8f9" data-hover="#dd8500" data-border-color="rgba(255,255,255,0.4)" data-bg="rgba(255,255,255,0.01)" data-hover-bg="#ffffff" data-border-hover="#ffffff" data-shadow-hover="" data-shadow-click="none" data-shadow="" data-shd-shadow="" data-ultimate-target="#ubtn-5358" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:12px;&quot;,&quot;line-height&quot;:&quot;desktop:12px;&quot;}" style="font-family:'Montserrat';font-weight:normal;font-style:normal;width:px;min-height:34px;padding:5px 12px;border-radius:0px;border-width:2px;border-color:rgba(255,255,255,0.4);border-style:solid;background: rgba(255,255,255,0.01);color: #ffffff;"><span class="ubtn-hover" style="background-color:#ffffff"></span><span class="ubtn-data ubtn-text ">Contact Us</span></button></a></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1462822508532 vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-offset-2 vc_col-md-offset-2 vc_col-sm-offset-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="ultimate-heading-6106ab86b09ebba1" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-6106ab86b09ebba1 uvc-4471  uvc-heading-default-font-sizes" data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-6106ab86b09ebba1 h1" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"><h1 style="font-weight:bold;">A solid team devoted to blood related problems</h1></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-6106ab86b09ebba1 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" style="font-weight:normal;color:#9a9a9a;margin-top:20px;margin-bottom:60px;">The blood can sometimes be confusing. It is a liquid with many ingredients. Some ingredients help your blood to clot. Others help your blood to bleed more easily.&nbsp;We at Prairie Bleeding and Clotting Center have an outstanding team ready to help you with all concerns relating to the blood.</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="aio-icon-component    style_1"><div id="Info-box-wrap-7095" class="aio-icon-box left-icon" style=""><div class="aio-ibd-block"><div class="aio-icon-header"><h3 class="aio-icon-title ult-responsive" data-ultimate-target="#Info-box-wrap-7095 .aio-icon-title" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Experienced physician</h3></div> <div class="aio-icon-description ult-responsive" data-ultimate-target="#Info-box-wrap-7095 .aio-icon-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Our doctor has years of experience with blood related problems and has been recognized as both a Teacher of the Year by his medical students as well as Physician of the Year by a national bleeding disorders organization.</div> </div> </div> </div> </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="aio-icon-component    style_1"><div id="Info-box-wrap-3704" class="aio-icon-box left-icon" style=""><div class="aio-ibd-block"><div class="aio-icon-header"><h3 class="aio-icon-title ult-responsive" data-ultimate-target="#Info-box-wrap-3704 .aio-icon-title" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Nurse Practitioner</h3></div> <div class="aio-icon-description ult-responsive" data-ultimate-target="#Info-box-wrap-3704 .aio-icon-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">In consultation with our physician, our Nurse Practitioner is solidly prepared to diagnose, treat and care for all of your bleeding problems. In addition, she is kind, wonderfully compassionate and always available to assist both in person as well as on the telephone.</div> </div> </div> </div> </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="aio-icon-component    style_1"><div id="Info-box-wrap-3488" class="aio-icon-box left-icon" style=""><div class="aio-ibd-block"><div class="aio-icon-header"><h3 class="aio-icon-title ult-responsive" data-ultimate-target="#Info-box-wrap-3488 .aio-icon-title" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Pharmacist</h3></div> <div class="aio-icon-description ult-responsive" data-ultimate-target="#Info-box-wrap-3488 .aio-icon-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Our pharmacist is highly knowledgeable in all of the medications needed by patients with blood related problems. She is wonderfully compassionate and always available to assist both in person as well as on the telephone.</div> </div> </div> </div> </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="aio-icon-component    style_1"><div id="Info-box-wrap-1030" class="aio-icon-box left-icon" style=""><div class="aio-ibd-block"><div class="aio-icon-header"><h3 class="aio-icon-title ult-responsive" data-ultimate-target="#Info-box-wrap-1030 .aio-icon-title" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Social Worker</h3></div> <div class="aio-icon-description ult-responsive" data-ultimate-target="#Info-box-wrap-1030 .aio-icon-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Sometimes patients with blood disorders are young. At these early ages social issues such as school and home environment may affect the care and success of treatment of the blood related issue. Our social worker is here to help both the young and the older person with compassionate, caring advice and suggestions for a better environment for the patient.</div> </div> </div> </div> </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="aio-icon-component    style_1"><div id="Info-box-wrap-1542" class="aio-icon-box left-icon" style=""><div class="aio-ibd-block"><div class="aio-icon-header"><h3 class="aio-icon-title ult-responsive" data-ultimate-target="#Info-box-wrap-1542 .aio-icon-title" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Dentist</h3></div> <div class="aio-icon-description ult-responsive" data-ultimate-target="#Info-box-wrap-1542 .aio-icon-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Our affiliated dentist is ready to provide guidance, information, examinations and care of the oral cavity of our patients with blood and bleeding related disorders.</div> </div> </div> </div> </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="aio-icon-component    style_1"><div id="Info-box-wrap-8277" class="aio-icon-box left-icon" style=""><div class="aio-ibd-block"><div class="aio-icon-header"><h3 class="aio-icon-title ult-responsive" data-ultimate-target="#Info-box-wrap-8277 .aio-icon-title" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Physical Therapist</h3></div> <div class="aio-icon-description ult-responsive" data-ultimate-target="#Info-box-wrap-8277 .aio-icon-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="">Our affiliated Physical Therapist is available to help patients with blood related issues as needed. Many times patients with bleeding disorder bleed into their joints. This results in joint pain and joint limitations. Our Physical therapist recommends exercises and other measures to improve and maintain mobility.</div> </div> </div> </div> </div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2018/07/Wellness-Wooden-blocks.jpg" width="1218" height="290" alt="Wellness Wooden blocks" title="Wellness Wooden blocks" data-dt-location="https://prairiebcc.com/wellness-wooden-blocks/"></div>
+		</figure>
+	</div>
+</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1471297632374 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-middle vc_row-flex" style="left: -200px; position: relative; box-sizing: border-box; width: 1600px; padding-left: 200px; padding-right: 200px;"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-8 vc_col-md-8 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="ultimate-heading-36506ab86b09ec6c0" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-36506ab86b09ec6c0 uvc-8217 " data-hspacer="no_spacer" data-halign="left" style="text-align:left"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-36506ab86b09ec6c0 h2" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:30px;&quot;,&quot;line-height&quot;:&quot;desktop:40px;&quot;}"><h2 style="--font-weight:theme;color:#ffffff;margin-bottom:10px;">We can help you</h2></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-36506ab86b09ec6c0 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:17px;&quot;,&quot;line-height&quot;:&quot;desktop:27px;&quot;}" style="font-weight:normal;color:#ffffff;">We can see you within a day or two.</div></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="ultimate-heading-49796ab86b09ec7cf" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-49796ab86b09ec7cf uvc-9048 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-49796ab86b09ec7cf h2" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:30px;&quot;,&quot;line-height&quot;:&quot;desktop:40px;&quot;}"><h2 style="--font-weight:theme;color:#ffffff;margin-bottom:10px;">Are you ready for a consultation?</h2></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-49796ab86b09ec7cf .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:17px;&quot;,&quot;line-height&quot;:&quot;desktop:27px;&quot;}" style="font-weight:normal;color:#ffffff;">Your treatment will be performed by licensed therapist. Schedule your appointment now!</div></div><div class=" vc_custom_1471330901093 ubtn-ctn-center "><button type="button" id="ubtn-2248" class="ubtn ult-adjust-bottom-margin ult-responsive ubtn-custom ubtn-fade-bg  none  ubtn-center   tooltip-6ab86b09ec7e7" data-hover="#dd8500" data-border-color="rgba(255,255,255,0.4)" data-bg="rgba(255,255,255,0.01)" data-hover-bg="#ffffff" data-border-hover="#ffffff" data-shadow-hover="" data-shadow-click="none" data-shadow="" data-shd-shadow="" data-ultimate-target="#ubtn-2248" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:18px;&quot;}" style="font-family:'Montserrat';font-weight:700;width:px;min-height:38px;padding:15px 25px;border-radius:0px;border-width:4px;border-color:rgba(255,255,255,0.4);border-style:solid;background: rgba(255,255,255,0.01);color: #ffffff;"><span class="ubtn-hover" style="background-color:#ffffff"></span><span class="ubtn-data ubtn-text ">Contact Us Today!</span></button></div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4 vc_hidden-sm vc_col-xs-12 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"><div class=" vc_custom_1532044713763 ubtn-ctn-right "><a class="ubtn-link ult-adjust-bottom-margin ubtn-right ubtn-custom " href="https://prairiebcc.com/contact/"><button type="button" id="ubtn-5425" class="ubtn ult-adjust-bottom-margin ult-responsive ubtn-custom ubtn-fade-bg  none  ubtn-right   tooltip-6ab86b09ec8bb" data-hover="#dd8500" data-border-color="rgba(255,255,255,0.4)" data-bg="rgba(255,255,255,0.01)" data-hover-bg="#ffffff" data-border-hover="#ffffff" data-shadow-hover="" data-shadow-click="none" data-shadow="" data-shd-shadow="" data-ultimate-target="#ubtn-5425" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:20px;&quot;,&quot;line-height&quot;:&quot;desktop:20px;&quot;}" style="font-family:'Montserrat';font-weight:700;width:px;min-height:38px;padding:15px 25px;border-radius:0px;border-width:4px;border-color:rgba(255,255,255,0.4);border-style:solid;background: rgba(255,255,255,0.01);color: #ffffff;"><span class="ubtn-hover" style="background-color:#ffffff"></span><span class="ubtn-data ubtn-text ">Contact Us!</span></button></a></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-5 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1532044079364">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2018/07/Wellness-Wooden-blocks-417x290.jpg" width="417" height="290" alt="Wellness Wooden blocks" title="Wellness Wooden blocks" data-dt-location="https://prairiebcc.com/wellness-wooden-blocks/"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-7"><div class="vc_column-inner vc_custom_1463674168971"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1532045542329">
+		<div class="wpb_wrapper">
+			<h3><strong>Areas of Focus</strong></h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_accordion wpb_content_element  not-column-inherit dt-style dt-accordion-bg-on dt-accordion-h6-size" data-collapsible="" data-vc-disable-keydown="false" data-active-tab="1">
+		<div class="wpb_wrapper wpb_accordion_wrapper ui-accordion ui-widget ui-helper-reset" role="tablist">
+
+
+	<div class="wpb_accordion_section group">
+		<h3 class="wpb_accordion_header ui-accordion-header ui-corner-top ui-state-default ui-accordion-header-active ui-state-active ui-accordion-icons" role="tab" id="ui-id-1" aria-controls="ui-id-2" aria-selected="true" aria-expanded="true" tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-s"></span><a href="#bleeding-disorders"><span>Bleeding Disorders</span></a></h3>
+		<div class="wpb_accordion_content ui-accordion-content vc_clearfix ui-corner-bottom ui-helper-reset ui-widget-content ui-accordion-content-active" style="display: block;" id="ui-id-2" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false">
+			<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1463071479632"><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3 vc_col-md-3 vc_col-xs-4"><div class="vc_column-inner vc_custom_1463071010461"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2018/07/Bleeding-Pro-e1531956868599.png" width="64" height="64" alt="Bleeding Pro" title="Bleeding Pro" data-dt-location="https://prairiebcc.com/bleeding-pro/"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-9 vc_col-lg-9 vc_col-md-9 vc_col-xs-8"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1532045932036">
+		<div class="wpb_wrapper">
+			<p>Bleeding problems can be very scary for the person who has them. These disorders require a deep understanding of the problem as well as an understanding of how the problem affects the problem medically, socially as well as emotionally.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+		</div>
+	</div>
+
+	<div class="wpb_accordion_section group">
+		<h3 class="wpb_accordion_header ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" id="ui-id-3" aria-controls="ui-id-4" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#platelet-disorders"><span>Platelet Disorders</span></a></h3>
+		<div class="wpb_accordion_content ui-accordion-content vc_clearfix ui-corner-bottom ui-helper-reset ui-widget-content" style="display: none;" id="ui-id-4" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true">
+			<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1463071512494"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-3 vc_col-md-3 vc_col-xs-4"><div class="vc_column-inner vc_custom_1463071504489"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2018/07/Platelets-e1531957176465.png" width="64" height="64" alt="Platelets" title="Platelets" data-dt-location="https://prairiebcc.com/platelets/"></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1532048270382">
+		<div class="wpb_wrapper">
+			<p>Platelet disorders are often a concern. Platelets levels can be either too low or too high. Sometimes platelet are neither low nor high; they just do not work as they are supposed to work. All of these concerns are important. We at Prairie Bleeding and Clotting are very comfortable taking care of these issues.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+		</div>
+	</div>
+
+	<div class="wpb_accordion_section group">
+		<h3 class="wpb_accordion_header ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" id="ui-id-5" aria-controls="ui-id-6" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#anemia-and-red-cell-disorders"><span>Anemia and Red Cell Disorders</span></a></h3>
+		<div class="wpb_accordion_content ui-accordion-content vc_clearfix ui-corner-bottom ui-helper-reset ui-widget-content" style="display: none;" id="ui-id-6" aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true">
+			<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1463071534749"><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3 vc_col-md-3 vc_col-xs-4"><div class="vc_column-inner vc_custom_1463071519302"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2018/07/Red-Cells-e1531958025992.png" width="64" height="64" alt="Red Cells" title="Red Cells" data-dt-location="https://prairiebcc.com/red-cells/"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-9"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1532047877271">
+		<div class="wpb_wrapper">
+			<p>Many people are told that they are anemic. This is especially of concern in women of child-bearing age because of possible heavy menstrual bleeding. We will make sure to evaluate any possible anemia and its possible causes.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+		</div>
+	</div>
+
+	<div class="wpb_accordion_section group">
+		<h3 class="wpb_accordion_header ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" id="ui-id-7" aria-controls="ui-id-8" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#white-blood-cell-disorders"><span>White Blood Cell Disorders</span></a></h3>
+		<div class="wpb_accordion_content ui-accordion-content vc_clearfix ui-corner-bottom ui-helper-reset ui-widget-content" style="display: none;" id="ui-id-8" aria-labelledby="ui-id-7" role="tabpanel" aria-hidden="true">
+			<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1463071547612"><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3 vc_col-md-3 vc_col-xs-4"><div class="vc_column-inner vc_custom_1463071563936"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2018/07/White-Cells-e1531957768642.png" width="64" height="64" alt="White Cells" title="White Cells" data-dt-location="https://prairiebcc.com/white-cells/"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-9 vc_col-lg-9 vc_col-md-9 vc_col-xs-8"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1532047974221">
+		<div class="wpb_wrapper">
+			<p>White blood cells in the blood are an especially tricky concern. The white cells may be too high or too low. Alternatively, the white cells may be not working as they are supposed to work. We are comfortable with all of these issues.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+		</div>
+	</div>
+
+	<div class="wpb_accordion_section group">
+		<h3 class="wpb_accordion_header ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" id="ui-id-9" aria-controls="ui-id-10" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#clotting-disorders"><span>Clotting Disorders</span></a></h3>
+		<div class="wpb_accordion_content ui-accordion-content vc_clearfix ui-corner-bottom ui-helper-reset ui-widget-content" style="display: none;" id="ui-id-10" aria-labelledby="ui-id-9" role="tabpanel" aria-hidden="true">
+			<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1463071608571"><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3 vc_col-md-3 vc_col-xs-4"><div class="vc_column-inner vc_custom_1463071577013"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2018/07/Blood-Clot-e1531957467770.png" width="64" height="64" alt="Blood Clot" title="Blood Clot" data-dt-location="https://prairiebcc.com/blood-clot/"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-9 vc_col-lg-9 vc_col-md-9 vc_col-xs-8"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1532048071048">
+		<div class="wpb_wrapper">
+			<p>It is unfortunately common for someone to suddenly find that they have a “Charley Horse” in their leg only to discover that it is actually a blood clot in their leg. We study the why? how? and what do we do about it now? of all blood clots.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+		</div>
+	</div>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1542235625735 vc_row-o-equal-height vc_row-flex ult-vc-hide-row vc_row-has-fill" data-rtl="false" style="position: relative;" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true"><div class="upb_row_bg vcpb-default" data-upb_br_animation="" data-parallax_sense="30" data-bg-override="ex-full" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" style="background-size: cover; background-repeat: no-repeat; background-color: rgba(0, 0, 0, 0); background-image: url(&quot;https://prairiebcc.com/storage/2018/07/main.png&quot;); background-attachment: scroll; min-width: 1600px; left: -200px; width: 1600px;"><div class="upb_bg_overlay" style="background-color:rgba(37,37,37,0.8);"></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-offset-2 vc_col-md-offset-2 vc_col-sm-offset-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="ultimate-heading-78176ab86b09efa6c" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-78176ab86b09efa6c uvc-4113  uvc-heading-default-font-sizes" data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-78176ab86b09efa6c h1" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"><h1 style="font-weight:bold;color:#ffffff;">Our team is our great strength</h1></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-78176ab86b09efa6c .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" style="font-weight:normal;color:#d3d3d3;margin-top:20px;margin-bottom:60px;">Patients often tell us that “we wear our hearts on our sleeve” because of our compassion and caring – but we would not have it any other way!</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-1 vc_col-md-5 vc_col-sm-offset-0 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471297641929"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://prairiebcc.com/services/" target="_self" class="vc_single_image-wrapper vc_box_border_grey rollover this-ready" data-large_image_width="312" data-large_image_height="198"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/pharmaceutical_service-1-265x176.jpg" width="265" height="176" alt="pharmaceutical_service" title="pharmaceutical_service" data-dt-location="https://prairiebcc.com/home/pharmaceutical_service/"><i></i></a>
+		</figure>
+	</div>
+<div id="ultimate-heading-94036ab86b09efdb5" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-94036ab86b09efdb5 uvc-7489 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-94036ab86b09efdb5 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:16px;&quot;,&quot;line-height&quot;:&quot;desktop:26px;&quot;}"><h3 style="--font-weight:theme;color:#ffffff;margin-top:13px;margin-bottom:12px;">Pharmaceutical Service</h3></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-5 vc_col-sm-offset-0 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471297648170"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://prairiebcc.com/services/" target="_self" class="vc_single_image-wrapper vc_box_border_grey rollover this-ready" data-large_image_width="337" data-large_image_height="198"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/medical_counseling-1-265x176.jpg" width="265" height="176" alt="medical_counseling" title="medical_counseling" data-dt-location="https://prairiebcc.com/home/medical_counseling/"><i></i></a>
+		</figure>
+	</div>
+<div id="ultimate-heading-88116ab86b09f00c8" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-88116ab86b09f00c8 uvc-1713 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-88116ab86b09f00c8 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:16px;&quot;,&quot;line-height&quot;:&quot;desktop:26px;&quot;}"><h3 style="--font-weight:theme;color:#ffffff;margin-top:13px;margin-bottom:12px;">Medical Counseling</h3></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-1 vc_col-md-5 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471297655246"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://prairiebcc.com/services/" target="_self" class="vc_single_image-wrapper vc_box_border_grey rollover this-ready" data-large_image_width="310" data-large_image_height="206"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/office_staff-1-265x176.jpg" width="265" height="176" alt="office_staff" title="office_staff" data-dt-location="https://prairiebcc.com/home/office_staff/"><i></i></a>
+		</figure>
+	</div>
+<div id="ultimate-heading-29866ab86b09f038a" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-29866ab86b09f038a uvc-3922 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-29866ab86b09f038a h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:16px;&quot;,&quot;line-height&quot;:&quot;desktop:26px;&quot;}"><h3 style="--font-weight:theme;color:#ffffff;margin-top:13px;margin-bottom:12px;">Dedicated Administrative Team</h3></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-5 vc_col-sm-offset-0 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471297660763"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://prairiebcc.com/services/" target="_self" class="vc_single_image-wrapper vc_box_border_grey rollover this-ready" data-large_image_width="365" data-large_image_height="195"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/social_services-1-265x176.jpg" width="265" height="176" alt="social_services" title="social_services" data-dt-location="https://prairiebcc.com/home/social_services/"><i></i></a>
+		</figure>
+	</div>
+<div id="ultimate-heading-50826ab86b09f0651" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-50826ab86b09f0651 uvc-3836 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-50826ab86b09f0651 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:16px;&quot;,&quot;line-height&quot;:&quot;desktop:26px;&quot;}"><h3 style="--font-weight:theme;color:#ffffff;margin-top:13px;margin-bottom:12px;">Social Services</h3></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1471290668451"><div class="wpb_wrapper"><div class=" vc_custom_1471330969021 ubtn-ctn-center "><a class="ubtn-link ult-adjust-bottom-margin ubtn-center ubtn-custom " href="http://the7.io/medical/services/"><button type="button" id="ubtn-3465" class="ubtn ult-adjust-bottom-margin ult-responsive ubtn-custom ubtn-fade-bg  none  ubtn-center   tooltip-6ab86b09f06f0" data-hover="#ffffff" data-border-color="rgba(255,255,255,0.4)" data-bg="rgba(255,255,255,0.01)" data-hover-bg="#dd8500" data-border-hover="#dd8500" data-shadow-hover="" data-shadow-click="none" data-shadow="" data-shd-shadow="" data-ultimate-target="#ubtn-3465" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:16px;&quot;,&quot;line-height&quot;:&quot;desktop:16px;&quot;}" style="font-family:'Montserrat';font-weight:700;width:240px;min-height:44px;padding:14px 25px;border-radius:0px;border-width:3px;border-color:rgba(255,255,255,0.4);border-style:solid;background: rgba(255,255,255,0.01);color: #ffffff;"><span class="ubtn-hover" style="background-color:#dd8500"></span><span class="ubtn-data ubtn-text ">View All Services</span></button></a></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1471333741766 vc_column-gap-35 vc_row-o-equal-height vc_row-flex ult-vc-hide-row vc_row-has-fill" data-rtl="false" style="position: relative;" data-row-effect-mobile-disable="true"><div class="upb_row_bg" data-bg-override="ex-full" style="background: rgb(244, 244, 244); min-width: 1600px; left: -182.5px; width: 1600px;"></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-offset-2 vc_col-md-offset-2 vc_col-sm-offset-2 vc_col-has-fill"><div class="vc_column-inner vc_custom_1467285822009"><div class="wpb_wrapper"><div id="ultimate-heading-34796ab86b09f09b1" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-34796ab86b09f09b1 uvc-1111 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-34796ab86b09f09b1 h2" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:30px;&quot;,&quot;line-height&quot;:&quot;desktop:36px;&quot;}"><h2 style="font-weight:bold;">Compassionate Providers</h2></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-34796ab86b09f09b1 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" style="font-weight:normal;color:#9a9a9a;margin-top:20px;margin-bottom:30px;">Compassion for our patients is our guiding principle. We feel that we are their lifeline to a better quality of life and longevity with their illness. When we say “we are here for you,” that is more than a slogan. It is a heartfelt commitment to the care and well being of our patients.</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-xs-12"><div class="vc_column-inner vc_custom_1471333784237"><div class="wpb_wrapper"><div id="ult-carousel-28729138106ab86b09f0a88" class="ult-carousel-wrapper  vc_custom_1471331891673  ult_horizontal" data-gutter="25" data-rtl="false"><div class="ult-carousel-3540660876ab86b09f0a74 slick-initialized slick-slider"><button type="button" role="button" aria-label="Previous" style="color: rgb(37, 37, 37); font-size: 40px;" class="slick-prev default slick-arrow"><i class="ultsl-arrow-left6"></i></button><div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4130px; transform: translate3d(-1180px, 0px, 0px);" role="listbox"><div class="ult-item-wrap slick-slide slick-cloned" data-animation="animated no-animation" data-slick-index="-4" id="" aria-hidden="true" style="width: 245px;" tabindex="-1"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289332733 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289342595"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-636ab86b09f1125 uvc-6423 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-636ab86b09f1125 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Kathy Neitzel</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-636ab86b09f1125 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Office Manager</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Kathy-Neitzel-smaller-rotated-265x265.jpg" width="265" height="265" alt="Kathy Neitzel smaller" title="Kathy Neitzel smaller" data-dt-location="https://prairiebcc.com/kathy-neitzel-smaller/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-cloned" data-animation="animated no-animation" data-slick-index="-3" id="" aria-hidden="true" style="width: 245px;" tabindex="-1"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289355800 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289364917"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-13986ab86b09f13a2 uvc-1835 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-13986ab86b09f13a2 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Debbie Costales</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-13986ab86b09f13a2 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Patient Advocate</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Debbie-Costales-265x265.jpg" width="265" height="265" alt="Debbie Costales" title="Debbie Costales" data-dt-location="https://prairiebcc.com/debbie-costales/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-cloned" data-animation="animated no-animation" data-slick-index="-2" id="" aria-hidden="true" style="width: 245px;" tabindex="-1"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289355800 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289364917"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-58156ab86b09f15f9 uvc-9030 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-58156ab86b09f15f9 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Mia Holman</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-58156ab86b09f15f9 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Social Worker</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Mia-Holman-265x265.jpg" width="265" height="265" alt="Mia Holman" title="Mia Holman" data-dt-location="https://prairiebcc.com/mia-holman/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-cloned" data-animation="animated no-animation" data-slick-index="-1" id="" aria-hidden="true" style="width: 245px;" tabindex="-1"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289355800 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289364917"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-89136ab86b09f185d uvc-6360 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-89136ab86b09f185d h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Carolina Guzman</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-89136ab86b09f185d .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Chicago Office Manager</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Carolina-Guzman-265x265.jpg" width="265" height="265" alt="Carolina Guzman" title="Carolina Guzman" data-dt-location="https://prairiebcc.com/carolina-guzman/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-current slick-active animated no-animation" data-animation="animated no-animation" data-slick-index="0" aria-hidden="false" style="width: 245px;" tabindex="-1" role="option" aria-describedby="slick-slide00"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289175547 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289102295"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="ultimate-heading-88716ab86b09f0bb7" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-88716ab86b09f0bb7 uvc-3985 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-88716ab86b09f0bb7 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Osvaldo Wesly, MD</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-88716ab86b09f0bb7 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Hematologist/Oncologist</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/10/DrOWeslyPhoto-265x265.jpg" width="265" height="265" alt="DrOWeslyPhoto" title="DrOWeslyPhoto" data-dt-location="https://prairiebcc.com/dr-osvaldo-wesly-md/droweslyphoto-2/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-active animated no-animation" data-animation="animated no-animation" data-slick-index="1" aria-hidden="false" style="width: 245px;" tabindex="-1" role="option" aria-describedby="slick-slide01"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289355800 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289364917"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="ultimate-heading-72056ab86b09f0e97" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-72056ab86b09f0e97 uvc-8846 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-72056ab86b09f0e97 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">H Nicole Hangartner, NP</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-72056ab86b09f0e97 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Nurse Practitioner</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Nicole-Hangartner-265x265.jpg" width="265" height="265" alt="Nicole Hangartner" title="Nicole Hangartner" data-dt-location="https://prairiebcc.com/nicole-hangartner/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-active animated no-animation" data-animation="animated no-animation" data-slick-index="2" aria-hidden="false" style="width: 245px;" tabindex="-1" role="option" aria-describedby="slick-slide02"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289332733 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289342595"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="ultimate-heading-636ab86b09f1125" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-636ab86b09f1125 uvc-6423 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-636ab86b09f1125 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Kathy Neitzel</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-636ab86b09f1125 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Office Manager</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Kathy-Neitzel-smaller-rotated-265x265.jpg" width="265" height="265" alt="Kathy Neitzel smaller" title="Kathy Neitzel smaller" data-dt-location="https://prairiebcc.com/kathy-neitzel-smaller/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-active animated no-animation" data-animation="animated no-animation" data-slick-index="3" aria-hidden="false" style="width: 245px;" tabindex="-1" role="option" aria-describedby="slick-slide03"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289355800 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289364917"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="ultimate-heading-13986ab86b09f13a2" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-13986ab86b09f13a2 uvc-1835 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-13986ab86b09f13a2 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Debbie Costales</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-13986ab86b09f13a2 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Patient Advocate</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Debbie-Costales-265x265.jpg" width="265" height="265" alt="Debbie Costales" title="Debbie Costales" data-dt-location="https://prairiebcc.com/debbie-costales/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide" data-animation="animated no-animation" data-slick-index="4" aria-hidden="true" style="width: 245px;" tabindex="-1" role="option" aria-describedby="slick-slide04"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289355800 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289364917"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="ultimate-heading-58156ab86b09f15f9" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-58156ab86b09f15f9 uvc-9030 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-58156ab86b09f15f9 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Mia Holman</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-58156ab86b09f15f9 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Social Worker</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Mia-Holman-265x265.jpg" width="265" height="265" alt="Mia Holman" title="Mia Holman" data-dt-location="https://prairiebcc.com/mia-holman/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide" data-animation="animated no-animation" data-slick-index="5" aria-hidden="true" style="width: 245px;" tabindex="-1" role="option" aria-describedby="slick-slide05"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289355800 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289364917"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="ultimate-heading-89136ab86b09f185d" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-89136ab86b09f185d uvc-6360 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-89136ab86b09f185d h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Carolina Guzman</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-89136ab86b09f185d .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Chicago Office Manager</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Carolina-Guzman-265x265.jpg" width="265" height="265" alt="Carolina Guzman" title="Carolina Guzman" data-dt-location="https://prairiebcc.com/carolina-guzman/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-cloned" data-animation="animated no-animation" data-slick-index="6" id="" aria-hidden="true" style="width: 245px;" tabindex="-1"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289175547 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289102295"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-88716ab86b09f0bb7 uvc-3985 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-88716ab86b09f0bb7 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Osvaldo Wesly, MD</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-88716ab86b09f0bb7 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Hematologist/Oncologist</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/10/DrOWeslyPhoto-265x265.jpg" width="265" height="265" alt="DrOWeslyPhoto" title="DrOWeslyPhoto" data-dt-location="https://prairiebcc.com/dr-osvaldo-wesly-md/droweslyphoto-2/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-cloned" data-animation="animated no-animation" data-slick-index="7" id="" aria-hidden="true" style="width: 245px;" tabindex="-1"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289355800 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289364917"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-72056ab86b09f0e97 uvc-8846 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-72056ab86b09f0e97 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">H Nicole Hangartner, NP</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-72056ab86b09f0e97 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Nurse Practitioner</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Nicole-Hangartner-265x265.jpg" width="265" height="265" alt="Nicole Hangartner" title="Nicole Hangartner" data-dt-location="https://prairiebcc.com/nicole-hangartner/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-cloned" data-animation="animated no-animation" data-slick-index="8" id="" aria-hidden="true" style="width: 245px;" tabindex="-1"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289332733 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289342595"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-636ab86b09f1125 uvc-6423 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-636ab86b09f1125 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Kathy Neitzel</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-636ab86b09f1125 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Office Manager</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Kathy-Neitzel-smaller-rotated-265x265.jpg" width="265" height="265" alt="Kathy Neitzel smaller" title="Kathy Neitzel smaller" data-dt-location="https://prairiebcc.com/kathy-neitzel-smaller/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div><div class="ult-item-wrap slick-slide slick-cloned" data-animation="animated no-animation" data-slick-index="9" id="" aria-hidden="true" style="width: 245px;" tabindex="-1"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1471289355800 vc_row-o-equal-height vc_row-flex"><div class="ult-item-wrap" data-animation="animated no-animation"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1471289364917"><div class="wpb_wrapper"><div class="ult-item-wrap" data-animation="animated no-animation"><div id="" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-13986ab86b09f13a2 uvc-1835 " data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-13986ab86b09f13a2 h3" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}"><h3 style="font-weight:bold;margin-top:30px;">Debbie Costales</h3></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-13986ab86b09f13a2 .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="font-weight:bold;color:#dd8500;margin-top:3px;margin-bottom:10px;">Patient Advocate</div></div></div><div class="ult-item-wrap" data-animation="animated no-animation">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://prairiebcc.com/storage/2021/11/Debbie-Costales-265x265.jpg" width="265" height="265" alt="Debbie Costales" title="Debbie Costales" data-dt-location="https://prairiebcc.com/debbie-costales/"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div></div></div><button type="button" role="button" aria-label="Next" style="color: rgb(37, 37, 37); font-size: 40px;" class="slick-next default slick-arrow"><i class="ultsl-arrow-right6"></i></button></div></div>			<script type="text/javascript">
+				jQuery(document).ready(function ($) {
+					if( typeof jQuery('.ult-carousel-3540660876ab86b09f0a74').slick == "function"){
+						$('.ult-carousel-3540660876ab86b09f0a74').slick({dots: false,autoplaySpeed: 5000,speed: 600,infinite: true,arrows: true,nextArrow: '<button type="button" role="button" aria-label="Next" style="color:#252525; font-size:40px;" class="slick-next default"><i class="ultsl-arrow-right6"></i></button>',prevArrow: '<button type="button" role="button" aria-label="Previous" style="color:#252525; font-size:40px;" class="slick-prev default"><i class="ultsl-arrow-left6"></i></button>',slidesToScroll:1,slidesToShow:4,swipe: true,draggable: true,touchMove: true,pauseOnHover: true,pauseOnFocus: false,responsive: [
+							{
+							  breakpoint: 1026,
+							  settings: {
+								slidesToShow: 4,
+								slidesToScroll: 1,  
+							  }
+							},
+							{
+							  breakpoint: 1025,
+							  settings: {
+								slidesToShow: 2,
+								slidesToScroll: 1
+							  }
+							},
+							{
+							  breakpoint: 760,
+							  settings: {
+								slidesToShow: 1,
+								slidesToScroll: 1
+							  }
+							}
+						],pauseOnDotsHover: true,customPaging: function(slider, i) {
+                   return '<i type="button" style= "color:#333333;" class="ultsl-record" data-role="none"></i>';
+                },});
+					}
+				});
+			</script>
+			</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1471290676926"><div class="wpb_wrapper"><div class=" vc_custom_1542235346294 ubtn-ctn-center "><a class="ubtn-link ult-adjust-bottom-margin ubtn-center ubtn-custom " href="https://prairiebcc.com/" target="_blank" rel="noopener"><button type="button" id="ubtn-7558" class="ubtn ult-adjust-bottom-margin ult-responsive ubtn-custom ubtn-fade-bg  none  ubtn-center   tooltip-6ab86b09f1b9a" data-hover="#ffffff" data-border-color="#dd8500" data-bg="rgba(255,255,255,0.01)" data-hover-bg="#dd8500" data-border-hover="#dd8500" data-shadow-hover="" data-shadow-click="none" data-shadow="" data-shd-shadow="" data-ultimate-target="#ubtn-7558" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:16px;&quot;,&quot;line-height&quot;:&quot;desktop:16px;&quot;}" style="font-family:'Montserrat';font-weight:700;width:240px;min-height:44px;padding:14px 25px;border-radius:0px;border-width:3px;border-color:#dd8500;border-style:solid;background: rgba(255,255,255,0.01);color: #dd8500;"><span class="ubtn-hover" style="background-color:#dd8500"></span><span class="ubtn-data ubtn-text ">All Our Providers</span></button></a></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1461851167541"><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-offset-2 vc_col-md-offset-2 vc_col-sm-offset-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="ultimate-heading-16836ab86b09f1d7d" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-16836ab86b09f1d7d uvc-5142  uvc-heading-default-font-sizes" data-hspacer="no_spacer" data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-16836ab86b09f1d7d h1" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"><h1 style="font-weight:bold;">Quality Care Close to Home</h1></div><div class="uvc-sub-heading ult-responsive" data-ultimate-target=".uvc-heading.ultimate-heading-16836ab86b09f1d7d .uvc-sub-heading " data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" style="font-weight:normal;color:#9a9a9a;margin-top:20px;margin-bottom:60px;">Many times, patients with bleeding disorders have to travel large distances in order to access quality care. With our Prairie Bleeding and Clotting Center HTC, we bring that care to them. We travel to clinics in many locations throughout the state of Illinois.</div></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1474220525910 vc_row-has-fill vc_row-o-equal-height vc_row-flex" style="left: -200px; position: relative; box-sizing: border-box; width: 1600px; padding-left: 200px; padding-right: 200px;"><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3 vc_col-md-3 vc_col-xs-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="stats-block stats-top   vc_custom_1534382312016"><div class="aio-icon-top"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<div class="aio-icon none " style="color:#ffffff;font-size:32px;display:inline-block;">
+	<i class="Defaults-heart"></i>
+</div></div></div></div><div class="stats-desc" id="counter-responsv-wrap-2523"><div id="counter_2953524346ab86b09f1f51" data-id="counter_2953524346ab86b09f1f51" data-ultimate-target="#counter-responsv-wrap-2523 .stats-number" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:30px;&quot;,&quot;line-height&quot;:&quot;desktop:35px;&quot;}" class="stats-number ult-responsive" style=" color:#ffffff; font-family:'Montserrat';font-weight:700;color:#ffffff;" data-speed="2" data-counter-value="100" data-separator="." data-decimal="none">0</div><div id="counter_2953524346ab86b09f1f51" data-ultimate-target="#counter-responsv-wrap-2523 .stats-text" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:14px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" class="stats-text ult-responsive" style="font-size:px; color:#ffffff; font-family:'Montserrat';font-weight:bold;">HEARTS TOUCHED DAILY</div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3 vc_col-md-3 vc_col-xs-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="stats-block stats-top   vc_custom_1534382512672"><div class="aio-icon-top"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<div class="aio-icon none " style="color:#ffffff;font-size:32px;display:inline-block;">
+	<i class="Defaults-tint"></i>
+</div></div></div></div><div class="stats-desc" id="counter-responsv-wrap-1831"><div id="counter_23601806956ab86b09f2011" data-id="counter_23601806956ab86b09f2011" data-ultimate-target="#counter-responsv-wrap-1831 .stats-number" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:30px;&quot;,&quot;line-height&quot;:&quot;desktop:35px;&quot;}" class="stats-number ult-responsive" style=" color:#ffffff; font-family:'Montserrat';font-weight:700;color:#ffffff;" data-speed="2" data-counter-value="50" data-separator="." data-decimal="none">0</div><div id="counter_23601806956ab86b09f2011" data-ultimate-target="#counter-responsv-wrap-1831 .stats-text" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:14px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" class="stats-text ult-responsive" style="font-size:px; color:#ffffff; font-family:'Montserrat';font-weight:bold;">BLEEDS PREVENTED DAILY</div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3 vc_col-md-3 vc_col-xs-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="stats-block stats-top   vc_custom_1534382615918"><div class="aio-icon-top"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<div class="aio-icon none " style="color:#ffffff;font-size:32px;display:inline-block;">
+	<i class="Defaults-check"></i>
+</div></div></div></div><div class="stats-desc" id="counter-responsv-wrap-9224"><div id="counter_34728152966ab86b09f20b5" data-id="counter_34728152966ab86b09f20b5" data-ultimate-target="#counter-responsv-wrap-9224 .stats-number" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:30px;&quot;,&quot;line-height&quot;:&quot;desktop:35px;&quot;}" class="stats-number ult-responsive" style=" color:#ffffff; font-family:'Montserrat';font-weight:700;color:#ffffff;" data-speed="2" data-counter-value="150" data-separator="," data-decimal=".">0</div><div id="counter_34728152966ab86b09f20b5" data-ultimate-target="#counter-responsv-wrap-9224 .stats-text" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:14px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" class="stats-text ult-responsive" style="font-size:px; color:#ffffff; font-family:'Montserrat';font-weight:bold;">HAPPY SMILES DAILY</div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3 vc_col-md-3 vc_col-xs-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="stats-block stats-top   vc_custom_1534382687104"><div class="aio-icon-top"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
+<div class="aio-icon none " style="color:#ffffff;font-size:32px;display:inline-block;">
+	<i class="Defaults-group users"></i>
+</div></div></div></div><div class="stats-desc" id="counter-responsv-wrap-6289"><div id="counter_31323290416ab86b09f2150" data-id="counter_31323290416ab86b09f2150" data-ultimate-target="#counter-responsv-wrap-6289 .stats-number" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:30px;&quot;,&quot;line-height&quot;:&quot;desktop:35px;&quot;}" class="stats-number ult-responsive" style=" color:#ffffff; font-family:'Montserrat';font-weight:700;color:#ffffff;" data-speed="2" data-counter-value="20" data-separator="." data-decimal=".">0</div><div id="counter_31323290416ab86b09f2150" data-ultimate-target="#counter-responsv-wrap-6289 .stats-text" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:14px;&quot;,&quot;line-height&quot;:&quot;desktop:28px;&quot;}" class="stats-text ult-responsive" style="font-size:px; color:#ffffff; font-family:'Montserrat';font-weight:bold;">GROUP HUGS DAILY</div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+
+	</div>
+
+	
+
+
+			</div>
+		</div>
+
+	
+	</div>
+
+	
+
+	
+	
+	<footer id="footer" class="footer solid-bg">
+
+		
+			<div class="wf-wrap">
+				<div class="wf-container-footer">
+					<div class="wf-container">
+						<section id="recent-comments-2" class="widget widget_recent_comments wf-cell wf-1-4"><div class="widget-title">Recent Comments</div><ul id="recentcomments"></ul></section>					</div>
+				</div>
+			</div>
+
+			
+
+<div id="bottom-bar" class="solid-bg logo-left" role="contentinfo">
+    <div class="wf-wrap">
+        <div class="wf-container-bottom">
+
+			
+            <div class="wf-float-right">
+
+				<div class="bottom-text-block"><p>Ⓒ 2021 Prairie Bleeding &amp; Clotting Center. All rights reserved.</p>
+</div>
+            </div>
+
+        </div>
+    </div>
+</div>
+	</footer>
+
+
+	<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
+
+</div>
+
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="text/html" id="wpb-modifications"></script><link href="https://fonts.googleapis.com/css?family=Montserrat:700%7COpen+Sans:400%2C600&amp;display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css">
+
+<script>
+		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+</script>
+<link rel="stylesheet" id="ultimate-vc-addons-background-style-css" href="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-css/background-style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://prairiebcc.com/modules/4b36101dcc/public/assets/css/rs6.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<script type="text/javascript" src="https://prairiebcc.com/vews/3de21daaa2/js/main.min.js" id="dt-main-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/vews/3de21daaa2/js/legacy.min.js" id="dt-legacy-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/vews/3de21daaa2/lib/jquery-mousewheel/jquery-mousewheel.min.js" id="jquery-mousewheel-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/vews/3de21daaa2/lib/custom-scrollbar/custom-scrollbar.min.js" id="the7-custom-scrollbar-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/d92eea3fc4/assets/js/post-type.min.js" id="the7-core-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-js/info-box.min.js" id="ultimate-vc-addons-info_box_js-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/lib/js/wp-embed.min.js" id="wp-embed-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/041dc5d622/assets/js/dist/js_composer_front.min.js" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/modules/ad7bdb6c4e/assets/min-js/ultimate_bg.min.js" id="ultimate-vc-addons-row-bg-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/lib/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://prairiebcc.com/lib/js/jquery/ui/accordion.min.js" id="jquery-ui-accordion-js"></script>
+<script id="rs-initialisation-scripts">
+		var	tpj = jQuery;
+
+		var	revapi1;
+
+		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+		RS_MODULES.modules["revslider11"] = {once: RS_MODULES.modules["revslider11"]!==undefined ? RS_MODULES.modules["revslider11"].once : undefined, init:function() {
+			window.revapi1 = window.revapi1===undefined || window.revapi1===null || window.revapi1.length===0  ? document.getElementById("rev_slider_1_1") : window.revapi1;
+			if(window.revapi1 === null || window.revapi1 === undefined || window.revapi1.length==0) { window.revapi1initTry = window.revapi1initTry ===undefined ? 0 : window.revapi1initTry+1; if (window.revapi1initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider11"].init()}); return;}
+			window.revapi1 = jQuery(window.revapi1);
+			if(window.revapi1.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_1_1"); return;}
+			revapi1.revolutionInit({
+					revapi:"revapi1",
+					sliderType:"hero",
+					sliderLayout:"fullwidth",
+					visibilityLevels:"1240,1024,778,480",
+					gridwidth:"1210,1210,750,750",
+					gridheight:"700,700,750,800",
+					lazyType:"smart",
+					perspectiveType:"local",
+					responsiveLevels:"1240,1024,778,480",
+					progressBar:{disableProgressBar:true},
+					navigation: {
+						onHoverStop:false
+					},
+					viewPort: {
+						global:true,
+						globalDist:"-200px",
+						enable:false,
+						visible_area:"20%"
+					},
+					fallbacks: {
+						allowHTML5AutoPlayOnAndroid:true
+					},
+			});
+			
+		}} // End of RevInitScript
+
+		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+	</script>
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" title="Close (Esc)" aria-label="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" title="Share" aria-label="Share"></button>
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen" aria-label="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out" aria-label="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div> 
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)" aria-label="Previous (arrow left)">
+			</button>
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)" aria-label="Next (arrow right)">
+			</button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="mobile-sticky-header-overlay"></div><div id="phantom" class="masthead classic-header justify full-width-line widgets full-height dividers surround shadow-mobile-header-decoration small-mobile-menu-icon mobile-menu-icon-bg-on mobile-menu-icon-hover-bg-on dt-parent-menu-clickable show-sub-menu-on-hover hide-phantom" style=""><div class="ph-wrap"><div class="logo-box"></div><div class="menu-box"><ul class="main-nav bg-outline-decoration hover-bg-decoration active-bg-decoration active-line-decoration level-arrows-on outside-item-remove-margin" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-699 current_page_item menu-item-746 act first depth-0" role="presentation"><a href="https://prairiebcc.com/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Home</span></span><span class="decoration-line"></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751 depth-0" role="presentation"><a href="https://prairiebcc.com/doctors/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Providers</span></span><span class="decoration-line"></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-752 depth-0" role="presentation"><a href="https://prairiebcc.com/services/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Services</span></span><span class="decoration-line"></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750 depth-0" role="presentation"><a href="https://prairiebcc.com/departments/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Strengths</span></span><span class="decoration-line"></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1525 depth-0" role="presentation"><a href="https://prairiebcc.com/who-we-are/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Who We Are</span></span><span class="decoration-line"></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755 last depth-0" role="presentation"><a href="https://prairiebcc.com/contact/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Contact Us</span></span><span class="decoration-line"></span></a></li> </ul></div><div class="widget-box"></div></div></div><div class="iso-preloader dt-posts-preload dt-posts-preload-active" style="display: none;"><div class="dt-posts-preload-activity"></div></div></body>

@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_dffcceb36660e247f7326ebdffd93ada30e56473c0b7a8fe3cbf579c9e5bf40c",
+  "candidate_sha256": "5dfaa7d4ce749cbf46b343dbf7ea16a04787b1125f00df4bb96a388789936a8f",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://gabung-whatsapp-4g.duckdns.org/",
+  "requested_url": "http://gabung-whatsapp-4g.duckdns.org/",
+  "browser_final_url": "http://gabung-whatsapp-4g.duckdns.org/",
+  "source_urls": [
+    "http://gabung-whatsapp-4g.duckdns.org/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 113207,
+      "source_url": "http://gabung-whatsapp-4g.duckdns.org/",
+      "source_hostname": "gabung-whatsapp-4g.duckdns.org",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://gabung-whatsapp-4g.duckdns.org/",
+      "final_hostname": "gabung-whatsapp-4g.duckdns.org",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 2754,
+      "elapsed_ms": 386,
+      "checked_at": "2026-10-05T13:10:25.193641+00:00",
+      "error": null,
+      "normalized_source_url": "http://gabung-whatsapp-4g.duckdns.org/",
+      "normalized_final_url": "http://gabung-whatsapp-4g.duckdns.org/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_dffcceb36660e247f7326ebdffd93ada30e56473c0b7a8fe3cbf579c9e5bf40c",
+    "representative_source_index": 113207,
+    "representative_source_url": "http://gabung-whatsapp-4g.duckdns.org/",
+    "representative_final_url": "http://gabung-whatsapp-4g.duckdns.org/",
+    "normalized_final_url": "http://gabung-whatsapp-4g.duckdns.org/",
+    "source_hostname": "gabung-whatsapp-4g.duckdns.org",
+    "final_hostname": "gabung-whatsapp-4g.duckdns.org",
+    "source_urls": [
+      "http://gabung-whatsapp-4g.duckdns.org/"
+    ],
+    "provenance": [
+      {
+        "source_index": 113207,
+        "source_url": "http://gabung-whatsapp-4g.duckdns.org/",
+        "source_hostname": "gabung-whatsapp-4g.duckdns.org",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://gabung-whatsapp-4g.duckdns.org/",
+        "final_hostname": "gabung-whatsapp-4g.duckdns.org",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 2754,
+        "elapsed_ms": 386,
+        "checked_at": "2026-10-05T13:10:25.193641+00:00",
+        "error": null,
+        "normalized_source_url": "http://gabung-whatsapp-4g.duckdns.org/",
+        "normalized_final_url": "http://gabung-whatsapp-4g.duckdns.org/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Keitaro CAPI",
+  "capture_timestamp": "2026-10-05T14:58:27.638872+00:00",
+  "dom_chars": 2287,
+  "screenshot_bytes": 15058,
+  "dom_sha256": "0cee7896afc9986e915cb97353cf28f43ecdbcf6a8f2c67eb9e870a71d3d8dbe",
+  "screenshot_sha256": "68af9682de3249286680700b0c5b12cf889069721e1c84e85ecee5f523652a10",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://gabung-whatsapp-4g.duckdns.org/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://gabung-whatsapp-4g.duckdns.org/",
+    "browser_final_url": "http://gabung-whatsapp-4g.duckdns.org/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 2,
+  "downloaded_files": 0,
+  "elapsed_ms": 2021
+}

@@ -1,0 +1,1224 @@
+<head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta class="foundation-mq-small"><meta class="foundation-mq-small-only"><meta class="foundation-mq-medium"><meta class="foundation-mq-medium-only"><meta class="foundation-mq-large"><meta class="foundation-mq-large-only"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-xlarge-only"><meta class="foundation-mq-xxlarge"><meta class="foundation-data-attribute-namespace">
+          <meta charset="utf-8">
+          <meta http-equiv="x-ua-compatible" content="ie=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+          <title>KAUR Migration</title>
+          <link rel="stylesheet" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/css/foundation.css">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation-datepicker/1.5.6/css/foundation-datepicker.min.css">
+          <link rel="stylesheet" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/css/normalize.css">
+          <link rel="stylesheet" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/css/font-awesome.css">
+          <link rel="stylesheet" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/css/meanmenu.css" media="all">
+          <link rel="stylesheet" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/css/owl.carousel.css">
+          <link rel="stylesheet" type="text/css" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/engine1/style.css">
+          <link rel="shortcut icon" type="image/ico" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/logo.ico">
+          <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css">
+          <link rel="stylesheet" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/css/pikaday.css">
+          <link rel="stylesheet" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/css/site.css">
+          <link rel="stylesheet" type="text/css" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/css/frontend-style.css">
+          <link rel="stylesheet" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/style.css">
+           <link rel="stylesheet" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/css/magnific-popup.css">
+          <script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/8x-4t2pegToiW8KmThtO4AQt/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-KmhOiTn6sHD8dy14OaGi/9+f17owL+KWDoLiUoEjdbwL0MkY5QTE9wPi90EHLAnV"></script><script src="https://connect.facebook.net/signals/config/1980126212227318?v=2.9.398&amp;r=stable&amp;domain=kaurmigration.com.au&amp;hme=457e068698591ac437afb4b2e5fbe0266b08712615b8792436a91385ebda0da3&amp;ex_m=115%2C227%2C166%2C26%2C80%2C81%2C158%2C76%2C75%2C11%2C176%2C100%2C20%2C150%2C138%2C45%2C83%2C88%2C146%2C171%2C178%2C31%2C17%2C30%2C18%2C32%2C33%2C34%2C36%2C54%2C159%2C85%2C123%2C22%2C24%2C50%2C46%2C48%2C47%2C93%2C102%2C106%2C121%2C157%2C160%2C52%2C122%2C28%2C25%2C130%2C77%2C42%2C162%2C161%2C163%2C154%2C152%2C29%2C41%2C65%2C120%2C173%2C78%2C21%2C125%2C91%2C74%2C23%2C95%2C96%2C127%2C94%2C148%2C147%2C151%2C107%2C172%2C175%2C40%2C55%2C124%2C53%2C8%2C4%2C5%2C7%2C6%2C3%2C101%2C112%2C180%2C179%2C194%2C241%2C82%2C255%2C254%2C253%2C14%2C27%2C39%2C61%2C114%2C67%2C10%2C71%2C108%2C109%2C110%2C116%2C141%2C37%2C35%2C143%2C144%2C145%2C140%2C139%2C167%2C84%2C170%2C168%2C169%2C56%2C66%2C134%2C19%2C174%2C51%2C305%2C306%2C307%2C304%2C320%2C344%2C234%2C223%2C68%2C224%2C222%2C347%2C338%2C58%2C235%2C118%2C142%2C90%2C132%2C60%2C131%2C137%2C136%2C64%2C72%2C70%2C164%2C86%2C87%2C126%2C43%2C38%2C59%2C62%2C111%2C177%2C1%2C135%2C16%2C133%2C12%2C2%2C63%2C103%2C15%2C73%2C69%2C129%2C99%2C98%2C182%2C183%2C104%2C105%2C9%2C113%2C181%2C57%2C155%2C97%2C89%2C79%2C128%2C117%2C49%2C156%2C0%2C92%2C149%2C153%2C165%2C44%2C119%2C13%2C184" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/view.js" async="" defer=""></script>
+          <script type="text/javascript" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/engine1/jquery.js"></script>
+          <!-- <script type="text/javascript" charset="utf-8" async defer>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', '', 'auto');
+            ga('send', 'pageview');
+        </script> -->
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>KAUR Migration - Our Advice Your Success</title>
+	<meta name="description" content="Our Advice Your Success">
+	<link rel="canonical" href="https://kaurmigration.com.au/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="KAUR Migration">
+	<meta property="og:description" content="Our Advice Your Success">
+	<meta property="og:url" content="https://kaurmigration.com.au/">
+	<meta property="og:site_name" content="KAUR Migration">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://kaurmigration.com.au/","url":"https://kaurmigration.com.au/","name":"KAUR Migration - Our Advice Your Success","isPartOf":{"@id":"https://kaurmigration.com.au/#website"},"about":{"@id":"https://kaurmigration.com.au/#organization"},"description":"Our Advice Your Success","breadcrumb":{"@id":"https://kaurmigration.com.au/#breadcrumb"},"inLanguage":"en-AU"},{"@type":"BreadcrumbList","@id":"https://kaurmigration.com.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://kaurmigration.com.au/#website","url":"https://kaurmigration.com.au/","name":"KAUR Migration","description":"Our Advice Your Success","publisher":{"@id":"https://kaurmigration.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://kaurmigration.com.au/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-AU"},{"@type":"Organization","@id":"https://kaurmigration.com.au/#organization","name":"KAUR Migration","url":"https://kaurmigration.com.au/","logo":{"@type":"ImageObject","inLanguage":"en-AU","@id":"https://kaurmigration.com.au/#/schema/logo/image/","url":"https://kaurmigration.com.au/wp-content/uploads/2025/11/cropped-kaurmigration_logo.png","contentUrl":"https://kaurmigration.com.au/wp-content/uploads/2025/11/cropped-kaurmigration_logo.png","width":164,"height":75,"caption":"KAUR Migration"},"image":{"@id":"https://kaurmigration.com.au/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="KAUR Migration » Feed" href="https://kaurmigration.com.au/feed/">
+<link rel="alternate" type="application/rss+xml" title="KAUR Migration » Comments Feed" href="https://kaurmigration.com.au/comments/feed/">
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel="stylesheet" id="our-advice-your-success-style-css" href="https://kaurmigration.com.au/wp-content/themes/kaur-theme/style.css?ver=1.0.0" media="all">
+<link rel="stylesheet" id="theme-lenis-style-css" href="https://kaurmigration.com.au/wp-content/plugins/smooth-scrolling-with-lenis/style.css?ver=1.3.11" media="all">
+<script src="https://kaurmigration.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://kaurmigration.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://kaurmigration.com.au/wp-content/plugins/smooth-scrolling-with-lenis/js/vendor/lenis.min.js?ver=1.3.11" id="theme-lenis-js"></script>
+<link rel="https://api.w.org/" href="https://kaurmigration.com.au/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kaurmigration.com.au/xmlrpc.php?rsd">
+<link rel="icon" href="https://kaurmigration.com.au/wp-content/uploads/2025/11/logo.ico" sizes="32x32">
+<link rel="icon" href="https://kaurmigration.com.au/wp-content/uploads/2025/11/logo.ico" sizes="192x192">
+<link rel="apple-touch-icon" href="https://kaurmigration.com.au/wp-content/uploads/2025/11/logo.ico">
+<meta name="msapplication-TileImage" content="https://kaurmigration.com.au/wp-content/uploads/2025/11/logo.ico">
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1980126212227318');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1980126212227318&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+          <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>KAUR Migration - Our Advice Your Success</title>
+	<meta name="description" content="Our Advice Your Success">
+	<link rel="canonical" href="https://kaurmigration.com.au/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="KAUR Migration">
+	<meta property="og:description" content="Our Advice Your Success">
+	<meta property="og:url" content="https://kaurmigration.com.au/">
+	<meta property="og:site_name" content="KAUR Migration">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://kaurmigration.com.au/","url":"https://kaurmigration.com.au/","name":"KAUR Migration - Our Advice Your Success","isPartOf":{"@id":"https://kaurmigration.com.au/#website"},"about":{"@id":"https://kaurmigration.com.au/#organization"},"description":"Our Advice Your Success","breadcrumb":{"@id":"https://kaurmigration.com.au/#breadcrumb"},"inLanguage":"en-AU"},{"@type":"BreadcrumbList","@id":"https://kaurmigration.com.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://kaurmigration.com.au/#website","url":"https://kaurmigration.com.au/","name":"KAUR Migration","description":"Our Advice Your Success","publisher":{"@id":"https://kaurmigration.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://kaurmigration.com.au/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-AU"},{"@type":"Organization","@id":"https://kaurmigration.com.au/#organization","name":"KAUR Migration","url":"https://kaurmigration.com.au/","logo":{"@type":"ImageObject","inLanguage":"en-AU","@id":"https://kaurmigration.com.au/#/schema/logo/image/","url":"https://kaurmigration.com.au/wp-content/uploads/2025/11/cropped-kaurmigration_logo.png","contentUrl":"https://kaurmigration.com.au/wp-content/uploads/2025/11/cropped-kaurmigration_logo.png","width":164,"height":75,"caption":"KAUR Migration"},"image":{"@id":"https://kaurmigration.com.au/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="KAUR Migration » Feed" href="https://kaurmigration.com.au/feed/">
+<link rel="alternate" type="application/rss+xml" title="KAUR Migration » Comments Feed" href="https://kaurmigration.com.au/comments/feed/">
+<link rel="https://api.w.org/" href="https://kaurmigration.com.au/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kaurmigration.com.au/xmlrpc.php?rsd">
+<link rel="icon" href="https://kaurmigration.com.au/wp-content/uploads/2025/11/logo.ico" sizes="32x32">
+<link rel="icon" href="https://kaurmigration.com.au/wp-content/uploads/2025/11/logo.ico" sizes="192x192">
+<link rel="apple-touch-icon" href="https://kaurmigration.com.au/wp-content/uploads/2025/11/logo.ico">
+<meta name="msapplication-TileImage" content="https://kaurmigration.com.au/wp-content/uploads/2025/11/logo.ico">
+        <style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel="stylesheet" id="wpforms-modern-full-css" href="https://kaurmigration.com.au/wp-content/plugins/wpforms-lite/assets/css/frontend/modern/wpforms-full.min.css?ver=1.9.9.2" media="all">
+<style id="wpforms-modern-full-inline-css">
+:root {
+				--wpforms-field-border-radius: 3px;
+--wpforms-field-border-style: solid;
+--wpforms-field-border-size: 1px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-border-color-spare: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-field-menu-color: #ffffff;
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-border-style: none;
+--wpforms-button-border-size: 1px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-border-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-page-break-color: #066aab;
+--wpforms-background-image: none;
+--wpforms-background-position: center center;
+--wpforms-background-repeat: no-repeat;
+--wpforms-background-size: cover;
+--wpforms-background-width: 100px;
+--wpforms-background-height: 100px;
+--wpforms-background-color: rgba( 0, 0, 0, 0 );
+--wpforms-background-url: none;
+--wpforms-container-padding: 0px;
+--wpforms-container-border-style: none;
+--wpforms-container-border-width: 1px;
+--wpforms-container-border-color: #000000;
+--wpforms-container-border-radius: 3px;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+--wpforms-container-shadow-size-box-shadow: none;
+			}
+/*# sourceURL=wpforms-modern-full-inline-css */
+</style>
+
+<style></style><meta class="foundation-mq-topbar"><style rel="stylesheet" type="text/css" media="screen" id="v-unit-stylesheet">.vh1{height:12px}
+.vh2{height:24px}
+.vh3{height:36px}
+.vh4{height:48px}
+.vh5{height:60px}
+.vh6{height:72px}
+.vh7{height:84px}
+.vh8{height:96px}
+.vh9{height:108px}
+.vh10{height:120px}
+.vh11{height:132px}
+.vh12{height:144px}
+.vh13{height:156px}
+.vh14{height:168px}
+.vh15{height:180px}
+.vh16{height:192px}
+.vh17{height:204px}
+.vh18{height:216px}
+.vh19{height:228px}
+.vh20{height:240px}
+.vh21{height:252px}
+.vh22{height:264px}
+.vh23{height:276px}
+.vh24{height:288px}
+.vh25{height:300px}
+.vh26{height:312px}
+.vh27{height:324px}
+.vh28{height:336px}
+.vh29{height:348px}
+.vh30{height:360px}
+.vh31{height:372px}
+.vh32{height:384px}
+.vh33{height:396px}
+.vh34{height:408px}
+.vh35{height:420px}
+.vh36{height:432px}
+.vh37{height:444px}
+.vh38{height:456px}
+.vh39{height:468px}
+.vh40{height:480px}
+.vh41{height:492px}
+.vh42{height:504px}
+.vh43{height:516px}
+.vh44{height:528px}
+.vh45{height:540px}
+.vh46{height:552px}
+.vh47{height:564px}
+.vh48{height:576px}
+.vh49{height:588px}
+.vh50{height:600px}
+.vh51{height:612px}
+.vh52{height:624px}
+.vh53{height:636px}
+.vh54{height:648px}
+.vh55{height:660px}
+.vh56{height:672px}
+.vh57{height:684px}
+.vh58{height:696px}
+.vh59{height:708px}
+.vh60{height:720px}
+.vh61{height:732px}
+.vh62{height:744px}
+.vh63{height:756px}
+.vh64{height:768px}
+.vh65{height:780px}
+.vh66{height:792px}
+.vh67{height:804px}
+.vh68{height:816px}
+.vh69{height:828px}
+.vh70{height:840px}
+.vh71{height:852px}
+.vh72{height:864px}
+.vh73{height:876px}
+.vh74{height:888px}
+.vh75{height:900px}
+.vh76{height:912px}
+.vh77{height:924px}
+.vh78{height:936px}
+.vh79{height:948px}
+.vh80{height:960px}
+.vh81{height:972px}
+.vh82{height:984px}
+.vh83{height:996px}
+.vh84{height:1008px}
+.vh85{height:1020px}
+.vh86{height:1032px}
+.vh87{height:1044px}
+.vh88{height:1056px}
+.vh89{height:1068px}
+.vh90{height:1080px}
+.vh91{height:1092px}
+.vh92{height:1104px}
+.vh93{height:1116px}
+.vh94{height:1128px}
+.vh95{height:1140px}
+.vh96{height:1152px}
+.vh97{height:1164px}
+.vh98{height:1176px}
+.vh99{height:1188px}
+.vh100{height:1200px}
+.vw1{width:16px}
+.vw2{width:32px}
+.vw3{width:48px}
+.vw4{width:64px}
+.vw5{width:80px}
+.vw6{width:96px}
+.vw7{width:112px}
+.vw8{width:128px}
+.vw9{width:144px}
+.vw10{width:160px}
+.vw11{width:176px}
+.vw12{width:192px}
+.vw13{width:208px}
+.vw14{width:224px}
+.vw15{width:240px}
+.vw16{width:256px}
+.vw17{width:272px}
+.vw18{width:288px}
+.vw19{width:304px}
+.vw20{width:320px}
+.vw21{width:336px}
+.vw22{width:352px}
+.vw23{width:368px}
+.vw24{width:384px}
+.vw25{width:400px}
+.vw26{width:416px}
+.vw27{width:432px}
+.vw28{width:448px}
+.vw29{width:464px}
+.vw30{width:480px}
+.vw31{width:496px}
+.vw32{width:512px}
+.vw33{width:528px}
+.vw34{width:544px}
+.vw35{width:560px}
+.vw36{width:576px}
+.vw37{width:592px}
+.vw38{width:608px}
+.vw39{width:624px}
+.vw40{width:640px}
+.vw41{width:656px}
+.vw42{width:672px}
+.vw43{width:688px}
+.vw44{width:704px}
+.vw45{width:720px}
+.vw46{width:736px}
+.vw47{width:752px}
+.vw48{width:768px}
+.vw49{width:784px}
+.vw50{width:800px}
+.vw51{width:816px}
+.vw52{width:832px}
+.vw53{width:848px}
+.vw54{width:864px}
+.vw55{width:880px}
+.vw56{width:896px}
+.vw57{width:912px}
+.vw58{width:928px}
+.vw59{width:944px}
+.vw60{width:960px}
+.vw61{width:976px}
+.vw62{width:992px}
+.vw63{width:1008px}
+.vw64{width:1024px}
+.vw65{width:1040px}
+.vw66{width:1056px}
+.vw67{width:1072px}
+.vw68{width:1088px}
+.vw69{width:1104px}
+.vw70{width:1120px}
+.vw71{width:1136px}
+.vw72{width:1152px}
+.vw73{width:1168px}
+.vw74{width:1184px}
+.vw75{width:1200px}
+.vw76{width:1216px}
+.vw77{width:1232px}
+.vw78{width:1248px}
+.vw79{width:1264px}
+.vw80{width:1280px}
+.vw81{width:1296px}
+.vw82{width:1312px}
+.vw83{width:1328px}
+.vw84{width:1344px}
+.vw85{width:1360px}
+.vw86{width:1376px}
+.vw87{width:1392px}
+.vw88{width:1408px}
+.vw89{width:1424px}
+.vw90{width:1440px}
+.vw91{width:1456px}
+.vw92{width:1472px}
+.vw93{width:1488px}
+.vw94{width:1504px}
+.vw95{width:1520px}
+.vw96{width:1536px}
+.vw97{width:1552px}
+.vw98{width:1568px}
+.vw99{width:1584px}
+.vw100{width:1600px}
+.vwfs1{font-size:16px}
+.vwfs2{font-size:32px}
+.vwfs3{font-size:48px}
+.vwfs4{font-size:64px}
+.vwfs5{font-size:80px}
+.vwfs6{font-size:96px}
+.vwfs7{font-size:112px}
+.vwfs8{font-size:128px}
+.vwfs9{font-size:144px}
+.vwfs10{font-size:160px}
+.vwfs11{font-size:176px}
+.vwfs12{font-size:192px}
+.vwfs13{font-size:208px}
+.vwfs14{font-size:224px}
+.vwfs15{font-size:240px}
+.vwfs16{font-size:256px}
+.vwfs17{font-size:272px}
+.vwfs18{font-size:288px}
+.vwfs19{font-size:304px}
+.vwfs20{font-size:320px}
+.vwfs21{font-size:336px}
+.vwfs22{font-size:352px}
+.vwfs23{font-size:368px}
+.vwfs24{font-size:384px}
+.vwfs25{font-size:400px}
+.vwfs26{font-size:416px}
+.vwfs27{font-size:432px}
+.vwfs28{font-size:448px}
+.vwfs29{font-size:464px}
+.vwfs30{font-size:480px}
+.vwfs31{font-size:496px}
+.vwfs32{font-size:512px}
+.vwfs33{font-size:528px}
+.vwfs34{font-size:544px}
+.vwfs35{font-size:560px}
+.vwfs36{font-size:576px}
+.vwfs37{font-size:592px}
+.vwfs38{font-size:608px}
+.vwfs39{font-size:624px}
+.vwfs40{font-size:640px}
+.vwfs41{font-size:656px}
+.vwfs42{font-size:672px}
+.vwfs43{font-size:688px}
+.vwfs44{font-size:704px}
+.vwfs45{font-size:720px}
+.vwfs46{font-size:736px}
+.vwfs47{font-size:752px}
+.vwfs48{font-size:768px}
+.vwfs49{font-size:784px}
+.vwfs50{font-size:800px}
+.vwfs51{font-size:816px}
+.vwfs52{font-size:832px}
+.vwfs53{font-size:848px}
+.vwfs54{font-size:864px}
+.vwfs55{font-size:880px}
+.vwfs56{font-size:896px}
+.vwfs57{font-size:912px}
+.vwfs58{font-size:928px}
+.vwfs59{font-size:944px}
+.vwfs60{font-size:960px}
+.vwfs61{font-size:976px}
+.vwfs62{font-size:992px}
+.vwfs63{font-size:1008px}
+.vwfs64{font-size:1024px}
+.vwfs65{font-size:1040px}
+.vwfs66{font-size:1056px}
+.vwfs67{font-size:1072px}
+.vwfs68{font-size:1088px}
+.vwfs69{font-size:1104px}
+.vwfs70{font-size:1120px}
+.vwfs71{font-size:1136px}
+.vwfs72{font-size:1152px}
+.vwfs73{font-size:1168px}
+.vwfs74{font-size:1184px}
+.vwfs75{font-size:1200px}
+.vwfs76{font-size:1216px}
+.vwfs77{font-size:1232px}
+.vwfs78{font-size:1248px}
+.vwfs79{font-size:1264px}
+.vwfs80{font-size:1280px}
+.vwfs81{font-size:1296px}
+.vwfs82{font-size:1312px}
+.vwfs83{font-size:1328px}
+.vwfs84{font-size:1344px}
+.vwfs85{font-size:1360px}
+.vwfs86{font-size:1376px}
+.vwfs87{font-size:1392px}
+.vwfs88{font-size:1408px}
+.vwfs89{font-size:1424px}
+.vwfs90{font-size:1440px}
+.vwfs91{font-size:1456px}
+.vwfs92{font-size:1472px}
+.vwfs93{font-size:1488px}
+.vwfs94{font-size:1504px}
+.vwfs95{font-size:1520px}
+.vwfs96{font-size:1536px}
+.vwfs97{font-size:1552px}
+.vwfs98{font-size:1568px}
+.vwfs99{font-size:1584px}
+.vwfs100{font-size:1600px}
+.vhmt1{margin-top:12px}
+.vhmt2{margin-top:24px}
+.vhmt3{margin-top:36px}
+.vhmt4{margin-top:48px}
+.vhmt5{margin-top:60px}
+.vhmt6{margin-top:72px}
+.vhmt7{margin-top:84px}
+.vhmt8{margin-top:96px}
+.vhmt9{margin-top:108px}
+.vhmt10{margin-top:120px}
+.vhmt11{margin-top:132px}
+.vhmt12{margin-top:144px}
+.vhmt13{margin-top:156px}
+.vhmt14{margin-top:168px}
+.vhmt15{margin-top:180px}
+.vhmt16{margin-top:192px}
+.vhmt17{margin-top:204px}
+.vhmt18{margin-top:216px}
+.vhmt19{margin-top:228px}
+.vhmt20{margin-top:240px}
+.vhmt21{margin-top:252px}
+.vhmt22{margin-top:264px}
+.vhmt23{margin-top:276px}
+.vhmt24{margin-top:288px}
+.vhmt25{margin-top:300px}
+.vhmt26{margin-top:312px}
+.vhmt27{margin-top:324px}
+.vhmt28{margin-top:336px}
+.vhmt29{margin-top:348px}
+.vhmt30{margin-top:360px}
+.vhmt31{margin-top:372px}
+.vhmt32{margin-top:384px}
+.vhmt33{margin-top:396px}
+.vhmt34{margin-top:408px}
+.vhmt35{margin-top:420px}
+.vhmt36{margin-top:432px}
+.vhmt37{margin-top:444px}
+.vhmt38{margin-top:456px}
+.vhmt39{margin-top:468px}
+.vhmt40{margin-top:480px}
+.vhmt41{margin-top:492px}
+.vhmt42{margin-top:504px}
+.vhmt43{margin-top:516px}
+.vhmt44{margin-top:528px}
+.vhmt45{margin-top:540px}
+.vhmt46{margin-top:552px}
+.vhmt47{margin-top:564px}
+.vhmt48{margin-top:576px}
+.vhmt49{margin-top:588px}
+.vhmt50{margin-top:600px}
+.vhmt51{margin-top:612px}
+.vhmt52{margin-top:624px}
+.vhmt53{margin-top:636px}
+.vhmt54{margin-top:648px}
+.vhmt55{margin-top:660px}
+.vhmt56{margin-top:672px}
+.vhmt57{margin-top:684px}
+.vhmt58{margin-top:696px}
+.vhmt59{margin-top:708px}
+.vhmt60{margin-top:720px}
+.vhmt61{margin-top:732px}
+.vhmt62{margin-top:744px}
+.vhmt63{margin-top:756px}
+.vhmt64{margin-top:768px}
+.vhmt65{margin-top:780px}
+.vhmt66{margin-top:792px}
+.vhmt67{margin-top:804px}
+.vhmt68{margin-top:816px}
+.vhmt69{margin-top:828px}
+.vhmt70{margin-top:840px}
+.vhmt71{margin-top:852px}
+.vhmt72{margin-top:864px}
+.vhmt73{margin-top:876px}
+.vhmt74{margin-top:888px}
+.vhmt75{margin-top:900px}
+.vhmt76{margin-top:912px}
+.vhmt77{margin-top:924px}
+.vhmt78{margin-top:936px}
+.vhmt79{margin-top:948px}
+.vhmt80{margin-top:960px}
+.vhmt81{margin-top:972px}
+.vhmt82{margin-top:984px}
+.vhmt83{margin-top:996px}
+.vhmt84{margin-top:1008px}
+.vhmt85{margin-top:1020px}
+.vhmt86{margin-top:1032px}
+.vhmt87{margin-top:1044px}
+.vhmt88{margin-top:1056px}
+.vhmt89{margin-top:1068px}
+.vhmt90{margin-top:1080px}
+.vhmt91{margin-top:1092px}
+.vhmt92{margin-top:1104px}
+.vhmt93{margin-top:1116px}
+.vhmt94{margin-top:1128px}
+.vhmt95{margin-top:1140px}
+.vhmt96{margin-top:1152px}
+.vhmt97{margin-top:1164px}
+.vhmt98{margin-top:1176px}
+.vhmt99{margin-top:1188px}
+.vhmt100{margin-top:1200px}
+.vhmb1{margin-bottom:12px}
+.vhmb2{margin-bottom:24px}
+.vhmb3{margin-bottom:36px}
+.vhmb4{margin-bottom:48px}
+.vhmb5{margin-bottom:60px}
+.vhmb6{margin-bottom:72px}
+.vhmb7{margin-bottom:84px}
+.vhmb8{margin-bottom:96px}
+.vhmb9{margin-bottom:108px}
+.vhmb10{margin-bottom:120px}
+.vhmb11{margin-bottom:132px}
+.vhmb12{margin-bottom:144px}
+.vhmb13{margin-bottom:156px}
+.vhmb14{margin-bottom:168px}
+.vhmb15{margin-bottom:180px}
+.vhmb16{margin-bottom:192px}
+.vhmb17{margin-bottom:204px}
+.vhmb18{margin-bottom:216px}
+.vhmb19{margin-bottom:228px}
+.vhmb20{margin-bottom:240px}
+.vhmb21{margin-bottom:252px}
+.vhmb22{margin-bottom:264px}
+.vhmb23{margin-bottom:276px}
+.vhmb24{margin-bottom:288px}
+.vhmb25{margin-bottom:300px}
+.vhmb26{margin-bottom:312px}
+.vhmb27{margin-bottom:324px}
+.vhmb28{margin-bottom:336px}
+.vhmb29{margin-bottom:348px}
+.vhmb30{margin-bottom:360px}
+.vhmb31{margin-bottom:372px}
+.vhmb32{margin-bottom:384px}
+.vhmb33{margin-bottom:396px}
+.vhmb34{margin-bottom:408px}
+.vhmb35{margin-bottom:420px}
+.vhmb36{margin-bottom:432px}
+.vhmb37{margin-bottom:444px}
+.vhmb38{margin-bottom:456px}
+.vhmb39{margin-bottom:468px}
+.vhmb40{margin-bottom:480px}
+.vhmb41{margin-bottom:492px}
+.vhmb42{margin-bottom:504px}
+.vhmb43{margin-bottom:516px}
+.vhmb44{margin-bottom:528px}
+.vhmb45{margin-bottom:540px}
+.vhmb46{margin-bottom:552px}
+.vhmb47{margin-bottom:564px}
+.vhmb48{margin-bottom:576px}
+.vhmb49{margin-bottom:588px}
+.vhmb50{margin-bottom:600px}
+.vhmb51{margin-bottom:612px}
+.vhmb52{margin-bottom:624px}
+.vhmb53{margin-bottom:636px}
+.vhmb54{margin-bottom:648px}
+.vhmb55{margin-bottom:660px}
+.vhmb56{margin-bottom:672px}
+.vhmb57{margin-bottom:684px}
+.vhmb58{margin-bottom:696px}
+.vhmb59{margin-bottom:708px}
+.vhmb60{margin-bottom:720px}
+.vhmb61{margin-bottom:732px}
+.vhmb62{margin-bottom:744px}
+.vhmb63{margin-bottom:756px}
+.vhmb64{margin-bottom:768px}
+.vhmb65{margin-bottom:780px}
+.vhmb66{margin-bottom:792px}
+.vhmb67{margin-bottom:804px}
+.vhmb68{margin-bottom:816px}
+.vhmb69{margin-bottom:828px}
+.vhmb70{margin-bottom:840px}
+.vhmb71{margin-bottom:852px}
+.vhmb72{margin-bottom:864px}
+.vhmb73{margin-bottom:876px}
+.vhmb74{margin-bottom:888px}
+.vhmb75{margin-bottom:900px}
+.vhmb76{margin-bottom:912px}
+.vhmb77{margin-bottom:924px}
+.vhmb78{margin-bottom:936px}
+.vhmb79{margin-bottom:948px}
+.vhmb80{margin-bottom:960px}
+.vhmb81{margin-bottom:972px}
+.vhmb82{margin-bottom:984px}
+.vhmb83{margin-bottom:996px}
+.vhmb84{margin-bottom:1008px}
+.vhmb85{margin-bottom:1020px}
+.vhmb86{margin-bottom:1032px}
+.vhmb87{margin-bottom:1044px}
+.vhmb88{margin-bottom:1056px}
+.vhmb89{margin-bottom:1068px}
+.vhmb90{margin-bottom:1080px}
+.vhmb91{margin-bottom:1092px}
+.vhmb92{margin-bottom:1104px}
+.vhmb93{margin-bottom:1116px}
+.vhmb94{margin-bottom:1128px}
+.vhmb95{margin-bottom:1140px}
+.vhmb96{margin-bottom:1152px}
+.vhmb97{margin-bottom:1164px}
+.vhmb98{margin-bottom:1176px}
+.vhmb99{margin-bottom:1188px}
+.vhmb100{margin-bottom:1200px}
+.vminw1{width:12px}
+.vminw2{width:24px}
+.vminw3{width:36px}
+.vminw4{width:48px}
+.vminw5{width:60px}
+.vminw6{width:72px}
+.vminw7{width:84px}
+.vminw8{width:96px}
+.vminw9{width:108px}
+.vminw10{width:120px}
+.vminw11{width:132px}
+.vminw12{width:144px}
+.vminw13{width:156px}
+.vminw14{width:168px}
+.vminw15{width:180px}
+.vminw16{width:192px}
+.vminw17{width:204px}
+.vminw18{width:216px}
+.vminw19{width:228px}
+.vminw20{width:240px}
+.vminw21{width:252px}
+.vminw22{width:264px}
+.vminw23{width:276px}
+.vminw24{width:288px}
+.vminw25{width:300px}
+.vminw26{width:312px}
+.vminw27{width:324px}
+.vminw28{width:336px}
+.vminw29{width:348px}
+.vminw30{width:360px}
+.vminw31{width:372px}
+.vminw32{width:384px}
+.vminw33{width:396px}
+.vminw34{width:408px}
+.vminw35{width:420px}
+.vminw36{width:432px}
+.vminw37{width:444px}
+.vminw38{width:456px}
+.vminw39{width:468px}
+.vminw40{width:480px}
+.vminw41{width:492px}
+.vminw42{width:504px}
+.vminw43{width:516px}
+.vminw44{width:528px}
+.vminw45{width:540px}
+.vminw46{width:552px}
+.vminw47{width:564px}
+.vminw48{width:576px}
+.vminw49{width:588px}
+.vminw50{width:600px}
+.vminw51{width:612px}
+.vminw52{width:624px}
+.vminw53{width:636px}
+.vminw54{width:648px}
+.vminw55{width:660px}
+.vminw56{width:672px}
+.vminw57{width:684px}
+.vminw58{width:696px}
+.vminw59{width:708px}
+.vminw60{width:720px}
+.vminw61{width:732px}
+.vminw62{width:744px}
+.vminw63{width:756px}
+.vminw64{width:768px}
+.vminw65{width:780px}
+.vminw66{width:792px}
+.vminw67{width:804px}
+.vminw68{width:816px}
+.vminw69{width:828px}
+.vminw70{width:840px}
+.vminw71{width:852px}
+.vminw72{width:864px}
+.vminw73{width:876px}
+.vminw74{width:888px}
+.vminw75{width:900px}
+.vminw76{width:912px}
+.vminw77{width:924px}
+.vminw78{width:936px}
+.vminw79{width:948px}
+.vminw80{width:960px}
+.vminw81{width:972px}
+.vminw82{width:984px}
+.vminw83{width:996px}
+.vminw84{width:1008px}
+.vminw85{width:1020px}
+.vminw86{width:1032px}
+.vminw87{width:1044px}
+.vminw88{width:1056px}
+.vminw89{width:1068px}
+.vminw90{width:1080px}
+.vminw91{width:1092px}
+.vminw92{width:1104px}
+.vminw93{width:1116px}
+.vminw94{width:1128px}
+.vminw95{width:1140px}
+.vminw96{width:1152px}
+.vminw97{width:1164px}
+.vminw98{width:1176px}
+.vminw99{width:1188px}
+.vminw100{width:1200px}
+.vmaxw1{width:16px}
+.vmaxw2{width:32px}
+.vmaxw3{width:48px}
+.vmaxw4{width:64px}
+.vmaxw5{width:80px}
+.vmaxw6{width:96px}
+.vmaxw7{width:112px}
+.vmaxw8{width:128px}
+.vmaxw9{width:144px}
+.vmaxw10{width:160px}
+.vmaxw11{width:176px}
+.vmaxw12{width:192px}
+.vmaxw13{width:208px}
+.vmaxw14{width:224px}
+.vmaxw15{width:240px}
+.vmaxw16{width:256px}
+.vmaxw17{width:272px}
+.vmaxw18{width:288px}
+.vmaxw19{width:304px}
+.vmaxw20{width:320px}
+.vmaxw21{width:336px}
+.vmaxw22{width:352px}
+.vmaxw23{width:368px}
+.vmaxw24{width:384px}
+.vmaxw25{width:400px}
+.vmaxw26{width:416px}
+.vmaxw27{width:432px}
+.vmaxw28{width:448px}
+.vmaxw29{width:464px}
+.vmaxw30{width:480px}
+.vmaxw31{width:496px}
+.vmaxw32{width:512px}
+.vmaxw33{width:528px}
+.vmaxw34{width:544px}
+.vmaxw35{width:560px}
+.vmaxw36{width:576px}
+.vmaxw37{width:592px}
+.vmaxw38{width:608px}
+.vmaxw39{width:624px}
+.vmaxw40{width:640px}
+.vmaxw41{width:656px}
+.vmaxw42{width:672px}
+.vmaxw43{width:688px}
+.vmaxw44{width:704px}
+.vmaxw45{width:720px}
+.vmaxw46{width:736px}
+.vmaxw47{width:752px}
+.vmaxw48{width:768px}
+.vmaxw49{width:784px}
+.vmaxw50{width:800px}
+.vmaxw51{width:816px}
+.vmaxw52{width:832px}
+.vmaxw53{width:848px}
+.vmaxw54{width:864px}
+.vmaxw55{width:880px}
+.vmaxw56{width:896px}
+.vmaxw57{width:912px}
+.vmaxw58{width:928px}
+.vmaxw59{width:944px}
+.vmaxw60{width:960px}
+.vmaxw61{width:976px}
+.vmaxw62{width:992px}
+.vmaxw63{width:1008px}
+.vmaxw64{width:1024px}
+.vmaxw65{width:1040px}
+.vmaxw66{width:1056px}
+.vmaxw67{width:1072px}
+.vmaxw68{width:1088px}
+.vmaxw69{width:1104px}
+.vmaxw70{width:1120px}
+.vmaxw71{width:1136px}
+.vmaxw72{width:1152px}
+.vmaxw73{width:1168px}
+.vmaxw74{width:1184px}
+.vmaxw75{width:1200px}
+.vmaxw76{width:1216px}
+.vmaxw77{width:1232px}
+.vmaxw78{width:1248px}
+.vmaxw79{width:1264px}
+.vmaxw80{width:1280px}
+.vmaxw81{width:1296px}
+.vmaxw82{width:1312px}
+.vmaxw83{width:1328px}
+.vmaxw84{width:1344px}
+.vmaxw85{width:1360px}
+.vmaxw86{width:1376px}
+.vmaxw87{width:1392px}
+.vmaxw88{width:1408px}
+.vmaxw89{width:1424px}
+.vmaxw90{width:1440px}
+.vmaxw91{width:1456px}
+.vmaxw92{width:1472px}
+.vmaxw93{width:1488px}
+.vmaxw94{width:1504px}
+.vmaxw95{width:1520px}
+.vmaxw96{width:1536px}
+.vmaxw97{width:1552px}
+.vmaxw98{width:1568px}
+.vmaxw99{width:1584px}
+.vmaxw100{width:1600px}
+</style><script src="https://kaurmigration.com.au/wp-includes/js/wp-emoji-release.min.js?ver=da9c58bc07d0a87fbdd093c511d6a284" defer=""></script></head><body data-rsssl="1" data-whatinput="mouse">
+        <div class="header">
+          <div class="row">
+            <div class="large-12 columns header-content">
+              <div class="large-2  medium-12 small-12 columns">
+                <a href="https://kaurmigration.com.au/">
+                  <span class="custom-tooltip consultation" data-tooltip-pos="down" data-custom-tooltip="FREE INITIAL CONSULTATION*" data-tooltip-length="medium">
+                    <img class="logo-orange" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/img/kaurmigration_logo.png" alt="immigration service">
+                  </span>
+                </a> 
+              </div>
+              <div class="large-8 columns navigation">
+                <nav class="main-nav" style="display: block;">
+                  <a href="https://kaurmigration.com.au/"><img class="logo-white" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/img/kaurmigration_logo_white.png" alt="australia immigration"></a>
+				          <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-725"><a href="https://kaurmigration.com.au/about-us/">About Us</a></li>
+<li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-5"><a rel="m_PageScroll2id" href="https://kaurmigration.com.au/#ourfocus" aria-current="page">Our Focus</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-12"><a rel="m_PageScroll2id" href="https://kaurmigration.com.au/#contactus" aria-current="page">Contact Us</a></li>
+</ul></div>  
+                </nav>  
+              </div>
+              <div class="large-2  medium-12 small-12 columns">
+                <div class="social-menu-container">
+                  <ul id="social-menu" class="menu">
+                    <li class="menu-item"><a href="https://www.facebook.com/kaurmigration" target="_blank"><span class="custom-tooltip facebook" data-custom-tooltip="FOLLOW US ON FACEBOOK" data-tooltip-pos="down" data-tooltip-length="medium"><img class="" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/images/icons/fb.png" alt="Follow us on Facebook"></span></a></li>
+                    <li class="menu-item"><a href="https://www.instagram.com/kaurmigration" target="_blank"><span class="custom-tooltip instagram" data-custom-tooltip="FOLLOW US ON INSTAGRAM" data-tooltip-pos="down" data-tooltip-length="medium"><img class="" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/images/icons/instagram.png" alt="Follow us on Instagram"></span></a></li>
+                    <li class="menu-item"><a href="https://www.tiktok.com/@kaurmigrationptyltd" target="_blank"><span class="custom-tooltip tiktok" data-custom-tooltip="FOLLOW US ON TIKTOK" data-tooltip-pos="down" data-tooltip-length="medium"><img class="" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/images/icons/tiktok.png" alt="Follow us on Tiktok"></span></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- <div class="search-toggle">
+          <a id="search-form-trigger" class="search-form-trigger"><i id="search-icon" class="fa fa-search fa-lg"></i></a>
+        </div>
+        <div class="search-form-wrapper">
+          <form role="search" method="get" class="search-form" action="https://kaurmigration.com.au/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>        </div> -->
+<div class="homebanner-wrapper">
+  <div class="textbanner-content">
+    <div class="row">
+
+      <!-- <div class="large-8 columns content-column"> -->
+      <div class="large-8 medium-8 columns">
+        <div class="">
+          <div class="contact-caption">
+            <div class="left wow slideInLeft" data-wow-duration="1s" data-wow-offset="1" style="visibility: visible; animation-duration: 1s;">
+              <p class="tagline px-44-font">Now an </p>
+              <p class="tagline px-70-font text-uppercase">Incorporated <br> Legal <br> Practice</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="large-4 medium-4 columns">
+        <div class="tagline-wrapper">
+          <img src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/images/text/kaurmigration-tagline-left.png" alt="" class="text-image tagline wow fadeIn" data-wow-duration="3s" style="visibility: visible; animation-duration: 3s;">
+          <p class="px-12-font wow fadeIn" data-wow-duration="3s" style="margin-bottom: 15px; visibility: visible; animation-duration: 3s;">We are proud to announce that <span class="montserrat-bold">Kaur Migration</span> is now an *Incorporated Legal Practice, led by <span class="montserrat-bold">Principal Solicitor – Preeti Kaur</span>, with offices in <span class="montserrat-bold">Lara</span> and <span class="montserrat-bold">Melbourne CBD</span>.</p>
+          <p class="px-12-font wow fadeIn" data-wow-duration="3s" style="visibility: visible; animation-duration: 3s;">Our firm focuses exclusively on <span class="montserrat-bold">Migration Law</span>, providing trusted and professional legal services in all visa and immigration matters.</p>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+  <div class="clearfix"></div>
+</div>
+<div class="visas-wrapper section-padding" id="ourfocus">
+  <div class="row">
+    <div class="large-10 large-offset-1 columns">
+      <div class="visas-content">
+        <div class="section-title text-center">
+          <h1>Our Practice Focus</h1>
+        </div>
+        <div class="large-6 medium-6 columns" style="padding: 0 4px;">
+          <ul class="visa-list">
+            <li class="wow fadeInUp" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s;">
+              <div class="box-wrapper">
+                <div class="content-wrapper">
+                  <p class="px-16-font">Employer Sponsorship</p>
+                </div>
+              </div>
+            </li>
+            <li class="wow fadeInUp" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s;">
+              <div class="box-wrapper">
+                <div class="content-wrapper">
+                  <p class="px-16-font">Partner Visas</p>
+                </div>
+              </div>
+            </li>
+            <li class="wow fadeInUp" data-wow-duration="3s" style="visibility: visible; animation-duration: 3s;">
+              <div class="box-wrapper">
+                <div class="content-wrapper">
+                  <p class="px-16-font">Federal court (Migration Appeals)</p>
+                </div>
+              </div>
+            </li>
+          </ul>
+
+        </div>
+        <div class="large-6 medium-6 columns" style="padding: 0 4px;">
+          <ul class="visa-list">
+            <li class="wow fadeInUp" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s;">
+              <div class="box-wrapper">
+                <div class="content-wrapper">
+                  <p class="px-16-font">Skilled Migration</p>
+                </div>
+              </div>
+            </li>
+            <li class="wow fadeInUp" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s;">
+              <div class="box-wrapper">
+                <div class="content-wrapper">
+                  <p class="px-16-font">ART Appeals</p>
+                </div>
+              </div>
+            </li>
+            <li class="wow fadeInUp" data-wow-duration="3s" style="visibility: visible; animation-duration: 3s;">
+              <div class="box-wrapper">
+                <div class="content-wrapper">
+                  <p class="px-16-font">Skill Assessment</p>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="contactus-wrapper section-padding" id="contactus">
+  <div class="row">
+    <div class="large-8 columns">
+      <div class="message-form wow fadeInUp" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s;">
+        <h1>Contact Us</h1>
+        <style id="wpforms-css-vars-710">
+				#wpforms-710 {
+				--wpforms-container-padding: 0px;
+--wpforms-container-border-width: 1px;
+--wpforms-container-border-radius: 3px;
+--wpforms-background-color: rgba(0, 0, 0, 0);
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+--wpforms-container-shadow-size-box-shadow: none;
+			}
+			</style><div class="wpforms-container wpforms-container-full wpforms-render-modern" id="wpforms-710"><form id="wpforms-form-710" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="710" method="post" enctype="multipart/form-data" action="/" data-token="058911edfbac0dc1bc8bc408b2320919" data-token-time="1789120660" novalidate="novalidate"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div id="wpforms-error-noscript" style="display: none;">Please enable JavaScript in your browser to complete this form.</div><div class="wpforms-field-container"><div id="wpforms-710-field_1-container" class="wpforms-field wpforms-field-text" data-field-id="1"><label class="wpforms-field-label wpforms-label-hide" for="wpforms-710-field_1" aria-hidden="false">Name <span class="wpforms-required-label" aria-hidden="true">*</span></label><input type="text" id="wpforms-710-field_1" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][1]" placeholder="FULL NAME" aria-errormessage="wpforms-710-field_1-error" required=""></div><div id="wpforms-710-field_2-container" class="wpforms-field wpforms-field-text" data-field-id="2"><label class="wpforms-field-label wpforms-label-hide" for="wpforms-710-field_2" aria-hidden="false">Email <span class="wpforms-required-label" aria-hidden="true">*</span></label><input type="text" id="wpforms-710-field_2" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][2]" placeholder="EMAIL" aria-errormessage="wpforms-710-field_2-error" required=""></div><div id="wpforms-710-field_3-container" class="wpforms-field wpforms-field-text" data-field-id="3"><label class="wpforms-field-label wpforms-label-hide" for="wpforms-710-field_3" aria-hidden="false">Phone Number</label><input type="text" id="wpforms-710-field_3" class="wpforms-field-large" name="wpforms[fields][3]" placeholder="PHONE" aria-errormessage="wpforms-710-field_3-error"></div><div id="wpforms-710-field_4-container" class="wpforms-field wpforms-field-textarea" data-field-id="4"><label class="wpforms-field-label wpforms-label-hide" for="wpforms-710-field_4" aria-hidden="false">Description</label><textarea id="wpforms-710-field_4" class="wpforms-field-medium" name="wpforms[fields][4]" placeholder="DESCRIPTION" aria-errormessage="wpforms-710-field_4-error"></textarea></div></div><!-- .wpforms-field-container --><div class="wpforms-recaptcha-container wpforms-is-recaptcha wpforms-is-recaptcha-type-v2"><div class="g-recaptcha" data-sitekey="6LdpZuwaAAAAAJq1d8TPOcmpXuACixpsVlHq_wae" data-recaptcha-id="0"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-i37l4ttdzcub" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdpZuwaAAAAAJq1d8TPOcmpXuACixpsVlHq_wae&amp;co=aHR0cHM6Ly9rYXVybWlncmF0aW9uLmNvbS5hdTo0NDM.&amp;hl=en&amp;v=8x-4t2pegToiW8KmThtO4AQt&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=g2m33yuejnm6"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div><input type="text" name="g-recaptcha-hidden" class="wpforms-recaptcha-hidden" style="position:absolute!important;clip:rect(0,0,0,0)!important;height:1px!important;width:1px!important;border:0!important;overflow:hidden!important;padding:0!important;margin:0!important;" data-rule-recaptcha="1"></div><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="710"><input type="hidden" name="page_title" value="KAUR Migration"><input type="hidden" name="page_url" value="https://kaurmigration.com.au/"><input type="hidden" name="url_referer" value=""><button type="submit" name="wpforms[submit]" id="wpforms-submit-710" class="wpforms-submit" data-alt-text="Sending…" data-submit-text="⁠Contact us today for  migration advice" aria-live="assertive" value="wpforms-submit">⁠Contact us today for  migration advice</button><img src="https://kaurmigration.com.au/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt="Loading"></div></form></div>  <!-- .wpforms-container -->      </div>
+    </div>
+    <div class="large-4 columns">
+      <div class="content px-12-font wow fadeIn" data-wow-duration="3s" style="visibility: visible; animation-duration: 3s;">
+        <p>Visit Us</p>
+        <br>
+        <p><img draggable="false" role="img" class="emoji" alt="📍" src="https://s.w.org/images/core/emoji/17.0.2/svg/1f4cd.svg"> <span class="montserrat-bold">Lara Office:</span> 26 Hicks Street, Lara VIC 3212</p>
+        <p><img draggable="false" role="img" class="emoji" alt="📍" src="https://s.w.org/images/core/emoji/17.0.2/svg/1f4cd.svg"> <span class="montserrat-bold">Melbourne CBD Office:</span> Suite 610, 530 Lt Collins Street, Melbourne VIC 3000</p>
+        <p><img draggable="false" role="img" class="emoji" alt="📞" src="https://s.w.org/images/core/emoji/17.0.2/svg/1f4de.svg"> <span class="montserrat-bold">0415 615 255</span></p>
+        <p><img draggable="false" role="img" class="emoji" alt="✉️" src="https://s.w.org/images/core/emoji/17.0.2/svg/2709.svg"> <a href="mailto:info@kaurmigration.com.au" target="_top"> info@kaurmigration.com.au</a></p>
+        <p><img draggable="false" role="img" class="emoji" alt="🌐" src="https://s.w.org/images/core/emoji/17.0.2/svg/1f310.svg"> <a href="https://kaurmigration.com.au/">www.kaurmigration.com.au</a></p>
+        <div class="social-menu-container">
+          <ul id="social-menu" class="menu">
+            <li class="menu-item"><a href="https://www.facebook.com/kaurmigration/" target="_blank"><img class="" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/images/icons/fb.png" alt="Follow us on Facebook"></a></li>
+            <li class="menu-item"><a href="https://www.instagram.com/kaurmigration/" target="_blank"><img class="" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/images/icons/instagram.png" alt="Follow us on Instagram"></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="top-footer">
+  <div class="row">
+    <div class="large-3 columns">
+      <div class="logo-wrapper wow fadeIn" data-wow-duration="3s" style="visibility: hidden; animation-duration: 3s; animation-name: none;">
+        <img class="logo" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/img/kaurmigration_logo.png" alt="immigration service">
+      </div>
+    </div>
+    <div class="large-6 columns">
+      <div class="content wow fadeIn" data-wow-duration="3s" style="visibility: hidden; animation-duration: 3s; animation-name: none;">
+        <p class="line-height-1point25">Kaur Migration Pty Ltd is an Incorporated Legal Practice regulated by the Victorian Legal Services Board and Commissioner. Founded and led by <span class="montserrat-bold">Principal Solicitor Preeti Kaur</span>, Kaur Migration is a dedicated legal practice focusing exclusively on migration law matters. This website provides general information only and does not constitute legal advice.
+        </p>
+      </div>
+    </div>
+    <div class="large-3 columns">
+      <div class="social-menu-container wow fadeIn" data-wow-duration="3s" style="visibility: hidden; animation-duration: 3s; animation-name: none;">
+        <ul id="social-menu" class="menu">
+          <li class="menu-item"><a href="https://www.facebook.com/kaurmigration" target="_blank"><span class="custom-tooltip facebook" data-custom-tooltip="FOLLOW US ON FACEBOOK" data-tooltip-pos="down" data-tooltip-length="medium"><img class="" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/images/icons/fb.png" alt="Follow us on Facebook"></span></a></li>
+          <li class="menu-item"><a href="https://www.instagram.com/kaurmigration/" target="_blank"><span class="custom-tooltip instagram" data-custom-tooltip="FOLLOW US ON INSTAGRAM" data-tooltip-pos="down" data-tooltip-length="medium"><img class="" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/images/icons/instagram.png" alt="Follow us on Instagram"></span></a></li>
+          <li class="menu-item"><a href="https://www.tiktok.com/@kaurmigrationptyltd" target="_blank"><span class="custom-tooltip tiktok" data-custom-tooltip="FOLLOW US ON TIKTOK" data-tooltip-pos="down" data-tooltip-length="medium"><img class="" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/images/icons/tiktok.png" alt="Follow us on Tiktok"></span></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="footer-wrapper">
+  <div class="row">
+    <div class="large-12 colimns">
+      <div class="footer-content">
+        <div class="large-12 medium-12 columns">
+          <p>Liability Limited by a Scheme Approved Under Professional Standards Legislation. <br> Copyright © 2018 Kaur Migration pty ltd</p>
+          <br>
+          <p><i>We acknowledge the Traditional Owners of the land and pay our respects to Elders past and present.</i></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/vendor/what-input.min.js"></script>
+<script src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/foundation.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/foundation-datepicker/1.5.6/js/foundation-datepicker.min.js"></script>
+<script src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/jquery.meanmenu.js"></script>
+<script src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/owl.carousel.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
+<script src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/parallax.js"></script>
+<script src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/pikaday.js"></script>
+<script type="text/javascript" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/scripts.js"></script>
+
+<script src="https://cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script>
+<script src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/jquery.magnific-popup.js"></script>
+<script type="text/javascript" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/kaur-migration-script.js"></script>
+<script type="text/javascript" src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/js/callback.js"></script>
+<script>
+  $('.parallax-window1').parallax({
+    imageSrc: 'https://kaurmigration.com.au/wp-content/themes/kaur-theme/assets/img/latestnews.jpg'
+  });
+</script>
+<script>
+  $(document).foundation();
+</script>
+<script>
+  $(function() {
+    $('.date-fdatepicker').fdatepicker({
+      format: 'dd-mm-yyyy',
+      disableDblClickSelection: true,
+    });
+  });
+</script>
+<script>
+  $('a.callback-btn').on('click', function() {
+    $('#callback_modal').foundation('reveal', 'open');
+  });
+  $('a.close').on('click', function() {
+    $('#callback_modal').foundation('reveal', 'close');
+    // alert('success');
+  });
+</script>
+<script>
+  $(document).ready(function() {
+    wow = new WOW({
+      boxClass: 'wow', // default
+      animateClass: 'animated', // default
+      offset: 0, // default
+      mobile: true, // default
+      live: true // default
+    })
+    wow.init();
+  });
+</script>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/kaur-theme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script src="https://kaurmigration.com.au/wp-content/themes/kaur-theme/js/navigation.js?ver=1.0.0" id="our-advice-your-success-navigation-js"></script>
+<script id="theme-main-js-extra">
+var miga_smooth_scrolling_params = {"miga_smooth_scrolling_smoothWheel":"1","miga_smooth_scrolling_anchor_offset":"0","miga_smooth_scrolling_lerp":"0.1","miga_smooth_scrolling_duration":"1.2","miga_smooth_scrolling_anchor":"1","miga_smooth_scrolling_gsap":""};
+var miga_smooth_scrolling_params = {"miga_smooth_scrolling_smoothWheel":"1","miga_smooth_scrolling_anchor_offset":"0","miga_smooth_scrolling_lerp":"0.1","miga_smooth_scrolling_duration":"1.2","miga_smooth_scrolling_anchor":"1","miga_smooth_scrolling_gsap":""};
+//# sourceURL=theme-main-js-extra
+</script>
+<script src="https://kaurmigration.com.au/wp-content/plugins/smooth-scrolling-with-lenis/js/main.js?ver=1.3.11" id="theme-main-js"></script>
+<script src="https://kaurmigration.com.au/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.21.0" id="wpforms-validation-js"></script>
+<script src="https://kaurmigration.com.au/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js?ver=1.9.9.2" id="wpforms-generic-utils-js"></script>
+<script src="https://kaurmigration.com.au/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js?ver=1.9.9.2" id="wpforms-js"></script>
+<script src="https://kaurmigration.com.au/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms-modern.min.js?ver=1.9.9.2" id="wpforms-modern-js"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=wpformsRecaptchaLoad&amp;render=explicit" id="wpforms-recaptcha-js"></script>
+<script id="wpforms-recaptcha-js-after">
+var wpformsDispatchEvent = function (el, ev, custom) {
+				var e = document.createEvent(custom ? "CustomEvent" : "HTMLEvents");
+				custom ? e.initCustomEvent(ev, true, true, false) : e.initEvent(ev, true, true);
+				el.dispatchEvent(e);
+			};
+		var wpformsRecaptchaCallback = function (el) {
+				var hdn = el.parentNode.querySelector(".wpforms-recaptcha-hidden");
+				var err = el.parentNode.querySelector("#g-recaptcha-hidden-error");
+				hdn.value = "1";
+				wpformsDispatchEvent(hdn, "change", false);
+				hdn.classList.remove("wpforms-error");
+				err && hdn.parentNode.removeChild(err);
+			};
+		var wpformsRecaptchaLoad = function () {
+					Array.prototype.forEach.call(document.querySelectorAll(".g-recaptcha"), function (el) {
+						try {
+							var recaptchaID = grecaptcha.render(el, {
+								callback: function () {
+									wpformsRecaptchaCallback(el);
+								}
+							});
+							el.setAttribute("data-recaptcha-id", recaptchaID);
+						} catch (error) {}
+					});
+					wpformsDispatchEvent(document, "wpformsRecaptchaLoaded", true);
+				};
+			
+//# sourceURL=wpforms-recaptcha-js-after
+</script>
+<script src="https://kaurmigration.com.au/wp-content/plugins/wpforms-lite/assets/js/frontend/fields/address.min.js?ver=1.9.9.2" id="wpforms-address-field-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://kaurmigration.com.au/wp-includes/js/wp-emoji-release.min.js?ver=da9c58bc07d0a87fbdd093c511d6a284"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://kaurmigration.com.au/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpforms_settings = {"val_required":"This field is required.","val_email":"Please enter a valid email address.","val_email_suggestion":"Did you mean {suggestion}?","val_email_suggestion_title":"Click to accept this suggestion.","val_email_restricted":"This email address is not allowed.","val_number":"Please enter a valid number.","val_number_positive":"Please enter a valid positive number.","val_minimum_price":"Amount entered is less than the required minimum.","val_confirm":"Field values do not match.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","val_limit_characters":"{count} of {limit} max characters.","val_limit_words":"{count} of {limit} max words.","val_min":"Please enter a value greater than or equal to {0}.","val_max":"Please enter a value less than or equal to {0}.","val_recaptcha_fail_msg":"Google reCAPTCHA verification failed, please try again later.","val_turnstile_fail_msg":"Cloudflare Turnstile verification failed, please try again later.","val_inputmask_incomplete":"Please fill out the field in required format.","uuid_cookie":"","locale":"en","country":"","country_list_label":"Country list","wpforms_plugin_url":"https:\/\/kaurmigration.com.au\/wp-content\/plugins\/wpforms-lite\/","gdpr":"","ajaxurl":"https:\/\/kaurmigration.com.au\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":"1","currency_code":"USD","currency_thousands":",","currency_decimals":"2","currency_decimal":".","currency_symbol":"$","currency_symbol_pos":"left","val_requiredpayment":"Payment is required.","val_creditcard":"Please enter a valid credit card number.","css_vars":["field-border-radius","field-border-style","field-border-size","field-background-color","field-border-color","field-text-color","field-menu-color","label-color","label-sublabel-color","label-error-color","button-border-radius","button-border-style","button-border-size","button-background-color","button-border-color","button-text-color","page-break-color","background-image","background-position","background-repeat","background-size","background-width","background-height","background-color","background-url","container-padding","container-border-style","container-border-width","container-border-color","container-border-radius","field-size-input-height","field-size-input-spacing","field-size-font-size","field-size-line-height","field-size-padding-h","field-size-checkbox-size","field-size-sublabel-spacing","field-size-icon-size","label-size-font-size","label-size-line-height","label-size-sublabel-font-size","label-size-sublabel-line-height","button-size-font-size","button-size-height","button-size-padding-h","button-size-margin-top","container-shadow-size-box-shadow"],"isModernMarkupEnabled":"1","formErrorMessagePrefix":"Form error message","errorMessagePrefix":"Error message","submitBtnDisabled":"Submit button is disabled during form submission.","readOnlyDisallowedFields":["captcha","content","divider","hidden","html","entry-preview","pagebreak","payment-total"],"error_updating_token":"Error updating token. Please try again or contact support if the issue persists.","network_error":"Network error or server is unreachable. Check your connection or try again later.","token_cache_lifetime":"86400","hn_data":[],"address_field":{"list_countries_without_states":["GB","DE","CH","NL"]}}
+/* ]]> */
+</script>
+
+
+
+<div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-i37l4ttdzcub" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=8x-4t2pegToiW8KmThtO4AQt&amp;k=6LdpZuwaAAAAAJq1d8TPOcmpXuACixpsVlHq_wae&amp;bft=0dAFcWeA6FbJ9xkElLyGNNakbLMky67kj4dkSGDOsuuNu2YSjY6-nujmYKkcLpwf8cqrLrJCxPEx0XUh9f_plIeuWqmJa5CLF1Pw" style="width: 100%; height: 100%;"></iframe></div></div></body>

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://greenhillsrishikesh.com/pla",
+  "hostname": "greenhillsrishikesh.com",
+  "checked_at": "2026-10-04T14:49:10.903735+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a05c56-1a62-701d-982d-061f468b1a64",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-01T09:39:11.642Z",
+  "scan_original_url": "https://greenhillsrishikesh.com/",
+  "final_url": "https://greenhillsrishikesh.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 377,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.845,
+  "discovery": {
+    "batch_id": "17a29f61b90afd7009def6b46af07d87fdc95baec1263be80782982cafeab0db",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

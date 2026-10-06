@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_631dd8ae32648d42eeb9a842efa645a341de1135d9717e5d78d4f617adcd6691",
+  "candidate_sha256": "7b777cc1b0710b3ee01895626fc22978f88b749582678d82305f98c51b5df464",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://inajen.com/awesomes/inajens/group.html",
+  "requested_url": "https://inajen.com/awesomes/inajens/group.html",
+  "browser_final_url": "https://inajen.com/awesomes/inajens/group.html",
+  "source_urls": [
+    "https://inajen.com/awesomes/inajens/group.html"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 57012,
+      "source_url": "https://inajen.com/awesomes/inajens/group.html",
+      "source_hostname": "inajen.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://inajen.com/awesomes/inajens/group.html",
+      "final_hostname": "inajen.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 10491,
+      "elapsed_ms": 3054,
+      "checked_at": "2026-10-05T12:54:24.663848+00:00",
+      "error": null,
+      "normalized_source_url": "https://inajen.com/awesomes/inajens/group.html",
+      "normalized_final_url": "https://inajen.com/awesomes/inajens/group.html",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_631dd8ae32648d42eeb9a842efa645a341de1135d9717e5d78d4f617adcd6691",
+    "representative_source_index": 57012,
+    "representative_source_url": "https://inajen.com/awesomes/inajens/group.html",
+    "representative_final_url": "https://inajen.com/awesomes/inajens/group.html",
+    "normalized_final_url": "https://inajen.com/awesomes/inajens/group.html",
+    "source_hostname": "inajen.com",
+    "final_hostname": "inajen.com",
+    "source_urls": [
+      "https://inajen.com/awesomes/inajens/group.html"
+    ],
+    "provenance": [
+      {
+        "source_index": 57012,
+        "source_url": "https://inajen.com/awesomes/inajens/group.html",
+        "source_hostname": "inajen.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://inajen.com/awesomes/inajens/group.html",
+        "final_hostname": "inajen.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 10491,
+        "elapsed_ms": 3054,
+        "checked_at": "2026-10-05T12:54:24.663848+00:00",
+        "error": null,
+        "normalized_source_url": "https://inajen.com/awesomes/inajens/group.html",
+        "normalized_final_url": "https://inajen.com/awesomes/inajens/group.html",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "inajen — Ibiza closing parties 2026, night by night",
+  "capture_timestamp": "2026-10-05T14:44:32.759434+00:00",
+  "dom_chars": 283655,
+  "screenshot_bytes": 397657,
+  "dom_sha256": "78c6ba4b7bb857009293d7ce9f6ad67cf3be018eb8740c08f52ce287b43dc6c3",
+  "screenshot_sha256": "192f7c8518410634d4af3dd95aec901c1762ad5edad6673f2cd000ff240050d9",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://inajen.com/awesomes/inajens/group.html",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://inajen.com/awesomes/inajens/group.html",
+    "browser_final_url": "https://inajen.com/awesomes/inajens/group.html",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5221
+}

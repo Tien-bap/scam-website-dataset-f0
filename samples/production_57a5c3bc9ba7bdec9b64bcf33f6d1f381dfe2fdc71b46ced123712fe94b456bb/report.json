@@ -1,0 +1,27 @@
+{
+  "original_url": "https://savingscenters.com/fr-amazon-pl/?item=A54&sub1=17S&sub2=472484&sub3=2f6aee83-51ab-49ba-948d-2911bb30a5ed",
+  "hostname": "savingscenters.com",
+  "checked_at": "2026-10-04T14:55:25.024188+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0cf7a-4b42-722d-bc4c-9317e672ce99",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-23T18:15:02.687Z",
+  "scan_original_url": "https://www.savingscenters.com/",
+  "final_url": "https://savingscenters.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2995,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 39.403,
+  "discovery": {
+    "batch_id": "2d21ebb18ad6aedea9153ff93a97faacbb7c6393fc76b0624d194a3ce68ced49",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

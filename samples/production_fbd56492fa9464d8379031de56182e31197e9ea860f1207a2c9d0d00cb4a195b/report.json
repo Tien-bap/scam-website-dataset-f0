@@ -1,0 +1,27 @@
+{
+  "original_url": "https://summervilledream.org/wp-admin/epfl-ch/epfl-ch.html",
+  "hostname": "summervilledream.org",
+  "checked_at": "2026-10-04T16:10:05.842498+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 12,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b50e-624b-746c-ae68-36121fe48546",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-18T15:07:04.129Z",
+  "scan_original_url": "https://summervilledream.org/",
+  "final_url": "https://summervilledream.org/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2729,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.734,
+  "discovery": {
+    "batch_id": "cfa6f29f27dca372cedaedd97243de70c8ea3035cd71d96d8b1ae706834c744b",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

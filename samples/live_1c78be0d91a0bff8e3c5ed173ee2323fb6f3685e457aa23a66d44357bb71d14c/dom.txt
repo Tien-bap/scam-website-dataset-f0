@@ -1,0 +1,20 @@
+<!DOCTYPE html><html lang="ru"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <title>Платформа недвижимости</title>
+    <!--
+      Рантайм-конфиг: какие разделы включены и куда ходить за API.
+      Файл подменяется при деплое (docker-entrypoint.sh), поэтому один и тот же
+      собранный образ разворачивается и как полный портал, и как один сервис.
+    -->
+    <script src="/config.js"></script>
+    <script type="module" crossorigin="" src="/assets/index-DuCQv1wI.js"></script>
+    <link rel="stylesheet" crossorigin="" href="/assets/index-lOANoj-G.css">
+  </head>
+  <body>
+    <div id="root"><div class="auth-page"><form class="auth-card"><div class="auth-card__brand"><span class="brand-mark brand-mark--md" aria-hidden="true"><span class="brand-mark__glow"></span><span class="brand-mark__grid"><span class="brand-mark__cell" data-i="0"></span><span class="brand-mark__cell" data-i="1"></span><span class="brand-mark__cell" data-i="2"></span><span class="brand-mark__cell" data-i="3"></span></span><span class="brand-mark__scan"></span><span class="brand-mark__pin"></span></span><div><strong>Платформа недвижимости</strong><p class="faint">Вход для риелторов</p></div></div><div class="auth-card__tabs" role="tablist"><button type="button" role="tab" aria-selected="true" class="is-active">Вход</button><button type="button" role="tab" aria-selected="false" class="">Регистрация</button></div><label class="field"><span class="field__label">Email</span><input class="input" type="email" autocomplete="username" required="" value=""></label><label class="field"><span class="field__label">Пароль</span><input class="input" type="password" autocomplete="current-password" required="" minlength="8" value=""></label><button class="btn btn--primary" type="submit">Войти</button></form></div></div>
+  
+
+</body></html>

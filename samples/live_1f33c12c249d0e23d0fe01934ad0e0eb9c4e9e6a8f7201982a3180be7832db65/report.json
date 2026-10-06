@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_1f33c12c249d0e23d0fe01934ad0e0eb9c4e9e6a8f7201982a3180be7832db65",
+  "candidate_sha256": "f728398b21ef7849d06a9aabf9adf00006e608f780f7601fb138c29169cfa3f0",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://qh88.app",
+  "requested_url": "https://qh88.app",
+  "browser_final_url": "https://qh88.app/",
+  "source_urls": [
+    "https://qh88.app"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2972,
+      "source_url": "https://qh88.app",
+      "source_hostname": "qh88.app",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://qh88.app",
+      "final_hostname": "qh88.app",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1012,
+      "checked_at": "2026-10-05T12:40:46.393265+00:00",
+      "error": null,
+      "normalized_source_url": "https://qh88.app/",
+      "normalized_final_url": "https://qh88.app/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_1f33c12c249d0e23d0fe01934ad0e0eb9c4e9e6a8f7201982a3180be7832db65",
+    "representative_source_index": 2972,
+    "representative_source_url": "https://qh88.app",
+    "representative_final_url": "https://qh88.app",
+    "normalized_final_url": "https://qh88.app/",
+    "source_hostname": "qh88.app",
+    "final_hostname": "qh88.app",
+    "source_urls": [
+      "https://qh88.app"
+    ],
+    "provenance": [
+      {
+        "source_index": 2972,
+        "source_url": "https://qh88.app",
+        "source_hostname": "qh88.app",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://qh88.app",
+        "final_hostname": "qh88.app",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1012,
+        "checked_at": "2026-10-05T12:40:46.393265+00:00",
+        "error": null,
+        "normalized_source_url": "https://qh88.app/",
+        "normalized_final_url": "https://qh88.app/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "qh88 – Trải Nghiệm Game Hot Mobile Nhận Ngay Vòng Quay Miễn Phí",
+  "capture_timestamp": "2026-10-05T14:36:47.310323+00:00",
+  "dom_chars": 72672,
+  "screenshot_bytes": 763582,
+  "dom_sha256": "80eff31f256ced3fb1fb297ce562afccc8535e359c901fc51c2aeb2b34c34934",
+  "screenshot_sha256": "fc1aed90c50a0438e1b15cf5e82634cbaf8b2e9408452f838716770900303c13",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://qh88.app/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://qh88.app",
+    "browser_final_url": "https://qh88.app/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5810
+}

@@ -1,0 +1,21 @@
+{
+  "original_url": "marketing-oder.com",
+  "hostname": "marketing-oder.com",
+  "checked_at": "2026-10-04T10:34:28.298306+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01957fbc-e40b-7000-b518-9eb09e773897",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-10T11:07:33.901Z",
+  "scan_original_url": "http://marketing-oder.com/",
+  "final_url": "https://marketing-oder.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 88,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.396
+}

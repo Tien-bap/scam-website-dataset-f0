@@ -1,0 +1,94 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page Not Found | Newmoyer Mercedes Specialist</title>
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="/css/style.807d1e8f.css">
+<link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin=""><!-- Google Analytics 4 --><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MZBQ8VP2LC"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-MZBQ8VP2LC');</script><link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.png"><link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16.png"><link rel="apple-touch-icon" sizes="180x180" href="/images/favicon-180.png">
+</head><body>
+  <div id="site-header"><header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="/" aria-label="Newmoyer Mercedes Specialist, home">
+      <span class="brand-mark" aria-hidden="true">NMS</span>
+      <span class="brand-text">
+        <span class="brand-name">Newmoyer Mercedes Specialist</span>
+        <span class="brand-tag">Wilmington, NC</span>
+      </span>
+    </a>
+    <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="primary-nav" id="primary-nav">
+      <a href="/about">About</a>
+      <a href="/services">Services</a>
+      <div class="nav-group">
+        <a href="/vehicle-gallery">Gallery</a>
+        <button class="submenu-toggle" aria-label="Expand Gallery menu" aria-expanded="false"></button>
+        <div class="submenu">
+          <a href="/vehicle-gallery">Vehicle Gallery</a>
+          <a href="/photo-gallery">Photo Gallery</a>
+        </div>
+      </div>
+      <a href="/credentials">Credentials</a>
+      <a href="/reviews">Reviews</a>
+      <a class="nav-cta" href="/contact">Contact</a>
+    </nav>
+  </div>
+</header></div>
+  <main id="content">
+
+  <section class="hero">
+    <div class="container">
+      <span class="eyebrow">404</span>
+      <h1>We couldn't find that page.</h1>
+      <p class="hero-lead">The page you're looking for may have moved or no longer exists.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="/">Back to Home</a>
+        <a class="btn btn-outline" href="/contact">Contact Us</a>
+      </div>
+    </div>
+  </section>
+
+  </main>
+  <div id="site-footer"><footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-col footer-brand">
+      <p>Newmoyer Mercedes Specialist, LLC<br>Independent Mercedes-Benz service in Wilmington, North Carolina</p>
+      <a class="footer-social" href="https://www.facebook.com/pages/Newmoyer-Mercedes-Specialist/129794997032511" target="_blank" rel="noopener">Find us on Facebook</a>
+    </div>
+    <div class="footer-col">
+      <h3>Explore</h3>
+      <a href="/about">About</a>
+      <a href="/services">Services Offered</a>
+      <a href="/credentials">Credentials</a>
+      <a href="/reviews">Reviews</a>
+    </div>
+    <div class="footer-col">
+      <h3>Gallery</h3>
+      <a href="/vehicle-gallery">Vehicle Gallery</a>
+      <a href="/photo-gallery">Photo Gallery</a>
+      <a href="/contact">Book an Appointment</a>
+    </div>
+    <div class="footer-col">
+      <h3>Visit / Contact</h3>
+      <address>
+        6602A Gordon Road<br>
+        Wilmington, NC 28411
+      </address>
+      <a href="tel:+19107130189">(910) 713-0189</a>
+      <a href="/contact">Contact Us</a>
+      <p style="font-size:0.85rem;color:var(--color-silver);margin-top:8px;">By appointment only</p>
+    </div>
+  </div>
+  <div class="container">
+    <p class="footer-disclaimer">Newmoyer Mercedes Specialist, LLC is an independent service provider and is not affiliated with, sponsored by, or endorsed by Mercedes-Benz USA, LLC or Daimler AG. Mercedes-Benz® and all related marks are trademarks of their respective owners, used here for descriptive purposes only.</p>
+  </div>
+  <div class="container footer-bottom">
+    <p>© <span id="year">2026</span> Newmoyer Mercedes Specialist, LLC. All rights reserved.</p>
+    <p>Wilmington, NC · By appointment only</p>
+  </div>
+</footer></div>
+  <script src="/js/main.b7d87c24.js" defer=""></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a2ac19cee94f2eec',t:'MTc4NjY3MDA0Ng=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; visibility: hidden;"></iframe>
+
+</body>

@@ -1,0 +1,29 @@
+{
+  "original_url": "http://tinyurl.com/p8vrke7x",
+  "hostname": "tinyurl.com",
+  "checked_at": "2026-10-04T14:22:06.409768+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1000,
+  "candidates_checked": 5,
+  "selected_scan_uuid": "01a1037e-8ba5-74c8-b465-de0a7e40fef2",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-03T20:39:53.530Z",
+  "scan_original_url": "https://tinyurl.com/bddrh3rz](https://tinyurl.com/bddrh3rz",
+  "final_url": "https://tinyurl.com/bddrh3rz](https://tinyurl.com/bddrh3rz",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1378,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.795,
+  "discovery": {
+    "batch_id": "7342d21a93a1db4077db704379a0e3bcde5add2034a920d5eea5f0bed3c15bdf",
+    "possible_truncation": true,
+    "warnings": [
+      "single_domain_possible_truncation"
+    ],
+    "discovery_source": "batch_search"
+  }
+}

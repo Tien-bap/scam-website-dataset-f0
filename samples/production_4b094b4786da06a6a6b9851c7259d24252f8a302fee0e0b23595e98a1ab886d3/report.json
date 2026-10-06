@@ -1,0 +1,27 @@
+{
+  "original_url": "social-trading.exness.help",
+  "hostname": "social-trading.exness.help",
+  "checked_at": "2026-10-04T13:34:31.043109+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f5ad6-7260-71aa-811e-0fd6aa8c6114",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-13T09:37:21.260Z",
+  "scan_original_url": "https://social-trading.exness.help/hc/vi/search?filter_by=knowledge_base&query=%C4%91i%E1%BB%83m+r%E1%BB%A7i+ro",
+  "final_url": "https://social-trading.exness.help/hc/vi/search?filter_by=knowledge_base&query=%C4%91i%E1%BB%83m+r%E1%BB%A7i+ro",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5451,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.031,
+  "discovery": {
+    "batch_id": "368c395c57e2a904e95a15c2d80e35ae211785f9c12d934a24867b1da49223ba",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

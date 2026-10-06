@@ -1,0 +1,21 @@
+{
+  "original_url": "amazonl5.vip",
+  "hostname": "amazonl5.vip",
+  "checked_at": "2026-10-04T10:34:22.151971+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "f4997ee6-64dc-48a3-a0d6-8bdf00d5ccc5",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2024-12-22T20:42:03.727Z",
+  "scan_original_url": "https://amazonl5.vip/",
+  "final_url": "https://amazonl5.vip/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 182,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 12.5
+}

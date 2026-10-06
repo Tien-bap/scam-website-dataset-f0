@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_181b9432009cee6f2c6ee5a61e36be25bef42f245c0baef392c4a23644c6ff83",
+  "candidate_sha256": "b28e2a322707a9b929cd596f5e2df04e3776abbbf5810d15168e66fc64ff0d2f",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://new88.net",
+  "requested_url": "https://mwplay888.io/",
+  "browser_final_url": "https://mwplay888.io/",
+  "source_urls": [
+    "https://new88.net"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2330,
+      "source_url": "https://new88.net",
+      "source_hostname": "new88.net",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://mwplay888.io/",
+      "final_hostname": "mwplay888.io",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 47804,
+      "elapsed_ms": 2036,
+      "checked_at": "2026-10-05T12:19:44.133734+00:00",
+      "error": null,
+      "normalized_source_url": "https://new88.net/",
+      "normalized_final_url": "https://mwplay888.io/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_181b9432009cee6f2c6ee5a61e36be25bef42f245c0baef392c4a23644c6ff83",
+    "representative_source_index": 2330,
+    "representative_source_url": "https://new88.net",
+    "representative_final_url": "https://mwplay888.io/",
+    "normalized_final_url": "https://mwplay888.io/",
+    "source_hostname": "new88.net",
+    "final_hostname": "mwplay888.io",
+    "source_urls": [
+      "https://new88.net"
+    ],
+    "provenance": [
+      {
+        "source_index": 2330,
+        "source_url": "https://new88.net",
+        "source_hostname": "new88.net",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://mwplay888.io/",
+        "final_hostname": "mwplay888.io",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 47804,
+        "elapsed_ms": 2036,
+        "checked_at": "2026-10-05T12:19:44.133734+00:00",
+        "error": null,
+        "normalized_source_url": "https://new88.net/",
+        "normalized_final_url": "https://mwplay888.io/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "timeout",
+  "capture_status": "partial",
+  "technical_complete": true,
+  "title": "New88 – Link Vào New88.Com – Trang Chủ Đăng Ký & Đăng Nhập",
+  "capture_timestamp": "2026-10-05T14:36:06.483467+00:00",
+  "dom_chars": 46270,
+  "screenshot_bytes": 891998,
+  "dom_sha256": "aa7cf10a811067350a02c565e76c8f94e464331f0f873de03acd890a7d6fdebe",
+  "screenshot_sha256": "fe8277477a8e455de1afe9e7b4bc5d9930dc37a655b9694dd894de140614ddb7",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://mwplay888.io/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://mwplay888.io/",
+    "browser_final_url": "https://mwplay888.io/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": "Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://mwplay888.io/\", waiting until \"domcontentloaded\"\n",
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 16876
+}

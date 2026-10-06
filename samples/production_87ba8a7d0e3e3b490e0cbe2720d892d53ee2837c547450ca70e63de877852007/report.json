@@ -1,0 +1,27 @@
+{
+  "original_url": "http://security-mappl-information-account.piiquarry.com/nextstep.php",
+  "hostname": "security-mappl-information-account.piiquarry.com",
+  "checked_at": "2026-10-04T13:43:00.341014+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 319,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f95d5-1aac-750c-a347-58c72b72f083",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-24T20:33:26.614Z",
+  "scan_original_url": "http://security-mappl-information-account.piiquarry.com/",
+  "final_url": "https://security-mappl-information-account.piiquarry.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 252,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 1.91,
+  "discovery": {
+    "batch_id": "47276e0c5d7c0f33976150a28c7fd040456537479cd35feb1f46a90966642870",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

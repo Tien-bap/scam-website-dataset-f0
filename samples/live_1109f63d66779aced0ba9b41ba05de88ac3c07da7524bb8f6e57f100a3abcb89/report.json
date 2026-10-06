@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_1109f63d66779aced0ba9b41ba05de88ac3c07da7524bb8f6e57f100a3abcb89",
+  "candidate_sha256": "0f0fdd9c0a282150dfa35adb931432a6740e7f36816ff3f8021f48b47b5da905",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://www.23winvn.com",
+  "requested_url": "https://www.23winvn.com",
+  "browser_final_url": "https://www.23winvn.com/index",
+  "source_urls": [
+    "https://www.23winvn.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1163,
+      "source_url": "https://www.23winvn.com",
+      "source_hostname": "www.23winvn.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.23winvn.com",
+      "final_hostname": "www.23winvn.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 786,
+      "elapsed_ms": 376,
+      "checked_at": "2026-10-05T12:18:28.916884+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.23winvn.com/",
+      "normalized_final_url": "https://www.23winvn.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_1109f63d66779aced0ba9b41ba05de88ac3c07da7524bb8f6e57f100a3abcb89",
+    "representative_source_index": 1163,
+    "representative_source_url": "https://www.23winvn.com",
+    "representative_final_url": "https://www.23winvn.com",
+    "normalized_final_url": "https://www.23winvn.com/",
+    "source_hostname": "www.23winvn.com",
+    "final_hostname": "www.23winvn.com",
+    "source_urls": [
+      "https://www.23winvn.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 1163,
+        "source_url": "https://www.23winvn.com",
+        "source_hostname": "www.23winvn.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.23winvn.com",
+        "final_hostname": "www.23winvn.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 786,
+        "elapsed_ms": 376,
+        "checked_at": "2026-10-05T12:18:28.916884+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.23winvn.com/",
+        "normalized_final_url": "https://www.23winvn.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "WINVN",
+  "capture_timestamp": "2026-10-05T14:35:15.142833+00:00",
+  "dom_chars": 410531,
+  "screenshot_bytes": 58291,
+  "dom_sha256": "5099b96ebca3ee1b8eea732cedad5c1098da200117c5611ba13f3c3704bbe9e7",
+  "screenshot_sha256": "4d7ff6810fa4a1630bafa2a76d1f5fc7e3f5ac64cf5085b8d72aecaa8195c505",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.23winvn.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.23winvn.com",
+    "browser_final_url": "https://www.23winvn.com/index",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4647
+}

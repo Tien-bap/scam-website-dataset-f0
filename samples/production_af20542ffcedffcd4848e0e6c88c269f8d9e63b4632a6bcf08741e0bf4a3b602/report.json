@@ -1,0 +1,21 @@
+{
+  "original_url": "shopemall.org",
+  "hostname": "shopemall.org",
+  "checked_at": "2026-10-04T10:34:52.940338+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019faaf9-0487-70e1-bc34-49b5c5c91b18",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-28T23:04:41.517Z",
+  "scan_original_url": "http://shopemall.org/",
+  "final_url": "https://shopemall.org/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5994,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 9.149
+}

@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_810a0624fe83be425f9caa72328d14550c1a2e0e16afa0b679bec22a7fd0743e",
+  "candidate_sha256": "631ea3dc63c8c19ab3deb61ec4b09c8eb4268a1375b626fab5e1ec4fbbfb1ac3",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://pandamp.online/opjtedx01/jedgx-3779",
+  "requested_url": "https://pandamp.online",
+  "browser_final_url": "https://pandamp.online/",
+  "source_urls": [
+    "http://pandamp.online/opjtedx01/jedgx-3779"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 123352,
+      "source_url": "http://pandamp.online/opjtedx01/jedgx-3779",
+      "source_hostname": "pandamp.online",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://pandamp.online",
+      "final_hostname": "pandamp.online",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2313,
+      "checked_at": "2026-10-05T13:12:26.320125+00:00",
+      "error": null,
+      "normalized_source_url": "http://pandamp.online/opjtedx01/jedgx-3779",
+      "normalized_final_url": "https://pandamp.online/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_810a0624fe83be425f9caa72328d14550c1a2e0e16afa0b679bec22a7fd0743e",
+    "representative_source_index": 123352,
+    "representative_source_url": "http://pandamp.online/opjtedx01/jedgx-3779",
+    "representative_final_url": "https://pandamp.online",
+    "normalized_final_url": "https://pandamp.online/",
+    "source_hostname": "pandamp.online",
+    "final_hostname": "pandamp.online",
+    "source_urls": [
+      "http://pandamp.online/opjtedx01/jedgx-3779"
+    ],
+    "provenance": [
+      {
+        "source_index": 123352,
+        "source_url": "http://pandamp.online/opjtedx01/jedgx-3779",
+        "source_hostname": "pandamp.online",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://pandamp.online",
+        "final_hostname": "pandamp.online",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2313,
+        "checked_at": "2026-10-05T13:12:26.320125+00:00",
+        "error": null,
+        "normalized_source_url": "http://pandamp.online/opjtedx01/jedgx-3779",
+        "normalized_final_url": "https://pandamp.online/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "PANDA168 : Situs Permainan Online Paling Aman 2026",
+  "capture_timestamp": "2026-10-05T14:47:55.920724+00:00",
+  "dom_chars": 114194,
+  "screenshot_bytes": 875505,
+  "dom_sha256": "72a3cfefa534dfe779e8eb9e10cf4697cb330660f09064d705cc0f1f53917943",
+  "screenshot_sha256": "fe1b844303a31ab0300015e6ececcaced3946974252019722c2cf980ae929dfc",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://pandamp.online/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://pandamp.online",
+    "browser_final_url": "https://pandamp.online/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4198
+}

@@ -1,0 +1,21 @@
+{
+  "original_url": "tikihethongmuasam12h.com",
+  "hostname": "tikihethongmuasam12h.com",
+  "checked_at": "2026-10-04T10:34:34.236736+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019581cf-d9e1-7000-a770-731fdfcac710",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-10T20:47:27.306Z",
+  "scan_original_url": "http://tikihethongmuasam12h.com/",
+  "final_url": "https://tikihethongmuasam12h.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 40,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.502
+}

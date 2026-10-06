@@ -1,0 +1,177 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>MU88 AE Casino Chính Thức</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link rel="icon" href="icon_mu88.png" sizes="32x32">
+    <style>a:hover,a:visited{color:#337FFD;}
+    body{
+        background-image: url('kpc.png');
+        width: 100%;
+        height: 100vh;
+        background-size: cover;
+        background-position: center; 
+        background-repeat: no-repeat; 
+        margin: 0;
+        position: relative;
+    }
+    .checksize{
+        font-size: 30pt
+    }.main-image{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        z-index: 1; 
+        max-width: 90%;
+        max-height: 90%;
+		width:180px;
+    }img {
+        width: 100%;
+        height: auto;
+    }
+    .video-background {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        z-index: -1;
+    }
+    .video-backgroundmb {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        z-index: -1;
+        display: none;
+    }
+    .imgleft, .imgright{
+        position: absolute;
+        width: auto;
+        height: auto;
+        /*box-shadow: 0 60px 12px -18px hsla(0, 0%, 0%, .1), 0 60px 20px -12px hsla(0, 0%, 0%, .1);*/
+        animation: float 1s infinite ease-in-out alternate;
+    }
+    .imgleft{
+        left: 30%;
+        top: 33%;
+    }
+    .imgright{
+        right: 30%;
+        top: 33%;
+        animation-delay: .3s;
+    }
+    @media only screen and (max-width: 768px){
+        body{
+            background-image: url('kmobile.png');
+        }
+        .checksize{
+            font-size: 15pt
+        }
+        .main-image{display:block!important}
+        .video-background{display:none}
+        .video-backgroundmb{display:block}
+    }
+    @media only screen and (max-width: 1670px){
+        .imgleft, .imgright {
+            width: 17%;
+        }
+        .imgleft{
+            left: 25%
+        }
+        .imgright{
+            right: 25%;
+        }
+    }
+    @media only screen and (max-width: 1000px){
+        .imgleft, .imgright {
+            width: 20%;
+        }
+        .imgleft{
+            left: 20%;
+        }
+        .imgright{
+            right: 20%;
+        }
+    }
+     @media only screen and (max-width: 768px){
+        .imgleft, .imgright {
+            width: 27%;
+        }
+        .imgleft{
+            left: 7%;
+        }
+        .imgright{
+            right: 7%;
+        }
+    }
+    @media only screen and (max-width: 575px){
+        .imgleft, .imgright {
+            width: 35%;
+        }
+        .imgleft{
+            left: 2%;
+            top: 37%;
+        }
+        .imgright{
+            right: 2%;
+            top: 37%;
+        }
+    }
+    @keyframes float {
+        100% {
+            transform: translateY(20px);
+            /*box-shadow: 0 40px 10px -18px hsla(0,0%,0%,.2),0 40px 16px -12px hsla(0,0%,0%,.2)*/
+        }
+    }
+    .main-image{display:none}    .
+    </style>
+</head>
+<body>
+    <video class="video-background" autoplay="" loop="" muted="">
+        <source src="BG.mp4" type="video/mp4">
+    </video>
+    <video class="video-backgroundmb" autoplay="" loop="" muted="" playsinline="">
+        <source src="MB.mp4" type="video/mp4">
+    </video>
+<font class="checksize">
+    <script type="text/javascript">
+        function checkurl(){
+            var strU = "https";
+            strU += "://";
+            strU += "";
+            var strU2 =  "mu88worldcup2026.com";
+            strU2 = strU2.replace(/a@b/g,'.');
+            strU += strU2;
+            window.location.href=strU;
+        }
+    </script>
+    <img class="imgleft" src="1111.png?v=5" width="100%" onclick="checkurl();return false;">
+    <img class="imgright" src="2222.png?v=5" width="100%" onclick="checkurl();return false;">
+    <!--<center>-->
+    <!--    <br>-->
+    <!--    <br>-->
+    <!--    <br>  -->
+    <!--    <br>-->
+    <!--    <br>-->
+    <!--    <br>-->
+    <!--    <br>  -->
+    <!--    <br>-->
+    <!--    <br>  -->
+    <!--    <br>-->
+    <!--            <br>  -->
+    <!--    <a id="BAIDU" href="https://www.google.com.vn/?Open=normal&GooglePartner=&GoogleVIP=MU88" title="" onclick="checkurl();return false;" style="background: #626fff;padding: 10px 20px;color: #fff;border-radius:10px;cursor: pointer;text-decoration:none;">【MU88】uy tín hàng đầu!</a>-->
+        
+    <!--    <br>-->
+    <!--    <br>    -->
+    <!--    <br>-->
+    <!--    <a id="BAIDU" href="https://www.google.com.vn/?Open=normal&GooglePartner=&GoogleVIP=MU88" title="" onclick="checkurl();return false;" style="background: #626fff;padding: 10px 20px;color: #fff;border-radius:10px;cursor: pointer;text-decoration:none;">Nhấp vào đăng nhập</a>-->
+
+    <!--</center>-->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;3c71494f1ab34c2dbd04d9063bfbf254&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+</font></body></html>

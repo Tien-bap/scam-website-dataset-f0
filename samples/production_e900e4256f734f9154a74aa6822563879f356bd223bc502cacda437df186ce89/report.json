@@ -1,0 +1,21 @@
+{
+  "original_url": "samsungbuds2pro.site",
+  "hostname": "samsungbuds2pro.site",
+  "checked_at": "2026-10-04T10:34:24.457765+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 5,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019580f8-8732-7000-ae11-cf9472be2e82",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-10T16:52:15.242Z",
+  "scan_original_url": "http://samsungbuds2pro.site/",
+  "final_url": "https://www.samsungbuds2pro.site/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4503,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 5.067
+}

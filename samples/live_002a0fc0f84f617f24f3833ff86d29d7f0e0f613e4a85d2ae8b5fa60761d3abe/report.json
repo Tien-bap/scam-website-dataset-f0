@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_002a0fc0f84f617f24f3833ff86d29d7f0e0f613e4a85d2ae8b5fa60761d3abe",
+  "candidate_sha256": "c668cf476340ad2f939dc547fd6d6aa4c76602f0febb67559a8a193c76767487",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://may88.studio",
+  "requested_url": "https://cncc.co.com/",
+  "browser_final_url": "https://cncc.co.com/",
+  "source_urls": [
+    "https://may88.studio"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1376,
+      "source_url": "https://may88.studio",
+      "source_hostname": "may88.studio",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://cncc.co.com/",
+      "final_hostname": "cncc.co.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1237,
+      "checked_at": "2026-10-05T12:18:45.428589+00:00",
+      "error": null,
+      "normalized_source_url": "https://may88.studio/",
+      "normalized_final_url": "https://cncc.co.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_002a0fc0f84f617f24f3833ff86d29d7f0e0f613e4a85d2ae8b5fa60761d3abe",
+    "representative_source_index": 1376,
+    "representative_source_url": "https://may88.studio",
+    "representative_final_url": "https://cncc.co.com/",
+    "normalized_final_url": "https://cncc.co.com/",
+    "source_hostname": "may88.studio",
+    "final_hostname": "cncc.co.com",
+    "source_urls": [
+      "https://may88.studio"
+    ],
+    "provenance": [
+      {
+        "source_index": 1376,
+        "source_url": "https://may88.studio",
+        "source_hostname": "may88.studio",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://cncc.co.com/",
+        "final_hostname": "cncc.co.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1237,
+        "checked_at": "2026-10-05T12:18:45.428589+00:00",
+        "error": null,
+        "normalized_source_url": "https://may88.studio/",
+        "normalized_final_url": "https://cncc.co.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "MAY88 - Link vào May88.com Cập Nhật Mới Nhất 2026",
+  "capture_timestamp": "2026-10-05T14:33:25.966353+00:00",
+  "dom_chars": 100449,
+  "screenshot_bytes": 662259,
+  "dom_sha256": "d4acab0bee4ff44a76fda8f04bbb5417bce21ea60774d9041763d22d583c3886",
+  "screenshot_sha256": "2d1dcfb781cb6de6e3aea5a3b876efc64b3c2591236b17e359a9db96afb61a59",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://cncc.co.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://cncc.co.com/",
+    "browser_final_url": "https://cncc.co.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 9079
+}

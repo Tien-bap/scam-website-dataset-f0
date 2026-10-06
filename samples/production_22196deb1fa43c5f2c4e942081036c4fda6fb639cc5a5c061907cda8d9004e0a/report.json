@@ -1,0 +1,27 @@
+{
+  "original_url": "https://karssh.com/checkings/Priv8/Priv8",
+  "hostname": "karssh.com",
+  "checked_at": "2026-10-04T14:53:06.813739+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019ff5b1-6040-7069-8e57-c1d5b7e9f1c6",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-12T11:18:00.945Z",
+  "scan_original_url": "http://karssh.com/",
+  "final_url": "https://karssh.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 389,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.593,
+  "discovery": {
+    "batch_id": "ded965ee921c81b2bd415ddae7ef9651412c2a6a08ff81abc2ccbeca26ac2622",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

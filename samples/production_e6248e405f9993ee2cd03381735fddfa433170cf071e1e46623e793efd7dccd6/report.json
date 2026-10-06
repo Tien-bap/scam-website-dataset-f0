@@ -1,0 +1,27 @@
+{
+  "original_url": "https://gg.bet",
+  "hostname": "gg.bet",
+  "checked_at": "2026-10-04T13:34:32.841174+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0981f-11d5-7745-bb79-df7f7fee7aef",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-09-13T00:16:19.067Z",
+  "scan_original_url": "http://gg.bet/",
+  "final_url": "https://gg.bet/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 10783,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.423,
+  "discovery": {
+    "batch_id": "368c395c57e2a904e95a15c2d80e35ae211785f9c12d934a24867b1da49223ba",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

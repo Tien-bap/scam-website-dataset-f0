@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.code-geel.nl/wp-content/themes/excel-rd42/",
+  "hostname": "www.code-geel.nl",
+  "checked_at": "2026-10-04T16:10:05.483540+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 5,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0fbcf-c22b-76ab-b4a0-7564db378142",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-02T08:51:38.691Z",
+  "scan_original_url": "http://m.code-geel.nl/",
+  "final_url": "https://www.code-geel.nl/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3764,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.087,
+  "discovery": {
+    "batch_id": "cfa6f29f27dca372cedaedd97243de70c8ea3035cd71d96d8b1ae706834c744b",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

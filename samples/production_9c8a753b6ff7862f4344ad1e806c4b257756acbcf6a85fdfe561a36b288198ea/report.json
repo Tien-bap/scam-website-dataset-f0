@@ -1,0 +1,27 @@
+{
+  "original_url": "https://seecovalves.com/meetinvitee.php",
+  "hostname": "seecovalves.com",
+  "checked_at": "2026-10-04T16:10:12.281734+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a02d40-293e-70bd-b259-2b2b3db6ebe4",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-23T06:13:20.521Z",
+  "scan_original_url": "http://seecovalves.com/",
+  "final_url": "https://seecovalves.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4027,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 51.151,
+  "discovery": {
+    "batch_id": "9c5afedce298fa733818393613a653bafcf032f0b0524f84603c5dc0e3b18236",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

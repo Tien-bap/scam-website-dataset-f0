@@ -1,0 +1,27 @@
+{
+  "original_url": "https://delivery.taikaizakaya.com.br/wp-admin/http/httd/?email=",
+  "hostname": "delivery.taikaizakaya.com.br",
+  "checked_at": "2026-10-04T14:06:15.458361+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fa6c1-4c9f-73da-a94c-24b05248449e",
+  "match_kind": "same_hostname_similar_path",
+  "capture_timestamp": "2026-07-28T03:25:31.557Z",
+  "scan_original_url": "http://delivery.taikaizakaya.com.br/wp-content/http/httd/result",
+  "final_url": "http://delivery.taikaizakaya.com.br/wp-content/http/httd/result",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 662,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 1.992,
+  "discovery": {
+    "batch_id": "bb5c7fb0221f6166aed711c68bf890d4a5453cd7a0b8fe47c3c07564da36c78b",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

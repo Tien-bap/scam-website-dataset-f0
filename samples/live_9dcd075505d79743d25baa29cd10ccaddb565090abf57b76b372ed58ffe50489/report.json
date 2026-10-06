@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_9dcd075505d79743d25baa29cd10ccaddb565090abf57b76b372ed58ffe50489",
+  "candidate_sha256": "f8a336f5004c67d9bf73a1a89c5ef27d047bd95cd8b8d4c1bc9357518c2440ef",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://sin886.com",
+  "requested_url": "https://buytadacip.us.com/",
+  "browser_final_url": "https://buytadacip.us.com/",
+  "source_urls": [
+    "https://sin886.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2719,
+      "source_url": "https://sin886.com",
+      "source_hostname": "sin886.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://buytadacip.us.com/",
+      "final_hostname": "buytadacip.us.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2204,
+      "checked_at": "2026-10-05T12:20:05.472578+00:00",
+      "error": null,
+      "normalized_source_url": "https://sin886.com/",
+      "normalized_final_url": "https://buytadacip.us.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_9dcd075505d79743d25baa29cd10ccaddb565090abf57b76b372ed58ffe50489",
+    "representative_source_index": 2719,
+    "representative_source_url": "https://sin886.com",
+    "representative_final_url": "https://buytadacip.us.com/",
+    "normalized_final_url": "https://buytadacip.us.com/",
+    "source_hostname": "sin886.com",
+    "final_hostname": "buytadacip.us.com",
+    "source_urls": [
+      "https://sin886.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 2719,
+        "source_url": "https://sin886.com",
+        "source_hostname": "sin886.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://buytadacip.us.com/",
+        "final_hostname": "buytadacip.us.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2204,
+        "checked_at": "2026-10-05T12:20:05.472578+00:00",
+        "error": null,
+        "normalized_source_url": "https://sin886.com/",
+        "normalized_final_url": "https://buytadacip.us.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "SIN88 – Link Sin88 Mới Nhất – Trang Cá Cược Bóng Đá Trực Tuyến – SIN88",
+  "capture_timestamp": "2026-10-05T14:50:40.846461+00:00",
+  "dom_chars": 113378,
+  "screenshot_bytes": 450005,
+  "dom_sha256": "24651c6d6dc9ce3054b71029dc1996b6b29f28052cc8672da4672770c2eaec18",
+  "screenshot_sha256": "a1e04bac2fad23892121e6afd474649d455842b6585f0a38eaaf809ddbc5d204",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://buytadacip.us.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://buytadacip.us.com/",
+    "browser_final_url": "https://buytadacip.us.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 6876
+}

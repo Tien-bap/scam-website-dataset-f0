@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_db225725334a3de82720a1416fc2918ca345416a6737a3dfe3a24d2014a60c07",
+  "candidate_sha256": "e2da19d41fcc34adf721886c70cfe4cc019e7b4a0c6e840746c56806063657ef",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://fachebook.chez.com/",
+  "requested_url": "http://fachebook.chez.com/",
+  "browser_final_url": "http://fachebook.chez.com/",
+  "source_urls": [
+    "http://fachebook.chez.com/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 110562,
+      "source_url": "http://fachebook.chez.com/",
+      "source_hostname": "fachebook.chez.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://fachebook.chez.com/",
+      "final_hostname": "fachebook.chez.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 1423,
+      "elapsed_ms": 1969,
+      "checked_at": "2026-10-05T13:13:49.201225+00:00",
+      "error": null,
+      "normalized_source_url": "http://fachebook.chez.com/",
+      "normalized_final_url": "http://fachebook.chez.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_db225725334a3de82720a1416fc2918ca345416a6737a3dfe3a24d2014a60c07",
+    "representative_source_index": 110562,
+    "representative_source_url": "http://fachebook.chez.com/",
+    "representative_final_url": "http://fachebook.chez.com/",
+    "normalized_final_url": "http://fachebook.chez.com/",
+    "source_hostname": "fachebook.chez.com",
+    "final_hostname": "fachebook.chez.com",
+    "source_urls": [
+      "http://fachebook.chez.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 110562,
+        "source_url": "http://fachebook.chez.com/",
+        "source_hostname": "fachebook.chez.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://fachebook.chez.com/",
+        "final_hostname": "fachebook.chez.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 1423,
+        "elapsed_ms": 1969,
+        "checked_at": "2026-10-05T13:13:49.201225+00:00",
+        "error": null,
+        "normalized_source_url": "http://fachebook.chez.com/",
+        "normalized_final_url": "http://fachebook.chez.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Pages Persos Chez.com",
+  "capture_timestamp": "2026-10-05T14:57:52.723752+00:00",
+  "dom_chars": 1354,
+  "screenshot_bytes": 35138,
+  "dom_sha256": "b7815dbdc3bf010fd647ab1a7eb3148af52552e4ea8a736ed1b2007199a42126",
+  "screenshot_sha256": "ccfbf812fef9e0dcf6bab98411b3d732a39b246f64cbfc483b26529aec536500",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://fachebook.chez.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://fachebook.chez.com/",
+    "browser_final_url": "http://fachebook.chez.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3116
+}

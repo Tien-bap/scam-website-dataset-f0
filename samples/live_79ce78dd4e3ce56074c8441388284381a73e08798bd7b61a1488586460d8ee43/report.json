@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_79ce78dd4e3ce56074c8441388284381a73e08798bd7b61a1488586460d8ee43",
+  "candidate_sha256": "93719348fac0856bd47bc102312cb0407114e08d92e5cd2bc010452da0d4e0a1",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://kkrio.com",
+  "requested_url": "https://kkrio.com",
+  "browser_final_url": "https://kkrio.com/",
+  "source_urls": [
+    "https://kkrio.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2598,
+      "source_url": "https://kkrio.com",
+      "source_hostname": "kkrio.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://kkrio.com",
+      "final_hostname": "kkrio.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 46273,
+      "elapsed_ms": 946,
+      "checked_at": "2026-10-05T12:19:54.264492+00:00",
+      "error": null,
+      "normalized_source_url": "https://kkrio.com/",
+      "normalized_final_url": "https://kkrio.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_79ce78dd4e3ce56074c8441388284381a73e08798bd7b61a1488586460d8ee43",
+    "representative_source_index": 2598,
+    "representative_source_url": "https://kkrio.com",
+    "representative_final_url": "https://kkrio.com",
+    "normalized_final_url": "https://kkrio.com/",
+    "source_hostname": "kkrio.com",
+    "final_hostname": "kkrio.com",
+    "source_urls": [
+      "https://kkrio.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 2598,
+        "source_url": "https://kkrio.com",
+        "source_hostname": "kkrio.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://kkrio.com",
+        "final_hostname": "kkrio.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 46273,
+        "elapsed_ms": 946,
+        "checked_at": "2026-10-05T12:19:54.264492+00:00",
+        "error": null,
+        "normalized_source_url": "https://kkrio.com/",
+        "normalized_final_url": "https://kkrio.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "kkkrio.com-Melhores Slots Online do Brasil",
+  "capture_timestamp": "2026-10-05T14:47:10.296873+00:00",
+  "dom_chars": 48611,
+  "screenshot_bytes": 839668,
+  "dom_sha256": "30d82594bfb069c349c576423dc7814dbee91ba466867d75e86d38becacc8298",
+  "screenshot_sha256": "922e1ac1327edb5b637ee4f4ddc1bdfa6dd0dc995b84bc4a164704538671a24f",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://kkrio.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://kkrio.com",
+    "browser_final_url": "https://kkrio.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 7434
+}

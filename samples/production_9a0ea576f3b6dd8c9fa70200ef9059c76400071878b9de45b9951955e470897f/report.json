@@ -1,0 +1,27 @@
+{
+  "original_url": "https://utkalakhabar.in/wp-admin/remittanceadvice/new/",
+  "hostname": "utkalakhabar.in",
+  "checked_at": "2026-10-04T16:06:03.922281+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f8948-70df-76b3-bd24-b503001cc23f",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-22T10:04:33.642Z",
+  "scan_original_url": "http://utkalakhabar.in/",
+  "final_url": "https://utkalakhabar.in/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 16160,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.57,
+  "discovery": {
+    "batch_id": "a44d9ce733cb23b58af88f742ecada87f5a7bb4679d0d0920dd4fc434914f776",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

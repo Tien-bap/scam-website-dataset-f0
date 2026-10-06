@@ -1,0 +1,113 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHÀO MỪNG QUÝ KHÁCH ĐẾN VỚI I9BET</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="/i9/css/style.pc.tpl.css">
+    <link rel="stylesheet" href="/i9/css/preset.pc.tpl.css">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <script>
+        function isMobile() {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+            return /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(userAgent);
+        }
+
+        if (isMobile()) {
+            window.location.href = 'wap.html'; // 跳转到移动端页面
+        }
+    </script>
+</head>
+
+<body class="bodyIndex">
+    <div class="main clearfix">
+        <div class="contwall-cont cont-1 pos-r">
+            <div class="itemw">
+                <!-- <div class="refresh txtUppercase menuBtn-gradient-18">Làm mới</div> -->
+                <div class="item dispflex" id="links"></div>
+                <div class="overlay-div"></div>
+            </div>
+            <div class="bottom-div">
+                <!-- <img src="images/index_06.webp"> -->
+                <img src="/i9/images/DECOR.webp">
+            </div>
+        </div>
+        <ul class="cont-2 pc contwall-cont dispflex">
+            <li class="item go-hall">
+                <a id="charity" class="dispflex-l" target="_blank">
+                    <div class="bimg">
+                        <img src="/i9/images/icon4.png">
+                        <img src="/i9/images/icon4a.png" style="display: none">
+                    </div>
+                    <div class="right">
+                        <div class="tits txtUppercase">Từ thiện</div>
+                        <div class="tcc">Charity fund</div>
+                    </div>
+                </a>
+            </li>
+            <li class="item go-hall">
+                <a id="app" class="dispflex-l" target="_blank">
+                    <div class="bimg">
+                        <img src="/i9/images/icon3.png" style="width: 30px">
+                        <img src="/i9/images/icon3a.png" style="width: 30px; display: none">
+                    </div>
+                    <div class="right">
+                        <div class="tits txtUppercase">Tải APP</div>
+                        <div class="tcc">Download native APP</div>
+                    </div>
+                </a>
+            </li>
+            <li class="item go-hall">
+                <a id="social" class="dispflex-l" target="_blank">
+                    <div class="bimg">
+                        <img src="/i9/images/icon2.png" style="width: 40px">
+                        <img src="/i9/images/icon2a.png" style="width: 40px; display: none">
+                    </div>
+                    <div class="right">
+                        <div class="tits txtUppercase">Cộng đồng</div>
+                        <div class="tcc">Social</div>
+                    </div>
+                </a>
+            </li>
+            <li class="item kf online">
+                <a id="service" class="dispflex-l" target="_blank">
+                    <div class="bimg">
+                        <img src="/i9/images/icon5.png">
+                        <img src="/i9/images/icon5a.png" style="display: none">
+                    </div>
+                    <div class="right">
+                        <div class="tits txtUppercase">
+                            24<span style="text-transform: lowercase">x</span>7 HỖ trợ KH
+                        </div>
+                        <div class="tcc">24x7 online service</div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="footerwrapp">
+        <div class="footer-2 txtauto">
+            Copyright © i9bet.com reserved
+        </div>
+    </div>
+
+    <script src="/i9/js/jquery-3.6.0.min.js"></script>
+    <script src="/i9/js/speed.js?t=1757517176"></script>
+    <script>
+        getLink();
+    </script>
+    <div style="display:none">
+        <!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7C0SERSJTT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7C0SERSJTT');
+</script>
+    </div>
+
+
+
+</body></html>

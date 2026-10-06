@@ -1,0 +1,484 @@
+<head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-toUWaWp6L6nokvZl8QQUGm7dsWYyqVz4D3KmfSkWqx5lUaKsDkc76RU6HbKjCLLn"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>EmailMe Form - Wen 'n gesinskaartjie vir LIEWE HEKSIE!</title>
+    <link rel="shortcut icon" href="//assets.emailmeform.com/favicon.ico?bWFzdGVy">
+        <link rel="stylesheet" type="text/css" href="//assets.emailmeform.com/styles/dynamic.php?t=post&amp;enable_responsive_ui=1&amp;bWFzdGVy">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Lato&amp;display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" type="text/css" href="https://www.emailmeform.com/builder/theme_css/Ny0vMVR2Fp70b2n2Qs2">
+        <style>
+#emf-container, #emf-container-outer #emf-form-shadows{box-sizing: border-box;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;width:640px}
+@media screen and (max-width: 656px) {#emf-container,#emf-container-outer #emf-form-shadows {width: 100%;} }
+</style>
+
+      </head><body id="emf-container-wrap" class="form"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+    
+
+
+
+	
+	<div id="emf-container-outer">
+    <div id="emf-container">
+		<div id="emf-logo"><a>EmailMeForm</a></div>
+		<div class="emf-error-message" style="display:none"></div>
+		<form id="emf-form" target="_self" class="topLabel" enctype="multipart/form-data" method="post" action="https://www.emailmeform.com/builder/form/Ny0vMVR2Fp70b2n2Qs2"><div id="emf-form-instruction" class="emf-head-widget"><div id="emf-form-title" class="emf-bold">Wen 'n gesinskaartjie vir LIEWE HEKSIE!</div><div id="emf-form-description">Wen vier kaartjies na Verna Vels se geliefde Liewe Heksie by die Umuzi Kunstefees in Secunda op Saterdag, 26 September om 09:00!<br>
+<br>
+Om aan die kompetisie deel te neem, stem ek toe tot die Bepalings en Voortwaardes.</div>
+		    </div>
+<ul>
+<li id="emf-li-0" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_0">Naam <span>*</span></label>
+				<div class="emf-div-field"><input id="element_0" name="element_0" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-1" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_1">Van <span>*</span></label>
+				<div class="emf-div-field"><input id="element_1" name="element_1" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-2" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_2">Tel</label>
+				<div class="emf-div-field"><input id="element_2" name="element_2" value="" size="30" type="text" class="validate[optional]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-3" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_3">Sel <span>*</span></label>
+				<div class="emf-div-field"><input id="element_3" name="element_3" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-4" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_4">Epos <span>*</span></label>
+				<div class="emf-div-field"><input id="element_4" name="element_4" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-5" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_5">Stad/Dorp <span>*</span></label>
+				<div class="emf-div-field"><input id="element_5" name="element_5" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-6" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_6">ID <span>*</span></label>
+				<div class="emf-div-field"><input id="element_6" name="element_6" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-7" class="emf-li-field emf-field-section_break    ">
+				
+				<div class="emf-div-field-section"><div class="emf-section-separator"></div>
+<h3 id="element_7" name="element_7">Verskaf vir ons Epos adresse van 5 van u vriende of familie wat in teater sou belangstel.</h3></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-8" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_8">1 <span>*</span></label>
+				<div class="emf-div-field"><input id="element_8" name="element_8" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-9" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_9">2 <span>*</span></label>
+				<div class="emf-div-field"><input id="element_9" name="element_9" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-10" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_10">3 <span>*</span></label>
+				<div class="emf-div-field"><input id="element_10" name="element_10" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-11" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_11">4 <span>*</span></label>
+				<div class="emf-div-field"><input id="element_11" name="element_11" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-12" class="emf-li-field emf-field-text data_container   ">
+				<label class="emf-label-desc" for="element_12">5 <span>*</span></label>
+				<div class="emf-div-field"><input id="element_12" name="element_12" value="" size="30" type="text" class="validate[required]"></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-13" class="emf-li-field emf-field-select data_container   ">
+				<label class="emf-label-desc" for="element_13">Aantal Kaartjies: Kompetisie?</label>
+				<div class="emf-div-field"><select id="element_13" name="element_13" class="validate[optional]" my_choice_order_type=""><option value="" selected="selected" my_order_property="first">Kies Hier</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-14" class="emf-li-field emf-field-radio data_container   ">
+				<label class="emf-label-desc" for="element_14">Wil u ekstra kaartjies koop? <span>*</span></label>
+				<div class="emf-div-field"><div my_choice_order_type=""><div style="display:flex;justify-content:space-between;flex-wrap:wrap;" class="one_column"><div><input id="element_14_0" name="element_14" value="Ja" class="validate[required]" type="radio" onchange="toggle_emf_element(EMF_jQuery(this).parents('.emf-li-field').find('.emf-allow-other input'), false)"><label class="padleft-w5" for="element_14_0">Ja</label></div></div><div style="display:flex;justify-content:space-between;flex-wrap:wrap;" class="one_column"><div><input id="element_14_1" name="element_14" value="Nee" class="validate[required]" type="radio" onchange="toggle_emf_element(EMF_jQuery(this).parents('.emf-li-field').find('.emf-allow-other input'), false)"><label class="padleft-w5" for="element_14_1">Nee</label></div></div></div></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-15" class="emf-li-field emf-field-select data_container   ">
+				<label class="emf-label-desc" for="element_15">Aantal Ekstra Kaartjies ?</label>
+				<div class="emf-div-field"><select id="element_15" name="element_15" class="validate[optional]" my_choice_order_type=""><option value="" selected="selected" my_order_property="first">Kies Hier</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option></select></div>
+				<div class="emf-clear"></div>
+				</li><li id="emf-li-16" class="emf-li-field emf-field-new_checkbox data_container   ">
+				<label class="emf-label-desc" for="element_16">Hiermee onderneem ek om aan die bepalings en voorwaardes na te kom, en gee dus toestemming dat my en ander persoonlike inligting deur Lefra Produksies gebruik mag word vir die promosie van teaterproduksies. U het die opsie om u adres van ons databasis self te verwyder indien u nie meer promosiemateriaal wil ontvang nie. <span>*</span></label>
+				<div class="emf-div-field"><div my_choice_order_type=""><div class="one_column"><input id="element_16_0" name="element_16[]" value="Ek gee toestemming" class="validate[required]" type="checkbox"><label class="padleft-w5" for="element_16_0">Ek gee toestemming</label></div></div></div>
+				<div class="emf-clear"></div>
+				</li>
+    <script>
+var base_url='https://www.emailmeform.com/builder/';var site_url='https://www.emailmeform.com/builder';var assets_url='//assets.emailmeform.com/';function get_assets_url(uri){return assets_url+uri;};var internal_base_url='https://www.emailmeform.com/builder/';var external_base_url='https://www.emailmeform.com/builder/';var g_emf_resources={"js_currency_\u0e3f,Baht,Satang":"\u0e3f,Baht,Satang","js_currency_CHF,Francs,Rappen":"CHF,Francs,Rappen","js_currency_$,Dollars,Cents":"$,Dollars,Cents","js_currency_\u20ac,Euros,Cents":"\u20ac,Euros,Cents","js_currency_Ft,Forint,Filler":"Ft,Forint,Filler","js_currency_K\u010d,Koruna,Hal\u00e9\u0159\u016f":"K\u010d,Koruna,Hal\u00e9\u0159\u016f","js_currency_Kr,Krona,Ore":"Kr,Krona,Ore","js_currency_$,Pesos,Centavos":"$,Pesos,Centavos","js_currency_\u20b1,Pesos,Centavos":"\u20b1,Pesos,Centavos","js_currency_\u00a3,Pounds,Pence":"\u00a3,Pounds,Pence","js_currency_R,Rand,Cents":"R,Rand,Cents","js_currency_R$,Reais,Centavos":"R$,Reais,Centavos","js_currency_RM,Ringgit,Sen":"RM,Ringgit,Sen","js_currency_Rp,Rupiahs,Sen":"Rp,Rupiahs,Sen","js_currency_\u20aa,Shekel,Agora":"\u20aa,Shekel,Agora","js_currency_\u00a5,Yen":"\u00a5,Yen","js_currency_z\u0142,Z\u0142oty,Grosz":"z\u0142,Z\u0142oty,Grosz","js_validation_required":"This field is required","js_validation_required_select_multiple":"Please select an option","js_validation_required_checkbox":"This checkbox is required","js_validation_length_unit_character":"characters","js_validation_length_unit_word":"words","js_validation_length_range_min_max":"Must be between {min} and {max} {length_unit}, currently: {current}.","js_validation_length_range_min":"A minimum of {min} {length_unit} is allowed, currently: {current}.","js_validation_length_range_max":"A maximum of {max} {length_unit} is allowed, currently: {current}.","js_validation_number_range_min_max":"Must be between {min} and {max}.","js_validation_number_range_min":"A minimum of {min} is allowed.","js_validation_number_range_max":"A maximum of {max} is allowed.","js_validation_max_checkbox":"Please select up to {max} option(s)","js_validation_min_checkbox":"Please select at least {min} option(s)","js_validation_confirm":"Your field is not matching","js_validation_confirm2":"The password entered does not match. Please try again.","js_validation_confirm3":"The email does not match. Please try again.","js_validation_telephone":"Invalid phone number","js_validation_email":"Invalid email address","js_validation_url":"Invalid website address","js_validation_general_letter_number":"Only letters, numbers, underscores and dashes allowed","js_validation_date":"Invalid date, must be in YYYY-MM-DD format","js_validation_number_only":"Numbers only","js_validation_ext_number":"Numbers only","js_validation_number_with_sign":"Numbers and negative\/positive sign only","js_validation_number_percent_sign":"Numbers and percent sign only","js_validation_no_special_chars":"No special characters allowed","js_validation_no_special_chars_ex":"No special characters allowed","js_validation_letter_only":"Letters only","js_validation_captcha":"This captcha is wrong","js_validation_url_ex":"Invalid website address","js_validation_check_file_error":"File type invalid or file size is too large","js_validation_check_sum":"The values should add up to {target_sum}, currently: {current_sum}","js_validation_not_applicable":"N\/A","js_validation_ext_filename":"Invalid file type, \"{allowed_types}\" allowed.","js_validation_max_filesize":"File size is too large, maximum {max} allowed.","js_validation_ext_filename2":"The type of file \"{filename}\" is invalid, \"{allowed_types}\" allowed.","js_validation_max_filesize2":"The size of file \"{filename}\" is too large, maximum {max} allowed.","js_file_upload_delete":"Delete","js_file_upload_cancel":"Cancel","js_file_upload_close":"Close","js_score":"Score","js_calendar_close":"Close","js_calendar_prev":"Prev","js_calendar_next":"Next","js_calendar_current":"Today","js_calendar_month1":"January","js_calendar_month2":"February","js_calendar_month3":"March","js_calendar_month4":"April","js_calendar_month5":"May","js_calendar_month6":"June","js_calendar_month7":"July","js_calendar_month8":"August","js_calendar_month9":"September","js_calendar_month10":"October","js_calendar_month11":"November","js_calendar_month12":"December","js_calendar_month1_short":"Jan","js_calendar_month2_short":"Feb","js_calendar_month3_short":"Mar","js_calendar_month4_short":"Apr","js_calendar_month5_short":"May","js_calendar_month6_short":"Jun","js_calendar_month7_short":"July","js_calendar_month8_short":"Aug","js_calendar_month9_short":"Sep","js_calendar_month10_short":"Oct","js_calendar_month11_short":"Nov","js_calendar_month12_short":"Dec","js_calendar_weekday1":"Sunday","js_calendar_weekday2":"Monday","js_calendar_weekday3":"Tuesday","js_calendar_weekday4":"Wednesday","js_calendar_weekday5":"Thursday","js_calendar_weekday6":"Friday","js_calendar_weekday7":"Saturday","js_calendar_weekday1_short":"Sun","js_calendar_weekday2_short":"Mon","js_calendar_weekday3_short":"Tue","js_calendar_weekday4_short":"Wed","js_calendar_weekday5_short":"Thu","js_calendar_weekday6_short":"Fri","js_calendar_weekday7_short":"Sat","js_calendar_weekday1_min":"Su","js_calendar_weekday2_min":"Mo","js_calendar_weekday3_min":"Tu","js_calendar_weekday4_min":"We","js_calendar_weekday5_min":"Th","js_calendar_weekday6_min":"Fr","js_calendar_weekday7_min":"Sa","js_calendar_week":"Week","js_calendar_year":"Year"};</script><script type="text/javascript" src="//assets.emailmeform.com/cache/1784509200b6fbe3961eb21403307acf49423e00e4.js" charset="UTF-8"></script>
+    <script type="text/javascript" charset="UTF-8">
+        $(document).ready(function () {
+            if (!EMF.Recaptcha.initialized()) {
+                EMF.Recaptcha.init().then(function () {
+                    recaptcha.widgetId = EMF.Recaptcha.render(
+                        "recaptcha_placeholder",
+                        true
+                    );
+                });
+            } else {
+                EMF.Recaptcha.reset();
+            }
+        });
+    </script>
+
+    <li id="emf-li-recaptcha" style="display:none;">
+        <div id="recaptcha_placeholder" class="g-recaptcha" data-sitekey="6LdTUBgTAAAAAI3ypWnyeZindhUvdP9XgPeiAAs-" style="height: 78px"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-wapioodtfdqc" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdTUBgTAAAAAI3ypWnyeZindhUvdP9XgPeiAAs-&amp;co=aHR0cHM6Ly93d3cuZW1haWxtZWZvcm0uY29tOjQ0Mw..&amp;hl=en&amp;v=kemdRjWFxNjgsGdhRslyEPwU&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=9nkmwurf722v"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+    </li>
+
+
+			<li id="emf-li-post-button" class="left">
+				 <input src="//assets.emailmeform.com//builder/images/submit-orange.png" type="image" alt="Submit" onmouseover="return true;">
+			</li>
+</ul>
+<input name="element_counts" value="17" type="hidden">
+			<input name="embed" value="form" type="hidden">
+<input type="hidden" name="http_referer" value=""><input type="hidden" name="javascript_executed" value="true"></form>
+			</div><img id="emf-form-shadows" src="//assets.emailmeform.com/images/themes/bottom.png?bWFzdGVy"></div>
+	
+
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+if (typeof jQuery == 'undefined'){
+    document.write(unescape("%3Cscript src='https://www.emailmeform.com/builder/js/jquery-1.8.3.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+if (typeof $.ui == 'undefined'){
+    document.write(unescape("%3Cscript src='https://www.emailmeform.com/builder/js/jquery-ui-1.7.2.custom.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+<script type="text/javascript" src="//assets.emailmeform.com/js/dynamic.php?t=post&amp;t2=1&amp;use_CDN=true&amp;language=en&amp;language_id=0&amp;referer_domain=https%3A%2F%2Fwww.emailmeform.com%2F&amp;bWFzdGVy"></script>
+
+<script type="text/javascript">
+window.js_data = {"embed_type":"form","disable_form":false}
+if (window.ResizeObserver) {
+	const resizeObserver = new ResizeObserver(() => post_message_for_frame_height('Ny0vMVR2Fp70b2n2Qs2'));
+	resizeObserver.observe(document.body);
+} else {
+	$(document).on('ready load', function() {
+	    post_message_for_frame_height("Ny0vMVR2Fp70b2n2Qs2");
+	});
+}
+
+EMF_jQuery(window).load(function(){
+});
+
+EMF_jQuery(function(){
+	$(function(){
+	do_smart_captcha(6613456, 6)
+	});
+	toggle_emf_element(EMF_jQuery('#emf-li-14 .emf-allow-other input'), false);
+	EMF_jQuery('#emf-li-14').find('input:checked, .emf-allow-other input').change();
+	toggle_emf_element(EMF_jQuery('#emf-li-16 .emf-allow-other input'), false);
+	EMF_jQuery('#emf-li-16').find('input:checked, .emf-allow-other input').change();
+;
+
+	EMF_jQuery("#emf-form").validationEngine({
+		validationEventTriggers:"blur",
+		scroll:true
+	});
+	// DISABLE PREVENTING SUBMIT: TODO: DISCUSS and remove
+	//prevent_duplicate_submission(EMF_jQuery("#emf-form"));
+
+	$("input[emf_mask_input=true]").dPassword();
+
+	if(EMF_jQuery('#captcha_image').length>0){
+		on_captcha_image_load();
+	}
+
+	EMF_jQuery('.emf-field-grid td').click(function(event){
+		// 		if(!event.target.tagName || event.target.tagName.toLowerCase()!='td') return;
+
+		EMF_jQuery(this).find('input[type=checkbox],input[type=radio]').click();
+	});
+
+    EMF_jQuery('input[type=checkbox],input[type=radio]').click(function(event){
+        event.stopPropagation();
+    });
+
+
+	EMF_jQuery("#emf-form ul li").mousedown(highlight_field_on_mousedown);
+	EMF_jQuery("#emf-form ul li input, #emf-form ul li textarea, #emf-form ul li select").focus(highlight_field_on_focus);
+
+		var form_obj=EMF_jQuery("#emf-container form");
+	if(form_obj.length>0 && form_obj.attr('action').indexOf('#')==-1 && window.location.hash){
+		form_obj.attr('action', form_obj.attr('action')+window.location.hash);
+	}
+
+	init_rules();
+
+	enable_session_when_cookie_disabled();
+
+	detect_unsupported_browser();
+
+	randomize_field_content();
+
+	
+	
+	window.js_data.disable_form && set_readonly("This form has reached the maximum number of entries allowed for this period. Please try again later. If you are the administrator of this form, please log into the system and review your account settings.");});
+
+var emf_widgets={text : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,number : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,textarea : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,new_checkbox : 
+			function(index){
+				var arr=new Array();
+				$("input[name='element_"+index+"[]']:checked").each(function(){
+					arr[arr.length]=this.value;
+				});
+				var result=arr.join(", ");
+				return result;
+			}
+		,radio : 
+			function(index){
+				var result="";
+				$("input[name=element_"+index+"]:checked").each(function(){
+					result=this.value;
+				});
+				return result;
+			}
+		,select : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,email : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,phone : 
+			function(index){
+				var arr=new Array();
+				$("input[id^=element_"+index+"_]").each(function(){
+					arr[arr.length]=this.value;
+				});
+
+				var result="";
+				if(arr.length>0){
+					result=arr.join("-");
+				}else{
+					result=$("#element_"+index).val();
+				}
+				return result;
+			}
+		,datetime : 
+			function(index){
+				var result="";
+
+				var date_part="";
+				if($("#element_"+index+"_year").length==1){
+					date_part=$("#element_"+index+"_year-mm").val()+"/"+$("#element_"+index+"_year-dd").val()+"/"+$("#element_"+index+"_year").val();
+				}
+
+				var time_part="";
+				if($("#element_"+index+"_hour").length==1){
+					time_part=$("#element_"+index+"_hour").val()+":"+$("#element_"+index+"_minute").val()+" "+$("#element_"+index+"_ampm").val();
+				}
+
+				if(date_part && time_part){
+					result=date_part+" "+time_part;
+				}else{
+					result=date_part ? date_part : time_part;
+				}
+
+				return result;
+			}
+		,url : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,file : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,Image : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,new_select_multiple : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,price : 
+			function(index){
+				var result="";
+				var arr=new Array();
+				$("input[id^=element_"+index+"_]").each(function(){
+					arr[arr.length]=this.value;
+				});
+				result=arr.join(".");
+				return result;
+			}
+		,hidden : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,unique_id : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,section_break : 
+			function(index){
+				return "";
+			}
+		,page_break : 
+			function(index){
+				return "";
+			}
+		,signature : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,credit_card_cta : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,qr_scanner_cta : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,terms : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,star_rating : 
+			function(index){
+				var result="";
+				$("input[name=element_"+index+"]:checked").each(function(){
+					result=this.value;
+				});
+				return result;
+			}
+		,scale_rating : 
+			function(index){
+				var result="";
+				$("input[name=element_"+index+"]:checked").each(function(){
+					result=this.value;
+				});
+				return result;
+			}
+		,deprecated : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		,address : 
+			function(index){
+				var result="";
+				var element_arr=$("input,select").filter("[name='element_"+index+"[]']").toArray();
+				result=element_arr[0].value+" "+element_arr[1].value+"\n"
+					+element_arr[2].value+","+element_arr[3].value+" "+element_arr[4].value+"\n"
+					+element_arr[5].value;
+				return result;
+			}
+		,name : 
+			function(index){
+				var arr=new Array();
+				$("input[id^=element_"+index+"_]").each(function(){
+					arr[arr.length]=this.value;
+				});
+				var result=arr.join(" ");
+				return result;
+			}
+		,checkbox : 
+			function(index){
+				var arr=new Array();
+				$("input[name='element_"+index+"[]']:checked").each(function(){
+					arr[arr.length]=this.value;
+				});
+				var result=arr.join(", ");
+				return result;
+			}
+		,select_multiple : 
+			function(index){
+				return $("#element_"+index).val();
+			}
+		};
+
+var emf_condition_id_to_js_map={5 : 
+			function(field_value, value){
+				return field_value==value;
+			}
+		,6 : 
+			function(field_value, value){
+				return field_value!=value;
+			}
+		,1 : 
+			function(field_value, value){
+				return field_value.indexOf(value)>-1;
+			}
+		,2 : 
+			function(field_value, value){
+				return field_value.indexOf(value)==-1;
+			}
+		,3 : 
+			function(field_value, value){
+				return field_value.indexOf(value)==0;
+			}
+			,4 : 
+			function(field_value, value){
+				return field_value.lastIndexOf(value)==field_value.length-value.length;
+			}
+		,7 : 
+		function(field_value, value){
+		return parseFloat(field_value)==parseFloat(value);
+	}
+	,8 : 
+			function(field_value, value){
+				return parseFloat(field_value)>parseFloat(value);
+			}
+		,9 : 
+			function(field_value, value){
+				return parseFloat(field_value) < parseFloat(value);
+			}
+		,10 : 
+			function(field_value, value){
+				var date_for_field_value=Date.parse(field_value);
+				var date_for_value=Date.parse(value);
+				if(date_for_field_value && date_for_value){
+					return date_for_field_value == date_for_value;
+				}
+				return false;
+			}
+		,11 : 
+			function(field_value, value){
+				var date_for_field_value=Date.parse(field_value);
+				var date_for_value=Date.parse(value);
+				if(date_for_field_value && date_for_value){
+					return date_for_field_value < date_for_value;
+				}
+				return false;
+			}
+		,12 : 
+			function(field_value, value){
+				var date_for_field_value=Date.parse(field_value);
+				var date_for_value=Date.parse(value);
+				if(date_for_field_value && date_for_value){
+					return date_for_field_value > date_for_value;
+				}
+				return false;
+			}
+		};
+var emf_group_to_field_rules_map=[];
+var emf_group_to_page_rules_for_confirmation_map=[];
+var emf_payment_rules=[];
+
+var emf_cart=null;
+var emf_page_info={current_page_index: 0, page_element_index_min: 0, page_element_index_max: 16};
+var emf_index_to_value_map=null;
+var emf_form_visit_id="Ny0vMVR2Fp70b2n2Qs2";
+
+var emf_index_to_option_map=[];
+</script>
+
+
+
+
+
+<script>window.js_data = {"embed_type":"form","disable_form":false}</script>
+<div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-wapioodtfdqc" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=kemdRjWFxNjgsGdhRslyEPwU&amp;k=6LdTUBgTAAAAAI3ypWnyeZindhUvdP9XgPeiAAs-&amp;bft=0dAFcWeA77z4zk34SdkOxIG3I6bIgmuf1ryDTLrVlZoGPxNSRtUqrPaw7csPPo7og-0Mm9J8jeUfwDLyhChV34aGL8OfggkOvfpw" style="width: 100%; height: 100%;"></iframe></div></div></body>

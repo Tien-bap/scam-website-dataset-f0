@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_c12b46b18de0e8423e53f2fa5b51913bbdf904bee630d6ed8353866443e2fbf0",
+  "candidate_sha256": "7452635d2c40639afb3deca6c26bb15cb831313f3a0c42e9249829a2976bd539",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://tk88bet.net",
+  "requested_url": "https://tk88bet.net",
+  "browser_final_url": "https://tk88bet.net/",
+  "source_urls": [
+    "https://tk88bet.net"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2866,
+      "source_url": "https://tk88bet.net",
+      "source_hostname": "tk88bet.net",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://tk88bet.net",
+      "final_hostname": "tk88bet.net",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1458,
+      "checked_at": "2026-10-05T12:40:45.201834+00:00",
+      "error": null,
+      "normalized_source_url": "https://tk88bet.net/",
+      "normalized_final_url": "https://tk88bet.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_c12b46b18de0e8423e53f2fa5b51913bbdf904bee630d6ed8353866443e2fbf0",
+    "representative_source_index": 2866,
+    "representative_source_url": "https://tk88bet.net",
+    "representative_final_url": "https://tk88bet.net",
+    "normalized_final_url": "https://tk88bet.net/",
+    "source_hostname": "tk88bet.net",
+    "final_hostname": "tk88bet.net",
+    "source_urls": [
+      "https://tk88bet.net"
+    ],
+    "provenance": [
+      {
+        "source_index": 2866,
+        "source_url": "https://tk88bet.net",
+        "source_hostname": "tk88bet.net",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://tk88bet.net",
+        "final_hostname": "tk88bet.net",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1458,
+        "checked_at": "2026-10-05T12:40:45.201834+00:00",
+        "error": null,
+        "normalized_source_url": "https://tk88bet.net/",
+        "normalized_final_url": "https://tk88bet.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "tk88bet - sảnh live casino của game slot cùng ưu đãi nạp đầu tại thị trường Việt Nam",
+  "capture_timestamp": "2026-10-05T14:54:44.114893+00:00",
+  "dom_chars": 148198,
+  "screenshot_bytes": 389685,
+  "dom_sha256": "aa0ba45c1273ba348d0d29218abaef8fd10a31820f71911fac64721843df2f45",
+  "screenshot_sha256": "d71a80e38f6f19a7624e0fe2f7802ed2cb8a27e592063f6726694ac642375439",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://tk88bet.net/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://tk88bet.net",
+    "browser_final_url": "https://tk88bet.net/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 6533
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://kaiserfuneral.com/url/logon.php",
+  "hostname": "kaiserfuneral.com",
+  "checked_at": "2026-10-04T15:03:13.116843+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0c8fd-500b-754b-bd5b-3529707d3dd7",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-22T12:01:02.718Z",
+  "scan_original_url": "http://kaiserfuneral.com/",
+  "final_url": "https://kaiserfuneral.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1778,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.295,
+  "discovery": {
+    "batch_id": "ea09de9490a8fb3fa212f74fa63a843015acaa5cf4f535cd9127269ecb333ff5",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

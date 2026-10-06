@@ -1,0 +1,27 @@
+{
+  "original_url": "https://posts-be9gfu87y1.splashof.life/connect.html?timelimit=d36988110458dca31112fa3c03091ded",
+  "hostname": "posts-be9gfu87y1.splashof.life",
+  "checked_at": "2026-10-04T13:40:27.864968+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f5025-6c3c-703a-9abb-86619280c969",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-11T07:47:45.531Z",
+  "scan_original_url": "http://posts-be9gfu87y1.splashof.life/",
+  "final_url": "https://posts-be9gfu87y1.splashof.life/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 492,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.977,
+  "discovery": {
+    "batch_id": "540993c4dbc93a7fcbfd039e4479d9aee89222dee8f0759311851f546a5c6421",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

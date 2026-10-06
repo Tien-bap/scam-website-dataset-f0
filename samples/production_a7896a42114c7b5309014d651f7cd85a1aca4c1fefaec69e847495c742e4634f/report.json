@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.musclespro.com/us/",
+  "hostname": "www.musclespro.com",
+  "checked_at": "2026-10-04T16:03:04.038470+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a00dcc-72c5-776e-ace5-2c73376ff516",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-17T03:38:25.383Z",
+  "scan_original_url": "http://www.musclespro.com/",
+  "final_url": "https://www.musclespro.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 7303,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 1.948,
+  "discovery": {
+    "batch_id": "65d7f82374175ad7dee686227c9e67daa946786e937b8332d2b35751e1dcf7e2",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

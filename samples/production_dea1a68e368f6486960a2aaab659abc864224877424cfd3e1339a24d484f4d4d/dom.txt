@@ -1,0 +1,1383 @@
+<head>
+    <title>Trang chủ</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="cJVcrW0epH7t83tjGiYvvhCryTD8pvpI6ja8vyiC">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700&amp;display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" integrity="sha512-t4GWSVZO1eC8BM339Xd7Uphw5s17a86tIZIj8qRxhnKub6WoyhnrxeCIMeAqBPgdZGlCcG2PrZjMc+Wr78+5Xg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link href="https://cdn.jsdelivr.net/gh/hung1001/font-awesome-pro@4cac1a6/css/all.css" rel="stylesheet" type="text/css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="https://ts.hust.edu.vn/public/style.css">
+    <link rel="stylesheet" type="text/css" href="https://ts.hust.edu.vn/public/css/main.css">
+    <link rel="stylesheet" type="text/css" href="https://ts.hust.edu.vn/public/css/plus.css">
+    
+    <link rel="stylesheet" type="text/css" href="https://ts.hust.edu.vn/public/css/plus_p.css">
+    <link rel="stylesheet" type="text/css" href="https://ts.hust.edu.vn/public/css/plus_tri.css">
+    <link rel="stylesheet" type="text/css" href="https://ts.hust.edu.vn/public/css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://ts.hust.edu.vn/public/css/responsive1.css">
+    <link rel="stylesheet" type="text/css" href="https://ts.hust.edu.vn/public/css/responsive2.css">
+    <link rel="stylesheet" type="text/css" href="https://ts.hust.edu.vn/public/css/responsive3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/jquery-ui.min.css" integrity="sha512-ELV+xyi8IhEApPS/pSj66+Jiw+sOT1Mqkzlh8ExXihe4zfqbWkxPRi8wptXIO9g73FSlhmquFlUOuMSoXz5IRw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+                <link rel="shortcut icon" href="https://ts.hust.edu.vn/storage/app/public/settings/August2023/1tEHAltarFXUMnhrWW1R.png" type="image/png">
+        <!-- Google tag (gtag.js) -->
+    <script src="https://connect.facebook.net/vi_VN/bundle/sdk.js/" async="" crossorigin="anonymous"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-33T6RC7PFB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-33T6RC7PFB');
+    </script>
+<style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0px;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:lucida grande,tahoma,verdana,arial,sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:400;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{0%{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+
+.fb_dialog{background:#525252b3;position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:700;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v4/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v4/ya/r/3rhSv5V8j3o.gif) #fff no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:#0006;inset:0;min-height:100%;position:absolute;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba),to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:#fff 0 1px 1px -1px inset;color:#fff;font:700 14px Helvetica,sans-serif;text-overflow:ellipsis;text-shadow:rgba(0,30,84,.296875) 0px -1px 0px;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2),to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:700 12px Helvetica,sans-serif;margin:2px -12px;padding:2px 6px 3px;text-shadow:rgba(0,30,84,.296875) 0px -1px 0px}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:700;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v4/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4A4A4A;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4A4A4A;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v4/y2/r/onuUJj0tCqE.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0)}to{transform:rotate(360deg)}}
+
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+</style></head><body>
+  <div id="wrapper">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<header class="nav-down">
+    <div class="top">
+        <div class="container">
+            <div class="title">
+                <div id="logo-site">
+                    <a href="https://ts.hust.edu.vn" class="logo">
+                                                <img src="https://ts.hust.edu.vn/storage/app/public/settings/October2023/Y6AQBSPqw0mXduwwamcp.png" alt="Thông tin tuyển sinh Đại học Bách khoa Hà Nội">
+                    </a>
+                    <div class="title-site">
+                        <h4><a href="https://ts.hust.edu.vn">Thông tin tuyển sinh Đại học Bách khoa Hà Nội</a></h4>
+                        <h5><a href="https://ts.hust.edu.vn">HUST ADMISSIONS INFORMATION</a></h5>
+                    </div>
+                </div>
+                <div class="right-item flex-list">
+                    <div class="fmr-search" data-toggle="modal" data-target="#myModalsearch">
+                        <input type="text" class="form-control" placeholder="Tìm kiếm...">
+                        <a href="javascript:void(0)" class="btn-modal btn-search"><i class="fas fa-search"></i></a>
+                    </div>
+                    <div class="account">
+                         <a href="https://ts.hust.edu.vn/login" class="avatar btn btn-custom"><span>Đăng nhập</span></a>
+                                            </div>
+                    <a data-toggle="modal" href="" id="depart-modal" class="btn-modal btn-custom" data-target="#myModal">Đơn vị liên quan</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav id="main-nav" data-spy="affix" data-offset-top="79.984375" class="has-affix nav-down affix-top">
+        <div class="container">
+            <div class="row">
+                                <div class="main-menu"><ul>
+
+
+
+    
+    <li class="active">
+        <a href="https://ts.hust.edu.vn" target="_self" style="">
+            
+            <span>Home</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/huong-nghiep" target="_self" style="">
+            
+            <span>Hướng nghiệp</span>
+        </a>
+                    <ul>
+
+
+
+    
+    <li class="">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx3VNVqtDBDokm_rpKnTSkE3SMZPaKWKiFLXRslcXtTJsnzw/viewform" target="_blank" style="">
+            
+            <span>Đăng ký trải nghiệm khối THPT</span>
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/p/dai-hoc" target="_self" style="">
+            
+            <span>Tuyển sinh Đại học</span>
+        </a>
+                    <ul>
+
+
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/thong-tin-chung" target="_self" style="">
+            
+            <span>Thông tin chung</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://nxbbachkhoa.vn/ebook-free/12397/0/1" target="_blank" style="">
+            
+            <span>Brochure Thông tin tuyển sinh</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/training-cate/nganh-dao-tao-dai-hoc" target="_self" style="">
+            
+            <span>Chương trình đào tạo đại học</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/xet-tuyen-tai-nang" target="_self" style="">
+            
+            <span>Xét tuyển tài năng</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/ky-thi-danh-gia-tu-duy" target="_self" style="">
+            
+            <span>Kỳ thi đánh giá tư duy</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/tin-tuc/huong-dan-dang-ky-xac-thuc-chung-chi-ngoai-ngu-2026" target="_self" style="">
+            
+            <span>Xác thực chứng chỉ Ngoại ngữ</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/diem-chuan-tuyen-sinh" target="_self" style="">
+            
+            <span>Điểm chuẩn các năm</span>
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/p/sau-dai-hoc" target="_self" style="">
+            
+            <span>Tuyển sinh Sau đại học</span>
+        </a>
+                    <ul>
+
+
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/tuyen-sinh-ky-su-chuyen-sau" target="_self" style="">
+            
+            <span>Tuyển sinh Kỹ sư chuyên sâu</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/tuyen-sinh-cao-hoc" target="_self" style="">
+            
+            <span>Tuyển sinh cao học</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/tuyen-sinh-ncs" target="_self" style="">
+            
+            <span>Tuyển sinh nghiên cứu sinh</span>
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/en/program-cate/undergraduate-programs" target="_self" style="">
+            
+            <span>International Admissions</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/tin-tuc/hoc-phi-dai-hoc-chinh-quy" target="_self" style="">
+            
+            <span>Học phí - Học bổng</span>
+        </a>
+                    <ul>
+
+
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/tin-tuc/hoc-phi-dai-hoc-chinh-quy" target="_self" style="">
+            
+            <span>Học phí</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/tin-tuc/ho-tro-tai-chinh-cho-sinh-vien" target="_self" style="">
+            
+            <span>Học bổng</span>
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/p/lien-he" target="_self" style="">
+            
+            <span>Liên hệ</span>
+        </a>
+                    <ul>
+
+
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/p/lien-he" target="_self" style="">
+            
+            <span>Ban TS-HN</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/tin-tuc/danh-sach-to-tu-van-chuyen-sau-cac-chuong-trinh-nganh-hoc" target="_self" style="">
+            
+            <span>Đơn vị đào tạo</span>
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+</ul>
+</div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Begin Header Mobi -->
+    <div id="header-mb"> 
+        <div class="container">
+            <div class="gr-left">
+                <button class="show-mobi"><i class="fas fa-bars"></i></button>
+                                <a id="logo" class="logo" href="https://ts.hust.edu.vn"><img src="https://ts.hust.edu.vn/storage/app/public/settings/August2023/jx7Xe6QCwsP6bWJgW0tA.png" alt="Thông tin tuyển sinh Đại học Bách khoa Hà Nội"></a>
+            </div>
+            <div class="gr-right ">
+                <a data-toggle="modal" href="javascript:void(0)" class="btn-modal btn-custom search-mb" data-target="#myModalsearch"><i class="fas fa-search"></i></a>
+                <div class="account clearfix">
+                                            <div class="avatar-info box">
+                            <a href="https://ts.hust.edu.vn/login" class="avatar btn-custom">
+                                <i class="fas fa-sign-in-alt"></i>
+                            </a>
+                        </div> 
+                                    </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Header Mobi -->
+</header>
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&amp;version=v17.0" nonce="APGENRdv"></script>
+
+    <main>
+          <div id="home" class="page">
+                <section class="slide" style="background-image: url( https://ts.hust.edu.vn/storage/app/public/settings/August2023/BoZTmAHtWk4T0eGxgD26.jpg )">
+            <div class="container">
+                <div class="home-slide owl-carousel owl-theme owl-loaded owl-drag">
+                                            
+                                                                
+                                                                
+                                                                
+                                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-3438px, 0px, 0px); transition: all; width: 9168px;"><div class="owl-item cloned" style="width: 1146px;"><div class="item" style="background-image: url( https://ts.hust.edu.vn/storage/app/public/settings/March2025/4Vquj8xlpKRaGnYCJis9.jpg )">
+                        <div class="desc">
+                        <div class="short"><p>Đại học Bách khoa Hà Nội chính thức công bố thông báo tuyển sinh trình độ Thạc sĩ năm 2026. Theo đó, nhà trường tiếp tục triển khai phương thức xét tuyển dựa trên hồ sơ năng lực, nhằm tạo điều kiện thuận lợi tối đa cho các ứng viên. Chương trình đào tạo kéo dài 2 năm với hai định hướng chuyên biệt: Nghiên cứu và Ứng dụng, đáp ứng nhu cầu nhân lực chất lượng cao trong kỷ nguyên số. Dưới đây là thông tin chi tiết về điều kiện và quy trình tuyển sinh.</p></div>
+                            <a href="https://ts.hust.edu.vn/tin-tuc/thong-bao-tuyen-sinh-trinh-do-thac-si-nam-2026" class="detail"><i class="fas fa-chevron-right"></i> Xem chi tiết</a>
+                        </div>
+                        </div></div><div class="owl-item cloned" style="width: 1146px;"><div class="item" style="background-image: url( https://ts.hust.edu.vn/storage/app/public/settings/March2025/fnTuyKkpv1xEuZLTMiqZ.jpg )">
+                        <div class="desc">
+                        <div class="short"><p>Thông báo tuyển sinh trình độ Tiến sĩ năm 2026 của Đại học Bách khoa Hà Nội (Hình thức: Xét tuyển hồ sơ năng lực). Hệ thống đăng ký trực tuyến sẽ mở từ ngày 23/02/2026 đến 30/11/2026. Đối tượng dự tuyển bao gồm Thạc sĩ và Cử nhân loại Giỏi (hoặc Bậc 7 tương đương) có kinh nghiệm nghiên cứu/bài báo khoa học và đáp ứng chuẩn Ngoại ngữ Bậc 4.</p></div>
+                            <a href="https://ts.hust.edu.vn/tin-tuc/thong-bao-tuyen-sinh-trinh-do-tien-si-nam-2026" class="detail"><i class="fas fa-chevron-right"></i> Xem chi tiết</a>
+                        </div>
+                        </div></div><div class="owl-item" style="width: 1146px;"><div class="item" style="background-image: url( https://ts.hust.edu.vn/storage/app/public/settings/December2025/g1HxXfrr0VouXFny5VYM.jpg )">
+                            <div class="desc">
+                                <div class="short"><p>Ngày 17/3/2026, Đại học Bách khoa Hà Nội công bố Quy định về Phương thức XTTN năm 2026. Quy định này áp dụng cho thí sinh đăng ký xét tuyển vào các chương trình đào tạo đại học chính quy của Đại học Bách khoa Hà Nội theo phương thức XTTN, bao gồm các diện từ 1.1, 1.2 đến 1.3.</p></div>
+                                <a href="https://ts.hust.edu.vn/tin-tuc/quy-dinh-ve-phuong-thuc-xet-tuyen-tai-nang-nam-2026" class="detail"><i class="fas fa-chevron-right"></i> Xem chi tiết</a>
+                            </div>
+                        </div></div><div class="owl-item animated owl-animated-in fadeIn active" style="width: 1146px;"><div class="item" style="background-image: url( https://ts.hust.edu.vn/storage/app/public/settings/December2023/Ujms89NprEYEQft0JzYR.jpg )">
+                            <div class="desc">
+                            <div class="short"><p>Đại học Bách khoa Hà Nội chính thức công bố thông tin tuyển sinh Đại học chính quy năm 2026. Với tổng chỉ tiêu dự kiến là 9.880 sinh viên, nhà trường tiếp tục giữ ổn định 3 phương thức tuyển sinh cốt lõi: Xét tuyển tài năng, Xét tuyển theo điểm thi Đánh giá tư duy (TSA) và Xét tuyển theo điểm thi tốt nghiệp THPT.</p></div>
+                                <a href="https://ts.hust.edu.vn/tin-tuc/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2026" class="detail"><i class="fas fa-chevron-right"></i> Xem chi tiết</a>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 1146px;"><div class="item" style="background-image: url( https://ts.hust.edu.vn/storage/app/public/settings/March2025/4Vquj8xlpKRaGnYCJis9.jpg )">
+                        <div class="desc">
+                        <div class="short"><p>Đại học Bách khoa Hà Nội chính thức công bố thông báo tuyển sinh trình độ Thạc sĩ năm 2026. Theo đó, nhà trường tiếp tục triển khai phương thức xét tuyển dựa trên hồ sơ năng lực, nhằm tạo điều kiện thuận lợi tối đa cho các ứng viên. Chương trình đào tạo kéo dài 2 năm với hai định hướng chuyên biệt: Nghiên cứu và Ứng dụng, đáp ứng nhu cầu nhân lực chất lượng cao trong kỷ nguyên số. Dưới đây là thông tin chi tiết về điều kiện và quy trình tuyển sinh.</p></div>
+                            <a href="https://ts.hust.edu.vn/tin-tuc/thong-bao-tuyen-sinh-trinh-do-thac-si-nam-2026" class="detail"><i class="fas fa-chevron-right"></i> Xem chi tiết</a>
+                        </div>
+                        </div></div><div class="owl-item" style="width: 1146px;"><div class="item" style="background-image: url( https://ts.hust.edu.vn/storage/app/public/settings/March2025/fnTuyKkpv1xEuZLTMiqZ.jpg )">
+                        <div class="desc">
+                        <div class="short"><p>Thông báo tuyển sinh trình độ Tiến sĩ năm 2026 của Đại học Bách khoa Hà Nội (Hình thức: Xét tuyển hồ sơ năng lực). Hệ thống đăng ký trực tuyến sẽ mở từ ngày 23/02/2026 đến 30/11/2026. Đối tượng dự tuyển bao gồm Thạc sĩ và Cử nhân loại Giỏi (hoặc Bậc 7 tương đương) có kinh nghiệm nghiên cứu/bài báo khoa học và đáp ứng chuẩn Ngoại ngữ Bậc 4.</p></div>
+                            <a href="https://ts.hust.edu.vn/tin-tuc/thong-bao-tuyen-sinh-trinh-do-tien-si-nam-2026" class="detail"><i class="fas fa-chevron-right"></i> Xem chi tiết</a>
+                        </div>
+                        </div></div><div class="owl-item cloned" style="width: 1146px;"><div class="item" style="background-image: url( https://ts.hust.edu.vn/storage/app/public/settings/December2025/g1HxXfrr0VouXFny5VYM.jpg )">
+                            <div class="desc">
+                                <div class="short"><p>Ngày 17/3/2026, Đại học Bách khoa Hà Nội công bố Quy định về Phương thức XTTN năm 2026. Quy định này áp dụng cho thí sinh đăng ký xét tuyển vào các chương trình đào tạo đại học chính quy của Đại học Bách khoa Hà Nội theo phương thức XTTN, bao gồm các diện từ 1.1, 1.2 đến 1.3.</p></div>
+                                <a href="https://ts.hust.edu.vn/tin-tuc/quy-dinh-ve-phuong-thuc-xet-tuyen-tai-nang-nam-2026" class="detail"><i class="fas fa-chevron-right"></i> Xem chi tiết</a>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 1146px;"><div class="item" style="background-image: url( https://ts.hust.edu.vn/storage/app/public/settings/December2023/Ujms89NprEYEQft0JzYR.jpg )">
+                            <div class="desc">
+                            <div class="short"><p>Đại học Bách khoa Hà Nội chính thức công bố thông tin tuyển sinh Đại học chính quy năm 2026. Với tổng chỉ tiêu dự kiến là 9.880 sinh viên, nhà trường tiếp tục giữ ổn định 3 phương thức tuyển sinh cốt lõi: Xét tuyển tài năng, Xét tuyển theo điểm thi Đánh giá tư duy (TSA) và Xét tuyển theo điểm thi tốt nghiệp THPT.</p></div>
+                                <a href="https://ts.hust.edu.vn/tin-tuc/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2026" class="detail"><i class="fas fa-chevron-right"></i> Xem chi tiết</a>
+                            </div>
+                        </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+            </div>
+        </section>
+                                                <section id="banner" class="bg-grey">
+                    <div class="container">
+                        <div class="desc" style="background-image: url(https://ts.hust.edu.vn/public/images/bgs/banner-01.jpg)">
+                            <h1>KỲ THI ĐÁNH GIÁ TƯ DUY (TSA)</h1>
+                            <a href="https://ts.hust.edu.vn/b/ky-thi-danh-gia-tu-duy" class="btn btn-hover btn-lg" target="_blank">Chi tiết <i class="fas fa-caret-right"></i></a>
+                        </div>
+                    </div>
+                </section>
+                    
+        <section id="service">
+            <div class="container">
+                <div class="list">
+                    <div class="list-serv owl-carousel owl-theme owl-loaded owl-drag">
+                                                       
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                        
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1351px, 0px, 0px); transition: 0.25s; width: 3378px;"><div class="owl-item cloned" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/top-801-1000-truong-dai-hoc-tot-nhat-the-gioi">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/XDqTA3XhJqfrmipD7RNZ.png" alt="TOP 801-1000 TRƯỜNG ĐẠI HỌC TỐT NHẤT THẾ GIỚI">TOP 801-1000 TRƯỜNG ĐẠI HỌC TỐT NHẤT THẾ GIỚI
+                                </a>
+                            </div></div><div class="owl-item cloned" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/bon-nhom-nganh-cua-dhbk-ha-noi-tang-hang-vao-top-400-va-500-the-gioi-theo-xep-hang-qs-2020">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/YR74bNx1NyTYMurn9CGw.png" alt="BỐN NHÓM NGÀNH CỦA ĐHBK HÀ NỘI TĂNG HẠNG VÀO TỐP 400 VÀ 500 THẾ GIỚI THEO XẾP HẠNG QS 2020">BỐN NHÓM NGÀNH CỦA ĐHBK HÀ NỘI TĂNG HẠNG VÀO TỐP 400 VÀ 500 THẾ GIỚI THEO XẾP HẠNG QS 2020
+                                </a>
+                            </div></div><div class="owl-item cloned" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/l-nh-vuc-ky-thuat-va-cong-nghe-bach-khoa-ha-noi-vao-top-400-the-gioi">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/J6PrSC3YZ3vsSCzUsjwc.png" alt="LĨNH VỰC KỸ THUẬT VÀ CÔNG NGHỆ BÁCH KHOA HÀ NỘI VÀO TOP 400 THẾ GIỚI">LĨNH VỰC KỸ THUẬT VÀ CÔNG NGHỆ BÁCH KHOA HÀ NỘI VÀO TOP 400 THẾ GIỚI
+                                </a>
+                            </div></div><div class="owl-item cloned" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/doi-ng-giang-vien-chat-luong-cao-giau-chuyen-mon">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/Gg42ynALm2D6FjcLi3M0.png" alt="ĐỘI NGŨ GIẢNG VIÊN CHẤT LƯỢNG CAO, GIÀU CHUYÊN MÔN">ĐỘI NGŨ GIẢNG VIÊN CHẤT LƯỢNG CAO, GIÀU CHUYÊN MÔN
+                                </a>
+                            </div></div><div class="owl-item cloned" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/co-so-vat-chat-thuoc-loai-tot-nhat-trong-cac-truong-dai-hoc">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/p6wN4b92mR0h1Vay8mOe.png" alt="CƠ SỞ VẬT CHẤT THUỘC LOẠI TỐT NHẤT TRONG CÁC TRƯỜNG ĐẠI HỌC">CƠ SỞ VẬT CHẤT THUỘC LOẠI TỐT NHẤT TRONG CÁC TRƯỜNG ĐẠI HỌC
+                                </a>
+                            </div></div><div class="owl-item" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/top-801-1000-truong-dai-hoc-tot-nhat-the-gioi">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/XDqTA3XhJqfrmipD7RNZ.png" alt="TOP 801-1000 TRƯỜNG ĐẠI HỌC TỐT NHẤT THẾ GIỚI">TOP 801-1000 TRƯỜNG ĐẠI HỌC TỐT NHẤT THẾ GIỚI
+                                </a>
+                            </div></div><div class="owl-item active" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/bon-nhom-nganh-cua-dhbk-ha-noi-tang-hang-vao-top-400-va-500-the-gioi-theo-xep-hang-qs-2020">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/YR74bNx1NyTYMurn9CGw.png" alt="BỐN NHÓM NGÀNH CỦA ĐHBK HÀ NỘI TĂNG HẠNG VÀO TỐP 400 VÀ 500 THẾ GIỚI THEO XẾP HẠNG QS 2020">BỐN NHÓM NGÀNH CỦA ĐHBK HÀ NỘI TĂNG HẠNG VÀO TỐP 400 VÀ 500 THẾ GIỚI THEO XẾP HẠNG QS 2020
+                                </a>
+                            </div></div><div class="owl-item active" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/l-nh-vuc-ky-thuat-va-cong-nghe-bach-khoa-ha-noi-vao-top-400-the-gioi">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/J6PrSC3YZ3vsSCzUsjwc.png" alt="LĨNH VỰC KỸ THUẬT VÀ CÔNG NGHỆ BÁCH KHOA HÀ NỘI VÀO TOP 400 THẾ GIỚI">LĨNH VỰC KỸ THUẬT VÀ CÔNG NGHỆ BÁCH KHOA HÀ NỘI VÀO TOP 400 THẾ GIỚI
+                                </a>
+                            </div></div><div class="owl-item active" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/doi-ng-giang-vien-chat-luong-cao-giau-chuyen-mon">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/Gg42ynALm2D6FjcLi3M0.png" alt="ĐỘI NGŨ GIẢNG VIÊN CHẤT LƯỢNG CAO, GIÀU CHUYÊN MÔN">ĐỘI NGŨ GIẢNG VIÊN CHẤT LƯỢNG CAO, GIÀU CHUYÊN MÔN
+                                </a>
+                            </div></div><div class="owl-item active" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/co-so-vat-chat-thuoc-loai-tot-nhat-trong-cac-truong-dai-hoc">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/p6wN4b92mR0h1Vay8mOe.png" alt="CƠ SỞ VẬT CHẤT THUỘC LOẠI TỐT NHẤT TRONG CÁC TRƯỜNG ĐẠI HỌC">CƠ SỞ VẬT CHẤT THUỘC LOẠI TỐT NHẤT TRONG CÁC TRƯỜNG ĐẠI HỌC
+                                </a>
+                            </div></div><div class="owl-item cloned active" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/top-801-1000-truong-dai-hoc-tot-nhat-the-gioi">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/XDqTA3XhJqfrmipD7RNZ.png" alt="TOP 801-1000 TRƯỜNG ĐẠI HỌC TỐT NHẤT THẾ GIỚI">TOP 801-1000 TRƯỜNG ĐẠI HỌC TỐT NHẤT THẾ GIỚI
+                                </a>
+                            </div></div><div class="owl-item cloned" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/bon-nhom-nganh-cua-dhbk-ha-noi-tang-hang-vao-top-400-va-500-the-gioi-theo-xep-hang-qs-2020">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/YR74bNx1NyTYMurn9CGw.png" alt="BỐN NHÓM NGÀNH CỦA ĐHBK HÀ NỘI TĂNG HẠNG VÀO TỐP 400 VÀ 500 THẾ GIỚI THEO XẾP HẠNG QS 2020">BỐN NHÓM NGÀNH CỦA ĐHBK HÀ NỘI TĂNG HẠNG VÀO TỐP 400 VÀ 500 THẾ GIỚI THEO XẾP HẠNG QS 2020
+                                </a>
+                            </div></div><div class="owl-item cloned" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/l-nh-vuc-ky-thuat-va-cong-nghe-bach-khoa-ha-noi-vao-top-400-the-gioi">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/J6PrSC3YZ3vsSCzUsjwc.png" alt="LĨNH VỰC KỸ THUẬT VÀ CÔNG NGHỆ BÁCH KHOA HÀ NỘI VÀO TOP 400 THẾ GIỚI">LĨNH VỰC KỸ THUẬT VÀ CÔNG NGHỆ BÁCH KHOA HÀ NỘI VÀO TOP 400 THẾ GIỚI
+                                </a>
+                            </div></div><div class="owl-item cloned" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/doi-ng-giang-vien-chat-luong-cao-giau-chuyen-mon">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/Gg42ynALm2D6FjcLi3M0.png" alt="ĐỘI NGŨ GIẢNG VIÊN CHẤT LƯỢNG CAO, GIÀU CHUYÊN MÔN">ĐỘI NGŨ GIẢNG VIÊN CHẤT LƯỢNG CAO, GIÀU CHUYÊN MÔN
+                                </a>
+                            </div></div><div class="owl-item cloned" style="width: 215.2px; margin-right: 10px;"><div class="item">
+                                <a href="https://ts.hust.edu.vn/tin-tuc/co-so-vat-chat-thuoc-loai-tot-nhat-trong-cac-truong-dai-hoc">
+                                    <img src="https://ts.hust.edu.vn/storage/app/public/settings/January2024/p6wN4b92mR0h1Vay8mOe.png" alt="CƠ SỞ VẬT CHẤT THUỘC LOẠI TỐT NHẤT TRONG CÁC TRƯỜNG ĐẠI HỌC">CƠ SỞ VẬT CHẤT THUỘC LOẠI TỐT NHẤT TRONG CÁC TRƯỜNG ĐẠI HỌC
+                                </a>
+                            </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i class="fal fa-chevron-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fal fa-chevron-right"></i></button></div><div class="owl-dots disabled"></div></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="news">
+            <div class="container">
+                <div class="row">
+                                                                                                <div class="left col-sm-6">
+                                <h2 class="title">Tuyển sinh Đại học</h2>                                                                    <div class="list">
+                                                                                    <div class="item row">
+                                                <div class="picture col-sm-5 col-xs-5">
+                                                    <a href="https://ts.hust.edu.vn/tin-tuc/thong-cao-bao-chi-ve-do-lech-giua-cac-to-hop-xet-tuyen-bang-quy-doi-diem-chuan-va-du-bao-muc-diem-trung-tuyen-vao-cac-nganh-cua-dai-hoc-bach-khoa-ha-noi-nam-2026" class="img-hover">
+                                                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/July2026/C9g7XANC1EkJXzuhVxaE.jpg" alt="Thông cáo báo chí về độ lệch giữa các tổ hợp xét tuyển, bảng quy đổi điểm chuẩn và dự báo mức điểm trúng tuyển vào các ngành của Đại học Bách khoa Hà Nội năm 2026">
+                                                    </a>
+                                                </div>
+                                                <div class="desc col-sm-7 col-xs-7">
+                                                    <h3><a href="https://ts.hust.edu.vn/tin-tuc/thong-cao-bao-chi-ve-do-lech-giua-cac-to-hop-xet-tuyen-bang-quy-doi-diem-chuan-va-du-bao-muc-diem-trung-tuyen-vao-cac-nganh-cua-dai-hoc-bach-khoa-ha-noi-nam-2026">Thông cáo báo chí về độ lệch giữa các tổ hợp xét tuyển, bảng quy đổi điểm chuẩn và dự báo mức điểm trúng tuyển vào các ngành của Đại học Bách khoa Hà Nội năm 2026</a></h3>
+                                                    <p>Đại học Bách khoa Hà Nội vừa chính thức công bố quy định về độ lệch điểm giữa các tổ hợp xét tuyển tốt nghiệp THPT năm 2026. Theo đó, mức điểm chuẩn sẽ không có sự chênh lệch trong cùng một nhóm khối ngành, nhưng áp dụng mức lệch 0,5 điểm giữa nhóm tổ hợp tự nhiên (A00, A01, B00, D07, K01) và nhóm tổ hợp ngoại ngữ/kinh tế (D01, D04, DD2) tại một số ngành giao thoa. Dưới đây là thông tin chi tiết giúp thí sinh nắm rõ nguyên tắc quy đổi để tối ưu hóa cơ hội trúng tuyển.</p>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item row">
+                                                <div class="picture col-sm-5 col-xs-5">
+                                                    <a href="https://ts.hust.edu.vn/tin-tuc/chi-tiet-55-chuong-trinh-dao-tao-tai-bach-khoa-ha-noi-nhan-hoc-bong-chinh-phu-theo-nghi-dinh-179" class="img-hover">
+                                                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/July2026/EzWTF9dNWIuaVHJXoRgp.jpg" alt="Chi tiết 55 Chương trình đào tạo tại Bách khoa Hà Nội nhận Học bổng Chính phủ theo Nghị định 179">
+                                                    </a>
+                                                </div>
+                                                <div class="desc col-sm-7 col-xs-7">
+                                                    <h3><a href="https://ts.hust.edu.vn/tin-tuc/chi-tiet-55-chuong-trinh-dao-tao-tai-bach-khoa-ha-noi-nhan-hoc-bong-chinh-phu-theo-nghi-dinh-179">Chi tiết 55 Chương trình đào tạo tại Bách khoa Hà Nội nhận Học bổng Chính phủ theo Nghị định 179</a></h3>
+                                                    <p>Kỳ tuyển sinh năm 2026, Đại học Bách khoa Hà Nội công bố tổng chỉ tiêu tuyển sinh là 9.700 sinh viên cho 68 chương trình đào tạo. Điểm mới quan trọng trong năm học này là việc triển khai chính sách học bổng theo Nghị định số 179/2026/NĐ-CP của Chính phủ cho 55 chương trình thuộc các lĩnh vực đào tạo tài năng, vi mạch bán dẫn, khoa học cơ bản, kỹ thuật then chốt và công nghệ chiến lược. Đây là bước đi cụ thể nhằm hiện thực hóa mục tiêu phát triển nguồn nhân lực STEM chất lượng cao, phục vụ công cuộc làm chủ công nghệ và phát triển kinh tế bền vững.</p>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item row">
+                                                <div class="picture col-sm-5 col-xs-5">
+                                                    <a href="https://ts.hust.edu.vn/tin-tuc/quy-che-tuyen-sinh-dai-hoc-nam-2026" class="img-hover">
+                                                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/May2026/DqStytlc1BuoLPnfcsVJ.jpg" alt="Quy chế tuyển sinh đại học năm 2026">
+                                                    </a>
+                                                </div>
+                                                <div class="desc col-sm-7 col-xs-7">
+                                                    <h3><a href="https://ts.hust.edu.vn/tin-tuc/quy-che-tuyen-sinh-dai-hoc-nam-2026">Quy chế tuyển sinh đại học năm 2026</a></h3>
+                                                    <p>Nhằm đảm bảo tính minh bạch và thống nhất, Đại học Bách khoa Hà Nội vừa chính thức ban hành Quy chế tuyển sinh đại học và Quy định về phương thức Xét tuyển tài năng (XTTN) năm 2026. </p>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item row">
+                                                <div class="picture col-sm-5 col-xs-5">
+                                                    <a href="https://ts.hust.edu.vn/tin-tuc/huong-dan-dang-ky-xet-tuyen-tai-nang-2026" class="img-hover">
+                                                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/May2026/iOcOpXQtUBDfvPXU8lmI.jpg" alt="Hướng dẫn đăng ký Xét tuyển tài năng 2026">
+                                                    </a>
+                                                </div>
+                                                <div class="desc col-sm-7 col-xs-7">
+                                                    <h3><a href="https://ts.hust.edu.vn/tin-tuc/huong-dan-dang-ky-xet-tuyen-tai-nang-2026">Hướng dẫn đăng ký Xét tuyển tài năng 2026</a></h3>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                                                            </div>
+                                    <div class="view hvr-underline-from-center">
+                                        <a href="https://ts.hust.edu.vn/b/dai-hoc"><i class="fas fa-chevron-right"></i>&nbsp;Xem Thêm</a>
+                                    </div>
+                                                            </div>
+                                                                                                    <div class="right col-sm-6">
+                                                                    <h2 class="title">Tuyển sinh sau đại học</h2>
+                                                                                                    <div class="list">
+                                                                                    <div class="item row">
+                                                <div class="picture col-sm-5 col-xs-5">
+                                                    <a href="https://ts.hust.edu.vn/tin-tuc/cac-moc-nop-ho-so-thac-si-va-ky-su-chuyen-sau-2026" class="img-hover">
+                                                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/January2026/Me8zF7MLh57GUTLEmyN4.jpg" alt="Các mốc nộp hồ sơ thạc sĩ và Kỹ sư chuyên sâu 2026">
+                                                    </a>
+                                                </div>
+                                                <div class="desc col-sm-7 col-xs-7">
+                                                    <h3><a href="https://ts.hust.edu.vn/tin-tuc/cac-moc-nop-ho-so-thac-si-va-ky-su-chuyen-sau-2026">Các mốc nộp hồ sơ thạc sĩ và Kỹ sư chuyên sâu 2026</a></h3>
+                                                    <p>Đại học Bách Khoa Hà Nội đã chính thức ban hành thông báo tuyển sinh trình độ Thạc sĩ và Kỹ sư chuyên sâu năm 2026, kèm theo các nội dung quan trọng về điều kiện dự tuyển, hồ sơ, lệ phí và kế hoạch xét tuyển.</p>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item row">
+                                                <div class="picture col-sm-5 col-xs-5">
+                                                    <a href="https://ts.hust.edu.vn/tin-tuc/thong-bao-tuyen-sinh-trinh-do-thac-si-nam-2026" class="img-hover">
+                                                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/January2026/eGWbVrjOuYHhE3kSdRwT.jpg" alt="Thông báo tuyển sinh trình độ Thạc sĩ năm 2026">
+                                                    </a>
+                                                </div>
+                                                <div class="desc col-sm-7 col-xs-7">
+                                                    <h3><a href="https://ts.hust.edu.vn/tin-tuc/thong-bao-tuyen-sinh-trinh-do-thac-si-nam-2026">Thông báo tuyển sinh trình độ Thạc sĩ năm 2026</a></h3>
+                                                    <p>Đại học Bách khoa Hà Nội chính thức công bố thông báo tuyển sinh trình độ Thạc sĩ năm 2026. Theo đó, nhà trường tiếp tục triển khai phương thức xét tuyển dựa trên hồ sơ năng lực, nhằm tạo điều kiện thuận lợi tối đa cho các ứng viên. Chương trình đào tạo kéo dài 2 năm với hai định hướng chuyên biệt: Nghiên cứu và Ứng dụng, đáp ứng nhu cầu nhân lực chất lượng cao trong kỷ nguyên số. Dưới đây là thông tin chi tiết về điều kiện và quy trình tuyển sinh.</p>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item row">
+                                                <div class="picture col-sm-5 col-xs-5">
+                                                    <a href="https://ts.hust.edu.vn/tin-tuc/thong-bao-tuyen-sinh-trinh-do-tien-si-nam-2026" class="img-hover">
+                                                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/January2026/5KKfUK2T8Prw78FF7d9m.jpg" alt="Thông báo tuyển sinh trình độ Tiến sĩ năm 2026">
+                                                    </a>
+                                                </div>
+                                                <div class="desc col-sm-7 col-xs-7">
+                                                    <h3><a href="https://ts.hust.edu.vn/tin-tuc/thong-bao-tuyen-sinh-trinh-do-tien-si-nam-2026">Thông báo tuyển sinh trình độ Tiến sĩ năm 2026</a></h3>
+                                                    <p>Thông báo tuyển sinh trình độ Tiến sĩ năm 2026 của Đại học Bách khoa Hà Nội (Hình thức: Xét tuyển hồ sơ năng lực). Hệ thống đăng ký trực tuyến sẽ mở từ ngày 23/02/2026 đến 30/11/2026. Đối tượng dự tuyển bao gồm Thạc sĩ và Cử nhân loại Giỏi (hoặc Bậc 7 tương đương) có kinh nghiệm nghiên cứu/bài báo khoa học và đáp ứng chuẩn Ngoại ngữ Bậc 4.</p>
+                                                </div>
+                                            </div>
+                                                                                    <div class="item row">
+                                                <div class="picture col-sm-5 col-xs-5">
+                                                    <a href="https://ts.hust.edu.vn/tin-tuc/thong-bao-tuyen-sinh-trinh-do-ky-su-chuyen-sau-nam-2026" class="img-hover">
+                                                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/January2026/LlTVGzZqKkBrm3Mkhmel.jpg" alt="Thông báo tuyển sinh trình độ Kỹ sư chuyên sâu năm 2026">
+                                                    </a>
+                                                </div>
+                                                <div class="desc col-sm-7 col-xs-7">
+                                                    <h3><a href="https://ts.hust.edu.vn/tin-tuc/thong-bao-tuyen-sinh-trinh-do-ky-su-chuyen-sau-nam-2026">Thông báo tuyển sinh trình độ Kỹ sư chuyên sâu năm 2026</a></h3>
+                                                    <p>Đại học Bách khoa Hà Nội chính thức công bố thông báo tuyển sinh trình độ Kỹ sư chuyên sâu đặc thù năm 2026. Đây là chương trình đào tạo chính quy được thiết kế nhằm trang bị khối kiến thức chuyên ngành nâng cao và kỹ năng thực hành nghề nghiệp vững chắc cho người học. Với phương thức xét tuyển hồ sơ linh hoạt và thời gian nhận đăng ký kéo dài từ tháng 01 đến tháng 11/2026, chương trình mở ra cơ hội học tập liên tục cho sinh viên vừa tốt nghiệp và các nhân sự đã có kinh nghiệm làm việc muốn nâng cao bằng cấp.</p>
+                                                </div>
+                                            </div>
+                                                                            </div>
+                                    <div class="view hvr-underline-from-center">
+                                        <a href="https://ts.hust.edu.vn/b/sau-dai-hoc"><i class="fas fa-chevron-right"></i>&nbsp;Xem Thêm</a>
+                                    </div>
+                                                            </div>
+                                                            </div>
+            </div>
+        </section>
+                                                <section id="banner" class="bg-grey">
+                    <div class="container">
+                        <div class="desc" style="background-image: url(https://ts.hust.edu.vn/public/images/bgs/banner-01.jpg)">
+                            <h1>THÔNG TIN TUYỂN SINH ĐẠI HỌC NĂM 2026</h1>
+                            <a href="https://nxbbachkhoa.vn/ebook-free/12397/0/1" class="btn btn-hover btn-lg" target="_blank">Xem Thêm <i class="fas fa-caret-right"></i></a>
+                        </div>
+                    </div>
+                </section>
+                            <section id="about-us" class="bg-grey">
+            <div class="container">
+                <div class="row wrap">
+                                        <div class="right col-sm-6">
+                        <h2 class="title">Sự kiện</h2>
+                        <div class="timeline_ev">
+                                                        <span class="year">Hôm nay: 07.07.2026</span>
+                            <div class="list-event">
+                                                                                                                                                                </div>
+                        </div>
+                        <div class="view hvr-underline-from-center">
+                            <a href="https://ts.hust.edu.vn/p/su-kien"><i class="fas fa-chevron-right"></i>&nbsp;Xem Thêm</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+                    <section id="bach-khoa">
+                <div class="container">
+                    <div class="people-blog">
+                                                                            <h2 class="title">Người Bách Khoa</h2>
+                            <div class="view hvr-underline-from-center">
+                                <a href="https://ts.hust.edu.vn/b/nguoi-bach-khoa"><i class="fas fa-chevron-right"></i>&nbsp;Xem Thêm</a>
+                            </div>
+                                            </div>
+                                            <div class="row">
+                                                            <div class="item col-sm-4">
+                                    <a href="https://ts.hust.edu.vn/tin-tuc/dam-me-nghien-cuu-khoa-hoc-cua-chang-trai-tay-bac">
+                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/August2023/iUz3OEiR9xwaoMvSoSC2.jpg" alt="Đam mê nghiên cứu khoa học của chàng trai Tây Bắc">
+                                    </a>
+                                    <div class="desc">
+                                        <h3 class="title-h3">
+                                            <a href="https://ts.hust.edu.vn/tin-tuc/dam-me-nghien-cuu-khoa-hoc-cua-chang-trai-tay-bac">Đam mê nghiên cứu khoa học của chàng trai Tây Bắc</a>
+                                        </h3>
+                                        <p>Bố mất từ khi em còn chưa chào đời, mẹ vất vả đi làm xa nhà để nuôi hai chị em ăn học. Trong những tháng ngày tuổi thơ vắng bóng cha và thiếu sự quan tâm chăm sóc của mẹ, có một cậu bé cùng chị gái cứ cặm cụi tự chơi đùa, mày mò, khám phá đồ vật và thế giới xung quanh. Tình yêu khoa học nảy nở tự nhiên như hoa cỏ núi rừng, qua thời gian và được vun xới, nuôi dưỡng tại cái nôi về khoa học, kỹ thuật hàng đầu đất nước, tình yêu ấy bền bỉ và trở thành đam mê vô hạn trong tim chàng trai Tây Bắc Lê Việt Hùng.</p>
+                                    </div>
+                                </div>
+                                                            <div class="item col-sm-4">
+                                    <a href="https://ts.hust.edu.vn/tin-tuc/nam-sinh-bach-khoa-va-sang-che-canh-tay-ky-dieu-giup-nguoi-khuyet-tat">
+                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/September2023/zoVFtQUvntPL4HWmkoST.jpg" alt="Nam sinh Bách khoa và sáng chế cánh tay kỳ diệu giúp người khuyết tật">
+                                    </a>
+                                    <div class="desc">
+                                        <h3 class="title-h3">
+                                            <a href="https://ts.hust.edu.vn/tin-tuc/nam-sinh-bach-khoa-va-sang-che-canh-tay-ky-dieu-giup-nguoi-khuyet-tat">Nam sinh Bách khoa và sáng chế cánh tay kỳ diệu giúp người khuyết tật</a>
+                                        </h3>
+                                        <p>Có anh họ bị tai nạn lao động mất đi một cánh tay phải, Tài cùng nhóm bạn quyết tâm nghiên cứu và ứng dụng công nghệ đọc sóng não để điều khiển cánh tay nhân tạo cho người khuyết tật.</p>
+                                    </div>
+                                </div>
+                                                            <div class="item col-sm-4">
+                                    <a href="https://ts.hust.edu.vn/tin-tuc/2-nha-khoa-hoc-tre-viet-nam-dang-nghien-cuu-ung-dung-kit-thu-nhanh-virus-corona">
+                                                                                <img src="https://ts.hust.edu.vn/storage/app/public/posts/September2023/hTGqpJ3adAhQSI4WZFfv.jpg" alt="2 nhà khoa học trẻ Việt Nam đang nghiên cứu ứng dụng Kit thử nhanh virus Corona">
+                                    </a>
+                                    <div class="desc">
+                                        <h3 class="title-h3">
+                                            <a href="https://ts.hust.edu.vn/tin-tuc/2-nha-khoa-hoc-tre-viet-nam-dang-nghien-cuu-ung-dung-kit-thu-nhanh-virus-corona">2 nhà khoa học trẻ Việt Nam đang nghiên cứu ứng dụng Kit thử nhanh virus Corona</a>
+                                        </h3>
+                                        <p>Tiến sỹ trẻ Lê Quang Hoà (Giảng viên đến từ Trường ĐH Bách Khoa Hà Nội) và Nguyễn Lê Thu Hà  tốt nghiệp từ Cộng hoà Pháp, với công trình nghiên cứu ứng dụng Kit thử nhanh virus Corona.</p>
+                                    </div>
+                                </div>
+                                                    </div>
+                                    </div>
+            </section>
+            <div>
+    </div></div></main>
+    <footer>
+    <section class="about-info">
+        <div class="container f_bg">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6 f-item f-info">
+                    <div class="row list-img">
+                        <a class="col-sm-2 col-xs-4 f-logo"><img src="https://ts.hust.edu.vn/storage/app/public/settings/August2023/jx7Xe6QCwsP6bWJgW0tA.png" alt="Thông tin tuyển sinh Đại học Bách khoa Hà Nội"></a>
+                        <div class="col-sm-10 col-xs-8 right"><h3>Thông tin tuyển sinh</h3>
+<h3>Đại học Bách khoa Hà Nội</h3></div>
+                    </div>
+                    <div class="dec"><ul class="list-info">
+       <li class="address">Ban Tuyển sinh - Hướng Nghiệp, Phòng 101 tòa Nhà C1B, Đại học Bách khoa Hà Nội. Số 1 Đại Cồ Việt, Phường Bạch Mai, Hà Nội</li>
+       <li class="phone">Điện thoại hỗ trợ: (+84) 243.868.3408</li>
+       <li class="email">Email: tuyensinh@hust.edu.vn</li>
+</ul></div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6 f-item f-help">
+                    <div class="fb">
+                        <div class="fb-page fb_iframe_widget" data-href="https://www.facebook.com/tsdhbk" data-tabs="timeline" data-width="1000px" data-height="100px" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;app_id=&amp;container_width=500&amp;height=100&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Ftsdhbk&amp;locale=vi_VN&amp;sdk=joey&amp;show_facepile=true&amp;small_header=true&amp;tabs=timeline&amp;width=1000px"><span style="vertical-align: bottom; width: 500px; height: 102px;"><iframe name="f63207f9d6f058316" height="100px" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v17.0/plugins/page.php?adapt_container_width=true&amp;app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df6f69ad88c4d22234%26domain%3Dts.hust.edu.vn%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fts.hust.edu.vn%252Ffd6fbbc615914dea1%26relation%3Dparent.parent&amp;container_width=500&amp;height=100&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Ftsdhbk&amp;locale=vi_VN&amp;sdk=joey&amp;show_facepile=true&amp;small_header=true&amp;tabs=timeline&amp;width=1000px" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: none; visibility: visible; width: 500px; height: 102px;" class=""></iframe></span></div>
+                    </div>
+                    <ul class="social-list clearfix">
+       <li><a href="https://www.facebook.com/tsdhbk" target="_blank"><i class="fab fa-facebook-f"></i></a><p>Facebook Tuyển sinh ĐH</p></li>
+       <li><a href="https://www.facebook.com/groups/382077352336859" target="_blank"><i class="fab fa-facebook-f"></i></a><p>Facebook Tuyển sinh SĐH</p></li>
+       <li><a href="https://www.facebook.com/groups/k70.2007dhbkhn/" target="_blank"><i class="fab fa-facebook-f"></i></a><p>Group Tân sinh viên</p></li>
+       <li><a href="https://www.tiktok.com/@bachkhoahanoi_hust" target="_blank"><i class="fab fa-tiktok"></i></a><p>Tiktok</p></li>
+       <li><a href="https://www.facebook.com/groups/kythidanhgiatuduy" target="_blank"><i class="fab fa-facebook-f"></i></a><p>Group Kỳ thi TSA</p></li>
+       <li><a href="https://www.youtube.com/channel/UCl17km6Ou3av5LClGz_FWIw" target="_blank"><i class="fab fa-youtube"></i></a><p>Youtube</p></li>
+</ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="copyright"><div class="container"><div class="wrap">Copyright @ Ban Tuyển sinh - Hướng nghiệp, Đại học Bách khoa Hà Nội</div></div></section>
+</footer>
+<div id="quickBar"><div class="container"><ul class="flex-list">
+     <li>
+            <img src="https://ts.hust.edu.vn/storage/app/public/settings/icons/search-document.png" alt="search" target="_blank">
+            <a href="https://ts.hust.edu.vn/tin-tuc/huong-dan-tra-cuu" title="Hướng dẫn tra cứu">Hướng dẫn<span>tra cứu</span></a>
+     </li>
+      <li>
+            <img src="https://ts.hust.edu.vn/storage/app/public/settings/icons/hotline.png" alt="phone">
+            <a href="tel:0243 868 3408">đại học<span>0243 868 3408</span></a>
+      </li>
+      <li>
+            <img src="https://ts.hust.edu.vn/storage/app/public/settings/icons/hotline.png" alt="phone">
+            <a href="tel:0243 868 3408">Sau đại học<span>0243 868 3408</span></a>
+       </li>
+</ul>
+<div style="position: absolute; top: 0; left: -2000px; max-width: 780px;">
+<ul>
+<li><a title="sv388" href="https://shreeji-enterprise.in.net" target="_blank">sv388</a></li>
+<li><a title="ga6789" href="https://tc2000-app.in.net" target="_blank">ga6789</a></li>
+<li><a title="tartanhockey.com" href="https://www.tartanhockey.com/" target="_blank">tartanhockey.com</a></li>
+<li><a title="Tài Xỉu Online AI" href="https://taixiu.com.se/" target="_blank">Tài Xỉu Online AI</a></li>
+<li><a title="Sunwin" href="http://viper.co.com" target="_blank">Sunwin</a></li>
+<li><a title="Go88" href="https://go88vip.jp.net/" target="_blank">Go88</a></li>
+<li><a title="okvip" href="https://kvi.co.com/" target="_blank">okvip</a></li>
+<li><a title="bk8" href="https://avatorfree.it.com/" target="_blank">bk8</a></li>
+<li><a title="tk88" href="https://aviapalyin.it.com/" target="_blank">tk88</a></li>
+<li><a title="ko66" href="https://baron69-max.it.com/" target="_blank">ko66</a></li>
+<li><a title="sv66" href="https://robopragma.it.com/" target="_blank">sv66</a></li>
+<li><a title="woot.eu.com" href="https://woot.eu.com/" target="_blank">woot.eu.com</a></li>
+<li><a title="w88.mov" href="https://w88.mov/" target="_blank">w88.mov</a></li>
+<li><a title="789win" href="https://thedukeofmountdeer.com/" target="_blank">789win</a></li>
+<li><a title="xocdia88.com.co" href="http://xocdia88.com.co/" target="_blank">xocdia88.com.co</a></li>
+<li><a title="ev88.com.de" href="https://ev88.com.de/" target="_blank">ev88.com.de</a></li>
+<li><a title="68gamebai.com.se" href="https://68gamebai.com.se/" target="_blank">68gamebai.com.se</a></li>
+<li><a title="Nohu90" href="https://polycode.co/" target="_blank">Nohu90</a></li>
+<li><a title="KUBET" href="https://kubet.com.vc/" target="_blank">KUBET</a></li>
+<li><a title="mb66.com.de" href="https://mb66.com.de/" target="_blank">mb66.com.de</a></li>
+<li><a title="98win" href="https://98win.nagoya/" target="_blank">98win</a></li>
+<li><a title="m88" href="https://m88.com.vc" target="_blank">m88</a></li>
+<li><a title="B52 Club" href="https://b52.com.de/" target="_blank">B52 Club</a></li>
+<li><a title="hb88" href="https://hb88.com.vc/" target="_blank">hb88</a></li>
+<li><a title="99OK" href="https://99ok.nagoya/" target="_blank">99OK</a></li>
+<li><a title="sunwin" href="https://taisunwin.com.se/" target="_blank">sunwin</a></li>
+<li><a title="https://sv388.deals" href="https://sv388.deals" target="_blank">https://sv388.deals</a></li>
+<li><a title="bk8" href="https://bk88.eu.com/" target="_blank">bk8</a></li>
+</ul>
+</div></div></div>
+
+<!-- Begin Department Modal -->
+<div class="modal fade modal-cs" id="myModal" role="dialog">
+    <button type="button" class="close" data-dismiss="modal">×</button>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="container">
+                <div class="modal-body">
+                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                                                                                    <li class="nav-item" role="presentation">
+                                    <button class="nav-link  active" id="depart1-tab" data-bs-toggle="pill" data-bs-target="#depart1" type="button" role="tab" aria-controls="depart1" aria-selected="true">Các phòng ban
+                                    </button>
+                                </li>
+                                                            <li class="nav-item" role="presentation">
+                                    <button class="nav-link " id="depart2-tab" data-bs-toggle="pill" data-bs-target="#depart2" type="button" role="tab" aria-controls="depart2" aria-selected="false" tabindex="-1">Trường - Khoa
+                                    </button>
+                                </li>
+                                                                            <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="siteMap-tab" data-bs-toggle="pill" data-bs-target="#siteMap" type="button" role="tab" aria-controls="siteMap" aria-selected="false" tabindex="-1">Sơ đồ website
+                            </button>
+                        </li>
+                    </ul>
+                    <div class="tab-content" id="pills-tabContent">
+                         
+                                                            <div class="tab-pane fade in active" id="depart1" role="tabpanel" aria-labelledby="depart1-tab">
+                                                                                                                                                            <div class="ds-collapse" data-offset="0">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild1">Ban Công tác sinh viên</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="http://ctsv.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/ctsv.hust.edu.vn" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Văn phòng: C2-201, C1 - 103, 104, 105</h4>
+                                                                                                                                                                                                    <p>Phone: 024 3869 3108</p>
+                                                                                                                                                                                                    <p>Fax: 024 38693108</p>
+                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage0-0" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage0-0" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/dhDv2DTe569HR1ntUIqG.png" alt="Ban Công tác sinh viên">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="1">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild2">Ban Đào tạo</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://ctt-daotao.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/DTDHBKHN" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Văn phòng C1 -&nbsp;201 - Quản lý điểm và xử lý học tập, Đồ án TN, Xét TN</h4>
+                                                                                                                                                                                                    <p>Phone: (+8424)38682305</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage0-1" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage0-1" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/hdyTSr5qwtfWRR8qkn0a.png" alt="Ban Đào tạo">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="2">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild3">Ban Tuyển sinh - Hướng nghiệp</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://ts.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/tsdhbk" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Ban Tuyển sinh-Hướng nghiệp - Phòng 101, Tòa nhà C1B</h4>
+                                                                                                                                                                                                    <p>Phone: (+84) 243 868 3408 - 084 868 3408</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage0-2" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage0-2" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/5mraDXnRbh1pkOKb2jBz.png" alt="Ban Tuyển sinh - Hướng nghiệp">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="3">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild4">Trung tâm Quản lý ký túc xá</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="http://ktx.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/kytucxabkhn" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Văn phòng: B9 - 101, 102</h4>
+                                                                                                                                                                                                    <p>Phone: 024 38692942</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage0-3" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage0-3" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/GBBSLFP7CyQuIwSQUUdU.png" alt="Trung tâm Quản lý ký túc xá">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                                            </div>
+                                                            <div class="tab-pane fade " id="depart2" role="tabpanel" aria-labelledby="depart2-tab">
+                                                                                                                                                            <div class="ds-collapse" data-offset="0">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild1">Khoa Khoa học và Công nghệ giáo dục</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://fed.hust.edu.vn" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/KhoaKH.CNGD" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Phòng M321, Nhà C7, Đại học Bách khoa Hà Nội</h4>
+                                                                                                                                                                                                    <p>Phone: 0902282489</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage1-0" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage1-0" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/bGE8HLbrDHFVIsZLQole.png" alt="Khoa Khoa học và Công nghệ giáo dục">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="1">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild2">Khoa Ngoại Ngữ</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://sofl.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/sofl.at.hust" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Khoa Ngoại ngữ, Phòng M312, Nhà C7, Đại học Bách khoa Hà Nội, Số 1, Đường Đại Cồ Việt, P. Bạch Mai, Hà Nội</h4>
+                                                                                                                                                                                                    <p>Phone: 081 217 7337</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage1-1" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage1-1" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/lQUTC2ItPt3mEKdrg544.png" alt="Khoa Ngoại Ngữ">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="2">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild3">Khoa Toán - Tin</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://fami.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/FaMIHUST/" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Phòng 101 nhà C9, ĐHBK Hà Nội, Số 01 Đại Cồ Việt - phường Bạch Mai - Hà Nội</h4>
+                                                                                                                                                                                                    <p>Phone: 0243869 2137  &amp; 024 3868 2470</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage1-2" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage1-2" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/wEkQO1mi5DcnRQR14xaa.png" alt="Khoa Toán - Tin">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="3">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild4">Khoa Vật lý Kỹ thuật</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://sep.hust.edu.vn" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/vlkt.bk/" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">P. 116, Nhà C10, ĐH Bách khoa Hà Nội (Số 1, Đại Cồ Việt, Q.Hai Bà Trưng, Hà Nội)</h4>
+                                                                                                                                                                                                    <p>Phone: (+84) 24 3869 3350</p>
+                                                                                                                                                                                                    <p>Fax: 024 3869 3498</p>
+                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage1-3" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage1-3" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/OBz331Ziwx3SNRY1ghKy.png" alt="Khoa Vật lý Kỹ thuật">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="4">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild5">Trường Cơ khí</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://sme.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/TruongCoKhiDHBKHN" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">VP C7-614M, ĐH Bách khoa Hà Nội, số 1 Đại Cồ Việt, Hà Nội</h4>
+                                                                                                                                                                                                    <p>Phone: (+84) 24 38 696 165</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage1-4" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage1-4" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/December2023/8xf38gXfTbMgWnuvUxu7.png" alt="Trường Cơ khí">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="5">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild6">Trường Công nghệ thông tin và Truyền thông</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://soict.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/SoictOfficially/" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Văn phòng Trường CNTT&amp;TT (P505 - Nhà B1)</h4>
+                                                                                                                                                                                                    <p>Phone: 024 3869 2463</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage1-5" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage1-5" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/CK0lm16zDYCtPItW917f.png" alt="Trường Công nghệ thông tin và Truyền thông">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="6">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild7">Trường Điện - Điện tử (SEEE) </a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://seee.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/seee.hust" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Văn phòng: C1 - 320</h4>
+                                                                                                                                                                                                    <p>Phone: 024 3869 6211</p>
+                                                                                                                                                                                                    <p>Fax: 024 3623 1478</p>
+                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage1-6" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage1-6" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/1P3d4HMzjzNIyFybgJMi.png" alt="Trường Điện - Điện tử (SEEE) ">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="7">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild8">Trường Hóa và Khoa học sự sống</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://scls.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/SCLSatHUST" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Phòng 309, Tòa nhà C3, ĐHBK Hà Nội - Số 1, Đại Cồ Việt, Phường Bạch Mai, Hà Nội</h4>
+                                                                                                                                                                                                    <p>Phone: 024 3868 0070</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage1-7" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage1-7" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/rXSej0GKQ4P4cSx1at25.png" alt="Trường Hóa và Khoa học sự sống">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="8">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild9">Trường Kinh tế</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://sem.hust.edu.vn" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/vienKTQL" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">P403-404, Nhà C9, Đại học Bách Khoa Hà Nội; Số 1 Đại Cồ Việt, Q. Hai Bà Trưng, Tp. Hà Nội</h4>
+                                                                                                                                                                                                    <p>Phone: 024 3869 2304 / 3868.0791 / (CT TROY: 093 898 3868)</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                                <li class="active"><a href="" data-toggle="pill" data-target="#MapImage1-8" class="btn-cs">Bản đồ trường</a></li>
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                                <div id="MapImage1-8" class="tab-pane fade in active">
+                                                                                                                                        <img src="https://ts.hust.edu.vn/storage/app/public/departments/October2023/CYBfBaPmVRfVMWvoeMmz.png" alt="Trường Kinh tế">
+                                                                </div>
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="ds-collapse" data-offset="9">
+                                                <a href="javascript:void(0);" class="btn-collapse" data-target="#departChild10">Trường Vật liệu</a>
+                                                <div class="ct-collapse">
+                                                    <div class="row">
+                                                        <div class="col-sm-4 infor">
+                                                            <a href="https://smse.hust.edu.vn/" class="btn btn-default btn-transit" target="_blank">Website<i class="fas fa-angle-right"></i></a>
+                                                                                                                            <a href="https://www.facebook.com/smse.hust" class="btn btn-default btn-transit mt-5" target="_blank">Faecbook<i class="fas fa-angle-right"></i></a>
+                                                             
+                                                            <div class="list-item">
+                                                                                                                                    <h4 class="address">Tầng 7 - nhà D8, Số 1 Đại Cồ Việt, Q.Hai Bà Trưng, Hà Nội</h4>
+                                                                                                                                                                                                    <p>Phone: 086 548 5665</p>
+                                                                                                                                                                                            </div>
+                                                        </div>
+                                                        <div class="col-sm-8 maps">
+                                                            <ul class="nav nav-pills">
+                                                                                                                            </ul>
+                                                            <div class="tab-custom">
+                                                                                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                                            </div>
+                                                                            <div id="siteMap" class="tab-pane fade" role="tabpanel" aria-labelledby="siteMap-tab">
+                            <h4>Incoming...</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Department Modal -->
+<!-- Begin Search Modal -->
+<div class="modal fade modal-cs" id="myModalsearch" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="container">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+                <div class="modal-body">
+                    
+                    <form action="https://ts.hust.edu.vn/p/search" method="get">
+                        <input type="text" name="s" class="form-control" placeholder="Nhập thông tin tìm kiếm">
+                        <button type="submit"><i class="fas fa-search"></i></button>
+                    </form>
+                    <label>Từ khoá nổi bật</label>
+                                            <ul class="list-tags">
+                        <li><a href="/b/xet-tuyen-tai-nang-2023" target="_blank">xét tuyển tài năng 2023</a></li>
+                                <li><a href="/b/ky-thi-danh-gia-tu-duy" target="_blank">Kỳ thi đánh giá tư duy</a></li>
+                                <li><a href="https://tsa.hust.edu.vn/dk" target="_blank">Đăng ký thi thử bài thi tư duy 2023</a></li>
+                                <li><a href="/training-cate/nganh-dao-tao-dai-hoc" target="_blank">Ngành đào tạo đại học</a></li>
+                                <li><a href="/b/sau-dai-hoc" target="_blank">Tuyển sinh Sau đại học</a></li>
+            </ul>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Search Modal -->
+<div id="overlay" style="display: none;"></div><!-- Begin Menu Mobi -->
+<div id="mobi-nav">
+        
+        <div class="main-nav"><ul>
+
+
+
+    
+    <li class="active">
+        <a href="https://ts.hust.edu.vn" target="_self" style="">
+            
+            <span>Home</span>
+        </a>
+            </li>
+
+    
+    <li class="has-sub"><i class="fa fa-angle-down"></i>
+        <a href="https://ts.hust.edu.vn/b/huong-nghiep" target="_self" style="">
+            
+            <span>Hướng nghiệp</span>
+        </a>
+                    <ul>
+
+
+
+    
+    <li class="">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx3VNVqtDBDokm_rpKnTSkE3SMZPaKWKiFLXRslcXtTJsnzw/viewform" target="_blank" style="">
+            
+            <span>Đăng ký trải nghiệm khối THPT</span>
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+    
+    <li class="has-sub"><i class="fa fa-angle-down"></i>
+        <a href="https://ts.hust.edu.vn/p/dai-hoc" target="_self" style="">
+            
+            <span>Tuyển sinh Đại học</span>
+        </a>
+                    <ul>
+
+
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/thong-tin-chung" target="_self" style="">
+            
+            <span>Thông tin chung</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://nxbbachkhoa.vn/ebook-free/12397/0/1" target="_blank" style="">
+            
+            <span>Brochure Thông tin tuyển sinh</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/training-cate/nganh-dao-tao-dai-hoc" target="_self" style="">
+            
+            <span>Chương trình đào tạo đại học</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/xet-tuyen-tai-nang" target="_self" style="">
+            
+            <span>Xét tuyển tài năng</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/ky-thi-danh-gia-tu-duy" target="_self" style="">
+            
+            <span>Kỳ thi đánh giá tư duy</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/tin-tuc/huong-dan-dang-ky-xac-thuc-chung-chi-ngoai-ngu-2026" target="_self" style="">
+            
+            <span>Xác thực chứng chỉ Ngoại ngữ</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/diem-chuan-tuyen-sinh" target="_self" style="">
+            
+            <span>Điểm chuẩn các năm</span>
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+    
+    <li class="has-sub"><i class="fa fa-angle-down"></i>
+        <a href="https://ts.hust.edu.vn/p/sau-dai-hoc" target="_self" style="">
+            
+            <span>Tuyển sinh Sau đại học</span>
+        </a>
+                    <ul>
+
+
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/tuyen-sinh-ky-su-chuyen-sau" target="_self" style="">
+            
+            <span>Tuyển sinh Kỹ sư chuyên sâu</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/tuyen-sinh-cao-hoc" target="_self" style="">
+            
+            <span>Tuyển sinh cao học</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/b/tuyen-sinh-ncs" target="_self" style="">
+            
+            <span>Tuyển sinh nghiên cứu sinh</span>
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/en/program-cate/undergraduate-programs" target="_self" style="">
+            
+            <span>International Admissions</span>
+        </a>
+            </li>
+
+    
+    <li class="has-sub"><i class="fa fa-angle-down"></i>
+        <a href="https://ts.hust.edu.vn/tin-tuc/hoc-phi-dai-hoc-chinh-quy" target="_self" style="">
+            
+            <span>Học phí - Học bổng</span>
+        </a>
+                    <ul>
+
+
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/tin-tuc/hoc-phi-dai-hoc-chinh-quy" target="_self" style="">
+            
+            <span>Học phí</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/tin-tuc/ho-tro-tai-chinh-cho-sinh-vien" target="_self" style="">
+            
+            <span>Học bổng</span>
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+    
+    <li class="has-sub"><i class="fa fa-angle-down"></i>
+        <a href="https://ts.hust.edu.vn/p/lien-he" target="_self" style="">
+            
+            <span>Liên hệ</span>
+        </a>
+                    <ul>
+
+
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/p/lien-he" target="_self" style="">
+            
+            <span>Ban TS-HN</span>
+        </a>
+            </li>
+
+    
+    <li class="">
+        <a href="https://ts.hust.edu.vn/tin-tuc/danh-sach-to-tu-van-chuyen-sau-cac-chuong-trinh-nganh-hoc" target="_self" style="">
+            
+            <span>Đơn vị đào tạo</span>
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+</ul>
+</div>
+    <div class="mobi-profile">
+         
+    </div>
+</div>
+<!-- End Menu Mobi --><!-- Begin Footer Mobi -->
+<ul class="foot-menu">
+    <li class="active"><a href="https://ts.hust.edu.vn"><i class="fas fa-home-lg-alt"></i></a></li>
+    <li class="foot-search"><a href="" data-toggle="modal" data-target="#myModalsearch"><i class="fas fa-search"></i></a></li>
+    <li><a href="https://ts.hust.edu.vn/p/hoi-dap"><i class="fas fa-question-square"></i></a></li>
+    <li><a href="https://ts.hust.edu.vn/p/lien-he"><i class="fas fa-bell"></i></a></li>
+            <li><a href="https://ts.hust.edu.vn/login"><i class="fas fa-user"></i></a></li>
+    </ul>
+<div id="backtotop"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></div>
+<!-- End Footer Mobi -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+<script type="text/javascript" src="https://ts.hust.edu.vn/public/js/responsive.js"></script>
+<script type="text/javascript" src="https://ts.hust.edu.vn/public/js/sliders.js"></script>
+<script type="text/javascript" src="https://ts.hust.edu.vn/public/js/plus.js"></script>
+<script type="text/javascript" src="https://ts.hust.edu.vn/public/js/pluss.js"></script>
+<script type="text/javascript" src="https://ts.hust.edu.vn/public/js/plusp.js"></script>
+<script type="text/javascript" src="https://ts.hust.edu.vn/public/js/validator.js"></script>
+<script type="text/javascript" src="https://ts.hust.edu.vn/public/js/plus2.js"></script>
+<script type="text/javascript" src="https://ts.hust.edu.vn/public/js/profile.js"></script>
+<script type="text/javascript" src="https://ts.hust.edu.vn/public/js/applyRegScholarship.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js" integrity="sha512-VK2zcvntEufaimc+efOYi622VN5ZacdnufnmX7zIhCPmjhKnOi9ZDMtg1/ug5l183f19gG1/cBstPO4D8N/Img==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js" integrity="sha512-TPh2Oxlg1zp+kz3nFA0C5vVC6leG/6mm1z9+mA81MI5eaUVqasPLO8Cuk4gMF4gUfP5etR73rgU/8PNMsSesoQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet">
+<script type="text/javascript" src="https://ts.hust.edu.vn/public/js/main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.10.0/js/bootstrap-datepicker.min.js" integrity="sha512-LsnSViqQyaXpD4mBBdRYeP6sRwJiJveh2ZIbW41EBrNmKxgr/LFZIiWT6yr+nycvhvauz8c2nYMhrP80YhG7Cw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js" integrity="sha512-57oZ/vW8ANMjR/KQ6Be9v/+/h6bq9/l3f0Oc7vn6qMqyhvPd1cvKBRWWpzu0QoneImqr2SkmO4MSqU+RpHom3Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>  </div>
+  <script type="text/javascript" src="https://ts.hust.edu.vn/public/js/master_slide.js"></script>
+
+</body>

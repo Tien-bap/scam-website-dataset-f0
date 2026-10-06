@@ -1,0 +1,157 @@
+{
+  "candidate_id": "live_fc83a976554c8b5e9fe76ddb36469c2974d30e21913f60e9e2a0f2e84f039f31",
+  "candidate_sha256": "acbf696529eb2eae9a95f29a6ded317ba3cd340751309812179abeac04e53bca",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://thainetmedia.com/",
+  "requested_url": "https://thainetmedia.com/",
+  "browser_final_url": "https://thainetmedia.com/",
+  "source_urls": [
+    "http://thainetmedia.com/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 104566,
+      "source_url": "http://thainetmedia.com/",
+      "source_hostname": "thainetmedia.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://thainetmedia.com/",
+      "final_hostname": "thainetmedia.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4317,
+      "checked_at": "2026-10-05T13:17:45.197657+00:00",
+      "error": null,
+      "normalized_source_url": "http://thainetmedia.com/",
+      "normalized_final_url": "https://thainetmedia.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_fc83a976554c8b5e9fe76ddb36469c2974d30e21913f60e9e2a0f2e84f039f31",
+    "representative_source_index": 104566,
+    "representative_source_url": "http://thainetmedia.com/",
+    "representative_final_url": "https://thainetmedia.com/",
+    "normalized_final_url": "https://thainetmedia.com/",
+    "source_hostname": "thainetmedia.com",
+    "final_hostname": "thainetmedia.com",
+    "source_urls": [
+      "http://thainetmedia.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 104566,
+        "source_url": "http://thainetmedia.com/",
+        "source_hostname": "thainetmedia.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://thainetmedia.com/",
+        "final_hostname": "thainetmedia.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4317,
+        "checked_at": "2026-10-05T13:17:45.197657+00:00",
+        "error": null,
+        "normalized_source_url": "http://thainetmedia.com/",
+        "normalized_final_url": "https://thainetmedia.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "thainetmedia.com – ทีมงานมืออาชีพ ที่ได้รับการยอมรับจากแบรนด์ชั้นนำ",
+  "capture_timestamp": "2026-10-05T16:55:59.458401+00:00",
+  "dom_chars": 314975,
+  "screenshot_bytes": 320951,
+  "dom_sha256": "6ac03c8f7cab963bdc22ffdeba0e58c8c29ccb77cb40368969f407b22fb641c8",
+  "screenshot_sha256": "d768d322206aaa90369ea1532b3963277bcc60ee451b28175846dcf9f1e5c4e7",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://thainetmedia.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://thainetmedia.com/",
+    "browser_final_url": "https://thainetmedia.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 12561,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T15:01:21.019287+00:00",
+    "previous_report_sha256": "ef29a4e5c4a3793d720edbd6313a52f46cfd083e18c51c8671528e49ea84ea25",
+    "recovered_at": "2026-10-05T16:55:59.458401+00:00",
+    "result": "complete"
+  }
+}

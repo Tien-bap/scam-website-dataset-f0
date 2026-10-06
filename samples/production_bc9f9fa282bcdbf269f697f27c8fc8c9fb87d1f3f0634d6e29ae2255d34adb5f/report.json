@@ -1,0 +1,27 @@
+{
+  "original_url": "http://prairiebcc.com/wp-content/wet/ali/login.php/",
+  "hostname": "prairiebcc.com",
+  "checked_at": "2026-10-04T15:52:06.197948+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e062-3397-75ef-b6b1-5c5be80781b0",
+  "match_kind": "same_hostname_similar_path",
+  "capture_timestamp": "2026-09-27T01:02:18.582Z",
+  "scan_original_url": "http://prairiebcc.com/wp-content/wet/ali/login.php",
+  "final_url": "https://prairiebcc.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 6841,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.278,
+  "discovery": {
+    "batch_id": "be6cf7c4c50880ae1334690f8a5e7ac7e8527f4c470b637747820cd245db9c3f",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

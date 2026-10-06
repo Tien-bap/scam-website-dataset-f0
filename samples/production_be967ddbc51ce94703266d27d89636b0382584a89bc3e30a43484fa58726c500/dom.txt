@@ -1,0 +1,1979 @@
+<head><meta charset="utf-8">
+
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+
+    a {
+      text-transform: capitalize;
+    }
+
+    .test {
+      text-transform: capitalize;
+    }
+
+    nav .navbar .links li:hover .htmlCss-sub-menu,
+    nav .navbar .links li:hover .js-sub-menu {
+      display: block;
+    }
+
+    .navbar .links li .sub-menu li {
+      padding: 0 22px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .navbar .links li .sub-menu a {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+    }
+
+    .navbar .links li .sub-menu .more-arrow {
+      line-height: 40px;
+    }
+
+    .navbar .links li .htmlCss-more-sub-menu {
+      /* line-height: 40px; */
+    }
+
+    .navbar .links li .sub-menu .more-sub-menu {
+      position: absolute;
+      top: 0;
+      left: 100%;
+      border-radius: 0 4px 4px 4px;
+      z-index: 1;
+      display: none;
+    }
+
+    .links li .sub-menu .more:hover .more-sub-menu {
+      display: block;
+    }
+
+    .hover-data : hover {
+      color: #ffc600;
+    }
+  </style>
+
+  <!--====== Required meta tags ======-->
+  
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!--====== Title ======-->
+  <title>Arihant School of Pharmacy &amp; Bio-Research Institute</title>
+
+  <!--====== Favicon Icon ======-->
+  <link rel="shortcut icon" href="images/fevicon.png" type="image/png">
+
+  <!--====== Slick css ======-->
+  <link rel="stylesheet" href="css/slick.css">
+
+  <!--====== Animate css ======-->
+  <link rel="stylesheet" href="css/animate.css">
+
+  <!--====== Nice Select css ======-->
+  <link rel="stylesheet" href="css/nice-select.css">
+
+  <!--====== Nice Number css ======-->
+  <link rel="stylesheet" href="css/jquery.nice-number.min.css">
+
+  <!--====== Magnific Popup css ======-->
+  <link rel="stylesheet" href="css/magnific-popup.css">
+
+  <!--====== Bootstrap css ======-->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+
+  <!--====== Fontawesome css ======-->
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+
+  <!--====== Default css ======-->
+  <link rel="stylesheet" href="css/default.css">
+
+  <!--====== Style css ======-->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!--====== Responsive css ======-->
+  <link rel="stylesheet" href="css/responsive.css">
+
+
+
+<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/66/3d/intl/de_ALL/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/66/3d/intl/de_ALL/util.js"></script></head><body class="modal-open">
+
+  <!--====== PRELOADER PART START ======-->
+
+
+  <div class="preloader" style="display: none;">
+    <div class="loader rubix-cube">
+      <div class="layer layer-1"></div>
+      <div class="layer layer-2"></div>
+      <div class="layer layer-3 color-1"></div>
+      <div class="layer layer-4"></div>
+      <div class="layer layer-5"></div>
+      <div class="layer layer-6"></div>
+      <div class="layer layer-7"></div>
+      <div class="layer layer-8"></div>
+    </div>
+  </div>
+
+  
+ 
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arihant School of Pharmacy &amp; Bio-Research Institute</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Navbar Styles */
+        .navbar {
+            background: white;
+            padding: 10px 0;
+        }
+
+        .navbar .navbar-nav .nav-item a {
+            color: black !important;
+            font-size: 16px;
+            padding: 10px 15px;
+            text-decoration: none;
+            display: block;
+        }
+
+        .navbar .navbar-nav .nav-item:hover > a {
+            color: blue !important;
+        }
+
+        /* Submenu (Second-Level) */
+        .navbar .navbar-nav .nav-item .sub-menu {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background: white;
+            min-width: 200px;
+            display: none;
+            list-style: none;
+            padding: 0;
+            border-radius: 5px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
+        }
+
+        .navbar .navbar-nav .nav-item:hover > .sub-menu {
+            display: block;
+        }
+
+        .navbar .navbar-nav .nav-item .sub-menu li {
+            position: relative;
+        }
+
+        .navbar .navbar-nav .nav-item .sub-menu li a {
+          
+            color: black !important;
+            text-transform: capitalize;
+            display: block;
+            background: white;
+            transition: all 0.3s ease-in-out;
+            
+        }
+
+        .navbar .navbar-nav .nav-item .sub-menu li:hover > a {
+            color: blue !important;
+            background: white;
+        }
+
+        /* Third-Level Menu */
+        .navbar .navbar-nav .nav-item .sub-menu .third-level-menu {
+            position: absolute;
+            top: 0;
+            left: 100%;
+            background: white;
+            min-width: 200px;
+            display: none;
+            list-style: none;
+            padding: 0;
+            border-radius: 5px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            z-index: 1100;
+        }
+
+        .navbar .navbar-nav .nav-item .sub-menu li:hover .third-level-menu {
+            display: block;
+        }
+
+        /* Mobile Responsive Styles */
+        @media (max-width: 991px) {
+            .navbar .navbar-nav {
+                width: 100%;
+                text-align: left;
+            }
+
+            .navbar .navbar-nav .nav-item {
+                width: 100%;
+            }
+
+            .navbar .navbar-nav .nav-item .sub-menu {
+                position: relative;
+                width: 100%;
+                display: none; /* Hide by default */
+                box-shadow: none;
+            }
+
+            .navbar .navbar-nav .nav-item .sub-menu .third-level-menu {
+                position: relative;
+                left: 0;
+                width: 100%;
+                display: none;
+                box-shadow: none;
+            }
+
+            .navbar .navbar-nav .nav-item .sub-menu.show {
+                display: block; /* Show when toggled */
+            }
+
+            .navbar .navbar-nav .nav-item .sub-menu .third-level-menu.show {
+                display: block;
+            }
+        }
+    </style>
+
+
+
+
+<header id="header-part">
+    <div class="header-top d-none d-lg-block">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-xl-12">
+            <div class="header-contact">
+              <ul>
+                <li><i class="fa fa-envelope"></i><a href="mailto:arihantpharmacy@gmail.com" style="color:#fff; font-size:15px;   text-transform: lowercase;">arihantpharmacy@gmail.com</a></li>
+                <li><i class="fa fa-phone"></i><span><a href="tel:9825629813" style="color:#fff; font-size:15px">+91
+            9825629813 , 9909820904</a></span></li>
+              </ul>
+            </div> <!-- header contact -->
+          </div>
+         
+        </div> <!-- row -->
+      </div> <!-- container -->
+    </div> 
+    <div class="navigation">
+        <div class="container col-md-12 col-xl-12">
+            <nav class="navbar navbar-expand-lg navbar-light col-md-12 col-xl-12 pl-5">
+                <a class="navbar-brand" href="index.php">
+                    <img src="images/Arihant-logo2.png" alt="Logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+
+                        <!-- First-Level Menu -->
+                        
+                        
+                         <li class="nav-item">
+                            <a href="" style="font-size:13px;">Home</a>
+                        </li>
+                        
+                        <li class="nav-item">
+                            <a href="#" style="font-size:13px;">About Us</a>
+                            <ul class="sub-menu">
+                                <li><a href="https://arihantpharmacy.com/about.php" style="font-size:13px;">About Us</a></li>
+                                <li><a href="https://arihantpharmacy.com/about.php#about-trust" style="font-size:13px;">About Trust</a></li>
+                                <li><a href="https://arihantpharmacy.com/about.php#about-institute" style="font-size:13px;">About Institute</a></li>
+                                <li><a href="https://arihantpharmacy.com/peos-pos.php" style="font-size:13px;">PEOs &amp; POs</a></li>
+                                <li><a href="assets/PCI approval Letter 2024-25.pdf" style="font-size:13px;">Approval Letters</a></li>
+                                <li><a href="assets/Final Arihant  HR policy for website 1-9-22 (1).pdf" style="font-size:13px;">HR Policy</a></li>
+                                <li><a href="assets/arihant NISP Policy.pdf" style="font-size:13px;">National Innovation, Incubation and Startup Policy</a></li>
+                                <li><a href="assets/Arihant- Institutional Heirarchy for website (1).pdf" style="font-size:13px;">Institutional Heirarchy</a></li>
+                               
+                                <li>
+                                    <a href="#" class="toggle-submenu" style="font-size:13px;">NIRF</a>
+                                    <ul class="third-level-menu">
+                                        <li><a href="assets/nirf/nirf-faculty-1.pdf" style="font-size:13px;">Faculty Details</a></li>
+                                        <li><a href="assets/nirf/aspbri.pdf" style="font-size:13px;">ASPBRI</a></li>
+                                          
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#" class="toggle-submenu" style="font-size:13px;">Messages</a>
+                                    <ul class="third-level-menu"> 
+                                        <li><a href="https://arihantpharmacy.com/shri-rishabh-jain.php" style="font-size:13px;">President</a></li>
+                                        <li><a href="https://arihantpharmacy.com/vice-president.php" style="font-size:13px;">Vice-President</a></li>
+                                        <li><a href="https://arihantpharmacy.com/dr-Vinay-Darji.php" style="font-size:13px;">Principal</a></li>
+                                       
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item">
+                            <a href="#" style="font-size:13px;">Academics</a>
+                            <ul class="sub-menu">
+                                <li><a href="https://arihantpharmacy.com/assets/Academic Calender Odd Sem_2022-2023.pdf" style="font-size:13px;">Academic Calendar</a></li>
+                                <li><a href="https://arihantpharmacy.com/committee.php" style="font-size:13px;"> Committee</a></li>
+                                <li><a href="https://arihantpharmacy.com/course-outcomes.php" style="font-size:13px;">Course outcomes</a></li>
+                                <li><a href="https://arihantpharmacy.com/teachers.php" style="font-size:13px;">Faculty profile</a></li>
+                                <li><a href="https://arihantpharmacy.com/newsletter.php" style="font-size:13px;">Newsletter</a></li>
+                                <li>
+                                    <a href="#" class="toggle-submenu" style="font-size:13px;">Learning resourses</a>
+                                    <ul class="third-level-menu">
+                                        <li><a href="https://atalacademy.aicte-india.org" style="font-size:13px;">AICTE</a></li>
+                                        <li><a href="https://swayam.gov.in" style="font-size:13px;">SWAYAM</a></li>
+                                        <li><a href="https://www.mooc.org" style="font-size:13px;">MOOC</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item">
+                            <a href="https://arihantpharmacy.com/facilities.php" style="font-size:13px;">Facilities</a>
+                        </li>
+                         <li class="nav-item">
+                            <a href="#" style="font-size:13px;">Training &amp; Placement</a>
+                            <ul class="sub-menu">
+                                        <li><a href="https://arihantpharmacy.com/about-training-placement.php" style="font-size:13px;">About
+                          T &amp; P</a></li>
+                                        <li><a href="https://arihantpharmacy.com/our-recruiters.php" style="font-size:13px;">Our
+                          recruiters</a></li>
+                                        <li><a href="https://arihantpharmacy.com/placement-records.php" style="font-size:13px;">Placement Records</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                    <a href="https://arihantpharmacy.com/about-training-placement.php" style="text-transform:capitalize;font-size:13px;">R &amp; D</a>
+
+
+                    <ul class="sub-menu">
+
+                      <li><a href="https://arihantpharmacy.com/about-research.php" style="text-transform:capitalize;font-size:13px;">About the Research</a></li>
+                      <li><a href="https://arihantpharmacy.com/motivational-research.php" style="text-transform:capitalize;font-size:13px;">Motivation in Research
+                          </a></li>
+                      <li><a href="https://arihantpharmacy.com/research-ethics.php" style="text-transform:capitalize;font-size:13px;">Research Ethics</a></li>
+                      <li><a href="https://arihantpharmacy.com/patent-and-grant-received.php" style="text-transform:capitalize;font-size:13px;">Patent &amp; Grant received</a></li>
+                      <li><a href="https://arihantpharmacy.com/mou-and-paper-publications.php" style="text-transform:capitalize;font-size:13px;">MOU &amp; Paper Publication</a></li>
+                      <li><a href="https://arihantpharmacy.com/book-publication.php" style="text-transform:capitalize;font-size:13px;">Book Publication &amp; Research Projects</a></li>
+
+
+                    </ul>
+                  </li>
+                  
+                     <li class="nav-item">
+                    <a href="https://arihantpharmacy.com/about-training-placement.php" style="text-transform:capitalize;font-size:13px;">IQAC</a>
+
+
+                    <ul class="sub-menu">
+
+                      <li><a href="https://arihantpharmacy.com/about-iqac.php" style="text-transform:capitalize;font-size:13px;">About the IQAC</a></li>
+                      <li><a href="https://arihantpharmacy.com/iqac.php" style="text-transform:capitalize;font-size:13px;">IQAC Records
+                          </a></li>
+                     
+
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a href="#" style="text-transform:capitalize;font-size:13px;">ALUMNI</a>
+
+
+                    <ul class="sub-menu">
+
+                      <li><a href="https://arihantpharmacy.com/about-alumni.php" style="text-transform:capitalize;font-size:13px;">About ASPAS
+                          </a></li>
+                      <li><a href="/assets/alumni/ASPAS Membership Form.pdf" style="text-transform:capitalize;font-size:13px;">ASPAS membership form
+                          </a></li>
+                      <li><a href="https://arihantpharmacy.com/alumni-events.php" style="text-transform:capitalize;font-size:13px;">Events and Updates
+                         </a></li>
+                      
+
+
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a href="#" style="text-transform:capitalize; font-size:13px;">STUDENTS CELL</a>
+                    <ul class="sub-menu">
+
+                      <li><a href="circular.php" style="text-transform:capitalize; font-size:13px;">Circular
+                          </a></li>
+                      <!--<li><a href="https://arihantpharmacy.com/students-club.php" style="text-transform:capitalize;">Management Quota Admission-->
+                      <!--    </a></li>-->
+                      <li><a href="https://arihantpharmacy.com/students-club.php" style="text-transform:capitalize;font-size:13px;">Students Club
+                          </a></li>
+                      <li><a href="https://arihantpharmacy.com/nss.php" style="text-transform:capitalize;font-size:13px;">NSS
+                          Activities</a></li>
+                      <li><a href="https://arihantpharmacy.com/extra-curricular.php" style="text-transform:capitalize;font-size:13px;">Extra
+                          curricular activities</a></li>
+                      <li><a href="https://arihantpharmacy.com/co-curricular.php" style="text-transform:capitalize;font-size:13px;">CO curricular activities</a></li>
+                    </ul>
+                  </li>
+                    <li class="nav-item">
+                            <a href="contact-us.php" style="font-size:13px;">Contact Us</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<!-- JS Scripts -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        // Toggle submenu on click in mobile view
+        $(".nav-item > a").click(function (e) {
+            if ($(window).width() <= 991) {
+                e.preventDefault();
+                $(this).siblings(".sub-menu").toggleClass("show");
+            }
+        });
+
+        // Toggle third-level menu
+        $(".toggle-submenu").click(function (e) {
+            if ($(window).width() <= 991) {
+                e.preventDefault();
+                $(this).siblings(".third-level-menu").toggleClass("show");
+            }
+        });
+
+        // Close menus when clicking outside
+        $(document).click(function (e) {
+            if (!$(e.target).closest(".nav-item").length) {
+                $(".sub-menu, .third-level-menu").removeClass("show");
+            }
+        });
+    });
+</script>
+
+
+
+ 
+ 
+   <div id="myModal" class="modal fade show" style="display: block;">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                </div>
+
+                <img id="myImg" src="images/admision-2026-27.jpeg" alt="Snow" style="margin:0 auto;">
+
+                <div class="modal-body">
+                    <h3 style="font-size:25px ;text-align:center;" target="_blank">Admission Open 2026-27 Apply Now</h3>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+  <!--====== SLIDER PART START ======-->
+
+  <section id="slider-part" class="slider-active  slick-initialized slick-slider"><span class="prev slick-arrow" style="display: block;"><i class="fa fa-angle-left"></i></span>
+    <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 6400px;"><div class="single-slider bg_cover pt-150 slick-slide slick-current slick-active" style="background-image: url(&quot;images/slider/Slider-2.jpg&quot;); width: 1600px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" data-overlay="4" data-slick-index="0" aria-hidden="false" tabindex="0">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-7 col-lg-9">
+            <div class="slider-cont">
+              <h1 data-animation="fadeInLeft" data-delay="1s" class="" style="animation-delay: 1s;">Choose the right place for education</h1>
+              <!-- <p data-animation="fadeInUp" data-delay="1.3s">Donec vitae sapien ut libearo venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt  Sed fringilla mauri amet nibh.</p> -->
+              <ul>
+                <li><a data-animation="fadeInUp" data-delay="1.6s" class="main-btn" href="#about-part" tabindex="0" style="animation-delay: 1.6s;">Read More</a>
+                </li>
+                <li><a data-animation="fadeInUp" data-delay="1.9s" class="main-btn" href="#course-part" tabindex="0" style="animation-delay: 1.9s;">Get Started</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div> <!-- row -->
+      </div> <!-- container -->
+    </div><div class="single-slider bg_cover pt-150 slick-slide" style="background-image: url(&quot;images/slider/Slider-5.jpg&quot;); width: 1600px; position: relative; left: -1600px; top: 0px; z-index: 998; opacity: 0;" data-overlay="4" data-slick-index="1" aria-hidden="true" tabindex="-1">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-7 col-lg-9">
+            <div class="slider-cont">
+              <h1 data-animation="fadeInLeft" data-delay="1s">Choose the right place for education</h1>
+              <!-- <p data-animation="fadeInUp" data-delay="1.3s">Donec vitae sapien ut libearo venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt  Sed fringilla mauri amet nibh.</p> -->
+              <ul>
+                <li><a data-animation="fadeInUp" data-delay="1.6s" class="main-btn" href="#about-part" tabindex="-1">Read More</a>
+                </li>
+                <li><a data-animation="fadeInUp" data-delay="1.9s" class="main-btn" href="#course-part" tabindex="-1">Get Started</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div> <!-- row -->
+      </div> <!-- container -->
+    </div><div class="single-slider bg_cover pt-150 slick-slide" style="background-image: url(&quot;images/slider/Slider-4.jpg&quot;); width: 1600px; position: relative; left: -3200px; top: 0px; z-index: 998; opacity: 0;" data-overlay="4" data-slick-index="2" aria-hidden="true" tabindex="-1">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-7 col-lg-9">
+            <div class="slider-cont">
+              <h1 data-animation="fadeInLeft" data-delay="1s">Choose the right place for education</h1>
+              <!-- <p data-animation="fadeInUp" data-delay="1.3s">Donec vitae sapien ut libearo venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt  Sed fringilla mauri amet nibh.</p> -->
+              <ul>
+                <li><a data-animation="fadeInUp" data-delay="1.6s" class="main-btn" href="#about-part" tabindex="-1">Read More</a>
+                </li>
+                <li><a data-animation="fadeInUp" data-delay="1.9s" class="main-btn" href="#course-part" tabindex="-1">Get Started</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div> <!-- row -->
+      </div> <!-- container -->
+    </div><div class="single-slider bg_cover pt-150 slick-slide" style="background-image: url(&quot;images/slider/Slider-6.jpg&quot;); width: 1600px; position: relative; left: -4800px; top: 0px; z-index: 998; opacity: 0;" data-overlay="4" data-slick-index="3" aria-hidden="true" tabindex="-1">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-7 col-lg-9">
+            <div class="slider-cont">
+              <h1 data-animation="fadeInLeft" data-delay="1s">Choose the right place for education</h1>
+              <!-- <p data-animation="fadeInUp" data-delay="1.3s">Donec vitae sapien ut libearo venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt  Sed fringilla mauri amet nibh.</p> -->
+              <ul>
+                <li><a data-animation="fadeInUp" data-delay="1.6s" class="main-btn" href="#about-part" tabindex="-1">Read More</a>
+                </li>
+                <li><a data-animation="fadeInUp" data-delay="1.9s" class="main-btn" href="#course-part" tabindex="-1">Get Started</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div> <!-- row -->
+      </div> <!-- container -->
+    </div></div></div> <!-- single slider -->
+
+     <!-- single slider -->
+     <!-- single slider -->
+     <!-- single slider -->
+  <span class="next slick-arrow" style="display: block;"><i class="fa fa-angle-right"></i></span></section>
+
+  <!--====== SLIDER PART ENDS ======-->
+
+  <!--====== CATEGORY PART START ======-->
+
+  <section id="category-part">
+    <div class="container">
+      <div class="category pt-20 pb-40">
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="category-text pt-40">
+              <h2>Best platform to learn everything</h2>
+            </div>
+          </div>
+          <div class="col-lg-6 offset-lg-1 col-md-8 offset-md-2 col-sm-8 offset-sm-2 col-8 offset-2">
+            <div class="row category-slide mt-40 slick-initialized slick-slider"><span class="prev slick-arrow slick-disabled" aria-disabled="true" style="display: block;"><i class="fa fa-angle-left"></i></span>
+              <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 760px; transform: translate3d(0px, 0px, 0px);"><div class="col-lg-6 slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 190px;" tabindex="0">
+                <a href="#" tabindex="0">
+                  <span class="single-category text-center color-1">
+                    <span class="icon">
+                      <img src="images/all-icon/university1.png" alt="Icon">
+                    </span>
+                    <span class="cont">
+                      <span>Great Campus</span>
+                    </span>
+                  </span> <!-- single category -->
+                </a>
+              </div><div class="col-lg-4 slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 190px;" tabindex="0">
+                <a href="#" tabindex="0">
+                  <span class="single-category text-center color-2">
+                    <span class="icon">
+                      <img src="images/all-icon/education1.png" alt="Icon">
+                    </span>
+                    <span class="cont">
+                      <span>Expert - Faculty</span>
+                    </span>
+                  </span> <!-- single category -->
+                </a>
+              </div><div class="col-lg-4 slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 190px;" tabindex="0">
+                <a href="#" tabindex="0">
+                  <span class="single-category text-center color-3">
+                    <span class="icon">
+                      <img src="images/all-icon/webinar1.png" alt="Icon">
+                    </span>
+                    <span class="cont">
+                      <span>Online - Learning</span>
+                    </span>
+                  </span> <!-- single category -->
+                </a>
+              </div><div class="col-lg-4 slick-slide" data-slick-index="3" aria-hidden="true" style="width: 190px;" tabindex="-1">
+                <a href="#" tabindex="-1">
+                  <span class="single-category text-center color-1">
+                    <span class="icon">
+                      <img src="images/all-icon/mortarboard1.png" alt="Icon">
+                    </span>
+                    <span class="cont">
+                      <span>Scholarship</span>
+                    </span>
+                  </span> <!-- single category -->
+                </a>
+              </div></div></div>
+              
+              
+              
+              <!-- <div class="col-lg-4">
+                                <a href="#">
+                                    <span class="single-category text-center color-2">
+                                        <span class="icon">
+                                            <img src="images/all-icon/ctg-2.png" alt="Icon">
+                                        </span>
+                                        <span class="cont">
+                                            <span>Business</span>
+                                        </span>
+                                    </span> <!-- single category -->
+              <!-- </a>
+                            </div> -->
+              <!-- <div class="col-lg-4">
+                                <a href="#">
+                                    <span class="single-category text-center color-3">
+                                        <span class="icon">
+                                            <img src="images/all-icon/ctg-3.png" alt="Icon">
+                                        </span>
+                                        <span class="cont">
+                                            <span>Literature</span>
+                                        </span>
+                                    </span> <!-- single category -->
+              <!-- </a>
+                            </div> --> --&gt; --&gt;
+            <span class="next slick-arrow" style="display: block;" aria-disabled="false"><i class="fa fa-angle-right"></i></span></div> <!-- category slide -->
+          </div>
+        </div> <!-- row -->
+      </div> <!-- category -->
+    </div> <!-- container -->
+  </section>
+
+  <!--====== CATEGORY PART ENDS ======-->
+
+  <!--====== ABOUT PART START ======-->
+  <section id="about-part" class="about-tow pt-65">
+    <div class="about-shape">
+      <img src="images/about/shape.png" alt="">
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-5">
+          <div class="section-title mt-50">
+            <h5>About us</h5>
+            <h2>Welcome to Arihant Pharma </h2>
+          </div> <!-- section title -->
+          <div class="about-cont">
+            <p>Arihant School of Pharmacy &amp; Bio-Research Institute is one of the growing degree pharmacy colleges
+              managed by Arihant Seva Samiti established on 2005. The college is running B. Pharm course with the intake
+              of 100 students and M. Pharm courses in Pharmaceutics, Pharmaceutical Quality Assurance with intake of 15
+              in each and pharmacology with 3 seats and Phamacognosy with 9 seats intake &amp; D.Pharm Course with the
+              intake of 60 Seats.
+
+              In Arihant campus, India??s first and unique, Collaborative R &amp; D centre of EMCURE PHARMACEUTICALS PVT. LTD
+              was established, where UG, PG and Ph.D. students of the institute get the opportunity of training
+              with/without stipend. In this campus we have come up with the unique concept of startup Idea lab and skill
+              development centre, which could be helpful to develop entrepreneurial skill by converting their ideas to
+              implementation and concepts to commercialization. </p>
+          </div> <!-- about cont -->
+        </div>
+        <div class="col-lg-6 offset-lg-1 col-11 offset-1">
+          <div class="about-image-tow mt-55">
+            <img src="images/about/Welcome-to-Arihant-Pharma (1).jpg" alt="about">
+            <div class="about-shape-tow">
+              <img src="images/about/shape-2.png" alt="shape">
+            </div>
+            <div class="about-shape-three">
+              <img src="images/about/shape-3.png" alt="shape">
+            </div>
+          </div> <!-- about image tow -->
+        </div>
+      </div> <!-- row -->
+    </div> <!-- container -->
+  </section>
+
+  <!--====== ABOUT PART ENDS ======-->
+
+  <!--====== APPLY PART START ======-->
+
+  <!--====== APPLY PART ENDS ======-->
+
+  <!--====== COURSE PART START ======-->
+
+  <section id="course-part" class="pt-115 pb-120 gray-bg">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="section-title pb-45">
+            <h5>Our course</h5>
+            <h2>Featured courses </h2>
+          </div> <!-- section title -->
+        </div>
+      </div> <!-- row -->
+      <div class="row course-slide mt-30 slick-initialized slick-slider"><span class="prev slick-arrow" style="display: block;"><i class="fa fa-angle-left"></i></span>
+        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4180px; transform: translate3d(-1520px, 0px, 0px);"><div class="col-lg-3 slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" style="width: 380px;" tabindex="-1">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/b.pharm.php" tabindex="-1"> <img src="images/course/Bachelor-of-Pharmacy.jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/b.pharm.php" tabindex="-1">
+                <h4>Bachelor of Pharmacy </h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!-- <!-- </div> -->
+            </div>
+          </div> <!-- single course -->
+        </div><div class="col-lg-3 slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" style="width: 380px;" tabindex="-1">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="-1"> <img src="images/pharmd (2).jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="-1">
+                <h4>Doctor of Pharmacy</h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!--</div> -->
+            </div>
+          </div> <!-- single course -->
+        </div><div class="col-lg-3 slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 380px;" tabindex="-1">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="-1"> <img src="images/course/Doctor-of-Pharmacy.jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="-1">
+                <h4>Diploma of Pharmacy</h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!--</div> -->
+            </div>
+          </div> <!-- single course -->
+        </div><div class="col-lg-3 slick-slide" data-slick-index="0" aria-hidden="true" style="width: 380px;" tabindex="-1">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/m.pharm.php" tabindex="-1"> <img src="images/course/Master-of-pharmacy.jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/m.pharm.php" tabindex="-1">
+                <h4>Master of pharmacy</h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!-- <!-- </div> -->
+            </div>
+          </div> <!-- single course -->
+        </div><div class="col-lg-3 slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 380px;" tabindex="0">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/b.pharm.php" tabindex="0"> <img src="images/course/Bachelor-of-Pharmacy.jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/b.pharm.php" tabindex="0">
+                <h4>Bachelor of Pharmacy </h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!-- <!-- </div> -->
+            </div>
+          </div> <!-- single course -->
+        </div><div class="col-lg-3 slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 380px;" tabindex="0">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="0"> <img src="images/pharmd (2).jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="0">
+                <h4>Doctor of Pharmacy</h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!--</div> -->
+            </div>
+          </div> <!-- single course -->
+        </div><div class="col-lg-3 slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 380px;" tabindex="0">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="0"> <img src="images/course/Doctor-of-Pharmacy.jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="0">
+                <h4>Diploma of Pharmacy</h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!--</div> -->
+            </div>
+          </div> <!-- single course -->
+        </div><div class="col-lg-3 slick-slide slick-cloned" data-slick-index="4" aria-hidden="true" style="width: 380px;" tabindex="-1">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/m.pharm.php" tabindex="-1"> <img src="images/course/Master-of-pharmacy.jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/m.pharm.php" tabindex="-1">
+                <h4>Master of pharmacy</h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!-- <!-- </div> -->
+            </div>
+          </div> <!-- single course -->
+        </div><div class="col-lg-3 slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" style="width: 380px;" tabindex="-1">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/b.pharm.php" tabindex="-1"> <img src="images/course/Bachelor-of-Pharmacy.jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/b.pharm.php" tabindex="-1">
+                <h4>Bachelor of Pharmacy </h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!-- <!-- </div> -->
+            </div>
+          </div> <!-- single course -->
+        </div><div class="col-lg-3 slick-slide slick-cloned" data-slick-index="6" aria-hidden="true" style="width: 380px;" tabindex="-1">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="-1"> <img src="images/pharmd (2).jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="-1">
+                <h4>Doctor of Pharmacy</h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!--</div> -->
+            </div>
+          </div> <!-- single course -->
+        </div><div class="col-lg-3 slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" style="width: 380px;" tabindex="-1">
+          <div class="single-course">
+            <div class="thum">
+              <div class="image">
+                <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="-1"> <img src="images/course/Doctor-of-Pharmacy.jpg" alt="Course"></a>
+              </div>
+              <!-- <div class="price">
+                                <span>Free</span>
+                            </div> -->
+            </div>
+            <div class="cont">
+              <ul>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star"></i></li>
+              </ul>
+              <!-- <span>(20 Reviews)</span> -->
+              <a href="https://arihantpharmacy.com/d.pharm.php" tabindex="-1">
+                <h4>Diploma of Pharmacy</h4>
+              </a>
+              <!-- <div class="course-teacher"> -->
+              <!-- <div class="thum">
+                                    <a href="#"><img src="images/course/teacher/t-1.jpg" alt="teacher"></a>
+                                </div> -->
+              <!-- <div class="name">
+                                    <a href="#"><h6>Mark anthem</h6></a>
+                                </div>
+                                <div class="admin">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
+                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                    </ul>
+                                </div> -->
+              <!--</div> -->
+            </div>
+          </div> <!-- single course -->
+        </div></div></div>
+        
+        
+        
+        
+        
+
+      <span class="next slick-arrow" style="display: block;"><i class="fa fa-angle-right"></i></span></div> <!-- course slide -->
+    </div> <!-- container -->
+  </section>
+
+  <!--====== COURSE PART ENDS ======-->
+
+  <!--====== VIDEO FEATURE PART START ======-->
+
+  <section id="video-feature" class="bg_cover pt-60 pb-110" style="background-image: url(images/bg-1.jpg)">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 order-last order-lg-first">
+          <div class="video text-lg-left text-center pt-50" style="visibility: hidden;">
+            <a class="Video-popup" href="https://www.youtube.com/watch?v=bRRtdzJH1oE"><i class="fa fa-play"></i></a>
+          </div> <!-- row -->
+        </div>
+        <div class="col-lg-5 offset-lg-1 order-first order-lg-last">
+          <div class="feature pt-50">
+            <div class="feature-title">
+              <h3>ARIHANT SCHOOL OF PHARMACY &amp; BIO-RESEARCH INSTITUTE</h3>
+            </div>
+            <ul>
+              <li>
+                <div class="single-feature">
+                  <div class="icon">
+                    <img src="images/all-icon/f-1.png" alt="icon">
+                  </div>
+                  <div class="cont">
+                    <h4>Vision</h4>
+                    <p>To be recognised as an outstanding institute of pharmacy for its excellent efforts to provide
+                      quality pharmacy education to budding students and to improve the health of society.</p>
+                  </div>
+                </div> <!-- single feature -->
+              </li>
+              <li>
+                <div class="single-feature">
+                  <div class="icon">
+                    <img src="images/all-icon/f-2.png" alt="icon">
+                  </div>
+                  <div class="cont">
+                    <h4>Mission</h4>
+                    <p>To make available globally competitive pharmacists acquainted with knowledge, skill, attitude and
+                      behaviour.</p>
+                  </div>
+                </div> <!-- single feature -->
+              </li>
+              <li>
+                <!-- <div class="single-feature">
+                                    <div class="icon">
+                                        <img src="images/all-icon/f-3.png" alt="icon">
+                                    </div>
+                                    <div class="cont">
+                                        <h4>Books & Library</h4>
+                                        <p>Gravida nibh vel velit auctor aliquetn auci elit cons solliazcitudirem sem quibibendum sem nibhutis.</p>
+                                    </div>
+                                </div>  -->
+                <!-- single feature -->
+              </li>
+            </ul>
+          </div> <!-- feature -->
+        </div>
+      </div> <!-- row -->
+    </div> <!-- container -->
+    <div class="feature-bg"></div> <!-- feature bg -->
+  </section>
+
+  <!--====== VIDEO FEATURE PART ENDS ======-->
+
+  <!--====== TEACHERS PART START ======-->
+
+
+  <!--====== TEACHERS PART ENDS ======-->
+
+  <!--====== PUBLICATION PART START ======-->
+
+
+  <!--====== PUBLICATION PART ENDS ======-->
+
+  <!--====== TEASTIMONIAL PART START ======-->
+
+
+  <!--====== TEASTIMONIAL PART ENDS ======-->
+
+
+
+  <!--====== COUNTER PART ENDS ======-->
+
+  <!--====== TEACHERS PART START ======-->
+
+  <section id="teachers-part" class="pt-65 pb-120 gray-bg">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="section-title mt-50 pb-25">
+            <h5>Top Placements</h5>
+            <h2>Placed Students</h2>
+          </div> <!-- section title -->
+          <div class="teachers-2">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="teachers-2-single mt-60">
+                  <div class="thum">
+                    <img src="images/all-icon/scholarship.png" alt="Teacher">
+                  </div>
+                  <div class="cont">
+                    <!--<a href="#">-->
+                    <h5>SHAH SHRUTI AMIT</h5>
+                    <!--</a>-->
+                    <!--<p>Laravel Expert</p>-->
+                    <span><i class="fa fa-book"></i>Intas Pharmaceuticals Limited</span>
+                  </div>
+                </div> <!-- teachers 2 single -->
+              </div>
+              <div class="col-md-6">
+                <div class="teachers-2-single mt-30">
+                  <div class="thum">
+                    <img src="images/all-icon/scholarship.png" alt="Teacher">
+                  </div>
+                  <div class="cont">
+                    <!--<a href="#">-->
+                    <h5>SHAH SALONI PRATI</h5>
+                    <!--</a>-->
+                    <!--<p>Laravel Expert</p>-->
+                    <span><i class="fa fa-book"></i>CIMS Hospital</span>
+                  </div>
+                </div> <!-- teachers 2 single -->
+              </div>
+              <div class="col-md-6">
+                <div class="teachers-2-single mt-60">
+                  <div class="thum">
+                    <img src="images/all-icon/scholarship.png" alt="Teacher">
+                  </div>
+                  <div class="cont">
+                    <!--<a href="#">-->
+                    <h5>PATEL HARSHIL P</h5>
+                    <!--</a>-->
+                    <!--<p>JAVA Expert</p>-->
+                    <span><i class="fa fa-book"></i>Syn Zeal Research LTD</span>
+                  </div>
+                </div> <!-- teachers 2 single -->
+              </div>
+              <div class="col-md-6">
+                <div class="teachers-2-single mt-30">
+                  <div class="thum">
+                    <img src="images/all-icon/scholarship.png" alt="Teacher">
+                  </div>
+                  <div class="cont">
+                    <!--<a href="#">-->
+                    <h5>RANA SALONI CHANDRAVADAN</h5>
+                    <!--</a>-->
+                    <!--<p>Laravel Expert</p>-->
+                    <span><i class="fa fa-book"></i>GPSAP Health Care Limited</span>
+                  </div>
+                </div> <!-- teachers 2 single -->
+              </div>
+            </div> <!-- row -->
+          </div> <!-- teachers 2 -->
+        </div>
+        <div class="col-lg-6 ">
+          <div class="happy-student mt-3">
+            <div class="happy-title">
+              <h3>Happy Students</h3>
+            </div>
+            <div class="student-slide slick-initialized slick-slider">
+              <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2660px; transform: translate3d(-760px, 0px, 0px);"><div class="single-student slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 380px;" tabindex="-1">
+                 <img src="assets/icons/quote.png" alt="Quote">
+                <p>Maintaining a dynamic vibe, ASP &amp; BRI is continuously evolving itself for the developmental wellbeing
+                  of the students by not only elucidating the basics of academic knowledge but also by amplifying the
+                  practical skills which easily unfolds the path to industries for student</p>
+                <h6>Maitri Shukla</h6>
+                <span>B.Pharm</span>
+              </div><div class="single-student slick-slide" data-slick-index="0" aria-hidden="true" style="width: 380px;" tabindex="-1">
+                <img src="assets/icons/quote.png" alt="Quote">
+                <p>ASP &amp; BRI is much beyond just an Institution. It actually denotes a Culture of excellence,
+                  empowerment, and enrichment. Being a part of ASP , I felt blessed.
+
+                </p>
+                <h6>Khatri Divya </h6>
+                <span>B.Pharm</span>
+              </div><div class="single-student slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 380px;" tabindex="0">
+                <img src="assets/icons/quote.png" alt="Quote">
+                <p>What a thriving and mesmerising journey it was! That journey of 4 years was irreplaceable and
+                  unforgettable. The best faculty, the best facilities, the best events, the best opportunities all
+                  under one roof.</p>
+                <h6>Amin Nirali</h6>
+                <span>B.Pharm</span>
+              </div><div class="single-student slick-slide" data-slick-index="2" aria-hidden="true" style="width: 380px;" tabindex="-1">
+                 <img src="assets/icons/quote.png" alt="Quote">
+                <p>Maintaining a dynamic vibe, ASP &amp; BRI is continuously evolving itself for the developmental wellbeing
+                  of the students by not only elucidating the basics of academic knowledge but also by amplifying the
+                  practical skills which easily unfolds the path to industries for student</p>
+                <h6>Maitri Shukla</h6>
+                <span>B.Pharm</span>
+              </div><div class="single-student slick-slide slick-cloned" data-slick-index="3" aria-hidden="true" style="width: 380px;" tabindex="-1">
+                <img src="assets/icons/quote.png" alt="Quote">
+                <p>ASP &amp; BRI is much beyond just an Institution. It actually denotes a Culture of excellence,
+                  empowerment, and enrichment. Being a part of ASP , I felt blessed.
+
+                </p>
+                <h6>Khatri Divya </h6>
+                <span>B.Pharm</span>
+              </div><div class="single-student slick-slide slick-cloned" data-slick-index="4" aria-hidden="true" style="width: 380px;" tabindex="-1">
+                <img src="assets/icons/quote.png" alt="Quote">
+                <p>What a thriving and mesmerising journey it was! That journey of 4 years was irreplaceable and
+                  unforgettable. The best faculty, the best facilities, the best events, the best opportunities all
+                  under one roof.</p>
+                <h6>Amin Nirali</h6>
+                <span>B.Pharm</span>
+              </div><div class="single-student slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" style="width: 380px;" tabindex="-1">
+                 <img src="assets/icons/quote.png" alt="Quote">
+                <p>Maintaining a dynamic vibe, ASP &amp; BRI is continuously evolving itself for the developmental wellbeing
+                  of the students by not only elucidating the basics of academic knowledge but also by amplifying the
+                  practical skills which easily unfolds the path to industries for student</p>
+                <h6>Maitri Shukla</h6>
+                <span>B.Pharm</span>
+              </div></div></div> <!-- single student -->
+
+               <!-- single student -->
+
+               <!-- single student -->
+            </div> <!-- student slide -->
+            <div class="student-image">
+               <img src="assets/icons/quote2.png" alt="Quote">
+            </div>
+          </div> <!-- happy student -->
+        </div>
+      </div> <!-- row -->
+    </div> <!-- container -->
+  </section>
+
+
+  <div id="counter-part" class="bg_cover pt-30 pb-50" data-overlay="8" style="background-image: url(images/bg-2.jpg)">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-sm-6">
+          <div class="single-counter text-center mt-40">
+            <span><span class="counter">1000</span>+</span>
+            <p>Placements </p>
+          </div> <!-- single counter -->
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="single-counter text-center mt-40">
+            <span><span class="counter">314</span>+</span>
+            <p>Publications</p>
+          </div> <!-- single counter -->
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="single-counter text-center mt-40">
+            <span><span class="counter">520</span>+</span>
+            <p>Presentations </p>
+          </div> <!-- single counter -->
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="single-counter text-center mt-40">
+            <span><span class="counter">95</span>+</span>
+            <p>No. of Grants </p>
+          </div> <!-- single counter -->
+        </div>
+      </div> <!-- row -->
+    </div> <!-- container -->
+  </div>
+
+
+  <!--====== TEACHERS PART ENDS ======-->
+
+  <!--====== upcoming EVENT 2 PART START ======-->
+
+<!--  <section id="event-part" class="pt-120">-->
+<!--    <div class="container">-->
+<!--      <div class="event-bg bg_cover" style="background-image: url(images/slider/Slider-2.jpg)">-->
+<!--        <div class="row">-->
+<!--          <div class="col-lg-5 offset-lg-6 col-md-8 offset-md-2 col-sm-10 offset-sm-1">-->
+<!--            <div class="event-2 pt-90 pb-70">-->
+<!--              <div class="event-title">-->
+<!--                <h3>Upcoming events</h3>-->
+<!--              </div> <!-- event title -->
+<!--              <ul>-->
+<!--                <li>-->
+<!--                  <div class="single-event">-->
+<!--                    <span><i class="fa fa-calendar"></i> 26 th April, 2024</span>-->
+                    <!--<a href="events-single.html">-->
+<!--                      <h4 style="color:#fff">DBT Popular Lecture Series topic: Transforming Trends in-->
+<!--Pharmaceutical Biotechnology</h4>-->
+                    <!--</a>-->
+<!--                    <span><i class="fa fa-clock-o"></i> 9:30 AM onwards</span>-->
+<!--                    <span><i class="fa fa-map-marker"></i>Arihant School of Pharmacy ; BRI campus, Urvasad square</span>-->
+<!--                  </div>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                  <div class="single-event">-->
+<!--                    <span><i class="fa fa-calendar"></i>22nd to 24th April, 2024</span>-->
+                    <!--<a href="events-single.html">-->
+<!--                      <h4 style="color:#fff">Virtual Short term Training Program on Intellectual Property Right as-->
+<!--Part of IPR Week Celebration</h4>-->
+                    <!--</a>-->
+<!--                    <span><i class="fa fa-clock-o"></i>10 AM Onwards</span>-->
+<!--                    <span><i class="fa fa-map-marker"></i>Online</span>-->
+<!--                  </div>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                  <div class="single-event">-->
+<!--                    <span><i class="fa fa-calendar"></i> 19 April, 2024</span>-->
+                    <!--<a href="events-single.html">-->
+<!--                      <h4 style="color:#fff">Annual Day- Chromosome 2k24 </h4>-->
+                    <!--</a>-->
+<!--                    <span><i class="fa fa-clock-o"></i> 5.30 Pm Onwards</span>-->
+<!--                    <span><i class="fa fa-map-marker"></i> Arihant School of Pharmacy ; BRI campus, Urvasad square</span>-->
+<!--                  </div>-->
+<!--                </li>-->
+                
+<!--                <li>-->
+<!--                  <div class="single-event">-->
+<!--                    <span><i class="fa fa-calendar"></i> 22 & 23 rd February, 2024</span>-->
+                    <!--<a href="events-single.html">-->
+<!--                      <h4 style="color:#fff">Two-day Refresher course for registered Pharmacist sponsored by-->
+<!--Gujarat State Pharmacy Council </h4>-->
+                    <!--</a>-->
+<!--                    <span><i class="fa fa-clock-o"></i> 09:45 Am Onwards</span>-->
+<!--                    <span><i class="fa fa-map-marker"></i> Online</span>-->
+<!--                  </div>-->
+                  
+<!--                </li>-->
+                
+<!--              </ul>-->
+<!--            </div> <!-- event 2 -->
+<!--          </div>-->
+<!--        </div> <!-- row -->
+<!--      </div>-->
+<!--    </div> <!-- container -->
+<!--  </section>-->
+
+  <!--====== NEWS PART START ======-->
+
+  <section id="news-part" class="pt-115 pb-110">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="section-title pb-50">
+            <h5>Latest News</h5>
+            <h2>From the news</h2>
+          </div> <!-- section title -->
+        </div>
+      </div> <!-- row -->
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="single-news mt-30">
+            <div class="news-thum pb-25">
+            <img src="images/recent-activities/job fair 2025.jpeg" alt="News">
+            </div>
+            <div class="news-cont">
+              <ul>
+                <li><a href="#"><i class="fa fa-calendar"></i>19th Feb, 2026</a></li>
+                <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+              </ul>
+              <h3>Job Fair 2026</h3>
+                 
+            </div>
+          </div> <!-- single news -->
+        
+        </div>
+      
+        <div class="col-lg-6">
+          <div class="single-news news-list">
+            <div class="row">
+              <div class="col-sm-4">
+                <div class="news-thum mt-30">
+                
+                   <img src="images/recent-activities/blood donation camp.jpeg" alt="News">
+                </div>
+              </div>
+              <div class="col-sm-8">
+                <div class="news-cont mt-30">
+                <ul>
+                <li><a href="#"><i class="fa fa-calendar"></i>6th Jan, 2026</a></li>
+                <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+              </ul>
+                  
+                   <h3>Blood Donation Camp</h3>
+
+            </div>
+              </div>
+            </div> <!-- row -->
+            <div class="row">
+              <div class="col-sm-4">
+                <div class="news-thum mt-30">
+                
+                   <img src="images/recent-activities/Pharmacist day flyer 2025.jpg" alt="News">
+                </div>
+              </div>
+              <div class="col-sm-8">
+                <div class="news-cont mt-30">
+                <ul>
+                <li><a href="#"><i class="fa fa-calendar"></i>25th Sep, 2025</a></li>
+                <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+              </ul>
+                  
+                   <h3>World Pharmacist day 2025</h3>
+
+            </div>
+              </div>
+            </div> <!-- row -->
+            <div class="row">
+              <div class="col-sm-4">
+                <div class="news-thum mt-30">
+                
+                   <img src="images/recent-activities/Teachers day flyer.jpg" alt="News">
+                </div>
+              </div>
+              <div class="col-sm-8">
+                <div class="news-cont mt-30">
+                <ul>
+                <li><a href="#"><i class="fa fa-calendar"></i>5th Sep, 2025</a></li>
+                <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+              </ul>
+                  
+                   <h3>Teachers day</h3>
+      <p>Arihant School of Pharmacy &amp; Bio-Research Institute's IQAC cell has Celebrated Teachers day on 05/09/2025.
+ Arihant school of Pharmacy &amp; Bio-research institute, Urvasad cross-road.</p>
+            </div>
+              </div>
+            </div> <!-- row -->
+ <!--           <div class="row">-->
+ <!--             <div class="col-sm-4">-->
+ <!--               <div class="news-thum mt-30">-->
+                
+ <!--                  <img src="images/recent-activities/anti-ragging.jpeg" alt="News">-->
+ <!--               </div>-->
+ <!--             </div>-->
+ <!--             <div class="col-sm-8">-->
+ <!--               <div class="news-cont mt-30">-->
+ <!--               <ul>-->
+ <!--               <li><a href="#"><i class="fa fa-calendar"></i>6th Aug, 2025</a></li>-->
+                <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+ <!--             </ul>-->
+ <!--                 </ul>-->
+ <!--                  <h3>Anti-ragging awareness program </h3>-->
+ <!--     <p>Arihant School of Pharmacy & Bio-Research Institute's IQAC cell has organized Anti-ragging awareness program on 06/08/2025, 2 P.M. onwards at Seminar hall.-->
+ <!--Arihant school of Pharmacy & Bio-research institute, Urvasad cross-road.</p>-->
+ <!--           </div>-->
+ <!--             </div>-->
+ <!--           </div> <!-- row -->
+            <!--<div class="row">-->
+            <!--  <div class="col-sm-4">-->
+            <!--    <div class="news-thum mt-30">-->
+                
+            <!--       <img src="images/recent-activities/nep-awareness.jpeg" alt="News">-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--  <div class="col-sm-8">-->
+            <!--    <div class="news-cont mt-30">-->
+            <!--    <ul>-->
+            <!--    <li><a href="#"><i class="fa fa-calendar"></i>1st AUg, 2025</a></li>-->
+                <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+            <!--  </ul>-->
+            <!--      </ul>-->
+            <!--       <h3>seminar on the topic of  "NEP Awareness Program" </h3>-->
+            <!--         <p>QAC cell at Arihant School of Pharmacy & Bio-Research Institute has organized seminar on the topic of  "NEP Awareness Program"  on occassion of 5th anniversary of NEP 2020 on 01/08/2025 at Seminar hall, Arihant school of Pharmacy & Bio-research institute, Urvasad cross-road.</p>-->
+            <!--</div>-->
+            <!--  </div>-->
+            <!--</div> <!-- row -->
+            <!--<div class="row">-->
+            <!--  <div class="col-sm-4">-->
+            <!--    <div class="news-thum mt-30">-->
+                
+            <!--       <img src="images/recent-activities/ranking.png" alt="News">-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--  <div class="col-sm-8">-->
+            <!--    <div class="news-cont mt-30">-->
+            <!--    <ul>-->
+            <!--    <li><a href="#"><i class="fa fa-calendar"></i>2024</a></li>-->
+                <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+            <!--  </ul>-->
+            <!--      </ul>-->
+            <!--       <h3>Gujarat state institutional rating framework- 2024</h3>-->
+            <!--         <p>Arihant School of Pharmacy and Bio Research Institute got a 5 Star Ranking and 8th Rank among all the Pharmacy Institutes in Gujarat in the category of ‘Pharmacy’ on the basis of comprehensive performance metrics as set out in the Gujarat State Institutional Ratings Framework.</p>-->
+            <!--</div>-->
+            <!--  </div>-->
+            <!--</div> <!-- row -->
+            <!--<div class="row">-->
+            <!--  <div class="col-sm-4">-->
+            <!--    <div class="news-thum mt-30">-->
+                
+            <!--    <img src="images/recent-activities/geeta-jayanti-2024.png" alt="News">-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--  <div class="col-sm-8">-->
+            <!--    <div class="news-cont mt-30">-->
+            <!--    <ul>-->
+            <!--    <li><a href="#"><i class="fa fa-calendar"></i>11th December 2024</a></li>-->
+                <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+            <!--  </ul>-->
+            <!--      </ul>-->
+            <!--       <h3>GITA JAYANTI Celebration - 2024</h3>-->
+            <!--      <p>NSS Cell of Arihant School of Pharmacy & Bio-Research Institute organized various events for celebration on the occasion of "GITA JAYANTI" on 11/12/2024.</p>-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--</div> <!-- row -->
+            <!--<div class="row">-->
+            <!--  <div class="col-sm-4">-->
+            <!--    <div class="news-thum mt-30">-->
+                
+            <!--    <img src="images/recent-activities/guestlecture.png" alt="News">-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--  <div class="col-sm-8">-->
+            <!--    <div class="news-cont mt-30">-->
+            <!--    <ul>-->
+            <!--    <li><a href="#"><i class="fa fa-calendar"></i>  21st August, 2024</a></li>-->
+                <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+            <!--  </ul>-->
+            <!--      </ul>-->
+            <!--       <h3>Guest Lecture on World entrepreneur Day- 2024</h3>-->
+            <!--      <p> World Entrepreneur Day was celebrated at Arihant Campus on 21st August, 2024. Dr. Vishal Goel discussed on the topic of “Entrepreneur, Skill, Attitude & Behaviour.</p>-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--</div> <!-- row -->
+            <!--<div class="row">-->
+            <!--  <div class="col-sm-4">-->
+            <!--    <div class="news-thum mt-30">-->
+                
+            <!--    <img src="images/recent-activities/youthday.png" alt="News">-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--  <div class="col-sm-8">-->
+            <!--    <div class="news-cont mt-30">-->
+            <!--    <ul>-->
+            <!--    <li><a href="#"><i class="fa fa-calendar"></i>12th August, 2024</a></li>-->
+                <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+            <!--  </ul>-->
+            <!--      </ul>-->
+            <!--       <h3>International Youth Day- 2024 was celebrated at Arihant Campus by organising Heartfulness Workshop.</h3>-->
+            <!--      <p> All the students and staff of ASP-BRI Participated in the event as “The Heartfulness Way” will help in guiding the youth towards better future.</p>-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--</div> <!-- row -->
+            <!--<div class="row">-->
+            <!--  <div class="col-sm-4">-->
+            <!--    <div class="news-thum mt-30">-->
+                
+            <!--    <img src="images/recent-activities/Chromosome 2k24.jpg" alt="News">-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--  <div class="col-sm-8">-->
+            <!--    <div class="news-cont mt-30">-->
+            <!--      <ul>-->
+            <!--        <li><a href="#"><i class="fa fa-calendar"></i>22nd - 23rd February, 2024</a></li>-->
+                    <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+            <!--      </ul>-->
+            <!--       <h3>Annual day- Chromosome 2k24 was organised at Arihant School of Pharmacy & BRI</h3>-->
+            <!--      <p> Chromosome2k24 was celebrated on 19/04/2024 with beautiful performances and falicitations of faculty and students.</p>-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--</div> <!-- row -->
+            <!--<div class="row">-->
+            <!--  <div class="col-sm-4">-->
+            <!--    <div class="news-thum mt-30">-->
+                
+            <!--     <img src="images/recent-activities/news.png" alt="News">-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--  <div class="col-sm-8">-->
+            <!--    <div class="news-cont mt-30">-->
+            <!--      <ul>-->
+            <!--        <li><a href="#"><i class="fa fa-calendar"></i>22nd - 23rd February, 2024</a></li>-->
+                    <!--<li><a href="#"> <span>By</span> Adam linn</a></li>-->
+            <!--      </ul>-->
+            <!--        <h3>Referesher course 2024-For Registered Pharmacist.</h3>-->
+            <!--      <p>Gujarat State Pharmacy Council (GSPC) sponsored a two-day Online Refresher Course for Registered Pharmacists organized by the Arihant School of Pharmacy and Bio Research Institute on the 22nd and 23rd of February 2024.  </p>-->
+            <!--    </div>-->
+            <!--  </div>-->
+            <!--</div> <!-- row -->
+          </div> <!-- single news -->
+         
+         
+        </div>
+      </div> <!-- row -->
+        <!--<a data-animation="fadeInUp" data-delay="1.6s" class="main-btn center" href="#about-part" style="margin:auto;">Read More</a>-->
+                
+    </div> <!-- container -->
+    
+    
+  </section>
+
+  <!--====== NEWS PART ENDS ======-->
+
+  <!--====== PATNAR LOGO PART START ======-->
+
+  <div id="patnar-logo" class="pt-20 pb-40 gray-bg">
+    <div class="container">
+      <div class="row patnar-slide slick-initialized slick-slider">
+        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4560px; transform: translate3d(-1425px, 0px, 0px);"><div class="col-lg-12 slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-3.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-4.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-2.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-3.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide" data-slick-index="0" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-1.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 285px;" tabindex="0">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-2.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 285px;" tabindex="0">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-3.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 285px;" tabindex="0">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-4.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-active" data-slick-index="4" aria-hidden="false" style="width: 285px;" tabindex="0">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-2.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide" data-slick-index="5" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-3.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-cloned" data-slick-index="6" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-1.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-2.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-3.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-4.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-cloned" data-slick-index="10" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-2.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div><div class="col-lg-12 slick-slide slick-cloned" data-slick-index="11" aria-hidden="true" style="width: 285px;" tabindex="-1">
+          <div class="single-patnar text-center mt-40">
+            <img src="images/patnar-logo/p-3.png" style="width:100px; height:100px;" alt="Logo">
+          </div>
+        </div></div></div>
+        
+        
+        
+        
+        
+      </div> <!-- row -->
+    </div> <!-- container -->
+  </div>
+<div style="display:none;">  
+<a href="https://tipssehatsecaraalami.com">Tips Sehat Secara Alami</a> 
+<a href="https://www.nzxsx7.my.id/">Tips Tutorial About Hacking</a> 
+</div>
+    
+    
+     <footer id="footer-part">
+    <div class="footer-top pt-40 pb-70">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="footer-about mt-40">
+              <div class="logo">
+                <a href="#"><img src="images/Arihant-logo-white.png" alt="Logo"></a>
+              </div>
+              <p>Arihant School of Pharmacy &amp; Bio-Research Institute is one of the growing degree pharmacy colleges
+                managed by Arihant Seva Samiti established on 2005.</p>
+           <ul class="mt-20">
+  <li><a href="https://www.facebook.com/arihantpharmacy4u/"><i class="fa-brands fa-facebook-f"></i></a></li>
+  <li><a href="https://twitter.com/ArihantBri"><i class="fa-brands fa-x-twitter"></i></a></li>
+  <li><a href="https://www.youtube.com/channel/UC9fQNsBBvsh8bwEQpSSiMog"><i class="fa-brands fa-youtube"></i></a></li>
+  <li><a href="https://www.instagram.com/arihantpharmacy/?hl=en"><i class="fa-brands fa-instagram"></i></a></li>
+</ul>
+
+            </div> <!-- footer about -->
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="footer-link mt-40">
+              <div class="footer-title pb-25">
+                <h6>Sitemap</h6>
+              </div>
+              <ul>
+                <li><a href="#"><i class="fa fa-angle-right"></i>Home</a></li>
+                <li><a href="https://arihantpharmacy.com/about.php"><i class="fa fa-angle-right"></i>About us</a></li>
+                <li><a href="https://arihantpharmacy.com/courses.php"><i class="fa fa-angle-right"></i>Courses</a></li>
+
+                <li><a href="https://arihantpharmacy.com/placement-records.php"><i class="fa fa-angle-right"></i>Placements</a></li>
+                <!--<li><a href="events.html"><i class="fa fa-angle-right"></i>Event</a></li>-->
+              </ul>
+              <ul>
+                <li><a href="https://arihantpharmacy.com/gallery.php"><i class="fa fa-angle-right"></i>Gallery</a></li>
+                <li><a href="https://arihantpharmacy.com/facilities.php"><i class="fa fa-angle-right"></i>Facilities</a></li>
+                <!--<li><a href="teachers.html"><i class="fa fa-angle-right"></i>Teachers</a></li>-->
+                <!--<li><a href="#"><i class="fa fa-angle-right"></i>Circular </a></li>-->
+                <li><a href="https://arihantpharmacy.com/contact-us.php"><i class="fa fa-angle-right"></i>Contact
+                    us</a></li>
+              </ul>
+            </div> <!-- footer link -->
+          </div>
+
+         
+          <div class="col-lg-3 col-md-6">
+            <div class="footer-address mt-40">
+              <div class="footer-title pb-25">
+                <h6>Contact Us</h6>
+              </div>
+              <ul>
+                <li>
+                  <div class="icon">
+                    <i class="fa fa-home"></i>
+                  </div>
+                  <div class="cont">
+                    <p>Uvarsad Square, Sarkhej-Gandhinagar Highway, Post Adalaj, Gandhinagar, Gujarat – 382421.</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="icon">
+                    <i class="fa fa-phone"></i>
+                  </div>
+                  <div class="cont">
+                    <p>+91 9825629813</p>
+                  </div>
+                  <div class="cont">
+                    <p>+91 9909820904</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="icon">
+                    <i class="fa fa-envelope-o"></i>
+                  </div>
+                  <div class="cont">
+                    <p>arihantpharmacy@gmail.com</p>
+                  </div>
+                </li>
+              </ul>
+            </div> <!-- footer address -->
+          </div>
+        </div> <!-- row -->
+      </div> <!-- container -->
+    </div> <!-- footer top -->
+
+    <div class="footer-copyright pt-10 pb-25">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <div class="copyright text-md-left text-center pt-15">
+              <p>© Copyrights 2026 Arihant Pharmacy All rights reserved. </p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="copyright text-md-right text-center pt-15">
+              <p>Designed by <span>Swarrnim Startup &amp; Innovation University</span> </p>
+            </div>
+          </div>
+        </div> <!-- row -->
+      </div> <!-- container -->
+    </div> <!-- footer copyright -->
+  </footer>
+
+  <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>c
+
+  <!--====== BACK TO TP PART ENDS ======-->
+
+
+
+
+
+
+
+
+  <!--====== jquery js ======-->
+  <script src="js/vendor/modernizr-3.6.0.min.js"></script>
+  <script src="js/vendor/jquery-1.12.4.min.js"></script>
+
+  <!--====== Bootstrap js ======-->
+  <script src="js/bootstrap.min.js"></script>
+
+  <!--====== Slick js ======-->
+  <script src="js/slick.min.js"></script>
+
+  <!--====== Magnific Popup js ======-->
+  <script src="js/jquery.magnific-popup.min.js"></script>
+
+  <!--====== Counter Up js ======-->
+  <script src="js/waypoints.min.js"></script>
+  <script src="js/jquery.counterup.min.js"></script>
+
+  <!--====== Nice Select js ======-->
+  <script src="js/jquery.nice-select.min.js"></script>
+
+  <!--====== Nice Number js ======-->
+  <script src="js/jquery.nice-number.min.js"></script>
+
+  <!--====== Count Down js ======-->
+  <script src="js/jquery.countdown.min.js"></script>
+
+  <!--====== Validator js ======-->
+  <script src="js/validator.min.js"></script>
+
+  <!--====== Ajax Contact js ======-->
+  <script src="js/ajax-contact.js"></script>
+
+  <!--====== Main js ======-->
+  <script src="js/main.js"></script>
+
+  <!--====== Map js ======-->
+  <script src="https://maps.googleapis.com/maps/api/js?key=[REDACTED_GOOGLE_API_KEY]"></script>
+  <script src="js/map-script.js"></script>
+  
+  <script>
+        $(document).ready(function () {
+            $("#myModal").modal('show');
+        });
+    </script>
+
+
+
+
+
+
+<div class="modal-backdrop fade show"></div></body>

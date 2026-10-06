@@ -1,0 +1,27 @@
+{
+  "original_url": "https://e-service.org/landingpage/dd263864-38a2-466a-be2f-4e5ec6c5e042/_ere75hdnjqk0eutzo6k_jmwi60k9desbka5keto104",
+  "hostname": "e-service.org",
+  "checked_at": "2026-10-04T16:00:10.695657+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fa112-0ea9-7320-acc2-f3df6d8ab91c",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-27T00:55:49.914Z",
+  "scan_original_url": "https://e-service.org/landingpages/214dde44-d83d-472c-808d-4304cf3e308c/-6z9gapf4ucnrxpig7x__bglxzqfdufqtbnrb6-gksm",
+  "final_url": "https://e-service.org/landingpages/214dde44-d83d-472c-808d-4304cf3e308c/-6z9gapf4ucnrxpig7x__bglxzqfdufqtbnrb6-gksm",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1068,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.501,
+  "discovery": {
+    "batch_id": "73c53b36d2308a81445114a27f51ecf3f2ac380516af5969d0d86b2119e9d86e",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

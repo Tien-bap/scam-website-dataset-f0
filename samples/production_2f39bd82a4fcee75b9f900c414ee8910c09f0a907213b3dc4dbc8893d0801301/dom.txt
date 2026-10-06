@@ -1,0 +1,316 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Шүүхийн цахим хуудас — Шилжүүлэлт</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&amp;family=Noto+Sans:wght@300;400;500&amp;display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --navy:     #0d1b2e;
+      --gold:     #b8912a;
+      --gold-lt:  #d4a83a;
+      --cream:    #f5f0e8;
+      --mid:      #4a5568;
+      --border:   #c8b97a;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      min-height: 100vh;
+      background: var(--navy);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Noto Sans', sans-serif;
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* ── background pattern ── */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image:
+        repeating-linear-gradient(
+          0deg,
+          transparent,
+          transparent 59px,
+          rgba(184,145,42,.06) 60px
+        ),
+        repeating-linear-gradient(
+          90deg,
+          transparent,
+          transparent 59px,
+          rgba(184,145,42,.06) 60px
+        );
+      pointer-events: none;
+    }
+
+    /* ── radial glow ── */
+    body::after {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(ellipse 70% 60% at 50% 40%, rgba(184,145,42,.08) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    /* ── card ── */
+    .card {
+      position: relative;
+      background: rgba(245,240,232,.97);
+      border: 1px solid var(--border);
+      border-top: 4px solid var(--gold);
+      max-width: 640px;
+      width: 92%;
+      padding: 56px 52px 52px;
+      text-align: center;
+      box-shadow:
+        0 2px 0 rgba(184,145,42,.4),
+        0 24px 80px rgba(0,0,0,.55),
+        inset 0 1px 0 rgba(255,255,255,.6);
+      animation: rise .7s cubic-bezier(.22,1,.36,1) both;
+    }
+
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(28px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ── corner ornaments ── */
+    .card::before,
+    .card::after {
+      content: '';
+      position: absolute;
+      width: 24px;
+      height: 24px;
+      border-color: var(--gold);
+      border-style: solid;
+      opacity: .55;
+    }
+    .card::before { top: 12px; left: 12px;  border-width: 1px 0 0 1px; }
+    .card::after  { bottom: 12px; right: 12px; border-width: 0 1px 1px 0; }
+
+    /* ── logo area ── */
+    .logo-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 36px;
+    }
+
+    .logo-circle {
+      width: 90px;
+      height: 90px;
+      border-radius: 50%;
+      border: 2px solid var(--gold);
+      background: var(--navy);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 0 0 5px rgba(184,145,42,.15), 0 8px 32px rgba(0,0,0,.4);
+      overflow: hidden;
+    }
+
+    /* SVG emblem — Justice scale */
+    .emblem { width: 54px; height: 54px; }
+
+    .logo-title {
+      font-family: 'Noto Serif', serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--navy);
+      line-height: 1.5;
+    }
+
+    /* ── divider ── */
+    .divider {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 32px;
+    }
+    .divider span { flex: 1; height: 1px; background: linear-gradient(to right, transparent, var(--border)); }
+    .divider span:last-child { background: linear-gradient(to left, transparent, var(--border)); }
+    .divider svg { color: var(--gold); flex-shrink: 0; }
+
+    /* ── notice box ── */
+    .notice {
+      background: rgba(13,27,46,.05);
+      border: 1px solid rgba(184,145,42,.25);
+      border-left: 3px solid var(--gold);
+      padding: 20px 22px;
+      margin-bottom: 32px;
+      text-align: left;
+    }
+
+    .notice-label {
+      font-size: 10px;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      color: var(--gold);
+      font-weight: 500;
+      margin-bottom: 10px;
+    }
+
+    .notice-text {
+      font-family: 'Noto Serif', serif;
+      font-size: 15px;
+      line-height: 1.75;
+      color: var(--navy);
+      font-weight: 400;
+    }
+
+    /* ── link button ── */
+    .link-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: var(--navy);
+      color: var(--cream);
+      text-decoration: none;
+      padding: 14px 30px;
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: .06em;
+      border: 1px solid rgba(184,145,42,.3);
+      transition: background .25s, border-color .25s, transform .15s, box-shadow .25s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .link-btn::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, var(--gold) 0%, transparent 60%);
+      opacity: 0;
+      transition: opacity .3s;
+    }
+
+    .link-btn:hover { 
+      border-color: var(--gold-lt); 
+      transform: translateY(-1px);
+      box-shadow: 0 8px 24px rgba(0,0,0,.3);
+    }
+    .link-btn:hover::before { opacity: .12; }
+    .link-btn:hover .arrow { transform: translateX(4px); }
+
+    .link-url {
+      color: var(--gold);
+      font-size: 12px;
+      font-family: 'Noto Sans', sans-serif;
+      word-break: break-all;
+    }
+
+    .arrow {
+      transition: transform .2s;
+      flex-shrink: 0;
+    }
+
+    /* ── footer ── */
+    .footer {
+      margin-top: 36px;
+      padding-top: 22px;
+      border-top: 1px solid rgba(184,145,42,.2);
+      font-size: 11px;
+      color: var(--mid);
+      letter-spacing: .04em;
+    }
+
+    /* ── countdown ── */
+    .countdown {
+      margin-top: 20px;
+      font-size: 12px;
+      color: var(--mid);
+    }
+    .countdown strong {
+      color: var(--gold);
+      font-size: 15px;
+      font-variant-numeric: tabular-nums;
+    }
+
+    @media (max-width: 520px) {
+      .card { padding: 40px 28px 36px; }
+    }
+  </style>
+</head><body>
+
+  <div class="card">
+
+    <!-- LOGO -->
+    <div class="logo-wrap">
+      <div class="logo-circle">
+     <img src="https://judcouncil.mn/2022/img/logo/logo-brand.png" width="100%"> 
+      </div>
+
+      <div class="logo-title">
+        Монгол Улсын<br>Шүүхийн Ерөнхий Зөвлөл
+      </div>
+    </div>
+
+    <!-- DIVIDER -->
+    <div class="divider">
+      <span></span>
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="currentColor">
+        <polygon points="7,1 8.8,5.5 13.5,5.5 9.8,8.5 11.2,13 7,10.2 2.8,13 4.2,8.5 0.5,5.5 5.2,5.5"></polygon>
+      </svg>
+      <span></span>
+    </div>
+
+    <!-- NOTICE -->
+    <div class="notice">
+      <div class="notice-label">Мэдэгдэл</div>
+      <p class="notice-text">
+        Шүүхийн нэгдсэн цахим хуудас руу шилжсэн тул дараах холбоосоор хандана уу.
+      </p>
+    </div>
+
+    <!-- BUTTON -->
+    <a href="https://bulgan-local.e-court.mn/" class="link-btn" id="redirectLink">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+      </svg>
+      erp-web.e-court.mn
+      <svg class="arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M5 12h14M12 5l7 7-7 7"></path>
+      </svg>
+    </a>
+
+    <!-- COUNTDOWN -->
+    <div class="countdown">
+      <strong id="timer">5</strong> секундын дараа автоматаар шилжинэ
+    </div>
+
+    <!-- FOOTER -->
+    <div class="footer">
+      © 2026 ЦАХИМ ХӨГЖИЛ,МЭДЭЭЛЛИЙН ТЕХНОЛОГИЙН УДИРДЛАГЫН ГАЗАР &nbsp;&nbsp; 
+    </div>
+
+  </div>
+
+  <script>
+    const REDIRECT_URL = 'https://bulgan-local.e-court.mn/';
+    const DELAY = 10;
+    let remaining = DELAY;
+
+    const timerEl = document.getElementById('timer');
+    const tick = setInterval(() => {
+      remaining--;
+      timerEl.textContent = remaining;
+      if (remaining <= 0) {
+        clearInterval(tick);
+        window.location.href = REDIRECT_URL;
+      }
+    }, 1000);
+  </script>
+
+
+
+</body>

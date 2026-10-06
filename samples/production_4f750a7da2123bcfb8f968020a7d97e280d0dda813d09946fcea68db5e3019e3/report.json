@@ -1,0 +1,27 @@
+{
+  "original_url": "https://gslcarpetcleaning.com/",
+  "hostname": "gslcarpetcleaning.com",
+  "checked_at": "2026-10-04T16:01:03.471462+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f3863-ead7-735c-83ab-eae45a5ff2c8",
+  "match_kind": "exact_url",
+  "capture_timestamp": "2026-07-06T17:05:21.878Z",
+  "scan_original_url": "https://gslcarpetcleaning.com/",
+  "final_url": "https://gslcarpetcleaning.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5728,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.874,
+  "discovery": {
+    "batch_id": "9f872fefac31993a69aea0319df412a093272ffe9a32e88ec04bcff0f3e7b0bd",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_d83a5d22d585bc288d6f0d1fc7babad87627bd6bd7f36e0886e60ca42d96c854",
+  "candidate_sha256": "c20382a09efa24cfab8a6558bf587c67a82b42b97fc61c3a1f5169824b612ad0",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://lv-paris.com",
+  "requested_url": "https://lv-paris.com",
+  "browser_final_url": "https://lv-paris.com/",
+  "source_urls": [
+    "https://lv-paris.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 864,
+      "source_url": "https://lv-paris.com",
+      "source_hostname": "lv-paris.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://lv-paris.com",
+      "final_hostname": "lv-paris.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 653,
+      "elapsed_ms": 2498,
+      "checked_at": "2026-10-05T12:18:05.280038+00:00",
+      "error": null,
+      "normalized_source_url": "https://lv-paris.com/",
+      "normalized_final_url": "https://lv-paris.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_d83a5d22d585bc288d6f0d1fc7babad87627bd6bd7f36e0886e60ca42d96c854",
+    "representative_source_index": 864,
+    "representative_source_url": "https://lv-paris.com",
+    "representative_final_url": "https://lv-paris.com",
+    "normalized_final_url": "https://lv-paris.com/",
+    "source_hostname": "lv-paris.com",
+    "final_hostname": "lv-paris.com",
+    "source_urls": [
+      "https://lv-paris.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 864,
+        "source_url": "https://lv-paris.com",
+        "source_hostname": "lv-paris.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://lv-paris.com",
+        "final_hostname": "lv-paris.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 653,
+        "elapsed_ms": 2498,
+        "checked_at": "2026-10-05T12:18:05.280038+00:00",
+        "error": null,
+        "normalized_source_url": "https://lv-paris.com/",
+        "normalized_final_url": "https://lv-paris.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Restaurant LV - Cuisine Méditerranéenne",
+  "capture_timestamp": "2026-10-05T14:57:32.913908+00:00",
+  "dom_chars": 11820,
+  "screenshot_bytes": 667635,
+  "dom_sha256": "d1a555172f312e3ff6b068b55eaeacb25ba1c949ca9bfbc8b6bfdfbeec696a27",
+  "screenshot_sha256": "0f446aecd06d3fa759b7d4adc4c45554cfeafb5a8def05bfc374c604f7fca176",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://lv-paris.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://lv-paris.com",
+    "browser_final_url": "https://lv-paris.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3821
+}

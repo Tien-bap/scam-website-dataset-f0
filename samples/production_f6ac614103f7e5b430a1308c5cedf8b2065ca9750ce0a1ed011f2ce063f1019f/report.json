@@ -1,0 +1,27 @@
+{
+  "original_url": "https://postfb-wuqnbxps.desalsrls.it/profile.html?countUser=8a3e9092b1ee0067430005ae0f685423",
+  "hostname": "postfb-wuqnbxps.desalsrls.it",
+  "checked_at": "2026-10-04T14:51:02.801615+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fbfa6-02db-76cd-8523-725920caa436",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-01T23:26:02.168Z",
+  "scan_original_url": "https://postfb-wuqnbxps.desalsrls.it/",
+  "final_url": "https://postfb-wuqnbxps.desalsrls.it/login_up.php",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 469,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.364,
+  "discovery": {
+    "batch_id": "e3f55352c54e4d1ad663abfa5aead12bb8eeb8d289d7f60d14e3541058191684",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "candidate_id": "live_cea2b25f86f5538392080d821e175279a893e8b35e8710b4905a66e552fffa9d",
+  "candidate_sha256": "711f71f8f9ff7ce3d50485a4a34602ea4f0a0da91ae51c6ffd9f999eb1ab1c3f",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://lottecinemaaa.top",
+  "requested_url": "https://connectback2.me/",
+  "browser_final_url": "https://connectback2.me/",
+  "source_urls": [
+    "https://lottecinemaaa.top"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 644,
+      "source_url": "https://lottecinemaaa.top",
+      "source_hostname": "lottecinemaaa.top",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://connectback2.me/",
+      "final_hostname": "connectback2.me",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 968,
+      "checked_at": "2026-10-05T12:17:58.798400+00:00",
+      "error": null,
+      "normalized_source_url": "https://lottecinemaaa.top/",
+      "normalized_final_url": "https://connectback2.me/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_cea2b25f86f5538392080d821e175279a893e8b35e8710b4905a66e552fffa9d",
+    "representative_source_index": 644,
+    "representative_source_url": "https://lottecinemaaa.top",
+    "representative_final_url": "https://connectback2.me/",
+    "normalized_final_url": "https://connectback2.me/",
+    "source_hostname": "lottecinemaaa.top",
+    "final_hostname": "connectback2.me",
+    "source_urls": [
+      "https://lottecinemaaa.top"
+    ],
+    "provenance": [
+      {
+        "source_index": 644,
+        "source_url": "https://lottecinemaaa.top",
+        "source_hostname": "lottecinemaaa.top",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://connectback2.me/",
+        "final_hostname": "connectback2.me",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 968,
+        "checked_at": "2026-10-05T12:17:58.798400+00:00",
+        "error": null,
+        "normalized_source_url": "https://lottecinemaaa.top/",
+        "normalized_final_url": "https://connectback2.me/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "VIN88 conne - Trang Chủ Vin88.Com Cá Độ Bóng Đá Số #1",
+  "capture_timestamp": "2026-10-05T16:51:17.094613+00:00",
+  "dom_chars": 93995,
+  "screenshot_bytes": 797512,
+  "dom_sha256": "6c33ab23be5c21dad94026531639f6a6ee2d7de3625957eff0344e71b65c3a60",
+  "screenshot_sha256": "064e7f1f8ba341db99032539ed7112e92e1ddd193f75ad97d09c8240f1d3c3bb",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://connectback2.me/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://connectback2.me/",
+    "browser_final_url": "https://connectback2.me/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 5
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 5930,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:56:01.742179+00:00",
+    "previous_report_sha256": "53e713c8516b79d04cb5fa5ba0387238779d48724b290910d38fd38640f67dc9",
+    "recovered_at": "2026-10-05T16:51:17.094613+00:00",
+    "result": "complete"
+  }
+}

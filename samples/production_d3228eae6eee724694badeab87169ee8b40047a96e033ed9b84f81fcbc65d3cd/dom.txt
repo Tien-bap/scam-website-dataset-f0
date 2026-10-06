@@ -1,0 +1,588 @@
+<head>
+<meta charset="utf-8">
+<title>Home</title>
+<!-- Stylesheets -->
+<link href="https://bankimseed.com/front/theme_files/css/bootstrap.css" rel="stylesheet">
+<link href="https://bankimseed.com/front/theme_files/css/revolution-slider.css" rel="stylesheet">
+<link href="https://bankimseed.com/front/theme_files/css/style.css" rel="stylesheet">
+<!-- Responsive -->
+<meta https-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="https://bankimseed.com/front/theme_files/css/responsive.css" rel="stylesheet">
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+
+
+
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head><body>
+<div class="page-wrapper">
+ 	
+    <!-- Preloader -->
+  <!--  <div class="preloader"></div>-->
+    
+	 <!-- Main Header -->
+  	   
+	    <!-- Main Header -->
+	    <style type="text/css">
+<!--
+.style1 {
+	font-size: 12px;
+	font-weight: bold;
+}
+.style2 {
+	font-size: 15px;
+	font-weight: bold;
+}
+-->
+        </style>
+	    
+    <header class="main-header">
+    	<div class="top-bar">
+        	<div class="top-container">
+            	<!--Info Outer-->
+                 <div class="info-outer">
+                 	<!--Info Box-->
+                    <ul class="info-box clearfix">
+                    	<li><span class="icon flaticon-interface"></span><a href="mailto:info@bankimseed.com">seedsbankim@gmail.com</a></li>
+                    	<li><span class="icon flaticon-technology-5"></span>9433020153</li>
+                        <li class="social-links-one">
+                        	<a href="#" class="facebook img-circle"><span class="fa fa-facebook-f"></span></a>
+                            <a href="#" class="twitter img-circle"><span class="fa fa-twitter"></span></a>
+                            <a href="#" class="google-plus img-circle"><span class="fa fa-google-plus"></span></a>
+                        </li>
+                    </ul>
+                 </div>
+            </div>
+        </div>
+    	<!-- Header Upper -->
+    	<div class="header-upper">
+        	<div class="auto-container clearfix">
+            	<!-- Logo -->
+                <div class="logo" align="center">
+                    <a href="https://bankimseed.com/front/Seeds/"><img src="https://bankimseed.com/front/theme_files/images/logo.jpg" alt="Greenture"></a>
+					<br><h5 class="style1">Since 1920</h5>					
+                    <h5 class="style2">TRUSTED BY GENERATIONS TESTED BY TIME</h5>
+              </div>
+                 
+                 <!--Nav Outer-->
+                <div class="nav-outer clearfix">
+                    <a href="#" class="theme-btn btn-donate" data-toggle="modal" data-target="#donate-popup">Quick Enquery</a>
+                    
+                    <!-- Main Menu -->
+                    <nav class="main-menu">
+                        
+                        <div class="navbar-header">
+                            <!-- Toggle Button -->    	
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        
+                        <div class="navbar-collapse collapse clearfix">
+                            <ul class="navigation">
+                            
+                                <li><a href="https://bankimseed.com/front/Seeds/">Home</a></li>
+                                <li class="dropdown"><a href="javascript:void();">Company Profile</a>
+                                    <ul>
+                                        <li><a href="https://bankimseed.com/front/Seeds/about/">About Us</a></li>
+                                        <li><a href="https://bankimseed.com/front/Seeds/ResearchAndDevelopment/">R &amp; D</a></li>
+                                        <li><a href="https://bankimseed.com/front/Seeds/ContractSeedProduction/">Contract Seed Production</a></li>
+                                    </ul>
+                                <div class="dropdown-btn"></div></li>
+                                
+                                <li><a href="https://bankimseed.com/front/Seeds/CropLiterature/">Crop Literature</a></li>
+                                <li><a href="https://bankimseed.com/front/Seeds/Products/">Products</a></li>
+                                <li><a href="https://bankimseed.com/front/Seeds/NewsEvents/">News &amp; Events</a></li>
+                                <li><a href="https://bankimseed.com/front/Seeds/contact/">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </nav><!-- Main Menu End-->
+                    
+                </div>
+                
+            </div>
+        </div><!-- Header Top End -->
+        
+    </header><!--End Main Header -->
+	  	
+     <!--End Main Header -->
+	  
+	 <!--Main Slider-->
+    <section class="main-slider revolution-slider">
+    	
+        <div style="position:relative;width:100%;height:auto;margin-top:0px;margin-bottom:0px" class="forcefullwidth_wrapper_tp_banner"><div class="tp-banner-container" style="left: 0px; position: absolute; width: 1600px; overflow: visible;">
+            <div class="tp-banner revslider-initialised tp-simpleresponsive hovered" id="revslider-171" style="max-height: 485px; background-color: rgba(0, 0, 0, 0); background-image: none; height: 485px;">
+                <ul class="tp-revslider-mainul" style="display: block; overflow: hidden; width: 100%; height: 100%; max-height: none;">
+                	
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="https://bankimseed.com/front/theme_files/images/main-slider/1.jpg" data-saveperformance="off" data-title="Awesome Title Here" class="tp-revslider-slidesli active-revslide current-sr-slide-visible" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1;">
+                    <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="https://bankimseed.com/front/theme_files/images/main-slider/1.jpg" data-src="https://bankimseed.com/front/theme_files/images/main-slider/1.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;https://bankimseed.com/front/theme_files/images/main-slider/1.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div> 
+                    
+                    
+                    <!--<div class="tp-caption sfl sfb tp-resizeme"
+                    data-x="left" data-hoffset="15"
+                    data-y="center" data-voffset="-150"
+                    data-speed="1500"
+                    data-start="500"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"><div class="circular-drop">0<sub>2</sub></div></div>
+                    
+                    <div class="tp-caption sfr sfb tp-resizeme"
+                    data-x="left" data-hoffset="90"
+                    data-y="center" data-voffset="-50"
+                    data-speed="1500"
+                    data-start="1000"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"><h1><span class="normal-font">Go</span> Green</h1></div>-->
+                    
+                    <div class="tp-caption sfl sfb tp-resizeme start" data-x="left" data-hoffset="90" data-y="center" data-voffset="10" data-speed="1500" data-start="1500" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="transition: all; min-height: 0px; min-width: 0px; line-height: 25px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 14px; left: 290px; top: 229.5px; visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.0025, 0, 0, 0, 1);"><h3 class="bg-color" style="transition: all; min-height: 0px; min-width: 0px; line-height: 36px; border-width: 0px; margin: 0px; padding: 5px 16px; letter-spacing: 0px; font-size: 26px;">Welcome to Bankim Seeds</h3></div>
+                    
+                    <div class="tp-caption sfl sfb tp-resizeme start" data-x="left" data-hoffset="90" data-y="center" data-voffset="90" data-speed="1500" data-start="2000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="transition: all; min-height: 0px; min-width: 0px; line-height: 25px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 14px; left: 290px; top: 307.5px; visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.0025, 0, 0, 0, 1);"><div class="text" style="transition: all; min-height: 0px; min-width: 0px; line-height: 25px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 18px;">The year 1920  was momentous in the history of BankimProsadGhosh Seeds <br style="transition: all; min-height: 0px; min-width: 0px; line-height: 25px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 18px;">
+					A small seedcompany with a big vision took birth.</div></div>
+                    
+                    <div class="tp-caption sfr sfb tp-resizeme start" data-x="left" data-hoffset="90" data-y="center" data-voffset="190" data-speed="1500" data-start="2000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn" style="transition: all; min-height: 0px; min-width: 0px; line-height: 25px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 14px; left: 290px; top: 407.5px; visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.0025, 0, 0, 0, 1);"><a href="https://bankimseed.com/front/Seeds/about/" class="theme-btn btn-style-one" style="transition: 0.2s ease-out; min-height: 0px; min-width: 0px; line-height: 24px; border-width: 2px; margin: 0px; padding: 11px 25px; letter-spacing: 0px; font-size: 13px;">Learn More</a></div>
+                    
+                    </li>
+                    
+                    <li data-transition="slidedown" data-slotamount="1" data-masterspeed="1000" data-thumb="https://bankimseed.com/front/theme_files/images/main-slider/2.jpg" data-saveperformance="off" data-title="Awesome Title Here" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden;">
+                    <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="https://bankimseed.com/front/theme_files/images/main-slider/2.jpg" data-src="https://bankimseed.com/front/theme_files/images/main-slider/2.jpg" style="background-color:rgba(0, 0, 0, 0);background-repeat:no-repeat;background-image:url(https://bankimseed.com/front/theme_files/images/main-slider/2.jpg);background-size:cover;background-position:center top;width:100%;height:100%;"></div></div> 
+                    
+                    
+                    <!--<div class="tp-caption sfl sfb tp-resizeme"
+                    data-x="center" data-hoffset="0"
+                    data-y="center" data-voffset="-120"
+                    data-speed="1500"
+                    data-start="500"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"><h2 class="normal-font">Help us</h2></div>-->
+                    
+                    <div class="tp-caption sfr sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-voffset="-30" data-speed="1500" data-start="1000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn"><h2>Bankim Seeds</h2></div>
+                    
+                    <div class="tp-caption sfl sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-voffset="50" data-speed="1500" data-start="1500" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn"><h4>We have almost 100  years experience in the vegetable seed production business.</h4></div>
+                    
+                    <div class="tp-caption sfr sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-voffset="120" data-speed="1500" data-start="2000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn"><a href="https://bankimseed.com/front/Seeds/ResearchAndDevelopment/" class="theme-btn btn-style-one">
+					Learn More</a></div>
+                    </li>
+                    
+                    
+					 <li data-transition="slidedown" data-slotamount="1" data-masterspeed="1000" data-thumb="https://bankimseed.com/front/theme_files/images/main-slider/3.jpg" data-saveperformance="off" data-title="Awesome Title Here" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; visibility: hidden; opacity: 0; z-index: 18;">
+                    <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center top" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" data-lazydone="undefined" src="https://bankimseed.com/front/theme_files/images/main-slider/3.jpg" data-src="https://bankimseed.com/front/theme_files/images/main-slider/3.jpg" style="background-color:rgba(0, 0, 0, 0);background-repeat:no-repeat;background-image:url(https://bankimseed.com/front/theme_files/images/main-slider/3.jpg);background-size:cover;background-position:center top;width:100%;height:100%;"></div></div> 
+                    
+                    
+                    <!--<div class="tp-caption sfl sfb tp-resizeme"
+                    data-x="center" data-hoffset="0"
+                    data-y="center" data-voffset="-120"
+                    data-speed="1500"
+                    data-start="500"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"><h2 class="normal-font">Help us</h2></div>-->
+                    
+                    <div class="tp-caption sfr sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-voffset="-30" data-speed="1500" data-start="1000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn"><h2>Bankim Seeds</h2></div>
+                    
+                    <div class="tp-caption sfl sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-voffset="50" data-speed="1500" data-start="1500" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn"><h4>We have almost 100  years experience in the vegetable seed production business.</h4></div>
+                    
+                    <div class="tp-caption sfr sfb tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-voffset="120" data-speed="1500" data-start="2000" data-easing="easeOutExpo" data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.3" data-endspeed="1200" data-endeasing="Power4.easeIn"><a href="https://bankimseed.com/front/Seeds/ResearchAndDevelopment/" class="theme-btn btn-style-one">
+					Learn More</a></div>
+                    </li>
+                    
+                    
+                </ul>
+                
+            <div class="tp-loader spinner4" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div><div class="tp-bannertimer" style="visibility: visible; width: 40.83%; transform: translate3d(0px, 0px, 0px);"></div></div>
+        <div class="tp-bullets simplebullets preview4" style="bottom: 20px; left: 50%; margin-left: -35px;"><div class="bullet first selected"></div><div class="bullet"></div><div class="bullet last"></div><div class="tpclear"></div></div><div style="position: absolute; top: 242px; margin-top: -55px; left: 0px;" class="tp-leftarrow tparrows default preview4"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="transform: matrix(1, 0, 0, 1, 0, 0); background-image: url(&quot;https://bankimseed.com/front/theme_files/images/main-slider/3.jpg&quot;);"></div><div class="tp-arr-imgholder2" style="background-image: url(&quot;https://bankimseed.com/front/theme_files/images/main-slider/3.jpg&quot;); transform: matrix(1, 0, 0, 1, 0, 0);"></div><div class="tp-arr-titleholder">Awesome Title Here</div><div class="tp-arr-subtitleholder"></div></div></div></div><div style="position: absolute; top: 242px; margin-top: -55px; right: 0px;" class="tp-rightarrow tparrows default preview4 hashoveralready"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="transform: matrix(1, 0, 0, 1, 0, 0); background-image: url(&quot;https://bankimseed.com/front/theme_files/images/main-slider/2.jpg&quot;);"></div><div class="tp-arr-imgholder2" style="background-image: url(&quot;https://bankimseed.com/front/theme_files/images/main-slider/2.jpg&quot;); transform: matrix(1, 0, 0, 1, 0, 0);"></div><div class="tp-arr-titleholder">Awesome Title Here</div><div class="tp-arr-subtitleholder"></div></div></div></div></div><div class="tp-fullwidth-forcer" style="width:100%;height:485px"></div></div>
+    </section>
+    
+    
+    <!--Main Features-->
+		
+    <section class="main-features">
+    	<div class="auto-container">
+        	<div class="title-box text-center">
+            	<h2>Our Best Selling Seeds</h2>
+                <div class="text">-------------------------------------------------------------------</div>
+            </div>
+			
+            <div class="row clearfix">
+                <!--Feature Column-->
+									
+					<div class="features-column col-lg-3 col-md-6 col-xs-12">
+						<article class="inner-box">
+							<img src="https://bankimseed.com/admin/uploads/services_image93.png" style="width:100%; height:200px;border-radius: 100%; 
+							border:6px solid #6ac610">
+							<h4 class="title" align="center">BANKIM GREEN BOY</h4>
+						</article>
+					</div>				
+									
+					<div class="features-column col-lg-3 col-md-6 col-xs-12">
+						<article class="inner-box">
+							<img src="https://bankimseed.com/admin/uploads/services_image92.jpg" style="width:100%; height:200px;border-radius: 100%; 
+							border:6px solid #6ac610">
+							<h4 class="title" align="center">Bankim red ball</h4>
+						</article>
+					</div>				
+									
+					<div class="features-column col-lg-3 col-md-6 col-xs-12">
+						<article class="inner-box">
+							<img src="https://bankimseed.com/admin/uploads/services_image143.jpg" style="width:100%; height:200px;border-radius: 100%; 
+							border:6px solid #6ac610">
+							<h4 class="title" align="center">Chinese Cabbage</h4>
+						</article>
+					</div>				
+									
+					<div class="features-column col-lg-3 col-md-6 col-xs-12">
+						<article class="inner-box">
+							<img src="https://bankimseed.com/admin/uploads/services_image125.jpg" style="width:100%; height:200px;border-radius: 100%; 
+							border:6px solid #6ac610">
+							<h4 class="title" align="center">FALGUNI</h4>
+						</article>
+					</div>				
+				            </div>
+        </div>
+    </section>
+    
+    	
+    <!--Featured Fluid Section-->
+    <section class="featured-fluid-section">
+    	
+        
+    	<div class="outer clearfix">
+            
+            <!--Image Column-->
+            <div class="image-column" style="background-image:url(https://bankimseed.com/front/theme_files/images/resource/fluid-image-1.jpg);"></div>
+            
+            <!--Text Column-->
+            <article class="column text-column dark-column wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms" style="background-image: url(&quot;https://bankimseed.com/front/theme_files/images/resource/fluid-image-2.jpg&quot;); visibility: hidden; animation-duration: 1500ms; animation-delay: 0ms; animation-name: none;">
+                
+                <div class="content-box pull-left">	
+                    <h2>Welcome to <span class="theme_color">Bankim Seeds</span></h2>
+                    <div class="text">The year 1920 was momentous in the history of Bankim Prosad Ghosh Seeds. A small seed company with a big vision ........</div>
+                    <a href="https://bankimseed.com/front/Seeds/about/" class="theme-btn btn-style-two">Read More About Us</a>
+					<a href="https://bankimseed.com/front/Seeds/Products/" class="theme-btn btn-style-one">View Products</a>
+                    
+                </div>
+                
+                <div class="clearfix"></div>
+            </article>
+            
+        </div>
+        
+    </section>
+    
+   		
+    <!--Blog News Section-->
+		
+    <section class="blog-news-section latest-news">
+        <div class="auto-container">
+            
+            <div class="sec-title text-center">
+                <h2>Latest <span class="normal-font theme_color">News</span></h2>
+                <div class="text">**************************************</div>
+            </div>
+            <div class="row clearfix">
+                
+													
+					 <div class="column blog-news-column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <article class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 0ms; animation-name: none;">
+                        <figure class="image-box">
+                           <img src="https://bankimseed.com/admin/uploads/news_news_pic6.php" alt="" style="width:100%; height:300px;">
+                            <div class="news-date">23 <span class="month">
+							OCT</span></div>
+                        </figure>
+                        <div class="content-box">
+                            <h3><a href="#">sadad</a></h3>
+                          <!--  <div class="post-info clearfix">
+                                <div class="post-author">Posted by Admin</div>
+                                <div class="post-options clearfix">
+                                    <a href="#" class="comments-count"><span class="icon flaticon-communication-2"></span> 6</a>
+                                    <a href="#" class="fav-count"><span class="icon flaticon-favorite-1"></span> 14</a>
+                                </div>
+                            </div>-->
+                            <div class="text">
+							<p>safsaf</p>
+....							</div>
+                            <a href="https://bankimseed.com/front/Seeds/NewsEvents/" class="theme-btn read-more">Read More</a>
+                        </div>
+                    </article>
+                </div>			
+													
+					 <div class="column blog-news-column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                    <article class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: hidden; animation-duration: 1500ms; animation-delay: 0ms; animation-name: none;">
+                        <figure class="image-box">
+                           <img src="https://bankimseed.com/admin/uploads/news_news_pic7.php" alt="" style="width:100%; height:300px;">
+                            <div class="news-date">27 <span class="month">
+							APR</span></div>
+                        </figure>
+                        <div class="content-box">
+                            <h3><a href="#">asd</a></h3>
+                          <!--  <div class="post-info clearfix">
+                                <div class="post-author">Posted by Admin</div>
+                                <div class="post-options clearfix">
+                                    <a href="#" class="comments-count"><span class="icon flaticon-communication-2"></span> 6</a>
+                                    <a href="#" class="fav-count"><span class="icon flaticon-favorite-1"></span> 14</a>
+                                </div>
+                            </div>-->
+                            <div class="text">
+							<p>asd</p>
+....							</div>
+                            <a href="https://bankimseed.com/front/Seeds/NewsEvents/" class="theme-btn read-more">Read More</a>
+                        </div>
+                    </article>
+                </div>			
+								
+                <!--News Column-->
+               
+                                
+            </div>
+        </div>
+    </section>
+    
+	    
+    <!--Two Column Fluid -->
+    <section class="two-column-fluid">
+    	
+        
+    	<div class="outer clearfix">
+        	
+            
+            <article class="column left-column" style="background-image:url(https://bankimseed.com/front/theme_files/images/resource/fluid-image-3.jpg);">
+                
+                <div class="content-box pull-right">	
+                    <h2>Research &amp;<span class="normal-font theme_color">Development</span></h2>
+                    <div class="text">Research &amp; Development is a continuous  process at Bankim Seeds . In last 100 years of existence , we have identified many farmer�s variety which are further used for varietal development and breeding activity.</div>
+                    <br>
+                    <a href="https://bankimseed.com/front/Seeds/ResearchAndDevelopment/" class="theme-btn btn-style-two">Read More</a>
+                    
+                </div>
+                
+                <div class="clearfix"></div>
+            </article>
+            
+            <article class="column right-column" style="background-image:url(https://bankimseed.com/front/theme_files/images/resource/fluid-image-4.jpg);">
+                
+                <div class="content-box pull-left">	
+                	<div class="outer-box">
+                    	<div class="quote-icon"><span class="fa fa-quote-left"></span></div>
+                        <h2>Contract Seed<span class="normal-font">  Production</span></h2>
+                        
+                        <!--Text Content-->
+                        <div class="text-content">
+                            <div class="text"><p>We have almost 100  years experience in the vegetable seed production business. We specialize in the production of seeds of  tropical vegetable crops and our emphasis is to deliver  quality seeds maintain  physical and genetic purity of highest order. </p></div>
+                            <a href="https://bankimseed.com/front/Seeds/ContractSeedProduction/" class="theme-btn btn-style-one">Read More</a>
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="clearfix"></div>
+            </article>
+            
+        </div>
+        
+    </section>
+    
+   
+    <!--Testimonials-->
+    
+    
+    <!--Sponsors Section-->
+     
+      <!--Main Footer-->
+ 	
+   <footer class="main-footer" style="background-image:url(images/background/footer-bg.jpg);">
+    	
+        <!--Footer Upper-->        
+        <div class="footer-upper">
+            <div class="auto-container">
+                <div class="row clearfix">
+                	
+                    <!--Two 4th column-->
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+                    	<div class="row clearfix">
+                            <div class="col-lg-8 col-sm-6 col-xs-12 column">
+                                <div class="footer-widget about-widget">
+                                    <div class="logo"><a href="index-2.html"><img src="images/logo-2.png" class="img-responsive" alt=""></a></div>
+                                    
+									
+                                    
+                                    <ul class="contact-info">
+									<h2>Address and Contact</h2>
+                                    	<li><span class="icon fa fa-map-marker"></span>11/2,Kailash Chandra Singha Lane 
+										<strong> P.O</strong>:&nbsp;Bally,&nbsp;<strong>Dist:</strong>Howrah,&nbsp;<strong>Pin-</strong>&nbsp;711201
+										<br>West Bengal, India.</li>
+                                        <li><span class="icon fa fa-phone"></span>9433020153</li>
+                                        <li><span class="icon fa fa-envelope-o"></span> <a href="mailto:info@bankimseed.com">seedsbankim@gmail.com</a></li>
+                                    </ul>
+                                    
+                                    <div class="social-links-two clearfix">
+									
+                                    	<a href="#" class="facebook img-circle"><span class="fa fa-facebook-f"></span></a>
+                                        <a href="#" class="twitter img-circle"><span class="fa fa-twitter"></span></a>
+                                        <a href="#" class="google-plus img-circle"><span class="fa fa-google-plus"></span></a>
+                                        <a href="#" class="linkedin img-circle"><span class="fa fa-pinterest-p"></span></a>
+                                        <a href="#" class="linkedin img-circle"><span class="fa fa-linkedin"></span></a>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            
+                            <!--Footer Column-->
+                            <div class="col-lg-4 col-sm-6 col-xs-12 column">
+                                <h2>Quick Links</h2>
+                                <div class="footer-widget links-widget">
+                                    <ul>
+                                        <li><a href="https://bankimseed.com/front/Seeds/">Home</a></li>
+                                        <li><a href="https://bankimseed.com/front/Seeds/about/">About Us</a></li>
+                                        <li><a href="https://bankimseed.com/front/Seeds/ResearchAndDevelopment/">R &amp; D</a></li>
+                                        <li><a href="https://bankimseed.com/front/Seeds/ContractSeedProduction/">Contract Seed Production</a></li>
+										 <li><a href="https://bankimseed.com/front/Seeds/Products/">Products</a></li>
+										<li><a href="https://bankimseed.com/front/Seeds/NewsEvents/">News &amp; Events</a></li>
+										<li><a href="https://bankimseed.com/front/Seeds/contact/">Contact Us</a></li>
+                                    </ul>
+        
+                                </div>
+                            </div>
+                    	</div>
+                    </div><!--Two 4th column End-->
+                    
+                    <!--Two 4th column-->
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+                    	<div class="row clearfix">
+
+                            <!--Footer Column-->
+                           <!-- <div class="col-lg-5 col-sm-6 col-xs-12 column">
+                                <div class="footer-widget links-widget">
+                                    <h2>Products</h2>
+                                    <ul>
+                                        <li><a href="#">Product Category One</a></li>
+                                        <li><a href="#">Product Category Two</a></li>
+                                        <li><a href="#">Product Category Three</a></li>
+                                        <li><a href="#">Product Category Four</a></li>
+                                    </ul>
+        
+                                </div>
+                            </div>-->
+                    		<!--Footer Column-->
+                        	<div class="col-lg-7 col-sm-6 col-xs-12 column">
+                            	<div class="footer-widget news-widget">
+                                	<h2>Locate Us</h2>	
+                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7364.609699959538!2d88.34262162455728!3d22.64241979058749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89d1749eea9b1%3A0xb5cdff20b6257eac!2sBANKIM%20PROSAD%20GHOSH%20SEEDS%20PVT%20LTD!5e0!3m2!1sen!2sin!4v1572793530948!5m2!1sen!2sin" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+									 
+                            
+                                    
+                                </div>
+                            </div>
+                            
+                            
+                    	</div>
+                    </div><!--Two 4th column End-->
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+        <!--Footer Bottom-->
+    	<div class="footer-bottom">
+            <div class="auto-container clearfix">
+                <!--Copyright-->
+                <div class="copyright text-center">Copyright 2019 © Bankim Seed.</div>
+            </div>
+        </div>
+        
+    </footer>    
+</div>
+<!--End pagewrapper-->
+
+
+<!--Scroll to top-->
+<div class="scroll-to-top scroll-to-target" data-target=".main-header"><span class="fa fa-long-arrow-up"></span></div>
+
+
+<!--Donate Popup-->
+<div class="modal fade pop-box" id="donate-popup" tabindex="-1" role="dialog" aria-labelledby="donate-popup" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        	<!--Donation Section-->
+            <section class="donation-section">
+                <div class="donation-form-outer">
+                    <form method="post" action="https://world5.commonsupport.com/html/greenture-new/contact.html">
+                        
+                        <!--Form Portlet-->
+                        <div class="form-portlet">
+                            <h4>Leave us a Message</h4>
+                            
+                            <div class="row clearfix">
+                                
+                                <div class="form-group col-lg-6 col-md-6 col-xs-12">
+                                    <div class="field-label">First Name <span class="required">*</span></div>
+                                    <input type="text" name="name" value="" placeholder="First Name" required="">
+                                </div>
+                                
+                                <div class="form-group col-lg-6 col-md-6 col-xs-12">
+                                    <div class="field-label">Email <span class="required">*</span></div>
+                                    <input type="email" name="name" value="" placeholder="Email" required="">
+                                </div>
+                                
+                                <div class="form-group col-lg-6 col-md-6 col-xs-12">
+                                    <div class="field-label">Phone <span class="required">*</span></div>
+                                    <input type="text" name="name" value="" placeholder="Phone" required="">
+                                </div>
+
+                                <div class="form-group col-lg-6 col-md-6 col-xs-12">
+                                    <div class="field-label">Subject <span class="required">*</span></div>
+                                    <input type="text" name="name" value="" placeholder="Subject" required="">
+                                </div>
+                                
+                                <div class="form-group col-lg-12 col-md-12 col-xs-12">
+                                    <div class="field-label">Message <span class="required">*</span></div>
+                                    <textarea class="from-control" rows="4"></textarea>
+                                </div>
+
+                            </div>
+                        </div>
+                        
+                        <div class="text-left"><button type="submit" class="theme-btn btn-style-two">Send Message</button></div>
+                        
+                    </form>
+                </div>
+            </section>
+        </div>
+    <!-- /.modal-content -->
+    </div>
+<!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+
+<script src="https://bankimseed.com/front/theme_files/js/jquery.js"></script> 
+<script src="https://bankimseed.com/front/theme_files/js/bootstrap.min.js"></script>
+<script src="https://bankimseed.com/front/theme_files/js/revolution.min.js"></script>
+<script src="https://bankimseed.com/front/theme_files/js/jquery.fancybox.pack.js"></script>
+<script src="https://bankimseed.com/front/theme_files/js/jquery.fancybox-media.js"></script>
+<script src="https://bankimseed.com/front/theme_files/js/owl.js"></script>
+<script src="https://bankimseed.com/front/theme_files/js/wow.js"></script>
+<script src="https://bankimseed.com/front/theme_files/js/script.js"></script>
+
+</body>

@@ -1,0 +1,356 @@
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>TexPima S.A.C.</title>
+
+        <link rel="icon" href="img/fav.png" type="image/png">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+        <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+        <style>
+            :root {
+                --dark-brown: #3B2417;
+                --medium-brown: #6B3F27;
+                --golden: #A46D20;
+                --beige: #D9C5A4;
+                --cream: #F6EFDE;
+            }
+
+            html, body {
+                margin: 0;
+                font-family: 'Segoe UI', sans-serif;
+                background-color: #fff;
+                scroll-behavior: smooth;
+            }
+
+            .navbar {
+                    background: rgba(255, 255, 255, 0.85); /* blanco translúcido */
+
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+                padding: 0.4rem 2.5cm;
+                transition: all 0.3s ease;
+                z-index: 999;
+            }
+
+            .navbar-brand img {
+                max-width: 100px;
+                height: auto;
+                transition: transform 0.3s ease;
+            }
+
+            .navbar-brand:hover img {
+                transform: scale(1.04);
+            }
+
+            .navbar-nav .nav-link {
+                font-weight: 500;
+                color: var(--dark-brown);
+                position: relative;
+                margin-left: 1rem;
+                padding-bottom: 4px;
+                transition: all 0.3s ease;
+            }
+
+            .navbar-nav .nav-link:hover,
+            .navbar-nav .nav-link.active {
+                color: var(--dark-brown);
+            }
+
+            .navbar-nav .nav-link::after {
+                content: "";
+                position: absolute;
+                width: 0%;
+                height: 2px;
+                left: 0;
+                bottom: 0;
+                background-color: var(--golden);
+                transition: width 0.3s ease;
+            }
+
+            .navbar-nav .nav-link:hover::after,
+            .navbar-nav .nav-link.active::after {
+                width: 100%;
+            }
+
+            .language-switch a {
+                font-size: 0.85rem;
+                color: var(--medium-brown);
+                margin-left: 0.5rem;
+                padding: 3px 6px;
+                border-radius: 4px;
+                text-decoration: none;
+                transition: background 0.3s, color 0.3s;
+            }
+
+            .language-switch a.active,
+            .language-switch a:hover {
+                background-color: var(--dark-brown);
+                color: white;
+                font-weight: 600;
+            }
+
+            .navbar-toggler {
+                border: none;
+            }
+
+            .navbar-toggler:focus {
+                box-shadow: none;
+            }
+
+            @media (max-width: 767.98px) {
+                .navbar {
+                    padding: 0.75rem 1rem;
+                }
+
+                .navbar-brand img {
+                    max-width: 120px;
+                }
+
+                .navbar-nav .nav-link {
+                    margin: 0.25rem 0;
+                    text-align: center;
+                    font-size: 1rem;
+                }
+
+                .navbar-collapse {
+                    background-color: rgba(255, 255, 255, 0.95);
+                    border-radius: 8px;
+                    padding: 1rem 0.5rem;
+                }
+
+                .language-switch {
+                    justify-content: center;
+                    margin-top: 1rem;
+                    flex-wrap: wrap;
+                }
+
+                .language-switch a {
+                    margin: 0.25rem;
+                    font-size: 0.9rem;
+                }
+            }
+        </style>
+    </head><body data-aos-easing="ease" data-aos-duration="800" data-aos-delay="0">
+
+        <nav class="navbar navbar-expand-lg fixed-top">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.php?lang=es">
+                    <img src="img/Nuevo logo Texpima 2023-01.png" alt="TexPima logo" class="img-fluid mx-auto d-block">
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-end" id="mainNavbar">
+                    <ul class="navbar-nav align-items-lg-center">
+                        <li class="nav-item">
+                            <a class="nav-link " href="Nosotros.php?lang=es">
+                                Nosotros                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="productos.php?lang=es">
+                                Productos                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="tecnologia.php?lang=es">
+                                Tecnología                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="certificaciones.php?lang=es">
+                                Certificaciones y RSE                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="equipo.php?lang=es">
+                                Equipo humano                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="contacto.php?lang=es">
+                                Contacto                            </a>
+                        </li>
+                    </ul>
+
+                    <!-- Idiomas -->
+                    <div class="language-switch d-flex align-items-center ms-lg-3 mt-3 mt-lg-0">
+                        <a href="index.php?lang=es" class="active">ES</a>
+                        <a href="index.php?lang=en" class="">EN</a>
+                        <a href="index.php?lang=fr" class="">FR</a>
+                        <a href="index.php?lang=zh" class="">JA</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Scripts -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+  document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
+    
+
+<style>
+      p {
+    color: #000;
+    font-size: 0.95rem;
+  }
+</style>
+<!-- AOS CSS -->
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+<main class="container-fluid px-0" style="margin-top: 0px;">
+
+  <!-- Hero -->
+<section class="position-relative text-white text-center d-flex align-items-center justify-content-center aos-init aos-animate" style="height: 82vh; width: 100%; overflow: hidden; margin-top: 2.5cm;" data-aos="fade-in">
+
+<img src="img/P10101111.JPG" alt="Hero background" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover" style="z-index: 1; object-position: center 16%;">
+  
+  <div class="position-relative z-2" style="background-color: rgba(0,0,0,0.2); padding: 2rem; border-radius: 8px; max-width: 1000px; margin-top: 16rem;">
+    <h1 class="display-5 fw-bold">Bienvenidos a TexPima S.A.C.</h1>
+    <p class="lead" style="color:white">Más de 30 años ofreciendo textiles peruanos de alta calidad al mundo.</p>
+    <a href="productos.php?lang=es" class="btn btn-light mt-3">Ver Productos</a>
+  </div>
+
+</section>
+
+  <!-- Misión y Visión -->
+<section class="container py-5">
+  <div class="row text-center justify-content-center align-items-start">
+    <div class="col-md-5 mb-4 b border-3 pe-md-5 me-md-5 aos-init" data-aos="fade-right">
+      <h3 style="color: var(--medium-brown);">Nuestra Misión</h3>
+      <p>Ofrecer productos textiles con excelencia, sostenibilidad e innovación, superando las expectativas de nuestros clientes a nivel nacional e internacional.</p>
+    </div>
+    <div class="col-md-5 mb-4 ps-md-5 ms-md-5 aos-init" data-aos="fade-left">
+      <h3 style="color: var(--medium-brown);">Nuestra Visión</h3>
+      <p>Ser líderes en exportación textil peruana, promoviendo el desarrollo humano y el respeto por el medio ambiente.</p>
+    </div>
+  </div>
+</section>
+
+
+
+  <!-- Sección de productos destacados -->
+<section class="container py-5">
+  <h2 class="text-center mb-5 aos-init" style="color: var(--medium-brown);" data-aos="fade-up">Ofrecemos</h2>
+  <div class="row g-4">
+
+    <!-- Producto 1 -->
+    <div class="col-md-4 aos-init" data-aos="zoom-in" data-aos-delay="0">
+      <div class="border rounded shadow-sm p-3 text-center h-100">
+        <img src="img/algodon.jpg" alt="Prendas de algodón Pima" class="img-fluid mb-3 rounded" style="height: 200px; object-fit: cover; width: 100%;">
+        <h5 style="color: var(--medium-brown);" class="fw-bold">Prendas de algodón Pima</h5>
+        <!--<p>Suavidad y durabilidad insuperables para marcas exigentes.</p>-->
+      </div>
+    </div>
+
+    <!-- Producto 2 -->
+    <div class="col-md-4 aos-init" data-aos="zoom-in" data-aos-delay="100">
+      <div class="border rounded shadow-sm p-3 text-center h-100">
+        <img src="img/p2.jpg" alt="Manufactura sostenible" class="img-fluid mb-3 rounded" style="height: 200px; object-fit: cover; width: 100%;">
+        <h5 style="color: var(--medium-brown);" class="fw-bold">Manufactura sostenible</h5>
+        <!--<p>Fabricadas con procesos responsables con el medio ambiente.</p>-->
+      </div>
+    </div>
+
+    <!-- Producto 3 -->
+    <div class="col-md-4 aos-init" data-aos="zoom-in" data-aos-delay="200">
+      <div class="border rounded shadow-sm p-3 text-center h-100">
+        <img src="img/p3.webp" alt="Confección personalizada" class="img-fluid mb-3 rounded" style="height: 200px; object-fit: cover; width: 100%;">
+        <h5 style="color: var(--medium-brown);" class="fw-bold">Confección personalizada</h5>
+        <!--<p>Adaptamos nuestras prendas a las necesidades de tu marca.</p>-->
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+</main>
+
+<!-- AOS JS -->
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 800,
+    once: true
+  });
+</script>
+
+
+<footer style="background-color: var(--cream); color: var(--dark-brown); border-top: 1px solid var(--beige);">
+  <div class="container py-5">
+
+    <!-- Logo centrado arriba -->
+    <div class="">
+      <img src="img/Nuevo logo Texpima 2023-01.png" alt="TexPima logo" style="height: 90px; object-fit: contain;">
+    </div>
+
+    <!-- Tres columnas alineadas -->
+    <div class="row gy-4 align-items-start justify-content-between">
+
+      <!-- Columna 1: About -->
+      <div class="col-md-4">
+        <h6 class="fw-bold mb-2">Sobre TexPima</h6>
+        <p style="font-size: 0.95rem;" class="mb-2">TexPima S.A.C. es una empresa peruana fundada en 1995, especializada en la confección y exportación de prendas de vestir. Con más de 30 años de experiencia, trabajando con los más altos estándares de calidad, sostenibilidad y responsabilidad social.</p>
+        <div class="d-flex gap-3 mt-2">
+          <a href="#" class="text-dark" aria-label="LinkedIn"><i class="bi bi-linkedin fs-5"></i></a>
+          <a href="#" class="text-dark" aria-label="Instagram"><i class="bi bi-instagram fs-5"></i></a>
+          <a href="#" class="text-dark" aria-label="YouTube"><i class="bi bi-youtube fs-5"></i></a>
+        </div>
+      </div>
+
+      <!-- Columna 2: Menu -->
+      <div class="col-md-4 ms-md-5">
+<h6 class="fw-bold mb-3 text-center">Menú</h6>
+        <div class="row">
+          <div class="col-6">
+            <ul class="mb-0 ms-3">
+              <li><a href="Nosotros.php?lang=es" class="text-decoration-none text-dark">Nosotros</a></li>
+              <li><a href="productos.php?lang=es" class="text-decoration-none text-dark">Productos</a></li>
+              <li><a href="tecnologia.php?lang=es" class="text-decoration-none text-dark">Tecnología</a></li>
+              <li><a href="certificaciones.php?lang=es" class="text-decoration-none text-dark">Certificaciones y RSE</a></li>
+            </ul>
+          </div>
+          <div class="col-6">
+            <ul class="mb-0 ms-3">
+              <li><a href="equipo.php?lang=es" class="text-decoration-none text-dark">Equipo humano</a></li>
+              <li><a href="contacto.php?lang=es" class="text-decoration-none text-dark">Contacto</a></li>
+              <li><a href="politicas.php?lang=es" class="text-decoration-none text-dark">Política de Privacidad</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Columna 3: Oficina -->
+      <div class="col-md-3 ps-md-4">
+        <h6 class="fw-bold mb-3">Oficina y Planta</h6>
+        <address style="font-size: 0.95rem;" class="mb-2">
+          Av. Mariscal Eloy Ureta 299<br>
+          Urb. Industrial El Pino, San Luis 15022<br>
+          Lima - Perú        </address>
+        <p class="mb-1"><i class="bi bi-telephone-fill me-2"></i> (01) 715 1140</p>
+        <p class="mb-0"><i class="bi bi-envelope-fill me-2"></i> info@texpima.com</p>
+        <a href="https://www.maraintimates.com" class="text-dark d-inline-flex align-items-center gap-2 text-decoration-none" aria-label="Sitio web oficial" target="_blank" rel="noopener noreferrer">
+  <i class="bi bi-globe2 fs-5"></i>
+  <span>www.maraintimates.com</span>
+</a>
+      </div>
+
+    </div>
+
+    <!-- Línea y derechos -->
+    <hr class="my-4" style="border-color: var(--beige);">
+    <div class="text-center small text-muted">
+      © 2026 TexPima S.A.C. Todos los derechos reservados.    </div>
+  </div>
+
+  <!-- Bootstrap Icons y JS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</footer>
+
+
+
+</body>

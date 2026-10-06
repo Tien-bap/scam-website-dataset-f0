@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_460852b866363c3114d93239db613800377808b8ec1d02d52e4047abe62eb764",
+  "candidate_sha256": "6192ea5341549d27363b763ec907ee90c26832530d34824457e9472fa0d0e0ee",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://tyso7mcn.com",
+  "requested_url": "https://tyso7mcn.com",
+  "browser_final_url": "https://tyso7mcn.com/",
+  "source_urls": [
+    "https://tyso7mcn.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2351,
+      "source_url": "https://tyso7mcn.com",
+      "source_hostname": "tyso7mcn.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://tyso7mcn.com",
+      "final_hostname": "tyso7mcn.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 970,
+      "checked_at": "2026-10-05T12:19:44.746177+00:00",
+      "error": null,
+      "normalized_source_url": "https://tyso7mcn.com/",
+      "normalized_final_url": "https://tyso7mcn.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_460852b866363c3114d93239db613800377808b8ec1d02d52e4047abe62eb764",
+    "representative_source_index": 2351,
+    "representative_source_url": "https://tyso7mcn.com",
+    "representative_final_url": "https://tyso7mcn.com",
+    "normalized_final_url": "https://tyso7mcn.com/",
+    "source_hostname": "tyso7mcn.com",
+    "final_hostname": "tyso7mcn.com",
+    "source_urls": [
+      "https://tyso7mcn.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 2351,
+        "source_url": "https://tyso7mcn.com",
+        "source_hostname": "tyso7mcn.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://tyso7mcn.com",
+        "final_hostname": "tyso7mcn.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 970,
+        "checked_at": "2026-10-05T12:19:44.746177+00:00",
+        "error": null,
+        "normalized_source_url": "https://tyso7mcn.com/",
+        "normalized_final_url": "https://tyso7mcn.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "7m.cn ⭐️ Tỷ số trực tuyến 7m cn, bongda 7m livescore có tỷ lệ",
+  "capture_timestamp": "2026-10-05T14:41:33.984680+00:00",
+  "dom_chars": 67761,
+  "screenshot_bytes": 73704,
+  "dom_sha256": "96dbb2c0db6afed2031719d8b389053afda66b29100cf4bd57d805370dc15ccc",
+  "screenshot_sha256": "3d74c5eeeae4f08568625734a463123dac009ab63cda4a2f3bfa76a74d7a8cdb",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://tyso7mcn.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://tyso7mcn.com",
+    "browser_final_url": "https://tyso7mcn.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 4
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 7031
+}

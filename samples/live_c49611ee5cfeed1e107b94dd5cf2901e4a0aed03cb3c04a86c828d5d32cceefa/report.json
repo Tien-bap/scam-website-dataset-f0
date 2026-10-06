@@ -1,0 +1,147 @@
+{
+  "candidate_id": "live_c49611ee5cfeed1e107b94dd5cf2901e4a0aed03cb3c04a86c828d5d32cceefa",
+  "candidate_sha256": "615451d5acb8826dc15d7942722d93652d3f70ab831cf1709451de679e43038d",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://sv88.vip",
+  "requested_url": "https://sv88.fish/",
+  "browser_final_url": "https://sv88.fish/",
+  "source_urls": [
+    "https://sv88.vip"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 3025,
+      "source_url": "https://sv88.vip",
+      "source_hostname": "sv88.vip",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sv88.fish/",
+      "final_hostname": "sv88.fish",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 744,
+      "checked_at": "2026-10-05T12:40:48.209724+00:00",
+      "error": null,
+      "normalized_source_url": "https://sv88.vip/",
+      "normalized_final_url": "https://sv88.fish/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_c49611ee5cfeed1e107b94dd5cf2901e4a0aed03cb3c04a86c828d5d32cceefa",
+    "representative_source_index": 3025,
+    "representative_source_url": "https://sv88.vip",
+    "representative_final_url": "https://sv88.fish/",
+    "normalized_final_url": "https://sv88.fish/",
+    "source_hostname": "sv88.vip",
+    "final_hostname": "sv88.fish",
+    "source_urls": [
+      "https://sv88.vip"
+    ],
+    "provenance": [
+      {
+        "source_index": 3025,
+        "source_url": "https://sv88.vip",
+        "source_hostname": "sv88.vip",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sv88.fish/",
+        "final_hostname": "sv88.fish",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 744,
+        "checked_at": "2026-10-05T12:40:48.209724+00:00",
+        "error": null,
+        "normalized_source_url": "https://sv88.vip/",
+        "normalized_final_url": "https://sv88.fish/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "SV88 - Nhà cái cá cược trực tuyến uy tín",
+  "capture_timestamp": "2026-10-05T14:55:00.283778+00:00",
+  "dom_chars": 914594,
+  "screenshot_bytes": 456787,
+  "dom_sha256": "ab5a826530234ff70960675ce65fa093724f5b5a53590c7ff5de7c62129f27c9",
+  "screenshot_sha256": "72f8623c28511ea5f9a53267aaf74a49958b67b2cbf7247765c79606bf0104d0",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://sv88.fish/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://sv88.fish/",
+    "browser_final_url": "https://sv88.fish/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3313
+}

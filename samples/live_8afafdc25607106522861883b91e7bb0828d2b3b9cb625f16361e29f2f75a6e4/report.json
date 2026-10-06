@@ -1,0 +1,156 @@
+{
+  "candidate_id": "live_8afafdc25607106522861883b91e7bb0828d2b3b9cb625f16361e29f2f75a6e4",
+  "candidate_sha256": "0e135dd6c859dedaa47f1f584cce91734881fa5b20af8fd6dd3f6e2ce69a1050",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://cuoctai11bet.me",
+  "requested_url": "https://nhacai11bet.link/",
+  "browser_final_url": "https://nhacai11bet.link/",
+  "source_urls": [
+    "https://cuoctai11bet.me"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 984,
+      "source_url": "https://cuoctai11bet.me",
+      "source_hostname": "cuoctai11bet.me",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://nhacai11bet.link/",
+      "final_hostname": "nhacai11bet.link",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2186,
+      "checked_at": "2026-10-05T12:18:15.461342+00:00",
+      "error": null,
+      "normalized_source_url": "https://cuoctai11bet.me/",
+      "normalized_final_url": "https://nhacai11bet.link/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_8afafdc25607106522861883b91e7bb0828d2b3b9cb625f16361e29f2f75a6e4",
+    "representative_source_index": 984,
+    "representative_source_url": "https://cuoctai11bet.me",
+    "representative_final_url": "https://nhacai11bet.link/",
+    "normalized_final_url": "https://nhacai11bet.link/",
+    "source_hostname": "cuoctai11bet.me",
+    "final_hostname": "nhacai11bet.link",
+    "source_urls": [
+      "https://cuoctai11bet.me"
+    ],
+    "provenance": [
+      {
+        "source_index": 984,
+        "source_url": "https://cuoctai11bet.me",
+        "source_hostname": "cuoctai11bet.me",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://nhacai11bet.link/",
+        "final_hostname": "nhacai11bet.link",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2186,
+        "checked_at": "2026-10-05T12:18:15.461342+00:00",
+        "error": null,
+        "normalized_source_url": "https://cuoctai11bet.me/",
+        "normalized_final_url": "https://nhacai11bet.link/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 3,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "11Bet - Lịch sử 11bet từ khi thành lập đến nay - Cuoc Tai 11Bet",
+  "capture_timestamp": "2026-10-05T16:43:56.125647+00:00",
+  "dom_chars": 172360,
+  "screenshot_bytes": 505758,
+  "dom_sha256": "0db11c07127cf30b51c6a41e57469a2a301429fd4997a0ed16fbc9205c977b5f",
+  "screenshot_sha256": "0b93501b4e29ce93717206f557c4c4b65a4894d8d44431d33ec1806dbe5cefea",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://nhacai11bet.link/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://nhacai11bet.link/",
+    "browser_final_url": "https://nhacai11bet.link/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 2454,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:48:53.083509+00:00",
+    "previous_report_sha256": "8f888a83cfc93d0a50bfe4242d99e8e4d3e1be4ee8a5dd0bd505ac752738088c",
+    "recovered_at": "2026-10-05T16:43:56.125647+00:00",
+    "result": "complete"
+  }
+}

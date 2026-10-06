@@ -1,0 +1,27 @@
+{
+  "original_url": "https://mollydoylefitness.com/www/GPredirecterDone/2fcd5cf1ebcd4213d8a17edc4cd47ad7?usy=Zml0bmVzc0BoaHMuZ292",
+  "hostname": "mollydoylefitness.com",
+  "checked_at": "2026-10-04T14:21:22.708947+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fce42-3610-74cf-a6fd-8b2299ab03d8",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-04T19:31:27.657Z",
+  "scan_original_url": "https://mollydoylefitness.com/",
+  "final_url": "https://mollydoylefitness.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5201,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.216,
+  "discovery": {
+    "batch_id": "2b24642a336ce12cb96b5b023f252aba86b8269bf9259f6c126652a348f88571",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

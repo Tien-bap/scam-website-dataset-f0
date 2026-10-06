@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_7af61279a61ee0fdc82d48d9eca0ec5b2230298e2b037b1a8f0e0fb0a62b1484",
+  "candidate_sha256": "868744128b96059df3f5b5f5e87fe994e34e966d4ec84be5ca5db4ee48b368aa",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://thucphamlytuong.vn/ch",
+  "requested_url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+  "browser_final_url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+  "source_urls": [
+    "http://thucphamlytuong.vn/ch"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 109991,
+      "source_url": "http://thucphamlytuong.vn/ch",
+      "source_hostname": "thucphamlytuong.vn",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+      "final_hostname": "thucphamlytuong.vn",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2589,
+      "checked_at": "2026-10-05T13:09:35.691044+00:00",
+      "error": null,
+      "normalized_source_url": "http://thucphamlytuong.vn/ch",
+      "normalized_final_url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_7af61279a61ee0fdc82d48d9eca0ec5b2230298e2b037b1a8f0e0fb0a62b1484",
+    "representative_source_index": 109991,
+    "representative_source_url": "http://thucphamlytuong.vn/ch",
+    "representative_final_url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+    "normalized_final_url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+    "source_hostname": "thucphamlytuong.vn",
+    "final_hostname": "thucphamlytuong.vn",
+    "source_urls": [
+      "http://thucphamlytuong.vn/ch"
+    ],
+    "provenance": [
+      {
+        "source_index": 109991,
+        "source_url": "http://thucphamlytuong.vn/ch",
+        "source_hostname": "thucphamlytuong.vn",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+        "final_hostname": "thucphamlytuong.vn",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2589,
+        "checked_at": "2026-10-05T13:09:35.691044+00:00",
+        "error": null,
+        "normalized_source_url": "http://thucphamlytuong.vn/ch",
+        "normalized_final_url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Chà Bông (Ruốc) Bề Bề Lý Tưởng 100g",
+  "capture_timestamp": "2026-10-05T14:47:25.522240+00:00",
+  "dom_chars": 172255,
+  "screenshot_bytes": 326077,
+  "dom_sha256": "261ce82945db279e527d112390b5679fd164c093d49cdb6b75fa68512bb24acf",
+  "screenshot_sha256": "a9615fe66d39b36a3aca4cf7ab0a4d4491b987efbef3baf41f877e5ec784f344",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+    "browser_final_url": "https://thucphamlytuong.vn/sanpham/do-an-che-bien-san/cha-bong-ruoc-be-be-ly-tuong-100g/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 11
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5283
+}

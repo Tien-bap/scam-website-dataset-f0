@@ -1,0 +1,27 @@
+{
+  "original_url": "http://ebayfraud.gremlins-in-it.com/fraudulent.html",
+  "hostname": "ebayfraud.gremlins-in-it.com",
+  "checked_at": "2026-10-04T14:16:09.120757+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fdee3-8900-778d-a841-7efe517b4b31",
+  "match_kind": "exact_url",
+  "capture_timestamp": "2026-08-08T01:01:27.984Z",
+  "scan_original_url": "http://ebayfraud.gremlins-in-it.com/fraudulent.html",
+  "final_url": "https://ebayfraud.gremlins-in-it.com/fraudulent.html",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 6593,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 1.244,
+  "discovery": {
+    "batch_id": "645fbabd900369bdcbd182afa067e962e6dbf211c0d9d5aa1b0220f5f3484b25",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

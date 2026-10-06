@@ -1,0 +1,27 @@
+{
+  "original_url": "http://3ff7c459-86b2-4f6d-b6b0-ba6402ef6cb0.htmlcomponentservice.com/get_draft?id=3ff7c4_39f5e951394368f9e49c63fbf3166add.html",
+  "hostname": "3ff7c459-86b2-4f6d-b6b0-ba6402ef6cb0.htmlcomponentservice.com",
+  "checked_at": "2026-10-04T13:39:20.557543+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fb5b0-6617-762d-8ee4-04ad15ff0d01",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-31T01:01:10.905Z",
+  "scan_original_url": "https://3ff7c459-86b2-4f6d-b6b0-ba6402ef6cb0.htmlcomponentservice.com/get_draft?id=3ff7c4_39f5e951394368f9e49c63fbf3166add.html",
+  "final_url": "https://3ff7c459-86b2-4f6d-b6b0-ba6402ef6cb0.htmlcomponentservice.com/get_draft?id=3ff7c4_39f5e951394368f9e49c63fbf3166add.html",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2789,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.222,
+  "discovery": {
+    "batch_id": "ac02a83a073d01de74769d4cc252ef62d55bab64c630d9a60eb526fe79587224",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_a132fcc5cbae6665dbca7aabe0c93410e93bb37e657ca9ad4601142607af0fc8",
+  "candidate_sha256": "3efea8a7b62d30416f5443807602a148d08718b495f97bf4f5748577b42ed542",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+  "requested_url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+  "browser_final_url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+  "source_urls": [
+    "http://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 57185,
+      "source_url": "http://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+      "source_hostname": "www.amazonlogistics.eu",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+      "final_hostname": "www.amazonlogistics.eu",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3771,
+      "checked_at": "2026-10-05T12:54:27.205259+00:00",
+      "error": null,
+      "normalized_source_url": "http://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+      "normalized_final_url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_a132fcc5cbae6665dbca7aabe0c93410e93bb37e657ca9ad4601142607af0fc8",
+    "representative_source_index": 57185,
+    "representative_source_url": "http://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+    "representative_final_url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+    "normalized_final_url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+    "source_hostname": "www.amazonlogistics.eu",
+    "final_hostname": "www.amazonlogistics.eu",
+    "source_urls": [
+      "http://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1"
+    ],
+    "provenance": [
+      {
+        "source_index": 57185,
+        "source_url": "http://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+        "source_hostname": "www.amazonlogistics.eu",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+        "final_hostname": "www.amazonlogistics.eu",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3771,
+        "checked_at": "2026-10-05T12:54:27.205259+00:00",
+        "error": null,
+        "normalized_source_url": "http://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+        "normalized_final_url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Amazon Sign In",
+  "capture_timestamp": "2026-10-05T14:51:07.524824+00:00",
+  "dom_chars": 139697,
+  "screenshot_bytes": 26310,
+  "dom_sha256": "0b62de4e11a59aa5a9ad4cad9b2d3ba49a34b2403d38c7b2e4f8f3bd135fe777",
+  "screenshot_sha256": "c9f81f8c37d1a9c45aea7eb6b204c3e13f5e64c61d6b24ed778c547c7c3eb910",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+    "browser_final_url": "https://www.amazonlogistics.eu/ap/signin?clientContext=260-7543028-8369737&openid.pape.max_auth_age=28800&openid.return_to=https://www.amazonlogistics.eu/&suppressChangeEmailLink=1&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amazonlogistics_eu&openid.mode=checkid_setup&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&suppressSignInRadioButtons=1",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 7
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4906
+}

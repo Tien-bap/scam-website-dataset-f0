@@ -1,0 +1,27 @@
+{
+  "original_url": "http://perita.com.sg/wp-content/plugins/ofwpbpewuu/.s/mail.html",
+  "hostname": "perita.com.sg",
+  "checked_at": "2026-10-04T14:04:11.857269+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019ff8ae-ecb0-750c-8eca-e978d188bfb0",
+  "match_kind": "exact_url",
+  "capture_timestamp": "2026-08-13T01:14:10.350Z",
+  "scan_original_url": "http://perita.com.sg/wp-content/plugins/ofwpbpewuu/.s/mail.html",
+  "final_url": "https://www.perita.com.sg/wp-content/plugins/ofwpbpewuu/.s/mail.html",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 867,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.071,
+  "discovery": {
+    "batch_id": "a3175752b071cc89365567bed8d05122f3a37c6454ec621df33a8dbad973b30c",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

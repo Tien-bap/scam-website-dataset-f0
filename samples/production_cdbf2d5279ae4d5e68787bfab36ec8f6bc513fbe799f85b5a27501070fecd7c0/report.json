@@ -1,0 +1,27 @@
+{
+  "original_url": "https://ideadot.com.tw/365/office365/?email=cm9iZXJ0LmNhbGljb0Bhcm0uY29t",
+  "hostname": "ideadot.com.tw",
+  "checked_at": "2026-10-04T15:03:11.047897+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0a26c-b097-7679-80ed-9a7e12a4e340",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-15T00:17:16.042Z",
+  "scan_original_url": "http://ideadot.com.tw/",
+  "final_url": "https://ideadot.com.tw/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 62,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.752,
+  "discovery": {
+    "batch_id": "3782801fc5cee9c1842da14f8b29a28ecc699957d1560a4f29266a1b1b6b0bd9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

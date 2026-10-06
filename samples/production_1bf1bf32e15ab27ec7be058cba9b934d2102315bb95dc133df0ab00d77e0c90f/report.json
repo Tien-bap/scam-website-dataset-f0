@@ -1,0 +1,27 @@
+{
+  "original_url": "https://plu.sh/hkrft",
+  "hostname": "plu.sh",
+  "checked_at": "2026-10-04T15:37:18.603726+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0ae9a-57a8-7295-8cff-a330aec61323",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-17T09:02:33.592Z",
+  "scan_original_url": "http://plu.sh/",
+  "final_url": "https://plu.sh/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 766,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.212,
+  "discovery": {
+    "batch_id": "e2519f59aab518da9d880ec9884bcfa6450ac311ec5d7f93dc7ee29a18e055b4",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

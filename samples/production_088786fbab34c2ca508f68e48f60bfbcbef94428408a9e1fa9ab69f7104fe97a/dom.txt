@@ -1,0 +1,256 @@
+<head><title>Redirecting...</title></head><body>
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore topic categories and find resources across Automotive, Finance, Health, Shopping, Travel, and more.">
+    <title>Category Search</title>
+    <link href="favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    <style>
+        /* ===== LIGHT THEME BASELINE (Style 1) ===== no box behind buttons */
+
+        body {
+            margin: 0;
+            font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            background-color: #ffffff; /* white */
+        }
+        .main {
+            flex: 1;
+        }
+        header {
+            /* color: #fff; */
+            text-align: center;
+        }
+        .banner {
+            /* Top banner: from bright green/pink -> subtle grey */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #e5e7eb; /* Light grey background */
+            padding: 10px;
+        }
+        .banner a {
+            color: #111827;; /* Dark text for contrast */
+            text-decoration: none;
+            font-size: 1.2rem;
+        }
+        .domain {
+            /* padding: 5px 10px 5px 10px; */
+            overflow: hidden;
+            text-align: center;
+        }
+        h1 {
+            font-size: 1.5rem;
+            color: #111827;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 100%;
+        }
+        .content {
+            display: flex;
+            justify-content: center;
+            padding: 0px 20px 20px;
+            /* REMOVE flex: 1 */
+        }
+        .category-box {
+            background-color: transparent;
+            border-radius: 12px;
+            box-shadow: none;
+            padding: 30px;
+            max-width: 1000px;
+            width: 100%;
+            border: none;
+        }
+        .category-box h2 {
+            margin-bottom: 20px;
+            font-size: 24px;
+            text-align: center;
+            color: #333;
+        }
+        .link-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+        }
+        .link-item a {
+            /* Buttons / category links: clean neutral */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 12px;
+            background-color: #ffffff;
+            border: 1px solid #d1d5db;
+            border-radius: 20px;
+            text-decoration: none;
+            color: #111827;
+            transition: background-color 0.2s;
+        }
+
+        .link-item a:hover {
+            background-color: #34D399; /* green teal */
+        }
+        .arrow {
+            width: 16px;
+            height: 16px;
+            stroke: currentColor;
+            fill: none;
+        }
+        @media (max-width: 768px) {
+            .link-grid {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+        }
+
+        /* Footer: readable on white */
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #ffffff;
+            font-size: 14px;
+            color: #111827;
+            border-top: 1px solid #e5e7eb;
+        }
+        footer a {
+            color: #111827;
+            text-decoration: none;
+            font-size: 10px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+    
+
+        <script>
+        (function() {
+            let isHuman = false;
+            const activateElements = () => {
+                if (isHuman) return;
+                isHuman = true;
+
+                // Activate protected links
+                const links = document.querySelectorAll('.protected-link');
+                links.forEach(link => {
+                    const realURL = link.getAttribute('data-link');
+                    if (realURL) {
+                        link.setAttribute('href', realURL);
+                        link.removeAttribute('data-link');
+                    }
+                });
+
+                // Activate protected forms
+                const forms = document.querySelectorAll('.protected-form');
+                forms.forEach(form => {
+                    const realAction = form.getAttribute('data-action');
+                    if (realAction) {
+                        form.setAttribute('action', realAction);
+                        form.removeAttribute('data-action');
+                    }
+                });
+
+                document.removeEventListener('mousemove', activateElements);
+                document.removeEventListener('touchstart', activateElements);
+                document.removeEventListener('scroll', activateElements);
+            };
+
+            document.addEventListener('mousemove', activateElements);
+            document.addEventListener('touchstart', activateElements);
+            document.addEventListener('scroll', activateElements);
+
+            document.addEventListener('click', function(e) {
+                if (e.target.classList.contains('protected-link') && !isHuman) {
+                    e.preventDefault();
+                    console.log("Interaction blocked: Human verification required.");
+                }
+            });
+
+            document.addEventListener('submit', function(e) {
+                if (e.target.classList.contains('protected-form') && !isHuman) {
+                    e.preventDefault();
+                    console.log("Form submission blocked: Human verification required.");
+                }
+            });
+        })();
+    </script>
+    <div id="plBanner" style="margin: 0px; background-color: transparent;"><div class="namesilo-banner"> <a href="https://www.namesilo.com" target="_BLANK"> <img src="https://parking3.parklogic.com/page/images/pe262/ns_logo_dark.svg" style="width:100%;height:auto;max-width:1440px;max-height: 120px;width: auto;margin: 10px 10px;"> <div> <div> <div style="margin-bottom: 8px;font-size: 30px;color: white;">Looking for a domain?</div> <div style="margin-bottom: 8px; color: white; ">NameSilo has some of the best prices.</div> </div> <div class="banner-button">Learn More</div> </div> </a> <div class="bottom-text"><span>The domain has expired </span><span class="dash">- </span><a href="https://www.namesilo.com/express-checkout?utm_source=expired&amp;utm_medium=parklogic&amp;dr=verify-account.us" target="_BLANK" style="font-family:Ariel,sans-serif;font-size:16px;color:#EC4B2E;font-weight:bold;">click here for more information.</a></div> </div> <style> .namesilo-banner{ margin: 0px 0px 20px 0px; padding-bottom: 20px; width:100%; text-align:center; background-color:#008 } .namesilo-banner > a{ text-decoration: none; display: flex; flex-direction: row; align-items: center; height: 100px; justify-content: space-between; max-width: 1440px; margin: 0 auto; padding: 0 10vw; padding-top: 20px; } .namesilo-banner > a > div{ font-family:Ariel,sans-serif; font-size:16px; color:#888; text-align: left; display: flex; flex-direction: row; align-items: center; } .banner-button{ font-weight: bold; border-radius: 5px; border: 1px solid #00ADF2; width: fit-content; height: fit-content; padding: 8px 16px; background-color: #00ADF2; color: #031B4E; margin-left: 30px; } .bottom-text{ width:100%; text-align:center; margin-top:10px; } .bottom-text span{ font-family:Ariel,sans-serif; font-size:16px; color:#888 } @media (max-width: 840px){ .namesilo-banner > a{ flex-direction: column; height: auto; } } @media (max-width: 560px){ .namesilo-banner > a > div{ flex-direction: column; } .namesilo-banner > a > div{ text-align: center; } .banner-button{ margin-left: 0; } } @media (max-width: 560px){ .bottom-text{ display: flex; flex-direction: column; } .bottom-text .dash{ display: none; } } </style></div>
+<div class="domain" id="domainname" style="margin: 15px">
+    <h1 class="blink" title="verify-account.us">verify-account.us</h1>
+</div>
+
+<div class="search">
+    </div>
+
+<div class="main">
+    <div class="content">
+                    <div class="category-box">
+    <div class="link-grid">
+                                <div class="link-item">
+                                <a href="/go/Shopping/?a=2143526812&amp;d=verify-account.us&amp;s=a7a0de47211840d0bff6514da6154d311a4c4fc7a63845d9caa8d212a1d2e64f&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Shopping&amp;ccId=473" class="protected-link" target="_blank">
+                                    Shopping <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Real%20Estate/?a=2143526812&amp;d=verify-account.us&amp;s=a7a0de47211840d0bff6514da6154d311a4c4fc7a63845d9caa8d212a1d2e64f&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Real+Estate&amp;ccId=441" class="protected-link" target="_blank">
+                                    Real Estate <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Business%20and%20Finance/?a=2143526812&amp;d=verify-account.us&amp;s=a7a0de47211840d0bff6514da6154d311a4c4fc7a63845d9caa8d212a1d2e64f&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Business+and+Finance&amp;ccId=52" class="protected-link" target="_blank">
+                                    Business and Finance <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Style%20%26%20Fashion/?a=2143526812&amp;d=verify-account.us&amp;s=a7a0de47211840d0bff6514da6154d311a4c4fc7a63845d9caa8d212a1d2e64f&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Style+%26+Fashion&amp;ccId=552" class="protected-link" target="_blank">
+                                    Style &amp; Fashion <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Video%20Gaming/?a=2143526812&amp;d=verify-account.us&amp;s=a7a0de47211840d0bff6514da6154d311a4c4fc7a63845d9caa8d212a1d2e64f&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Video+Gaming&amp;ccId=680" class="protected-link" target="_blank">
+                                    Video Gaming <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/News%20and%20Politics/?a=2143526812&amp;d=verify-account.us&amp;s=a7a0de47211840d0bff6514da6154d311a4c4fc7a63845d9caa8d212a1d2e64f&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=News+and+Politics&amp;ccId=379" class="protected-link" target="_blank">
+                                    News and Politics <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Education/?a=2143526812&amp;d=verify-account.us&amp;s=a7a0de47211840d0bff6514da6154d311a4c4fc7a63845d9caa8d212a1d2e64f&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Education&amp;ccId=132" class="protected-link" target="_blank">
+                                    Education <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Technology%20%26%20Computing/?a=2143526812&amp;d=verify-account.us&amp;s=a7a0de47211840d0bff6514da6154d311a4c4fc7a63845d9caa8d212a1d2e64f&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Technology+%26+Computing&amp;ccId=596" class="protected-link" target="_blank">
+                                    Technology &amp; Computing <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Hobbies%20%26%20Interests/?a=2143526812&amp;d=verify-account.us&amp;s=a7a0de47211840d0bff6514da6154d311a4c4fc7a63845d9caa8d212a1d2e64f&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Hobbies+%26+Interests&amp;ccId=239" class="protected-link" target="_blank">
+                                    Hobbies &amp; Interests <div class="triangle-right"></div>
+                </a>
+            </div>
+            </div>
+</div>
+            </div>
+</div>
+
+<footer>
+    © 2026 ParkLogic.com. All rights reserved. <br>
+    <div class="footer-links">
+        <a href="https://adorarama.com/about-us.php">About Us</a>
+        &nbsp;|&nbsp;
+        <a href="https://parklogic.com/Contact-us">Contact Us</a>
+        &nbsp;|&nbsp;
+        <a href="https://adorarama.com/privacy-policy.php">Privacy Policy</a>
+        &nbsp;|&nbsp;
+        <a href="https://adorarama.com/terms-of-service.php">Terms of Service</a>
+    </div>
+</footer>
+
+</body>

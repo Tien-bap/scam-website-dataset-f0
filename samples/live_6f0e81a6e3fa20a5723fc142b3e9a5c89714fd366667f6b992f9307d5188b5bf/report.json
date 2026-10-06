@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_6f0e81a6e3fa20a5723fc142b3e9a5c89714fd366667f6b992f9307d5188b5bf",
+  "candidate_sha256": "b728e77ad725ad023499c001e20fddee644be6ed3576d674e571713e6b1786e3",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://123betcasino.com",
+  "requested_url": "https://rongbachkim.app/",
+  "browser_final_url": "https://rongbachkim.app/",
+  "source_urls": [
+    "https://123betcasino.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1851,
+      "source_url": "https://123betcasino.com",
+      "source_hostname": "123betcasino.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://rongbachkim.app/",
+      "final_hostname": "rongbachkim.app",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 890,
+      "checked_at": "2026-10-05T12:19:11.478212+00:00",
+      "error": null,
+      "normalized_source_url": "https://123betcasino.com/",
+      "normalized_final_url": "https://rongbachkim.app/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_6f0e81a6e3fa20a5723fc142b3e9a5c89714fd366667f6b992f9307d5188b5bf",
+    "representative_source_index": 1851,
+    "representative_source_url": "https://123betcasino.com",
+    "representative_final_url": "https://rongbachkim.app/",
+    "normalized_final_url": "https://rongbachkim.app/",
+    "source_hostname": "123betcasino.com",
+    "final_hostname": "rongbachkim.app",
+    "source_urls": [
+      "https://123betcasino.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 1851,
+        "source_url": "https://123betcasino.com",
+        "source_hostname": "123betcasino.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://rongbachkim.app/",
+        "final_hostname": "rongbachkim.app",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 890,
+        "checked_at": "2026-10-05T12:19:11.478212+00:00",
+        "error": null,
+        "normalized_source_url": "https://123betcasino.com/",
+        "normalized_final_url": "https://rongbachkim.app/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Rồng Bạch Kim - Trực tiếp KQXS XSMB, XSTD, XSMT, XSMN hôm nay - RongBachKim.app",
+  "capture_timestamp": "2026-10-05T14:46:12.519431+00:00",
+  "dom_chars": 136065,
+  "screenshot_bytes": 140993,
+  "dom_sha256": "5f8a6b522cc54fb501f4e4ad2492056f1139f8e7e9285da21f1cf5cb14c6467a",
+  "screenshot_sha256": "20be13185485a47b35e35dee6798913d04b1f54766024d5d88c04dd396d70c0a",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://rongbachkim.app/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://rongbachkim.app/",
+    "browser_final_url": "https://rongbachkim.app/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2198
+}

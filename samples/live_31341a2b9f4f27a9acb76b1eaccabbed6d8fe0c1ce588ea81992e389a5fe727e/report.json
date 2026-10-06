@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_31341a2b9f4f27a9acb76b1eaccabbed6d8fe0c1ce588ea81992e389a5fe727e",
+  "candidate_sha256": "89fccbfd5fd12ea845706fbf5845ad2e3d46f1cf96b6065bb25511c82d483971",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://www.napvidientu.fun",
+  "requested_url": "https://www.napvidientu.fun",
+  "browser_final_url": "https://www.napvidientu.fun/",
+  "source_urls": [
+    "https://www.napvidientu.fun"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2022,
+      "source_url": "https://www.napvidientu.fun",
+      "source_hostname": "www.napvidientu.fun",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.napvidientu.fun",
+      "final_hostname": "www.napvidientu.fun",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 913,
+      "checked_at": "2026-10-05T12:19:26.359412+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.napvidientu.fun/",
+      "normalized_final_url": "https://www.napvidientu.fun/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_31341a2b9f4f27a9acb76b1eaccabbed6d8fe0c1ce588ea81992e389a5fe727e",
+    "representative_source_index": 2022,
+    "representative_source_url": "https://www.napvidientu.fun",
+    "representative_final_url": "https://www.napvidientu.fun",
+    "normalized_final_url": "https://www.napvidientu.fun/",
+    "source_hostname": "www.napvidientu.fun",
+    "final_hostname": "www.napvidientu.fun",
+    "source_urls": [
+      "https://www.napvidientu.fun"
+    ],
+    "provenance": [
+      {
+        "source_index": 2022,
+        "source_url": "https://www.napvidientu.fun",
+        "source_hostname": "www.napvidientu.fun",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.napvidientu.fun",
+        "final_hostname": "www.napvidientu.fun",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 913,
+        "checked_at": "2026-10-05T12:19:26.359412+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.napvidientu.fun/",
+        "normalized_final_url": "https://www.napvidientu.fun/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Đổi thẻ cào sang tiền mặt, ví điện tử, ngân hàng uy tín",
+  "capture_timestamp": "2026-10-05T14:39:23.592118+00:00",
+  "dom_chars": 297650,
+  "screenshot_bytes": 383704,
+  "dom_sha256": "174a0169932a8836101b9d79365cc7af30c9cbe261e74734f8566409e50abf32",
+  "screenshot_sha256": "43201ba2fa9c9e2a33a6bff2ee6ea2c57718ffbce12ea03ea242bf5e84eaf41a",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.napvidientu.fun/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.napvidientu.fun",
+    "browser_final_url": "https://www.napvidientu.fun/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 9848
+}

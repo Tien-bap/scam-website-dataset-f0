@@ -1,0 +1,102 @@
+<head>
+	<meta charset="UTF-8">
+	<title>NetNerd</title>
+	<link rel="stylesheet" type="text/css" href="https://www.freevirtualservers.com/holding_pages/css/style.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+</head><body>
+	<div class="top-wrapper">
+		<div class="reg-banner">
+			<h1 class="white text-center animated fadeInDown" style="margin-top:10px; margin-bottom: 10px;">This domain has been registered on behalf of a NetNerd customer.</h1>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="">
+
+              <img src="https://www.freevirtualservers.com/holding_pages/images/netnerd.webp" class="logo" alt="NetNerd Webhosting">
+					
+						<div class="space-sm"></div>
+						<h1>Excellent support coupled with the lowest prices in the UK.</h1>
+						<h2>It's no wonder we're one of the UK's favourite web hosting providers.</h2>
+						<div class="space-sm"></div>
+						<a class="btn btn-lg btn-primary" style="border-radius:5px" href="https://my.netnerd.com/link.php?id=11">Click here to Login / Sign Up</a>
+						<div class="space-md"></div>
+					</div>
+				</div>
+				<div class="col-md-6 text-right hidden-sm hidden-xs">
+					<img src="https://www.freevirtualservers.com/holding_pages/images/fvs-shots.png" alt="UK's number one free hosting provider" class="fvs-shots animated fadeInRight">
+				</div>
+			</div>
+		</div>
+		<div class="orange-grad stripe">
+			<a href="https://my.netnerd.com/link.php?id=6" rel="nofollow" title="Domain Registration"><h3 class="white text-center">Domain Registration from: <strong>.com</strong> £13.99 | <strong>.uk</strong> £6.99 | <strong>.co</strong> £19.99 | <strong>.co.uk</strong> £6.99</h3></a>
+		</div>
+	</div>
+	<div class="space-md"></div>
+	<div class="container">
+		<div class="row animated fadeInUp services">
+	                        <div class="col-md-3 col-sm-3">
+									<a href="https://my.netnerd.com/link.php?id=7" rel="nofollow" title="Domain Registration">
+	                                	<img class="img-icon" src="https://www.freevirtualservers.com/assets/images/home/web-hosting-icons3.png" alt="domain registration worldwide web www">
+	                                	<h2>Domain Registration</h2>
+	                                	<p>Register your favourite domain names from just £6.99/year.</p>
+									</a>
+	                        </div>
+	                        <div class="col-md-3 col-sm-3">
+	                            <a href="https://my.netnerd.com/link.php?id=8" rel="nofollow" title="Web Hosting">
+	                                <img class="img-icon" src="https://www.freevirtualservers.com/assets/images/home/web-hosting-icons2.png" alt="web hosting icon">
+	                                <h2>Web Hosting</h2>
+	                                <p>We offer great value web hosting and unlimited web hosting from £1-29/month.</p>
+	                            </a>
+	                        </div>
+	                        <div class="col-md-3 col-sm-3">
+	                            <a href="https://my.netnerd.com/link.php?id=9" rel="nofollow" title="Free Web Builders">
+	                                <img class="img-icon" src="https://www.freevirtualservers.com/assets/images/home/web-hosting-icons1.png" alt="free web builder mobile desktop">
+	                                <h2>Free Web Builders</h2>
+	                                <p>Build a beautiful website in just minutes, no coding skills required. It just works!</p>
+	                            </a>
+	                        </div>
+	                        <div class="col-md-3 col-sm-3">
+	                            <a href="https://my.netnerd.com/link.php?id=10" rel="nofollow" title="Cloud Storage">
+	                                <img class="img-icon" src="https://www.freevirtualservers.com/assets/images/home/web-hosting-icons4.png" alt="cloud storage icon">
+	                                <h2>Cloud Storage</h2>
+	                                <p>Get 1TB of secure cloud backup with any hosting packages.</p>
+	                            </a>
+	                        </div>
+	                    </div>
+	</div>
+	<div class="space-md"></div>
+	<footer>
+		<div class="container">
+			<div class="row white">
+				<div class="col-md-4 border-right">
+					<h2>Address</h2>
+					<p><span class="glyphicon glyphicon-map-marker"></span> 25 Haviland Road, Ferndown</p>
+					<p>Dorset, BH21 7SA</p>
+				</div>
+				<div class="col-md-4 text-center border-right">
+					<h2>Telephone</h2>
+					<p class="tel-number"><span class="glyphicon glyphicon-earphone"></span> 0333 222 4080</p>
+				</div>
+				<div class="col-md-4 text-right">
+					<h2>Connect With Us</h2>
+					   <div class="footer-social-wrapper">
+						   <ul class="list-inline">
+							   <li class="facebook"><a target="_blank" href="https://www.facebook.com/NetNerdUK"><img src="https://www.freevirtualservers.com/holding_pages/images/facebook.png" alt="facebook" class="social-icon"></a></li>
+							   <li class="twitter"><a target="_blank" href="https://x.com/NetNerdUK"><img src="https://www.freevirtualservers.com/holding_pages/images/twitter.png" alt="twitter" class="social-icon"></a></li>
+							   
+							   <li class="linkedin"><a target="_blank" href="https://www.linkedin.com/showcase/net-nerd"><img src="https://www.freevirtualservers.com/holding_pages/images/linkedin.png" alt="LinkedIn" class="social-icon"></a></li>
+						   </ul>
+					   </div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div class="copyright">
+		<div class="container">
+			<small>Copyright © 2004-2025 NetNerd</small>
+		</div>
+	</div>
+
+
+</body>

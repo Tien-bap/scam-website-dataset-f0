@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_ca4c923332a2ed7f2053b8509fca978004653bab6165d6928fe357a987111ded",
+  "candidate_sha256": "fbc8f6876ef33c4e5452674484c64ee7465ac0d8a7b179eeefd2c999b5a1165b",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://www.gebzekepenk.com/index.html",
+  "requested_url": "https://www.gebzekepenk.com/index.html",
+  "browser_final_url": "https://www.gebzekepenk.com/index.html",
+  "source_urls": [
+    "https://www.gebzekepenk.com/index.html"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 61985,
+      "source_url": "https://www.gebzekepenk.com/index.html",
+      "source_hostname": "www.gebzekepenk.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.gebzekepenk.com/index.html",
+      "final_hostname": "www.gebzekepenk.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4849,
+      "checked_at": "2026-10-05T12:56:02.029688+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.gebzekepenk.com/index.html",
+      "normalized_final_url": "https://www.gebzekepenk.com/index.html",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_ca4c923332a2ed7f2053b8509fca978004653bab6165d6928fe357a987111ded",
+    "representative_source_index": 61985,
+    "representative_source_url": "https://www.gebzekepenk.com/index.html",
+    "representative_final_url": "https://www.gebzekepenk.com/index.html",
+    "normalized_final_url": "https://www.gebzekepenk.com/index.html",
+    "source_hostname": "www.gebzekepenk.com",
+    "final_hostname": "www.gebzekepenk.com",
+    "source_urls": [
+      "https://www.gebzekepenk.com/index.html"
+    ],
+    "provenance": [
+      {
+        "source_index": 61985,
+        "source_url": "https://www.gebzekepenk.com/index.html",
+        "source_hostname": "www.gebzekepenk.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.gebzekepenk.com/index.html",
+        "final_hostname": "www.gebzekepenk.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4849,
+        "checked_at": "2026-10-05T12:56:02.029688+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.gebzekepenk.com/index.html",
+        "normalized_final_url": "https://www.gebzekepenk.com/index.html",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "KAKEKTOTO: Situs Slot Gacor Hari Ini dengan RTP Live Tertinggi",
+  "capture_timestamp": "2026-10-05T14:55:39.787296+00:00",
+  "dom_chars": 349834,
+  "screenshot_bytes": 370104,
+  "dom_sha256": "359f6d403e5813d4308a6857a196d22004b4bf489ff236dfa9e569248db46498",
+  "screenshot_sha256": "aee8841499c334363aa0388b49115a0a770b117ce56f5b1c5c83bcbdd5803789",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.gebzekepenk.com/index.html",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.gebzekepenk.com/index.html",
+    "browser_final_url": "https://www.gebzekepenk.com/index.html",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 2,
+    "method": 5
+  },
+  "blocked_responses": 4,
+  "downloaded_files": 0,
+  "elapsed_ms": 5872
+}

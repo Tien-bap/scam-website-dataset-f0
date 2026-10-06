@@ -1,0 +1,27 @@
+{
+  "original_url": "https://ts.hust.edu.vn/vendor/phpunit/phpunit/src/Util/account/sugnin/ID-6670332/customer_center/customer-IDPP00C547/",
+  "hostname": "ts.hust.edu.vn",
+  "checked_at": "2026-10-04T15:01:11.010380+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f3a88-a72b-724d-ba33-ffff059541c7",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-07T03:04:36.456Z",
+  "scan_original_url": "http://ts.hust.edu.vn/",
+  "final_url": "https://ts.hust.edu.vn/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 12262,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.212,
+  "discovery": {
+    "batch_id": "755d2420decef410683191315dec6b4ee04077c1e950be848cf3f5d362999cac",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://newmoyermercedes.com/acs",
+  "hostname": "newmoyermercedes.com",
+  "checked_at": "2026-10-04T15:47:30.401824+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019ffdd5-5caa-7705-92d2-3b366879cb94",
+  "match_kind": "exact_url",
+  "capture_timestamp": "2026-08-14T01:14:13.663Z",
+  "scan_original_url": "http://newmoyermercedes.com/acs",
+  "final_url": "https://newmoyermercedes.com/acs",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 961,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.88,
+  "discovery": {
+    "batch_id": "28987235d20d2c6da25f8ac11bfac51ddf28e4e6ad4d231dbc3240b0e1b91442",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

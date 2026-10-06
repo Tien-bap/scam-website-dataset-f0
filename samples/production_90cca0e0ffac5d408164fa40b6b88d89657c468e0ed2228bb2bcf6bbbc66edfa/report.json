@@ -1,0 +1,27 @@
+{
+  "original_url": "https://docusigned.net/kjhgfdsewqertyuijkhgvcfxsazxdcvbhuygdsweqesrtyuijkhgbvcxdsfgfdxcfvg/index.php",
+  "hostname": "docusigned.net",
+  "checked_at": "2026-10-04T14:06:20.861376+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a09f0c-c04e-7047-871e-c6673f47b82f",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-14T08:33:34.574Z",
+  "scan_original_url": "https://docusigned.net/",
+  "final_url": "https://docusigned.net/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2857,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.415,
+  "discovery": {
+    "batch_id": "459c5d17ed59071a6cc416e1ae4072c508db4ba54c3809d961cb75cf574d31a7",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

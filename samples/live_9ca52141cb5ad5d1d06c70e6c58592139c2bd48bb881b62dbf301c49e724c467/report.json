@@ -1,0 +1,216 @@
+{
+  "candidate_id": "live_9ca52141cb5ad5d1d06c70e6c58592139c2bd48bb881b62dbf301c49e724c467",
+  "candidate_sha256": "080601bfc7da06ee4541bb0934879871d702be5a287cb066bbe05c8f3458248f",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://nirom92162.moonfruit.com/",
+  "requested_url": "https://moonfruit.com",
+  "browser_final_url": "https://moonfruit.com/",
+  "source_urls": [
+    "http://nirom92162.moonfruit.com/",
+    "http://wetransferfiledownload.moonfruit.com/"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 29398,
+      "source_url": "http://nirom92162.moonfruit.com/",
+      "source_hostname": "nirom92162.moonfruit.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://moonfruit.com",
+      "final_hostname": "moonfruit.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3733,
+      "checked_at": "2026-10-05T12:46:02.915082+00:00",
+      "error": null,
+      "normalized_source_url": "http://nirom92162.moonfruit.com/",
+      "normalized_final_url": "https://moonfruit.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 60406,
+      "source_url": "http://wetransferfiledownload.moonfruit.com/",
+      "source_hostname": "wetransferfiledownload.moonfruit.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://moonfruit.com",
+      "final_hostname": "moonfruit.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2211,
+      "checked_at": "2026-10-05T12:55:29.923914+00:00",
+      "error": null,
+      "normalized_source_url": "http://wetransferfiledownload.moonfruit.com/",
+      "normalized_final_url": "https://moonfruit.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_9ca52141cb5ad5d1d06c70e6c58592139c2bd48bb881b62dbf301c49e724c467",
+    "representative_source_index": 29398,
+    "representative_source_url": "http://nirom92162.moonfruit.com/",
+    "representative_final_url": "https://moonfruit.com",
+    "normalized_final_url": "https://moonfruit.com/",
+    "source_hostname": "nirom92162.moonfruit.com",
+    "final_hostname": "moonfruit.com",
+    "source_urls": [
+      "http://nirom92162.moonfruit.com/",
+      "http://wetransferfiledownload.moonfruit.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 29398,
+        "source_url": "http://nirom92162.moonfruit.com/",
+        "source_hostname": "nirom92162.moonfruit.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://moonfruit.com",
+        "final_hostname": "moonfruit.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3733,
+        "checked_at": "2026-10-05T12:46:02.915082+00:00",
+        "error": null,
+        "normalized_source_url": "http://nirom92162.moonfruit.com/",
+        "normalized_final_url": "https://moonfruit.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 60406,
+        "source_url": "http://wetransferfiledownload.moonfruit.com/",
+        "source_hostname": "wetransferfiledownload.moonfruit.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://moonfruit.com",
+        "final_hostname": "moonfruit.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2211,
+        "checked_at": "2026-10-05T12:55:29.923914+00:00",
+        "error": null,
+        "normalized_source_url": "http://wetransferfiledownload.moonfruit.com/",
+        "normalized_final_url": "https://moonfruit.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 2,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Best Digital Marketing Agencies in the World",
+  "capture_timestamp": "2026-10-05T14:50:31.434851+00:00",
+  "dom_chars": 256229,
+  "screenshot_bytes": 368594,
+  "dom_sha256": "0b7f0e03c3240ed8de6cfa975e3ad5bb71343dc8258cb7ad09241a3aaa849e45",
+  "screenshot_sha256": "71d47eeedf34c9d256397dc92a95844a51483d822e1bdbb1a747275186719f15",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://moonfruit.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://moonfruit.com",
+    "browser_final_url": "https://moonfruit.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 9,
+    "resource": 2
+  },
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "elapsed_ms": 5395
+}

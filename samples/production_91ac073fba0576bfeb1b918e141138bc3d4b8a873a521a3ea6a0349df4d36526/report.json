@@ -1,0 +1,21 @@
+{
+  "original_url": "cucanninhmang24h.com",
+  "hostname": "cucanninhmang24h.com",
+  "checked_at": "2026-10-04T10:34:34.789674+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 22,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "0196609e-2dff-7528-9d71-5dd1d1b2ee45",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-04-23T03:08:30.499Z",
+  "scan_original_url": "http://cucanninhmang24h.com/",
+  "final_url": "https://cucanninhmang24h.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1852,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.349
+}

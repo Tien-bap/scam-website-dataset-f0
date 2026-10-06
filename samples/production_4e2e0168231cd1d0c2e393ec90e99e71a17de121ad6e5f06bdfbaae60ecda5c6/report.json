@@ -1,0 +1,27 @@
+{
+  "original_url": "https://sabong67.cloud",
+  "hostname": "sabong67.cloud",
+  "checked_at": "2026-10-04T13:33:49.108734+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f9ad6-da7f-722d-b5ec-7a8cb3bad21d",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-25T19:53:33.343Z",
+  "scan_original_url": "https://dagasabong67.com/",
+  "final_url": "https://sabong67.cloud/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 15254,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.3,
+  "discovery": {
+    "batch_id": "a2240b8250961b01aba1a3a4d25c129aee3e79ee91088063fb1d2b81f4e3745a",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

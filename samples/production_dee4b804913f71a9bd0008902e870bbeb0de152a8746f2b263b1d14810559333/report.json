@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.foundersclick.com/homepage/subpage(30-11-16)/images/icons/professionals/connecte-infomation-compte-configurate/",
+  "hostname": "www.foundersclick.com",
+  "checked_at": "2026-10-04T15:44:06.522642+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fd297-83f8-7750-b435-2290256f3386",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-05T15:45:07.003Z",
+  "scan_original_url": "http://foundersclick.com/blogs/47588/Where-to-Buy-Verified-Revolut-Account-with-Instant-Setup",
+  "final_url": "https://www.foundersclick.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1067,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.178,
+  "discovery": {
+    "batch_id": "759b720bf5d417ba3cde255f790b4970cfabe169ac6d5c3d50663dc4539be351",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

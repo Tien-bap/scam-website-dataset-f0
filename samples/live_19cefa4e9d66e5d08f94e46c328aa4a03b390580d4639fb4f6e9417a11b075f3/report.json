@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_19cefa4e9d66e5d08f94e46c328aa4a03b390580d4639fb4f6e9417a11b075f3",
+  "candidate_sha256": "23ce02566bbf54ddeebca0d376c3d644481715fae956d407b0915afdc4b84426",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://almuslim.ac.id/re/index.php",
+  "requested_url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+  "browser_final_url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+  "source_urls": [
+    "https://almuslim.ac.id/re/index.php"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 86891,
+      "source_url": "https://almuslim.ac.id/re/index.php",
+      "source_hostname": "almuslim.ac.id",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+      "final_hostname": "almuslim.ac.id",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3270,
+      "checked_at": "2026-10-05T13:03:26.505885+00:00",
+      "error": null,
+      "normalized_source_url": "https://almuslim.ac.id/re/index.php",
+      "normalized_final_url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_19cefa4e9d66e5d08f94e46c328aa4a03b390580d4639fb4f6e9417a11b075f3",
+    "representative_source_index": 86891,
+    "representative_source_url": "https://almuslim.ac.id/re/index.php",
+    "representative_final_url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+    "normalized_final_url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+    "source_hostname": "almuslim.ac.id",
+    "final_hostname": "almuslim.ac.id",
+    "source_urls": [
+      "https://almuslim.ac.id/re/index.php"
+    ],
+    "provenance": [
+      {
+        "source_index": 86891,
+        "source_url": "https://almuslim.ac.id/re/index.php",
+        "source_hostname": "almuslim.ac.id",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+        "final_hostname": "almuslim.ac.id",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3270,
+        "checked_at": "2026-10-05T13:03:26.505885+00:00",
+        "error": null,
+        "normalized_source_url": "https://almuslim.ac.id/re/index.php",
+        "normalized_final_url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Reasons to explan fast business builder. - STMIK Al Muslim Bekasi",
+  "capture_timestamp": "2026-10-05T14:36:23.425197+00:00",
+  "dom_chars": 155901,
+  "screenshot_bytes": 129652,
+  "dom_sha256": "0e26969285d36bb5709cd16b1c706821e751a2a96b3fcb4697078d4b543f4c1d",
+  "screenshot_sha256": "a5a786336ef0fc27c3455b759bc001977c5da69dbc08ae948442f64ce28ab9b9",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+    "browser_final_url": "https://almuslim.ac.id/reasons-to-explan-fast-business-builder/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 7973
+}

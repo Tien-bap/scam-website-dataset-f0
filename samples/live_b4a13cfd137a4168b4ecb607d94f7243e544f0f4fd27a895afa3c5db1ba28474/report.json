@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_b4a13cfd137a4168b4ecb607d94f7243e544f0f4fd27a895afa3c5db1ba28474",
+  "candidate_sha256": "972095962a763bf297927218680af31edb2e9a1cab8ef81161954b28dc242955",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://fptshopvn.com",
+  "requested_url": "https://fptshopvn.com/index/user/login.html",
+  "browser_final_url": "https://fptshopvn.com/index/user/login.html",
+  "source_urls": [
+    "https://fptshopvn.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11718,
+      "source_url": "https://fptshopvn.com",
+      "source_hostname": "fptshopvn.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fptshopvn.com/index/user/login.html",
+      "final_hostname": "fptshopvn.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 6890,
+      "elapsed_ms": 786,
+      "checked_at": "2026-10-05T12:41:48.071122+00:00",
+      "error": null,
+      "normalized_source_url": "https://fptshopvn.com/",
+      "normalized_final_url": "https://fptshopvn.com/index/user/login.html",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_b4a13cfd137a4168b4ecb607d94f7243e544f0f4fd27a895afa3c5db1ba28474",
+    "representative_source_index": 11718,
+    "representative_source_url": "https://fptshopvn.com",
+    "representative_final_url": "https://fptshopvn.com/index/user/login.html",
+    "normalized_final_url": "https://fptshopvn.com/index/user/login.html",
+    "source_hostname": "fptshopvn.com",
+    "final_hostname": "fptshopvn.com",
+    "source_urls": [
+      "https://fptshopvn.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 11718,
+        "source_url": "https://fptshopvn.com",
+        "source_hostname": "fptshopvn.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fptshopvn.com/index/user/login.html",
+        "final_hostname": "fptshopvn.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 6890,
+        "elapsed_ms": 786,
+        "checked_at": "2026-10-05T12:41:48.071122+00:00",
+        "error": null,
+        "normalized_source_url": "https://fptshopvn.com/",
+        "normalized_final_url": "https://fptshopvn.com/index/user/login.html",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "timeout",
+  "capture_status": "partial",
+  "technical_complete": true,
+  "title": "Cộng tác viên online",
+  "capture_timestamp": "2026-10-05T14:53:26.708565+00:00",
+  "dom_chars": 4197,
+  "screenshot_bytes": 124935,
+  "dom_sha256": "6b3464f6851c162e64b405e1c693c9d6ccaf903eb519b42204529ec3b9379b2a",
+  "screenshot_sha256": "95c0decf82355542afd93705a04b4ab8323d619c2302dec146a64b640c7e91bc",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://fptshopvn.com/index/user/login.html",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://fptshopvn.com/index/user/login.html",
+    "browser_final_url": "https://fptshopvn.com/index/user/login.html",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": "Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://fptshopvn.com/index/user/login.html\", waiting until \"domcontentloaded\"\n",
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 16712
+}

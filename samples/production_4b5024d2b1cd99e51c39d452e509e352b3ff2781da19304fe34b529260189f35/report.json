@@ -1,0 +1,21 @@
+{
+  "original_url": "muathedientu.com",
+  "hostname": "muathedientu.com",
+  "checked_at": "2026-10-04T10:34:44.306124+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "fb295d21-0787-4270-aed1-2bb4441c0129",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2024-10-23T07:45:30.790Z",
+  "scan_original_url": "https://muathedientu.com/",
+  "final_url": "https://muathedientu.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1540,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.377
+}

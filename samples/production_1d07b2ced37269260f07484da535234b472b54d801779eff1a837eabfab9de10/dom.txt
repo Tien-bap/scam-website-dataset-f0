@@ -1,0 +1,347 @@
+<head>
+  <title>ASIA Pest Control Service | Premium Pest Control in Warangal</title>
+  <meta name="description" content="ASIA Pest Control Service offers premium termite control, bed bug, cockroach, rodent and complete pest management services in Warangal, Hanamkonda and Kazipet. Call now for free inspection.">
+  <meta name="keywords" content="pest control warangal, termite control warangal, anti termite treatment, bed bug control, cockroach control, rodent control">
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "ASIA PEST CONTROL SERVICE",
+  "image": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=1200&q=80",
+  "telephone": "+917093968648",
+  "email": "asiapestcontrolservice18@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Shop No. 100, 100 Meters from Lalitha Hospital, H No: 3-16-290/9, Mulugu Road, Near Hema Hyundai Body, Vidya Nagar",
+    "addressLocality": "Warangal",
+    "addressRegion": "Telangana",
+    "postalCode": "506007",
+    "addressCountry": "IN"
+  },
+  "areaServed": ["Warangal", "Hanamkonda", "Kazipet", "Vidya Nagar", "Mulugu Road"],
+  "openingHours": "Mo-Su 08:00-20:00"
+}
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How quickly can your team reach in Warangal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most same-day requests in Warangal, Hanamkonda and Kazipet are attended quickly based on slot availability and urgency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide a free inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We offer a free initial inspection and treatment recommendation for homes and commercial spaces."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is treatment safe for children and pets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our technicians use approved methods and provide pre-treatment and post-treatment safety guidance for families and pets."
+      }
+    }
+  ]
+}
+</script>
+</head><body>
+  <div id="site-header">
+  <div class="top-bar">
+    <div class="container">
+      <div>Emergency Pest Control Service Available | Monday - Sunday: 8:00 AM - 8:00 PM</div>
+      <div class="top-actions">
+        <a class="top-chip" href="tel:+917093968648">Call: 70939 68648</a>
+        <a class="top-chip" href="https://wa.me/917093968648?text=Hello%20ASIA%20Pest%20Control%20Service%2C%20I%20need%20a%20free%20inspection." target="_blank" rel="noopener">WhatsApp Support</a>
+      </div>
+    </div>
+  </div>
+  <header class="header">
+    <div class="container nav-wrap">
+      <a href="index.html" class="brand" aria-label="ASIA Pest Control Service Home">
+        <span class="logo-badge">AP</span>
+        <span>
+          <h2>ASIA PEST CONTROL SERVICE</h2>
+          <p>Trusted Pest Management Experts</p>
+        </span>
+      </a>
+      <nav class="nav-links" aria-label="Primary">
+        <a href="index.html" class="active">Home</a><a href="about.html" class="">About</a><a href="services.html" class="">Services</a><a href="gallery.html" class="">Gallery</a><a href="service-areas.html" class="">Service Areas</a><a href="faq.html" class="">FAQ</a><a href="blog.html" class="">Blog</a><a href="contact.html" class="">Contact</a>
+      </nav>
+      <div class="nav-cta">
+        <a href="tel:+917093968648" class="btn btn-secondary">Call Now</a>
+        <a href="contact.html" class="btn btn-primary">Get Free Inspection</a>
+      </div>
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Open Menu">☰</button>
+    </div>
+  </header>
+  <aside class="mobile-drawer" id="mobileDrawer" aria-label="Mobile Navigation">
+    <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;">
+      <strong>Menu</strong>
+      <button class="mobile-toggle" id="closeDrawer" aria-label="Close Menu">✕</button>
+    </div>
+    <nav class="mobile-nav" style="margin-top:14px;"><a href="index.html">Home</a><a href="about.html">About</a><a href="services.html">Services</a><a href="gallery.html">Gallery</a><a href="service-areas.html">Service Areas</a><a href="faq.html">FAQ</a><a href="blog.html">Blog</a><a href="contact.html">Contact</a></nav>
+    <div style="margin-top:18px;display:grid;gap:10px;">
+      <a href="tel:+917093968648" class="btn btn-secondary">Call Now</a>
+      <a href="https://wa.me/917093968648?text=Hello%20ASIA%20Pest%20Control%20Service%2C%20I%20want%20to%20book%20a%20service." class="btn btn-primary" target="_blank" rel="noopener">WhatsApp Now</a>
+    </div>
+  </aside></div>
+
+  <main>
+    <section class="hero">
+      <div class="container-wide hero-grid">
+        <div>
+          <p class="eyebrow">Trusted Local Pest Experts</p>
+          <h1>Premium Pest Control Services That Protect Your Family and Property</h1>
+          <p>From urgent infestations to annual prevention plans, ASIA PEST CONTROL SERVICE delivers safe, structured, and high-result treatments for homes, apartments, offices, and commercial spaces.</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="tel:+917093968648">Call Now</a>
+            <a class="btn btn-secondary" href="https://wa.me/917093968648?text=Hello%20ASIA%20Pest%20Control%20Service%2C%20I%20need%20a%20free%20inspection." target="_blank" rel="noopener">WhatsApp Now</a>
+            <a class="btn btn-outline" href="contact.html">Get Free Inspection</a>
+          </div>
+        </div>
+        <aside class="hero-card">
+          <h2>Inspection in 3 Easy Steps</h2>
+          <p class="mt-lg">Book, inspect, and treat with verified technicians and transparent reporting.</p>
+          <div class="quick-stats">
+            <div class="stat-pill">
+              <strong data-counter="12" data-suffix="+">12+</strong>
+              <p>Years Combined Experience</p>
+            </div>
+            <div class="stat-pill">
+              <strong data-counter="3500" data-suffix="+">3500+</strong>
+              <p>Spaces Treated</p>
+            </div>
+            <div class="stat-pill">
+              <strong data-counter="98" data-suffix="%">98%</strong>
+              <p>Customer Satisfaction</p>
+            </div>
+            <div class="stat-pill">
+              <strong data-counter="11" data-suffix=" Services">11 Services</strong>
+              <p>Specialized Solutions</p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <div class="container grid grid-2">
+        <div>
+          <p class="eyebrow">About Company</p>
+          <h2>Reliable Pest Management with a Scientific Approach</h2>
+          <p class="mt-lg">We design treatment plans based on infestation type, building structure, moisture levels, and entry points. Our process reduces repeat outbreaks and helps maintain long-term hygiene standards.</p>
+          <ul class="feature-list">
+            <li>Licensed and trained pest technicians</li>
+            <li>Detailed site analysis and treatment plan</li>
+            <li>Emergency pest control support available</li>
+            <li>Residential and commercial coverage</li>
+          </ul>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="about.html">Know More About Us</a>
+            <a class="btn btn-secondary" href="services.html">View Services</a>
+          </div>
+        </div>
+        <div class="banner" style="background-image:url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80');">
+          <div class="banner-content">
+            <h3>Emergency Pest Control Service Available</h3>
+            <p class="mt-lg">Monday to Sunday | 8:00 AM to 8:00 PM</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt reveal">
+      <div class="container">
+        <div class="section-head">
+          <p class="eyebrow">Our Services</p>
+          <h2>Complete Residential and Commercial Pest Control Solutions</h2>
+          <p>Choose targeted pest treatments engineered for better effectiveness, minimum disruption, and measurable outcomes.</p>
+        </div>
+        <div class="grid grid-3">
+          <article class="card service-card"><div class="icon">01</div><h3>Termite Control</h3><p>Advanced termite elimination and property protection plans.</p><a class="btn btn-primary mt-lg" href="service-termite-control.html">Explore</a></article>
+          <article class="card service-card"><div class="icon">02</div><h3>Bed Bug Control</h3><p>Room-by-room treatment with deep inspection and recheck support.</p><a class="btn btn-primary mt-lg" href="service-bed-bug-control.html">Explore</a></article>
+          <article class="card service-card"><div class="icon">03</div><h3>Cockroach Control</h3><p>Kitchen-safe control plans for German and American cockroach species.</p><a class="btn btn-primary mt-lg" href="service-cockroach-control.html">Explore</a></article>
+          <article class="card service-card"><div class="icon">04</div><h3>Rodent Control</h3><p>Entry-point sealing and monitoring for homes and workplaces.</p><a class="btn btn-primary mt-lg" href="service-rodent-control.html">Explore</a></article>
+          <article class="card service-card"><div class="icon">05</div><h3>Anti-Termite Reticulation</h3><p>Smart underground piping system for long-term termite prevention.</p><a class="btn btn-primary mt-lg" href="service-anti-termite-reticulation-system.html">Explore</a></article>
+          <article class="card service-card"><div class="icon">06</div><h3>General Pest Control</h3><p>Integrated treatment package for common household pests.</p><a class="btn btn-primary mt-lg" href="service-general-pest-control.html">Explore</a></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <div class="container">
+        <div class="section-head">
+          <p class="eyebrow">Why Choose Us</p>
+          <h2>Trust Signals That Matter When Choosing a Pest Control Partner</h2>
+        </div>
+        <div class="grid grid-4">
+          <div class="card"><h3>Verified Team</h3><p>Experienced professionals trained for modern pest biology and treatment safety.</p></div>
+          <div class="card"><h3>Fast Response</h3><p>Same-day support in key service areas with proper scheduling and tracking.</p></div>
+          <div class="card"><h3>Transparent Advice</h3><p>No confusing jargon. Clear treatment steps, timelines, and expected outcomes.</p></div>
+          <div class="card"><h3>Follow-Up Focus</h3><p>Post-treatment guidance and optional maintenance to reduce recurrence risks.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt reveal">
+      <div class="container">
+        <div class="section-head">
+          <p class="eyebrow">Treatment Process</p>
+          <h2>Our Proven 4-Step Pest Treatment Workflow</h2>
+        </div>
+        <div class="grid grid-4">
+          <article class="card process-step"><span>1</span><h3>Inspection</h3><p>Site audit to identify pest activity, nesting zones, and risk factors.</p></article>
+          <article class="card process-step"><span>2</span><h3>Plan</h3><p>Custom treatment protocol based on infestation level and property type.</p></article>
+          <article class="card process-step"><span>3</span><h3>Treatment</h3><p>Targeted application with approved methods and technician safety SOPs.</p></article>
+          <article class="card process-step"><span>4</span><h3>Prevention</h3><p>Action checklist and scheduled follow-up for long-term pest prevention.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <div class="container grid grid-3">
+        <div class="card"><h3>Health Protection</h3><p>Reduce exposure to contamination and disease-carrying pests.</p></div>
+        <div class="card"><h3>Property Safety</h3><p>Protect wood, wiring, furniture, and structures from pest damage.</p></div>
+        <div class="card"><h3>Peace of Mind</h3><p>Live and work in cleaner, safer, and more comfortable environments.</p></div>
+      </div>
+    </section>
+
+    <section class="section section-alt reveal">
+      <div class="container">
+        <div class="section-head"><p class="eyebrow">Gallery</p><h2>Recent Treatment Highlights</h2></div>
+        <div class="grid grid-3 gallery-grid">
+          <img src="https://images.unsplash.com/photo-1523419409543-7308c1d93f5b?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" alt="Technician doing pest control inspection in home">
+          <img src="https://images.unsplash.com/photo-1519710884009-e5ed5234d6cb?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" alt="Pest control treatment process with safety gear">
+          <img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" alt="Clean pest protected living room after service">
+        </div>
+        <div class="mt-xl"><a class="btn btn-primary" href="gallery.html">View Full Gallery</a></div>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <div class="container">
+        <div class="section-head"><p class="eyebrow">Testimonials</p><h2>What Customers Say</h2></div>
+        <div class="grid grid-3">
+          <article class="card testimonial"><div class="rating">★★★★★</div><p>Quick response and very professional treatment. Cockroach issue dropped sharply within days.</p><p class="mt-lg"><strong>Priya N, Warangal</strong></p></article>
+          <article class="card testimonial"><div class="rating">★★★★★</div><p>The team explained every step clearly and gave practical prevention tips for our apartment.</p><p class="mt-lg"><strong>Rahul K, Hanamkonda</strong></p></article>
+          <article class="card testimonial"><div class="rating">★★★★★</div><p>Excellent termite treatment quality and polite technicians. Highly recommended service.</p><p class="mt-lg"><strong>Sridhar M, Kazipet</strong></p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt reveal">
+      <div class="container">
+        <div class="section-head"><p class="eyebrow">Service Areas</p><h2>Serving Warangal and Surrounding Locations</h2></div>
+        <div>
+          <a class="area-chip" href="location-warangal.html">Warangal</a>
+          <a class="area-chip" href="location-hanamkonda.html">Hanamkonda</a>
+          <a class="area-chip" href="location-kazipet.html">Kazipet</a>
+          <a class="area-chip" href="location-vidya-nagar.html">Vidya Nagar</a>
+          <a class="area-chip" href="location-mulugu-road.html">Mulugu Road</a>
+          <a class="area-chip" href="location-nearby-areas.html">Nearby Areas</a>
+        </div>
+        <div class="mt-xl"><a class="btn btn-primary" href="service-areas.html">Explore Service Area Details</a></div>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <div class="container">
+        <div class="section-head"><p class="eyebrow">Frequently Asked Questions</p><h2>Common Questions Before Booking</h2></div>
+        <div class="grid">
+          <article class="faq-item"><button class="faq-btn">How soon can I book emergency pest control?<span>+</span></button><div class="faq-content"><p>Emergency scheduling is available daily and depends on area and slot availability. Call for immediate assistance.</p></div></article>
+          <article class="faq-item"><button class="faq-btn">Do you provide commercial pest contracts?<span>+</span></button><div class="faq-content"><p>Yes, we provide scheduled pest management plans for offices, clinics, stores, restaurants, and warehouse spaces.</p></div></article>
+          <article class="faq-item"><button class="faq-btn">How often should treatment be repeated?<span>+</span></button><div class="faq-content"><p>Frequency depends on pest type and property risk profile. Most clients choose quarterly or half-yearly prevention plans.</p></div></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt reveal" id="contact">
+      <div class="container grid grid-2">
+        <div>
+          <p class="eyebrow">Contact Us</p>
+          <h2>Book a Free Inspection Today</h2>
+          <p class="mt-lg">Share your issue and our support team will guide the right treatment plan with fast scheduling options.</p>
+          <ul class="feature-list">
+            <li>Phone / WhatsApp: 7093968648</li>
+            <li>Email: asiapestcontrolservice18@gmail.com</li>
+            <li>Address: Vidya Nagar, Mulugu Road, Warangal</li>
+          </ul>
+        </div>
+        <form class="card" action="#" method="post">
+          <div class="form-grid">
+            <div><label for="name">Full Name</label><input id="name" name="name" type="text" required=""></div>
+            <div><label for="phone">Phone Number</label><input id="phone" name="phone" type="tel" required=""></div>
+            <div><label for="service">Service Needed</label><select id="service" name="service"><option>Termite Control</option><option>Bed Bug Control</option><option>Cockroach Control</option><option>General Pest Control</option></select></div>
+            <div><label for="location">Location</label><input id="location" name="location" type="text" value="Warangal"></div>
+          </div>
+          <div class="mt-lg"><label for="message">Pest Problem Details</label><textarea id="message" name="message"></textarea></div>
+          <div class="hero-actions mt-lg">
+            <button class="btn btn-primary" type="submit">Book Service</button>
+            <a class="btn btn-secondary" href="https://wa.me/917093968648?text=I%20want%20to%20schedule%20an%20inspection" target="_blank" rel="noopener">Schedule Inspection</a>
+          </div>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer">
+  <footer class="footer">
+    <div class="container-wide">
+      <div class="footer-grid">
+        <div>
+          <h3>ASIA PEST CONTROL SERVICE</h3>
+          <p>Premium pest management services for homes, apartments, offices, retail spaces, and industrial sites across Warangal and nearby areas.</p>
+          <p class="mt-lg">Emergency Service Window: 8:00 AM - 8:00 PM, 7 Days</p>
+        </div>
+        <div>
+          <h4>Quick Links</h4>
+          <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="services.html">Our Services</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="faq.html">FAQ</a>
+            <a href="contact.html">Contact Us</a>
+          </div>
+        </div>
+        <div>
+          <h4>Popular Services</h4>
+          <div class="footer-links"><a href="service-termite-control.html">Termite Control</a><a href="service-bed-bug-control.html">Bed Bug Control</a><a href="service-cockroach-control.html">Cockroach Control</a><a href="service-rodent-control.html">Rodent Control</a><a href="service-pre-construction-anti-termite-treatment.html">Pre-Construction Treatment</a><a href="service-post-construction-termite-treatment.html">Post-Construction Treatment</a></div>
+        </div>
+        <div>
+          <h4>Contact Details</h4>
+          <p>Shop No. 100, 100 Meters from Lalitha Hospital, H No: 3-16-290/9, Mulugu Road, Near Hema Hyundai Body, Vidya Nagar, Warangal, Telangana - 506007</p>
+          <p class="mt-lg"><a href="tel:+917093968648">70939 68648</a><br><a href="mailto:asiapestcontrolservice18@gmail.com">asiapestcontrolservice18@gmail.com</a></p>
+        </div>
+      </div>
+      <div class="footer-bottom">© 2026 ASIA PEST CONTROL SERVICE. All rights reserved.</div>
+    </div>
+  </footer></div>
+  <div id="floating-actions">
+      <div class="floating-actions">
+        <a href="tel:+917093968648" class="float-btn float-call" aria-label="Call Now">📞</a>
+        <a href="https://wa.me/917093968648?text=Hello%20ASIA%20Pest%20Control%20Service%2C%20please%20share%20pricing%20and%20inspection%20details." class="float-btn float-whatsapp" target="_blank" rel="noopener" aria-label="WhatsApp Now">💬</a>
+      </div>
+      <div class="sticky-call-bar">
+        <a href="tel:+917093968648" class="btn btn-secondary">Call Now - 70939 68648</a>
+      </div></div>
+  <script src="assets/js/site.js" defer=""></script>
+
+
+</body>

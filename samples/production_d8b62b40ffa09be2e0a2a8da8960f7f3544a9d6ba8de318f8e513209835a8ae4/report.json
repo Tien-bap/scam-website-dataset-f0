@@ -1,0 +1,21 @@
+{
+  "original_url": "giaohangnhanh88.com",
+  "hostname": "giaohangnhanh88.com",
+  "checked_at": "2026-10-04T10:34:37.135221+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "7bbaf5af-7fd6-4b4a-b15d-ad21a40ff845",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2024-11-11T13:11:42.789Z",
+  "scan_original_url": "https://giaohangnhanh88.com/",
+  "final_url": "https://giaohangnhanh88.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1179,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.428
+}

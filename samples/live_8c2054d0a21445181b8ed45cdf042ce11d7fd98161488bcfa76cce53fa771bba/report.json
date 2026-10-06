@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_8c2054d0a21445181b8ed45cdf042ce11d7fd98161488bcfa76cce53fa771bba",
+  "candidate_sha256": "a6916707b408f03113f36d33351b2204df5c0226672f1a774132e95dc106dd74",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://vietnam-airline.org",
+  "requested_url": "https://vietnam-airline.org",
+  "browser_final_url": "https://vietnam-airline.org/",
+  "source_urls": [
+    "https://vietnam-airline.org"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11588,
+      "source_url": "https://vietnam-airline.org",
+      "source_hostname": "vietnam-airline.org",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://vietnam-airline.org",
+      "final_hostname": "vietnam-airline.org",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 998,
+      "checked_at": "2026-10-05T12:41:47.568372+00:00",
+      "error": null,
+      "normalized_source_url": "https://vietnam-airline.org/",
+      "normalized_final_url": "https://vietnam-airline.org/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_8c2054d0a21445181b8ed45cdf042ce11d7fd98161488bcfa76cce53fa771bba",
+    "representative_source_index": 11588,
+    "representative_source_url": "https://vietnam-airline.org",
+    "representative_final_url": "https://vietnam-airline.org",
+    "normalized_final_url": "https://vietnam-airline.org/",
+    "source_hostname": "vietnam-airline.org",
+    "final_hostname": "vietnam-airline.org",
+    "source_urls": [
+      "https://vietnam-airline.org"
+    ],
+    "provenance": [
+      {
+        "source_index": 11588,
+        "source_url": "https://vietnam-airline.org",
+        "source_hostname": "vietnam-airline.org",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://vietnam-airline.org",
+        "final_hostname": "vietnam-airline.org",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 998,
+        "checked_at": "2026-10-05T12:41:47.568372+00:00",
+        "error": null,
+        "normalized_source_url": "https://vietnam-airline.org/",
+        "normalized_final_url": "https://vietnam-airline.org/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Vietnam Airlines Tickets - Booking Office, Flight, Schedule, Timetable, Fares",
+  "capture_timestamp": "2026-10-05T14:49:03.082558+00:00",
+  "dom_chars": 131878,
+  "screenshot_bytes": 281045,
+  "dom_sha256": "f282178772f05892d88a7bb92334123bd7a0c99561d287fcbd9f8a396079da63",
+  "screenshot_sha256": "6fdf95c10d00b0b9a166fb2b09dfd3bfd3e2e83ceb32e11b7c7686fa8906f1fd",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://vietnam-airline.org/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://vietnam-airline.org",
+    "browser_final_url": "https://vietnam-airline.org/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 7
+  },
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "elapsed_ms": 4890
+}

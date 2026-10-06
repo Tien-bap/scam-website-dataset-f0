@@ -1,0 +1,87 @@
+<head><style>
+  body {
+    background: url("/static/stub-pages/images/background.svg") no-repeat
+      center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 40px;
+  }
+  .domain-modal {
+    height: calc(100% - 120px);
+    background: #FFF;
+    border-radius: 6px;
+    padding: 60px;
+    color: #565b6d;
+    font-family: sans-serif;
+  }
+  .text-container {
+    position: relative;
+    z-index: 1;
+  }
+  .modal-title {
+    margin: 3% 50% 2% 0;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 105px;
+  }
+  .modal-subtitle {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 68px;
+  }
+  .domain-text-big {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    margin-top: 2%;
+  }
+  .domain-text-small {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    margin-top: 2%;
+  }
+  .domain-image {
+    position: absolute;
+    top: 16%;
+    right: 5%;
+    background-color: #FFF;
+  }
+</style>
+
+</head><body><div class="domain-modal">
+  <img src="/static/stub-pages/images/company-logo.png">
+
+  <div class="text-container">
+    <div class="modal-title">Oops!</div>
+
+    <div class="modal-subtitle">Strayed Path, But You're in Safe Hands</div>
+
+    <div class="domain-text-big">
+      You've ventured into an unexpected page, but fear not. You're <br>
+      on an Ironscales domain.
+    </div>
+
+    <div class="domain-text-small">
+      IRONSCALES is a leader in anti-phishing solutions. We're dedicated to
+      empowering <br>
+      individuals and organisation with advanced AI powered protection tools and
+      employee <br>
+      awareness training to defend against sophisticated phishing attacks. This
+      domain is <br>
+      specifically designed for phishing simulations – a controlled environment
+      meant to <br>
+      educate and train customers on phishing threats.
+    </div>
+
+    <div class="domain-text-small">
+      Our commitment is to a safer, more informed digital community. Dive deeper
+      into our <br>
+      website (www.ironscales.com) to learn more, or get in touch if you're
+      curious about <br>
+      how we can elevate your organization's cybersecurity readiness.
+    </div>
+  </div>
+  <img src="/static/training/img/domain-image.svg" class="domain-image">
+</div>
+</body>

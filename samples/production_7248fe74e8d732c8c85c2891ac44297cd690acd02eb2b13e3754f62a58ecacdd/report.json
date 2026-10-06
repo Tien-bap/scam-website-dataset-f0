@@ -1,0 +1,27 @@
+{
+  "original_url": "http://1nikhil-tech.github.io/",
+  "hostname": "1nikhil-tech.github.io",
+  "checked_at": "2026-10-04T15:56:02.388727+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f7bc2-3d91-758b-a7e2-08a7f23cb94c",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-19T19:02:41.496Z",
+  "scan_original_url": "https://1nikhil-tech.github.io/",
+  "final_url": "https://1nikhil-tech.github.io/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 607,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 1.924,
+  "discovery": {
+    "batch_id": "bd0d1c72e684ea4218de616c33155a8ba4e60924903d6899c07b079e24323058",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

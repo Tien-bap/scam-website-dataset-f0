@@ -1,0 +1,1295 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>Mua thẻ cào điện thoại, thẻ game giá rẻ hấp dẫn</title>
+    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo_momo_white.png">
+    
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.5.2/css/all.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="assets/css/thanhtoan.css">
+    <link rel="stylesheet" href="assets/css/hoantat.css">
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+    
+    <style>
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    margin: 0;
+    overflow-x: hidden;
+    padding-top: 60px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    border-bottom: 1px solid #ddd;
+    position: fixed; /* Thêm thuộc tính này */
+    top: 0; /* Thêm thuộc tính này */
+    width: 100%; /* Thêm thuộc tính này để header chiếm toàn bộ chiều rộng */
+    z-index: 1000; /* Thêm thuộc tính này để đảm bảo header luôn ở trên các phần tử khác */
+    background-color: white; /* Đảm bảo rằng header có nền trắng */
+}
+
+header .header-content {
+    max-width: 1200px;
+    margin: auto;
+    padding: 15px 10px;
+}
+
+header .header-content .img {
+    height: 30px;
+}
+
+header .header-content .img img {
+    height: 100%;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.content {
+    display: flex;
+}
+
+.content .buycard {
+    width: 60%;
+}
+
+.content .separator {
+    width: 1px;
+    margin: 0 10px;
+}
+
+.content .payment {
+    width: 40%;
+}
+
+.title {
+    color: #d4288a;
+    font-weight: bold;
+    font-size: 18px;
+    width: 100%;
+    margin: 5px 0px;
+}
+
+.listcard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    gap: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.listcard .item {
+    flex: 1 1 calc(33.33% - 10px);
+    border: 1px solid #d8b9cb;
+    border-radius: 10px;
+    box-sizing: border-box;
+    max-width: calc(33.33% - 10px);
+    max-height: 60px;
+    margin-bottom: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.listcard .item img {
+    max-width: 100%;
+    /* Đảm bảo ảnh không vượt quá chiều rộng của .item */
+    max-height: 100%;
+    /* Đảm bảo ảnh không vượt quá chiều cao của .item */
+}
+
+
+.listamount {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    gap: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.listamount .item {
+    flex: 1 1 calc(33.33% - 10px);
+    border: 1px solid #d8b9cb;
+    border-radius: 10px;
+    box-sizing: border-box;
+    max-width: calc(33.33% - 10px);
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.listamount .item .amount {
+    text-align: center;
+    font-size: 18px;
+    margin: 5px auto;
+    padding: 5px 0px;
+    border-bottom: 1px solid #d8b9cb;
+    color: #d4288a;
+    font-weight: 500;
+}
+
+.listamount .item .price {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 10px;
+    padding: 0px 0px 5px 0px;
+}
+
+.listamount .item .gb {
+    text-wrap: nowrap;
+    padding-left: 8px;
+}
+
+.listamount .item .st {
+    text-wrap: nowrap;
+    font-weight: bold;
+    padding-right: 8px;
+    color: #d4288a;
+}
+
+.nhanthe {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.nhanthe .des {
+    color: red;
+    font-size: 13px;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.nhanthe .mailphone {
+    margin: 10px 0px;
+}
+
+.nhanthe .mailphone label {
+    display: block;
+    margin: 5px 0px;
+}
+
+.nhanthe .mailphone input {
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 10px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.btn-thanhtoan {
+    margin: 10px 0px;
+    width: 100%;
+    padding: 13px;
+    background-color: #d4288a;
+    font-size: 14px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-thanhtoan:hover {
+    background-color: #e72995;
+}
+
+.selected {
+    border: 2px solid red;
+}
+
+.chitiet {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.tt {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0px;
+}
+
+.tt .ct {}
+
+.tt .if {
+    color: #d4288a;
+    font-weight: 500;
+}
+
+.soluong {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.soluong .text {
+    margin-right: 10px;
+}
+
+.quantity-input {
+    display: flex;
+    align-items: center;
+}
+
+.quantity-input button,
+.quantity-input input {
+    height: 30px; /* Đặt chiều cao chung cho cả button và input */
+}
+
+.quantity-input button {
+    background-color: #d4288a;
+    border: none;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+}
+
+.btn-left {
+    border-radius: 5px 0 0 5px;
+}
+
+.btn-right {
+    border-radius: 0 5px 5px 0;
+}
+
+.quantity-input input {
+    width: 40px; /* Điều chỉnh chiều rộng của input để cân đối */
+    text-align: center;
+    border: 1px solid #d4288a;
+    margin: 0;
+    font-size: 16px;
+    box-sizing: border-box; /* Đảm bảo padding và border không làm thay đổi chiều rộng và chiều cao */
+    border-radius: none;
+}
+
+.quantity-input button:focus,
+.quantity-input input:focus {
+    outline: none;
+}
+
+
+.tongtienthanhtoan {
+    color: #d4288a;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.thongbao {
+    font-size: 12px;
+    margin-bottom: 0px;
+    color: red;
+    width: 100%;
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .listcard .item {
+        flex: 1 1 calc(25% - 10px);
+        max-width: calc(25% - 10px);
+    }
+
+    .listamount .item {
+        flex: 1 1 calc(25% - 10px);
+        max-width: calc(25% - 10px);
+    }
+}
+
+@media (min-width: 1200px) {
+    .listcard .item {
+        flex: 1 1 calc(16.66% - 10px);
+        max-width: calc(16.66% - 10px);
+    }
+
+    .listamount .item {
+        flex: 1 1 calc(16.66% - 10px);
+        max-width: calc(16.66% - 10px);
+    }
+}
+
+@media (max-width: 575px) {
+    .content {
+        display: block;
+    }
+
+    .content .buycard,
+    .content .separator,
+    .content .payment {
+        width: 100%;
+        margin: 0;
+    }
+
+    .content .separator {
+        display: none;
+    }
+}
+    
+        .h2title {
+            font-weight: bold;
+            text-align: center;
+            font-size: 25px;
+            color: #cb2a83;
+            padding: 10px;
+        }
+    </style>
+</head><body>
+    <header>
+        <div class="header-content d-flex align-items-center">
+            <div class="img">
+                <a href="/">
+                    <img src="assets/img/logo/logo.png">
+                </a>
+            </div>
+        </div>
+    </header>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.slideshow-container {
+  position: relative;
+  margin: auto;
+}
+
+.mySlides {
+  display: none;
+  position: relative;
+  transition: opacity 0.5s ease-in-out; /* Thêm transition để tạo hiệu ứng lướt */
+  opacity: 0; /* Bắt đầu với opacity bằng 0 */
+}
+
+.mySlides.active {
+  display: block;
+  opacity: 1; /* Khi slide hiện, đặt opacity bằng 1 */
+}
+
+.mySlides img {
+  width: 100%;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  right: 0;
+  background: white;
+  height: 30px;
+  border-radius: 100% 100% 0 0;
+}
+
+.container-slide {
+  max-width: 1200px;
+  left: 0;
+  right: 0;
+  top: 50%;
+  position: absolute;
+  margin: auto;
+}
+
+.slideshow-container .container-slide .nut {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-size: 18px;
+  user-select: none;
+  background-color: white;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
+}
+
+.nut span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.prev {
+  left: 5px; /* Điều chỉnh vị trí nút prev */
+}
+
+.next {
+  right: 5px; /* Điều chỉnh vị trí nút next */
+}
+
+.dot-container {
+  position: absolute;
+  bottom: 10%; 
+  left: 50%; 
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.dot {
+  cursor: pointer;
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: white;
+}
+
+.slide-mb {
+    display: none;
+}
+
+.slide-pc {
+    display: block;
+}
+
+@media (max-width: 640px) {
+    .slide-pc {
+        display: none;
+    }
+    
+    .slide-mb {
+        display: block;
+    }
+    
+  .overlay {
+    height: 10px;
+  }
+
+  .dot {
+    width: 8px;
+    height: 8px;
+  }
+
+  .dot-container {
+    bottom: 48px; 
+  }
+}
+
+</style>
+
+<div class="slideshow-container">
+  <div class="mySlides fade" style="display: none;">
+    <img src="https://homepage.momocdn.net/img/momo-upload-api-240605135648-638531926085540894.jpg" class="slide-pc">
+    <img src="https://homepage.momocdn.net/img/momo-upload-api-240701113816-638554306968618516.jpg" class="slide-mb">
+  </div>
+  <div class="mySlides fade" style="display: none;">
+    <img src="https://homepage.momocdn.net/img/momo-upload-api-240531164133-638527704934796571.jpg" class="slide-pc">
+    <img src="https://homepage.momocdn.net/img/momo-upload-api-240531164136-638527704965376960.jpg" class="slide-mb">
+  </div>
+  <div class="mySlides fade active" style="display: block;">
+    <img src="https://homepage.momocdn.net/img/momo-upload-api-240605162541-638532015419642502.jpg" class="slide-pc">
+    <img src="https://homepage.momocdn.net/img/momo-upload-api-240605162551-638532015519032178.jpg" class="slide-mb">
+  </div>
+  <div class="mySlides fade" style="display: none;">
+    <img src="https://homepage.momocdn.net/img/momo-post-image-api-240703150316-638556157966720156.jpg" class="slide-pc">
+    <img src="https://homepage.momocdn.net/img/momo-post-image-api-240703150323-638556158036624650.jpg" class="slide-mb">
+  </div>
+  <div class="overlay"></div>
+
+  <div class="container-slide">
+    <div class="nut prev" onclick="plusSlides(-1)" style=""><span>❮</span></div>
+    <div class="nut next" onclick="plusSlides(1)"><span>❯</span></div>
+  </div>
+
+  <div class="dot-container">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot active" onclick="currentSlide(3)"></span>
+    <span class="dot" onclick="currentSlide(4)"></span>
+  </div>
+</div>
+
+<script>
+    let slideIndex = 1;
+    showSlides(slideIndex);
+    
+    $(document).on('touchstart', touchStart);
+    $(document).on('touchmove', touchMove);
+    $(document).on('touchend', touchEnd);
+    
+    $('.prev').click(function() {
+      plusSlides(-1);
+    });
+    
+    $('.next').click(function() {
+      plusSlides(1);
+    });
+    
+    $('.dot').click(function() {
+      let index = $(this).index() + 1;
+      currentSlide(index);
+    });
+    
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+    
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+    
+    function showSlides(n) {
+      let slides = $(".mySlides");
+      let dots = $(".dot");
+    
+      if (n > slides.length) {
+        slideIndex = 1;
+      }
+      if (n < 1) {
+        slideIndex = slides.length;
+      }
+    
+      slides.each(function() {
+        $(this).removeClass("active").hide();
+      });
+    
+      dots.each(function() {
+        $(this).removeClass("active");
+      });
+    
+      slides.eq(slideIndex - 1).show();
+    
+      setTimeout(function() {
+        slides.eq(slideIndex - 1).addClass("active");
+      }, 10);
+    
+      dots.eq(slideIndex - 1).addClass("active");
+    
+      if (slideIndex === 1) {
+        $('.prev').hide();
+      } else {
+        $('.prev').show();
+      }
+    
+      if (slideIndex === slides.length) {
+        $('.next').hide();
+      } else {
+        $('.next').show();
+      }
+    }
+    
+    let startX;
+    let startY;
+    
+    function touchStart(e) {
+      startX = e.originalEvent.touches[0].clientX;
+      startY = e.originalEvent.touches[0].clientY;
+    }
+    
+    function touchMove(e) {}
+    
+    function touchEnd(e) {
+      let endX = e.originalEvent.changedTouches[0].clientX;
+      let endY = e.originalEvent.changedTouches[0].clientY;
+    
+      let deltaX = endX - startX;
+      let deltaY = endY - startY;
+    
+      if (Math.abs(deltaX) > Math.abs(deltaY)) {
+        if (deltaX > 0) {
+          plusSlides(-1);
+        } else {
+          plusSlides(1);
+        }
+      }
+    }
+    
+    // Tự động chuyển slide mỗi 5 giây
+    setInterval(function() {
+      plusSlides(1);
+    }, 5000);
+</script>
+    <div class="container">
+        <div class="h2title">
+            Mua thẻ cào điện tử
+        </div>
+        
+        <div style="height: 20px"></div>
+
+<div class="bg-pink">
+    
+</div>
+        <div class="content">
+            <div class="buycard">
+                <div class="listcard" id="selectloaithe">
+                    <div class="title">
+                        <span>
+                            Chọn nhà cung cấp
+                        </span>
+                    </div>
+                    <div class="thongbao" id="thongbaoloaithe"></div>
+                    <div class="item" data-loaithe="GARENA">
+                        <img src="assets/img/cards/garena.png" alt="">
+                    </div>
+                    <div class="item" data-loaithe="VIETTEL">
+                        <img src="assets/img/cards/viettel.png" alt="">
+                    </div>
+                    <div class="item" data-loaithe="VINAPHONE">
+                        <img src="assets/img/cards/vinaphone.png" alt="">
+                    </div>
+                    <div class="item" data-loaithe="MOBIFONE">
+                        <img src="assets/img/cards/mobifone.png" alt="">
+                    </div>
+                    <div class="item" data-loaithe="VIETNAMOBILE">
+                        <img src="assets/img/cards/vietnamobile.png" alt="">
+                    </div>
+                    <div class="item" data-loaithe="FUNCARD">
+                        <img src="assets/img/cards/funcard.png" alt="">
+                    </div>
+                    <div class="item" data-loaithe="ZING">
+                        <img src="assets/img/cards/zing.png" alt="">
+                    </div>
+                    <div class="item" data-loaithe="GATE">
+                        <img src="assets/img/cards/gate.png" alt="">
+                    </div>
+                    <div class="item" data-loaithe="VCOIN">
+                        <img src="assets/img/cards/vcoin.png" alt="">
+                    </div>
+                    <div class="item" data-loaithe="SCOIN">
+                        <img src="assets/img/cards/scoin.png" alt="">
+                    </div>
+                    <div class="item" data-loaithe="APPOTA">
+                        <img src="assets/img/cards/appota.png" alt="">
+                    </div>
+                </div>
+
+                <div class="listamount" id="selectamount">
+                    <div class="title">
+                        Chọn mệnh giá thẻ
+                    </div>
+                    <div class="thongbao" id="thongbaomenhgia"></div>
+                    <div class="item" data-menhgia="10000" data-menhgiathuc="9040">
+                        <div class="amount">
+                            10.000đ
+                        </div>
+                        <div class="price">
+                            <div class="gb">Giá bán:</div>
+                            <div class="st">9.040đ</div>
+                        </div>
+                    </div>
+                    <div class="item" data-menhgia="20000" data-menhgiathuc="18080">
+                        <div class="amount">
+                            20.000đ
+                        </div>
+                        <div class="price">
+                            <div class="gb">Giá bán:</div>
+                            <div class="st">18.080đ</div>
+                        </div>
+                    </div>
+                    <div class="item" data-menhgia="30000" data-menhgiathuc="27120">
+                        <div class="amount">
+                            30.000đ
+                        </div>
+                        <div class="price">
+                            <div class="gb">Giá bán:</div>
+                            <div class="st">27.120đ</div>
+                        </div>
+                    </div>
+                    <div class="item" data-menhgia="50000" data-menhgiathuc="45200">
+                        <div class="amount">
+                            50.000đ
+                        </div>
+                        <div class="price">
+                            <div class="gb">Giá bán:</div>
+                            <div class="st">45.200đ</div>
+                        </div>
+                    </div>
+                    <div class="item" data-menhgia="100000" data-menhgiathuc="90400">
+                        <div class="amount">
+                            100.000đ
+                        </div>
+                        <div class="price">
+                            <div class="gb">Giá bán:</div>
+                            <div class="st">90.400đ</div>
+                        </div>
+                    </div>
+                    <div class="item" data-menhgia="200000" data-menhgiathuc="180800">
+                        <div class="amount">
+                            200.000đ
+                        </div>
+                        <div class="price">
+                            <div class="gb">Giá bán:</div>
+                            <div class="st">180.800đ</div>
+                        </div>
+                    </div>
+                    <div class="item" data-menhgia="300000" data-menhgiathuc="271200">
+                        <div class="amount">
+                            300.000đ
+                        </div>
+                        <div class="price">
+                            <div class="gb">Giá bán:</div>
+                            <div class="st">271.200đ</div>
+                        </div>
+                    </div>
+                    <div class="item" data-menhgia="500000" data-menhgiathuc="452000">
+                        <div class="amount">
+                            500.000đ
+                        </div>
+                        <div class="price">
+                            <div class="gb">Giá bán:</div>
+                            <div class="st">452.000đ</div>
+                        </div>
+                    </div>
+                    <div class="item" data-menhgia="1000000" data-menhgiathuc="904000">
+                        <div class="amount">
+                            1.000.000đ
+                        </div>
+                        <div class="price">
+                            <div class="gb">Giá bán:</div>
+                            <div class="st">904.000đ</div>
+                        </div>
+                    </div>
+                    <div class="soluong">
+                        <div class="text">Số lượng</div>
+                        <div class="quantity-input">
+                            <button type="button" class="btn-left" onclick="decrease()">-</button>
+                            <input type="number" id="soluong" name="soluong" value="1" min="1">
+                            <button type="button" class="btn-right" onclick="increase()">+</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="nhanthe">
+                    <div class="title">
+                        Chọn thông tin nhận thẻ
+                    </div>
+                    <div class="des">
+                        Nhập email hoặc số điện thoại của bạn vào ô bên dưới để tránh bị mất thẻ không mong muốn. Chúng
+                        tôi sẽ gửi thông tin thẻ cào về email hoặc số điện thoại của bạn
+                    </div>
+                    <div class="mailphone" id="selectmailphone">
+                        <label for="mailphone">Nhập email hoặc số điện thoại: </label>
+                        <input type="text" name="mailphone" id="mailphone" placeholder="Nhập email hoặc số điện thoại">
+                    </div>
+                </div>
+            </div>
+
+            <div class="separator"></div>
+
+            <div class="payment">
+                <div id="chitiet" class="chitiet">
+                    <div class="title">
+                        Chi tiết thanh toán
+                    </div>
+                    <div class="tt">
+                        <div class="ct">
+                            Loại thẻ
+                        </div>
+                        <div class="if" id="loaitheselect">
+                            Chưa chọn
+                        </div>
+                    </div>
+                    <div class="tt">
+                        <div class="ct">
+                            Mệnh giá thẻ
+                        </div>
+                        <div class="if" id="menhgiaselect">
+                            Chưa chọn
+                        </div>
+                    </div>
+                    <div class="tt">
+                        <div class="ct">
+                            Số lượng
+                        </div>
+                        <div class="if" id="soluongselect">
+                            1
+                        </div>
+                    </div>
+                    <div class="tt">
+                        <div class="ct">
+                            Thông tin nhận thẻ
+                        </div>
+                        <div class="if" id="emailphoneselect">
+                            Chưa điền thông tin
+                        </div>
+                    </div>
+                    <div class="tt">
+                        <div class="ct">
+                            Tổng tiền thanh toán
+                        </div>
+                        <div class="if" id="tongtienselect">
+                            Đang tính toán
+                        </div>
+                    </div>
+                    <button name="thanhtoan" id="thanhtoan" class="btn-thanhtoan">Thanh toán</button>
+                </div>
+                <div id="qr"></div>
+                <div id="thongbao" class="thongbao"></div>
+            </div>
+        </div>
+    </div>
+
+    <style>
+footer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.footer-top {
+    background-color: #171717;
+    color: #d1d1d1;
+    padding: 20px 0px;
+}
+
+.tieude {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer-top a {
+    text-decoration: none;
+    color: #8b8b8b;
+}
+
+.section {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.layout1 {
+    width: calc(20% - 15px);
+    box-sizing: border-box;
+}
+.layout2 {
+    width: calc(20% - 15px);
+    box-sizing: border-box;
+}
+.layout3 {
+    width: calc(35% - 15px);
+    box-sizing: border-box;
+}
+
+.layout4 {
+    width: calc(25% - 15px);
+    box-sizing: border-box;
+}
+
+.item-services {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.item-services img {
+    height: 24px;
+}
+
+.item-services a {
+    margin-left: 8px;
+}
+
+.layout3 p {
+    color: #8b8b8b;
+    margin: 8px 0px;
+}
+
+.layout3 p span {
+    color: #d1d1d1;
+}
+
+.layout3 .img-ad {
+    margin: 10px 0px 10px 0px;
+}
+
+.layout3 .img-ad img {
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    cursor: pointer;
+}
+
+.social {
+    display: flex;
+    justify-content: start;
+    margin: 20px 0px;
+    gap: 20px;
+}
+
+.social div {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.social div img {
+    width: 100%;
+}
+
+.download-app {
+    margin: 10px 0px;
+}
+
+.download-app div {
+    height: 110px;
+}
+
+.download-app div img {
+    height: 100%;
+    cursor: pointer;
+}
+
+.footer-bottom {
+    background-color: #262626;
+}
+
+.footer-bottom .content-foot {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+}
+
+.footer-bottom .content-foot .logo {
+    height: 50px;
+}
+
+.footer-bottom .content-foot .logo img {
+    height: 100%;
+}
+
+.footer-bottom .content-foot .company-info {
+    padding: 2px;
+    margin-left: 8px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-bottom .content-foot .company-info .company-name {
+    width: 100%;
+    color: #d1d1d1;    
+}
+.footer-bottom .content-foot .company-info .address {
+    color: #8b8b8b;
+    width: 100%;
+}
+
+@media (max-width: 1023px) {
+    .layout1,
+    .layout2,
+    .layout3,
+    .layout4 {
+        width: calc(50% - 10px);
+    }
+}
+
+@media (max-width: 639px) {
+    footer {
+        display: flex;
+        flex-direction: column-reverse; /* Đảo ngược thứ tự của các phần tử con */
+    }
+
+    .footer-bottom .content-foot .logo {
+        height: 80px;
+    }
+
+    .layout1,
+    .layout2 {
+        width: calc(50% - 10px);
+        /* Chỉnh lại width để trừ đi khoảng cách giữa các phần tử */
+    }
+
+    .layout3,
+    .layout4 {
+        width: 100%;
+        /* Chiều rộng 100% cho layout3 và layout4 */
+    }
+}
+</style>
+
+<footer>
+    <div class="footer-top">
+        <div class="section">
+            <div class="layout1">
+                <div class="tieude">
+                    VỀ CHÚNG TÔI
+                </div>
+                <p><a href="https://www.momo.vn/sieu-ung-dung-momo">Giới thiệu</a></p>
+                <p><a href="https://www.momo.vn/an-toan-bao-mat">An toàn - Bảo mật</a></p>
+                <p><a href="https://www.momo.vn/dieu-khoan-dieu-le">Điều khoản điều lệ</a></p>
+                <p><a href="https://www.momo.vn/chinh-sach-quyen-rieng-tu">Chính sách quyền riêng tư</a></p>
+                <p><a href="https://www.momo.vn/google-cloud-policy">Điều khoản liên kết Google trên ứng dụng MoMo</a></p>
+                <p><a href="https://www.momo.vn/blog">Blog</a></p>
+                <p><a href="https://www.momo.vn/lienhe">Liên hệ</a></p>
+                <p><a href="https://www.momo.vn/hoi-dap">Hỏi đáp</a></p>
+            </div>
+            <div class="layout2">
+                <div class="tieude">
+                    DỊCH VỤ NỔI BẬT
+                </div>
+                <div class="item-services">
+                    <img src="https://homepage.momocdn.net/fileuploads/svg/momo-file-230629144722.svg"> <a href="https://www.momo.vn/cinema">Vé xem phim</a>
+                </div>
+                <div class="item-services">
+                    <img src="https://homepage.momocdn.net/fileuploads/svg/momo-file-230629144844.svg"> <a href="https://www.momo.vn/bao-hiem-o-to/vat-chat">Bảo hiểm Ô tô</a>
+                </div>
+                <div class="item-services">
+                    <img src="https://homepage.momocdn.net/fileuploads/svg/momo-file-201210145350.svg"> <a href="https://www.momo.vn/ve-may-bay">Vé máy bay</a>
+                </div>
+                <div class="item-services">
+                    <img src="https://homepage.momocdn.net/img/momo-upload-api-231214222240-638381893608141712.png">
+                    <a href="https://www.momo.vn/vi-nhan-ai">Ví nhân ái</a>
+                </div>
+                <div class="item-services">
+                    <img src="https://homepage.momocdn.net/fileuploads/svg/momo-file-210716153611.svg"> <a href="https://www.momo.vn/tui-than-tai">Túi thần tài</a>
+                </div>
+                <div class="item-services">
+                    <img src="https://homepage.momocdn.net/img/momo-upload-api-230629144414-638236466540028217.png">
+                    <a href="https://www.momo.vn/vi-tra-sau">Ví trả sau</a>
+                </div>
+                <div class="item-services">
+                    <img src="https://homepage.momocdn.net/img/momo-upload-api-230418101312-638174095928506551.png">
+                    <a href="https://www.momo.vn/vay-nhanh">Vay nhanh</a>
+                </div>
+            </div>
+            <div class="layout3">
+                <div class="tieude">
+                    CHĂM SÓC KHÁCH HÀNG
+                </div>
+                <p>Địa chỉ: <span>Lầu 6, Toà nhà Phú Mỹ Hưng, số 8 Hoàng Văn Thái, khu phố 1, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh</span></p>
+                <p>Hotline: <span>1900 5454 41</span> (Phí 1.000đ/phút)</p>
+                <p>Email : <span>hotro@momo.vn</span></p>
+                <p>Tổng đài gọi ra: <span>028.7306.5555</span> - <span>028.9999.5555</span> - <span>028.5555.5555</span>, các đầu số di động Brandname MoMo</p>
+                <div class="img-ad">
+                    <img src="/assets/img/footer/huongdantrogiup.png">
+                </div>
+                <div style="height: 20px;"></div>
+                <div class="tieude">
+                    HỢP TÁC DOANH NGHIỆP
+                </div>
+                <p>Hotline: <span>1900 636 652</span> (Phí 1.000đ/phút)</p>
+                <p>Email: <span>merchant.care@momo.vn</span></p>
+                <p>Website: <span>business.momo.vn</span></p>
+                <div class="img-ad">
+                    <img src="/assets/img/footer/hoptac.png">
+                </div>
+            </div>
+            <div class="layout4">
+                <div>
+                    <div class="tieude">
+                        KẾT NỐI VỚI CHÚNG TÔI
+                    </div>
+                    <div class="social">
+                        <div>
+                            <img src="https://homepage.momocdn.net/styles/desktop/images/social/facebook.svg">
+                        </div>
+                        <div>
+                            <img src="https://homepage.momocdn.net/styles/desktop/images/social/linkedin.svg">
+                        </div>
+                        <div>
+                            <img src="https://homepage.momocdn.net/styles/desktop/images/social/youtube.svg">
+                        </div>
+                    </div>
+                </div>
+                <div style="height: 20px;"></div>
+                <div>
+                    <div class="tieude">
+                        TẢI ỨNG DỤNG TRÊN ĐIỆN THOẠI
+                    </div>
+                    <div class="download-app">
+                        <div>
+                            <img src="/assets/img/footer/taive.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="content-foot">
+            <div class="logo">
+                <img src="https://upload.wikimedia.org/wikipedia/vi/f/fe/MoMo_Logo.png">
+            </div>
+            <div class="company-info">
+                <div class="company-name">CÔNG TY CỔ PHẦN DỊCH VỤ DI ĐỘNG TRỰC TUYẾN</div>
+                <div class="address">Lầu 6, Toà nhà Phú Mỹ Hưng, số 8 Hoàng Văn Thái, khu phố 1, P. Tân Phú, Q. 7, Thành phố Hồ Chí Minh</div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script>
+    let loaithe = '';
+    let menhgia = '';
+    let menhgiathuc = '';
+    let soluong = 1;
+    let mailphone = '';
+
+    function formatNumber(number) {
+        return number.toLocaleString('vi-VN');
+    }
+
+    $(document).ready(function () {
+        // Sử dụng sự kiện ủy quyền cho các item trong listcard
+        $(document).on('click', '.listcard .item', function () {
+            $('.listcard .item').css('border', '1px solid #ddd');
+            $(this).css('border', '2px solid #d4288a');
+            loaithe = $(this).data('loaithe');
+            $('#loaitheselect').text(loaithe);
+            $.ajax({
+                type: 'POST',
+                url: 'ajax/getmenhgia.php',
+                data: { loaithe: loaithe },
+                success: function(response) {
+                    $('.listamount').html(response);
+                    menhgia = '';
+                    $('html, body').animate({
+                        scrollTop: $('#selectamount').offset().top - ($(window).height() / 2) + ($('#selectamount').outerHeight() / 2)
+                    }, 1000);
+                },
+                error: function(xhr, status, error) {
+                    console.error('Error: ' + error);
+                }
+            });
+            resetPayment();
+        });
+
+        // Sử dụng sự kiện ủy quyền cho các item trong listamount
+        $(document).on('click', '.listamount .item', function () {
+            $('.listamount .item').css('border', '1px solid #ddd');
+            $(this).css('border', '2px solid #d4288a');
+            menhgia = $(this).data('menhgia');
+            menhgiathuc = $(this).data('menhgiathuc');
+            $('#menhgiaselect').text(formatNumber(menhgia) + 'đ');
+            $('#tongtienselect').html('<span class="tongtienthanhtoan">' + formatNumber(menhgiathuc * soluong) + 'đ</span>');
+            // $('html, body').animate({
+            //     scrollTop: $('#selectmailphone').offset().offset().top - ($(window).height() / 2) + ($('#selectmailphone').outerHeight() / 2)
+            // }, 1000);
+            resetPayment();
+        });
+
+        $(document).on('input change blur', '#soluong', function () {
+            soluong = parseInt($(this).val());
+            $('#soluongselect').text(soluong);
+            $('#tongtienselect').html('<span class="tongtienthanhtoan">' + formatNumber(menhgiathuc * soluong) + 'đ</span>');
+            resetPayment();
+        });
+
+        $(document).on('input', '#mailphone', function () {
+            mailphone = $(this).val();
+            $('#emailphoneselect').text(mailphone);
+        });
+
+        $(document).on('click', '#thanhtoan', function() {
+            let error = false;
+            let errorMessage = '';
+        
+            if (!loaithe) {
+                $('#thongbaoloaithe').html('Vui lòng chọn loại thẻ.');
+                $("#thongbaoloaithe").show();
+                $('html, body').animate({
+                    scrollTop: $('#selectloaithe').offset().top - ($(window).height() / 2) + ($('#selectloaithe').outerHeight() / 2)
+                }, 500);
+                return;
+            }
+            
+            if (!menhgia) {
+                $('#thongbaomenhgia').html('Vui lòng chọn mệnh giá thẻ.');
+                $("#thongbaomenhgia").show();
+                $('html, body').animate({
+                    scrollTop: $('#selectamount').offset().top - ($(window).height() / 2) + ($('#selectamount').outerHeight() / 2)
+                }, 500);
+                return;
+            }
+        
+            $.ajax({
+                type: 'POST',
+                url: '/thanhtoan',
+                data: {
+                    loaithe: loaithe,
+                    menhgia: menhgia,
+                    menhgiathuc: menhgiathuc,
+                    soluong: soluong,
+                    mailphone: mailphone,
+                    thanhtoan: true
+                },
+                success: function(response) {
+                    $('#qr').html(response);
+                    setTimeout(function() {
+                        $('html, body').animate({
+                            scrollTop: $('#qr').offset().top - ($(window).height() / 2) + ($('#selectamount').outerHeight() / 2)
+                        }, 1000); // Cuộn đến class .listamount trong 1 giây
+                    }, 500);
+                    $('#thanhtoan').hide();
+                }
+            });
+        });
+
+        $(document).on('click', '#decrease', function () {
+            if (soluong > 1) {
+                soluong--;
+                $('#soluong').val(soluong);
+                $('#soluongselect').text(soluong);
+            }
+            resetPayment();
+        });
+
+        $(document).on('click', '#increase', function () {
+            soluong++;
+            $('#soluong').val(soluong);
+            $('#soluongselect').text(soluong);
+            resetPayment();
+        });
+    });
+
+    function resetPayment() {
+        $('#thanhtoan').show();
+        $('#qr').html('');
+    }
+    
+    function resetPayment() {
+        $('#thanhtoan').show();
+        $('#qr').html('');
+    }
+    
+    function decrease() {
+        var $quantity = $('#soluong');
+        if ($quantity.val() > 1) {
+            $quantity.val(parseInt($quantity.val()) - 1).trigger('change');
+        }
+    }
+
+    function increase() {
+        var $quantity = $('#soluong');
+        $quantity.val(parseInt($quantity.val()) + 1).trigger('change');
+    }
+</script>
+
+
+
+</body>

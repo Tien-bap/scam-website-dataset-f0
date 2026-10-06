@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_f73e37624b7dadbd012fbe26ea74411436dd8d2b4d2e4b0b518d52216c0969ea",
+  "candidate_sha256": "99fe178d1e123fcb91de29ba06ca0148a373c7c15f48a5c7474ae8f6c7091fde",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://*.chanlemomo.click/",
+  "requested_url": "https://cltxmomo.com/",
+  "browser_final_url": "https://cltxmomo.com/",
+  "source_urls": [
+    "https://*.chanlemomo.click/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 6311,
+      "source_url": "https://*.chanlemomo.click/",
+      "source_hostname": "*.chanlemomo.click",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://cltxmomo.com/",
+      "final_hostname": "cltxmomo.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1674,
+      "checked_at": "2026-10-05T12:41:28.477401+00:00",
+      "error": null,
+      "normalized_source_url": "https://*.chanlemomo.click/",
+      "normalized_final_url": "https://cltxmomo.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_f73e37624b7dadbd012fbe26ea74411436dd8d2b4d2e4b0b518d52216c0969ea",
+    "representative_source_index": 6311,
+    "representative_source_url": "https://*.chanlemomo.click/",
+    "representative_final_url": "https://cltxmomo.com/",
+    "normalized_final_url": "https://cltxmomo.com/",
+    "source_hostname": "*.chanlemomo.click",
+    "final_hostname": "cltxmomo.com",
+    "source_urls": [
+      "https://*.chanlemomo.click/"
+    ],
+    "provenance": [
+      {
+        "source_index": 6311,
+        "source_url": "https://*.chanlemomo.click/",
+        "source_hostname": "*.chanlemomo.click",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://cltxmomo.com/",
+        "final_hostname": "cltxmomo.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1674,
+        "checked_at": "2026-10-05T12:41:28.477401+00:00",
+        "error": null,
+        "normalized_source_url": "https://*.chanlemomo.click/",
+        "normalized_final_url": "https://cltxmomo.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Chẵn Lẻ MoMo - Game CLMM Uy Tín Hàng Đầu Việt Nam",
+  "capture_timestamp": "2026-10-05T15:00:48.401683+00:00",
+  "dom_chars": 142944,
+  "screenshot_bytes": 666305,
+  "dom_sha256": "0db73420a7da39284910ca14c457f5ecad909791d7d7bc2d37212d13334b47ab",
+  "screenshot_sha256": "aa11b98572a04686033801e46c7bab3a876c91d8fb080820bfb9c2a06a5565fd",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://cltxmomo.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://cltxmomo.com/",
+    "browser_final_url": "https://cltxmomo.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 5,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 6665
+}

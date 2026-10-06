@@ -1,0 +1,27 @@
+{
+  "original_url": "http://sanfilippowholesale.ca/msn",
+  "hostname": "sanfilippowholesale.ca",
+  "checked_at": "2026-10-04T14:54:08.030666+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a07238-b50b-723f-8cc1-7bcb28314760",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-05T15:38:52.803Z",
+  "scan_original_url": "http://sanfilippowholesale.ca/",
+  "final_url": "https://sanfilippowholesale.ca/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2259,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.863,
+  "discovery": {
+    "batch_id": "29919bcfc54f920a6ca0bcbf2e9b1dc80062c720f90f25d1c5b6003895ce5992",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

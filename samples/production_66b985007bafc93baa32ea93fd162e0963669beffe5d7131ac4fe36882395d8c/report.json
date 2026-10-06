@@ -1,0 +1,27 @@
+{
+  "original_url": "http://reportedtimes.com/a/amz/a1b2c3/c83ef3dd9583a5e696f5f08771938c76/login/",
+  "hostname": "reportedtimes.com",
+  "checked_at": "2026-10-04T15:53:03.241636+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0af82-7d28-7037-a631-8c228fbfa303",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-17T13:16:08.486Z",
+  "scan_original_url": "http://reportedtimes.com/",
+  "final_url": "https://reportedtimes.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5028,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.913,
+  "discovery": {
+    "batch_id": "3a1b7d41ebde6e6aa27c52609674657de2c0ea79b09c6f93987c4d49cef0417f",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

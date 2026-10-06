@@ -1,0 +1,21 @@
+{
+  "original_url": "cskh-techcombank.com",
+  "hostname": "cskh-techcombank.com",
+  "checked_at": "2026-10-04T10:34:40.566967+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "205b4bb1-4a46-4ff9-809c-0e6abb24866f",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2024-12-11T00:17:00.042Z",
+  "scan_original_url": "https://cskh-techcombank.com/",
+  "final_url": "https://cskh-techcombank.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 7814,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 5.536
+}

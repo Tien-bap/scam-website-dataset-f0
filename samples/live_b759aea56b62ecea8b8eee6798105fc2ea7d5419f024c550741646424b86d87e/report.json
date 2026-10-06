@@ -1,0 +1,398 @@
+{
+  "candidate_id": "live_b759aea56b62ecea8b8eee6798105fc2ea7d5419f024c550741646424b86d87e",
+  "candidate_sha256": "85fd82cd757c8b2cfa89dec958fab04917db5211b66783e12b1e6e2e1ffd0b71",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://houseofscotland.com.au/footers.php",
+  "requested_url": "http://houseofscotland.com.au/footers.php",
+  "browser_final_url": "http://houseofscotland.com.au/footers.php",
+  "source_urls": [
+    "http://houseofscotland.com.au/footers.php"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 116378,
+      "source_url": "http://houseofscotland.com.au/footers.php",
+      "source_hostname": "houseofscotland.com.au",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://houseofscotland.com.au/footers.php",
+      "final_hostname": "houseofscotland.com.au",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 8727,
+      "elapsed_ms": 1348,
+      "checked_at": "2026-10-05T13:16:50.461161+00:00",
+      "error": null,
+      "normalized_source_url": "http://houseofscotland.com.au/footers.php",
+      "normalized_final_url": "http://houseofscotland.com.au/footers.php",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": [
+            {
+              "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+              "role": "manifest.source_url",
+              "url": "https://houseofscotland.com.au/images/footer.php",
+              "normalized_url": "https://houseofscotland.com.au/images/footer.php"
+            },
+            {
+              "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+              "role": "report.original_url",
+              "url": "https://houseofscotland.com.au/images/footer.php",
+              "normalized_url": "https://houseofscotland.com.au/images/footer.php"
+            },
+            {
+              "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+              "role": "report.scan_original_url",
+              "url": "http://houseofscotland.com.au/media.html",
+              "normalized_url": "http://houseofscotland.com.au/media.html"
+            },
+            {
+              "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+              "role": "report.final_url",
+              "url": "https://houseofscotland.com.au/media.html",
+              "normalized_url": "https://houseofscotland.com.au/media.html"
+            },
+            {
+              "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+              "role": "manifest.source_url",
+              "url": "http://houseofscotland.com.au/footersl.php",
+              "normalized_url": "http://houseofscotland.com.au/footersl.php"
+            },
+            {
+              "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+              "role": "report.original_url",
+              "url": "http://houseofscotland.com.au/footersl.php",
+              "normalized_url": "http://houseofscotland.com.au/footersl.php"
+            },
+            {
+              "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+              "role": "report.scan_original_url",
+              "url": "http://houseofscotland.com.au/media.html",
+              "normalized_url": "http://houseofscotland.com.au/media.html"
+            },
+            {
+              "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+              "role": "report.final_url",
+              "url": "https://houseofscotland.com.au/media.html",
+              "normalized_url": "https://houseofscotland.com.au/media.html"
+            }
+          ]
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": [
+            {
+              "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+              "role": "manifest.source_url",
+              "url": "https://houseofscotland.com.au/images/footer.php",
+              "normalized_url": "https://houseofscotland.com.au/images/footer.php"
+            },
+            {
+              "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+              "role": "report.original_url",
+              "url": "https://houseofscotland.com.au/images/footer.php",
+              "normalized_url": "https://houseofscotland.com.au/images/footer.php"
+            },
+            {
+              "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+              "role": "report.scan_original_url",
+              "url": "http://houseofscotland.com.au/media.html",
+              "normalized_url": "http://houseofscotland.com.au/media.html"
+            },
+            {
+              "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+              "role": "report.final_url",
+              "url": "https://houseofscotland.com.au/media.html",
+              "normalized_url": "https://houseofscotland.com.au/media.html"
+            },
+            {
+              "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+              "role": "manifest.source_url",
+              "url": "http://houseofscotland.com.au/footersl.php",
+              "normalized_url": "http://houseofscotland.com.au/footersl.php"
+            },
+            {
+              "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+              "role": "report.original_url",
+              "url": "http://houseofscotland.com.au/footersl.php",
+              "normalized_url": "http://houseofscotland.com.au/footersl.php"
+            },
+            {
+              "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+              "role": "report.scan_original_url",
+              "url": "http://houseofscotland.com.au/media.html",
+              "normalized_url": "http://houseofscotland.com.au/media.html"
+            },
+            {
+              "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+              "role": "report.final_url",
+              "url": "https://houseofscotland.com.au/media.html",
+              "normalized_url": "https://houseofscotland.com.au/media.html"
+            }
+          ]
+        },
+        "strong": false,
+        "type": "hostname_only"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_b759aea56b62ecea8b8eee6798105fc2ea7d5419f024c550741646424b86d87e",
+    "representative_source_index": 116378,
+    "representative_source_url": "http://houseofscotland.com.au/footers.php",
+    "representative_final_url": "http://houseofscotland.com.au/footers.php",
+    "normalized_final_url": "http://houseofscotland.com.au/footers.php",
+    "source_hostname": "houseofscotland.com.au",
+    "final_hostname": "houseofscotland.com.au",
+    "source_urls": [
+      "http://houseofscotland.com.au/footers.php"
+    ],
+    "provenance": [
+      {
+        "source_index": 116378,
+        "source_url": "http://houseofscotland.com.au/footers.php",
+        "source_hostname": "houseofscotland.com.au",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://houseofscotland.com.au/footers.php",
+        "final_hostname": "houseofscotland.com.au",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 8727,
+        "elapsed_ms": 1348,
+        "checked_at": "2026-10-05T13:16:50.461161+00:00",
+        "error": null,
+        "normalized_source_url": "http://houseofscotland.com.au/footers.php",
+        "normalized_final_url": "http://houseofscotland.com.au/footers.php",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": [
+              {
+                "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+                "role": "manifest.source_url",
+                "url": "https://houseofscotland.com.au/images/footer.php",
+                "normalized_url": "https://houseofscotland.com.au/images/footer.php"
+              },
+              {
+                "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+                "role": "report.original_url",
+                "url": "https://houseofscotland.com.au/images/footer.php",
+                "normalized_url": "https://houseofscotland.com.au/images/footer.php"
+              },
+              {
+                "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+                "role": "report.scan_original_url",
+                "url": "http://houseofscotland.com.au/media.html",
+                "normalized_url": "http://houseofscotland.com.au/media.html"
+              },
+              {
+                "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+                "role": "report.final_url",
+                "url": "https://houseofscotland.com.au/media.html",
+                "normalized_url": "https://houseofscotland.com.au/media.html"
+              },
+              {
+                "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+                "role": "manifest.source_url",
+                "url": "http://houseofscotland.com.au/footersl.php",
+                "normalized_url": "http://houseofscotland.com.au/footersl.php"
+              },
+              {
+                "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+                "role": "report.original_url",
+                "url": "http://houseofscotland.com.au/footersl.php",
+                "normalized_url": "http://houseofscotland.com.au/footersl.php"
+              },
+              {
+                "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+                "role": "report.scan_original_url",
+                "url": "http://houseofscotland.com.au/media.html",
+                "normalized_url": "http://houseofscotland.com.au/media.html"
+              },
+              {
+                "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+                "role": "report.final_url",
+                "url": "https://houseofscotland.com.au/media.html",
+                "normalized_url": "https://houseofscotland.com.au/media.html"
+              }
+            ]
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": [
+              {
+                "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+                "role": "manifest.source_url",
+                "url": "https://houseofscotland.com.au/images/footer.php",
+                "normalized_url": "https://houseofscotland.com.au/images/footer.php"
+              },
+              {
+                "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+                "role": "report.original_url",
+                "url": "https://houseofscotland.com.au/images/footer.php",
+                "normalized_url": "https://houseofscotland.com.au/images/footer.php"
+              },
+              {
+                "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+                "role": "report.scan_original_url",
+                "url": "http://houseofscotland.com.au/media.html",
+                "normalized_url": "http://houseofscotland.com.au/media.html"
+              },
+              {
+                "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+                "role": "report.final_url",
+                "url": "https://houseofscotland.com.au/media.html",
+                "normalized_url": "https://houseofscotland.com.au/media.html"
+              },
+              {
+                "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+                "role": "manifest.source_url",
+                "url": "http://houseofscotland.com.au/footersl.php",
+                "normalized_url": "http://houseofscotland.com.au/footersl.php"
+              },
+              {
+                "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+                "role": "report.original_url",
+                "url": "http://houseofscotland.com.au/footersl.php",
+                "normalized_url": "http://houseofscotland.com.au/footersl.php"
+              },
+              {
+                "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+                "role": "report.scan_original_url",
+                "url": "http://houseofscotland.com.au/media.html",
+                "normalized_url": "http://houseofscotland.com.au/media.html"
+              },
+              {
+                "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+                "role": "report.final_url",
+                "url": "https://houseofscotland.com.au/media.html",
+                "normalized_url": "https://houseofscotland.com.au/media.html"
+              }
+            ]
+          },
+          "strong": false,
+          "type": "hostname_only"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "hostname_only",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": [
+        {
+          "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+          "role": "manifest.source_url",
+          "url": "https://houseofscotland.com.au/images/footer.php",
+          "normalized_url": "https://houseofscotland.com.au/images/footer.php"
+        },
+        {
+          "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+          "role": "report.final_url",
+          "url": "https://houseofscotland.com.au/media.html",
+          "normalized_url": "https://houseofscotland.com.au/media.html"
+        },
+        {
+          "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+          "role": "report.original_url",
+          "url": "https://houseofscotland.com.au/images/footer.php",
+          "normalized_url": "https://houseofscotland.com.au/images/footer.php"
+        },
+        {
+          "sample_id": "production_8acbed8e85fb5a0b86deb328e3e6b05c249eccd4f862f4db520e1b8e03fdc975",
+          "role": "report.scan_original_url",
+          "url": "http://houseofscotland.com.au/media.html",
+          "normalized_url": "http://houseofscotland.com.au/media.html"
+        },
+        {
+          "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+          "role": "manifest.source_url",
+          "url": "http://houseofscotland.com.au/footersl.php",
+          "normalized_url": "http://houseofscotland.com.au/footersl.php"
+        },
+        {
+          "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+          "role": "report.final_url",
+          "url": "https://houseofscotland.com.au/media.html",
+          "normalized_url": "https://houseofscotland.com.au/media.html"
+        },
+        {
+          "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+          "role": "report.original_url",
+          "url": "http://houseofscotland.com.au/footersl.php",
+          "normalized_url": "http://houseofscotland.com.au/footersl.php"
+        },
+        {
+          "sample_id": "production_b6db6da74e3c1800f777be83cae7eaf95a850cd520839984d4e94af344d2215e",
+          "role": "report.scan_original_url",
+          "url": "http://houseofscotland.com.au/media.html",
+          "normalized_url": "http://houseofscotland.com.au/media.html"
+        }
+      ]
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "House of Scotland - Home",
+  "capture_timestamp": "2026-10-05T16:47:51.034675+00:00",
+  "dom_chars": 15428,
+  "screenshot_bytes": 382904,
+  "dom_sha256": "42e18648b48c106be745d6db7f6b6ab488c065a5f52d5ae604c064cbb611f807",
+  "screenshot_sha256": "4e5b00a0af0c6ca1bf4f3447e672581b31e1f8a193626495ad214209436873fc",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://houseofscotland.com.au/footers.php",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://houseofscotland.com.au/footers.php",
+    "browser_final_url": "http://houseofscotland.com.au/footers.php",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 3602,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:53:38.340207+00:00",
+    "previous_report_sha256": "4388c21e4b963acbba1e81cdaf9a3843bd49f86db3df750f3c1533a86d4f11e8",
+    "recovered_at": "2026-10-05T16:47:51.034675+00:00",
+    "result": "complete"
+  }
+}

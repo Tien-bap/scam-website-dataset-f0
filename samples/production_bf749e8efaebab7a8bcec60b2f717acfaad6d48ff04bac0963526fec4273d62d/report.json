@@ -1,0 +1,21 @@
+{
+  "original_url": "amazouo9.com",
+  "hostname": "amazouo9.com",
+  "checked_at": "2026-10-04T10:34:32.750257+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 6,
+  "candidates_checked": 3,
+  "selected_scan_uuid": "27b7737d-6926-45d3-920a-779e04606179",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-01-09T01:18:39.007Z",
+  "scan_original_url": "http://amazouo9.com/",
+  "final_url": "https://amazouo9.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 182,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.019
+}

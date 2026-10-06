@@ -1,0 +1,27 @@
+{
+  "original_url": "denicx.com",
+  "hostname": "denicx.com",
+  "checked_at": "2026-10-04T13:37:30.130809+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a06735-dc19-71db-832b-20a8656961fe",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-09-03T12:20:12.937Z",
+  "scan_original_url": "http://denicx.com/",
+  "final_url": "https://denicx.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3097,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.53,
+  "discovery": {
+    "batch_id": "825d4e824072e554a964d62a3a1431040e137611f48da2a033bbc5cb8546998c",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

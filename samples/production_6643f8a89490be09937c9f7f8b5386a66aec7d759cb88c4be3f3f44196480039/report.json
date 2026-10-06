@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.webfun.website/landingpage/dd263864-38a2-466a-be2f-4e5ec6c5e042/DFMsRSC1qTRtDLWJArjc4RXZNO4AXBs7b43oF92jBvY",
+  "hostname": "www.webfun.website",
+  "checked_at": "2026-10-04T16:08:02.567667+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 46,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e484-0aa2-7574-83cd-ac18b4142189",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-27T20:17:42.350Z",
+  "scan_original_url": "http://www.webfun.website/landingpages/cf1a9771-107e-471b-986d-361ea44c2f10/8owznfalqzhcxno92zeuq4taztvl98htcyfkkrq5ijs",
+  "final_url": "https://www.webfun.website/landingpages/cf1a9771-107e-471b-986d-361ea44c2f10/8owznfalqzhcxno92zeuq4taztvl98htcyfkkrq5ijs",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 99,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.723,
+  "discovery": {
+    "batch_id": "e606b5fec49eb1578afb27b138d710d6a2e0e138a0d7baf16f64b46b15f666b1",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,1091 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<title>โรงเรียนรังสฤษฏ์สองภาษา</title>
+<meta name="keywords" content="โปรแกรมบริหารสถานศึกษา, โปรแกรมบริหารสถานศึกษา, โปรแกรมบริหารโรงเรียน, ระบบบริหารโรงเรียน, สารสนเทศโรงเรียน, โปรแกรมสารสนเทศโรงเรียน, ระบบสารสนเทศโรงเรียน, โปรแกรมโรงเรียน, ระบบงานโรงเรียน, ระบบโรงเรียน, ธุรการโรงเรียน, ระบบทะเบียนนักเรียนและบุคลากร, ระบบงานวิชาการ, ระบบงานกิจการนักเรียน, ระบบงานบุคลากร, ระบบงานทั่วไป, ระบบรับชำระเงินค่าเทอม, ระบบดูแลช่วยเหลือนักเรียน, โปรแกรมบริหารงานบุคคล, งานครูผู้สอน, ผลการเรียน, เช็คเวลาเรียน, เช็คเกรด, ตรวจสอบผลการเรียน, จ่ายค่าเทอม, ลงทะเบียนชุมนุม, รับทำเว็บไซต์, รับเขียนโปรแกรม">
+<meta name="description" content="โปรแกรมบริหารสถานศึกษา ระบบบริหารงานโรงเรียน ระบบสารสนเทศโรงเรียน งานธุรการโรงเรียน งานวิชาการ งานกิจการนักเรียน งานบุคลากร ประเมินคุณภาพผู้เรียน รับชำระเงินค่าเทอม ระบบดูแลช่วยเหลือนักเรียน บริหารจัดการข้อมูลในรูปแบบออนไลน์ ปลอดภัยสูง สวยงาม น่าใช้  ติดตั้งและดูแลฟรีตลอดอายุการใช้งาน">
+<link rel="shortcut icon" href="https://rungsarith.ac.th/schoolmin/images/favicon.ico">
+<link rel="Short Icon" href="https://rungsarith.ac.th/schoolmin/images/favicon.ico">
+
+<link rel="stylesheet" type="text/css" href="schoolmin/css/princessfont.css">
+<link rel="stylesheet" type="text/css" href="schoolmin/css/tankhunfont.css">
+<link rel="stylesheet" type="text/css" href="schoolmin/css/thaisansbold.css">
+<link rel="stylesheet" type="text/css" href="css/main_schoolweb.css">
+<link rel="stylesheet" type="text/css" href="css/icons.css">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+<link rel="stylesheet" type="text/css" href="css/theme_main.css">
+<link rel="stylesheet" type="text/css" href="css/galleryhover.css">
+<link rel="stylesheet" type="text/css" href="css/multilevelmenu.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap_slider.css?1785405422">
+<link rel="stylesheet" type="text/css" href="css/tabs_block.css">
+<link rel="stylesheet" type="text/css" href="css/leftside_menu.css">
+<link rel="stylesheet" type="text/css" href="css/blockquote_image.css">
+<link rel="stylesheet" type="text/css" href="css/link_effect.css">
+<link rel="stylesheet" type="text/css" href="css/banner.css">
+<link rel="stylesheet" type="text/css" href="css/tabs_slide.css">
+<link rel="stylesheet" type="text/css" href="css/tabs_fullwidth.css">
+<link rel="stylesheet" type="text/css" href="css/photo_style.css">
+
+<link rel="stylesheet" type="text/css" href="css/component.register.css">
+<script src="js/modernizr.custom.register.js"></script>
+
+<link rel="stylesheet" type="text/css" href="css/event_calendar.css">
+<link rel="stylesheet" type="text/css" href="css/custom_calendar_2.css">
+
+<link rel="stylesheet" type="text/css" href="css/main_schoolweb_responsive.css">
+
+<link rel="stylesheet" type="text/css" href="css/demo.css">
+<link rel="stylesheet" type="text/css" href="css/shape_hover.css">
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/modernizr.custom.event_calendar.js"></script>
+<script>
+var cont = "";
+$(document).ready(function (){
+	if(cont!="Home" && cont!=""){
+		$('html, body').animate({
+			scrollTop: $('#maincontent').offset().top
+		}, 'slow');
+	}
+});
+
+</script>
+<style>
+body{
+	overflow-y: scroll;
+	background-color:#fff;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}
+
+
+.area-bottom{
+	line-height: 24px;
+	font-size: 11px;
+	font-family:tahoma;
+	position: relative;
+	width:100%;
+	background:;
+	height:50px;
+	padding:10px 0px;
+}
+</style>
+</head><body id="wheelcontent">
+<div class="main-header blue-yellow-header-bg" style="min-height:120px">
+    <div class="inside">
+        <span class="left">
+        <a href="index.php"><img src="schoolmin/gallery/logo/school_logo.png?1785405422" alt="logo" class="logo" style="height:100px"></a>
+        </span>
+        <span class="left">
+            <h5 style="padding-top:20px; padding-left:15px; color:#006699; font-size:40px; line-height:40px">โรงเรียนรังสฤษฏ์สองภาษา</h5>
+        <h4 style="padding-top:0px;padding-left:15px;font-size:26px;color:#000;text-shadow:none">Rungsarith Bilingual School</h4>
+        </span>
+                <span class="right blue-yellow-top-nav">
+            <a href="?Cont=ASD&amp;AboutOrder=6">ติดต่อเรา</a> | <a href="?Page=Admission&amp;Cont=login">ล็อกอิน</a>
+        </span>
+                <div class="menu" style="margin-top:30px">
+        <div id="cssmenu">
+<ul class="blue-yellow-menu">
+   <li><a href="?Cont=Home"><h5 class="shade">หน้าหลัก</h5></a></li>
+   <li><a href="?Cont=PGL"><h5 class="shade">รูปภาพกิจกรรม</h5></a></li>
+   <li><a href="?Cont=FullCalendar"><h5 class="shade">ปฏิทินกิจกรรม</h5></a></li>
+   <li><a href="?Cont=CVL"><h5 class="shade">คลิปวีดิโอ</h5></a></li>
+   <li><a href="?Cont=DLD"><h5 class="shade">ดาวน์โหลด</h5></a></li>
+</ul>
+</div>        </div>
+    </div>
+	<div class="clrtop"></div>
+</div><header id="myCarousel" class="carousel slide" style="height:380px" data-interval="3000">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+	        <li data-target="#myCarousel" data-slide-to="1"></li>
+	        <li data-target="#myCarousel" data-slide-to="2"></li>
+	        <li data-target="#myCarousel" data-slide-to="3"></li>
+	   
+         <div id="maincontent" style="margin-top:-70px"></div>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+    	        <div class="item active">
+            <div class="fill_background"></div>
+            			<div class="slidetextarea">
+            	<div class="textbox">
+                    <h5 style="text-shadow:none">เสด็จสวรรคต</h5>
+                    <h1>สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ
+พระบรมราชชนนีพันปีหลวง เสด็จสวรรคต
+
+ธ สถิตในดวงใจไทยนิรันดร์
+น้อมศิระกราน กราบแทบพระยุคลบาท
+ด้วยสำนึกในพระมหากรุณาธิคุณตราบนิจนิรันดร์
+
+ด้วยเกล้าด้วยกระหม่อม ขอเดชะ
+ ข้าพระพุทธเจ้า คณะผู้บริหาร ครูและ</h1>
+                    <h2><a class="blue-yellow" href="?Cont=SSD&amp;SliderOrder=1" style="display:none">รายละเอียด..</a></h2>
+				</div>
+                <div class="imagebox"><img src="schoolmin/gallery/sliders/slider-518546.png"></div>
+            </div>
+                    </div>
+                <div class="item ">
+            <div class="fill_background"></div>
+            			<div class="slidetextarea">
+            	<div class="textbox">
+                    <h5 style="text-shadow:none">การศึกษาต่อมัธยมศึกษาปีที่ 1 ประจำปีการศึกษา 2568</h5>
+                    <h1>จากจำนวนนักเรียน 38 คน เข้าต่อในโรงเรียนรัฐบาลทั้งหมด 34 คน(90%) 
+
+</h1>
+                    <h2><a class="blue-yellow" href="?Cont=SSD&amp;SliderOrder=2" style="display:none">รายละเอียด..</a></h2>
+				</div>
+                <div class="imagebox"><img src="schoolmin/gallery/sliders/slider-546098.jpg"></div>
+            </div>
+                    </div>
+                <div class="item ">
+            <div class="fill_background"></div>
+            			<div class="slidetextarea">
+            	<div class="textbox">
+                    <h5 style="text-shadow:none">ห้องเรียนอนุบาล หลักสูตรไฮสโคป</h5>
+                    <h1>หลักสูตรปฐมวัยของโรงเรียนรังสฤษฏ์สองภาษา เป็นหลักสูตร High Scope  เสริมภาษาอังกฤษและภาษาจีน
+เป็นกระบวนการเรียน การสอน และส่งเสริมการเรียนรู้ ช่วยพัฒนาทักษะด้าน การคิด และการปฏิบัติ โดยมี การวางแผน การปฏิบัติ และการทบทวน (plan-do-review)
+</h1>
+                    <h2><a class="blue-yellow" href="?Cont=SSD&amp;SliderOrder=3" style="display:none">รายละเอียด..</a></h2>
+				</div>
+                <div class="imagebox"><img src="schoolmin/gallery/sliders/slider-510969.jpg"></div>
+            </div>
+                    </div>
+                <div class="item ">
+            <div class="fill_background"></div>
+            			<div class="slidetextarea">
+            	<div class="textbox">
+                    <h5 style="text-shadow:none">หลักสูตรระดับประถมศึกษา</h5>
+                    <h1>เป็นหลักสูตร Intensive English Pogram. เรียนวิชาหลักตามหลักสูตรของกระทรวงศึกษา เสริมอังกฤษและภาษาจีน โดยในชั้น ป.1-6 เรียน ภาษาอังกฤษ 6 ชั่วโมง/สัปดาห์</h1>
+                    <h2><a class="blue-yellow" href="?Cont=SSD&amp;SliderOrder=4" style="display:none">รายละเอียด..</a></h2>
+				</div>
+                <div class="imagebox"><img src="schoolmin/gallery/sliders/slider-270168.jpg"></div>
+            </div>
+                    </div>
+            </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="icon-prev"></span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="icon-next"></span>
+    </a>
+</header>
+
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script>
+$('.carousel').carousel({
+    interval: 10000 //changes the speed
+})
+</script>
+
+<div class="main-content">
+    <div class="cont-top">
+			<div class="theme-containers">
+    <div class="theme-row">
+    
+       <!-- Left Sidebar -->
+        <div class="3u 3u(mobile)">
+				                        <section>
+                            <div id="leftsidemenu" style="position:relative; z-index:10;margin-top:5px">
+                            <ul class="blue-yellow">
+                               <li><a href="javascript:void(0);" class="header"><h2><span class="icon-bars" style="font-size:0.8em"></span> รอบรั้วโรงเรียน</h2></a></li>
+                               <li><a href="?Cont=Home"><span class="icon-home"></span>&nbsp;&nbsp;<span>หน้าหลัก</span></a></li>
+                               <li><a href="?Cont=FullCalendar"><span class="icon-calendar"></span>&nbsp;&nbsp;<span>ปฏิทินกิจกรรม</span></a></li>
+                               <li class="has-sub"><a href="javascript:void(0);"><span class="icon-bell"></span>&nbsp;&nbsp;<span>ประกาศ</span></a>
+                                  <ul>
+									                                     <li><a href="?Cont=NTL&amp;NotificationGroup=1"><span class="icon-play3"></span>&nbsp;&nbsp;<span>รับสมัคร/สอบราคา/ทั่วไป</span></a></li>
+                                                                          <li><a href="?Cont=NTL&amp;NotificationGroup=4"><span class="icon-play3"></span>&nbsp;&nbsp;<span>สำหรับนักเรียน</span></a></li>
+                                                                          <li><a href="?Cont=NTL&amp;NotificationGroup=5"><span class="icon-play3"></span>&nbsp;&nbsp;<span>สำหรับครู/บุคลากร</span></a></li>
+                                                                          <li><a href="?Cont=NTL&amp;NotificationGroup=6"><span class="icon-play3"></span>&nbsp;&nbsp;<span>กลุ่มงาน/กลุ่มสาระ</span></a></li>
+                                                                       </ul>
+                               </li>
+                               <li class="has-sub"><a href="javascript:void(0);"><span class="icon-bullhorn"></span>&nbsp;&nbsp;<span>ข่าวประชาสัมพันธ์</span></a>
+                                  <ul>
+                                  	                                     <li><a href="?Cont=PRL&amp;PublicRelationGroup=1"><span class="icon-play3"></span>&nbsp;&nbsp;<span>ทั่วไป</span></a></li>
+                                                                          <li><a href="?Cont=PRL&amp;PublicRelationGroup=2"><span class="icon-play3"></span>&nbsp;&nbsp;<span>นักเรียน</span></a></li>
+                                                                          <li><a href="?Cont=PRL&amp;PublicRelationGroup=3"><span class="icon-play3"></span>&nbsp;&nbsp;<span>ครู/บุคลากร</span></a></li>
+                                                                          <li><a href="?Cont=PRL&amp;PublicRelationGroup=4"><span class="icon-play3"></span>&nbsp;&nbsp;<span>กลุ่มงาน/กลุ่มสาระ</span></a></li>
+                                                                          <li><a href="?Cont=PRL&amp;PublicRelationGroup=5"><span class="icon-play3"></span>&nbsp;&nbsp;<span>แผนกอนุบาล</span></a></li>
+                                                                       </ul>
+                               </li>
+                               <li class="has-sub" style="display:none"><a href="javascript:void(0);"><span class="icon-bubbles2"></span>&nbsp;&nbsp;<span>ข้อมูลทั่วไป</span></a>
+                               <ul class="sub">
+								                                <li><a href="?Cont=ILD&amp;InfoOrder=1"><span class="icon-play3"></span>&nbsp;&nbsp;<span>อนุบาล</span></a></li>
+                                                                <li><a href="?Cont=ILD&amp;InfoOrder=2"><span class="icon-play3"></span>&nbsp;&nbsp;<span>ประถมศึกษา</span></a></li>
+                                                                </ul>
+                                </li>
+                               <li class="has-sub"><a href="javascript:void(0);"><span class="icon-user-tie"></span>&nbsp;&nbsp;<span>การเรียนการสอน</span></a>
+                               <ul class="sub">
+								                                <li><a href="?Cont=SLD&amp;SaraNo=1"><span class="icon-play3"></span>&nbsp;&nbsp;<span>ระดับอนุบาล</span></a></li>
+                                                                <li><a href="?Cont=SLD&amp;SaraNo=2"><span class="icon-play3"></span>&nbsp;&nbsp;<span>ระดับประถมศึกษา</span></a></li>
+                                                                <li><a href="?Cont=SLD&amp;SaraNo=3"><span class="icon-play3"></span>&nbsp;&nbsp;<span>-</span></a></li>
+                                                                </ul>
+                                </li>
+                               <li class="last has-sub"><a href="javascript:void(0);"><span class="icon-trophy"></span>&nbsp;&nbsp;<span>ผลงานและความสำเร็จ</span></a>
+                                  <ul>
+                                  	                                     <li><a href="?Cont=PL&amp;PortfolioGroup=1"><span class="icon-play3"></span>&nbsp;&nbsp;<span>อนุบาล</span></a></li>
+                                                                          <li><a href="?Cont=PL&amp;PortfolioGroup=2"><span class="icon-play3"></span>&nbsp;&nbsp;<span>ประถม</span></a></li>
+                                                                          <li><a href="?Cont=PL&amp;PortfolioGroup=3"><span class="icon-play3"></span>&nbsp;&nbsp;<span>มัธยม</span></a></li>
+                                                                          <li><a href="?Cont=PL&amp;PortfolioGroup=4"><span class="icon-play3"></span>&nbsp;&nbsp;<span>KIBP</span></a></li>
+                                                                          <li><a href="?Cont=PL&amp;PortfolioGroup=5"><span class="icon-play3"></span>&nbsp;&nbsp;<span>บุคลากรครู</span></a></li>
+                                                                       </ul>
+                               </li>
+                            </ul>
+                            </div>
+                        </section>                <section>
+                	<div class="content">
+                    <div class="grid" style="display:none">
+                        <figure class="effect-marley">
+                            <img src="img/personels.png?1785405422">
+                            <figcaption>
+                                <h2 style="color:#fff;font-size:23px">เยี่ยมชมการเรียนการสอน</h2>
+                                <p>กรอกแบบฟอร์มขอเข้าเยี่ยมชม<br>การเรียนการสอนแผนกสองภาษา</p>
+                                <a target="_blank" href="https://docs.google.com/forms/d/1HEA6x-Do3WcNRbxVkcuEI1GDdenihiKZC2JScvClOuI/viewform?chromeless=1&amp;edit_requested=true">View more</a>
+                            </figcaption>			
+                        </figure>
+                    </div>
+                    <div class="grid">
+                        <figure class="effect-marley">
+                            <img src="img/personel.png">
+                            <figcaption>
+                                <h2><span style="color:#fff">สารสนเทศบุคลากร</span></h2>
+                                <p>ระบบสารเทศเพื่อการบริหารงานโรงเรียน<br>สำหรับบุคลากร</p>
+                                <a href="https://rungsarith.ac.th/schoolmin">View more</a>
+                            </figcaption>			
+                        </figure>
+                    </div>
+                    <div class="grid">
+                        <figure class="effect-marley">
+                            <img src="img/studentparents.png">
+                            <figcaption style="float:left">
+                                <h2><span style="colors:#000">นักเรียน/ผู้ปกครอง</span></h2>
+                                <p>ระบบสารเทศ<br>สำหรับผู้ปกครองและนักเรียน</p>
+                                <a href="https://rungsarith.ac.th/site">View more</a>
+                            </figcaption>			
+                        </figure>
+                    </div>
+                    </div>
+                </section> 
+        </div>
+        <!-- Left Sidebar -->
+            
+        <!-- Middle Content -->
+        <div class="6u 6u(mobile)">
+
+                <section>
+                	<header>
+                    	<h2 class="headline">เปิดรับสมัครออนไลน์</h2>
+                        <div class="subline"></div>
+                    </header>
+                    
+                    <ul class="registgrid reg">
+                        <li>
+                            <figure>
+                                <img src="img/2.png?1785405422" alt="img02">
+                                <figcaption class="one">
+                                    <a href="?Cont=RegAnnounce" class="one"><i class="fa fa-search"></i> รายละเอียด (Details)</a>
+                                </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure>
+                                <img src="img/5.png?1785405422" alt="img05">
+                                <figcaption class="two">
+                                    <span>ประกาศผลการสอบคัดเลือก</span>
+                                    <a href="?Cont=RegFormal" class="two"><i class="fa fa-search"></i> รายละเอียด (Details)</a>
+                                </figcaption>
+                            </figure>
+                        </li>
+                        <li class="registbutton">
+                            <figure>
+                                <img src="img/6.png?1785405422" alt="img06">
+                                <figcaption class="four">
+                                    <span>สมัครเรียน</span>
+                                    <a href="?Page=Admission&amp;Cont=apply_normal" class="four"><i class="fa fa-check-square-o"></i> แบบฟอร์มสมัครเรียน</a>
+                                    <a href="?Page=Admission&amp;Cont=apply_ep" class="four" style="display:none"><i class="fa fa-check-square-o"></i> แผนกสองภาษา (EP)</a>
+                                </figcaption>
+                            </figure>
+                        </li>
+                        <li class="registnav">
+                            <figure>
+                                <img src="img/6.png?1785405422" alt="img06">
+                                <figcaption class="four">
+                                    <span>สมัครเรียน</span>
+                                    <a href="?Page=Admission&amp;Cont=apply_normal" class="four"><i class="fa fa-check-square-o"></i> สมัครเรียน (Enroll)</a>
+                                </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure>
+                                <img src="img/3.png?1785405422" alt="img03">
+                                <figcaption class="three">
+                                    <span>วิธีการชำระเงิน</span>
+                                    <a href="?Cont=RegPayment" class="three"><i class="fa fa-search"></i> รายละเอียด (Details)</a>
+                                </figcaption>
+                            </figure>
+                        </li>
+                    </ul>
+                    
+                    
+                </section>
+
+        </div>
+        <!-- Middle Content -->
+        
+        <!-- Right Sidebar -->
+        <div class="3u 3u(mobile)">
+
+                <section>
+                	<header>
+                    	<h2 class="headline">ผู้อำนวยการโรงเรียน</h2>
+                        <div class="subline"></div>
+                    </header>
+					<div>
+                                        <div class="mb-wrap mb-style-1">
+                        <div class="mb-thumb" style="background: url(schoolmin/gallery/personel/61001.jpg) no-repeat center center;background-size: 120px auto; "></div>
+                        <blockquote>
+                            <h1>นาวาอากาศตรีหญิงนลินี ไพบูลย์</h1>
+                        </blockquote>
+                        <div class="mb-attribution">
+                            <h2 class="mb-author">ผู้รับใบอนุญาต</h2>
+                        </div>
+                    </div>
+                    </div>
+                </section>
+                
+                <div style="padding-top:1em">
+				                <section class="link_effect">
+                	<header>
+                    	<h2 class="headline">เกี่ยวกับโรงเรียน</h2>
+                        <div class="subline" style="padding-bottom:0px"></div>
+                    </header>
+                    <nav class="cl-effect-0 blue-yellow">
+                    	                        <a href="?Cont=ASD&amp;AboutOrder=1"><span data-hover="ประวัติโรงเรียน">ประวัติโรงเรียน</span></a>
+						                        <a href="?Cont=ASD&amp;AboutOrder=2"><span data-hover="คณะผู้บริหาร">คณะผู้บริหาร</span></a>
+						                        <a href="?Cont=ASD&amp;AboutOrder=3"><span data-hover="กลุ่มงาน">กลุ่มงาน</span></a>
+						                        <a href="?Cont=ASD&amp;AboutOrder=4"><span data-hover="บุคลากร">บุคลากร</span></a>
+						                        <a href="?Cont=ASD&amp;AboutOrder=6"><span data-hover="ติดต่อเรา">ติดต่อเรา</span></a>
+						                        <a href="?Cont=ASD&amp;AboutOrder=8"><span data-hover="ที่ตั้งโรงเรียน">ที่ตั้งโรงเรียน</span></a>
+						                    </nav>
+                    
+                </section>                </div>
+                
+        </div>
+        <!-- Right Sidebar -->
+        
+    </div>
+</div>    </div>
+    <div class="cont-calendar">
+			<div class="theme-row">
+    
+    <!-- Right Sidebar -->
+    <div class="7u 7u(mobile)">
+    
+			<section class="tabslide">
+                <header>
+                    <h2 class="headline">ข่าวประชาสัมพันธ์</h2>
+                    <div class="subline"></div>
+                </header>
+                
+					            <input id="tab-1" type="radio" name="radio-set" class="tab-selector-1" checked="checked">
+		        <label for="tab-1" class="blue-yellow tab-label-1">ทั่วไป</label>
+					            <input id="tab-2" type="radio" name="radio-set" class="tab-selector-2">
+		        <label for="tab-2" class="blue-yellow tab-label-2">นักเรียน</label>
+					            <input id="tab-3" type="radio" name="radio-set" class="tab-selector-3">
+		        <label for="tab-3" class="blue-yellow tab-label-3">ครู/บุคลากร</label>
+					            <input id="tab-4" type="radio" name="radio-set" class="tab-selector-4">
+		        <label for="tab-4" class="blue-yellow tab-label-4">กลุ่มงาน/กลุ่มสาระ</label>
+					            <input id="tab-5" type="radio" name="radio-set" class="tab-selector-5">
+		        <label for="tab-5" class="blue-yellow tab-label-5">แผนกอนุบาล</label>
+				            
+			    <div class="clear-shadow"></div>
+			
+		        <div class="tabscontent">
+								        <div class="tabscontent-1" style="width:95%">
+                        <ul class="news-box">
+								                            
+                            
+							                        </ul>
+				    </div>
+                    			        <div class="tabscontent-2" style="width:95%">
+                        <ul class="news-box">
+								                            
+                            
+							                        </ul>
+				    </div>
+                    			        <div class="tabscontent-3" style="width:95%">
+                        <ul class="news-box">
+								                            
+                            
+							                        </ul>
+				    </div>
+                    			        <div class="tabscontent-4" style="width:95%">
+                        <ul class="news-box">
+								                            
+                            
+							                        </ul>
+				    </div>
+                    			        <div class="tabscontent-5" style="width:95%">
+                        <ul class="news-box">
+								                            
+                            
+							                        </ul>
+				    </div>
+                    		        </div>
+			</section>
+
+    </div>
+    <!-- Right Sidebar -->
+    
+        
+    <!-- Middle Content -->
+    <div class="5u 5u(mobile) important(mobile)">
+
+            <section style="display:block">
+                <header>
+                    <h2 class="headline">ปฏิทินกิจกรรม<span style="float:right"><a href="?Cont=FullCalendar"><i class="fa fa-expand hover"></i></a></span></h2>
+                    <div class="subline"></div>
+                </header>
+                <section class="fc-calendar-main">
+                    <div class="custom-calendar-wrap">
+                        <div id="custom-inner" class="custom-inner">
+                            <div class="custom-header clearfix">
+                                <nav>
+                                    <span id="custom-prev" class="custom-prev"></span>
+                                    <span id="custom-next" class="custom-next"></span>							
+								</nav>
+                                <h2 id="custom-month" class="custom-month">กรกฎาคม</h2>
+                                <h3 id="custom-year" class="custom-year">2569</h3>
+                            </div>
+                            <div id="calendar" class="fc-calendar-container"><div class="fc-calendar fc-five-rows"><div class="fc-head"><div>อาทิตย์</div><div>จันทร์</div><div>อังคาร</div><div>พุธ</div><div>พฤหัสบดี</div><div>ศุกร์</div><div>เสาร์</div></div><div class="fc-body"><div class="fc-row"><div class="fc-past"></div><div class="fc-past"></div><div class="fc-past"></div><div class="fc-past"><span class="fc-date">1</span></div><div class="fc-past"><span class="fc-date">2</span></div><div class="fc-past"><span class="fc-date">3</span></div><div class="fc-past"><span class="fc-date">4</span></div></div><div class="fc-row"><div class="fc-past"><span class="fc-date">5</span></div><div class="fc-past"><span class="fc-date">6</span></div><div class="fc-past"><span class="fc-date">7</span></div><div class="fc-past"><span class="fc-date">8</span></div><div class="fc-past"><span class="fc-date">9</span></div><div class="fc-past"><span class="fc-date">10</span></div><div class="fc-past"><span class="fc-date">11</span></div></div><div class="fc-row"><div class="fc-past"><span class="fc-date">12</span></div><div class="fc-past"><span class="fc-date">13</span></div><div class="fc-past"><span class="fc-date">14</span></div><div class="fc-past"><span class="fc-date">15</span></div><div class="fc-past"><span class="fc-date">16</span></div><div class="fc-past"><span class="fc-date">17</span></div><div class="fc-past"><span class="fc-date">18</span></div></div><div class="fc-row"><div class="fc-past"><span class="fc-date">19</span></div><div class="fc-past"><span class="fc-date">20</span></div><div class="fc-past"><span class="fc-date">21</span></div><div class="fc-past"><span class="fc-date">22</span></div><div class="fc-past"><span class="fc-date">23</span></div><div class="fc-past"><span class="fc-date">24</span></div><div class="fc-past"><span class="fc-date">25</span></div></div><div class="fc-row"><div class="fc-past"><span class="fc-date">26</span></div><div class="fc-past"><span class="fc-date">27</span></div><div class="fc-past"><span class="fc-date">28</span></div><div class="fc-past"><span class="fc-date">29</span></div><div class="fc-today fc-future"><span class="fc-date">30</span></div><div class="fc-future"><span class="fc-date">31</span></div><div class="fc-future"></div></div></div></div></div>
+                        </div>
+                    </div>
+                </section>
+            </section>
+
+
+    </div>
+    <!-- Middle Content -->
+    
+</div>    </div>
+    <div class="cont-gallery" style="backgrounds:#fff">
+			<div class="theme-containers">
+    <div class="theme-row">
+
+        <!-- Middle Content -->
+        <div class="12u 12u(mobile) important(mobile)">
+
+                <section>
+                	<header>
+                    	<h2 class="headline">รูปภาพกิจกรรม</h2>
+                        <div class="subline"></div>
+                    </header>
+                    
+                                        <div class="hitem hitem-type-line">
+                    	<h2>นักเรียนนนเก่งประจำปีการศึกษา 2567</h2>
+                        <p>&nbsp;</p>
+                        <a class="hitem-hover" href="?Cont=PGD&amp;GalleryNo=18" target="_blank">
+                            <div class="hitem-info">
+                                <div class="headline"><h1>นักเรียนนนเก่งประจำปีการศึกษา 2567</h1></div>
+                                <div class="line"></div>
+                                <div class="date">28 มี.ค. 3111</div>
+                            </div>
+                            <div class="mask"></div>
+                        </a>
+                        <div class="hitem-img" style="background-image: url('schoolmin/gallery/photo_gallery/?1785405423');"></div>
+                    </div>	
+					                    <div class="hitem hitem-type-line">
+                    	<h2>ผลการแข่งขันทักษะวิชาการโรงเรียนเอกชน ประจำปีการศึกษา 2567</h2>
+                        <p>&nbsp;</p>
+                        <a class="hitem-hover" href="?Cont=PGD&amp;GalleryNo=17" target="_blank">
+                            <div class="hitem-info">
+                                <div class="headline"><h1>ผลการแข่งขันทักษะวิชาการโรงเรียนเอกชน ประจำปีการศึกษา 2567</h1></div>
+                                <div class="line"></div>
+                                <div class="date">30 พ.ย. 3110</div>
+                            </div>
+                            <div class="mask"></div>
+                        </a>
+                        <div class="hitem-img" style="background-image: url('schoolmin/gallery/photo_gallery/thumbnail-.png?1785405423');"></div>
+                    </div>	
+					                    <div class="hitem hitem-type-line">
+                    	<h2>ชุดต่างๆของโรงเรียน</h2>
+                        <p>ชุดต่างของโรงเรียน&nbsp;</p>
+                        <a class="hitem-hover" href="?Cont=PGD&amp;GalleryNo=8" target="_blank">
+                            <div class="hitem-info">
+                                <div class="headline"><h1>ชุดต่างๆของโรงเรียน</h1></div>
+                                <div class="line"></div>
+                                <div class="date">14 ต.ค. 3105</div>
+                            </div>
+                            <div class="mask"></div>
+                        </a>
+                        <div class="hitem-img" style="background-image: url('schoolmin/gallery/photo_gallery/thumbnail-067605.jpg?1785405423');"></div>
+                    </div>	
+					                    
+                	<a href="?Cont=PGL" class="btn-icon icon-search2 see-all-btns blue-yellow-icon-btn" style="display:none"> ดูอัลบั้มรูปทั้งหมด</a>
+                    
+                </section>
+                
+
+        </div>
+        <!-- Middle Content -->
+
+    </div>
+</div>    </div>
+    <div class="cont-gallery" style="background:#fff">
+			
+<div class="theme-row">
+
+    <!-- Middle Content -->
+    <div class="9u 9u(mobile) important(mobile)">
+
+            <section>
+                <header>
+                    <h2 class="headline">ผลงานและความสำเร็จ</h2>
+                    <div class="subline" style="border:none"></div>
+                </header>
+                <div id="fulltabs" class="tabs">
+                    <nav>
+                        <ul>
+                        	                            <li class="tab-current"><a href="#section-1" class="icon icon-home"><span class="text">ผลงานอนุบาล</span></a></li>
+							                            <li><a href="#section-2" class="icon icon-home"><span class="text">ผลงานประถม</span></a></li>
+							                            <li><a href="#section-3" class="icon icon-home"><span class="text">ผลงานมัธยม</span></a></li>
+							                            <li><a href="#section-4" class="icon icon-home"><span class="text">ผลงานKIBP</span></a></li>
+							                            <li><a href="#section-5" class="icon icon-home"><span class="text">ผลงานบุคลากรครู</span></a></li>
+							                        </ul>
+                    </nav>
+                    <div class="content">
+                    		                            <section id="section-1" class="content-current">
+                                <ul class="success-box">
+                                    <li>
+                                        <div class="head">
+                                        	<span class="head-title">ชื่อผลงาน</span>
+                                            <span class="head-by">โดย</span>
+                                        </div>
+                                    </li>
+                                </ul>    
+                                <ul class="success-box">
+									                                    <li>
+                                        <a href="?Cont=PD&amp;PortfolioNo=9" class="border"><div style="background:url('schoolmin/gallery/logo/school_logo.png')" class="bg"><span class="icon-search hidden"></span></div></a>
+                                        <div class="cont">
+                                        	<span class="cont-title">
+                                            	<h2 class="headtext">ด้านการเรียน (วิชาการ)</h2>
+                                                <a href="?Cont=PD&amp;PortfolioNo=9">ผลการแข่งขันทักษะวิชาการโรงเรียนเอกชนจังหวัดปทุมธานี ประจำปีการศึกษา 66</a>
+                                                <span class="minitext icon-trophy"> ระดับโรงเรียน</span>
+                                            </span>
+                                        	<span class="cont-by">Admin  :                                                 <span class="minitext icon-calendar"> 8 ธ.ค. 2566</span>
+                                            </span>
+                                        </div>
+                                    </li>
+                                                                        
+									                                    <div style="margin-top:40px">
+                                    <a href="?Cont=PL&amp;PortfolioGroup=1" class="tabs-all-btns blue-yellow-icon-btn">ดูผลงานทั้งหมด <span class="btn-icon icon-arrow-right2"></span></a>
+                                    </div>
+                                                                    
+                                </ul>
+                            </section>
+							                            <section id="section-2">
+                                <ul class="success-box">
+                                    <li>
+                                        <div class="head">
+                                        	<span class="head-title">ชื่อผลงาน</span>
+                                            <span class="head-by">โดย</span>
+                                        </div>
+                                    </li>
+                                </ul>    
+                                <ul class="success-box">
+									                                    <li>
+                                        <a href="?Cont=PD&amp;PortfolioNo=10" class="border"><div style="background:url('schoolmin/gallery/logo/school_logo.png')" class="bg"><span class="icon-search hidden"></span></div></a>
+                                        <div class="cont">
+                                        	<span class="cont-title">
+                                            	<h2 class="headtext">ด้านการเรียน (วิชาการ)</h2>
+                                                <a href="?Cont=PD&amp;PortfolioNo=10">ผลการแข่งขันทักษะวิชาการโรงเรียนเอกชนจังหวัดปทุมธานี ประจำปีการศึกษา 66</a>
+                                                <span class="minitext icon-trophy"> ระดับจังหวัด</span>
+                                            </span>
+                                        	<span class="cont-by">Admin  :                                                 <span class="minitext icon-calendar"> 8 ธ.ค. 2566</span>
+                                            </span>
+                                        </div>
+                                    </li>
+                                                                        
+									                                    <div style="margin-top:40px">
+                                    <a href="?Cont=PL&amp;PortfolioGroup=2" class="tabs-all-btns blue-yellow-icon-btn">ดูผลงานทั้งหมด <span class="btn-icon icon-arrow-right2"></span></a>
+                                    </div>
+                                                                    
+                                </ul>
+                            </section>
+							                            <section id="section-3">
+                                <ul class="success-box">
+                                    <li>
+                                        <div class="head">
+                                        	<span class="head-title">ชื่อผลงาน</span>
+                                            <span class="head-by">โดย</span>
+                                        </div>
+                                    </li>
+                                </ul>    
+                                <ul class="success-box">
+									                                    
+									                                
+                                </ul>
+                            </section>
+							                            <section id="section-4">
+                                <ul class="success-box">
+                                    <li>
+                                        <div class="head">
+                                        	<span class="head-title">ชื่อผลงาน</span>
+                                            <span class="head-by">โดย</span>
+                                        </div>
+                                    </li>
+                                </ul>    
+                                <ul class="success-box">
+									                                    
+									                                
+                                </ul>
+                            </section>
+							                            <section id="section-5">
+                                <ul class="success-box">
+                                    <li>
+                                        <div class="head">
+                                        	<span class="head-title">ชื่อผลงาน</span>
+                                            <span class="head-by">โดย</span>
+                                        </div>
+                                    </li>
+                                </ul>    
+                                <ul class="success-box">
+									                                    
+									                                
+                                </ul>
+                            </section>
+							                    </div><!-- /content -->
+                </div><!-- /tabs -->
+			</section>
+    </div>
+    <!-- Middle Content -->
+    
+    <!-- Middle Content -->
+    <div class="3u 3u(mobile) important(mobile)">
+            <section class="link_effect">
+				
+                				                <heade>
+                    <h2 class="headline" style="border:none;border-left:2px solid #32AACD;padding-left:10px;background:#fafafa">ข้อมูลทั่วไป</h2>
+					<div class="subline" style="border:none;padding:5px 0px"></div>
+                
+                <p>
+                    </p><nav class="cl-effect-1">
+                    	                        <a href="?Cont=ILD&amp;InfoOrder=1"><span class="icon-play3"></span><span>อนุบาล</span></a>
+                                                <a href="?Cont=ILD&amp;InfoOrder=2"><span class="icon-play3"></span><span>ประถมศึกษา</span></a>
+                                            </nav>
+                <p></p>
+                                                                <header style="margin-top:5px">
+                    <h2 class="headline" style="border:none;border-left:2px solid #32AACD;padding-left:10px;background:#fafafa">การเรียนการสอน</h2>
+                     <div class="subline" style="border:none;padding:5px 0px"></div>
+                </header>
+                <p>
+                    </p><nav class="cl-effect-1">
+                    	                        <a href="?Cont=SLD&amp;SaraNo=1"><span class="icon-play3"></span><span>ระดับอนุบาล</span></a>
+                                                <a href="?Cont=SLD&amp;SaraNo=2"><span class="icon-play3"></span><span>ระดับประถมศึกษา</span></a>
+                                                <a href="?Cont=SLD&amp;SaraNo=3"><span class="icon-play3"></span><span>-</span></a>
+                                            </nav>
+                <p></p>
+                                
+          	</heade></section>
+
+                            
+        
+
+    </div>
+    <!-- Middle Content -->
+    
+    
+</div>
+    </div>
+    <div class="cont-media">
+			<div class="theme-row">
+
+    <!-- Middle Content -->
+    <div class="6u 6u(mobile) important(mobile)">
+
+            <section class="link_effect">
+                <header>
+					<div class="subline_title"><h2 class="headline">ดาวน์โหลด</h2></div>
+                </header>
+                <p>
+                    </p><nav class="cl-effect-2">
+                    	                        <a href="download/regis.pdf" target="_blank"><span>ใบสมัคร ไฟล์ PDF</span><span style="float:right;color:#666">25 มีนาคม 2563&nbsp;&nbsp;<span class="icon icon-download3" style="color:#666;font-size:1.2em"></span></span></a>
+                                                <a href="download/regis2.png" target="_blank"><span>ใบสมัคร ไฟล์รูปภาพ</span><span style="float:right;color:#666">25 มีนาคม 2563&nbsp;&nbsp;<span class="icon icon-download3" style="color:#666;font-size:1.2em"></span></span></a>
+                                                <a href="download/SAR64.pdf" target="_blank"><span>รายงานผลการประเมินตนเองของสถานศึกษา ประจำปีการศึกษา 2564</span><span style="float:right;color:#666">2 สิงหาคม 2565&nbsp;&nbsp;<span class="icon icon-download3" style="color:#666;font-size:1.2em"></span></span></a>
+                                                <a href="download/25661.pdf" target="_blank"><span>มาตรฐานการศึกษาและเป้าหมาย ปีการศึกษา 2566</span><span style="float:right;color:#666">22 พฤษภาคม 2566&nbsp;&nbsp;<span class="icon icon-download3" style="color:#666;font-size:1.2em"></span></span></a>
+                                                <a href="download/SAR2567.pdf" target="_blank"><span>รายงานการประเมินตนเอง ประจำปีการศึกษา 2567</span><span style="float:right;color:#666">29 พฤษภาคม 2568&nbsp;&nbsp;<span class="icon icon-download3" style="color:#666;font-size:1.2em"></span></span></a>
+                                            </nav>
+                <p></p>
+                 <p style="text-align:left;padding:0px;margin:0px">
+                	<a href="?Cont=DLD" class="btn-icon icon-forward3 blue-yellow-btn"> ดูทั้งหมด</a>
+                </p>
+            </section>
+
+    </div>
+    <!-- Middle Content -->
+    
+    
+    <!-- Right Sidebar -->
+    <div class="6u 6u(mobile)">
+
+            <section>
+                <header>
+                    <h2 class="headline">คลิปวีดิโอ</h2>
+                    <div class="subline"></div>
+                </header>
+                <div class="videoblock">
+                      						  <div style="margin:5px 0px 10px 0px">รายงานการประเมินตนเองประจำปีการศึกษา 2567</div>
+                      <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xFF8GWXM6Dg?Version=3&amp;autoplay=1&amp;loop=1&amp;playlist=xFF8GWXM6Dg" frameborder="0" allowfullscreen=""></iframe>
+                      </div>
+                      <div style="margin-top:10px">
+                        <span style="float:right;padding-top:10px">
+                        <a href="?Cont=CVL" class="btn-icon icon-forward3 see-all-links" style="margin-top:0px">วีดิโอทั้งหมด</a>
+                        </span>
+                      </div>
+                                      </div>
+            </section>
+
+    </div>
+    <!-- Right Sidebar -->
+    
+</div>
+    </div>
+    <div class="cont-general">
+			<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="css/owl.banner.css">
+<link rel="stylesheet" type="text/css" href="css/owl.theme.css">
+<link rel="stylesheet" type="text/css" href="css/owl.responsive.css">
+<div class="theme-row">
+
+    <!-- Middle Content -->
+    <div class="12u 12u(mobile) important(mobile)">
+
+            <section>
+                <header>
+                    <h2 class="headline">ลิงค์ภายใน</h2>
+                    <div class="subline"></div>
+                </header>
+                <div id="owl-imgs" class="owl-carousel">
+                    <div class="item"><img src="images/owl1.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl2.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl3.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl4.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl5.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl6.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl7.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl8.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl4.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl5.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl6.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl7.jpg" alt="Owl Image"></div>
+                    <div class="item"><img src="images/owl8.jpg" alt="Owl Image"></div>
+                </div>
+                <div id="owl-banner" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
+                	                    
+                    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 458px; left: 0px; display: block; transition: 1000ms; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 229px;"><div class="item dodgerBlue">
+                    <a href="http://www.facebook.com/rungsarith" target="_blank">
+                      <img src="img/banner-691989.png">
+                        <h2>เพจโรงเรียน</h2>
+                        <h4 style="color:#000">Facebook Page</h4>
+                    </a>
+                    </div></div></div></div>
+                    
+                                    <div class="owl-controls clickable" style="display: none;"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div></div></div></div>
+            </section>
+
+    </div>
+    <!-- Middle Content -->
+    
+    
+</div>
+<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script> 
+<script type="text/javascript" src="js/owl.carousel.js"></script>
+<script>
+$(document).ready(function() {
+  $("#owl-banner").owlCarousel({
+	autoPlay: 3000,
+	items : 6,
+	mouseDrag : false,
+	itemsDesktop : [1024,5], //5 items between 1000px and 901px
+	itemsTablet: [768,2], //2 items between 600 and 0
+	itemsMobile : false // itemsMobile disabled - inherit from itemsTablet option
+  });
+  $("#owl-img").owlCarousel({
+	autoPlay: 3000,
+	items : 6,
+	itemsDesktop : [1199,6],
+	itemsDesktopSmall : [979,6]
+  });
+});
+</script>    </div>
+</div>
+<div class="main-footer">
+    <div class="footer-top">
+			
+<div class="theme-row">
+
+
+    <!-- Middle Content -->
+    <div class="3u 3u(mobile) important(mobile)">
+
+			            <section class="link_effect stat">
+                <div class="border-stat">
+                	<h2 style="border-bottom:1px solid #66CCCC"><span class="icon-stats-bars"></span>&nbsp;สถิติการเข้าชมเว็บไซต์</h2>
+                	<p><i class="fa online fa-circle"></i>ออนไลน์<span class="counter">1</span></p>
+                    <p><i class="fa fa-circle"></i>วันนี้<span class="counter">106</span></p>
+                    <p><i class="fa fa-circle"></i>สัปดาห์<span class="counter">6292</span></p>
+                    <p><i class="fa fa-circle"></i>เดือน<span class="counter">30185</span></p>
+                    <p><i class="fa fa-circle"></i>ปี<span class="counter">31036</span></p>
+                    <p><i class="fa fa-circle"></i>ทั้งหมด<span class="counter">363851</span></p>
+                </div>
+			</section>
+	</div>
+
+    <div class="4u 4u(mobile) important(mobile)">
+
+            <section class="link_effect">
+                <header>
+					<div class="subline_footer">
+                    <h2>ลิงค์ที่เกี่ยวข้อง</h2>
+                    <span style="float:right;padding-top:10px">
+                        <a href="?Cont=RLD" class="btn-icon icon-forward3 see-all-links" style="margin-top:0px">ลิงค์ทั้งหมด</a>
+                    </span>
+                    </div>
+                </header>
+                <p>
+                    </p><nav class="cl-effect-2">
+                    	                        <a href="http://www.researchexpo.nrct.go.th/main.php?filename=index" target="_blank"><span>สำนักงานคณะกรรมการวิจัยแห่งชาติ(วช.)</span><span class="icon icon-arrow-right22"></span></a>
+                                                <a href="http://www.mol.go.th/anonymouse/home" target="_blank"><span>จัดหางาน กระทรวงแรงงาน</span><span class="icon icon-arrow-right22"></span></a>
+                                                <a href="http://www.moe.go.th/moe/th/home/main.php" target="_blank"><span>กระทรวงศึกษาธิการ</span><span class="icon icon-arrow-right22"></span></a>
+                                                <a href="http://www.obec.go.th/" target="_blank"><span>สำนักงานคณะกรรมการการศึกษาขั้นพื้นฐาน</span><span class="icon icon-arrow-right22"></span></a>
+                                            </nav>
+                <p></p>
+            </section>
+
+    </div>
+    <div class="2u 2u(mobile) important(mobile)" style="display:none">
+
+            <section class="link_effect">
+                <header>
+                <div class="subline_footer_noborder">
+                <h2>&nbsp;</h2>
+                <span style="float:right;padding-top:10px">
+                	<a href="javascript:void(0);" class="btn-icon icon-forward3 see-all-links" style="margin-top:0px">ลิงค์ทั้งหมด</a>
+                </span>
+                </div>
+                </header>
+                <p>
+                    </p><nav class="cl-effect-2">
+                        <a href="javascript:void(0);"><span>ปฏิทินกิจกรรม</span><span class="icon icon-arrow-right22"></span></a>
+                        <a href="javascript:void(0);"><span>ผลงานและความสำเร็จ</span><span class="icon icon-arrow-right22"></span></a>
+                        <a href="javascript:void(0);"><span>รูปภาพกิจกรรม</span><span class="icon icon-arrow-right22"></span></a>
+                        <a href="javascript:void(0);"><span>คลิปวีดิโอ</span><span class="icon icon-arrow-right22"></span></a>
+                        <a href="javascript:void(0);"><span>ดาวน์โหลด</span><span class="icon icon-arrow-right22"></span></a>
+                    </nav>
+                <p></p>
+            </section>
+
+    </div>
+    
+    
+    <div class="3u 3u(mobile) important(mobile)">
+			            <section class="footer-contact">
+                <header><div class="subline_footer"><h2>ติดต่อสอบถาม</h2></div></header>
+                <p>
+                    <span style="display:table-cell;padding-right:10px"><span class="icon-location"></span></span>
+                    <span style="display:table-cell;font-size:1em;">20 ต.ประชาธิปัตย์ อ.ธัญบุรี จ.ปทุมธานี 12130</span>
+                </p>
+                <p><span class="icon-phone2"></span> โทร 02-958-1900</p>
+                <p><span class="icon-printer"></span> แฟกซ์ 02-958-3144</p><p><span class="icon-envelop"></span> rungsarithschool@gmail.com</p>                <p class="social">
+				                </p>
+            </section>
+
+    </div>
+
+    <!-- Middle Content -->
+    
+    <div class="2u 2u(mobile) important(mobile)">
+            <section class="footer-contact">
+                <header><div class="subline_footer_noborder"><h2>&nbsp;</h2></div></header>
+                <p class="operating_system">
+                	<span class="icon-windows"></span>
+                	<span class="icon-apple"></span>
+                    <span class="icon-android"></span>
+                </p>
+                <p class="browser">
+                    <span class="icon-chrome"></span>
+                    <span class="icon-firefox"></span>
+                    <span class="icon-IE"></span>
+                    <span class="icon-safari"></span>
+                </p>
+            </section>
+
+    </div>
+    
+    
+</div>
+    </div>
+    <div class="footer-bottom">
+			
+<div class="theme-row">
+
+    <!-- Middle Content -->
+    <div class="12u 12u(mobile) important(mobile)">
+
+            <section>
+                <span class="bottom-left">Copyright © 2019 RUNGSARITH-MIS. All Rights Reserved.</span>
+                <span class="bottom-right">
+                    <a href="index.php">หน้าหลัก</a> 
+                    | <a href="?Cont=ASD&amp;AboutOrder=6">ติดต่อเรา</a> 
+                </span>
+            </section>
+			<a href="javascript:void(0);" class="back-to-top blue-yellow-back"><span class="icon-arrow-up2"></span></a>
+    </div>
+    <!-- Middle Content -->
+    
+    
+</div>
+<script>
+	$("#settings").on("click", function()
+	{
+	  $("#menu").fadeToggle("fast");
+	});
+			
+	jQuery(document).ready(function() {
+		var offset = 200;
+		var duration = 900;
+		jQuery(window).scroll(function() {
+		
+			if (jQuery(this).scrollTop() > offset) {
+				jQuery('.back-to-top').fadeIn(900);
+			} else {
+				jQuery('.back-to-top').fadeOut(900);
+			}
+			
+		});
+		
+		jQuery('.back-to-top').click(function(event) {
+			event.preventDefault();
+			jQuery('html, body').animate({scrollTop: 0}, duration);
+			return false;
+		})
+	});
+</script>
+    </div>
+</div>
+<script src="js/BlockTabs.js"></script>
+<script>
+	(function() {
+
+		[].slice.call( document.querySelectorAll( '.blocktabs' ) ).forEach( function( el ) {
+			new CBPFWTabs( el );
+		});
+
+	})();
+</script>
+<script src="js/FullTabs.js"></script>
+<script>
+	new CBPFWTabs( document.getElementById( 'fulltabs' ) );
+</script>
+<script>
+	(function() {
+
+		[].slice.call( document.querySelectorAll( '.blocktabs' ) ).forEach( function( el ) {
+			new CBPFWTabs( el );
+		});
+
+	})();
+</script>
+<script src="js/FullTabs.js"></script>
+<script>
+	new CBPFWTabs( document.getElementById( 'fulltabs' ) );
+</script>
+<script type="text/javascript" src="js/jquery.calendario.js"></script>
+
+<script type="text/javascript">
+var codropsEvents = {
+	};
+</script>
+<script type="text/javascript"> 
+	$(function() {
+		$(document).on('shown.calendar.calendario', function(e, instance){
+			if(!instance) instance = cal;
+			var $cell = instance.getCell(new Date().getDate());
+		});
+		var cont = "";
+		var transEndEventNames = {
+				'WebkitTransition' : 'webkitTransitionEnd',
+				'MozTransition' : 'transitionend',
+				'OTransition' : 'oTransitionEnd',
+				'msTransition' : 'MSTransitionEnd',
+				'transition' : 'transitionend'
+			},
+			transEndEventName = transEndEventNames[ Modernizr.prefixed( 'transition' ) ],
+			$wrapper = $( '#custom-inner' ),
+			$calendar = $( '#calendar' ),
+			cal = $calendar.calendario({
+				onDayClick : function( $el, data, dateProperties ) {
+
+					if(data.content.length > 0 ) {
+						if(cont=="Home" || cont==""){
+							showEvents(data.content, dateProperties );
+						}
+					}
+
+				},
+				caldata : codropsEvents,
+				displayWeekAbbr : true,
+				events: 'click'
+			} ),
+			$month = $( '#custom-month' ).html( cal.getMonthName() ),
+			$year = $( '#custom-year' ).html( cal.getYear() );
+
+		$( '#custom-next' ).on( 'click', function() {
+			cal.gotoNextMonth( updateMonthYear );
+		} );
+		$( '#custom-prev' ).on( 'click', function() {
+			cal.gotoPreviousMonth( updateMonthYear );
+		} );
+
+		function updateMonthYear() {                
+			$month.html( cal.getMonthName() );
+			$year.html( cal.getYear() );
+		}
+		function showEvents( contentEl, dateProperties ) {
+
+			hideEvents();
+			
+			var $events = $( '<div id="custom-content-reveal" class="custom-content-reveal"><h4>กิจกรรมวันที่ ' + dateProperties.day + ' ' + dateProperties.monthname + ' '+ (dateProperties.year+543) + '</h4></div>' ),
+				$close = $( '<span class="custom-content-close"></span>' ).on( 'click', hideEvents );
+
+			$events.append( contentEl.join('') , $close ).insertAfter( $wrapper );
+			
+			setTimeout( function() {
+				$events.css( 'top', '0%' );
+			}, 25 );
+
+		}
+		function hideEvents() {
+
+			var $events = $( '#custom-content-reveal' );
+			if( $events.length > 0 ) {
+				
+				$events.css( 'top', '100%' );
+				Modernizr.csstransitions ? $events.on( transEndEventName, function() { $( this ).remove(); } ) : $events.remove();
+
+			}
+
+		}
+	
+	});
+</script>
+
+<script src="js/toucheffects.js"></script>
+
+</body>

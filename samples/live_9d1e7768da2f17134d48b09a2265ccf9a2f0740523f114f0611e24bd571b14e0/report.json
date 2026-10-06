@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_9d1e7768da2f17134d48b09a2265ccf9a2f0740523f114f0611e24bd571b14e0",
+  "candidate_sha256": "e83a12d717f6dd0df542b74225383ae24c7573a8df16ce9f9a6a04aadf305ab2",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://attestationcoupon.com/",
+  "requested_url": "https://www.attestationcoupon.com/",
+  "browser_final_url": "https://www.attestationcoupon.com/",
+  "source_urls": [
+    "http://attestationcoupon.com/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 114021,
+      "source_url": "http://attestationcoupon.com/",
+      "source_hostname": "attestationcoupon.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.attestationcoupon.com/",
+      "final_hostname": "www.attestationcoupon.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4132,
+      "checked_at": "2026-10-05T13:16:37.581426+00:00",
+      "error": null,
+      "normalized_source_url": "http://attestationcoupon.com/",
+      "normalized_final_url": "https://www.attestationcoupon.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_9d1e7768da2f17134d48b09a2265ccf9a2f0740523f114f0611e24bd571b14e0",
+    "representative_source_index": 114021,
+    "representative_source_url": "http://attestationcoupon.com/",
+    "representative_final_url": "https://www.attestationcoupon.com/",
+    "normalized_final_url": "https://www.attestationcoupon.com/",
+    "source_hostname": "attestationcoupon.com",
+    "final_hostname": "www.attestationcoupon.com",
+    "source_urls": [
+      "http://attestationcoupon.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 114021,
+        "source_url": "http://attestationcoupon.com/",
+        "source_hostname": "attestationcoupon.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.attestationcoupon.com/",
+        "final_hostname": "www.attestationcoupon.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4132,
+        "checked_at": "2026-10-05T13:16:37.581426+00:00",
+        "error": null,
+        "normalized_source_url": "http://attestationcoupon.com/",
+        "normalized_final_url": "https://www.attestationcoupon.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Attestation Food & Coupon",
+  "capture_timestamp": "2026-10-05T14:50:37.540112+00:00",
+  "dom_chars": 392448,
+  "screenshot_bytes": 333810,
+  "dom_sha256": "ee364f45aed0a62ed40bb34704b31d7bfa52c2dc88b3b2c87717cc1ccd2380a9",
+  "screenshot_sha256": "21d21740d33c0a69ddb3018ef649cab9f152e73b6da7814e7fee17bb0708adc7",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.attestationcoupon.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.attestationcoupon.com/",
+    "browser_final_url": "https://www.attestationcoupon.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "elapsed_ms": 10864
+}

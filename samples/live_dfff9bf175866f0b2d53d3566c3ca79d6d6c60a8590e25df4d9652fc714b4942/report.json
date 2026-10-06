@@ -1,0 +1,156 @@
+{
+  "candidate_id": "live_dfff9bf175866f0b2d53d3566c3ca79d6d6c60a8590e25df4d9652fc714b4942",
+  "candidate_sha256": "9c96ded69f578b6eefabfab70936a58014d9178925c03dd22e21dbefa9870883",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://pbpro3453file.gb.net/asdf/4ab5312a4cfab3224e456d7c29b4f36b?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+  "requested_url": "https://pbpro3453file.gb.net?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+  "browser_final_url": "https://pbpro3453file.gb.net/?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+  "source_urls": [
+    "http://pbpro3453file.gb.net/asdf/4ab5312a4cfab3224e456d7c29b4f36b?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 111226,
+      "source_url": "http://pbpro3453file.gb.net/asdf/4ab5312a4cfab3224e456d7c29b4f36b?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+      "source_hostname": "pbpro3453file.gb.net",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://pbpro3453file.gb.net?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+      "final_hostname": "pbpro3453file.gb.net",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1861,
+      "checked_at": "2026-10-05T13:18:14.459198+00:00",
+      "error": null,
+      "normalized_source_url": "http://pbpro3453file.gb.net/asdf/4ab5312a4cfab3224e456d7c29b4f36b?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+      "normalized_final_url": "https://pbpro3453file.gb.net/?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_dfff9bf175866f0b2d53d3566c3ca79d6d6c60a8590e25df4d9652fc714b4942",
+    "representative_source_index": 111226,
+    "representative_source_url": "http://pbpro3453file.gb.net/asdf/4ab5312a4cfab3224e456d7c29b4f36b?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+    "representative_final_url": "https://pbpro3453file.gb.net?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+    "normalized_final_url": "https://pbpro3453file.gb.net/?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+    "source_hostname": "pbpro3453file.gb.net",
+    "final_hostname": "pbpro3453file.gb.net",
+    "source_urls": [
+      "http://pbpro3453file.gb.net/asdf/4ab5312a4cfab3224e456d7c29b4f36b?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168"
+    ],
+    "provenance": [
+      {
+        "source_index": 111226,
+        "source_url": "http://pbpro3453file.gb.net/asdf/4ab5312a4cfab3224e456d7c29b4f36b?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+        "source_hostname": "pbpro3453file.gb.net",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://pbpro3453file.gb.net?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+        "final_hostname": "pbpro3453file.gb.net",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1861,
+        "checked_at": "2026-10-05T13:18:14.459198+00:00",
+        "error": null,
+        "normalized_source_url": "http://pbpro3453file.gb.net/asdf/4ab5312a4cfab3224e456d7c29b4f36b?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+        "normalized_final_url": "https://pbpro3453file.gb.net/?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "U888 - Link Truy Cập Trang Chủ U888.COM Chính Thức Mới Nhất 2026",
+  "capture_timestamp": "2026-10-05T16:53:26.784561+00:00",
+  "dom_chars": 162253,
+  "screenshot_bytes": 924291,
+  "dom_sha256": "3a3a64acebd1079f9fffbcacf703fc66ba489a2093ffa919e24c246c26e9463a",
+  "screenshot_sha256": "daf18013a7e6fd2e0a557f7f57351de869866a178ff2408daf80deb93b1eb70c",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://pbpro3453file.gb.net/?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://pbpro3453file.gb.net?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+    "browser_final_url": "https://pbpro3453file.gb.net/?key=4ab5312a4cfab3224e456d7c29b4f36b&rand=19lnboxlightespn_4ab5312a4cfab3224e456d7c29b4f36b_btl0t3fwwmfmdm4wzgqzu3o4-&10289cd572510eab0f4b98449d59fcf6d229997c71c927f8c4422a15f69f2168",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 5757,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "timeout",
+    "original_capture_timestamp": "2026-10-05T14:58:28.333955+00:00",
+    "previous_report_sha256": "30a3e7dbb742163e13640df45f5893f3d75a8f9bd9e41d288e77e5874d227b46",
+    "recovered_at": "2026-10-05T16:53:26.784561+00:00",
+    "result": "complete"
+  }
+}

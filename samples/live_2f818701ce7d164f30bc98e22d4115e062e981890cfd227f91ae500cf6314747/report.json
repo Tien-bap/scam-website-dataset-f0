@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_2f818701ce7d164f30bc98e22d4115e062e981890cfd227f91ae500cf6314747",
+  "candidate_sha256": "6c46ad78ccc831f6dd1df320cfde53932a5c1a09d9738d2bf732e1874728bda8",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://kimsacasino.com",
+  "requested_url": "https://cheap-loans.uk.com/",
+  "browser_final_url": "https://cheap-loans.uk.com/",
+  "source_urls": [
+    "https://kimsacasino.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1566,
+      "source_url": "https://kimsacasino.com",
+      "source_hostname": "kimsacasino.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://cheap-loans.uk.com/",
+      "final_hostname": "cheap-loans.uk.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1664,
+      "checked_at": "2026-10-05T12:18:54.732848+00:00",
+      "error": null,
+      "normalized_source_url": "https://kimsacasino.com/",
+      "normalized_final_url": "https://cheap-loans.uk.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_2f818701ce7d164f30bc98e22d4115e062e981890cfd227f91ae500cf6314747",
+    "representative_source_index": 1566,
+    "representative_source_url": "https://kimsacasino.com",
+    "representative_final_url": "https://cheap-loans.uk.com/",
+    "normalized_final_url": "https://cheap-loans.uk.com/",
+    "source_hostname": "kimsacasino.com",
+    "final_hostname": "cheap-loans.uk.com",
+    "source_urls": [
+      "https://kimsacasino.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 1566,
+        "source_url": "https://kimsacasino.com",
+        "source_hostname": "kimsacasino.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://cheap-loans.uk.com/",
+        "final_hostname": "cheap-loans.uk.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1664,
+        "checked_at": "2026-10-05T12:18:54.732848+00:00",
+        "error": null,
+        "normalized_source_url": "https://kimsacasino.com/",
+        "normalized_final_url": "https://cheap-loans.uk.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "KIMSA 🎖️ Nhà Cái Kimsa Casino Uy Tín Số 1 Châu Á",
+  "capture_timestamp": "2026-10-05T14:39:09.934858+00:00",
+  "dom_chars": 99330,
+  "screenshot_bytes": 59583,
+  "dom_sha256": "29503bf29c47d43a6769d5966056c0bc46e6f818b5e8beded4ef47e14630fbb2",
+  "screenshot_sha256": "0dda7f1006fbc99671c9141e2dc8a6ee5a7fc3c1eddc00f1a34470bec7668353",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://cheap-loans.uk.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://cheap-loans.uk.com/",
+    "browser_final_url": "https://cheap-loans.uk.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 5,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3825
+}

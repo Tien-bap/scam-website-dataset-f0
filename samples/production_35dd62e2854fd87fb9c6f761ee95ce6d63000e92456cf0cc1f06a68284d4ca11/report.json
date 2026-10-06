@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.securiteq.ca/Docs/",
+  "hostname": "www.securiteq.ca",
+  "checked_at": "2026-10-04T15:45:04.683144+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f41dd-1141-71f6-bd34-7520d0a46bed",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-08T13:14:07.503Z",
+  "scan_original_url": "http://securiteq.ca/",
+  "final_url": "https://www.securiteq.ca/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2945,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.145,
+  "discovery": {
+    "batch_id": "445c63a9abe086a623e1dc76e3b2b7ef36cfd31543fb5a7e8a9931b224091f39",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

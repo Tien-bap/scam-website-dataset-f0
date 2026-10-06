@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.petrolcommunications.com/journal/cache/365/index.html",
+  "hostname": "www.petrolcommunications.com",
+  "checked_at": "2026-10-04T15:45:05.056261+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b900-8453-70df-aca9-1923bf58e4c6",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-19T09:30:30.986Z",
+  "scan_original_url": "http://petrolcommunications.com/",
+  "final_url": "https://www.petrolcommunications.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 11041,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.296,
+  "discovery": {
+    "batch_id": "445c63a9abe086a623e1dc76e3b2b7ef36cfd31543fb5a7e8a9931b224091f39",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "original_url": "qfsgolden.info",
+  "hostname": "qfsgolden.info",
+  "checked_at": "2026-10-04T10:34:03.437789+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019580b4-e420-7000-a837-32ba84a10983",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-10T15:38:20.592Z",
+  "scan_original_url": "http://qfsgolden.info/",
+  "final_url": "https://qfsgolden.info/sign-in.html",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 225,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 12.162
+}

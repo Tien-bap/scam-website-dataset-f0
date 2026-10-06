@@ -1,0 +1,148 @@
+{
+  "candidate_id": "live_d278bfffbba8f0af594db25a824bd209a63817234825d1bb2d63e7b9c232c58a",
+  "candidate_sha256": "aec7cd2e08ec248f1b7fcc75abe908624c2cc065ce1c720b60cad718659a081f",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://newheightscannabis.com",
+  "requested_url": "https://na-am.org/",
+  "browser_final_url": "https://na-am.org/",
+  "source_urls": [
+    "https://newheightscannabis.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1218,
+      "source_url": "https://newheightscannabis.com",
+      "source_hostname": "newheightscannabis.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://na-am.org/",
+      "final_hostname": "na-am.org",
+      "redirect_count": 3,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2452,
+      "checked_at": "2026-10-05T12:18:36.004437+00:00",
+      "error": null,
+      "normalized_source_url": "https://newheightscannabis.com/",
+      "normalized_final_url": "https://na-am.org/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_d278bfffbba8f0af594db25a824bd209a63817234825d1bb2d63e7b9c232c58a",
+    "representative_source_index": 1218,
+    "representative_source_url": "https://newheightscannabis.com",
+    "representative_final_url": "https://na-am.org/",
+    "normalized_final_url": "https://na-am.org/",
+    "source_hostname": "newheightscannabis.com",
+    "final_hostname": "na-am.org",
+    "source_urls": [
+      "https://newheightscannabis.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 1218,
+        "source_url": "https://newheightscannabis.com",
+        "source_hostname": "newheightscannabis.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://na-am.org/",
+        "final_hostname": "na-am.org",
+        "redirect_count": 3,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2452,
+        "checked_at": "2026-10-05T12:18:36.004437+00:00",
+        "error": null,
+        "normalized_source_url": "https://newheightscannabis.com/",
+        "normalized_final_url": "https://na-am.org/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 3,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "ORCA128 : Ekosistem Slot Online Modern Platform Plaing Stabil",
+  "capture_timestamp": "2026-10-05T14:56:38.055888+00:00",
+  "dom_chars": 725990,
+  "screenshot_bytes": 1140039,
+  "dom_sha256": "fbc6d68c197a13d752923be4a7be844d8d2d43e0532821371db7a6e3549f1901",
+  "screenshot_sha256": "4574d744de083049750d6eb4a81429d1f1838859ff9cedf4531027cd05938ff5",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://na-am.org/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://na-am.org/",
+    "browser_final_url": "https://na-am.org/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 1,
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5251
+}

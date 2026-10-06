@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_bee97002c6d6c40b3f711ce76354838734eb0bd82236527b1f70dab358fd2557",
+  "candidate_sha256": "24cbf4876ae278b73bb9ba69af92c1126b249d28e357a2b154e21f413a8e543e",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://gachoic1.me",
+  "requested_url": "https://samsprojects.co/",
+  "browser_final_url": "https://samsprojects.co/",
+  "source_urls": [
+    "https://gachoic1.me"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1371,
+      "source_url": "https://gachoic1.me",
+      "source_hostname": "gachoic1.me",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://samsprojects.co/",
+      "final_hostname": "samsprojects.co",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1651,
+      "checked_at": "2026-10-05T12:18:45.235320+00:00",
+      "error": null,
+      "normalized_source_url": "https://gachoic1.me/",
+      "normalized_final_url": "https://samsprojects.co/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_bee97002c6d6c40b3f711ce76354838734eb0bd82236527b1f70dab358fd2557",
+    "representative_source_index": 1371,
+    "representative_source_url": "https://gachoic1.me",
+    "representative_final_url": "https://samsprojects.co/",
+    "normalized_final_url": "https://samsprojects.co/",
+    "source_hostname": "gachoic1.me",
+    "final_hostname": "samsprojects.co",
+    "source_urls": [
+      "https://gachoic1.me"
+    ],
+    "provenance": [
+      {
+        "source_index": 1371,
+        "source_url": "https://gachoic1.me",
+        "source_hostname": "gachoic1.me",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://samsprojects.co/",
+        "final_hostname": "samsprojects.co",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1651,
+        "checked_at": "2026-10-05T12:18:45.235320+00:00",
+        "error": null,
+        "normalized_source_url": "https://gachoic1.me/",
+        "normalized_final_url": "https://samsprojects.co/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "MB88 Samsprojects ⭐️ Link Vào MB88.com Chính Thức【10/2026】",
+  "capture_timestamp": "2026-10-05T14:54:30.320346+00:00",
+  "dom_chars": 103031,
+  "screenshot_bytes": 987654,
+  "dom_sha256": "2bb2a258456961e325c52f64182dde45f6f49f1cc5a860458c38977798336d84",
+  "screenshot_sha256": "ac9588e65fe4ccb98bedca14e2bebb6bc4170ac3dd798580f1a66a610857752d",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://samsprojects.co/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://samsprojects.co/",
+    "browser_final_url": "https://samsprojects.co/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 7959
+}

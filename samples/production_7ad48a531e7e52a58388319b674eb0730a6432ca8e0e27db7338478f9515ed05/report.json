@@ -1,0 +1,27 @@
+{
+  "original_url": "https://essays-expert.com/look/final.php",
+  "hostname": "essays-expert.com",
+  "checked_at": "2026-10-04T14:58:16.225941+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e32b-0061-747d-9626-0ac4dea2965b",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-27T14:00:52.397Z",
+  "scan_original_url": "https://essays-expert.com/",
+  "final_url": "https://essays-expert.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 19165,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 47.91,
+  "discovery": {
+    "batch_id": "d69bf9aae9ffeb482d2956dff9c6a7b8e72d15eea8c07f829d0bd02ca9157ff0",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

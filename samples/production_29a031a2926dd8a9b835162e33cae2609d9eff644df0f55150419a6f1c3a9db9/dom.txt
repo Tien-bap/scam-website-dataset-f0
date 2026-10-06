@@ -1,0 +1,1302 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#3a3a3a">
+
+  <link rel="preconnect" href="https://cdn.shopify.com" crossorigin="">
+  <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin="">
+  <link rel="preconnect" href="https://monorail-edge.shopifysvc.com"><link rel="preload" href="//www.webuyitback.co.za/cdn/shop/t/1/assets/theme.css?v=12432479573126684661625656392" as="style">
+  <link rel="preload" as="font" href="" type="font/woff2" crossorigin="">
+  <link rel="preload" as="font" href="" type="font/woff2" crossorigin="">
+  <link rel="preload" as="font" href="" type="font/woff2" crossorigin="">
+  <link rel="preload" href="//www.webuyitback.co.za/cdn/shop/t/1/assets/theme.js?v=43019564041095109801625112191" as="script">
+  <link rel="preload" href="//www.webuyitback.co.za/cdn/shop/t/1/assets/lazysizes.js?v=63098554868324070131623692079" as="script"><link rel="canonical" href="https://www.webuyitback.co.za/"><title>WeBuyITBack Powered By Xperien</title><!-- /snippets/social-meta-tags.liquid -->
+
+
+<meta property="og:site_name" content="WeBuyITBack Powered By Xperien">
+<meta property="og:url" content="https://www.webuyitback.co.za/">
+<meta property="og:title" content="WeBuyITBack Powered By Xperien">
+<meta property="og:type" content="website">
+<meta property="og:description" content="WeBuyITBack Powered By Xperien"><meta property="og:image" content="http://www.webuyitback.co.za/cdn/shop/files/Logo.png?v=1779697329">
+  <meta property="og:image:secure_url" content="https://www.webuyitback.co.za/cdn/shop/files/Logo.png?v=1779697329">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="628">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="WeBuyITBack Powered By Xperien">
+<meta name="twitter:description" content="WeBuyITBack Powered By Xperien">
+
+  
+<style data-shopify="">
+:root {
+    --color-text: #3a3a3a;
+    --color-text-rgb: 58, 58, 58;
+    --color-body-text: #333232;
+    --color-sale-text: #f11010;
+    --color-small-button-text-border: #3a3a3a;
+    --color-text-field: #ffffff;
+    --color-text-field-text: #000000;
+    --color-text-field-text-rgb: 0, 0, 0;
+
+    --color-btn-primary: #3a3a3a;
+    --color-btn-primary-darker: #212121;
+    --color-btn-primary-text: #ffffff;
+
+    --color-blankstate: rgba(51, 50, 50, 0.35);
+    --color-blankstate-border: rgba(51, 50, 50, 0.2);
+    --color-blankstate-background: rgba(51, 50, 50, 0.1);
+
+    --color-text-focus:#606060;
+    --color-overlay-text-focus:#e6e6e6;
+    --color-btn-primary-focus:#606060;
+    --color-btn-social-focus:#d2d2d2;
+    --color-small-button-text-border-focus:#606060;
+    --predictive-search-focus:#f2f2f2;
+
+    --color-body: #ffffff;
+    --color-bg: #ffffff;
+    --color-bg-rgb: 255, 255, 255;
+    --color-bg-alt: rgba(51, 50, 50, 0.05);
+    --color-bg-currency-selector: rgba(51, 50, 50, 0.2);
+
+    --color-overlay-title-text: #ffffff;
+    --color-image-overlay: #685858;
+    --color-image-overlay-rgb: 104, 88, 88;--opacity-image-overlay: 0.4;--hover-overlay-opacity: 0.8;
+
+    --color-border: #ebebeb;
+    --color-border-form: #cccccc;
+    --color-border-form-darker: #b3b3b3;
+
+    --svg-select-icon: url(//www.webuyitback.co.za/cdn/shop/t/1/assets/ico-select.svg?v=29003672709104678581623692101);
+    --slick-img-url: url(//www.webuyitback.co.za/cdn/shop/t/1/assets/ajax-loader.gif?v=41356863302472015721623692077);
+
+    --font-weight-body--bold: 700;
+    --font-weight-body--bolder: 700;
+
+    --font-stack-header: Helvetica, Arial, sans-serif;
+    --font-style-header: normal;
+    --font-weight-header: 700;
+
+    --font-stack-body: Helvetica, Arial, sans-serif;
+    --font-style-body: normal;
+    --font-weight-body: 400;
+
+    --font-size-header: 26;
+
+    --font-size-base: 15;
+
+    --font-h1-desktop: 35;
+    --font-h1-mobile: 32;
+    --font-h2-desktop: 20;
+    --font-h2-mobile: 18;
+    --font-h3-mobile: 20;
+    --font-h4-desktop: 17;
+    --font-h4-mobile: 15;
+    --font-h5-desktop: 15;
+    --font-h5-mobile: 13;
+    --font-h6-desktop: 14;
+    --font-h6-mobile: 12;
+
+    --font-mega-title-large-desktop: 65;
+
+    --font-rich-text-large: 17;
+    --font-rich-text-small: 13;
+
+    
+--color-video-bg: #f2f2f2;
+
+    
+    --global-color-image-loader-primary: rgba(58, 58, 58, 0.06);
+    --global-color-image-loader-secondary: rgba(58, 58, 58, 0.12);
+  }
+</style>
+
+
+  <style>*,::after,::before{box-sizing:border-box}body{margin:0}body,html{background-color:var(--color-body)}body,button{font-size:calc(var(--font-size-base) * 1px);font-family:var(--font-stack-body);font-style:var(--font-style-body);font-weight:var(--font-weight-body);color:var(--color-text);line-height:1.5}body,button{-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%}.border-bottom{border-bottom:1px solid var(--color-border)}.btn--link{background-color:transparent;border:0;margin:0;color:var(--color-text);text-align:left}.text-right{text-align:right}.icon{display:inline-block;width:20px;height:20px;vertical-align:middle;fill:currentColor}.icon__fallback-text,.visually-hidden{position:absolute!important;overflow:hidden;clip:rect(0 0 0 0);height:1px;width:1px;margin:-1px;padding:0;border:0}svg.icon:not(.icon--full-color) circle,svg.icon:not(.icon--full-color) ellipse,svg.icon:not(.icon--full-color) g,svg.icon:not(.icon--full-color) line,svg.icon:not(.icon--full-color) path,svg.icon:not(.icon--full-color) polygon,svg.icon:not(.icon--full-color) polyline,svg.icon:not(.icon--full-color) rect,symbol.icon:not(.icon--full-color) circle,symbol.icon:not(.icon--full-color) ellipse,symbol.icon:not(.icon--full-color) g,symbol.icon:not(.icon--full-color) line,symbol.icon:not(.icon--full-color) path,symbol.icon:not(.icon--full-color) polygon,symbol.icon:not(.icon--full-color) polyline,symbol.icon:not(.icon--full-color) rect{fill:inherit;stroke:inherit}li{list-style:none}.list--inline{padding:0;margin:0}.list--inline>li{display:inline-block;margin-bottom:0;vertical-align:middle}a{color:var(--color-text);text-decoration:none}.h1,.h2,h1,h2{margin:0 0 17.5px;font-family:var(--font-stack-header);font-style:var(--font-style-header);font-weight:var(--font-weight-header);line-height:1.2;overflow-wrap:break-word;word-wrap:break-word}.h1 a,.h2 a,h1 a,h2 a{color:inherit;text-decoration:none;font-weight:inherit}.h1,h1{font-size:calc(((var(--font-h1-desktop))/ (var(--font-size-base))) * 1em);text-transform:none;letter-spacing:0}@media only screen and (max-width:749px){.h1,h1{font-size:calc(((var(--font-h1-mobile))/ (var(--font-size-base))) * 1em)}}.h2,h2{font-size:calc(((var(--font-h2-desktop))/ (var(--font-size-base))) * 1em);text-transform:uppercase;letter-spacing:.1em}@media only screen and (max-width:749px){.h2,h2{font-size:calc(((var(--font-h2-mobile))/ (var(--font-size-base))) * 1em)}}p{color:var(--color-body-text);margin:0 0 19.44444px}@media only screen and (max-width:749px){p{font-size:calc(((var(--font-size-base) - 1)/ (var(--font-size-base))) * 1em)}}p:last-child{margin-bottom:0}@media only screen and (max-width:749px){.small--hide{display:none!important}}.grid{list-style:none;margin:0;padding:0;margin-left:-30px}.grid::after{content:'';display:table;clear:both}@media only screen and (max-width:749px){.grid{margin-left:-22px}}.grid::after{content:'';display:table;clear:both}.grid--no-gutters{margin-left:0}.grid--no-gutters .grid__item{padding-left:0}.grid--table{display:table;table-layout:fixed;width:100%}.grid--table>.grid__item{float:none;display:table-cell;vertical-align:middle}.grid__item{float:left;padding-left:30px;width:100%}@media only screen and (max-width:749px){.grid__item{padding-left:22px}}.grid__item[class*="--push"]{position:relative}@media only screen and (min-width:750px){.medium-up--one-quarter{width:25%}.medium-up--push-one-third{width:33.33%}.medium-up--one-half{width:50%}.medium-up--push-one-third{left:33.33%;position:relative}}.site-header{position:relative;background-color:var(--color-body)}@media only screen and (max-width:749px){.site-header{border-bottom:1px solid var(--color-border)}}@media only screen and (min-width:750px){.site-header{padding:0 55px}.site-header.logo--center{padding-top:30px}}.site-header__logo{margin:15px 0}.logo-align--center .site-header__logo{text-align:center;margin:0 auto}@media only screen and (max-width:749px){.logo-align--center .site-header__logo{text-align:left;margin:15px 0}}@media only screen and (max-width:749px){.site-header__logo{padding-left:22px;text-align:left}.site-header__logo img{margin:0}}.site-header__logo-link{display:inline-block;word-break:break-word}@media only screen and (min-width:750px){.logo-align--center .site-header__logo-link{margin:0 auto}}.site-header__logo-image{display:block}@media only screen and (min-width:750px){.site-header__logo-image{margin:0 auto}}.site-header__logo-image img{width:100%}.site-header__logo-image--centered img{margin:0 auto}.site-header__logo img{display:block}.site-header__icons{position:relative;white-space:nowrap}@media only screen and (max-width:749px){.site-header__icons{width:auto;padding-right:13px}.site-header__icons .btn--link,.site-header__icons .site-header__cart{font-size:calc(((var(--font-size-base))/ (var(--font-size-base))) * 1em)}}.site-header__icons-wrapper{position:relative;display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;-ms-align-items:center;-o-align-items:center;align-items:center;-webkit-justify-content:flex-end;-ms-justify-content:flex-end;justify-content:flex-end}.site-header__account,.site-header__cart,.site-header__search{position:relative}.site-header__search.site-header__icon{display:none}@media only screen and (min-width:1400px){.site-header__search.site-header__icon{display:block}}.site-header__search-toggle{display:block}@media only screen and (min-width:750px){.site-header__account,.site-header__cart{padding:10px 11px}}.site-header__cart-title,.site-header__search-title{position:absolute!important;overflow:hidden;clip:rect(0 0 0 0);height:1px;width:1px;margin:-1px;padding:0;border:0;display:block;vertical-align:middle}.site-header__cart-title{margin-right:3px}.site-header__cart-count{display:flex;align-items:center;justify-content:center;position:absolute;right:.4rem;top:.2rem;font-weight:700;background-color:var(--color-btn-primary);color:var(--color-btn-primary-text);border-radius:50%;min-width:1em;height:1em}.site-header__cart-count span{font-family:HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:calc(11em / 16);line-height:1}@media only screen and (max-width:749px){.site-header__cart-count{top:calc(7em / 16);right:0;border-radius:50%;min-width:calc(19em / 16);height:calc(19em / 16)}}@media only screen and (max-width:749px){.site-header__cart-count span{padding:.25em calc(6em / 16);font-size:12px}}.site-header__menu{display:none}@media only screen and (max-width:749px){.site-header__icon{display:inline-block;vertical-align:middle;padding:10px 11px;margin:0}}@media only screen and (min-width:750px){.site-header__icon .icon-search{margin-right:3px}}.announcement-bar{z-index:10;position:relative;text-align:center;border-bottom:1px solid transparent;padding:2px}.announcement-bar__link{display:block}.announcement-bar__message{display:block;padding:11px 22px;font-size:calc(((16)/ (var(--font-size-base))) * 1em);font-weight:var(--font-weight-header)}@media only screen and (min-width:750px){.announcement-bar__message{padding-left:55px;padding-right:55px}}.site-nav{position:relative;padding:0;text-align:center;margin:25px 0}.site-nav a{padding:3px 10px}.site-nav__link{display:block;white-space:nowrap}.site-nav--centered .site-nav__link{padding-top:0}.site-nav__link .icon-chevron-down{width:calc(8em / 16);height:calc(8em / 16);margin-left:.5rem}.site-nav__label{border-bottom:1px solid transparent}.site-nav__link--active .site-nav__label{border-bottom-color:var(--color-text)}.site-nav__link--button{border:none;background-color:transparent;padding:3px 10px}.site-header__mobile-nav{z-index:11;position:relative;background-color:var(--color-body)}@media only screen and (max-width:749px){.site-header__mobile-nav{display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;-ms-align-items:center;-o-align-items:center;align-items:center}}.mobile-nav--open .icon-close{display:none}.main-content{opacity:0}.main-content .shopify-section{display:none}.main-content .shopify-section:first-child{display:inherit}.critical-hidden{display:none}</style>
+
+  <script type="text/javascript" async="" src="https://chimpstatic.com/mcjs-connected/js/users/5f7f5337a16c4be887ae294b7/70e1846ec844506351c1ed751.js?shop=webuyitback.myshopify.com"></script><script type="text/javascript" async="" src="//www.webuyitback.co.za/cdn/s/trekkie.storefront.51e77662fd67e0d47c7238acfeab529dafb90214.min.js"></script><script>
+    window.performance.mark('debut:theme_stylesheet_loaded.start');
+
+    function onLoadStylesheet() {
+      performance.mark('debut:theme_stylesheet_loaded.end');
+      performance.measure('debut:theme_stylesheet_loaded', 'debut:theme_stylesheet_loaded.start', 'debut:theme_stylesheet_loaded.end');
+
+      var url = "//www.webuyitback.co.za/cdn/shop/t/1/assets/theme.css?v=12432479573126684661625656392";
+      var link = document.querySelector('link[href="' + url + '"]');
+      link.loaded = true;
+      link.dispatchEvent(new Event('load'));
+    }
+  </script>
+
+  <link rel="stylesheet" href="//www.webuyitback.co.za/cdn/shop/t/1/assets/theme.css?v=12432479573126684661625656392" type="text/css" media="all" onload="this.media='all';onLoadStylesheet()">
+
+  <style>
+    
+    
+    
+    
+    
+    
+  </style>
+
+  <script>
+    var theme = {
+      breakpoints: {
+        medium: 750,
+        large: 990,
+        widescreen: 1400
+      },
+      strings: {
+        addToCart: "Add to cart",
+        soldOut: "Sold out",
+        unavailable: "Unavailable",
+        regularPrice: "Regular price",
+        salePrice: "Sale price",
+        sale: "Sale",
+        fromLowestPrice: "from [price]",
+        vendor: "Vendor",
+        showMore: "Show More",
+        showLess: "Show Less",
+        searchFor: "Search for",
+        addressError: "Error looking up that address",
+        addressNoResults: "No results for that address",
+        addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+        authError: "There was a problem authenticating your Google Maps account.",
+        newWindow: "Opens in a new window.",
+        external: "Opens external website.",
+        newWindowExternal: "Opens external website in a new window.",
+        removeLabel: "Remove [product]",
+        update: "Update",
+        quantity: "Quantity",
+        discountedTotal: "Discounted total",
+        regularTotal: "Regular total",
+        priceColumn: "See Price column for discount details.",
+        quantityMinimumMessage: "Quantity must be 1 or more",
+        cartError: "There was an error while updating your cart. Please try again.",
+        removedItemMessage: "Removed \u003cspan class=\"cart__removed-product-details\"\u003e([quantity]) [link]\u003c\/span\u003e from your cart.",
+        unitPrice: "Unit price",
+        unitPriceSeparator: "per",
+        oneCartCount: "1 item",
+        otherCartCount: "[count] items",
+        quantityLabel: "Quantity: [count]",
+        products: "Products",
+        loading: "Loading",
+        number_of_results: "[result_number] of [results_count]",
+        number_of_results_found: "[results_count] results found",
+        one_result_found: "1 result found"
+      },
+      moneyFormat: "R {{amount}}",
+      moneyFormatWithCurrency: "R {{amount}} ZAR",
+      settings: {
+        predictiveSearchEnabled: true,
+        predictiveSearchShowPrice: false,
+        predictiveSearchShowVendor: false
+      },
+      stylesheet: "//www.webuyitback.co.za/cdn/shop/t/1/assets/theme.css?v=12432479573126684661625656392"
+    };if (sessionStorage.getItem("backToCollection")) {
+        sessionStorage.removeItem("backToCollection")
+      }document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script><script src="//www.webuyitback.co.za/cdn/shop/t/1/assets/theme.js?v=43019564041095109801625112191" defer="defer"></script>
+  <script src="//www.webuyitback.co.za/cdn/shop/t/1/assets/lazysizes.js?v=63098554868324070131623692079" async="async"></script>
+
+  <script type="text/javascript">
+    if (window.MSInputMethodContext && document.documentMode) {
+      var scripts = document.getElementsByTagName('script')[0];
+      var polyfill = document.createElement("script");
+      polyfill.defer = true;
+      polyfill.src = "//www.webuyitback.co.za/cdn/shop/t/1/assets/ie11CustomProperties.min.js?v=146208399201472936201623692079";
+
+      scripts.parentNode.insertBefore(polyfill, scripts);
+    }
+  </script>
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/57424216217/digital_wallets/dialog">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-CA"></script>
+<script id="shopify-features" type="application/json">{"accessToken":"[REDACTED_EMBEDDED_CREDENTIAL]","betas":["rich-media-storefront-analytics"],"domain":"www.webuyitback.co.za","predictiveSearch":true,"shopId":57424216217,"locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "webuyitback.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"ZAR","rate":"1.0"};
+Shopify.country = "CA";
+Shopify.theme = {"name":"Debut","id":123750056089,"schema_name":"Debut","schema_version":"17.13.0","theme_store_id":796,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "www.webuyitback.co.za/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";
+Shopify.shopJsCdnBaseUrl = "https://cdn.shopify.com/shopifycloud/shop-js";
+Shopify.SignInWithShop = Shopify.SignInWithShop || {};
+Shopify.SignInWithShop.User = Shopify.SignInWithShop.User || {};
+Shopify.SignInWithShop.User.recognized = false;</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  window.Shopify.SignInWithShop = window.Shopify.SignInWithShop || {};
+  window.Shopify.SignInWithShop.assetMetrics = { sampleRate: 0.01 };
+  window.Shopify.SignInWithShop.eligible = true;
+</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"index"}</script>
+<script defer="defer" async="" type="module" src="//www.webuyitback.co.za/cdn/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js"></script>
+<script type="module">
+  await import("//www.webuyitback.co.za/cdn/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js");
+
+  window.Shopify.SignInWithShop?.initShopCartSync?.({"fedCMEnabled":true,"windoidEnabled":true,"experiments":{"f_574743f4a4e7d67652abf981a0b686df":true}});
+
+</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"shop-toast-manager":["modules/v2/loader.shop-toast-manager.en.esm.js"],"shop-button":["modules/v2/loader.shop-button.en.esm.js"],"shop-cash-offers":["modules/v2/loader.shop-cash-offers.en.esm.js"],"listener":["modules/v2/loader.listener.en.esm.js"],"init-fed-cm":["modules/v2/loader.init-fed-cm.en.esm.js"],"init-shop-user-recognition":["modules/v2/loader.init-shop-user-recognition.en.esm.js"],"init-windoid":["modules/v2/loader.init-windoid.en.esm.js"],"checkout-modal":["modules/v2/loader.checkout-modal.en.esm.js"],"init-shop-cart-sync":["modules/v2/loader.init-shop-cart-sync.en.esm.js"],"init-shop-email-lookup-coordinator":["modules/v2/loader.init-shop-email-lookup-coordinator.en.esm.js"],"init-customer-accounts":["modules/v2/loader.init-customer-accounts.en.esm.js"],"avatar":["modules/v2/loader.avatar.en.esm.js"],"shop-user-recognition":["modules/v2/loader.shop-user-recognition.en.esm.js"],"shop-login":["modules/v2/loader.shop-login.en.esm.js"],"pay-button":["modules/v2/loader.pay-button.en.esm.js"],"shop-login-button":["modules/v2/loader.shop-login-button.en.esm.js"],"init-shop-for-new-customer-accounts":["modules/v2/loader.init-shop-for-new-customer-accounts.en.esm.js"],"init-customer-accounts-sign-up":["modules/v2/loader.init-customer-accounts-sign-up.en.esm.js"],"shop-cart-sync":["modules/v2/loader.shop-cart-sync.en.esm.js"],"shop-follow-button":["modules/v2/loader.shop-follow-button.en.esm.js"],"lead-capture":["modules/v2/loader.lead-capture.en.esm.js"],"payment-terms":["modules/v2/loader.payment-terms.en.esm.js"]};
+</script>
+<script>(function() {
+  var isLoaded = false;
+  function asyncLoad() {
+    if (isLoaded) return;
+    isLoaded = true;
+    var urls = ["https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/5f7f5337a16c4be887ae294b7\/70e1846ec844506351c1ed751.js?shop=webuyitback.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":57424216217,"offset":7200,"reqid":"1d7d9cb3-4b7c-4dcf-8e96-0e47c5aad8f3-1784903675","pageurl":"www.webuyitback.co.za\/","u":"2c63aac2a3f1","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
+<script integrity="sha256-JjoPp5ZfB1sSAs5SQaol1x1GgvveM+BgmRzyDexInEQ=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//www.webuyitback.co.za/cdn/shopifycloud/storefront/assets/storefront/load_feature-1bd60354.js" crossorigin="anonymous"></script>
+<script>(function () {var userAgent = navigator.userAgent;var platform = navigator.platform;var maxTouchPoints = navigator.maxTouchPoints || 0;var isIOS = /iPad|iPhone|iPod/.test(platform) || (platform === 'MacIntel' && maxTouchPoints > 1);var isMacSafari = platform.indexOf('Mac') === 0 && /Safari/.test(userAgent) && !/Chrome|Chromium|CriOS|FxiOS|Edg|OPR|Android/.test(userAgent);var isAppleSafari = isIOS || isMacSafari;if (isAppleSafari) {fetch('/sf_private_access_tokens' + location.search).catch(function () {});}function browserMajorVersion(pattern) {var match = userAgent.match(pattern);return match ? parseInt(match[1], 10) : null;}function shouldLoadAutosizesPolyfill() {if (!window.PerformanceObserver?.supportedEntryTypes?.includes('paint')) {return false;}var chromeVersion = browserMajorVersion(/Chrome\/(\d+)/);if (chromeVersion !== null) {return chromeVersion < 126;}var firefoxVersion = browserMajorVersion(/Firefox\/(\d+)/);if (firefoxVersion !== null) {return firefoxVersion < 150;}var safariVersion = isAppleSafari ? browserMajorVersion(/Version\/(\d+).*Safari\//) : null;if (safariVersion !== null) {return safariVersion < 27;}return true;}if (shouldLoadAutosizesPolyfill()) {var autosizesScript = document.createElement('script');autosizesScript.async = true;autosizesScript.crossOrigin = 'anonymous';autosizesScript.src = "//www.webuyitback.co.za/cdn/shopifycloud/storefront/assets/storefront/autosizes-84416378.js";(document.head || document.documentElement).appendChild(autosizesScript);}window.ShopifyAnalytics = window.ShopifyAnalytics || {};window.ShopifyAnalytics.performance = window.ShopifyAnalytics.performance || {};(function () {var LONG_FRAME_THRESHOLD = 50;var longAnimationFrames = [];var activeRafId = null;function collectLongFrames() {var previousTime = null;function rafMonitor(now) {if (activeRafId === null) {return;}var delta = now - previousTime;if (delta > LONG_FRAME_THRESHOLD) {longAnimationFrames.push({startTime: previousTime,endTime: now,});}previousTime = now;activeRafId = requestAnimationFrame(rafMonitor);}previousTime = performance.now();activeRafId = requestAnimationFrame(rafMonitor);}if (!window.PerformanceObserver?.supportedEntryTypes?.includes('long-animation-frame')) {collectLongFrames();var timeoutId = setTimeout(function () {cancelAnimationFrame(activeRafId);}, 10000);window.ShopifyAnalytics.performance.getLongAnimationFrames = function (stopCollection) {if (stopCollection === undefined) {stopCollection = false;}if (stopCollection) {clearTimeout(timeoutId);cancelAnimationFrame(activeRafId);}return longAnimationFrames;};}})();})();</script><script id="shopify-origin-trials" async="async" integrity="sha256-mqQjA+yhr1DtPsW5MhDIq3zDu+LghfjNT49r/ttG3eY=" src="//cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-5059b83f.js" crossorigin="anonymous" onload="window.__shopifyOriginTrialsDone = true" onerror="window.__shopifyOriginTrialsDone = true"></script>
+<script>
+  window.Shopify = window.Shopify || {};
+  window.Shopify.MCP = window.Shopify.MCP || {};
+  window.Shopify.MCP.enabled = true;
+  window.Shopify.MCP.shop = "webuyitback.myshopify.com";
+  window.Shopify.MCP.mcpEndpoint = "https:\/\/www.webuyitback.co.za\/api\/mcp";
+  window.Shopify.MCP.tools = [{"name":"search_shop_policies_and_faqs","description":"Used to get facts about the stores policies, products, or services.\nSome examples of questions you can ask are:\n  - What is your return policy?\n  - What is your shipping policy?\n  - What is your phone number?\n  - What are your hours of operation?\"\n","inputSchema":{"$schema":"https:\/\/json-schema.org\/draft\/2020-12\/schema","type":"object","properties":{"query":{"type":"string","description":"A natural language query."},"context":{"type":"string","description":"Additional information about the request such as user demographics, mood, location, or other relevant details that could help in tailoring the response appropriately."}},"required":["query"]}}];
+</script>
+<script>(()=>{var d="shopify:webmcp_adapter_loaded",n=Symbol.for("shopify.webmcp_adapter_loading");function s(c,a,{win:r=window,doc:o=document}={}){function p(){try{return r.localStorage.getItem(d)==="true"}catch{return!1}}function l(){try{r.localStorage.setItem(d,"true")}catch{}}function u(){return typeof(o.modelContext||r.navigator?.modelContext)?.registerTool=="function"}function f(){if(r[n]||!u())return;let t=o.head||o.getElementsByTagName("head")[0];if(!t)return;let e=o.createElement("script");e.type="module",e.crossOrigin="anonymous",a&&(e.integrity=a),e.src=c,e.addEventListener("load",l,{once:!0}),e.addEventListener("error",()=>{r[n]=!1},{once:!0}),t.appendChild(e),r[n]=!0}function _(t){let e=o.getElementById("shopify-origin-trials");if(!e||r.__shopifyOriginTrialsDone){t();return}e.addEventListener("load",t,{once:!0}),e.addEventListener("error",t,{once:!0})}function i(){_(()=>r.setTimeout(f,0))}function m(){o.addEventListener("DOMContentLoaded",i,{once:!0})}p()?i():m()}s("https:\/\/cdn.shopify.com\/storefront\/webmcp\/webmcp-0.0.4.js","");})();
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://www.webuyitback.co.za/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
+  function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));
+</script>
+
+<script id="shopify-cfh-end">window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js" integrity="sha512-chZc2Mx8B1GzGSNMfJRH63jW7uYZXzX0a/UlWRrTvl4kxxYqUHNMtyTTA5IDQ7gTl4ATLoXlZthsialW3muS0A==" crossorigin="anonymous"></script>
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.
+  &lt;script src=" https:="" shopoe.net="" app.js"="">
+<script>
+setTimeout(function(){
+    var customVariantId = '41009706860697';
+    $.ajax({
+        type: 'GET',
+        url: '/cart.js',
+        dataType: 'json',
+        success: function (data) {
+            var allCount = 0;
+            var customCount = 0;
+
+            var items = data['items'];
+            for (i = 0; i < items.length; i++) {
+                var itemQuantity = items[i]['quantity'];
+                allCount += itemQuantity;
+                if (items[i]['variant_id'] == customVariantId) {
+                    customCount += itemQuantity;
+                }
+            }
+
+            if (customCount > 0) {
+                var realCount = allCount - customCount;
+                $('#CartCount > span').html(realCount);
+                $('.total_count_ajax').html(realCount);
+                $('.desk_count').html(realCount);
+                $('.cart-count').html(realCount);
+                $('.header__cart-count-bubble span').html(realCount);
+                $('.site-header__cart #CartCount').html(realCount);
+                $('.cart-count-js').html(realCount);
+                $('#CartToggleItemCount').html(realCount);
+                $('.tt-cart .tt-badge-cart').html(realCount);
+                $('.mini-cart-wrap .item-count').html(realCount);
+                $('.js-cart-count').html(realCount);
+
+                //Dawn Theme
+                $('.cart-count-bubble > span').html(realCount);
+            }
+        }
+    });
+}, 1500);
+
+setTimeout(function(){
+    $('.grid__item, .featured-collections__item, .grid-item, .card.critical-clear').each(function(){
+        var aTag = $(this).find('a');
+        if (aTag && aTag.attr('href')) {
+            if (aTag.attr('href').search('__customized-items') > -1) {
+                $(this).fadeOut(0);
+            }
+        }
+    });
+}, 150);
+</script>
+<link href="//www.webuyitback.co.za/cdn/shop/t/1/assets/daily-deals.scss?v=87371846545792394531700507729" rel="stylesheet" type="text/css" media="all">
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {try {var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description;} catch {var session_token_from_headers = undefined;}var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/);var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : "";var session_token = session_token_from_headers || session_token_from_cookie || "";function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 57424216217,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token,page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>
+  window.__TREKKIE_SHIM_QUEUE = window.__TREKKIE_SHIM_QUEUE || [];
+</script>
+<script>(function(){var wpmLoader=function(){"use strict";var e=/Googlebot|Storebot-Google|bingbot|Baiduspider|YandexBot|DuckDuckBot|Slurp|facebookexternalhit|Twitterbot|LinkedInBot|Applebot|AdsBot-Google|Mediapartners-Google|APIs-Google|PetalBot|SemrushBot|AhrefsBot|MJ12bot|DotBot|Acunetix|PerplexityBot|Perplexity-User/i,r=/bytedance/i;function o(){try{var e=document.cookie;if(!e||"string"!=typeof e)return;for(var r=0,o=e.split(";");r<o.length;r++){var d=o[r],t=d.indexOf("=");if(-1!==t){var n=d.slice(0,t).trim();if(n){var i=void 0;try{i=decodeURIComponent(n)}catch(e){i=n}if("_shopify_s"===i){var a=d.slice(t+1).trim();try{return decodeURIComponent(a)}catch(e){return a}}}}}return}catch(e){return}}function d(e){try{"undefined"!=typeof console&&"function"==typeof console.warn&&console.warn(e)}catch(e){}}return function(t,n,i,a){var s,c,u,l,f=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},p=(c=(s={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(15\d|1[6-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(15\d|1[6-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/}).modern,u=s.legacy,(l=navigator.userAgent).match(e)?"bot":l.match(c)?"modern":l.match(u)?"legacy":l.match(r)?"bot":"unknown"),h=function(e){var r=e.version,t=e.browserTarget,n=e.surface,i=e.shopId,a=e.monorailEndpoint,s=window.location.href;return{emit:function(e){var c,u=e.status,l=e.errorMsg;if(!a)return d("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."),!1;try{var f=(new Date).getTime();c=JSON.stringify({metadata:{event_sent_at_ms:f},events:[{schema_id:"web_pixels_manager_load/3.2",payload:{version:r,bundle_target:t,page_url:s,status:u,surface:n,error_msg:l,shop_id:i,visit_token:o()},metadata:{event_created_at_ms:f}}]})}catch(e){return!1}var p,h=!1;try{"function"==typeof window.navigator.sendBeacon&&-1===(p=window.navigator.userAgent).indexOf("iPhone; CPU iPhone OS 12_")&&-1===p.indexOf("iPad; CPU OS 12_")&&-1===p.indexOf("iPod touch; CPU iPhone OS 12_")&&(h=window.navigator.sendBeacon.bind(window.navigator)(a,c))}catch(e){h=!1}if(h)return!0;try{var m=new XMLHttpRequest;return m.open("POST",a,!0),m.setRequestHeader("Content-Type","text/plain"),m.send(c),!0}catch(e){return d("[Web Pixels Manager] Got an unhandled error while logging to Monorail."),!1}}}}({version:i,browserTarget:p,surface:t.surface,shopId:t.shopId,monorailEndpoint:t.monorailEndpoint});if(Boolean(null==(y=null==(m=window.Shopify)?void 0:m.analytics)?void 0:y.replayQueue))h.emit({status:"setup-skipped",errorMsg:"replay queue already initialized."});else{var m,y;h.emit({status:"setup-started"}),window.Shopify=window.Shopify||{};var g=window.Shopify;g.analytics=g.analytics||{};var v=g.analytics;v.replayQueue=[],v.publish=function(e,r,o){return v.replayQueue.push([e,r,o]),!0};try{self.performance.mark("wpm:start")}catch(e){}var w,b="modern"===p?"modern":"legacy",P=(null!=a?a:{modern:"",legacy:""})[b],S=[(w={baseUrl:n,hashVersion:i,buildTarget:b}).baseUrl,"/wpm","/b",w.hashVersion,"modern"===w.buildTarget?"m":"l",".js"].join("");try{f.browserTarget=p,O(function(){try{O(_)}catch(e){h.emit({status:"failed",errorMsg:U(e)})}}),h.emit({status:"loading"})}catch(e){h.emit({status:"failed",errorMsg:U(e)})}}function C(){if(!function(){var e,r;return Boolean(null==(r=null==(e=window.Shopify)?void 0:e.analytics)?void 0:r.initialized)}()){var e=window.webPixelsManager.init(t)||void 0;if(e){var r=window.Shopify.analytics;r.replayQueue.forEach(function(r){var o=r[0],d=r[1],t=r[2];e.publishCustomEvent(o,d,t)}),r.replayQueue=[],r.publish=e.publishCustomEvent,r.visitor=e.visitor,r.initialized=!0}}}function _(){return h.emit({status:"failed",errorMsg:"".concat(S," has failed to load")})}function O(e){var r;!function(e){var r=e.src,o=e.async,d=void 0===o||o,t=e.onload,n=e.onerror,i=e.sri,a=e.scriptDataAttributes,s=void 0===a?{}:a,c=document.createElement("script"),u=document.querySelector("head"),l=document.querySelector("body");if(c.async=d,c.src=r,i&&(c.integrity=i,c.crossOrigin="anonymous"),s)for(var f in s)if(Object.prototype.hasOwnProperty.call(s,f))try{c.dataset[f]=s[f]}catch(e){}if(t&&c.addEventListener("load",t),n&&c.addEventListener("error",n),u)u.appendChild(c);else{if(!l)throw new Error("Did not find a head or body element to append the script");l.appendChild(c)}}({src:S,async:!0,onload:C,onerror:e,sri:(r=P,"string"==typeof r&&/^sha384-[A-Za-z0-9+/=]+$/.test(r)?P:""),scriptDataAttributes:f})}function U(e){return e instanceof Error?e.message:"Unknown error"}}}();wpmLoader({shopId: 57424216217,storefrontBaseUrl: "https://www.webuyitback.co.za",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://www.webuyitback.co.za/.well-known/shopify/monorail/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: ["d5bdd5d0"],webPixelsConfigList: [{"id":"1759117465","configuration":"{\"mailchimp_store_id\":\"store_cgnsvcgnwhlnkyucq4zc\", \"mailchimp_user_id\":\"96678193\",\"mailchimp_list_id\":\"e4cd2abe39\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"e357a49eadeb6216a959d63fa3fb8f55","type":"APP","apiClientId":2585307,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":[]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0501","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0501","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"WeBuyITBack Powered By Xperien","paymentSettings":{"currencyCode":"ZAR"},"myshopifyDomain":"webuyitback.myshopify.com","countryCode":"ZA","storefrontUrl":"https:\/\/www.webuyitback.co.za"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"products":[],"purchasingCompany":null},},"https://www.webuyitback.co.za/cdn","0b92dcedw658847c9p94194e39m8bc44e9f",{"modern":"","legacy":""},{"trekkieShim":true,"agentContext":true,"apiClientId":"580111","themeId":"123750056089","themeStoreId":"796","themePublished":"true","pageType":"home","shopId":"57424216217","storefrontBaseUrl":"https:\/\/www.webuyitback.co.za","extensionBaseUrl":"https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[\"d5bdd5d0\"]","isMerchantRequest":"false","hashVersion":"0b92dcedw658847c9p94194e39m8bc44e9f","publish":"custom","events":"[[\"page_viewed\",{}]]"});})();</script><script async="" src="https://www.webuyitback.co.za/cdn/wpm/b0b92dcedw658847c9p94194e39m8bc44e9fm.js" data-trekkie-shim="true" data-agent-context="true" data-api-client-id="580111" data-theme-id="123750056089" data-theme-store-id="796" data-theme-published="true" data-page-type="home" data-shop-id="57424216217" data-storefront-base-url="https://www.webuyitback.co.za" data-extension-base-url="https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager" data-surface="storefront-renderer" data-enabled-beta-flags="[&quot;d5bdd5d0&quot;]" data-is-merchant-request="false" data-hash-version="0b92dcedw658847c9p94194e39m8bc44e9f" data-publish="custom" data-events="[[&quot;page_viewed&quot;,{}]]" data-browser-target="modern"></script><script>
+  window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+  window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+  window.ShopifyAnalytics.meta.currency = 'ZAR';
+  var meta = {"page":{"pageType":"home","requestId":"1d7d9cb3-4b7c-4dcf-8e96-0e47c5aad8f3-1784903675"}};
+  for (var attr in meta) {
+    window.ShopifyAnalytics.meta[attr] = meta[attr];
+  }
+</script>
+<script class="analytics">
+  (function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    window.ShopifyAnalytics.lib.trekkie = window.trekkie;
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        if (window.__TREKKIE_SHIM_QUEUE && (method == 'track' || method == 'page')) {
+          try {
+            window.__TREKKIE_SHIM_QUEUE.push({
+              from: 'trekkie-stub',
+              method: method,
+              args: args.slice(1)
+            });
+          } catch (e) {
+            // no-op
+          }
+        }
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.onerror = function(e) {
+  var scriptFallback = document.createElement('script');
+  scriptFallback.type = 'text/javascript';
+  scriptFallback.onerror = function(error) {
+          var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 57424216217,
+      theme_id: 123750056089,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//www.webuyitback.co.za/cdn/s/trekkie.storefront.51e77662fd67e0d47c7238acfeab529dafb90214.min.js"});
+
+  };
+  scriptFallback.async = true;
+  scriptFallback.src = '//www.webuyitback.co.za/cdn/s/trekkie.storefront.51e77662fd67e0d47c7238acfeab529dafb90214.min.js';
+  first.parentNode.insertBefore(scriptFallback, first);
+};
+script.async = true;
+script.src = '//www.webuyitback.co.za/cdn/s/trekkie.storefront.51e77662fd67e0d47c7238acfeab529dafb90214.min.js';
+first.parentNode.insertBefore(script, first);
+
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":57424216217,"isMerchantRequest":null,"themeId":123750056089,"themeCityHash":"9787041600380136567","contentLanguage":"en","currency":"ZAR","eventMetadataId":"92cc58c9-ee5c-42ee-b38e-a47faec3bfc6"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["b5387b81","d5bdd5d0"]},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"home","requestId":"1d7d9cb3-4b7c-4dcf-8e96-0e47c5aad8f3-1784903675","shopifyEmitted":true});
+
+    var eventsListenerScript = document.createElement('script');
+    eventsListenerScript.async = true;
+    eventsListenerScript.src = "//www.webuyitback.co.za/cdn/shopifycloud/storefront/assets/shop_events_listener-4e26a9ce.js";
+    document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+})();</script><script async="" src="//www.webuyitback.co.za/cdn/shopifycloud/storefront/assets/shop_events_listener-4e26a9ce.js"></script>
+<script defer="" src="https://www.webuyitback.co.za/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.7.0.min.js" data-application="storefront-renderer" data-shop-id="57424216217" data-render-region="gcp-us-central1" data-page-type="index" data-theme-instance-id="123750056089" data-theme-name="Debut" data-theme-version="17.13.0" data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10" data-shs="true" data-shs-beacon="true" data-shs-export-with-fetch="true" data-shs-logs-sample-rate="1" data-shs-beacon-endpoint="https://www.webuyitback.co.za/api/collect"></script>
+<meta name="shopify-y" content="2590751c-87d8-4a23-bdca-31f88bbdabd9">
+<meta http-equiv="origin-trial" content="A1duO9QWZ/3h+eq5jQsvYqOTVq5h5q2AoGInpwNr4FT22/JUt3BxFERXHAo5iKhs6doOavi6G5hno0oBANPzSgIAAABxeyJvcmlnaW4iOiJodHRwczovL2Nkbi5zaG9waWZ5LmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJlcmVuZGVyVW50aWxTY3JpcHQiLCJleHBpcnkiOjE3ODg4MjU2MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="AwnTE1hYg9Bsa5x0wEDsbG6tOdZ3j6ebKzXxbr/2TnTilsCRK9FwndlhAyFVnnBH1qQAqpOPJxVWiKGUqBnOmAYAAAB8eyJvcmlnaW4iOiJodHRwczovL2Nkbi5zaG9waWZ5LmNvbTo0NDMiLCJmZWF0dXJlIjoiTG9uZ0FuaW1hdGlvbkZyYW1lU3R5bGVEdXJhdGlvbiIsImV4cGlyeSI6MTc5MTI0NDgwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A1cNj7yeFpBT/ETqZHRgUfM9tToLwOpBySTd4C9Eya3JtQo/BEQegM6MMV7BZESSyAjQJJXYgH/ovHY1UHmB8woAAABjeyJvcmlnaW4iOiJodHRwczovL2Nkbi5zaG9waWZ5LmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViTUNQIiwiZXhwaXJ5IjoxNzk0ODczNjAwLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1XQljJxk3U4c44gueu4vlIeDofyyWFswfVKbUiNw4itZx4Yy8Uw3nIhtzBePIrv1bSXqzHGDfYymYF5W7TKKAoAAABzeyJvcmlnaW4iOiJodHRwczovL2Nkbi5zaG9waWZ5LmNvbTo0NDMiLCJmZWF0dXJlIjoiU3BlY3VsYXRpb25NZWFzdXJlbWVudCIsImV4cGlyeSI6MTc5MzY2NDAwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script type="speculationrules">{}</script><script type="module" crossorigin="anonymous" src="https://cdn.shopify.com/storefront/webmcp/webmcp-0.0.4.js"></script><link rel="dns-prefetch preconnect" href="https://cdn.shopify.com" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/polyfills.C7jITNoQ.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/app.BiWVoIDd.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/esnext-vendor.VvTbCSr5.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/context-browser.BQ5pbcUT.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/useShopPayExternalAppContext.BAmxWsWf.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/addresses-mailing-address.LJXSuqMR.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/Title.GnqyiiMZ.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useShopPayCheckoutGqlVersion.CNwBCyaS.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/utils-shopId.CIGvFkyD.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/payment-methods-filterAvailableMethods.CFSpcITL.js" crossorigin=""><script type="module" defer="" src="https://www.webuyitback.co.za/cdn/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js"></script><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/shop-pay-normalizeBuyerDetails.CJb01pvh.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/graphql-UserPrivacySettingsSetMutation.DOn52uLX.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/utils-getCommonShopPayExternalTelemetryAttributes.Cgurrimg.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/extensions-rpc.Bp8_V4_G.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useUnauthenticatedErrorModal.Eat68jtJ.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hydrate.GMX4Ce4Q.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/locale-en.DfsC7CyG.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/OnePage.BhRvAM7X.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useWalletsTimeout.BsQLtIW0.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/MarketsProDisclaimer.BaDtCEIp.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/remember-me-hooks.BOoiYBb4.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/color-contrast-colorContrast.DTKas0vP.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useHasOrdersFromMultipleShops.x4wRTLzw.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/OffsitePaymentFailed.CFmhwgRx.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/NoAddressLocationFullDetour.CbNNl9zT.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/components-DeliveryTransition.CnJAbsoa.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useGeneralPaymentErrorMessage.CcmDjcGX.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/ChangeCompanyLocationLink.BbmW3xNQ.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useStableHostMethodsReferences.DgpVYCKM.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useSandboxTelemetry.9k2aKdsg.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/BillingAddressForm.C8wPlQNS.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/PhoneField.CiFz68lK.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useFormattedPhoneNumber.EcvIc1pY.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/EmptyState.DhUaU8rq.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/Choice.CheJVlCw.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/Checkbox.BSKRQ0_3.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-usePostPurchase.BSw-VaPR.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/Interaction-tracker.37Hs1ll3.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useCanChangeCompanyLocation.BtBQkkp8.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useForceShopPayUrl.CJPs5Pj3.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/ShopPayLogo.DUsRrUyO.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/AutocompleteField-hooks.Dv-nLgMx.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/PendingShipping.CtXohkTy.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/ImpressionEventCapture.CRQOvejG.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/StoreCreditRedemption-StoreCreditRedemptionErrorBanner.Cxe0gc2i.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/PaymentIcon.JVvG8PSQ.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/shop-cash-context.O49JnspK.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/PaymentLine.CcPLzK6f.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useShopPayProgressIntercepts.CliDLEbI.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/billing-address-hooks.Ce_46PtA.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useShowShopPayOptin.BN2fnBPh.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useUpdateCheckoutAddress.CBzxizWC.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/Section.DsfZbhB1.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/useShopPaySessionTokenStorage.gD_i7pTT.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useOnePageFormSubmit.S2Za1mN_.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/PaymentButtons.ClBxSIgl.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/utilities-shop-pay-alternative-payment-flow.ZfCBwQcf.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/shop-cash-monorail.BDv_jgPz.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-useAvailableShopPromotionDiscount.B8cms2GW.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/BillingAddressSelector.BP8krj6C.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/PaymentErrorBanner.B7JKQ70I.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/Switch.DYeTbHzJ.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/shipping-rates-progressiveShippingRatesLoading.YcO_om0B.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/ShipmentBreakdown.DRwKFENh.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/MerchandiseModal.Drsfb8sN.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/extension-targets-shipping-options.BI2G3W_a.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/EstimatedDeliveryContent.BV-wGR5x.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/ShippingMethodRateLabel.AcY6pFup.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/ShippingMethodSelector.O-zGhDkm.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/TextArea.BjH3rdj4.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/SubscriptionPriceBreakdown.DB1x0ZBq.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/hooks-usePaypalRowEffects.CaJLXiEg.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/Middot.DV7rRQKt.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/StockProblems-StockProblemsLineItemList.BHwypIMZ.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="script" href="/cdn/shopifycloud/checkout-web/assets/c1/utilities-publishMessage.kAbxUgWq.js" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/app.DzgRLp2z.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayExternalAppContext.PQOzdEj1.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/getNormalizedPaymentMethodName.DWyYIMpE.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/OnePage.RWWzwUS2.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/DeliveryTransition.BbEi6fhy.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/StoreCreditRedemptionErrorBanner.DlkKDmBG.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPaySessionTokenStorage.CqVkJv9Z.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/useOnePageFormSubmit.RkI_m_c8.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/useGeneralPaymentErrorMessage.BrcQzLuH.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayProgressIntercepts.CIy8uDiZ.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/Choice.HiYlaz_E.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/EmptyState.BEvzDDvy.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/ChangeCompanyLocationLink.uqpm88mq.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/Section.CU18S7Ap.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentLine.7870thps.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/Switch.Dq_6Ius6.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentIcon.CLVwzp6i.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/progressiveShippingRatesLoading.LcqrKXE1.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/BillingAddressForm.BdwN7V1K.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/PhoneField.DN6CUyst.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/Middot.D7Ujmshx.css" crossorigin=""><link rel="prefetch" fetchpriority="low" as="style" href="/cdn/shopifycloud/checkout-web/assets/c1/assets/MerchandiseModal.D6OuIVjc.css" crossorigin=""></head><body class="template-index">
+
+  <a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a><style data-shopify="">
+
+  .cart-popup {
+    box-shadow: 1px 1px 10px 2px rgba(235, 235, 235, 0.5);
+  }</style><div class="cart-popup-wrapper cart-popup-wrapper--hidden critical-hidden" role="dialog" aria-modal="true" aria-labelledby="CartPopupHeading" data-cart-popup-wrapper="">
+  <div class="cart-popup" data-cart-popup="" tabindex="-1">
+    <div class="cart-popup__header">
+      <h2 id="CartPopupHeading" class="cart-popup__heading">Just added to your cart</h2>
+      <button class="cart-popup__close" aria-label="Close" data-cart-popup-close=""><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"></path></svg></button>
+    </div>
+    <div class="cart-popup-item">
+      <div class="cart-popup-item__image-wrapper hide" data-cart-popup-image-wrapper="" data-image-loading-animation=""></div>
+      <div class="cart-popup-item__description">
+        <div>
+          <h3 class="cart-popup-item__title" data-cart-popup-title=""></h3>
+          <ul class="product-details" aria-label="Product details" data-cart-popup-product-details=""></ul>
+        </div>
+        <div class="cart-popup-item__quantity">
+          <span class="visually-hidden" data-cart-popup-quantity-label=""></span>
+          <span aria-hidden="true">Qty:</span>
+          <span aria-hidden="true" data-cart-popup-quantity=""></span>
+        </div>
+      </div>
+    </div>
+
+    <a href="/cart" class="cart-popup__cta-link btn btn--secondary-accent">
+      View cart (<span data-cart-popup-cart-quantity=""></span>)
+    </a>
+
+    <div class="cart-popup__dismiss">
+      <button class="cart-popup__dismiss-button text-link text-link--accent" data-cart-popup-dismiss="">
+        Continue shopping
+      </button>
+    </div>
+  </div>
+</div>
+
+<div id="shopify-section-header" class="shopify-section">
+
+<div id="SearchDrawer" class="search-bar drawer drawer--top critical-hidden" role="dialog" aria-modal="true" aria-label="Search" data-predictive-search-drawer="">
+  <div class="search-bar__interior">
+    <div class="search-form__container" data-search-form-container="">
+      <form class="search-form search-bar__form" action="/search" method="get" role="search">
+        <div class="search-form__input-wrapper">
+          <input type="text" name="q" placeholder="Search" role="combobox" aria-autocomplete="list" aria-owns="predictive-search-results" aria-expanded="false" aria-label="Search" aria-haspopup="listbox" class="search-form__input search-bar__input" data-predictive-search-drawer-input="" data-base-url="/search" autocorrect="off" autocomplete="off" autocapitalize="off" spellcheck="false">
+          <input type="hidden" name="options[prefix]" value="last" aria-hidden="true">
+          <div class="predictive-search-wrapper predictive-search-wrapper--drawer" data-predictive-search-mount="drawer"></div>
+        <div style="position: absolute !important; overflow: hidden; clip: rect(0 0 0 0); height: 1px; width: 1px; margin: -1px; padding: 0; border: 0;" data-search-announcer="" aria-live="polite" aria-atomic="true"></div></div>
+
+        <button class="search-bar__submit search-form__submit" type="submit" data-search-form-submit="">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+          <span class="icon__fallback-text">Submit</span>
+        </button>
+      </form>
+
+      <div class="search-bar__actions">
+        <button type="button" class="btn--link search-bar__close js-drawer-close">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"></path></svg>
+          <span class="icon__fallback-text">Close search</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div data-section-id="header" data-section-type="header-section" data-header-section="">
+  
+
+  <header class="site-header border-bottom logo--left" role="banner">  
+    <div class="grid grid--no-gutters grid--table site-header__mobile-nav">
+      
+      
+<div class="page-width">
+      <div class="grid__item medium-up--one-half logo-align--left">
+        
+        
+          <h1 class="h2 site-header__logo">
+        
+          
+<a href="/" class="site-header__logo-image">
+              
+              <img class="js lazyautosizes lazyloaded" src="//www.webuyitback.co.za/cdn/shop/files/Logo_300x300.png?v=1779697329" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="3.5073529411764706" data-sizes="auto" alt="WeBuyITBack Powered By Xperien" style="max-width: 160px" data-srcset="//www.webuyitback.co.za/cdn/shop/files/Logo_180x.png?v=1779697329 180w, //www.webuyitback.co.za/cdn/shop/files/Logo_360x.png?v=1779697329 360w, //www.webuyitback.co.za/cdn/shop/files/Logo_540x.png?v=1779697329 540w, //www.webuyitback.co.za/cdn/shop/files/Logo_720x.png?v=1779697329 720w, //www.webuyitback.co.za/cdn/shop/files/Logo_900x.png?v=1779697329 900w, //www.webuyitback.co.za/cdn/shop/files/Logo_1080x.png?v=1779697329 1080w, //www.webuyitback.co.za/cdn/shop/files/Logo_1296x.png?v=1779697329 1296w, //www.webuyitback.co.za/cdn/shop/files/Logo_1512x.png?v=1779697329 1512w, //www.webuyitback.co.za/cdn/shop/files/Logo_1728x.png?v=1779697329 1728w, //www.webuyitback.co.za/cdn/shop/files/Logo_2048x.png?v=1779697329 2048w" sizes="160px" srcset="//www.webuyitback.co.za/cdn/shop/files/Logo_180x.png?v=1779697329 180w, //www.webuyitback.co.za/cdn/shop/files/Logo_360x.png?v=1779697329 360w, //www.webuyitback.co.za/cdn/shop/files/Logo_540x.png?v=1779697329 540w, //www.webuyitback.co.za/cdn/shop/files/Logo_720x.png?v=1779697329 720w, //www.webuyitback.co.za/cdn/shop/files/Logo_900x.png?v=1779697329 900w, //www.webuyitback.co.za/cdn/shop/files/Logo_1080x.png?v=1779697329 1080w, //www.webuyitback.co.za/cdn/shop/files/Logo_1296x.png?v=1779697329 1296w, //www.webuyitback.co.za/cdn/shop/files/Logo_1512x.png?v=1779697329 1512w, //www.webuyitback.co.za/cdn/shop/files/Logo_1728x.png?v=1779697329 1728w, //www.webuyitback.co.za/cdn/shop/files/Logo_2048x.png?v=1779697329 2048w">
+              <noscript>
+                
+                <img src="//www.webuyitback.co.za/cdn/shop/files/Logo_160x.png?v=1779697329"
+                     srcset="//www.webuyitback.co.za/cdn/shop/files/Logo_160x.png?v=1779697329 1x, //www.webuyitback.co.za/cdn/shop/files/Logo_160x@2x.png?v=1779697329 2x"
+                     alt="WeBuyITBack Powered By Xperien"
+                     style="max-width: 160px;">
+              </noscript>
+            </a>
+          
+        
+          </h1>
+        
+        
+      </div>
+      
+      
+<!-- 
+      
+        <nav class="grid__item medium-up--one-half small--hide" id="AccessibleNav" role="navigation">
+          
+<ul class="site-nav list--inline" id="SiteNav">
+  
+
+
+
+    
+      <li  class="site-nav--active">
+        <a href="/"
+          class="site-nav__link site-nav__link--main site-nav__link--active"
+           aria-current="page"
+        >
+          <span class="site-nav__label">Home</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/pages/about"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">About</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/collections/all"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">Store</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/pages/faq"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">FAQ</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/pages/partners"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">Partners</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/pages/contact-us"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">Contact Us</span>
+        </a>
+      </li>
+    
+  
+</ul>
+
+        </nav>
+       -->
+      
+<!--       <div class=" small--hide grid__item medium-up--two-quarters "> -->
+  <div class=" small--hide grid__item medium-up--one-half">
+      <div class="site-header__icons-wrapper">
+          <div class="site-header__icon search_bar_header">
+             <form class="search-form search-bar__form" action="/search" method="get" role="search">
+               <div class="sv_search_wrap">
+                 <select class="sv_search_product false" name="term">
+                   <option value="">All Categories</option>
+                   <optgroup class="sv-advance-search" label="All Categories">
+                   <option value="desktops">Desktops</option>
+                   <option value="laptops">Laptops</option>
+                   <option value="our-products">Our Products</option>
+                   <option value="uncategorized">Uncategorized</option>
+                   </optgroup>
+                 </select>
+               </div>
+						 
+                <div class="search-form__input-wrapper">
+                  <input type="text" name="q" placeholder="Search entire store here" role="combobox" aria-autocomplete="list" aria-owns="predictive-search-results" aria-expanded="false" aria-label="Search" aria-haspopup="listbox" class="search-form__input search-bar__input" data-predictive-search-drawer-input="" data-base-url="/search">
+                  <input type="hidden" name="options[prefix]" value="last" aria-hidden="true">
+                  <div class="predictive-search-wrapper predictive-search-wrapper--drawer" data-predictive-search-mount="drawer"></div>
+                </div>
+
+                <button class="search-bar__submit search-form__submit" type="submit" data-search-form-submit="">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+                  <span class="icon__fallback-text">Submit</span>
+                </button>
+              </form>
+          </div> 
+        </div>
+      </div>
+      
+      
+      
+      </div>
+      
+      
+      
+      <div class="grid__item medium-up--one-quarter text-right site-header__icons site-header__icons--plus medium-up--hide">
+        <div class="site-header__icons-wrapper">
+          <button type="button" class="medium-up--hide  btn--link site-header__icon site-header__search-toggle js-drawer-open-top" data-predictive-search-open-drawer="" aria-controls="dialog" aria-expanded="false">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg><span class="small--hide "> Search</span>
+            <span class="icon__fallback-text">Search</span>
+          </button>
+
+          
+            
+              <a href="https://www.webuyitback.co.za/customer_authentication/redirect?locale=en&amp;region_country=CA" class="site-header__icon site-header__account">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-login" viewBox="0 0 28.33 37.68"><path d="M14.17 14.9a7.45 7.45 0 1 0-7.5-7.45 7.46 7.46 0 0 0 7.5 7.45zm0-10.91a3.45 3.45 0 1 1-3.5 3.46A3.46 3.46 0 0 1 14.17 4zM14.17 16.47A14.18 14.18 0 0 0 0 30.68c0 1.41.66 4 5.11 5.66a27.17 27.17 0 0 0 9.06 1.34c6.54 0 14.17-1.84 14.17-7a14.18 14.18 0 0 0-14.17-14.21zm0 17.21c-6.3 0-10.17-1.77-10.17-3a10.17 10.17 0 1 1 20.33 0c.01 1.23-3.86 3-10.16 3z"></path></svg><span class="small--hide "> Account</span>
+                <span class="icon__fallback-text">Log in</span>
+              </a>
+            
+          
+
+          <a href="/cart" class="site-header__icon site-header__cart">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart" viewBox="0 0 37 40"><path d="M36.5 34.8L33.3 8h-5.9C26.7 3.9 23 .8 18.5.8S10.3 3.9 9.6 8H3.7L.5 34.8c-.2 1.5.4 2.4.9 3 .5.5 1.4 1.2 3.1 1.2h28c1.3 0 2.4-.4 3.1-1.3.7-.7 1-1.8.9-2.9zm-18-30c2.2 0 4.1 1.4 4.7 3.2h-9.5c.7-1.9 2.6-3.2 4.8-3.2zM4.5 35l2.8-23h2.2v3c0 1.1.9 2 2 2s2-.9 2-2v-3h10v3c0 1.1.9 2 2 2s2-.9 2-2v-3h2.2l2.8 23h-28z"></path></svg><span class="small--hide ">Cart</span>
+            <span class="icon__fallback-text">Cart</span>
+            <div id="CartCount" class="site-header__cart-count hide critical-hidden" data-cart-count-bubble="">
+              <span data-cart-count="">0</span>
+              <span class="icon__fallback-text medium-up--hide">items</span>
+            </div>
+          </a>
+
+          
+            <button type="button" class="btn--link site-header__icon site-header__menu js-mobile-nav-toggle mobile-nav--open" aria-controls="MobileNav" aria-expanded="false" aria-label="Menu">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" viewBox="0 0 37 40"><path d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z"></path></svg>
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"></path></svg>
+            </button>
+          
+        </div>
+
+      </div>
+    
+
+      
+        <nav class="grid__item medium-up--one-whole small--hide" id="AccessibleNav" role="navigation">
+          
+<ul class="site-nav list--inline" id="SiteNav">
+  
+
+
+
+    
+      <li class="site-nav--active">
+        <a href="/" class="site-nav__link site-nav__link--main site-nav__link--active" aria-current="page">
+          <span class="site-nav__label">Home</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/pages/about" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">About</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/all" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Store</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/pages/faq" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">FAQ</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/pages/partners" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Partners</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/pages/contact-us" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Contact Us</span>
+        </a>
+      </li>
+    
+  
+</ul>
+
+        </nav>
+     
+    
+    <nav class="mobile-nav-wrapper medium-up--hide critical-hidden" role="navigation">
+      <ul id="MobileNav" class="mobile-nav">
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/" class="mobile-nav__link mobile-nav__link--active" aria-current="page">
+                <span class="mobile-nav__label">Home</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/pages/about" class="mobile-nav__link">
+                <span class="mobile-nav__label">About</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/all" class="mobile-nav__link">
+                <span class="mobile-nav__label">Store</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/pages/faq" class="mobile-nav__link">
+                <span class="mobile-nav__label">FAQ</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/pages/partners" class="mobile-nav__link">
+                <span class="mobile-nav__label">Partners</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item">
+            
+              <a href="/pages/contact-us" class="mobile-nav__link">
+                <span class="mobile-nav__label">Contact Us</span>
+              </a>
+            
+          </li>
+        
+      </ul>
+    </nav>
+    </div>
+    
+    
+  </header>
+
+  
+</div>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "WeBuyITBack Powered By Xperien",
+  
+    
+    "logo": "https:\/\/www.webuyitback.co.za\/cdn\/shop\/files\/Logo_954x.png?v=1779697329",
+  
+  "sameAs": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "url": "https:\/\/www.webuyitback.co.za"
+}
+</script>
+
+
+  
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "WeBuyITBack Powered By Xperien",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/www.webuyitback.co.za\/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "url": "https:\/\/www.webuyitback.co.za"
+    }
+  </script>
+
+
+
+</div>
+
+  <div class="page-container drawer-page-content" id="PageContainer">
+
+    <main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1">
+      <!-- BEGIN content_for_index --><div id="shopify-section-16250272072f750d2c" class="shopify-section">	<div class="main">
+      <div class="outer slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1600px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 1600px;"><div><div class="image" style="width: 100%; display: inline-block;">
+        <div class="inner">
+        <h2 class="sliderheading"></h2>
+        <p class="sliderparagraph"></p>
+        </div>
+        <img src="//www.webuyitback.co.za/cdn/shop/files/open-laptop-and-cell-phone-on-table_1024x1024.jpg?v=1779717029">
+      </div></div></div></div></div></div>
+  </div>
+
+
+ </div><div id="shopify-section-162503722074fdcc68" class="shopify-section"><div class="page-width">
+  <div class="grid">
+    <div class="grid__item medium-up--one-half">
+      <div class="image1">
+		<img src="//www.webuyitback.co.za/cdn/shop/files/how_you_can_help_fbfa4acb-6955-4eec-abd7-cf42c40104c2_1024x1024.jpg?v=1779696309">
+      </div>
+      <div class="section-header text-center">
+      	<h2 class="imagetext"></h2>
+      </div>
+    </div>
+    <div class="grid__item medium-up--one-half">
+      <div class="image2">
+    	<img src="//www.webuyitback.co.za/cdn/shop/files/flow_1024x1024.png?v=1779696360">
+      </div>
+      <div class="section-header text-center">
+          <h2 class="imagetext"></h2>
+        </div>
+      </div>
+  </div>
+</div>
+
+
+</div><div id="shopify-section-162504011101e7a4ee" class="shopify-section index-section index-section--flush"><div data-section-id="162504011101e7a4ee" data-section-type="hero-section"><div class="hero hero--x-small hero-162504011101e7a4ee hero__overlay box ratio-container js lazyloaded" id="Hero-162504011101e7a4ee" data-layout="full_width" data-bg="//www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_300x300.jpg?v=1779695809" data-bgset="//www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_180x.jpg?v=1779695809 180w 120h,
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_360x.jpg?v=1779695809 360w 240h,
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_540x.jpg?v=1779695809 540w 360h,
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_720x.jpg?v=1779695809 720w 481h,
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_900x.jpg?v=1779695809 900w 601h,
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1080x.jpg?v=1779695809 1080w 721h,
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1296x.jpg?v=1779695809 1296w 865h,
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1512x.jpg?v=1779695809 1512w 1009h,
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1728x.jpg?v=1779695809 1728w 1153h,
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1950x.jpg?v=1779695809 1950w 1301h,
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_2100x.jpg?v=1779695809 2100w 1402h,
+    
+    
+    
+    
+    
+    
+    
+    //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest.jpg?v=1779695809 2240w 1495h" data-parent-fit="cover" style="background-position: center center; background-image: url(&quot;https://www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1728x.jpg?v=1779695809&quot;);" alt="" src="//www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_300x300.jpg?v=1779695809"><div class="hero__inner">
+        <div class="page-width text-center"><h2 class="h1 mega-title">FIND OUT ALL THE PRODUCTS WE OFFER</h2><a href="#" class="btn hero__btn" aria-label="Visit Our Store">Visit Our Store</a></div>
+      </div>
+    <picture style="display: none;"><source data-srcset="//www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_180x.jpg?v=1779695809 180w 120h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_360x.jpg?v=1779695809 360w 240h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_540x.jpg?v=1779695809 540w 360h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_720x.jpg?v=1779695809 720w 481h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_900x.jpg?v=1779695809 900w 601h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1080x.jpg?v=1779695809 1080w 721h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1296x.jpg?v=1779695809 1296w 865h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1512x.jpg?v=1779695809 1512w 1009h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1728x.jpg?v=1779695809 1728w 1153h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1950x.jpg?v=1779695809 1950w 1301h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_2100x.jpg?v=1779695809 2100w 1402h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest.jpg?v=1779695809 2240w 1495h" sizes="1600px" srcset="//www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_180x.jpg?v=1779695809 180w 120h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_360x.jpg?v=1779695809 360w 240h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_540x.jpg?v=1779695809 540w 360h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_720x.jpg?v=1779695809 720w 481h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_900x.jpg?v=1779695809 900w 601h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1080x.jpg?v=1779695809 1080w 721h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1296x.jpg?v=1779695809 1296w 865h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1512x.jpg?v=1779695809 1512w 1009h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1728x.jpg?v=1779695809 1728w 1153h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_1950x.jpg?v=1779695809 1950w 1301h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_2100x.jpg?v=1779695809 2100w 1402h, //www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest.jpg?v=1779695809 2240w 1495h"><img alt="" class="lazyautosizes lazyloaded ls-is-cached" data-sizes="auto" data-parent-fit="cover" sizes="1600px"></picture></div>
+    <noscript>
+      <div class="hero hero--x-small hero__overlay" style="background-image: url('//www.webuyitback.co.za/cdn/shop/files/thick-lush-green-forest_2048x.jpg?v=1779695809'); background-position: center center;"></div>
+    </noscript></div>
+
+
+</div><!-- END content_for_index -->
+
+    </main>
+
+    <div id="shopify-section-footer" class="shopify-section">
+<style>
+  .site-footer__hr {
+    border-bottom: 1px solid #e6e6e6;
+  }
+
+  .site-footer p,
+  .site-footer__linklist-item a,
+  .site-footer__rte a,
+  .site-footer h4,
+  .site-footer small,
+  .site-footer__copyright-content a,
+  .site-footer__newsletter-error,
+  .site-footer__social-icons .social-icons__link {
+    color: #000000;
+  }
+
+  .site-footer {
+    color: #000000;
+    background-color: #ffffff;
+  }
+
+  .site-footer__rte a {
+    border-bottom: 1px solid #000000;
+  }
+
+  .site-footer__rte a:hover,
+  .site-footer__linklist-item a:hover,
+  .site-footer__copyright-content a:hover {
+    color: #404040;
+    border-bottom: 1px solid #404040;
+  }
+
+  .site-footer__social-icons .social-icons__link:hover {
+    color: #404040;
+  }
+</style><footer class="site-footer critical-hidden" role="contentinfo" data-section-id="footer" data-section-type="footer-section">
+  <div class="page-width">
+    <div class="site-footer__content">
+      <div class="footerlogo">
+        <a href="/"><img src="//www.webuyitback.co.za/cdn/shop/files/Logo_e38c5431-8010-475c-a8cc-3545e0fdc61a_1024x1024.png?v=1779697464"></a>
+      </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    ">
+          <div class="site-footer__item-inner site-footer__item-inner--link_list"><p class="h4">FIND FAST</p><ul class="site-footer__linklist
+                            "><li class="site-footer__linklist-item">
+                        <a href="/" aria-current="page">
+                          Home
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/about">
+                          About
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/collections/all">
+                          Store
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/faq">
+                          FAQ
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/partners">
+                          Partners
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/contact-us">
+                          Contact Us
+                        </a>
+                      </li></ul></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    ">
+          <div class="site-footer__item-inner site-footer__item-inner--link_list"><p class="h4">INFORMATION</p><ul class="site-footer__linklist
+                            "><li class="site-footer__linklist-item">
+                        <a href="/pages/help-form">
+                          Help
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/privacy-policy">
+                          Privacy Policy
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/return-requests">
+                          Return Requests
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/terms-conditions">
+                          Terms &amp; Conditions
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/delivery-policy">
+                          Delivery Policy
+                        </a>
+                      </li></ul></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    ">
+          <div class="site-footer__item-inner site-footer__item-inner--text"><p class="h4">CONTACT US</p><div class="site-footer__rte
+                              ">
+                      <p><strong>Address:</strong><br>456 Granite Drive,<br>Kya Sands Business Park ,<br>Kya Sands, Randburg<br></p><p><strong>Telephone:</strong>&nbsp;0861 973 743<br><strong>Operating Hours:</strong>&nbsp;Mon – Fri 8am – 5pm</p><p></p>
+                  </div></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    ">
+          <div class="site-footer__item-inner site-footer__item-inner--newsletter"><p class="h4">Newsletter</p><div class="site-footer__newsletter
+                          "><form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="contact-form" novalidate="novalidate"><input type="hidden" name="form_type" value="customer"><input type="hidden" name="utf8" value="✓">
+<input type="hidden" name="contact[tags]" value="newsletter">
+                    <div class="input-group ">
+                      <input type="email" name="contact[email]" id="ContactFooter-email" class="input-group__field newsletter__input" value="" placeholder="Email address" aria-label="Email address" aria-required="true" required="" autocorrect="off" autocapitalize="off">
+                      <span class="input-group__btn">
+                        <button type="submit" class="btn newsletter__submit" name="commit">
+                          <span class="newsletter__submit-text--large">Subscribe</span>
+                        </button>
+                      </span>
+                    </div>
+                    
+                  </form>
+                </div></div>
+        </div></div>
+  </div>
+
+<!--   <hr class="site-footer__hr"> --><div class="page-width">
+    <div class="grid grid--no-gutters small--text-center grid--footer-float-right"><div class="grid__item small--hide one-half "></div><div class="grid__item  small--one-whole site-footer-item-tall"><div class="small--hide site-footer-item-align-right ">
+            <small class="site-footer__copyright-content">© 2026, <a href="/" title="">WeBuyITBack Powered By Xperien</a></small>
+            <small class="site-footer__copyright-content site-footer__copyright-content-powered-by"><a target="_blank" rel="nofollow noopener" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore" aria-describedby="a11y-new-window-external-message">Powered by Shopify</a></small>
+          </div></div><div class="grid__item medium-up--hide one-half small--one-whole"></div><div class="grid__item small--one-whole medium-up--hide site-footer-item-align-right">
+        <small class="site-footer__copyright-content">© 2026, <a href="/" title="">WeBuyITBack Powered By Xperien</a></small>
+        <small class="site-footer__copyright-content site-footer__copyright-content--powered-by"><a target="_blank" rel="nofollow noopener" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore" aria-describedby="a11y-new-window-external-message">Powered by Shopify</a></small>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</div>
+
+    <div id="slideshow-info" class="visually-hidden" aria-hidden="true">Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device</div>
+
+  </div>
+
+  <script type="application/json" data-cart-routes="">
+    {
+      "cartUrl": "/cart",
+      "cartAddUrl": "/cart/add",
+      "cartChangeUrl": "/cart/change"
+    }
+  </script>
+
+  <ul hidden="">
+    <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+    <li id="a11y-selection-message">Press the space key then arrow keys to make a selection.</li>
+  </ul>
+      
+    
+
+    
+    
+
+    <a id="BackToTop" href="#" title="Back to the top" class="back-to-top hide">
+    <i class="fa fa-angle-up"></i> 
+    </a>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+    <style>
+    .back-to-top {
+      bottom: 15px;
+    right: 15px;
+    background: rgba(0,0,0,0.4);
+    color: #fff;
+    text-align: center;
+    height: 45px;
+    width: 50px;
+    display: block;
+    line-height: 41px;
+    font-size: 36px;
+    position: fixed;
+    z-index: 999999;
+    border-radius: 3px;
+      
+    text-decoration: none;
+    -webkit-border-top-left-radius: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    -moz-border-radius-topleft: 3px;
+    -moz-border-radius-bottomleft: 3px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    }
+    .back-to-top i {
+    vertical-align: middle;
+    }
+    .back-to-top span {
+    padding-left: 0.5em;
+    }
+    .back-to-top i + span {
+    padding-left: 0;
+    }
+    .back-to-top:hover {
+    text-decoration: none;
+    color: #555;
+    }
+    .hide {
+    display: none!important;
+    }
+    </style>
+    <script>
+    (function() {
+    function trackScroll() {
+        var scrolled = window.pageYOffset;
+        var coords = 300;
+
+        if (scrolled > coords) {
+        goTopBtn.classList.remove('hide');
+        }
+        if (scrolled < coords) {
+        goTopBtn.classList.add('hide');
+        }
+    }
+
+    function backToTop() {
+        if (window.pageYOffset > 0) {
+        window.scrollBy(0, -80);
+        setTimeout(backToTop, 0);
+        }
+    }
+
+    var goTopBtn = document.querySelector('.back-to-top');
+
+    window.addEventListener('scroll', trackScroll);
+    goTopBtn.addEventListener('click', backToTop);
+    })();
+    </script>
+
+<script src="https://cdn.shopify.com/storefront/standard-actions.js" type="module" data-source-attribution="shopify.standard_actions"></script>
+
+
+<div tabindex="-1" aria-hidden="true" id="web-pixels-manager-sandbox-container" data-shopify-privacy="exclude" style="height: 0px !important; width: 0px !important; position: fixed !important; visibility: hidden !important; overflow: hidden !important; z-index: -100 !important; margin: 0px !important; padding: 0px !important; border: 0px !important;"><iframe tabindex="-1" aria-hidden="true" name="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-0b92dcedw658847c9p94194e39m8bc44e9f" src="https://www.webuyitback.co.za/web-pixels@0b92dcedw658847c9p94194e39m8bc44e9f/custom/web-pixel-shopify-custom-pixel@0501/sandbox/modern/" id="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-0b92dcedw658847c9p94194e39m8bc44e9f" sandbox="allow-scripts allow-forms" style="height: 0px !important; width: 0px !important; visibility: hidden !important;"></iframe></div><ul hidden="true"><li id="a11y-new-window-message">Opens in a new window.</li><li id="a11y-external-message">Opens external website.</li><li id="a11y-new-window-external-message">Opens external website in a new window.</li></ul><shop-cart-sync experiments="{&quot;f_574743f4a4e7d67652abf981a0b686df&quot;:true}" data-instance-id="426f3c71-23dd-46c0-9b46-ba6d33ad6240"></shop-cart-sync><script type="module">import pixel from "https://mcjs.prd.a.intuit.com/assets/pixel-reporting-sdk/1.22.0/pixel-reporting-sdk.js";window.$mcSite.pixel.api = pixel;</script></body>

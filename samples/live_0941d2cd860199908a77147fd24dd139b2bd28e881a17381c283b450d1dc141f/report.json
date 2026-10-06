@@ -1,0 +1,147 @@
+{
+  "candidate_id": "live_0941d2cd860199908a77147fd24dd139b2bd28e881a17381c283b450d1dc141f",
+  "candidate_sha256": "223bcb049cceb0942666499ed6f0cec32f448a89156ea9c2aed6083ac49b5c9a",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://organisedplay.com/diddy",
+  "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+  "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+  "source_urls": [
+    "http://organisedplay.com/diddy"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 86822,
+      "source_url": "http://organisedplay.com/diddy",
+      "source_hostname": "organisedplay.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 44485,
+      "elapsed_ms": 989,
+      "checked_at": "2026-10-05T13:16:01.863637+00:00",
+      "error": null,
+      "normalized_source_url": "http://organisedplay.com/diddy",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_0941d2cd860199908a77147fd24dd139b2bd28e881a17381c283b450d1dc141f",
+    "representative_source_index": 86822,
+    "representative_source_url": "http://organisedplay.com/diddy",
+    "representative_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+    "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+    "source_hostname": "organisedplay.com",
+    "final_hostname": "www.hugedomains.com",
+    "source_urls": [
+      "http://organisedplay.com/diddy"
+    ],
+    "provenance": [
+      {
+        "source_index": 86822,
+        "source_url": "http://organisedplay.com/diddy",
+        "source_hostname": "organisedplay.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 44485,
+        "elapsed_ms": 989,
+        "checked_at": "2026-10-05T13:16:01.863637+00:00",
+        "error": null,
+        "normalized_source_url": "http://organisedplay.com/diddy",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "timeout",
+  "capture_status": "partial",
+  "technical_complete": true,
+  "title": "OrganisedPlay.com is for sale | HugeDomains",
+  "capture_timestamp": "2026-10-05T14:34:37.162243+00:00",
+  "dom_chars": 41065,
+  "screenshot_bytes": 91253,
+  "dom_sha256": "1d55c00600cd3cf50be7cd827dc2e0bd6e5bebc6ee94f8dcb44223c6906c03d2",
+  "screenshot_sha256": "c29916d2de5cac19c2239916ea904e89140f6765642416dd6766966a9895ccb8",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_parking_page"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+    "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": "Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.hugedomains.com/domain_profile.cfm?d=organisedplay.com\", waiting until \"domcontentloaded\"\n",
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 16672
+}

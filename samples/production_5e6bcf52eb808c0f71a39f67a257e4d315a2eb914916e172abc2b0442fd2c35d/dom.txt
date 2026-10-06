@@ -1,0 +1,259 @@
+<head><title>Redirecting...</title></head><body>
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore topic categories and find resources across Automotive, Finance, Health, Shopping, Travel, and more.">
+    <title>Category Search</title>
+    <link href="favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    <style>
+        /* ===== LIGHT THEME BASELINE (Style 1) ===== no box behind buttons */
+
+        body {
+            margin: 0;
+            font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            background-color: #ffffff; /* white */
+        }
+        .main {
+            flex: 1;
+        }
+        header {
+            /* color: #fff; */
+            text-align: center;
+        }
+        .banner {
+            /* Top banner: from bright green/pink -> subtle grey */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #e5e7eb; /* Light grey background */
+            padding: 10px;
+        }
+        .banner a {
+            color: #111827;; /* Dark text for contrast */
+            text-decoration: none;
+            font-size: 1.2rem;
+        }
+        .domain {
+            /* padding: 5px 10px 5px 10px; */
+            overflow: hidden;
+            text-align: center;
+        }
+        h1 {
+            font-size: 1.5rem;
+            color: #111827;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 100%;
+        }
+        .content {
+            display: flex;
+            justify-content: center;
+            padding: 0px 20px 20px;
+            /* REMOVE flex: 1 */
+        }
+        .category-box {
+            background-color: transparent;
+            border-radius: 12px;
+            box-shadow: none;
+            padding: 30px;
+            max-width: 1000px;
+            width: 100%;
+            border: none;
+        }
+        .category-box h2 {
+            margin-bottom: 20px;
+            font-size: 24px;
+            text-align: center;
+            color: #333;
+        }
+        .link-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+        }
+        .link-item a {
+            /* Buttons / category links: clean neutral */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 12px;
+            background-color: #ffffff;
+            border: 1px solid #d1d5db;
+            border-radius: 20px;
+            text-decoration: none;
+            color: #111827;
+            transition: background-color 0.2s;
+        }
+
+        .link-item a:hover {
+            background-color: #34D399; /* green teal */
+        }
+        .arrow {
+            width: 16px;
+            height: 16px;
+            stroke: currentColor;
+            fill: none;
+        }
+        @media (max-width: 768px) {
+            .link-grid {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+        }
+
+        /* Footer: readable on white */
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #ffffff;
+            font-size: 14px;
+            color: #111827;
+            border-top: 1px solid #e5e7eb;
+        }
+        footer a {
+            color: #111827;
+            text-decoration: none;
+            font-size: 10px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+    
+
+        <script>
+        (function() {
+            let isHuman = false;
+            const activateElements = () => {
+                if (isHuman) return;
+                isHuman = true;
+
+                // Activate protected links
+                const links = document.querySelectorAll('.protected-link');
+                links.forEach(link => {
+                    const realURL = link.getAttribute('data-link');
+                    if (realURL) {
+                        link.setAttribute('href', realURL);
+                        link.removeAttribute('data-link');
+                    }
+                });
+
+                // Activate protected forms
+                const forms = document.querySelectorAll('.protected-form');
+                forms.forEach(form => {
+                    const realAction = form.getAttribute('data-action');
+                    if (realAction) {
+                        form.setAttribute('action', realAction);
+                        form.removeAttribute('data-action');
+                    }
+                });
+
+                document.removeEventListener('mousemove', activateElements);
+                document.removeEventListener('touchstart', activateElements);
+                document.removeEventListener('scroll', activateElements);
+            };
+
+            document.addEventListener('mousemove', activateElements);
+            document.addEventListener('touchstart', activateElements);
+            document.addEventListener('scroll', activateElements);
+
+            document.addEventListener('click', function(e) {
+                if (e.target.classList.contains('protected-link') && !isHuman) {
+                    e.preventDefault();
+                    console.log("Interaction blocked: Human verification required.");
+                }
+            });
+
+            document.addEventListener('submit', function(e) {
+                if (e.target.classList.contains('protected-form') && !isHuman) {
+                    e.preventDefault();
+                    console.log("Form submission blocked: Human verification required.");
+                }
+            });
+        })();
+    </script>
+    <div id="plBanner">
+    <script id="parklogic" type="text/javascript" src="https://parking3.parklogic.com/page/enhance.js?pcId=53&amp;domain=bithumb.icu"></script>
+</div>
+<div class="domain" id="domainname" style="margin: 15px">
+    <h1 class="blink" title="bithumb.icu">bithumb.icu</h1>
+</div>
+
+<div class="search">
+    </div>
+
+<div class="main">
+    <div class="content">
+                    <div class="category-box">
+    <div class="link-grid">
+                                <div class="link-item">
+                                <a href="/go/Family%20and%20Relationships/?a=2143526812&amp;d=bithumb.icu&amp;s=57c1000f08755d8da48d461a3d1ecff0709d3a83028c3a2665910fe9e6d3e4f0&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Family+and+Relationships&amp;ccId=186" class="protected-link" target="_blank">
+                                    Familie und Beziehungen <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Hobbies%20%26%20Interests/?a=2143526812&amp;d=bithumb.icu&amp;s=57c1000f08755d8da48d461a3d1ecff0709d3a83028c3a2665910fe9e6d3e4f0&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Hobbies+%26+Interests&amp;ccId=239" class="protected-link" target="_blank">
+                                    Hobbys und Interessen <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Automotive/?a=2143526812&amp;d=bithumb.icu&amp;s=57c1000f08755d8da48d461a3d1ecff0709d3a83028c3a2665910fe9e6d3e4f0&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Automotive&amp;ccId=1" class="protected-link" target="_blank">
+                                    Automobil <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Movies/?a=2143526812&amp;d=bithumb.icu&amp;s=57c1000f08755d8da48d461a3d1ecff0709d3a83028c3a2665910fe9e6d3e4f0&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Movies&amp;ccId=324" class="protected-link" target="_blank">
+                                    Filme <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Real%20Estate/?a=2143526812&amp;d=bithumb.icu&amp;s=57c1000f08755d8da48d461a3d1ecff0709d3a83028c3a2665910fe9e6d3e4f0&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Real+Estate&amp;ccId=441" class="protected-link" target="_blank">
+                                    Immobilien <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Personal%20Finance/?a=2143526812&amp;d=bithumb.icu&amp;s=57c1000f08755d8da48d461a3d1ecff0709d3a83028c3a2665910fe9e6d3e4f0&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Personal+Finance&amp;ccId=391" class="protected-link" target="_blank">
+                                    Persönliche Finanzen <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Television/?a=2143526812&amp;d=bithumb.icu&amp;s=57c1000f08755d8da48d461a3d1ecff0709d3a83028c3a2665910fe9e6d3e4f0&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Television&amp;ccId=640" class="protected-link" target="_blank">
+                                    Television <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Books%20and%20Literature/?a=2143526812&amp;d=bithumb.icu&amp;s=57c1000f08755d8da48d461a3d1ecff0709d3a83028c3a2665910fe9e6d3e4f0&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Books+and+Literature&amp;ccId=42" class="protected-link" target="_blank">
+                                    Bücher und Literatur <div class="triangle-right"></div>
+                </a>
+            </div>
+                                <div class="link-item">
+                                <a href="/go/Communication/?a=2143526812&amp;d=bithumb.icu&amp;s=57c1000f08755d8da48d461a3d1ecff0709d3a83028c3a2665910fe9e6d3e4f0&amp;clickMode=oneClick&amp;affiliateId=5277457105&amp;k=Communication&amp;ccId=80DV8O" class="protected-link" target="_blank">
+                                    Kommunikation <div class="triangle-right"></div>
+                </a>
+            </div>
+            </div>
+</div>
+
+            </div>
+</div>
+
+<footer>
+    © 2026 ParkLogic.com. All rights reserved. <br>
+    <div class="footer-links">
+        <a href="about-us.php">About Us</a>
+        &nbsp;|&nbsp;
+        <a href="https://parklogic.com/Contact-us">Contact Us</a>
+        &nbsp;|&nbsp;
+        <a href="privacy-policy.php">Privacy Policy</a>
+        &nbsp;|&nbsp;
+        <a href="terms-of-service.php">Terms of Service</a>
+    </div>
+</footer>
+
+</body>

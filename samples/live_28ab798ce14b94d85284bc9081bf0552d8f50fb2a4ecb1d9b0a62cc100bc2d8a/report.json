@@ -1,0 +1,156 @@
+{
+  "candidate_id": "live_28ab798ce14b94d85284bc9081bf0552d8f50fb2a4ecb1d9b0a62cc100bc2d8a",
+  "candidate_sha256": "37aea2cac3545a883b708a485b5e3f78744293141d4eee9afb068456567baf68",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "thabet.gg",
+  "requested_url": "https://ttfcofficial.org/",
+  "browser_final_url": "https://ttfcofficial.org/",
+  "source_urls": [
+    "thabet.gg"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 3381,
+      "source_url": "thabet.gg",
+      "source_hostname": "thabet.gg",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://ttfcofficial.org/",
+      "final_hostname": "ttfcofficial.org",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 51480,
+      "elapsed_ms": 5604,
+      "checked_at": "2026-10-05T12:40:51.238208+00:00",
+      "error": null,
+      "normalized_source_url": "https://thabet.gg/",
+      "normalized_final_url": "https://ttfcofficial.org/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_28ab798ce14b94d85284bc9081bf0552d8f50fb2a4ecb1d9b0a62cc100bc2d8a",
+    "representative_source_index": 3381,
+    "representative_source_url": "thabet.gg",
+    "representative_final_url": "https://ttfcofficial.org/",
+    "normalized_final_url": "https://ttfcofficial.org/",
+    "source_hostname": "thabet.gg",
+    "final_hostname": "ttfcofficial.org",
+    "source_urls": [
+      "thabet.gg"
+    ],
+    "provenance": [
+      {
+        "source_index": 3381,
+        "source_url": "thabet.gg",
+        "source_hostname": "thabet.gg",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://ttfcofficial.org/",
+        "final_hostname": "ttfcofficial.org",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 51480,
+        "elapsed_ms": 5604,
+        "checked_at": "2026-10-05T12:40:51.238208+00:00",
+        "error": null,
+        "normalized_source_url": "https://thabet.gg/",
+        "normalized_final_url": "https://ttfcofficial.org/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "THABET GG – link trang chủ nhà cái THA BET CASINO 2025",
+  "capture_timestamp": "2026-10-05T16:35:40.971948+00:00",
+  "dom_chars": 50185,
+  "screenshot_bytes": 434842,
+  "dom_sha256": "53a50ff446842c8ced11e032ae42119ea763996e22d28d19595042105bd14c95",
+  "screenshot_sha256": "dfae3504b6b41a21a8db4ba5d66b5b9089d0e6bdb9cc36cc2090bcbf8cf732ff",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://ttfcofficial.org/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://ttfcofficial.org/",
+    "browser_final_url": "https://ttfcofficial.org/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 5,
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 3625,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "timeout",
+    "original_capture_timestamp": "2026-10-05T14:38:11.242761+00:00",
+    "previous_report_sha256": "ad5f79e7a544a926ccbd9f28771fcf56dea30efb68edc78276e98ade34c0c936",
+    "recovered_at": "2026-10-05T16:35:40.971948+00:00",
+    "result": "complete"
+  }
+}

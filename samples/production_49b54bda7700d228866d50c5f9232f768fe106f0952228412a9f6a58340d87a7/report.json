@@ -1,0 +1,27 @@
+{
+  "original_url": "https://caixacapital.com.br/file",
+  "hostname": "caixacapital.com.br",
+  "checked_at": "2026-10-04T14:49:15.085346+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0455c-0c9d-73b9-a716-3d14145145e3",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-27T22:34:25.394Z",
+  "scan_original_url": "https://caixacapital.com.br/",
+  "final_url": "https://caixacapital.com.br/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2579,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.45,
+  "discovery": {
+    "batch_id": "d22abae11d40ac045e776041944333f698815ba0ce114bd0e7874ffcdf891bdf",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "candidate_id": "live_3033cd3c8a31a44a0a4ce81e7447d7848f534da9133ef818d5af36ea8a58f685",
+  "candidate_sha256": "0c26562a19367e9661d8bb181d813ef6d5efedde0cec92d30e8a02aef145ce52",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://www.chameleonclothing.in/881818181/0101/",
+  "requested_url": "http://www.chameleonclothing.in/881818181/0101/",
+  "browser_final_url": "http://www.chameleonclothing.in/881818181/0101/",
+  "source_urls": [
+    "http://www.chameleonclothing.in/881818181/0101/"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 33863,
+      "source_url": "http://www.chameleonclothing.in/881818181/0101/",
+      "source_hostname": "www.chameleonclothing.in",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://www.chameleonclothing.in/881818181/0101/",
+      "final_hostname": "www.chameleonclothing.in",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 10881,
+      "elapsed_ms": 1905,
+      "checked_at": "2026-10-05T13:12:11.836323+00:00",
+      "error": null,
+      "normalized_source_url": "http://www.chameleonclothing.in/881818181/0101/",
+      "normalized_final_url": "http://www.chameleonclothing.in/881818181/0101/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 79580,
+      "source_url": "http://www.chameleonclothing.in/881818181/0101/",
+      "source_hostname": "www.chameleonclothing.in",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://www.chameleonclothing.in/881818181/0101/",
+      "final_hostname": "www.chameleonclothing.in",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 10881,
+      "elapsed_ms": 191,
+      "checked_at": "2026-10-05T13:17:05.776943+00:00",
+      "error": null,
+      "normalized_source_url": "http://www.chameleonclothing.in/881818181/0101/",
+      "normalized_final_url": "http://www.chameleonclothing.in/881818181/0101/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_3033cd3c8a31a44a0a4ce81e7447d7848f534da9133ef818d5af36ea8a58f685",
+    "representative_source_index": 33863,
+    "representative_source_url": "http://www.chameleonclothing.in/881818181/0101/",
+    "representative_final_url": "http://www.chameleonclothing.in/881818181/0101/",
+    "normalized_final_url": "http://www.chameleonclothing.in/881818181/0101/",
+    "source_hostname": "www.chameleonclothing.in",
+    "final_hostname": "www.chameleonclothing.in",
+    "source_urls": [
+      "http://www.chameleonclothing.in/881818181/0101/"
+    ],
+    "provenance": [
+      {
+        "source_index": 33863,
+        "source_url": "http://www.chameleonclothing.in/881818181/0101/",
+        "source_hostname": "www.chameleonclothing.in",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://www.chameleonclothing.in/881818181/0101/",
+        "final_hostname": "www.chameleonclothing.in",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 10881,
+        "elapsed_ms": 1905,
+        "checked_at": "2026-10-05T13:12:11.836323+00:00",
+        "error": null,
+        "normalized_source_url": "http://www.chameleonclothing.in/881818181/0101/",
+        "normalized_final_url": "http://www.chameleonclothing.in/881818181/0101/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 79580,
+        "source_url": "http://www.chameleonclothing.in/881818181/0101/",
+        "source_hostname": "www.chameleonclothing.in",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://www.chameleonclothing.in/881818181/0101/",
+        "final_hostname": "www.chameleonclothing.in",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 10881,
+        "elapsed_ms": 191,
+        "checked_at": "2026-10-05T13:17:05.776943+00:00",
+        "error": null,
+        "normalized_source_url": "http://www.chameleonclothing.in/881818181/0101/",
+        "normalized_final_url": "http://www.chameleonclothing.in/881818181/0101/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Your domain is expired",
+  "capture_timestamp": "2026-10-05T14:39:19.193862+00:00",
+  "dom_chars": 11279,
+  "screenshot_bytes": 75050,
+  "dom_sha256": "83e4838672bc50fca9aa3aa51e2918766bdbe156e31275aadaa09bb402024412",
+  "screenshot_sha256": "414bbcab745cfad9eabbbfb9dd2c0eec8a7f147608ee77b7a29dea2edfb007b1",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://www.chameleonclothing.in/881818181/0101/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://www.chameleonclothing.in/881818181/0101/",
+    "browser_final_url": "http://www.chameleonclothing.in/881818181/0101/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2606
+}

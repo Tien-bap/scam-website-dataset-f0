@@ -1,0 +1,27 @@
+{
+  "original_url": "https://akyuzkardeslergrup.com/iuytfdcfvgbhnm/iuytr3de2fghj/index.html",
+  "hostname": "akyuzkardeslergrup.com",
+  "checked_at": "2026-10-04T15:31:11.295123+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f6658-af06-71d9-825a-0b5cd60ec3fc",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-15T15:15:23.667Z",
+  "scan_original_url": "http://www.akyuzkardeslergrup.com/",
+  "final_url": "https://akyuzkardeslergrup.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1672,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.626,
+  "discovery": {
+    "batch_id": "813bc3d143a4f06d991679c4574d5513e5ce996fbd055858c4a01744d5ede7ec",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

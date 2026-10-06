@@ -1,0 +1,897 @@
+<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="styles.css" as="style" id="maincss">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">				
+		
+<title>Southwind Builders Inc. | Home Page</title>
+
+
+	
+<link rel="canonical" href="https://www.southwindbuilders.com/home">
+<meta name="global-favicon" content="Using Global Favicon Settings">
+<link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+
+<meta name="generator" content="iEditWeb9 (web)">
+<meta name="revised" content="2026-03-09">
+<meta name="keywords" content="new homes, remodeling, kitchens, bathrooms, basement finishing, additions, decks, patios">
+<meta name="description" content="Southwind Builders is a Twin Cities based custom home builder who specializes in residential new construction and remodeling.">
+<meta name="title" content="Southwind Builders Inc. | Home Page">
+<meta name="owner" content="">
+<meta name="organization-city" content="">
+<meta name="organization-zipcode" content="">
+<meta name="organization-email" content="">
+<meta name="author" content="">
+<meta name="designer" content="">
+<meta name="copyright" content="">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.southwindbuilders.com/images/none">
+<meta property="og:url" content="https://www.southwindbuilders.com/home">
+<script src="//static.southwindbuilders.com/javascript/combined.min.js" defer="" id="combined-javascript"></script><script>
+var g_pageKey					=1;
+var g_editmode				='show';
+var g_navigation={"header":[{"ukey":"1","name":"home","label":"Home","title":"Southwind Builders Inc. | Home Page","parent":"header","linktype":"page","externalURL":"","filename":null,"newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]},{"ukey":"2","name":"About","label":"About","title":"Southwind Builders, Inc. | About Us","parent":"header","linktype":"page","externalURL":"","filename":null,"newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]},{"ukey":"3","name":"Contact","label":"Contact","title":"Southwind Builders, Inc. | Contact Us","parent":"header","linktype":"page","externalURL":"","filename":null,"newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]}],"main":[{"ukey":"6","name":"Gallery","label":"Gallery","title":"Southwind Builders, Inc. | Gallery","parent":"main","linktype":"page","externalURL":"http:\/\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[{"ukey":"14","name":"Gallery--Chisago-City","label":"Gallery - Chisago City","title":"Southwind Builders Inc, | Gallery | Chisago City","parent":"6","linktype":"page","externalURL":"http:\/\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]},{"ukey":"18","name":"Gallery--Carlson-Ridge","label":"Gallery - Carlson Ridge","title":"Southwind Builders Inc, | Gallery | Carlson Ridge, Wayzata, Minnesota","parent":"6","linktype":"page","externalURL":"http:\/\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]},{"ukey":"15","name":"Gallery--Lake-Elmo","label":"Gallery - Lake Elmo","title":"Southwind Builders Inc. | Gallery | Lake Elmo","parent":"6","linktype":"page","externalURL":"http:\/\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]}]},{"ukey":"7","name":"Our-Developments","label":"Our Developments","title":"Southwind Builders, Inc. | Our Developments","parent":"main","linktype":"page","externalURL":"http:\/\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[{"ukey":"16","name":"Chisago-Lakes-Golf-Villas","label":"Chisago Lakes Golf Villas","title":"Chisago Lakes Golf Villa homes","parent":"7","linktype":"page","externalURL":"http:\/\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]},{"ukey":"12","name":"Hunter-Hill","label":"Hunter Hill","title":"Southwind Builders, Inc. | Our Properties | Hunter Hill","parent":"7","linktype":"page","externalURL":"http:\/\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]},{"ukey":"13","name":"Carlson-Ridge","label":"Carlson Ridge","title":"Southwind Builders, Inc. | Our Properties | Carlson Ridge","parent":"7","linktype":"page","externalURL":"http:\/\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]},{"ukey":"11","name":"Green-Lake-Villas","label":"Green Lake Villas","title":"Southwind Builders, Inc. | Our Properties | Green Lake Villas","parent":"7","linktype":"page","externalURL":"http:\/\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]}]},{"ukey":"8","name":"Remodeling","label":"Remodeling","title":"Southwind Builders Inc, | Remodeling","parent":"main","linktype":"page","externalURL":"http:\/\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]},{"ukey":"9","name":"Residential-Home-Warranty","label":"Residential Home Warranty","title":"Residential Home Warranty","parent":"main","linktype":"link","externalURL":"https:\/\/www.rwcwarranty.com\/homeowners-2\/what-does-rwc-membership-mean-to-me\/","filename":"file","newwindow":"0","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]},{"ukey":"10","name":"CoConstruct-Tour","label":"Co-Construct Tour","title":"Co-Construct Tour","parent":"main","linktype":"link","externalURL":"https:\/\/vimeo.com\/coconstruct\/review\/160639936\/3dd3615d5e","filename":"file","newwindow":"1","linkToPage":"0","linkToPosition":"top","linkMessageName":"","dontPublish":"0","child":[]}],"hidden":[{"ukey":"5","name":"404","label":"404","title":"Page does not exist","parent":"hidden","linktype":"page","externalURL":null,"filename":null,"newwindow":"0","linkToPage":null,"linkToPosition":null,"linkMessageName":null,"dontPublish":"0","child":[]}]};
+</script>
+<script>var g_phi4MenuAreas 	= Array();
+var g_loadedFunctions = Array();
+var g_loadFinished 		= false;
+setTimeout(documentLoadTest,1000);
+function documentLoadTest()
+{
+	if(document.readyState != 'complete')
+	{
+		setTimeout(documentLoadTest,1000);
+	}
+	else
+	{
+		for(var i in g_loadedFunctions)
+		{
+ 			g_loadFinished = true;
+			g_loadedFunctions[i]();
+		}
+	}
+}
+function addLoadFunction(f)
+{
+	g_loadedFunctions.push(f);
+ 	if(g_loadFinished == true) { f(); }
+}
+addLoadFunction(function () { phi4ShowMenu();});
+addLoadFunction(function () { $.ajaxSetup({ cache: true}); });
+addLoadFunction(function () { $('.fontawesomecss').attr('rel','stylesheet');});
+addLoadFunction(function () { $('.typekitcss').attr('rel','stylesheet');});
+addLoadFunction(function () { $('#maincss').attr('rel','stylesheet'); });
+addLoadFunction(function ()
+{
+if(typeof(g_puppetDelay) != 'undefined')
+{
+setTimeout(function ()
+{
+$('body').append("<span class='puppetDelayFinished'> </span>");
+},g_puppetDelay * 1000);
+}
+});
+var g_largeImagesToBeInitialized = [];
+function initializeLargeImageAfterLoad(imageKey)
+{
+	if(g_largeImagesToBeInitialized.length == 0)
+	{
+		addLoadFunction(function ()
+ 		{
+			for(var i = 0; i < g_largeImagesToBeInitialized.length; i++)
+			{
+				initializeLargeImage(g_largeImagesToBeInitialized[i]);
+			}
+		});
+	}
+	g_largeImagesToBeInitialized.push(imageKey);
+}
+addLoadFunction(function (){
+	$('head').append("<link rel='stylesheet' id='fa-base-css' type='text/css' href='//static.southwindbuilders.com//eswpublic/fontawesome-pro-plus-7.1.0-web/css/fontawesome.min.css'/>")
+	$('head').append("<link rel='stylesheet' id='fa-base-css' type='text/css' href='//static.southwindbuilders.com//eswpublic/fontawesome-pro-plus-7.1.0-web/css/light.min.css'/>")
+});
+	document.documentElement.classList.remove("no-webp");		
+	!function(e,n,A){function o(e,n){return typeof e===n}function t(){var e,n,A,t,a,i,l;for(var f in r)if(r.hasOwnProperty(f)){if(e=[],n=r[f],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(A=0;A<n.options.aliases.length;A++)e.push(n.options.aliases[A].toLowerCase());for(t=o(n.fn,"function")?n.fn():n.fn,a=0;a<e.length;a++)i=e[a],l=i.split("."),1===l.length?Modernizr[l[0]]=t:(!Modernizr[l[0]]||Modernizr[l[0]]instanceof Boolean||(Modernizr[l[0]]=new Boolean(Modernizr[l[0]])),Modernizr[l[0]][l[1]]=t),s.push((t?"":"no-")+l.join("-"))}}function a(e){var n=u.className,A=Modernizr._config.classPrefix||"";if(c&&(n=n.baseVal),Modernizr._config.enableJSClass){var o=new RegExp("(^|\\s)"+A+"no-js(\\s|$)");n=n.replace(o,"$1"+A+"js$2")}Modernizr._config.enableClasses&&(n+=" "+A+e.join(" "+A),c?u.className.baseVal=n:u.className=n)}function i(e,n){if("object"==typeof e)for(var A in e)f(e,A)&&i(A,e[A]);else{e=e.toLowerCase();var o=e.split("."),t=Modernizr[o[0]];if(2==o.length&&(t=t[o[1]]),"undefined"!=typeof t)return Modernizr;n="function"==typeof n?n():n,1==o.length?Modernizr[o[0]]=n:(!Modernizr[o[0]]||Modernizr[o[0]]instanceof Boolean||(Modernizr[o[0]]=new Boolean(Modernizr[o[0]])),Modernizr[o[0]][o[1]]=n),a([(n&&0!=n?"":"no-")+o.join("-")]),Modernizr._trigger(e,n)}return Modernizr}var s=[],r=[],l={_version:"3.6.0",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var A=this;setTimeout(function(){n(A[e])},0)},addTest:function(e,n,A){r.push({name:e,fn:n,options:A})},addAsyncTest:function(e){r.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=l,Modernizr=new Modernizr;var f,u=n.documentElement,c="svg"===u.nodeName.toLowerCase();!function(){var e={}.hasOwnProperty;f=o(e,"undefined")||o(e.call,"undefined")?function(e,n){return n in e&&o(e.constructor.prototype[n],"undefined")}:function(n,A){return e.call(n,A)}}(),l._l={},l.on=function(e,n){this._l[e]||(this._l[e]=[]),this._l[e].push(n),Modernizr.hasOwnProperty(e)&&setTimeout(function(){Modernizr._trigger(e,Modernizr[e])},0)},l._trigger=function(e,n){if(this._l[e]){var A=this._l[e];setTimeout(function(){var e,o;for(e=0;e<A.length;e++)(o=A[e])(n)},0),delete this._l[e]}},Modernizr._q.push(function(){l.addTest=i}),Modernizr.addAsyncTest(function(){function e(e,n,A){function o(n){var o=n&&"load"===n.type?1==t.width:!1,a="webp"===e;i(e,a&&o?new Boolean(o):o),A&&A(n)}var t=new Image;t.onerror=o,t.onload=o,t.src=n}var n=[{uri:"data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAwA0JaQAA3AA/vuUAAA=",name:"webp"},{uri:"data:image/webp;base64,UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAABBxAR/Q9ERP8DAABWUDggGAAAADABAJ0BKgEAAQADADQlpAADcAD++/1QAA==",name:"webp.alpha"},{uri:"data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA",name:"webp.animation"},{uri:"data:image/webp;base64,UklGRh4AAABXRUJQVlA4TBEAAAAvAAAAAAfQ//73v/+BiOh/AAA=",name:"webp.lossless"}],A=n.shift();e(A.name,A.uri,function(A){if(A&&"load"===A.type)for(var o=0;o<n.length;o++)e(n[o].name,n[o].uri)})}),t(),a(s),delete l.addTest,delete l.addAsyncTest;for(var p=0;p<Modernizr._q.length;p++)Modernizr._q[p]();e.Modernizr=Modernizr}(window,document);
+	</script><link class="typekitcss" rel="stylesheet" as="style" href="https://use.typekit.net/sct4mxa.css">
+
+
+
+
+ 
+<script>var piwikTracker = {};
+addLoadFunction(function ()
+{
+	jQuery.getScript('//matomo.ieditweb.com/piwik.js', function ()
+	{
+		var idSite 				= 313;
+		var emailAddress 	= '';
+		try {
+			var pkBaseURL = '//matomo.ieditweb.com';
+			piwikTracker = Piwik.getTracker(pkBaseURL + '/piwik.php', idSite);
+			if(emailAddress.length)
+			{
+				piwikTracker.setCustomVariable (1, 'EmailAddress', emailAddress, scope = 'visit');
+			}
+			piwikTracker.trackPageView();
+			piwikTracker.enableLinkTracking();
+		} catch( err ) { console.log(err); }
+	});
+});
+</script>
+<script>
+var g_menudata = {};
+</script>
+<style>@media all
+{
+#body_home .content-row-one-area {padding-left:0px  !important;padding-bottom:0px ;height:100% ;width:100%;padding-top:0px;}
+body {font-family:segoe-ui,Arial,sans-serif ;font-style:normal;text-decoration:none;font-weight:normal;color:rgb(74, 74, 74) ;font-size:20px ;line-height:1.5em !important;background-size:200px ;background-color:rgb(245, 245, 245) ;}
+#body {padding:0px;width:100%;}
+#body_GalleryChisagoCity .content-row-one-area img {object-fit:cover  !important;object-position:50% 50%  !important;width:100%;height:100% ;}
+#body_GalleryLakeElmo #body-one {height:100%;}
+#body_GalleryLakeElmo .content-row-one {height:200px ;overflow:hidden ;}
+#body_GalleryLakeElmo .content-row-one-area img {object-fit:cover  !important;object-position:50% 50%  !important;width:100%  !important;height:100%  !important;}
+#body_GalleryLakeElmo .content-row-one img {object-fit:cover  !important;object-position:50% 50%   !important;width:100%  !important;height:100%  !important;}
+#body_GalleryChisagoCity #body-one {height:100%;}
+#body_GalleryChisagoCity .content-row-one {height:200px;overflow:hidden ;}
+#body_GalleryCarlsonRidge #body-one {height:100% ;}
+#body_GalleryCarlsonRidge .content-row-one {height:200px ;overflow:hidden ;}
+#body_GalleryCarlsonRidge .content-row-one img {object-fit:cover !important;object-position:50% 50%  !important;width:100% !important;height:100% !important;}
+.splash-body {margin:0px;}
+.no-webp #body_Sprays .content-row-one {background-image:url(images/37_printing_press_header.jpg) ;}
+.no-webp #body_Grease .content-row-one {background-image:url(images/36_car_parts_header.jpg) ;}
+.no-webp #body_Finder .content-row-one {background-image:url(images/38_food_processing_header.jpg) ;}
+.no-webp #body_FAQs .content-row-one {background-image:url(images/34_faq_header.jpg) ;}
+.no-webp #body_Documents .content-row-one {background-image:url(images/39_documents_banner.jpg) ;}
+.no-webp #body_contact .content-row-one {background-image:url(images/33_contact_header.jpg) ;}
+.no-webp #body_about .content-row-one {background-image:url(images/35_powertools_header.jpg) ;}
+#body_home .content-row-two {display:flex;}
+#body_home .content-row-one-area img {width:100%  !important;height:100%  !important;object-position:50% 50%  !important;object-fit:cover  !important;}
+#body_home #body-one {height:100% ;position:relative;}
+#body_Grease .content-row-one-cover {background-color:rgba(0, 0, 0, 0.3) ;display:block ;}
+#body_Documents .content-row-one-cover {background-color:rgba(0, 0, 0, 0.4) ;display:block ;}
+#body_home .header-row {background-color:rgb(54, 54, 54)  !important;}
+#body_home .content-row-one {background-size:25% ;border-bottom: none rgb(255, 0, 0) ;background-image:none;background-repeat:no-repeat;background-position:center ;height:calc(100vh - 288px);}
+td {font-family:segoe-ui,Arial,sans-serif ;font-style:normal;text-decoration:none;font-weight:normal;color:rgb(74, 74, 74) ;font-size:20px ;line-height:1.5em !important;}
+.footer-row-area td {color:#ffffff;}
+div {box-sizing:border-box;}
+#body_home .content-row-one-area {padding-left:0px  !important;padding-bottom:0px ;height:100% ;width:100%;padding-top:0px;}
+#body_home .content-row-two {display:flex;}
+#body_home .content-row-one-area img {width:100%  !important;height:100%  !important;object-position:50% 50%  !important;object-fit:cover  !important;}
+#body_home #body-one {height:100% ;position:relative;}
+#body_home .header-row {background-color:rgb(54, 54, 54)  !important;}
+#body_home .content-row-one {background-size:25% ;border-bottom: none rgb(255, 0, 0) ;background-image:none;background-repeat:no-repeat;background-position:center ;height:calc(100vh - 288px);}
+.splash-body {margin:0px;}
+.header-row {background-color:rgb(54, 54, 54)  !important;transition-delay:5s;transition:background-color 5s;border-bottom:1px none rgb(0, 0, 0) ;display:flex;left:0px;top:0px;position:fixed;min-height:100px ;width:100%;z-index:20000;flex-direction:column;}
+#body_home .header-row {background-color:rgb(54, 54, 54)  !important;}
+.header-white {background-color:#ffffff;}
+.header-menu-area {width:100% ;justify-content:flex-end;margin-right:auto;margin-left:auto;display:flex;font-weight:normal;height:28px ;}
+.header-content {position:relative ;background-repeat:no-repeat ;background-position:0% 30px  !important;height:165px ;margin-bottom:20px;margin-right:auto;margin-left:auto;padding-right:20px;padding-left:20px;width:1080px;padding-top:20px ;padding-bottom:10px;transition:height 1s, padding 1s;justify-content:space-between;display:flex;color:rgb(102, 102, 102);background-size:100%;}
+.header-content-small .header-logo {top:0px ;}
+.header-content-small {padding:0px ;overflow :hidden;height:0px  !important;}
+#header-logo {padding-left:0px ;}
+.header-content-small .header-logo {top:0px ;}
+.header-logo {z-index:1000 ;width:80% ;transition:top 1s;position:relative;height:100px ;margin-left:auto ;margin-right:auto ;}
+.folding-cell-2-container {box-sizing:border-box;width:100%;flex-wrap:wrap;display:flex;}
+.folding-cell-2-container {box-sizing:border-box;width:100%;flex-wrap:wrap;display:flex;}
+.folding-cell-2 {box-sizing:border-box;padding:5px;width:50%;}
+.header-address {z-index:1000 ;text-align:right;display:none ;margin-left:10px;}
+.header-address-large {margin-right:0px;margin-left:auto;font-size:12pt;transition:width 1s, font-size 1s;width:600px;}
+.header-address-large {margin-right:0px;margin-left:auto;font-size:12pt;transition:width 1s, font-size 1s;width:600px;}
+#main-mobile-menu {margin-top:10px  !important;}
+.main-menu-area {background-color:rgb(54, 54, 54) ;top:0px ;line-height:1.5em;margin-top:0px;flex:1 1 auto;display:flex;justify-content:space-between;font-weight:bold;position:relative;height:40px ;margin-bottom:35px ;}
+.main-menu-line {bottom:0px;width:100%;border-top:1px solid rgb(185, 185, 185);position:absolute;display:none;}
+#body_home .content-row-one-area {padding-left:0px  !important;padding-bottom:0px ;height:100% ;width:100%;padding-top:0px;}
+#body_GalleryChisagoCity .content-row-one-area img {object-fit:cover  !important;object-position:50% 50%  !important;width:100%;height:100% ;}
+#body_GalleryLakeElmo .content-row-one {height:200px ;overflow:hidden ;}
+#body_GalleryLakeElmo .content-row-one-area img {object-fit:cover  !important;object-position:50% 50%  !important;width:100%  !important;height:100%  !important;}
+#body_GalleryLakeElmo .content-row-one img {object-fit:cover  !important;object-position:50% 50%   !important;width:100%  !important;height:100%  !important;}
+#body_GalleryChisagoCity .content-row-one {height:200px;overflow:hidden ;}
+#body_GalleryCarlsonRidge .content-row-one {height:200px ;overflow:hidden ;}
+#body_GalleryCarlsonRidge .content-row-one img {object-fit:cover !important;object-position:50% 50%  !important;width:100% !important;height:100% !important;}
+.content-row-one {min-height:10px ;position:relative;width:100%;background-position:bottom center ;display:flex;margin-top:288px ;}
+.content-row-one-cover {display:none ;background-color:rgba(255, 51, 51, 0.2) ;width:100% ;height:100%;left:0px ;top:0px ;position:absolute ;}
+.content-row-one-area {width:100% ;margin-left:auto;margin-right:auto;color:rgb(102, 102, 102);min-height:20px;z-index:100;overflow:visible;position:relative ;}
+.no-webp .content-row-one {background-image:url(images/32_robots_header.jpg) ;}
+.no-webp #body_Sprays .content-row-one {background-image:url(images/37_printing_press_header.jpg) ;}
+.no-webp #body_Grease .content-row-one {background-image:url(images/36_car_parts_header.jpg) ;}
+.no-webp #body_Finder .content-row-one {background-image:url(images/38_food_processing_header.jpg) ;}
+.no-webp #body_FAQs .content-row-one {background-image:url(images/34_faq_header.jpg) ;}
+.no-webp #body_Documents .content-row-one {background-image:url(images/39_documents_banner.jpg) ;}
+.no-webp #body_contact .content-row-one {background-image:url(images/33_contact_header.jpg) ;}
+.no-webp #body_about .content-row-one {background-image:url(images/35_powertools_header.jpg) ;}
+#body_home .content-row-one-area img {width:100%  !important;height:100%  !important;object-position:50% 50%  !important;object-fit:cover  !important;}
+#body_Grease .content-row-one-cover {background-color:rgba(0, 0, 0, 0.3) ;display:block ;}
+#body_Documents .content-row-one-cover {background-color:rgba(0, 0, 0, 0.4) ;display:block ;}
+#body_home .content-row-one {background-size:25% ;border-bottom: none rgb(255, 0, 0) ;background-image:none;background-repeat:no-repeat;background-position:center ;height:calc(100vh - 288px);}
+#body_home .content-row-one-area {padding-left:0px  !important;padding-bottom:0px ;height:100% ;width:100%;padding-top:0px;}
+#body_GalleryChisagoCity .content-row-one-area img {object-fit:cover  !important;object-position:50% 50%  !important;width:100%;height:100% ;}
+#body_GalleryLakeElmo .content-row-one-area img {object-fit:cover  !important;object-position:50% 50%  !important;width:100%  !important;height:100%  !important;}
+.content-row-one-area {width:100% ;margin-left:auto;margin-right:auto;color:rgb(102, 102, 102);min-height:20px;z-index:100;overflow:visible;position:relative ;}
+#body_home .content-row-one-area img {width:100%  !important;height:100%  !important;object-position:50% 50%  !important;object-fit:cover  !important;}
+#body_GalleryLakeElmo #body-one {height:100%;}
+#body_GalleryChisagoCity #body-one {height:100%;}
+#body_GalleryCarlsonRidge #body-one {height:100% ;}
+#body_home #body-one {height:100% ;position:relative;}
+.applicationSlidesGlideLeftNext {transition:left 0s;left:100% !important;}
+.applicationSlidesGlideLeftPrevious {transition:left 2s;left:-100% !important;}
+.applicationSlidesGlideRightCurrent {transition:left 2s;left:0% !important;}
+.applicationSlidesGlideRightNext {transition:left  0s;left:-100% !important;}
+.applicationSlidesGlideRightPrevious {transition:left 2s;left:100% !important;}
+.applicationSlidesHiddenPane {display:none;}
+.applicationSlidesHiddenTab {color:rgb(204, 204, 204);}
+.applicationSlidesPane {position:absolute;left:0px;right:0px;width:100%;height:100%;background-color:rgb(255, 255, 255);overflow:hidden;}
+.applicationSlidesPanes {overflow:hidden;position:relative;flex:1 1 auto;display:flex;justify-content:space-between;align-items:center;}
+.applicationSlidesPanes {overflow:hidden;position:relative;flex:1 1 auto;display:flex;justify-content:space-between;align-items:center;}
+.applicationSlidesTab {cursor:pointer;margin-right:10px;margin-left:10px;width:20px;height:20px;font-size:20px;}
+.applicationSlidesTab:hover {color:rgb(153, 153, 153);}
+.applicationSlidesTabs {justify-content:center;margin-bottom:10px;margin-top:20px;display:flex;position:absolute ;bottom:20px ;left:calc(50% - 180px);z-index:20000 ;}
+.applicationSlidesTab:hover {color:rgb(153, 153, 153);}
+.applicationSlidesTabs {justify-content:center;margin-bottom:10px;margin-top:20px;display:flex;position:absolute ;bottom:20px ;left:calc(50% - 180px);z-index:20000 ;}
+.applicationSlidesText {text-shadow:5px 5px 5px rgba(0,0,0,.5);z-index:2000;line-height:1.1em;color:rgb(255,255,255);font-size:5vh;transition:left 1s, right 1s, top 1s, bottom 1s,opacity 1s 0s;font-family:arial,sans-serif;position:absolute;opacity:1;overflow:hidden ;}
+.applicationSlidesTextHide {opacity:0 !important;}
+.applicationSlidesTextIn1 {transition:left 1s 0s, right 1s 0s, top 1s 0s, bottom 1s 0s,opacity 1s 0s;top:20vh;left:10vw;}
+.applicationSlidesTextIn2 {transition:left 1s 1s, right 1s 1s, top 1s 1s, bottom 1s 1s,opacity 1s 0s;top:40vh;left:10vw;}
+.applicationSlidesTextIn3 {transition:left 1s 2s, right 1s 2s, top 1s 2s, bottom 1s 2s,opacity 1s 0s;top:50vh;left:10vw;}
+.applicationSlidesTextIn4 {transition:left 1s 3s, right 1s 3s, top 1s 3s, bottom 1s 3s,opacity 1s 0s;top:60vh;left:10vw;}
+.applicationSlidesTextIn5 {transition:left 1s 4s, right 1s 4s, top 1s 4s, bottom 1s 4s,opacity 1s 0s;top:70vh;left:10vw;}
+.applicationSlidesTextIn6 {transition:left 1s 5s, right 1s 5s, top 1s 5s, bottom 1s 5s,opacity 1s 0s;top:80vh;left:10vw;}
+.applicationSlidesTextOut1 {left:100vw;top:20vh;}
+.applicationSlidesTextOut2 {left:100vw;top:40vh;}
+.applicationSlidesTextOut3 {left:100vw;top:50vh;}
+.applicationSlidesTextOut4 {left:100vw;top:60vh;}
+.applicationSlidesTextOut5 {left:100vw;top:70vh;}
+.applicationSlidesTextOut6 {left:100vw;top:80vh;}
+.applicationSlidesTextHide {opacity:0 !important;}
+.applicationSlidesTextIn1 {transition:left 1s 0s, right 1s 0s, top 1s 0s, bottom 1s 0s,opacity 1s 0s;top:20vh;left:10vw;}
+.applicationSlidesTextIn2 {transition:left 1s 1s, right 1s 1s, top 1s 1s, bottom 1s 1s,opacity 1s 0s;top:40vh;left:10vw;}
+.applicationSlidesTextIn3 {transition:left 1s 2s, right 1s 2s, top 1s 2s, bottom 1s 2s,opacity 1s 0s;top:50vh;left:10vw;}
+.applicationSlidesTextIn4 {transition:left 1s 3s, right 1s 3s, top 1s 3s, bottom 1s 3s,opacity 1s 0s;top:60vh;left:10vw;}
+.applicationSlidesTextIn5 {transition:left 1s 4s, right 1s 4s, top 1s 4s, bottom 1s 4s,opacity 1s 0s;top:70vh;left:10vw;}
+.applicationSlidesTextIn6 {transition:left 1s 5s, right 1s 5s, top 1s 5s, bottom 1s 5s,opacity 1s 0s;top:80vh;left:10vw;}
+.applicationSlidesTextOut1 {left:100vw;top:20vh;}
+.applicationSlidesTextOut2 {left:100vw;top:40vh;}
+.applicationSlidesTextOut3 {left:100vw;top:50vh;}
+.applicationSlidesControl {z-index:2000;height:40px;width:40px;font-size:40px;color:rgba(0, 0, 0, 0.3);}
+.applicationSlidesControl:hover {color:rgb(102, 102, 102);}
+.applicationSlidesControl:hover {color:rgb(102, 102, 102);}
+.applicationSlidesCurrentPane {display:block;}
+.applicationSlidesCurrentTab {color:rgb(102, 102, 102);}
+.applicationSlidesFadeCurrent {transition:opacity 2s;opacity:1;z-index:1000;}
+.applicationSlidesFadeNext {transition:opacity 2s;opacity:0;z-index:0;}
+.applicationSlidesFadePrevious {transition:opacity 2s;opacity:0;z-index:0;}
+.applicationSlidesFrame {flex-direction:column;display:flex;background-color:transparent;width:100%;height:100%;}
+.applicationSlidesGlideLeftCurrent {transition:left 2s;left:0% !important;}
+.applicationSlidesTextOut4 {left:100vw;top:60vh;}
+.applicationSlidesTextOut5 {left:100vw;top:70vh;}
+.applicationSlidesTextOut6 {left:100vw;top:80vh;}
+#app_1 {width:100%;height:100%;}
+.applicationDiv {position:relative;width:100%;float:left;}
+.applicationDiv:after {clear:both;content:"";display:block;}
+.content-row-one-cover {display:none ;background-color:rgba(255, 51, 51, 0.2) ;width:100% ;height:100%;left:0px ;top:0px ;position:absolute ;}
+#body_Grease .content-row-one-cover {background-color:rgba(0, 0, 0, 0.3) ;display:block ;}
+#body_Documents .content-row-one-cover {background-color:rgba(0, 0, 0, 0.4) ;display:block ;}
+.content-row-two {background-size:100px  ;z-index:10000;position:relative;width:100%;min-height:100px;}
+.content-row-two-area {margin-right:auto ;margin-left:auto;display:flex;width:1080px;}
+#body_home .content-row-two {display:flex;}
+.content-row-two-area {margin-right:auto ;margin-left:auto;display:flex;width:1080px;}
+#body_home .content-row-one-area {padding-left:0px  !important;padding-bottom:0px ;height:100% ;width:100%;padding-top:0px;}
+#body {padding:0px;width:100%;}
+#body_GalleryChisagoCity .content-row-one-area img {object-fit:cover  !important;object-position:50% 50%  !important;width:100%;height:100% ;}
+#body_GalleryLakeElmo #body-one {height:100%;}
+#body_GalleryLakeElmo .content-row-one {height:200px ;overflow:hidden ;}
+#body_GalleryLakeElmo .content-row-one-area img {object-fit:cover  !important;object-position:50% 50%  !important;width:100%  !important;height:100%  !important;}
+#body_GalleryLakeElmo .content-row-one img {object-fit:cover  !important;object-position:50% 50%   !important;width:100%  !important;height:100%  !important;}
+#body_GalleryChisagoCity #body-one {height:100%;}
+#body_GalleryChisagoCity .content-row-one {height:200px;overflow:hidden ;}
+#body_GalleryCarlsonRidge #body-one {height:100% ;}
+#body_GalleryCarlsonRidge .content-row-one {height:200px ;overflow:hidden ;}
+#body_GalleryCarlsonRidge .content-row-one img {object-fit:cover !important;object-position:50% 50%  !important;width:100% !important;height:100% !important;}
+.no-webp #body_Sprays .content-row-one {background-image:url(images/37_printing_press_header.jpg) ;}
+.no-webp #body_Grease .content-row-one {background-image:url(images/36_car_parts_header.jpg) ;}
+.no-webp #body_Finder .content-row-one {background-image:url(images/38_food_processing_header.jpg) ;}
+.no-webp #body_FAQs .content-row-one {background-image:url(images/34_faq_header.jpg) ;}
+.no-webp #body_Documents .content-row-one {background-image:url(images/39_documents_banner.jpg) ;}
+.no-webp #body_contact .content-row-one {background-image:url(images/33_contact_header.jpg) ;}
+.no-webp #body_about .content-row-one {background-image:url(images/35_powertools_header.jpg) ;}
+#body_home .content-row-two {display:flex;}
+#body_home .content-row-one-area img {width:100%  !important;height:100%  !important;object-position:50% 50%  !important;object-fit:cover  !important;}
+#body_home #body-one {height:100% ;position:relative;}
+#body_Grease .content-row-one-cover {background-color:rgba(0, 0, 0, 0.3) ;display:block ;}
+#body_Documents .content-row-one-cover {background-color:rgba(0, 0, 0, 0.4) ;display:block ;}
+#body_home .header-row {background-color:rgb(54, 54, 54)  !important;}
+#body_home .content-row-one {background-size:25% ;border-bottom: none rgb(255, 0, 0) ;background-image:none;background-repeat:no-repeat;background-position:center ;height:calc(100vh - 288px);}
+.userheader_1 {letter-spacing:1px;font-family:segoe-ui,Arial,sans-serif ;color:rgb(54, 54, 54) ;font-size:32px;font-style:normal;text-decoration:none;font-weight:600;line-height:1.5em;}
+.userNormal {font-family:segoe-ui,Arial,sans-serif ;font-style:normal;text-decoration:none;font-weight:normal;color:rgb(74, 74, 74) ;font-size:20px ;line-height:1.5em !important;}
+.applicationPhotogrid3across {display:flex ;}
+.applicationPhotogrid3across .applicationPhotogridCover {top:10px ;left:10px ;background-color:rgba(0, 0, 0, 0)  !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:33% ;}
+.applicationPhotogrid3across .applicationPhotogridCaption {top:auto;bottom:2px  !important;right:0px ;text-align:right;color:#ffffff;background-color:rgba(54, 54, 54, 0.9) ;padding:20px  !important;font-family:segoe-ui,Arial,sans-serif ;font-weight:400 ;font-size:20px  !important;width:auto;border-radius:10px 0px 10px 0px  !important;visibility:visible !important;}
+.applicationPhotogrid3across .applicationPhotogridCover {top:10px ;left:10px ;background-color:rgba(0, 0, 0, 0)  !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:33% ;}
+.applicationPhotogridItem img {border-radius:10px  ;box-shadow:5px 5px 5px 5px rgba(54, 54, 54, 0.4) ;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:50%;}
+.applicationPhotogrid3across .applicationPhotogridCaption {top:auto;bottom:2px  !important;right:0px ;text-align:right;color:#ffffff;background-color:rgba(54, 54, 54, 0.9) ;padding:20px  !important;font-family:segoe-ui,Arial,sans-serif ;font-weight:400 ;font-size:20px  !important;width:auto;border-radius:10px 0px 10px 0px  !important;visibility:visible !important;}
+.applicationPhotogridItem img {border-radius:10px  ;box-shadow:5px 5px 5px 5px rgba(54, 54, 54, 0.4) ;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:33% ;}
+.applicationPhotogridItem {width:25%;padding:10px;position:relative;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:50%;}
+.applicationPhotogridBusyIcon .fa-spinner {font-size:60px;}
+.applicationPhotogridBusyMask {position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:rgba(0,0,0,.5);display:none;min-height:300px;}
+.applicationPhotogrid3across .applicationPhotogridCover {top:10px ;left:10px ;background-color:rgba(0, 0, 0, 0)  !important;}
+.applicationPhotogridCover {position:absolute;top:10px;left:10px;width:calc(100% - 20px);height:calc(100% - 25px);transition:background-color .5s;border-radius:5px  ;}
+.applicationPhotogridCover:hover {background-color:rgba(0,0,0,.2);}
+.applicationPhotogridCover:hover .applicationPhotogridCaption {color:#ffffff;visibility:visible;}
+.applicationPhotogrid2across .applicationPhotogridCover {top:10px;left:10px;background-color:rgba(0,0,0,0) !important;}
+.applicationPhotogridCover:hover {background-color:rgba(0,0,0,.2);}
+.applicationPhotogridCover:hover .applicationPhotogridCaption {color:#ffffff;visibility:visible;}
+.applicationPhotogridImage {width:100%;}
+.applicationPhotogridLarge {position:fixed;z-index:100000;display:flex;flex-direction:column;background-color:#ffffff;border:1px solid rgb(102, 102, 102);transition:width .5s, height .5s, top .5s, left .5s;}
+.applicationPhotogridLargeCaption {padding:5px;flex-grow:1;visibility:hidden;}
+.applicationPhotogridLargeClose {width:25px;height:25px;font-size:25px;padding:5px;cursor:pointer;flex-grow:0;}
+.applicationPhotogridLargeControls {background-color:#ffffff;text-align:left;display:flex;height:35px;padding-right:10px ;}
+.applicationPhotogridLargeDescription {background-color:#ffffff;padding:5px;}
+.applicationPhotogridLargeNext {width:25px ;height:25px;font-size:25px ;padding:5px;cursor:pointer;flex-grow:0;}
+.applicationPhotogridLargePrevious {width:25px;height:25px;font-size:25px;padding:5px;cursor:pointer;flex-grow:0;}
+.applicationPhotogridLargeDownload {width:25px;height:25px;font-size:25px;padding:5px;cursor:pointer;flex-grow:0;margin-right:15px;}
+.applicationPhotogridLargeImage {width:100%;}
+.applicationPhotogridLargeCaption {padding:5px;flex-grow:1;visibility:hidden;}
+.applicationPhotogridLargeClose {width:25px;height:25px;font-size:25px;padding:5px;cursor:pointer;flex-grow:0;}
+.applicationPhotogrid2across .applicationPhotogridCaption {top:auto;bottom:1px !important;right:0px ;text-align:right;color:#ffffff;background-color:rgba(54, 54, 54, 0.9) ;padding:20px !important;font-family:segoe-ui,Arial,sans-serif ;font-weight:400;font-size:20px !important;width: auto;border-radius:10px 0px 10px 0px !important;visibility:visible !important;}
+.applicationPhotogrid3across .applicationPhotogridCaption {top:auto;bottom:2px  !important;right:0px ;text-align:right;color:#ffffff;background-color:rgba(54, 54, 54, 0.9) ;padding:20px  !important;font-family:segoe-ui,Arial,sans-serif ;font-weight:400 ;font-size:20px  !important;width:auto;border-radius:10px 0px 10px 0px  !important;visibility:visible !important;}
+.applicationPhotogrid2across .applicationPhotogridCaption {top:auto;bottom:1px !important;right:0px ;text-align:right;color:#ffffff;background-color:rgba(54, 54, 54, 0.9) ;padding:20px !important;font-family:segoe-ui,Arial,sans-serif ;font-weight:400;font-size:20px !important;width: auto;border-radius:10px 0px 10px 0px !important;visibility:visible !important;}
+.applicationPhotogridCaption {position:absolute;visibility:hidden;top:calc(50% - 10px);color:#ffffff;text-align:center;width:100%;font-weight:bold;transition:color .5s;}
+.applicationPhotogridCover:hover .applicationPhotogridCaption {color:#ffffff;visibility:visible;}
+.applicationPhotogridCover:hover .applicationPhotogridCaption {color:#ffffff;visibility:visible;}
+.applicationPhotogrid3across {display:flex ;}
+.applicationPhotogrid3across .applicationPhotogridCover {top:10px ;left:10px ;background-color:rgba(0, 0, 0, 0)  !important;}
+.applicationPhotogridItem img {border-radius:10px  ;box-shadow:5px 5px 5px 5px rgba(54, 54, 54, 0.4) ;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:33% ;}
+.applicationPhotogrid3across .applicationPhotogridCaption {top:auto;bottom:2px  !important;right:0px ;text-align:right;color:#ffffff;background-color:rgba(54, 54, 54, 0.9) ;padding:20px  !important;font-family:segoe-ui,Arial,sans-serif ;font-weight:400 ;font-size:20px  !important;width:auto;border-radius:10px 0px 10px 0px  !important;visibility:visible !important;}
+.applicationPhotogridBusyIcon .fa-spinner {font-size:60px;}
+.applicationPhotogridBusyMask {position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:rgba(0,0,0,.5);display:none;min-height:300px;}
+.applicationPhotogridCover {position:absolute;top:10px;left:10px;width:calc(100% - 20px);height:calc(100% - 25px);transition:background-color .5s;border-radius:5px  ;}
+.applicationPhotogridCover:hover {background-color:rgba(0,0,0,.2);}
+.applicationPhotogridImage {width:100%;}
+.applicationPhotogridItem {width:25%;padding:10px;position:relative;}
+.applicationPhotogridLarge {position:fixed;z-index:100000;display:flex;flex-direction:column;background-color:#ffffff;border:1px solid rgb(102, 102, 102);transition:width .5s, height .5s, top .5s, left .5s;}
+.applicationPhotogridLargeCaption {padding:5px;flex-grow:1;visibility:hidden;}
+.applicationPhotogridLargeClose {width:25px;height:25px;font-size:25px;padding:5px;cursor:pointer;flex-grow:0;}
+.applicationPhotogrid2across .applicationPhotogridCaption {top:auto;bottom:1px !important;right:0px ;text-align:right;color:#ffffff;background-color:rgba(54, 54, 54, 0.9) ;padding:20px !important;font-family:segoe-ui,Arial,sans-serif ;font-weight:400;font-size:20px !important;width: auto;border-radius:10px 0px 10px 0px !important;visibility:visible !important;}
+.applicationPhotogridCaption {position:absolute;visibility:hidden;top:calc(50% - 10px);color:#ffffff;text-align:center;width:100%;font-weight:bold;transition:color .5s;}
+.applicationPhotogridCover:hover .applicationPhotogridCaption {color:#ffffff;visibility:visible;}
+.applicationPhotogrid {display:flex;width:100%;flex-wrap:wrap;min-height:20px;padding-bottom:20px;}
+.applicationPhotogridBusyIcon {width:150px;height:50px;color:#ffffff;margin-left:auto;margin-right:auto;font-size:30px;position:relative;margin-top:100px;text-align:center;line-height:50px;}
+.applicationPhotogridLargeControls {background-color:#ffffff;text-align:left;display:flex;height:35px;padding-right:10px ;}
+.applicationPhotogridLargeDescription {background-color:#ffffff;padding:5px;}
+.applicationPhotogridLargeNext {width:25px ;height:25px;font-size:25px ;padding:5px;cursor:pointer;flex-grow:0;}
+.applicationPhotogridLargePrevious {width:25px;height:25px;font-size:25px;padding:5px;cursor:pointer;flex-grow:0;}
+.applicationPhotogridLoading {width:50px;height:50px;font-size:50px;color:#ffffff;position:absolute;z-index:200000;left:calc(50% - 25px);top:calc(50% - 25px);}
+.applicationPhotogridLargeDownload {width:25px;height:25px;font-size:25px;padding:5px;cursor:pointer;flex-grow:0;margin-right:15px;}
+.applicationPhotogridLargeImage {width:100%;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:50%;}
+.applicationPhotogrid2across .applicationPhotogridCover {top:10px;left:10px;background-color:rgba(0,0,0,0) !important;}
+.applicationPhotogridBusyIcon .fa-spinner {font-size:60px;}
+.applicationPhotogridBusyIcon {width:150px;height:50px;color:#ffffff;margin-left:auto;margin-right:auto;font-size:30px;position:relative;margin-top:100px;text-align:center;line-height:50px;}
+.applicationPhotogridLargeControls {background-color:#ffffff;text-align:left;display:flex;height:35px;padding-right:10px ;}
+.applicationPhotogridLargeDescription {background-color:#ffffff;padding:5px;}
+.applicationPhotogridLargeNext {width:25px ;height:25px;font-size:25px ;padding:5px;cursor:pointer;flex-grow:0;}
+.applicationPhotogridLargePrevious {width:25px;height:25px;font-size:25px;padding:5px;cursor:pointer;flex-grow:0;}
+.applicationPhotogridLoading {width:50px;height:50px;font-size:50px;color:#ffffff;position:absolute;z-index:200000;left:calc(50% - 25px);top:calc(50% - 25px);}
+.applicationPhotogridLargeDownload {width:25px;height:25px;font-size:25px;padding:5px;cursor:pointer;flex-grow:0;margin-right:15px;}
+.applicationPhotogridLargeImage {width:100%;}
+.applicationPhotogrid2across .applicationPhotogridCover {top:10px;left:10px;background-color:rgba(0,0,0,0) !important;}
+.applicationFormProgressBar {height:20px;width:0%;background-color:red;}
+.applicationFormProgressText {font-weight:bold;font-size:16px;left:50%;top:0px;position:absolute;height:20px;width:30px;color:#000000;}
+.applicationFormRequiredFail {display:block ;width:30px;margin-left:auto;margin-right:0px;float:right;text-align:left;color:red;font-size:9px;font-family:Arial;position:absolute ;top:40px ;right:0px ;}
+.applicationFormRequiredIconFail {float:left;padding-right:10px;}
+.applicationFormRequiredIconFail:before {content:"\f00d";font-size:2em;font-family:"Font Awesome 7 Pro";}
+.applicationFormCardVisa:before {content:"\f1f0";}
+.applicationFormRequiredIconFail:before {content:"\f00d";font-size:2em;font-family:"Font Awesome 7 Pro";}
+#applicationFormCloseIcon {cursor:pointer;right:10px;top:10px;position:absolute;color:#ffffff;font-size:2em;}
+.applicationFormRequiredIconOk {font-family:"Font Awesome 7 Pro";float:left;padding-right:10px;}
+.applicationFormRequiredIconOk:before {content:"\f00c";font-family:"Font Awesome 7 Pro";font-size:2em;}
+#applicationFormError {font-family:Arial;font-size:40px;color:#ffffff;position:absolute;top:0px;left:0px;display:none;padding:20px;line-height:50px;}
+.applicationFormInvalidLabelTd {color:#FF0000;padding:0;width:200px;border:none;text-align:right;}
+.applicationFormRequiredIconOk:before {content:"\f00c";font-family:"Font Awesome 7 Pro";font-size:2em;}
+.applicationFormLabelDiv {text-align:left;width:100%;font-size:16px;font-family:segoe-ui,Arial,sans-serif ;font-weight:bold;}
+.applicationFormLabelTd {text-align:right;border:none;width:200px;padding:0;}
+.applicationFormNextButton {height: auto;cursor:pointer;padding:5px;font-size:18px;color:#ffffff;background-color:rgb(0, 209, 178) ;width:auto;border-radius:5px  ;border: none;}
+.applicationFormNextButton:disabled {background-color:rgb(0, 209, 178) ;}
+.applicationFormNextButton:disabled {background-color:rgb(0, 209, 178) ;}
+.applicationFormNote {font-size:10px;font-family:Verdana,Arial;}
+.applicationFormOptionContainer {display:flex ;}
+.applicationFormOptionLabel {width:180px;text-align:left;}
+.applicationFormPaymentTable {width:450px;border-spacing:0px;}
+.applicationFormPaymentTd {padding:0px;}
+.applicationFormExpireField {color:#666666;border-bottom:1px solid rgb(102, 102, 102) ;font-size:18px ;height:40px;border-top:none;border-left: none;border-right:none;margin-right:10px ;}
+#applicationFormBusyIcon {font-size:8em;color:white;position:absolute;top:0px;left:0px;display:none;}
+.applicationFormRequiredOk {display:block ;font-size:9px;color:green;text-align:left;float:right;margin-right:0px;margin-left:auto;width:30px;font-family:Arial;position:absolute ;top:40px;right:0px ;}
+#applicationFormBusyMask {background-color:#000000;left:0px;top:0px;position:absolute;width:200px;height:200px;display:none;border-radius:10px;}
+.applicationFormCardAmex:before {content:"\f1f3";}
+.applicationFormCardDiscover:before {content:"\f1f2";}
+.applicationFormCardMasterCard:before {content:"\f1f1";}
+.applicationFormCardType {font-size:50px;width:100px;height:50px ;margin-top:30px ;font-weight:300 ;font-family:"Font Awesome 6 Brands";}
+.applicationFormField {color:#666666;border-bottom:1px solid rgb(102, 102, 102);font-size:18px;height:40px;width:100% !important;border-top: none rgb(255, 0, 0);border-left: none rgb(255, 0, 0);border-right: none rgb(255, 0, 0);}
+.applicationFormFieldDiv {width:calc(100% - 5px) !important;text-align:left;}
+.applicationFormFieldInvalid {box-shadow:1px 1px 2px 2px rgb(255,158,158);background-color:rgb(255,240,240);border:1px solid rgb(255,0,0);}
+.applicationFormFieldTd {border:none;width:300px;padding:0;text-align:left;}
+.applicationFormFieldValid {box-shadow:1px 1px 2px 2px rgb(158,255,158);background-color:rgb(240,255,240);border:1px solid rgb(0,153,0);}
+.applicationFormFieldWatermark {color:rgb(102, 102, 102);}
+.applicationFormFieldDiv {width:calc(100% - 5px) !important;text-align:left;}
+.applicationFormFieldInvalid {box-shadow:1px 1px 2px 2px rgb(255,158,158);background-color:rgb(255,240,240);border:1px solid rgb(255,0,0);}
+.applicationFormSeparatorTd {width:4px;}
+.applicationFormFieldTd {border:none;width:300px;padding:0;text-align:left;}
+.applicationFormStar {color:rgb(188, 164, 35);font-size:20px;font-family:"Font Awesome 7 Pro";}
+.applicationFormStar:before {content:"\f005";}
+.applicationFormStarHollow {font-weight:300;}
+.applicationFormStarSolid {font-weight:900;}
+.applicationFormStar:before {content:"\f005";}
+.applicationFormStarHollow {font-weight:300;}
+.applicationFormTable {width:100%;border:0px none rgb(0,0,0);border-spacing:0;padding:2px;}
+.applicationFormFieldValid {box-shadow:1px 1px 2px 2px rgb(158,255,158);background-color:rgb(240,255,240);border:1px solid rgb(0,153,0);}
+.applicationFormFieldWatermark {color:rgb(102, 102, 102);}
+#applicationFormForm {position:relative;width:450px;}
+.applicationFormProgressBar {height:20px;width:0%;background-color:red;}
+.applicationFormProgressText {font-weight:bold;font-size:16px;left:50%;top:0px;position:absolute;height:20px;width:30px;color:#000000;}
+.applicationFormProgress {border:1px solid black;height:20px;width:100%;}
+.applicationFormComment {height:100px;width:420px;}
+.applicationFormCompleteButton {color:red;}
+.applicationFormCVV {padding:5px;border:1px solid;border-top-left-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-right-radius:5px;width:200px;background-color:rgb(228,235,242);font-family:Arial, Helvetica, Geneva, sans-serif;font-size:10px;}
+.applicationFormDefaultCard {font-family:"Font Awesome 7 Pro";}
+.applicationFormDefaultCard:before {content:"\f38a";}
+.applicationFormDefaultCard:before {content:"\f38a";}
+.applicationFormDelDiv {float:left;width:10px;padding-top:28px;}
+.applicationFormDiv {margin-bottom:30px;position:relative;}
+.applicationFormDiv table {width:100% !important;}
+.applicationFormDiv table {width:100% !important;}
+#applicationFormDone {font-family:arial;font-size:40px;color:#ffffff;position:absolute;top:0px;left:0px;display:none;line-height:40px;}
+.applicationFormStarSolid {font-weight:900;}
+.footer-row {background-color:rgb(54, 54, 54) ;color:rgb(255, 255, 255)  !important;z-index:10000;position:relative;background-repeat:no-repeat;min-height:50px;width:100%;}
+.footer-row-area {color:rgb(255, 255, 255)  !important;margin-left:auto;margin-right:auto;width:1080px;}
+.footer-row-area td {color:#ffffff;}
+.footer-row-area .applicationNavmapLI1 {color:rgb(255, 255, 255)  !important;}
+.footer-row-area .applicationNavmapLI0 {color:rgb(255, 255, 255)  !important;}
+.footer-row-area .applicationNavmapArea {color:rgb(255, 255, 255)  !important;}
+.footer-row-area a:hover {color:rgb(204, 204, 204);}
+.footer-row-area a {color:rgb(255, 255, 255);}
+.footer-row a {color:rgb(255, 255, 255)  !important;}
+.footer-row-area {color:rgb(255, 255, 255)  !important;margin-left:auto;margin-right:auto;width:1080px;}
+.footer-row-area td {color:#ffffff;}
+.footer-row-area .applicationNavmapLI1 {color:rgb(255, 255, 255)  !important;}
+.footer-row-area .applicationNavmapLI0 {color:rgb(255, 255, 255)  !important;}
+.footer-row-area .applicationNavmapArea {color:rgb(255, 255, 255)  !important;}
+.footer-row-area a:hover {color:rgb(204, 204, 204);}
+.footer-row-area a {color:rgb(255, 255, 255);}
+.footer-line {display:none;width:95%;margin-right:auto;margin-left:auto;}
+#footer {margin-top:0px;}
+#footer_row .applicationNavmapLI1 {color:rgb(255, 255, 255)  !important;}
+#footer-row .applicationNavmapLI1 {color:rgb(255, 255, 255)  !important;}
+#footer-row .applicationNavmapLI0 {color:rgb(255, 255, 255)  !important;}
+.folding-cell-3-container {box-sizing:border-box;width:100%;flex-wrap:wrap;display:flex;}
+.folding-cell-3 {box-sizing:border-box;padding:5px;width:33.3%;}
+.folding-cell-3-container {box-sizing:border-box;width:100%;flex-wrap:wrap;display:flex;}
+.userheader_2 {color:rgb(0, 209, 178) ;font-size:20px;font-style:normal ;text-decoration:none;font-weight:bold ;font-family:segoe-ui,Arial,sans-serif ;}
+.header-level-0DIV {width:1024px ;justify-content:flex-end;display:flex;margin-right:auto ;margin-left:auto;}
+.header-level-0outerDIV_current {margin-left:20px;padding-left:3px ;padding-right:3px;padding-bottom:3px;padding-top:0px ;border-radius:5px  ;}
+.header-level-0outerDIV_current:hover {background-color:rgb(0, 0, 0) ;}
+.header-level-0outerDIV:hover {background-color:rgb(0, 0, 0) ;}
+.header-level-0outerDIV {margin-left:20px ;padding-left:3px ;padding-right:3px;padding-bottom:3px;padding-top:0px ;border-radius:5px  ;}
+.header-level-0A_current:hover {color:rgb(255, 255, 255) ;}
+.header-level-0A {font-weight:normal ;font-size:16px ;color:rgb(255, 255, 255) ;margin-right:4px;text-decoration:none  rgb(255, 0, 0) ;font-family:segoe-ui,Arial,sans-serif ;}
+.header-level-0A_current {font-family:segoe-ui,Arial,sans-serif ;color:rgb(255, 255, 255) ;font-weight:normal ;margin-right:5px;font-size:16px ;text-decoration:none;letter-spacing:3px;}
+.header-level-0A:hover {color:rgb(255, 255, 255) ;}
+.header-level-0outerDIV_current {margin-left:20px;padding-left:3px ;padding-right:3px;padding-bottom:3px;padding-top:0px ;border-radius:5px  ;}
+.header-level-0outerDIV_current:hover {background-color:rgb(0, 0, 0) ;}
+.header-level-0A_current:hover {color:rgb(255, 255, 255) ;}
+.header-level-0A_current {font-family:segoe-ui,Arial,sans-serif ;color:rgb(255, 255, 255) ;font-weight:normal ;margin-right:5px;font-size:16px ;text-decoration:none;letter-spacing:3px;}
+.mobilemenuarea-non-amp {position:absolute;z-index:1000;width:100%;display:none;height:100vh;top:0px;left:0px;}
+.main-level-0DIV {height:40px ;flex-wrap:wrap;flex:0 0 auto;display:flex;justify-content:space-between;margin-right:auto;margin-left:auto;z-index:2000;padding-right:10px ;padding-left:10px ;width:1080px;padding-top:7px ;}
+.main-level-0separator {display:none;margin-top:8px;float:left;height:8px;width:8px;border-radius:50% ;}
+[id$='CoConstruct-Tour'].main-level-0innerDIV {background-color:rgb(0, 209, 178) ;}
+.main-level-0innerDIV {margin-bottom:5px ;margin-right:5px;text-align:center;padding:5px ;border-radius:5px  ;}
+.main-level-0innerDIV:hover {background-color:rgb(0, 0, 0) ;}
+.main-level-0innerDIV_current {margin-bottom:5px;text-align:center;margin-right:5px ;padding:5px ;}
+[id$='CoConstruct-Tour'].main-level-0innerDIV a {color:rgb(54, 54, 54) ;}
+.main-level-0outerDIV_current:hover {background-color:rgb(0, 0, 0) ;}
+.main-level-0outerDIVWithChild a:after {content:" \f078";font-family:"Font Awesome 7 Pro";margin-left:10px ;font-size:16px ;}
+.main-level-0outerDIV_current {width:auto;}
+.main-level-0outerDIV {width:auto;}
+.main-level-0A {font-weight:400 ;font-family:segoe-ui,Arial,sans-serif ;font-size:16px ;color:rgb(255, 255, 255) ;text-decoration:none  rgb(255, 0, 0) ;}
+.main-level-0A_current {transition:color .2s;text-decoration:none  rgb(255, 0, 0) ;font-size:16px ;font-family:segoe-ui,Arial,sans-serif ;color:rgb(255, 255, 255) ;font-weight:400 ;}
+.main-level-0A_current:hover {color:rgb(255, 255, 255)  !important;}
+.main-level-0A:hover {transition:color .2s;color:rgb(255, 255, 255) ;}
+.main-level-0innerDIV_current {margin-bottom:5px;text-align:center;margin-right:5px ;padding:5px ;}
+.main-level-0outerDIV_current:hover {background-color:rgb(0, 0, 0) ;}
+.main-level-0outerDIV_current {width:auto;}
+.main-level-0A_current {transition:color .2s;text-decoration:none  rgb(255, 0, 0) ;font-size:16px ;font-family:segoe-ui,Arial,sans-serif ;color:rgb(255, 255, 255) ;font-weight:400 ;}
+.main-level-0A_current:hover {color:rgb(255, 255, 255)  !important;}
+.main-level-0outerDIVWithChild a:after {content:" \f078";font-family:"Font Awesome 7 Pro";margin-left:10px ;font-size:16px ;}
+.main-level-1DIV {background-color:rgb(255, 255, 255) ;box-shadow:5px 5px 5px 5px rgba(0, 0, 0, 0.2) ;z-index:20000 ;padding-top:10px ;border-radius:10px  ;padding-bottom:10px ;margin-top:20px ;}
+.main-level-1outerDIV_current {line-height:2.1em;}
+.main-level-1outerDIV_current:hover {background-color:rgb(234, 234, 234) ;line-height:2.1em;}
+.main-level-1outerDIV:hover {background-color:rgb(234, 234, 234) ;}
+.main-level-1outerDIV {line-height:2.1em;}
+.main-level-1A {color:rgb(54, 54, 54) ;font-family:segoe-ui,Arial,sans-serif ;font-size:16px ;font-weight:normal ;text-decoration:none;padding-left:10px ;padding-right:10px ;}
+.main-level-1A_current {font-size:16px ;font-weight:normal ;text-decoration:none;color:rgb(54, 54, 54) ;font-family:segoe-ui,Arial,sans-serif ;padding-left:10px ;padding-right:10px ;}
+.main-level-1A_current:hover {color:rgb(54, 54, 54) ;}
+.main-level-1A:hover {color:rgb(0, 0, 0) ;}
+.main-level-1outerDIV_current {line-height:2.1em;}
+.main-level-1outerDIV_current:hover {background-color:rgb(234, 234, 234) ;line-height:2.1em;}
+.main-level-1A_current {font-size:16px ;font-weight:normal ;text-decoration:none;color:rgb(54, 54, 54) ;font-family:segoe-ui,Arial,sans-serif ;padding-left:10px ;padding-right:10px ;}
+.main-level-1A_current:hover {color:rgb(54, 54, 54) ;}
+
+}
+@media only screen and (max-width: 320px)
+{
+#body_home .content-row-one {height:calc(100vh - 100px) !important;margin-top:100px !important;}
+#body_home .content-row-one-area {padding-top:0px !important;height:100% !important;}
+#body_home .content-row-one {height:calc(100vh - 100px) !important;margin-top:100px !important;}
+#body_home .content-row-one-area {padding-top:0px !important;height:100% !important;}
+.header-row .folding-cell-2-container {flex-direction:row;flex-wrap:nowrap;}
+.header-row .folding-cell-2:nth-child(2) {display:none;}
+.header-row {transition:height 1s;height:70px ;border-bottom: none rgb(255, 0, 0)  !important;}
+.header-row-small {min-height:55px  !important;height:55px  !important;}
+.header-menu-area {display:none  !important;width:100% !important;}
+#header-menu {display:none;}
+.header-content {margin-bottom:0px  !important;width:100% !important;flex-direction:column;margin-top:10px ;}
+.header-logo {top:-30px  !important;width:calc(100% - 40px)  !important;padding-left:0px  !important;margin-left:0px  !important;margin-right:auto ;}
+.header-row .folding-cell-2-container {flex-direction:row;flex-wrap:nowrap;}
+.header-row .folding-cell-2-container {flex-direction:row;flex-wrap:nowrap;}
+.header-row .folding-cell-2:nth-child(2) {display:none;}
+.folding-cell-2 {width:100%;}
+.header-address .margin-left-auto {margin-right:auto ;}
+.header-address {margin-top:15px;height:40px  !important;width:95%;}
+.main-menu-area {display:none;}
+#body_home .content-row-one {height:calc(100vh - 100px) !important;margin-top:100px !important;}
+#body_home .content-row-one-area {padding-top:0px !important;height:100% !important;}
+.content-row-one {margin-top:100px  !important;}
+.content-row-one-area {width:100% ;margin-top:0px !important;}
+#body_home .content-row-one-area {padding-top:0px !important;height:100% !important;}
+.content-row-one-area {width:100% ;margin-top:0px !important;}
+.content-row-two-area {padding-top:5px ;width:100%;margin-left:0px;margin-right:0px;padding-left:0px !important;padding-right:0px !important;}
+.content-row-two-area {padding-top:5px ;width:100%;margin-left:0px;margin-right:0px;padding-left:0px !important;padding-right:0px !important;}
+#body_home .content-row-one {height:calc(100vh - 100px) !important;margin-top:100px !important;}
+#body_home .content-row-one-area {padding-top:0px !important;height:100% !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogridItem {width:100% !important;}
+.footer-row-area {width:100% !important;}
+.footer-row-area {width:100% !important;}
+.folding-cell-3 {width:100%;}
+
+}
+@media only screen and (min-width: 321px) and (max-width: 568px)
+{
+#body_home .content-row-one {margin-top:108px  !important;height:calc(100vh - 108px) !important;}
+#body_home .content-row-one-area {height:100% !important;padding-top:0px  !important;margin-top:0px !important;}
+#body_home .content-row-one {margin-top:108px  !important;height:calc(100vh - 108px) !important;}
+#body_home .content-row-one-area {height:100% !important;padding-top:0px  !important;margin-top:0px !important;}
+.header-row .folding-cell-2-container {flex-direction:row;flex-wrap:nowrap;}
+.header-row-small {height:auto  !important;}
+.header-row {border-bottom: none rgb(255, 0, 0)  !important;}
+.header-menu-area {display:block  !important;width:100% !important;}
+#header-menu {display:none;}
+.header-content {width:100% !important;flex-direction:column;height:60px  !important;}
+.header-logo {top:-40px  !important;height:100px !important;margin-left:0px  !important;margin-right:auto;padding-left:0px;padding-top:10px;width:calc(100% - 40px)  !important;}
+.header-row .folding-cell-2-container {flex-direction:row;flex-wrap:nowrap;}
+.header-row .folding-cell-2-container {flex-direction:row;flex-wrap:nowrap;}
+.folding-cell-2 {width:100%;}
+.header-address .margin-left-auto {margin-right:auto ;}
+.header-address {margin-left:auto !important;margin-right:auto  !important;margin-top:35px ;width:95%;}
+.main-menu-area {display:none;}
+#body_home .content-row-one {margin-top:108px  !important;height:calc(100vh - 108px) !important;}
+#body_home .content-row-one-area {height:100% !important;padding-top:0px  !important;margin-top:0px !important;}
+.content-row-one {height:auto;margin-top:108px  !important;}
+.content-row-one-area {padding-top:0px  !important;}
+#body_home .content-row-one-area {height:100% !important;padding-top:0px  !important;margin-top:0px !important;}
+.content-row-one-area {padding-top:0px  !important;}
+.content-row-two-area {width:100%;padding-right:10px !important;padding-left:10px !important;margin-right:0px;margin-left:0px;}
+.content-row-two-area {width:100%;padding-right:10px !important;padding-left:10px !important;margin-right:0px;margin-left:0px;}
+#body_home .content-row-one {margin-top:108px  !important;height:calc(100vh - 108px) !important;}
+#body_home .content-row-one-area {height:100% !important;padding-top:0px  !important;margin-top:0px !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogridItem {width:100% !important;}
+.footer-row-area {width:100% !important;}
+.footer-row-area {width:100% !important;}
+.folding-cell-3 {width:100%;}
+
+}
+@media only screen and (min-width: 569px) and (max-width: 768px)
+{
+#body_home .header-row .folding-cell-2 {width:100%  !important;}
+#body_home .header-row .folding-cell-2-container {flex-direction:row !important;flex-wrap:nowrap !important;}
+#body_home .content-row-one {height:calc(100vh - 168px) !important;margin-top:168px  !important;}
+#body_home .content-row-one-area {padding-top:0px  !important;}
+#body_home .header-row .folding-cell-2 {width:100%  !important;}
+#body_home .header-row .folding-cell-2-container {flex-direction:row !important;flex-wrap:nowrap !important;}
+#body_home .content-row-one {height:calc(100vh - 168px) !important;margin-top:168px  !important;}
+#body_home .content-row-one-area {padding-top:0px  !important;}
+#body_home .header-row .folding-cell-2 {width:100%  !important;}
+#body_home .header-row .folding-cell-2-container {flex-direction:row !important;flex-wrap:nowrap !important;}
+.header-row .folding-cell-2 {width:50%  !important;}
+.header-row .folding-cell-2-container {flex-direction:row !important;flex-wrap:nowrap !important;}
+.header-row {border-bottom: none rgb(255, 0, 0)  !important;}
+.header-menu-area {width:100% !important;}
+#header-menu {display:none;}
+.header-content {margin-bottom:0px  !important;padding:0px  !important;width:100% !important;flex-direction:column;height:140px ;}
+.header-logo {margin-top:10px ;padding:0px  !important;margin-left:auto ;margin-right:auto ;width:100%  !important;}
+#body_home .header-row .folding-cell-2-container {flex-direction:row !important;flex-wrap:nowrap !important;}
+.header-row .folding-cell-2-container {flex-direction:row !important;flex-wrap:nowrap !important;}
+#body_home .header-row .folding-cell-2 {width:100%  !important;}
+#body_home .header-row .folding-cell-2-container {flex-direction:row !important;flex-wrap:nowrap !important;}
+.header-row .folding-cell-2 {width:50%  !important;}
+.header-row .folding-cell-2-container {flex-direction:row !important;flex-wrap:nowrap !important;}
+.folding-cell-2 {width:100%;}
+.header-address {height:40px  !important;margin-top:0px ;width:95%;}
+.main-menu-area {display:none;}
+#body_home .content-row-one {height:calc(100vh - 168px) !important;margin-top:168px  !important;}
+.content-row-one-area {height:200px ;padding-top:168px ;width:100%;margin-top:0px  !important;}
+.content-row-one {margin-top:0px;}
+#body_home .content-row-one-area {padding-top:0px  !important;}
+.content-row-one-area {height:200px ;padding-top:168px ;width:100%;margin-top:0px  !important;}
+#body_home .content-row-one-area {padding-top:0px  !important;}
+.content-row-two-area {width:100%;padding-right:10px !important;padding-left:10px !important;margin-left:0px;margin-right:0px;}
+.content-row-two-area {width:100%;padding-right:10px !important;padding-left:10px !important;margin-left:0px;margin-right:0px;}
+#body_home .header-row .folding-cell-2 {width:100%  !important;}
+#body_home .header-row .folding-cell-2-container {flex-direction:row !important;flex-wrap:nowrap !important;}
+#body_home .content-row-one {height:calc(100vh - 168px) !important;margin-top:168px  !important;}
+#body_home .content-row-one-area {padding-top:0px  !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogridItem {width:50% !important;}
+.applicationPhotogrid2across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogrid3across .applicationPhotogridItem {width:100% !important;}
+.applicationPhotogridItem {width:50% !important;}
+.footer-row-area {width:100%  !important;}
+.footer-row-area {width:100%  !important;}
+.folding-cell-3 {width:100%;}
+
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px)
+{
+.header-menu-area {width:100% !important;}
+.header-content {width:100%;}
+.header-address {width:300px !important;}
+.content-row-two-area {width:100%;margin-right:10px;margin-left:10px;}
+.content-row-two-area {width:100%;margin-right:10px;margin-left:10px;}
+.footer-row-area {width:100%;}
+.footer-row-area {width:100%;}
+.main-level-0DIV {width:100% !important;}
+
+}
+@media only screen and (min-width: 769px) and (max-width: 1080px)
+{
+.content-row-one-area {width:100%;}
+.content-row-one-area {width:100%;}
+.footer-row-area {width:100% !important;}
+.footer-row-area {width:100% !important;}
+
+}
+</style>
+<script>
+
+</script>
+<link rel="stylesheet" id="fa-base-css" type="text/css" href="//static.southwindbuilders.com//eswpublic/fontawesome-pro-plus-7.1.0-web/css/fontawesome.min.css"><link rel="stylesheet" id="fa-base-css" type="text/css" href="//static.southwindbuilders.com//eswpublic/fontawesome-pro-plus-7.1.0-web/css/light.min.css"><link id="duotonecss" rel="stylesheet" type="text/css"></head><body class="splash-body" id="body_home">
+		
+		<div class="header-row header-white">
+			<div class="header-menu-area">
+		    <div role="navigation" id="header-menu" aria-label="header-menu" class="header-level-0DIV"><div role="link" class="header-level-0outerDIV_current " onclick="openLivePage(event,'show','page','home','0',1)" style="position: relative;"><div class="header-level-0innerDIV_current " id="menu_header-menu_1-home"><a id="menu_a_header-menu_1-home" class="header-level-0A_current " href="home">Home</a></div></div><div role="link" class="header-level-0outerDIV " onclick="openLivePage(event,'show','page','About','0',2)" style="position: relative;"><div class="header-level-0innerDIV " id="menu_header-menu_2-About"><a id="menu_a_header-menu_2-About" class="header-level-0A " href="About">About</a></div></div><div role="link" class="header-level-0outerDIV " onclick="openLivePage(event,'show','page','Contact','0',3)" style="position: relative;"><div class="header-level-0innerDIV " id="menu_header-menu_3-Contact"><a id="menu_a_header-menu_3-Contact" class="header-level-0A " href="Contact">Contact</a></div></div></div>
+<script>
+g_phi4MenuAreas.push({"parameters": {"id":"header-menu","style":"itemclass:menu;area:header;startlevel:0;showdropdowns:true;mobile:false;","itemclass":"menu","area":"header","startlevel":"0","showdropdowns":"true","mobile":"false","display":"none","mode":"show","page":"home","parent":"main"}, "levelParameters": [{"id":"header-menu-level-0","class":"header-menu-level-0","style":"level:0;styleprefix:header-level-0;dropdownoffsetx:0;dropdownoffsety:34;effect:fade;usetable:false;default:content;","level":"0","styleprefix":"header-level-0","dropdownoffsetx":"0","dropdownoffsety":"34","effect":"fade","usetable":"false","default":"content"},{"id":"header-menu-level-1","class":"header-menu-level-1","style":"level:1;styleprefix:header-level-1;dropdownoffsetx:5;dropdownoffsety:0;offset_orientation:right;effect:slide;usetable:false;","level":"1","styleprefix":"header-level-1","dropdownoffsetx":"5","dropdownoffsety":"0","offset_orientation":"right","effect":"slide","usetable":"false"},{"id":"header-menu-level-2","class":"header-menu-level-2","style":"level:2;styleprefix:header-level-2;dropdownoffsetx:5;dropdownoffsety:0;offset_orientation:right;effect:slide;usetable:false;","level":"2","styleprefix":"header-level-2","dropdownoffsetx":"5","dropdownoffsety":"0","offset_orientation":"right","effect":"slide","usetable":"false"}]});
+</script>
+										 								
+			</div>
+			<div id="header-content" class="header-content">
+				<div id="header-logo" class="header-logo header-logo-large" role="complementary" aria-label="Logo">
+					<div id="header-logo-edit" style="position:relative;"> 		 
+		<div class="folding-cell-2-container flexboxContainer">
+ 		    <div class="folding-cell-2 flexboxItem">
+    <a href="#top" target="_self" class="eswA"><picture><source srcset="//static.southwindbuilders.com/images/134_197_southwind_builders_logo.webp 197w,//static.southwindbuilders.com/images/134_218_southwind_builders_logo.webp 218w,//static.southwindbuilders.com/images/134_339_southwind_builders_logo.webp 339w,//static.southwindbuilders.com/images/134_371_southwind_builders_logo.webp 371w,//static.southwindbuilders.com/images/134_406_southwind_builders_logo.webp 406w,//static.southwindbuilders.com/images/134_445_southwind_builders_logo.webp 445w" sizes="(max-width: 320px) 197px,(max-width: 568px) 218px,(max-width: 768px) 339px,(max-width: 1024px) 371px,(max-width: 2000px) 406px,(max-width: 100vw) 445px" type="image/webp"><source srcset="//static.southwindbuilders.com/images/134_197_southwind_builders_logo.png 197w,//static.southwindbuilders.com/images/134_218_southwind_builders_logo.png 218w,//static.southwindbuilders.com/images/134_339_southwind_builders_logo.png 339w,//static.southwindbuilders.com/images/134_371_southwind_builders_logo.png 371w,//static.southwindbuilders.com/images/134_406_southwind_builders_logo.png 406w,//static.southwindbuilders.com/images/134_445_southwind_builders_logo.png 445w" sizes="(max-width: 320px) 197px,(max-width: 568px) 218px,(max-width: 768px) 339px,(max-width: 1024px) 371px,(max-width: 2000px) 406px,(max-width: 100vw) 445px" type="image/jpeg"><img src="//static.southwindbuilders.com/images/134_southwind_builders_logo.png" alt="Southwind Builders, Inc." style="width: 100%; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px;" class="" loading="eager" sizes="(max-width: 320px) 197px,(max-width: 568px) 218px,(max-width: 768px) 339px,(max-width: 1024px) 371px,(max-width: 2000px) 406px,100vw" fetchpriority="high" srcset="//static.southwindbuilders.com/images/134_197_southwind_builders_logo.png 197w,//static.southwindbuilders.com/images/134_218_southwind_builders_logo.png 218w,//static.southwindbuilders.com/images/134_339_southwind_builders_logo.png 339w,//static.southwindbuilders.com/images/134_371_southwind_builders_logo.png 371w,//static.southwindbuilders.com/images/134_406_southwind_builders_logo.png 406w,//static.southwindbuilders.com/images/134_445_southwind_builders_logo.png 445w"></picture></a>
+  </div>
+ 		    <div class="folding-cell-2 flexboxItem">&nbsp; &nbsp;&nbsp;<picture><source srcset="//static.southwindbuilders.com/images/112_105_reggie_2023.webp 105w,//static.southwindbuilders.com/images/112_163_reggie_2023.webp 163w,//static.southwindbuilders.com/images/112_178_reggie_2023.webp 178w,//static.southwindbuilders.com/images/112_195_reggie_2023.webp 195w,//static.southwindbuilders.com/images/112_918_reggie_2023.webp 918w" sizes="(max-width: 568px) 105px,(max-width: 768px) 163px,(max-width: 1024px) 178px,(max-width: 2000px) 195px,(max-width: 100vw) 918px" type="image/webp"><source srcset="//static.southwindbuilders.com/images/112_105_reggie_2023.png 105w,//static.southwindbuilders.com/images/112_163_reggie_2023.png 163w,//static.southwindbuilders.com/images/112_178_reggie_2023.png 178w,//static.southwindbuilders.com/images/112_195_reggie_2023.png 195w,//static.southwindbuilders.com/images/112_918_reggie_2023.png 918w" sizes="(max-width: 568px) 105px,(max-width: 768px) 163px,(max-width: 1024px) 178px,(max-width: 2000px) 195px,(max-width: 100vw) 918px" type="image/jpeg"><img src="//static.southwindbuilders.com/images/112_reggie_2023.png" alt="Reggie Award Winner 2023" style="width: 48%; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px;" class="" loading="eager" sizes="(max-width: 320px) 0px,(max-width: 568px) 105px,(max-width: 768px) 163px,(max-width: 1024px) 178px,(max-width: 2000px) 195px,100vw" srcset="//static.southwindbuilders.com/images/112_105_reggie_2023.png 105w,//static.southwindbuilders.com/images/112_163_reggie_2023.png 163w,//static.southwindbuilders.com/images/112_178_reggie_2023.png 178w,//static.southwindbuilders.com/images/112_195_reggie_2023.png 195w,//static.southwindbuilders.com/images/112_918_reggie_2023.png 918w"></picture>
+    <picture><source srcset="//static.southwindbuilders.com/images/12_67_epa_leadsafe_logo_nat_f235440_1.webp 67w,//static.southwindbuilders.com/images/12_170_epa_leadsafe_logo_nat_f235440_1.webp 170w,//static.southwindbuilders.com/images/12_241_epa_leadsafe_logo_nat_f235440_1.webp 241w,//static.southwindbuilders.com/images/12_164_epa_leadsafe_logo_nat_f235440_1.webp 164w,//static.southwindbuilders.com/images/12_179_epa_leadsafe_logo_nat_f235440_1.webp 179w,//static.southwindbuilders.com/images/12_1500_epa_leadsafe_logo_nat_f235440_1.webp 1500w" sizes="(max-width: 320px) 67px,(max-width: 568px) 170px,(max-width: 768px) 241px,(max-width: 1024px) 164px,(max-width: 2000px) 179px,(max-width: 100vw) 1500px" type="image/webp"><source srcset="//static.southwindbuilders.com/images/12_67_epa_leadsafe_logo_nat_f235440_1.png 67w,//static.southwindbuilders.com/images/12_170_epa_leadsafe_logo_nat_f235440_1.png 170w,//static.southwindbuilders.com/images/12_241_epa_leadsafe_logo_nat_f235440_1.png 241w,//static.southwindbuilders.com/images/12_164_epa_leadsafe_logo_nat_f235440_1.png 164w,//static.southwindbuilders.com/images/12_179_epa_leadsafe_logo_nat_f235440_1.png 179w,//static.southwindbuilders.com/images/12_1500_epa_leadsafe_logo_nat_f235440_1.png 1500w" sizes="(max-width: 320px) 67px,(max-width: 568px) 170px,(max-width: 768px) 241px,(max-width: 1024px) 164px,(max-width: 2000px) 179px,(max-width: 100vw) 1500px" type="image/jpeg"><img src="//static.southwindbuilders.com/images/12_epa_leadsafe_logo_nat_f235440_1.png" alt="EPA Lead-Safe Certified Firm" style="width: 35%; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px; margin-left: 20px;" class="" loading="eager" sizes="(max-width: 320px) 67px,(max-width: 568px) 170px,(max-width: 768px) 241px,(max-width: 1024px) 164px,(max-width: 2000px) 179px,100vw" srcset="//static.southwindbuilders.com/images/12_67_epa_leadsafe_logo_nat_f235440_1.png 67w,//static.southwindbuilders.com/images/12_164_epa_leadsafe_logo_nat_f235440_1.png 164w,//static.southwindbuilders.com/images/12_170_epa_leadsafe_logo_nat_f235440_1.png 170w,//static.southwindbuilders.com/images/12_179_epa_leadsafe_logo_nat_f235440_1.png 179w,//static.southwindbuilders.com/images/12_241_epa_leadsafe_logo_nat_f235440_1.png 241w,//static.southwindbuilders.com/images/12_1500_epa_leadsafe_logo_nat_f235440_1.png 1500w"></picture>
+  </div>
+ 		</div>
+ 	</div> 				
+				</div>	
+				<div class="header-address header-address-large" id="header-address" role="banner" aria-label="Contact Information">
+					<div id="header-address-edit" style="position:relative;">Enter your content here</div> 				
+				</div>					
+      	<div role="navigation" id="main-mobile-menu" aria-label="main-mobile-menu"><div class="main-mobile-menuHamburgerClosed open"> </div><div class="main-mobile-menuHamburgerOpened close" style="display: none;"> </div><div class="main-mobile-menuMenu mobilemenuarea mobilemenuarea-non-amp"> <ul class="main-mobile-menuUL mobilemenu-ul"><li class="main-mobile-level-0LI mobilemenu-li"><span class="main-mobile-level-0Empty mobilemenu-nochildren"></span><a class="main-mobile-level-0A_current mobilemenu-a-current" href="home">Home</a><div class="clear"> </div></li><li class="main-mobile-level-0LI mobilemenu-li"><span class="main-mobile-level-0Empty mobilemenu-nochildren"></span><a class="main-mobile-level-0A mobilemenu-a" href="About">About</a><div class="clear"> </div></li><li class="main-mobile-level-0LI mobilemenu-li"><span class="main-mobile-level-0Empty mobilemenu-nochildren"></span><a class="main-mobile-level-0A mobilemenu-a" href="Contact">Contact</a><div class="clear"> </div></li></ul><ul class="main-mobile-menuUL mobilemenu-ul"><li class="main-mobile-level-0LI mobilemenu-li"><span class="main-mobile-level-0Closed mobilemenu-closedchildren"></span><a class="main-mobile-level-0A mobilemenu-a" href="Gallery">Gallery</a><div class="clear"> </div><ul class="main-mobile-menuUL mobilemenu-ul" style="display: none;"><li class="main-mobile-level-1LI mobilemenu-li"><span class="main-mobile-level-1Empty mobilemenu-nochildren"></span><a class="main-mobile-level-1A mobilemenu-a" href="Gallery--Chisago-City">Gallery - Chisago City</a><div class="clear"> </div></li><li class="main-mobile-level-1LI mobilemenu-li"><span class="main-mobile-level-1Empty mobilemenu-nochildren"></span><a class="main-mobile-level-1A mobilemenu-a" href="Gallery--Carlson-Ridge">Gallery - Carlson Ridge</a><div class="clear"> </div></li><li class="main-mobile-level-1LI mobilemenu-li"><span class="main-mobile-level-1Empty mobilemenu-nochildren"></span><a class="main-mobile-level-1A mobilemenu-a" href="Gallery--Lake-Elmo">Gallery - Lake Elmo</a><div class="clear"> </div></li></ul></li><li class="main-mobile-level-0LI mobilemenu-li"><span class="main-mobile-level-0Closed mobilemenu-closedchildren"></span><a class="main-mobile-level-0A mobilemenu-a" href="Our-Developments">Our Developments</a><div class="clear"> </div><ul class="main-mobile-menuUL mobilemenu-ul" style="display: none;"><li class="main-mobile-level-1LI mobilemenu-li"><span class="main-mobile-level-1Empty mobilemenu-nochildren"></span><a class="main-mobile-level-1A mobilemenu-a" href="Chisago-Lakes-Golf-Villas">Chisago Lakes Golf Villas</a><div class="clear"> </div></li><li class="main-mobile-level-1LI mobilemenu-li"><span class="main-mobile-level-1Empty mobilemenu-nochildren"></span><a class="main-mobile-level-1A mobilemenu-a" href="Hunter-Hill">Hunter Hill</a><div class="clear"> </div></li><li class="main-mobile-level-1LI mobilemenu-li"><span class="main-mobile-level-1Empty mobilemenu-nochildren"></span><a class="main-mobile-level-1A mobilemenu-a" href="Carlson-Ridge">Carlson Ridge</a><div class="clear"> </div></li><li class="main-mobile-level-1LI mobilemenu-li"><span class="main-mobile-level-1Empty mobilemenu-nochildren"></span><a class="main-mobile-level-1A mobilemenu-a" href="Green-Lake-Villas">Green Lake Villas</a><div class="clear"> </div></li></ul></li><li class="main-mobile-level-0LI mobilemenu-li"><span class="main-mobile-level-0Empty mobilemenu-nochildren"></span><a class="main-mobile-level-0A mobilemenu-a" href="Remodeling">Remodeling</a><div class="clear"> </div></li><li class="main-mobile-level-0LI mobilemenu-li"><span class="main-mobile-level-0Empty mobilemenu-nochildren"></span><a class="main-mobile-level-0A mobilemenu-a" href="https://www.rwcwarranty.com/homeowners-2/what-does-rwc-membership-mean-to-me/">Residential Home Warranty</a><div class="clear"> </div></li><li class="main-mobile-level-0LI mobilemenu-li"><span class="main-mobile-level-0Empty mobilemenu-nochildren"></span><a class="main-mobile-level-0A mobilemenu-a" href="https://vimeo.com/coconstruct/review/160639936/3dd3615d5e" target="_blank">Co-Construct Tour</a><div class="clear"> </div></li></ul></div></div>
+<script>
+g_phi4MenuAreas.push({"parameters": {"id":"main-mobile-menu","class":"main-mobile-menu","style":"itemclass:menu;area:header,main;startlevel:0;showdropdowns:true;mobile:true;","itemclass":"menu","area":"header,main","startlevel":"0","showdropdowns":"true","mobile":"true","line-height":"1.2em !important","margin-top":"10px  !important","mode":"show","page":"home","parent":"main"}, "levelParameters": [{"id":"main-mobile-level-0","class":"main-mobile-level-0","style":"level:0;styleprefix:main-mobile-level-0;dropdownoffsetx:0;dropdownoffsety:44;effect:fade;usetable:false;default:content;","level":"0","styleprefix":"main-mobile-level-0","dropdownoffsetx":"0","dropdownoffsety":"44","effect":"fade","usetable":"false","default":"content"},{"id":"main-mobile-level-1","class":"main-mobile-level-1","style":"level:1;styleprefix:main-mobile-level-1;dropdownoffsetx:5;dropdownoffsety:0;offset_orientation:right;effect:slide;usetable:false;","level":"1","styleprefix":"main-mobile-level-1","dropdownoffsetx":"5","dropdownoffsety":"0","offset_orientation":"right","effect":"slide","usetable":"false"},{"id":"main-mobile-level-2","class":"main-mobile-level-2","style":"level:2;styleprefix:main-mobile-level-2;dropdownoffsetx:5;dropdownoffsety:0;offset_orientation:right;effect:slide;usetable:false;","level":"2","styleprefix":"main-mobile-level-2","dropdownoffsetx":"5","dropdownoffsety":"0","offset_orientation":"right","effect":"slide","usetable":"false"}]});
+</script>
+								
+			</div>
+			
+			<div class="main-menu-area">
+				<div id="main-menu-line" class="main-menu-line">
+			  </div>
+		    <div role="navigation" id="main-menu" aria-label="main-menu" class="main-level-0DIV"><div role="link" class="main-level-0outerDIV main-level-0outerDIVWithChild " onclick="openLivePage(event,'show','page','Gallery','0',6)" style="position: relative;"><div class="main-level-0innerDIV " id="menu_main-menu_6-Gallery"><a id="menu_a_main-menu_6-Gallery" class="main-level-0A " href="Gallery">Gallery</a></div></div><div class="main-level-0separator"> </div><div role="link" class="main-level-0outerDIV main-level-0outerDIVWithChild " onclick="openLivePage(event,'show','page','Our-Developments','0',7)" style="position: relative;"><div class="main-level-0innerDIV " id="menu_main-menu_7-Our-Developments"><a id="menu_a_main-menu_7-Our-Developments" class="main-level-0A " href="Our-Developments">Our Developments</a></div></div><div class="main-level-0separator"> </div><div role="link" class="main-level-0outerDIV " onclick="openLivePage(event,'show','page','Remodeling','0',8)" style="position: relative;"><div class="main-level-0innerDIV " id="menu_main-menu_8-Remodeling"><a id="menu_a_main-menu_8-Remodeling" class="main-level-0A " href="Remodeling">Remodeling</a></div></div><div class="main-level-0separator"> </div><div role="link" class="main-level-0outerDIV " onclick="openLivePage(event,'show','link','https://www.rwcwarranty.com/homeowners-2/what-does-rwc-membership-mean-to-me/','0',9)" style="position: relative;"><div class="main-level-0innerDIV " id="menu_main-menu_9-Residential-Home-Warranty"><a id="menu_a_main-menu_9-Residential-Home-Warranty" class="main-level-0A " href="https://www.rwcwarranty.com/homeowners-2/what-does-rwc-membership-mean-to-me/">Residential Home Warranty</a></div></div><div class="main-level-0separator"> </div><div role="link" class="main-level-0outerDIV " onclick="openLivePage(event,'show','link','https://vimeo.com/coconstruct/review/160639936/3dd3615d5e','1',10)" style="position: relative;"><div class="main-level-0innerDIV " id="menu_main-menu_10-CoConstruct-Tour"><a id="menu_a_main-menu_10-CoConstruct-Tour" class="main-level-0A " href="https://vimeo.com/coconstruct/review/160639936/3dd3615d5e" target="_blank">Co-Construct Tour</a></div></div></div>
+<script>
+g_phi4MenuAreas.push({"parameters": {"id":"main-menu","style":"itemclass:menu;area:main;startlevel:0;showdropdowns:true;mobile:false;","itemclass":"menu","area":"main","startlevel":"0","showdropdowns":"true","mobile":"false","mode":"show","page":"home","parent":"main"}, "levelParameters": [{"id":"main-menu-level-0","class":"main-menu-level-0","style":"separator:true;level:0;styleprefix:main-level-0;dropdownoffsetx:0;dropdownoffsety:24;effect:fade;usetable:false;default:content;","separator":"true","level":"0","styleprefix":"main-level-0","dropdownoffsetx":"0","dropdownoffsety":"24","effect":"fade","usetable":"false","default":"content"},{"id":"main-menu-level-1","class":"main-menu-level-1","style":"level:1;styleprefix:main-level-1;dropdownoffsetx:5;dropdownoffsety:0;offset_orientation:right;effect:slide;usetable:false;","level":"1","styleprefix":"main-level-1","dropdownoffsetx":"5","dropdownoffsety":"0","offset_orientation":"right","effect":"slide","usetable":"false"},{"id":"main-menu-level-2","class":"main-menu-level-2","style":"level:2;styleprefix:main-level-2;dropdownoffsetx:5;dropdownoffsety:0;offset_orientation:right;effect:slide;usetable:false;","level":"2","styleprefix":"main-level-2","dropdownoffsetx":"5","dropdownoffsety":"0","offset_orientation":"right","effect":"slide","usetable":"false"}]});
+</script>
+										 												
+			</div>	
+		</div>
+		<div class="content-row-one">
+			<div class="content-row-one-area" style="transition: height 1s;" role="complementary" aria-label="Page Title">
+				<div id="body-one" style="position:relative;"><div id="app_1" style="" class="applicationDiv"><div class="applicationSlidesFrame"><div class="applicationSlidesPanes"><div class="applicationSlidesPane applicationSlidesFadeCurrent"><img src="//static.southwindbuilders.com/images/135_southwind_1.jpg" alt="Southwind Builders, Inc. Slide One" style="width: 1500q; height: 1001px; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px; position: absolute;" width="1500" height="1001" class="" loading="eager" fetchpriority="high"><br></div><div class="applicationSlidesPane applicationSlidesFadeNext"><img src="//static.southwindbuilders.com/images/18_photo_0054.jpg" alt="Southwind Builders, Inc. Slide Two" style="width: 1499px; height: 1001px; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px; position: absolute;" width="1499" height="1001" class="" loading="eager"><br></div><div class="applicationSlidesPane applicationSlidesFadeNext"><img src="//static.southwindbuilders.com/images/20_photo_0022.jpg" alt="Southwind Builders, Inc. Slide Three" style="width: 1499px; height: 1001px; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px; position: absolute;" width="1499" height="1001" class="" loading="eager"><br></div><div class="applicationSlidesPane applicationSlidesFadeNext"><img src="//static.southwindbuilders.com/images/23_slide_four.jpg" alt="Southwind Builders, Inc. Slide Four" style="width: 1499.5px; height: 1000px; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px; position: absolute;" width="1499" height="1000" class="" loading="eager"><br></div><div class="applicationSlidesPane applicationSlidesFadeNext"><img src="//static.southwindbuilders.com/images/25_slide_five.jpg" alt="Southwind Builders, Inc. Slide Five" style="width: 1499.5px; height: 1000px; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px; position: absolute;" width="1499" height="1000" class="" loading="eager"><br></div><div class="applicationSlidesPane applicationSlidesFadeNext"><img src="//static.southwindbuilders.com/images/27_slide_six.jpg" alt="Southwind Builders, Inc. Slide Six" style="width: 1499px; height: 1001px; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px; position: absolute;" width="1499" height="1001" class="" loading="eager"><br></div><div class="applicationSlidesPane applicationSlidesFadeNext"><img src="//static.southwindbuilders.com/images/29_slide_seven.jpg" alt="Southwind Builders, Inc. Slide Seven" style="width: 1499px; height: 1001px; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px; position: absolute;" width="1499" height="1001" class="" loading="eager"><br></div><div class="applicationSlidesPane applicationSlidesFadeNext"><img src="//static.southwindbuilders.com/images/31_slide_8.jpg" alt="Southwind Builders, Inc. Slide Eight" style="width: 1499px; height: 1001px; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px; position: absolute;" width="1499" height="1001" class="" loading="eager"><br></div><div class="applicationSlidesPane applicationSlidesFadeNext"><img src="//static.southwindbuilders.com/images/33_slide_9.jpg" alt="Southwind Builders, Inc. Slide Nine" style="width: 1500px; height: 1000px; float: left; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px; position: absolute;" width="1500" height="1000" class="" loading="eager"><br></div><i class="applicationSlidesControl applicationSlidesControlPrevious fad fa-chevron-left" style="">
+</i><i class="applicationSlidesControl applicationSlidesControlPlay fad fa-play" style="display: none;">
+</i><i class="applicationSlidesControl applicationSlidesControlPause fad fa-pause" style="">
+</i><i class="applicationSlidesControl applicationSlidesControlNext fad fa-chevron-right" style="">
+</i></div><div class="applicationSlidesTabs"><i class="applicationSlidesTab fad fa-circle applicationSlidesCurrentTab">
+</i><i class="applicationSlidesTab fad fa-circle applicationSlidesHiddenTab">
+</i><i class="applicationSlidesTab fad fa-circle applicationSlidesHiddenTab">
+</i><i class="applicationSlidesTab fad fa-circle applicationSlidesHiddenTab">
+</i><i class="applicationSlidesTab fad fa-circle applicationSlidesHiddenTab">
+</i><i class="applicationSlidesTab fad fa-circle applicationSlidesHiddenTab">
+</i><i class="applicationSlidesTab fad fa-circle applicationSlidesHiddenTab">
+</i><i class="applicationSlidesTab fad fa-circle applicationSlidesHiddenTab">
+</i><i class="applicationSlidesTab fad fa-circle applicationSlidesHiddenTab">
+</i></div></div><script>
+var flyin_text_1=[["","","","","","",""],["","","","","","",""],["","","","","","",""],["","","","","","",""],["","","","","","",""],["","","","","","",""],["","","","","","",""],["","","","","","",""],["","","","","","",""],["","","","","","",""]];
+addLoadFunction(function ()
+{
+$.getScript('javascript/applicationSlides.js',function ()
+{
+var applicationSlides1 = new applicationSlides(1,9,{next: 'applicationSlidesFadeNext',current: 'applicationSlidesFadeCurrent',previous: 'applicationSlidesFadePrevious',delay: '6000',direction: '0',previousButton: 'fad fa-chevron-left',nextButton: 'fad fa-chevron-right',playButton: 'fad fa-play',pauseButton: 'fad fa-pause',gotoButton: 'fad fa-circle'});
+});
+});
+</script>
+</div><br></div> 				
+			</div>
+			<div class="content-row-one-cover"> </div>
+		</div>
+		<div class="content-row-two">
+			<div class="content-row-two-area" role="main">			
+				<div id="body" style="position:relative;"><br>
+<div style="text-align: center;">
+  <span class="userheader_1">
+Trust the Best  </span>
+  <br>
+</div>
+<span class="userNormal">
+Southwind Builders has earned a reputation of trust, confidence and superior craftsmanship, that has yielded </span>
+<br>
+<span class="userNormal">
+some of the finest custom-built homes. </span>
+<br><br><br>
+<div class="applicationPhotogrid3across">
+<div id="app_4" style="min-height: 300px;" class="applicationDiv"><div class="applicationPhotogrid4 applicationPhotogrid" style="position:relative;"><div class="applicationPhotogridItem flex-animate-size flex-animate-size-small" id="applicationPhotoGridItem_1"><picture><source sizes="(max-width:640px) 160px,(max-width:1280px) 320px,(max-width:2560px) 640px" srcset="//static.southwindbuilders.com/gallery/t1_2_160_lake_elmo_161.webp 160w,//static.southwindbuilders.com/gallery/t1_2_320_lake_elmo_161.webp 320w,//static.southwindbuilders.com/gallery/t1_2_640_lake_elmo_161.webp 640w" type="image/webp"><source sizes="(max-width:640px) 160px,(max-width:1280px) 320px,(max-width:2560px) 640px" srcset="//static.southwindbuilders.com/gallery/t1_2_160_lake_elmo_161.jpg 160w,//static.southwindbuilders.com/gallery/t1_2_320_lake_elmo_161.jpg 320w,//static.southwindbuilders.com/gallery/t1_2_640_lake_elmo_161.jpg 640w" type="image/jpeg"><img src="gallery/t1_2_lake_elmo_161.jpg" class="applicationPhotogridImage" alt="[IMAGE]" loading="lazy" sizes="(max-width:640px) 160px,(max-width:1280px) 320px,(max-width:2560px) 640px" srcset="//static.southwindbuilders.com/gallery/t1_2_160_lake_elmo_161.jpg 160w,//static.southwindbuilders.com/gallery/t1_2_320_lake_elmo_161.jpg 320w,//static.southwindbuilders.com/gallery/t1_2_640_lake_elmo_161.jpg 640w"></picture><a href="helpers/linktopage.php?pageKey=7&amp;position=top" target="_self"><div class="applicationPhotogridCover"><div class="applicationPhotogridCaption">Our Developments</div></div></a></div><div class="applicationPhotogridItem flex-animate-size flex-animate-size-small" id="applicationPhotoGridItem_2"><picture><source sizes="(max-width:640px) 160px,(max-width:1280px) 320px,(max-width:2560px) 640px" srcset="//static.southwindbuilders.com/gallery/t2_2_160_photo_0022.webp 160w,//static.southwindbuilders.com/gallery/t2_2_320_photo_0022.webp 320w,//static.southwindbuilders.com/gallery/t2_2_640_photo_0022.webp 640w" type="image/webp"><source sizes="(max-width:640px) 160px,(max-width:1280px) 320px,(max-width:2560px) 640px" srcset="//static.southwindbuilders.com/gallery/t2_2_160_photo_0022.jpg 160w,//static.southwindbuilders.com/gallery/t2_2_320_photo_0022.jpg 320w,//static.southwindbuilders.com/gallery/t2_2_640_photo_0022.jpg 640w" type="image/jpeg"><img src="gallery/t2_2_photo_0022.jpg" class="applicationPhotogridImage" alt="[IMAGE]" loading="lazy" sizes="(max-width:640px) 160px,(max-width:1280px) 320px,(max-width:2560px) 640px" srcset="//static.southwindbuilders.com/gallery/t2_2_160_photo_0022.jpg 160w,//static.southwindbuilders.com/gallery/t2_2_320_photo_0022.jpg 320w,//static.southwindbuilders.com/gallery/t2_2_640_photo_0022.jpg 640w"></picture><a href="helpers/linktopage.php?pageKey=6&amp;position=top" target="_self"><div class="applicationPhotogridCover"><div class="applicationPhotogridCaption">Photo Gallery</div></div></a></div></div></div>
+</div>
+<br>
+
+		<div class="folding-cell-2-container flexboxContainer">
+		  <div class="folding-cell-2 flexboxItem"><span class="userheader_1"> Contact Southwind Builders</span><br>You can get in touch with us during business hours by calling directly. Or use the form to the right to send us a message. We can't wait to hear from you!<br>651-773-8780<br><br>info@southwindbuilders.com<br><br><a href="https://www.facebook.com/Southwind-Builders-100325748353296/" target="_blank" class="eswA" rel="noreferrer">Connect on Facebook</a></div>
+		  <div class="folding-cell-2 flexboxItem"><br><div id="app_9" style="" class="applicationDiv">
+<script>
+var g_browserSession 	= 'c5d48fe472d02d9fcbd82c57ae8c2b54';
+var g_formExpressions = {};
+var g_formTypes 			= {};
+addLoadFunction(function () {
+jQuery.getScript('javascript/jquery.watermark.min.js', function (script,status,xhr){
+jQuery.getScript('javascript/form.js', function (script,status,xhr){
+jQuery.getScript('javascript/DropdownField.js', function (script,status,xhr){
+jQuery.getScript('javascript/paymentField.js', function (script,status,xhr){
+jQuery.getScript('javascript/CheckboxField.js', function (script,status,xhr){
+jQuery.getScript('javascript/ValidatePasswords.js', function (script,status,xhr){
+jQuery.getScript('javascript/ZipcodeBlockField.js', function (script,status,xhr){
+jQuery('.applicationFormField').blur({prefix : 'application'},jqValidateForm);
+setTimeout("validateForm('application')",500);
+});
+});
+});
+});
+});
+});
+});
+});
+</script>
+Please complete the form below.<br><form id="applicationFormPayPalForm" method="post" aria-label="paypal-form-9"></form><div id="applicationFormDiv" class="applicationFormDiv"><table role="none"><tbody><tr><td style="text-align:center;"><form method="post" action="#" enctype="multipart/form-data" id="form_9" aria-label="main-form-9">
+<input type="hidden" name="form_session" value="af119a43ae45f3e2ce49d8108659a48e">
+<input type="hidden" name="o" value="validate">
+<table class="applicationFormTable" onmouseover="validateForm('application')" id="applicationFormTable9" role="presentation"><tbody><tr class="applicationFormTr applicationFormPage0" id="formTr0" style=""><td class="applicationFormTd applicationFormTd9"><div id="appitem_2" class="applicationFormDiv">
+<div id="labelitem_2" class="applicationFormLabelDiv applicationFormLabelDiv9 applicationFormLabelFail"><label for="field_2">Name</label></div>
+<div class="applicationFormFieldDiv"><input onkeyup="validateForm(&quot;application&quot;,this)" type="text" id="field_2" class="applicationFormField applicationFormFieldWatermark" onfocus="fieldHasFocus('field_2','application')" onblur="fieldHasBlurred('field_2','application')" onclick="fieldClicked('field_2')" name="field_2" style="width:150px;" watermark="Name" value=""></div>
+<div id="requireditem_2" class="applicationFormRequiredFail">
+<div id="requirediconitem_2" class="applicationFormRequiredIconFail"> </div> </div>
+<script>
+g_formExpressions['field_2'] = '!^.+$!';
+</script>
+<div class="clear"> </div></div>
+</td></tr><tr class="applicationFormTr applicationFormPage0" id="formTr1" style=""><td class="applicationFormTd applicationFormTd9"><div id="appitem_3" class="applicationFormDiv">
+<div id="labelitem_3" class="applicationFormLabelDiv applicationFormLabelDiv9 applicationFormLabelFail"><label for="field_3">Email</label></div>
+<div class="applicationFormFieldDiv"><input onkeyup="validateForm(&quot;application&quot;,this)" type="text" id="field_3" class="applicationFormField applicationFormFieldWatermark" onfocus="fieldHasFocus('field_3','application')" onblur="fieldHasBlurred('field_3','application')" onclick="fieldClicked('field_3')" name="field_3" style="width:150px;" watermark="Email Address" value=""></div>
+<div id="requireditem_3" class="applicationFormRequiredFail">
+<div id="requirediconitem_3" class="applicationFormRequiredIconFail"> </div> </div>
+<script>
+g_formExpressions['field_3'] = '!^[0-9a-zA-Z\\._-]+@[0-9a-zA-Z\\.-]+$!';
+</script>
+<div class="clear"> </div></div>
+</td></tr><tr class="applicationFormTr applicationFormPage0" id="formTr2" style=""><td class="applicationFormTd applicationFormTd9"><div id="appitem_4" class="applicationFormDiv">
+<div id="labelitem_4" class="applicationFormLabelDiv applicationFormLabelDiv9 applicationFormLabelFail"><label for="field_4">Phone</label></div>
+<div class="applicationFormFieldDiv"><input onkeyup="validateForm(&quot;application&quot;,this)" type="text" id="field_4" class="applicationFormField applicationFormFieldWatermark" onfocus="fieldHasFocus('field_4','application')" onblur="fieldHasBlurred('field_4','application')" onclick="fieldClicked('field_4')" name="field_4" style="width:200px;" watermark="Phone Number" value=""></div>
+<div id="requireditem_4" class="applicationFormRequiredFail">
+<div id="requirediconitem_4" class="applicationFormRequiredIconFail"> </div> </div>
+<script>
+g_formExpressions['field_4'] = '!(^[^$])!';
+</script>
+<div class="clear"> </div></div>
+</td></tr><tr class="applicationFormTr applicationFormPage0" id="formTr3" style=""><td class="applicationFormTd applicationFormTd9"><div id="appitem_5" class="applicationFormDiv">
+<div id="labelitem_5" class="applicationFormLabelDiv applicationFormLabelDiv9 applicationFormLabelOk"><label for="field_5">Message</label></div>
+<div class="applicationFormFieldDiv"><textarea id="field_5" name="field_5" class="applicationFormField applicationFormFieldWatermark" style="width:150px;height:150px;" onfocus="fieldHasFocus('field_5','application')" onblur="fieldHasBlurred('field_5','application')" watermark="Message" onkeyup="validateForm(&quot;application&quot;)"></textarea></div>
+<div id="requireditem_5" class="applicationFormRequiredOk">
+</div>
+<script>
+g_formExpressions['field_5'] = '!.*$!';
+</script>
+<div class="clear"> </div></div>
+</td></tr></tbody></table>
+<script>
+var g_formTypes={};
+g_formTypes['field_2']='text';
+g_formTypes['field_3']='email';
+g_formTypes['field_4']='phone';
+g_formTypes['field_5']='textarea';
+</script>
+<script>
+var g_applicationFormTotalPages = 1;
+</script>
+<input class="applicationFormNextButton applicationFormPage0" id="submitButton" type="button" value="Submit" onclick="submitForm(9);" style="" disabled="disabled">
+</form>
+<iframe id="iframe_9" title="Paypal Helper" src="blank.html" style="visibility:hidden;width:1px;height:1px;"></iframe></td></tr></tbody></table>
+<div id="applicationFormBusyMask"><div id="applicationFormCloseIcon" class="fa fa-times" onclick="closeFormMessage()"></div><div id="applicationFormError"></div><div id="applicationFormBusyIcon" class="fa fa-spinner fa-pulse"></div><div id="applicationFormDone">Form Complete.</div></div></div></div></div>
+		</div><br><br>
+</div> 
+			</div>
+		</div>	
+		<div class="footer-row">
+			<div class="footer-row-area" role="contentinfo">
+				<div id="footer-line" class="footer-line">
+				</div>				
+				<div id="footer" style="position:relative;">
+		
+	<br><br><br>
+		<div class="folding-cell-3-container flexboxContainer">
+		  <div class="folding-cell-3 flexboxItem" style="text-align: center;">&nbsp;
+<!--StartFragment--><picture><source srcset="//static.southwindbuilders.com/images/38_222_southwind_builders_logo.webp 222w,//static.southwindbuilders.com/images/38_420_southwind_builders_logo.webp 420w,//static.southwindbuilders.com/images/38_256_southwind_builders_logo.webp 256w,//static.southwindbuilders.com/images/38_271_southwind_builders_logo.webp 271w,//static.southwindbuilders.com/images/38_280_southwind_builders_logo.webp 280w,//static.southwindbuilders.com/images/38_580_southwind_builders_logo.webp 580w" sizes="(max-width: 320px) 222px,(max-width: 568px) 420px,(max-width: 1024px) 256px,(max-width: 1080px) 271px,(max-width: 2000px) 280px,(max-width: 100vw) 580px" type="image/webp"><source srcset="//static.southwindbuilders.com/images/38_222_southwind_builders_logo.png 222w,//static.southwindbuilders.com/images/38_420_southwind_builders_logo.png 420w,//static.southwindbuilders.com/images/38_256_southwind_builders_logo.png 256w,//static.southwindbuilders.com/images/38_271_southwind_builders_logo.png 271w,//static.southwindbuilders.com/images/38_280_southwind_builders_logo.png 280w,//static.southwindbuilders.com/images/38_580_southwind_builders_logo.png 580w" sizes="(max-width: 320px) 222px,(max-width: 568px) 420px,(max-width: 1024px) 256px,(max-width: 1080px) 271px,(max-width: 2000px) 280px,(max-width: 100vw) 580px" type="image/jpeg"><img src="//static.southwindbuilders.com/images/38_southwind_builders_logo.png" alt="Southwind Builders, Inc." style="width: 80%; float: none; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px;" class="" loading="eager" sizes="(max-width: 320px) 222px,(max-width: 568px) 420px,(max-width: 768px) 580px,(max-width: 1024px) 256px,(max-width: 1080px) 271px,(max-width: 2000px) 280px,100vw" srcset="//static.southwindbuilders.com/images/38_222_southwind_builders_logo.png 222w,//static.southwindbuilders.com/images/38_256_southwind_builders_logo.png 256w,//static.southwindbuilders.com/images/38_271_southwind_builders_logo.png 271w,//static.southwindbuilders.com/images/38_280_southwind_builders_logo.png 280w,//static.southwindbuilders.com/images/38_420_southwind_builders_logo.png 420w,//static.southwindbuilders.com/images/38_445_southwind_builders_logo.png 445w,//static.southwindbuilders.com/images/38_580_southwind_builders_logo.png 580w"></picture><!--EndFragment-->
+
+</div>
+		  <div class="folding-cell-3 flexboxItem"><div style="text-align: center;"><span class="userheader_2">Contact Information</span>&nbsp;<br><hr>651-773-8780<br>info@southwindbuilders.com <br><br></div><br></div>
+		  <div class="folding-cell-3 flexboxItem"><div style="text-align: center;"><span class="userheader_2">&nbsp;Latest Post</span><br></div><hr><br><br></div>		  
+		</div>
+	<br><br><div style="text-align: center;">Copyright&nbsp;© 2015 Southwind Builders, Inc.&nbsp;<a href="https://www.ieditweb.com" target="_blank" class="eswA" rel="noreferrer"><img src="//static.southwindbuilders.com/images/41_powered_by_ieditweb_kerned_white.svg" alt="Powered by iEditWeb, Inc." style="width: 80px; height: 21.5px; float: none; border-color: rgb(255, 0, 0); border-style: solid; border-width: 0px;" width="80" height="21" class="" loading="eager"></a></div></div> 				
+			</div>
+		</div>		
+		<script>
+			addLoadFunction(function () 
+			{
+				jQuery.getScript('javascript/phi4toTheTop.js', function (script,status,xhr)
+				{
+					phi4toTheTop('fa-light fa-up-to-dotted-line');
+				});
+			});
+		</script>						
+	
+
+<span id="applicationLargeImageDiv"> </span><div id="main-menu_6" class="main-level-1DIV" style="position: absolute; display: none; border-collapse: collapse;"><div role="link" class="main-level-1outerDIV " onclick="openLivePage(event,'show','page','Gallery--Chisago-City','0',14)" style="position: relative;"><div class="main-level-1innerDIV " id="menu_main-menu_14-Gallery--Chisago-City"><a id="menu_a_main-menu_14-Gallery--Chisago-City" class="main-level-1A " href="Gallery--Chisago-City">Gallery - Chisago City</a></div></div><div role="link" class="main-level-1outerDIV " onclick="openLivePage(event,'show','page','Gallery--Carlson-Ridge','0',18)" style="position: relative;"><div class="main-level-1innerDIV " id="menu_main-menu_18-Gallery--Carlson-Ridge"><a id="menu_a_main-menu_18-Gallery--Carlson-Ridge" class="main-level-1A " href="Gallery--Carlson-Ridge">Gallery - Carlson Ridge</a></div></div><div role="link" class="main-level-1outerDIV " onclick="openLivePage(event,'show','page','Gallery--Lake-Elmo','0',15)" style="position: relative;"><div class="main-level-1innerDIV " id="menu_main-menu_15-Gallery--Lake-Elmo"><a id="menu_a_main-menu_15-Gallery--Lake-Elmo" class="main-level-1A " href="Gallery--Lake-Elmo">Gallery - Lake Elmo</a></div></div></div><div id="main-menu_7" class="main-level-1DIV" style="position: absolute; display: none; border-collapse: collapse;"><div role="link" class="main-level-1outerDIV " onclick="openLivePage(event,'show','page','Chisago-Lakes-Golf-Villas','0',16)" style="position: relative;"><div class="main-level-1innerDIV " id="menu_main-menu_16-Chisago-Lakes-Golf-Villas"><a id="menu_a_main-menu_16-Chisago-Lakes-Golf-Villas" class="main-level-1A " href="Chisago-Lakes-Golf-Villas">Chisago Lakes Golf Villas</a></div></div><div role="link" class="main-level-1outerDIV " onclick="openLivePage(event,'show','page','Hunter-Hill','0',12)" style="position: relative;"><div class="main-level-1innerDIV " id="menu_main-menu_12-Hunter-Hill"><a id="menu_a_main-menu_12-Hunter-Hill" class="main-level-1A " href="Hunter-Hill">Hunter Hill</a></div></div><div role="link" class="main-level-1outerDIV " onclick="openLivePage(event,'show','page','Carlson-Ridge','0',13)" style="position: relative;"><div class="main-level-1innerDIV " id="menu_main-menu_13-Carlson-Ridge"><a id="menu_a_main-menu_13-Carlson-Ridge" class="main-level-1A " href="Carlson-Ridge">Carlson Ridge</a></div></div><div role="link" class="main-level-1outerDIV " onclick="openLivePage(event,'show','page','Green-Lake-Villas','0',11)" style="position: relative;"><div class="main-level-1innerDIV " id="menu_main-menu_11-Green-Lake-Villas"><a id="menu_a_main-menu_11-Green-Lake-Villas" class="main-level-1A " href="Green-Lake-Villas">Green Lake Villas</a></div></div></div></body>

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://tolkene.dk/365/excel-rd42/",
+  "hostname": "tolkene.dk",
+  "checked_at": "2026-10-04T14:03:46.125061+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0a2e5-0f81-748b-a035-bf72750bf7df",
+  "match_kind": "same_hostname_similar_path",
+  "capture_timestamp": "2026-09-15T02:28:42.582Z",
+  "scan_original_url": "http://tolkene.dk/365/excel-rd42",
+  "final_url": "https://tolkene.dk/365/excel-rd42",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2079,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 18.278,
+  "discovery": {
+    "batch_id": "1edd7de150a9320862658ae50d844f70386b4febf75d953178bb55063b81a64c",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

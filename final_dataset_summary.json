@@ -1,0 +1,313 @@
+{
+  "artifact_summary": {
+    "dom_bytes": 121952776,
+    "missing": 0,
+    "screenshot_bytes": 155650802,
+    "storage": {
+      "at_least_100_mib": [],
+      "file_count": 1476,
+      "largest_files": [
+        {
+          "bytes": 18969725,
+          "path": "samples/production_230acb3201407b9d37a080f4cec0a6f949ece88a78af558878d722b14dc20ca7/dom.txt"
+        },
+        {
+          "bytes": 5587718,
+          "path": "samples/production_abdb9bc1699f003d9776f07babc551a719eb9bcaabeb8308f9b656ee558a6f72/dom.txt"
+        },
+        {
+          "bytes": 4865864,
+          "path": "samples/production_9e621d8af510b1c8b76f91a8570e12c420d31162e80c892d8605121ad1966c62/dom.txt"
+        },
+        {
+          "bytes": 4741745,
+          "path": "samples/production_70bd2db5efc84164460dfe071c8761b171f789b4e3823df79b40949120ff0b88/dom.txt"
+        },
+        {
+          "bytes": 3279620,
+          "path": "merge_audit.json"
+        },
+        {
+          "bytes": 2655109,
+          "path": "samples/live_fcb3ef3c6b2306fcd112c71a9358c4e7bba3c0e75e221ef64c5fcd45170b238d/dom.txt"
+        },
+        {
+          "bytes": 2151751,
+          "path": "samples/production_8cca462e896e147996c07c9ab468e09abfc9fab81e6fdabe1b82712634bfebf0/dom.txt"
+        },
+        {
+          "bytes": 1725981,
+          "path": "samples/production_9d6ae7963343c007d59a038e2cf87feb2907b03b64418c4de7e25249e2b2d651/dom.txt"
+        },
+        {
+          "bytes": 1602453,
+          "path": "samples/production_b3ddb0ffff1d41ae3508e9b58c10d6e2ab01f427c86d9508ac3b78d1f132daf8/dom.txt"
+        },
+        {
+          "bytes": 1467910,
+          "path": "manifest.json"
+        }
+      ],
+      "over_100_mib": [],
+      "over_25_mib": [],
+      "over_50_mib": [],
+      "total_bytes": 285370413,
+      "unusual_paths": []
+    },
+    "zero_byte": 0
+  },
+  "capture_strategy_breakdown": {
+    "commit_fallback": 6,
+    "javascript_disabled_fallback": 2,
+    "normal": 149,
+    "timeout_recovery_salvage": 44
+  },
+  "collection_funnel": {
+    "archived_prior_attempt_reports": 473,
+    "current_failed_non_usable": 388,
+    "current_technical_usable": 1191,
+    "current_usable_acquisition_breakdown": {
+      "commit_fallback": 6,
+      "javascript_disabled_fallback": 2,
+      "normal": 1110,
+      "timeout_recovery_salvage": 73
+    },
+    "deduplicated_candidates": 1579,
+    "historical_error_attempts": 880,
+    "live_check_records": 124947,
+    "live_check_status_counts": {
+      "connection_error": 800,
+      "dns_error": 36996,
+      "http_error": 10950,
+      "invalid_url": 2236,
+      "live_html": 1782,
+      "live_other": 26,
+      "redirect_loop": 9,
+      "timeout": 70936,
+      "tls_error": 1212
+    },
+    "raw_source_records": 124947,
+    "raw_source_sha256": "48b89a996d223d5408c9ec0805c29ab064733fdf09e4d2a3ba4dabd1f60bb7d0",
+    "retained_live": 201,
+    "review": {
+      "keep": 205,
+      "pending": 0,
+      "reject": 986,
+      "total": 1191
+    },
+    "urlscan_retained": 287
+  },
+  "dataset_version": "F0-v1",
+  "dedup_summary": {
+    "already_represented_keep": 162,
+    "live_skipped_exact_duplicate": 4,
+    "new_duplicates_skipped": 0,
+    "new_keep_considered": 43,
+    "new_samples_merged": 43
+  },
+  "finalization_script_sha256": "ac116eae3425e0d605067b4f8a9f014b6399c545ba94738f1007b53e3cf8bcf1",
+  "generated_at": "2026-10-06T05:06:26.455555+00:00",
+  "input_sha256": {
+    "live_capture/completed.jsonl": "27af7a687eec0ccfa33352ba097fdea1ab5deb2a0fada5df17617e42b9573d9b",
+    "live_capture/errors.jsonl": "4471012e38d9a0c6304d0a20ed48da9b87ccaf410d2c67f0291b44860877a99d",
+    "live_capture/review_data/decisions.json": "736ef17216bf47e131d7427b3883d6fbacab88257c057241662c9ec9b49a2154",
+    "live_check/live_capture_candidates.jsonl": "16536940ce89ef43d8ee392de6d8d9b74d772732ee87e43889a206c055fcbc52",
+    "live_check/results.jsonl": "c07f8532e09e8bf042eab32e8b7e436b0f2a9fe10e7de02a7de7099bb93058e7"
+  },
+  "review_summary": {
+    "keep": 205,
+    "pending": 0,
+    "reject": 986,
+    "total": 1191
+  },
+  "security_sanitization_summary": {
+    "files_sanitized": 27,
+    "files_scanned": 987,
+    "files_scanned_for_redaction": 986,
+    "limitations": [
+      "Pattern matching cannot certify absence of every sensitive value.",
+      "Screenshot pixels were not OCR-scanned for secrets.",
+      "Generic credential-shaped assignments are conservatively redacted; placeholders are not treated as credentials."
+    ],
+    "occurrences_redacted": 75,
+    "patterns": {
+      "basic_authorization": 9,
+      "embedded_credential_assignment": 18,
+      "google_api_key": 44,
+      "url_credentials": 4
+    },
+    "redactions": [
+      {
+        "path": "samples/live_1f6c247f2f5e056bbdff0297f80594dd1dc67cafd8b48c36818bcbe395aed4ab/dom.txt",
+        "patterns": {
+          "basic_authorization": 1
+        }
+      },
+      {
+        "path": "samples/live_20427e4b8d2bb59e541bbf1e5a991a172e5c380a95419e8d3e819053e3f1571b/dom.txt",
+        "patterns": {
+          "basic_authorization": 1
+        }
+      },
+      {
+        "path": "samples/live_2056154cbaacc69aacecd35e2fe9b7ad38093403f700a3cc74897d642c0b180b/dom.txt",
+        "patterns": {
+          "google_api_key": 1
+        }
+      },
+      {
+        "path": "samples/live_23322ab13f40e03f95c066baa00e1a8bc0f369a1f26ae71aa19c718c12569db6/dom.txt",
+        "patterns": {
+          "basic_authorization": 1
+        }
+      },
+      {
+        "path": "samples/live_27251355ddfec3db605b76a8233459dc55a03cb4224b5afa79ebc21f1fe6f3dd/dom.txt",
+        "patterns": {
+          "basic_authorization": 1
+        }
+      },
+      {
+        "path": "samples/live_314974a21c065606308f4be12bab9340779c93bf3b94035a36c230421237030e/dom.txt",
+        "patterns": {
+          "basic_authorization": 1
+        }
+      },
+      {
+        "path": "samples/live_57c6f28163918239d037d9fe9504d665ed0450fe3319ababed98be42e2838be7/dom.txt",
+        "patterns": {
+          "basic_authorization": 1
+        }
+      },
+      {
+        "path": "samples/live_65700f7f63ca5b21c4a0c5c914869f3f2e05f55d953c97fd2d2a23529e46162e/dom.txt",
+        "patterns": {
+          "basic_authorization": 1
+        }
+      },
+      {
+        "path": "samples/live_68b44adebc437305e78df949c13eab7256efb9c5574e507809a6479f1b4024aa/dom.txt",
+        "patterns": {
+          "embedded_credential_assignment": 3
+        }
+      },
+      {
+        "path": "samples/live_cb499c293d471b087c42dc8ebab79dd612965b8f7c57b13828eb706693bbd619/dom.txt",
+        "patterns": {
+          "embedded_credential_assignment": 3,
+          "google_api_key": 2
+        }
+      },
+      {
+        "path": "samples/live_d8c24712213dd0303a5a230e5a88ca7e59857d6292db09c521e496cdddaa675d/dom.txt",
+        "patterns": {
+          "embedded_credential_assignment": 3,
+          "google_api_key": 2
+        }
+      },
+      {
+        "path": "samples/production_150440331c1d3efa0c42e911df3dccc8b1ecf9bbdf5880e6cc28ba1e380f7f89/dom.txt",
+        "patterns": {
+          "google_api_key": 1
+        }
+      },
+      {
+        "path": "samples/production_186d49ac482cbee86a76e33d99a5aadcc0b8c97784059ae209757f9c64ca403e/dom.txt",
+        "patterns": {
+          "embedded_credential_assignment": 1
+        }
+      },
+      {
+        "path": "samples/production_29a031a2926dd8a9b835162e33cae2609d9eff644df0f55150419a6f1c3a9db9/dom.txt",
+        "patterns": {
+          "embedded_credential_assignment": 1
+        }
+      },
+      {
+        "path": "samples/production_33429589b033c4051e6537a2bf45ed5005f0dbd34318cd2cac21c764ce21c0ec/dom.txt",
+        "patterns": {
+          "basic_authorization": 2
+        }
+      },
+      {
+        "path": "samples/production_340c7a2fb36f11670af71d0e41b237d01bdde666331f194ded66bf5d78b4134e/dom.txt",
+        "patterns": {
+          "google_api_key": 8
+        }
+      },
+      {
+        "path": "samples/production_3d329d9b294ffe8b90eeef8077aef84c231f4ebefa236ca3138d0a2a1e92aa92/dom.txt",
+        "patterns": {
+          "google_api_key": 1
+        }
+      },
+      {
+        "path": "samples/production_3eb20d78f2e8da81aee7a4ab604bebb973d829736bb3cec9c87780be5f58cf49/dom.txt",
+        "patterns": {
+          "google_api_key": 8
+        }
+      },
+      {
+        "path": "samples/production_487d77ab10ae0c2ac9fb5acfea98a33f1a4bc70f2bf22d095c993b02b63442f4/dom.txt",
+        "patterns": {
+          "url_credentials": 4
+        }
+      },
+      {
+        "path": "samples/production_49b54bda7700d228866d50c5f9232f768fe106f0952228412a9f6a58340d87a7/dom.txt",
+        "patterns": {
+          "google_api_key": 1
+        }
+      },
+      {
+        "path": "samples/production_4c739fe99036c13e08908c972be107f1dfd91052e2afedd867e48f9a6e65128a/dom.txt",
+        "patterns": {
+          "google_api_key": 18
+        }
+      },
+      {
+        "path": "samples/production_4f750a7da2123bcfb8f968020a7d97e280d0dda813d09946fcea68db5e3019e3/dom.txt",
+        "patterns": {
+          "google_api_key": 1
+        }
+      },
+      {
+        "path": "samples/production_546ca32a1c6a6e9d297de8896b5f1b88f493d077b12cfbc2837528304765ca46/dom.txt",
+        "patterns": {
+          "embedded_credential_assignment": 4
+        }
+      },
+      {
+        "path": "samples/production_890f40eaa8454192476642bbf635cd73339bf0f8d95c9ea6402309816b4db4cb/dom.txt",
+        "patterns": {
+          "embedded_credential_assignment": 1
+        }
+      },
+      {
+        "path": "samples/production_be967ddbc51ce94703266d27d89636b0382584a89bc3e30a43484fa58726c500/dom.txt",
+        "patterns": {
+          "google_api_key": 1
+        }
+      },
+      {
+        "path": "samples/production_c6ceaca9dfc9b3df86d65fbc56aaea231132cf41899376a3f497d7175b256032/dom.txt",
+        "patterns": {
+          "embedded_credential_assignment": 1
+        }
+      },
+      {
+        "path": "samples/production_e6248e405f9993ee2cd03381735fddfa433170cf071e1e46623e793efd7dccd6/dom.txt",
+        "patterns": {
+          "embedded_credential_assignment": 1
+        }
+      }
+    ],
+    "remaining_recognized_pattern_warnings": 0
+  },
+  "source_breakdown": {
+    "live_playwright": 201,
+    "urlscan": 287
+  },
+  "total_samples": 488,
+  "validation_status": "PASS"
+}

@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_afdf22a7b30d524d46da429ee8acaf5cc6ab3651adea630dd19da62fea80ab05",
+  "candidate_sha256": "d75b782651e307340565f1693c88e857edab29baceac01143cfb9e888dc31157",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://hacklike.vn",
+  "requested_url": "https://hacklike.vn",
+  "browser_final_url": "https://hacklike.vn/",
+  "source_urls": [
+    "https://hacklike.vn"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11665,
+      "source_url": "https://hacklike.vn",
+      "source_hostname": "hacklike.vn",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://hacklike.vn",
+      "final_hostname": "hacklike.vn",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 21436,
+      "elapsed_ms": 350,
+      "checked_at": "2026-10-05T12:41:47.809914+00:00",
+      "error": null,
+      "normalized_source_url": "https://hacklike.vn/",
+      "normalized_final_url": "https://hacklike.vn/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_afdf22a7b30d524d46da429ee8acaf5cc6ab3651adea630dd19da62fea80ab05",
+    "representative_source_index": 11665,
+    "representative_source_url": "https://hacklike.vn",
+    "representative_final_url": "https://hacklike.vn",
+    "normalized_final_url": "https://hacklike.vn/",
+    "source_hostname": "hacklike.vn",
+    "final_hostname": "hacklike.vn",
+    "source_urls": [
+      "https://hacklike.vn"
+    ],
+    "provenance": [
+      {
+        "source_index": 11665,
+        "source_url": "https://hacklike.vn",
+        "source_hostname": "hacklike.vn",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://hacklike.vn",
+        "final_hostname": "hacklike.vn",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 21436,
+        "elapsed_ms": 350,
+        "checked_at": "2026-10-05T12:41:47.809914+00:00",
+        "error": null,
+        "normalized_source_url": "https://hacklike.vn/",
+        "normalized_final_url": "https://hacklike.vn/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Hack like facebook - hack like - auto like facebook - tăng like facebook - web hack like facebook - tang like facebook",
+  "capture_timestamp": "2026-10-05T14:52:50.868495+00:00",
+  "dom_chars": 21323,
+  "screenshot_bytes": 386188,
+  "dom_sha256": "9925876ab91f9f3ff119082db40882cfbc6a6da7c977455868725645d5c5d608",
+  "screenshot_sha256": "613306629b818d8187e145c637ed9ebda40e5787338b3b7e77ea46a1d1538be6",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://hacklike.vn/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://hacklike.vn",
+    "browser_final_url": "https://hacklike.vn/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4257
+}

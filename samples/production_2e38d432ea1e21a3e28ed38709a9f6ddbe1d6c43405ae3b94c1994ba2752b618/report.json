@@ -1,0 +1,27 @@
+{
+  "original_url": "https://mrqz.me/60a92dbdfa9186004013b9a2",
+  "hostname": "mrqz.me",
+  "checked_at": "2026-10-04T16:11:16.556844+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 12,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0eaaa-801e-774b-b174-812067d62f7c",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-29T00:57:33.974Z",
+  "scan_original_url": "http://mrqz.me/",
+  "final_url": "https://mrqz.me/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 190,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.017,
+  "discovery": {
+    "batch_id": "cc8d4c11fc44cfe0cdaae17a2bf68ad6bb8780a4d1c95ab6e89ac2f8409bedab",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

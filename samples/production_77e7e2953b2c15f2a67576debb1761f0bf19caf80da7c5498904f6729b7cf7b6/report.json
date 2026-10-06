@@ -1,0 +1,21 @@
+{
+  "original_url": "kythuatdmayxanh.com",
+  "hostname": "kythuatdmayxanh.com",
+  "checked_at": "2026-10-04T10:34:19.376031+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "0199b2ac-f5d2-757a-941b-5f454dd287f7",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-10-05T04:41:53.754Z",
+  "scan_original_url": "http://kythuatdmayxanh.com/",
+  "final_url": "https://kythuatdmayxanh.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 7103,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.376
+}

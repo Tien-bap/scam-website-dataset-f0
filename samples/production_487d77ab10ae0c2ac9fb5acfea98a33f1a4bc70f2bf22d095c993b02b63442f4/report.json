@@ -1,0 +1,27 @@
+{
+  "original_url": "www.exness.com",
+  "hostname": "www.exness.com",
+  "checked_at": "2026-10-04T13:34:30.906357+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b7d0-74cd-71b8-8d29-5ef567db8ac5",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-09-19T03:58:17.541Z",
+  "scan_original_url": "https://trudtwallet.com/",
+  "final_url": "https://www.exness.com/?utm_source=partners&cid=mu7uxci14kbiwgchoa8xwtumez&ex_ol=1",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 9468,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.265,
+  "discovery": {
+    "batch_id": "368c395c57e2a904e95a15c2d80e35ae211785f9c12d934a24867b1da49223ba",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

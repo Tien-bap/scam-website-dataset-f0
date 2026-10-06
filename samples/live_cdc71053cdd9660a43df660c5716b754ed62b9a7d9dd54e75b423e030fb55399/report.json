@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_cdc71053cdd9660a43df660c5716b754ed62b9a7d9dd54e75b423e030fb55399",
+  "candidate_sha256": "7e9314130832da28ea2101e0bd4a7b249637f987cca95880b08fcdcf53da9ebe",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://clmm.bar",
+  "requested_url": "https://clmm.bar",
+  "browser_final_url": "https://clmm.bar/",
+  "source_urls": [
+    "https://clmm.bar"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2281,
+      "source_url": "https://clmm.bar",
+      "source_hostname": "clmm.bar",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://clmm.bar",
+      "final_hostname": "clmm.bar",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 865,
+      "checked_at": "2026-10-05T12:19:37.776372+00:00",
+      "error": null,
+      "normalized_source_url": "https://clmm.bar/",
+      "normalized_final_url": "https://clmm.bar/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_cdc71053cdd9660a43df660c5716b754ed62b9a7d9dd54e75b423e030fb55399",
+    "representative_source_index": 2281,
+    "representative_source_url": "https://clmm.bar",
+    "representative_final_url": "https://clmm.bar",
+    "normalized_final_url": "https://clmm.bar/",
+    "source_hostname": "clmm.bar",
+    "final_hostname": "clmm.bar",
+    "source_urls": [
+      "https://clmm.bar"
+    ],
+    "provenance": [
+      {
+        "source_index": 2281,
+        "source_url": "https://clmm.bar",
+        "source_hostname": "clmm.bar",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://clmm.bar",
+        "final_hostname": "clmm.bar",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 865,
+        "checked_at": "2026-10-05T12:19:37.776372+00:00",
+        "error": null,
+        "normalized_source_url": "https://clmm.bar/",
+        "normalized_final_url": "https://clmm.bar/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "clmm – Sportsbook, Casino & Slot Online tại Việt Nam",
+  "capture_timestamp": "2026-10-05T14:55:58.343098+00:00",
+  "dom_chars": 121590,
+  "screenshot_bytes": 1021885,
+  "dom_sha256": "9f5ab642c9ee92a617333c96460002cec5f4b832e380f3b5a700e19491fac449",
+  "screenshot_sha256": "8294b50eeb1085282f0b57946c01099833d37c48c32a9dce09929142b2ddbe96",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://clmm.bar/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://clmm.bar",
+    "browser_final_url": "https://clmm.bar/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3354
+}

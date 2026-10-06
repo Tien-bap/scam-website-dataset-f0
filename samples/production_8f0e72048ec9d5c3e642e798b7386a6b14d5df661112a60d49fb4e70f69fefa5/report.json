@@ -1,0 +1,27 @@
+{
+  "original_url": "https://dwire.it/FB-19MNBA12361JNA/profile.html?countUser=0803a6f90c9952406c20c6b60f82977e",
+  "hostname": "dwire.it",
+  "checked_at": "2026-10-04T14:11:17.752334+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0af7a-f644-73fa-9b5f-5d15e9c6afa6",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-17T13:07:54.373Z",
+  "scan_original_url": "http://dwire.it/",
+  "final_url": "https://dwire.it/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5918,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 47.033,
+  "discovery": {
+    "batch_id": "b253b8e762abacac30f11a1dff6fd1e712bdd3a96a975be9114abb7613ca3318",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

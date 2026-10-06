@@ -1,0 +1,501 @@
+<head>
+<title>Welcome To The Current and Jacks Fork Rivers Home.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+
+
+
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_jumpMenuGo(selName,targ,restore){ //v3.0
+  var selObj = MM_findObj(selName); if (selObj) MM_jumpMenu(targ,selObj,restore);
+}
+//-->
+</script>
+<meta name="description" content="Current River, Jacks Fork River, Ozark National Scenic Riverways Park and Eminence, MO. photo tours, maps, springs, caves, bluffs, river stages,  public areas, history, wildlife, river guide, regulations, paddling, fishing, camping, hunting, lodging, hiking, site seeing, trailriding and more. ">
+<meta name="keywords" content="current river, jacks fork river, current river information, jacks fork river information, current river maps, jacks fork river maps, current river springs, jacks fork river springs, current river caves, jacks fork river caves, current river bluffs, jacks fork river bluffs, current river lodging, jacks fork river lodging, current river floating, jacks fork river floating, ozark national scenic riverways park, eminence missouri,">
+</head><body text="#CCCCCC" link="#000033" vlink="#000066" alink="#0000CC" bgcolor="#000033" onload="" background="/images/waterbackmine-darker.jpg">
+<table cellspacing="0" cellpadding="0" border="0" align="center" width="975">
+  <tbody><tr> 
+    <td colspan="2" valign="top" height="66"> 
+      <div align="center"> 
+        <table width="99%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td height="70">
+              <h1><font color="#CCCCCC" face="Times New Roman, Times, serif"><b><font size="4" color="#FFFFFF">This 
+                is it! Your headquarters for Current River, Jacks Fork River and 
+                Ozark National Scenic Riverways information!</font></b></font></h1>
+            </td>
+            <td height="70" valign="top"> 
+              <blockquote> 
+                <blockquote> 
+                  <h1 align="center"><font color="#CCCCCC" size="4" face="Georgia, Times New Roman, Times, serif"><i><font color="#CCFFFF" size="3">Come 
+                    one, come all and visit the Current and Jacks Fork Rivers, 
+                    leave the noisy hustle bustle of modern life behind, lose 
+                    the stress, and relax for a time, while gliding over cool 
+                    clear water, past scenic bluffs, springs, caves and forests.</font></i></font> 
+                  </h1>
+                </blockquote>
+              </blockquote>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" height="414"> 
+      <div align="center"> 
+        <div align="center"> 
+          <table width="99%" border="0" cellspacing="0" cellpadding="0" align="center">
+            <tbody><tr>
+              <td width="25%">
+                <h3><font color="#FFFFFF" size="3" face="Georgia, Times New Roman, Times, serif">Just 
+                  as the Current and Jacks Fork Rivers rise from many sources 
+                  to connect and become such extraordinary streams, we too, are 
+                  all a part of a river of humanity, equally connected to our 
+                  own ancestral sources. Perhaps that is one of the many reasons 
+                  why the timeless rhythm of moving water so touches us, just 
+                  as surely now, as it must have touched the hearts and souls 
+                  of our ascendants, and the Native Americans before them who 
+                  first roamed the hills and valleys of the Ozark Plateau. They 
+                  most certainly experienced the same feelings of peaceful joy, 
+                  awed exhilaration, innate excitement and natural connectivity 
+                  that the experience of this river may arouse in you.</font> 
+                </h3>
+              </td>
+              <td width="48%"> 
+                <div align="center"><iframe width="420" height="315" src="https://www.youtube.com/embed/bSQhQ_0KHx4?rel=0" frameborder="0" allowfullscreen=""> 
+                  </iframe></div>
+                <div align="center"><b>9 min. Photo Tour: <br>
+                  Montauk to Big Spring<br>
+                  90 miles.</b></div>
+              </td>
+              <td width="27%">
+                <h4><font color="#FFFFFF" size="3" face="Georgia, Times New Roman, Times, serif">The 
+                  Current and Jacks Fork Rivers are much the same now as when 
+                  our ancestors first saw them; unspoiled, wild, beautiful, inspiring, 
+                  alive and alluring. Seven crisp, cool springs bubble and rise 
+                  from the earth to form the Current Rivers' source, three the 
+                  Jacks Fork. From thence and throughout their courses numerous 
+                  springs trickle, spurt, or gush forth from the land, among them 
+                  is Big Spring - Missouri's largest, and one of the largest springs 
+                  in the world. The bluffs, caves, springs, forest and wildlife 
+                  provide a magnificent array of sights, sounds and other natural 
+                  sensations that will bathe your body and soul, come immerse 
+                  yourself in them - and enjoy.</font> </h4>
+              </td>
+            </tr>
+          </tbody></table>
+          <h5> <font color="#FFFFFF" size="3" face="Georgia, Times New Roman, Times, serif">The 
+            menu below will provide you with all the information you could want 
+            or need to know about the Current River, From photo tours to videos, 
+            maps, springs, caves, bluffs, river stages, public areas, history, 
+            regulations, paddling, fishing, camping, hunting, lodging, hiking, 
+            site seeing, trailriding and more, it's all here for you! Jacks Fork 
+            River and Ozark National Scenic Riverways Park menus and information 
+            sections also follow below.</font></h5>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" height="610"> 
+      <table width="99%" border="2" cellspacing="1" cellpadding="1">
+        <tbody><tr> 
+          <td> 
+            <div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="1124" height="93">
+                <param name="movie" value="current-menu.swf">
+                <param name="quality" value="high">
+                <param name="allowScriptAccess" value="always">
+                <param name="wmode" value="transparent">
+                <embed src="current-menu.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="1124" height="93" allowscriptaccess="always" wmode="transparent">
+                
+              </object></div>
+          </td>
+        </tr>
+      </tbody></table>
+      <hr>
+      <hr>
+      <br>
+      <blockquote> 
+        <blockquote> 
+          <blockquote> 
+            <blockquote> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr> 
+                  <td height="120"> 
+                    <p><font face="Georgia, Times New Roman, Times, serif" size="5" color="#FFFFFF">The 
+                      Jacks Fork </font><font face="Georgia, Times New Roman, Times, serif" size="3" color="#FFFFFF"><br>
+                      is one of two rivers that are in the Ozark National Scenic 
+                      Riverways Park. It starts in Texas County and flows 46.4 
+                      miles to it's confluence with the Current River near Eminence, 
+                      Missouri. It is the major tributary of the Current River, 
+                      the first 25 miles from the Prongs to Bay Creek is deep 
+                      valley and in the springtime provides Class II water. The 
+                      Jacks Fork is also the most primitive of the rivers in the 
+                      region. From Alley Spring to its confluence with the Current 
+                      River it is a Class I River and is floatable year around. 
+                      The Jacks Fork provides pristine natural conditions many 
+                      caves and natural springs.</font></p>
+                    </td>
+                  <td height="120"><iframe width="480" height="360" src="https://www.youtube.com/embed/NsYB9MFJq_E?rel=0" frameborder="0" allowfullscreen=""></iframe> 
+                  </td>
+                </tr>
+              </tbody></table>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+        <div align="center"> </div>
+      </blockquote>
+      <div align="center"> 
+        <table width="700" border="2" cellspacing="1" cellpadding="1" background="images/waterback2.jpg" mm_noconvert="TRUE" align="center">
+          <tbody><tr> 
+            <td colspan="4" height="41"> 
+              <div align="center"><font color="#000033"><b><img src="images/jf_title1.gif" width="490" height="29" alt="Jacks Fork River Description and Info."></b></font></div>
+            </td>
+          </tr>
+          <tr> 
+            <td width="31%" height="49" align="center" valign="top"> 
+              <div align="center"><b><font color="#000033">Maps </font></b> <br>
+                <select name="menu7" onchange="MM_jumpMenu('parent',this,0)">
+                  <option selected="">Select a Map</option>
+                  <option value="region_map.htm">Regional Map</option>
+                  <option value="jacks_fork_map.htm">Prongs to Alley Spring</option>
+                  <option value="jacks_fork_map2.htm">Alley Spring to Two Rivers</option>
+                  <option value="ozarmap1.pdf">NPS ONSR PDF Map</option>
+                </select>
+                <br>
+                <input type="button" name="Button7" value="Go" onclick="MM_jumpMenuGo('menu7','parent',0)">
+              </div>
+            </td>
+            <td width="22%" height="49" align="center" valign="top"> 
+              <div align="center"><b><font color="#000033">Springs<br>
+                </font></b> 
+                <select name="menu17" onchange="MM_jumpMenu('parent',this,0)">
+                  <option selected="">Select a Spring</option>
+                  <option value="JF_bluespring.htm">Blue Spring</option>
+                  <option value="JF_Rymerspring.htm">Rymer Spring</option>
+                  <option value="http://members.socket.net/~joschaper/alley.htm">Alley 
+                  Spring</option>
+                </select>
+                <br>
+                <input type="button" name="Button16" value="Go" onclick="MM_jumpMenuGo('menu17','parent',0)">
+                <b><font color="#000033"> <br>
+                </font></b></div>
+            </td>
+            <td width="24%" height="49" valign="top"> 
+              <div align="center"><b><font color="#000033">River Stages</font></b> 
+                <select name="menu8" onchange="MM_jumpMenu('parent',this,0)">
+                  <option selected="">Select a Location</option>
+                  <option value="http://waterdata.usgs.gov/usa/nwis/uv?07065200">Near 
+                  Mountain View, MO.</option>
+                  <option value="http://waterdata.usgs.gov/mo/nwis/uv?07065495">At 
+                  Alley Spring, MO.</option>
+                  <option value="http://waterdata.usgs.gov/usa/nwis/uv?07066000">At 
+                  Eminence, MO.</option>
+                </select>
+                <input type="button" name="Button8" value="Go" onclick="MM_jumpMenuGo('menu8','parent',0)">
+              </div>
+            </td>
+            <td width="23%" height="49" align="center" valign="top"> 
+              <div align="center"><b><font color="#000033">Regulations<br>
+                </font></b> 
+                <select name="menu9" onchange="MM_jumpMenu('parent',this,0)">
+                  <option selected="">Select a Topic</option>
+                  <option value="regulations.htm">Hunt &amp; Fish</option>
+                  <option value="regulations2.htm">Fishing</option>
+                  <option value="regulations3.htm">Horses &amp; ATV's</option>
+                  <option value="regulations4.htm">Hiking</option>
+                </select>
+                <br>
+                <input type="button" name="Button9" value="Go" onclick="MM_jumpMenuGo('menu9','parent',0)">
+              </div>
+            </td>
+          </tr>
+          <tr> 
+            <td width="31%" height="43" align="center" valign="top"> 
+              <div align="center"><b><font color="#000033">Caves<br>
+                </font></b> 
+                <select name="menu15" onchange="MM_jumpMenu('parent',this,0)">
+                  <option selected="">Select a Cave</option>
+                  <option value="injun_cave.htm">Injun Cave</option>
+                  <option value="meeting_house_cave.htm">Meeting House Cave</option>
+                  <option value="jam_up_cave.htm">Jam-Up Cave</option>
+                </select>
+                <br>
+                <input type="button" name="Button14" value="Go" onclick="MM_jumpMenuGo('menu15','parent',0)">
+              </div>
+            </td>
+            <td width="22%" height="43" align="center" valign="top"> 
+              <div align="center"><b><font color="#000033">Bluffs<br>
+                </font></b> 
+                <select name="menu16" onchange="MM_jumpMenu('parent',this,0)">
+                  <option selected="">Select a Bluff</option>
+                  <option value="jamupcave_bluff.htm">Jam Up Cave Bluff</option>
+                  <option value="rymer_bluff.htm">Rymers Bluff</option>
+                  <option value="chalk_bluff.htm">Chalk Bluff</option>
+                  <option value="bee_bluff.htm">Bee Bluff</option>
+                  <option value="bear_hollow_bluff.htm">Bear Hollow Bluff</option>
+                </select>
+                <input type="button" name="Button15" value="Go" onclick="MM_jumpMenuGo('menu16','parent',0)">
+              </div>
+            </td>
+            <td width="24%" height="43" align="center" valign="middle"> 
+              <div align="center" #000033"=""><a href="http://eaglespark.com/wildlife.htm" target="_blank"><b>Wildlife</b></a> 
+              </div>
+            </td>
+            <td width="23%" height="43"> 
+              <div align="center"><b><font color="#000033"> <a href="http://rivers-edge.com/jacks_fork.htm#guide" target="_blank">River 
+                Guide</a></font></b></div>
+            </td>
+          </tr>
+          <tr> 
+            <td width="31%" height="43"> 
+              <div align="center"><font color="#000033"><b><a href="history.htm" target="_blank">History</a></b></font></div>
+            </td>
+            <td width="22%" height="43"> 
+              <div align="center"><b><font color="#000033"><a href="links.htm" target="_blank">Links</a></font></b></div>
+            </td>
+            <td width="24%" height="43" align="center" valign="middle"> 
+              <div align="center"><b><font color="#000033"><a href="jacks_fork_public_areas.htm" target="_blank">Public 
+                Areas</a></font></b> </div>
+            </td>
+            <td width="23%" height="43"> 
+              <div align="center"><b><font color="#000033"><a href="http://eminence-mo.com/members.htm" target="_blank">Misc. 
+                Services</a></font></b></div>
+            </td>
+          </tr>
+          <tr> 
+            <td colspan="4" height="2"> 
+              <div align="center"><font color="#000033" size="4"><b>Photo Tours 
+                - <a href="tours/Jacks_Fork_Tour/page1.htm" target="_blank">Prongs 
+                to Two Rivers</a> -- <a href="tours/Alley_Spring_Tour/page1.htm" target="_blank">Alley 
+                Spring</a> -- </b></font><font color="#000033"><b><a href="photo_tours.htm">Tours 
+                Homepage</a></b></font></div>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+      <hr width="700" align="center">
+      <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/MRge0RCBWSk?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
+      <hr width="700" align="center">
+      <div align="center"> 
+        <table width="700" border="2" cellspacing="1" cellpadding="1" background="images/waterback1.jpg" align="center">
+          <tbody><tr> 
+            <td colspan="4"> 
+              <div align="center"><font color="#000033"><b><img src="images/jf_title2.gif" width="461" height="29" alt="Jacks Fork River Activities"></b></font></div>
+            </td>
+          </tr>
+          <tr> 
+            <td width="12%" height="44"> 
+              <div align="center"><font color="#000033"><b><a href="http://rivers-edge.com/fishing.htm" target="_blank">Fishing</a></b></font></div>
+            </td>
+            <td width="11%" height="44"> 
+              <div align="center"><font color="#000033"><b><a href="http://rivers-edge.com/" target="_blank">Lodging</a></b></font></div>
+            </td>
+            <td width="10%" height="44"> 
+              <div align="center"><font color="#000033"><b><a href="http://eminence-mo.com/paddling.htm#paddling" target="_blank">Paddling</a></b></font></div>
+            </td>
+            <td width="11%" height="44"> 
+              <div align="center"><font color="#000033"><b><a href="http://www.nps.gov/ozar/pphtml/camping.html" target="_blank">Camping</a></b></font></div>
+            </td>
+          </tr>
+          <tr> 
+            <td colspan="2" height="26"> 
+              <div align="center"> <b><font color="#000033">Hiking</font></b> 
+                <br>
+                <select name="menu10" onchange="MM_jumpMenu('parent',this,0)">
+                  <option selected="">Select a Trail</option>
+                  <option value="regulations4.htm">Official ONSR Trails List</option>
+                  <option value="http://slluez.home.mindspring.com/OZTMO_main_map.html">Ozark 
+                  Trail Main Map</option>
+                  <option value="http://slluez.home.mindspring.com/OZTMO_section_11.html">Ozark 
+                  Trail #11 Blair Creek Section</option>
+                  <option value="http://slluez.home.mindspring.com/OZTMO_section_12.html">Ozark 
+                  Trail #12 Current Section</option>
+                  <option value="http://eminence-mo.com/downtown.htm">Roy Beck 
+                  Walking Trail</option>
+                </select>
+                <br>
+                <input type="button" name="Button10" value="Go" onclick="MM_jumpMenuGo('menu10','parent',0)">
+              </div>
+            </td>
+            <td height="26"> 
+              <div align="center"><font color="#000033"><b><a href="http://rivers-edge.com/scenic_trips.htm" target="_blank">Sight-seeing</a></b></font></div>
+            </td>
+            <td height="26"> 
+              <div align="center"><font color="#000033"><b><a href="http://www.windyscanoe.com/trailrides.html" target="_blank">Trailriding</a></b></font></div>
+            </td>
+          </tr>
+          <tr> 
+            <td colspan="4" height="26"> 
+              <div align="center"><font size="4"><b><a href="http://mdc.mo.gov/conmag/2013/04/heaven-and-back-upper-jacks-fork" target="_blank"><font size="5">To 
+                Heaven and Back on the Upper Jacks Fork!</font> (MDC article)</a></b></font></div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="4" height="26">
+              <div align="center"><b><font size="6"><a href="video.htm" target="_blank">JACKS 
+                FORK VIDEO LIBRARY</a></font></b></div>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+      <hr width="30%" align="center">
+      <hr width="45%" align="center">
+      <hr width="60%" align="center">
+      <hr width="75%" align="center">
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" height="254"> 
+      <table width="700" border="2" cellspacing="1" cellpadding="1" background="images/waterback2.jpg" mm_noconvert="TRUE" align="center">
+        <tbody><tr> 
+          <td colspan="4" height="8"> 
+            <div align="center"><font color="#000033" size="5" face="Matura MT Script Capitals"><img src="images/onsr_title.gif" width="490" height="29" alt="Ozark National Scenic Riverways Park Info."></font></div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="4" height="8">
+            <div align="center"><font color="#000066"><b><font size="5"><a href="http://www.nps.gov/ozar/parknews/recovery-act.htm" target="_blank"><font size="6">ONSR 
+              Receives Recovery Act Funding</font></a></font></b></font></div>
+          </td>
+        </tr>
+        <tr> 
+          <td width="34%" height="43" align="center" valign="top"> 
+            <div align="center"><b><font color="#000033">Regulations</font></b><br>
+              <select name="menu11" onchange="MM_jumpMenu('parent',this,0)">
+                <option selected="">Select a Topic</option>
+                <option value="regulations.htm">Hunt &amp; Fish</option>
+                <option value="regulations2.htm">Fishing</option>
+                <option value="regulations3.htm">Horses &amp; ATV's</option>
+                <option value="regulations4.htm">Hiking</option>
+              </select>
+              <br>
+              <input type="button" name="Button11" value="Go" onclick="MM_jumpMenuGo('menu11','parent',0)">
+            </div>
+          </td>
+          <td width="27%" height="43"> 
+            <div align="center"><b><font color="#000033"><a href="ozarmap1.pdf" target="_blank">Map</a></font></b></div>
+          </td>
+          <td colspan="2" height="43" width="39%" align="center" valign="top"> 
+            <div align="center"><b><font color="#000033">Public Areas<br>
+              </font></b> 
+              <select name="menu13" onchange="MM_jumpMenu('parent',this,0)">
+                <option selected="">Select Area Type</option>
+                <option value="current_river_natural_areas.htm">Current River 
+                Natural Areas</option>
+                <option value="current_river_conservation_areas.htm">Current River 
+                Conservation Areas</option>
+                <option value="jacks_fork_public_areas.htm">Jacks Fork Public 
+                Areas</option>
+              </select>
+              <br>
+              <input type="button" name="Button13" value="Go" onclick="MM_jumpMenuGo('menu13','parent',0)">
+            </div>
+          </td>
+        </tr>
+        <tr> 
+          <td width="34%" height="45"> 
+            <div align="center"><font color="#000033"><b><a href="history.htm" target="_blank">History</a></b></font></div>
+          </td>
+          <td width="27%" height="45"> 
+            <div align="center"><b><font color="#000033"><a href="http://eaglespark.com/wildlife.htm" target="_blank">Wildlife</a></font></b></div>
+          </td>
+          <td colspan="2" height="45" width="39%" align="center" valign="top"> 
+            <div align="center"><b><font color="#000033">Trails </font><br>
+              <select name="menu14" onchange="MM_jumpMenu('parent',this,0)">
+                <option selected="">Select a Trail</option>
+                <option value="http://slluez.home.mindspring.com/OZTMO_main_map.html">Ozark 
+                Trail Main Map</option>
+                <option value="http://slluez.home.mindspring.com/OZTMO_section_09.html">Ozark 
+                Trail #9 Victory Section</option>
+                <option value="http://slluez.home.mindspring.com/OZTMO_section_11.html">Ozark 
+                Trail #11 Blair Creek Section</option>
+                <option value="http://slluez.home.mindspring.com/OZTMO_section_12.html">Ozark 
+                Trail #12 Current Section</option>
+                <option value="http://slluez.home.mindspring.com/OZTMO_section_13.html">Ozark 
+                Trail #13 Between Rivers Section</option>
+                <option value="http://eminence-mo.com/downtown.htm">Roy Beck Walking 
+                Trail</option>
+              </select>
+              <br>
+              <input type="button" name="Button132" value="Go" onclick="MM_jumpMenuGo('menu14','parent',0)">
+              </b></div>
+          </td>
+        </tr>
+        <tr> 
+          <td colspan="4" height="43"> 
+            <div align="center"><b><font color="#000033" size="4">Photo Tour - 
+              <a href="tours/ONSR_Tour/page1.htm" target="_blank">Ozark National 
+              Scenic Riverways</a> -- </font><font color="#000033"><b><a href="photo_tours.htm">Tours 
+              Homepage</a></b></font></b></div>
+          </td>
+        </tr>
+        <tr> 
+          <td colspan="4" height="2"> 
+            <div align="center"><b><font color="#000033"><a href="http://www.nps.gov/ozar" target="_blank">Official 
+              National Park Service "Ozark National Scenic Riverways" 
+              Web Site</a></font></b></div>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top"> 
+      <hr width="70%">
+      <hr width="70%">
+      <hr width="70%">
+      <table width="70%" border="2" cellspacing="1" cellpadding="1" align="center" background="images/waterback2.jpg" height="8">
+        <tbody><tr> 
+          <td height="153"> 
+            <div align="center"> 
+              <p><b><font color="#000033">This site is brought to you by:<br>
+                <font size="4"><a href="http://rivers-edge.com/" target="_blank">RIVER'S 
+                EDGE RESORT</a><br>
+                HCR 1 Box 11<br>
+                Eminence, MO. 65466<br>
+                573-226-3233 <br>
+                <font size="3"><i>"The Finest in Lodging on the Ozark National 
+                Scenic Riverways Jacks Fork and Current Rivers."</i></font></font></font></b></p>
+              <p><b><i><font size="3" color="#000033">Feel free to contact our 
+                <a href="mailto:meramecweb@gmail.com">Webmaster</a> with your 
+                questions or comments.</font></i></b></p>
+              <p><font color="#000000"><b><font color="#000033">©2012 CurrentRiver.Net</font></b></font></p>
+            </div>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td valign="top" width="475"><img width="81" height="1" src="transparent.gif"></td>
+    <td valign="top" width="500"><img width="481" height="1" src="transparent.gif"></td>
+  </tr>
+</tbody></table>
+<br>
+
+
+</body>

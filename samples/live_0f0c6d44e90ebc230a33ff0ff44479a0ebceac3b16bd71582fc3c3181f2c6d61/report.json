@@ -1,0 +1,155 @@
+{
+  "candidate_id": "live_0f0c6d44e90ebc230a33ff0ff44479a0ebceac3b16bd71582fc3c3181f2c6d61",
+  "candidate_sha256": "39fe6d25394cba33e9c43609cf2304edf118494ac0bd3825eb2ae388319a3d48",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://dr-haghbin.info/administrator/help/onedriveone/onedrive1/",
+  "requested_url": "http://dr-haghbin.info/",
+  "browser_final_url": "http://dr-haghbin.info/",
+  "source_urls": [
+    "http://dr-haghbin.info/administrator/help/onedriveone/onedrive1/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 93501,
+      "source_url": "http://dr-haghbin.info/administrator/help/onedriveone/onedrive1/",
+      "source_hostname": "dr-haghbin.info",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://dr-haghbin.info/",
+      "final_hostname": "dr-haghbin.info",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 11020,
+      "elapsed_ms": 1455,
+      "checked_at": "2026-10-05T13:05:04.242295+00:00",
+      "error": null,
+      "normalized_source_url": "http://dr-haghbin.info/administrator/help/onedriveone/onedrive1/",
+      "normalized_final_url": "http://dr-haghbin.info/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_0f0c6d44e90ebc230a33ff0ff44479a0ebceac3b16bd71582fc3c3181f2c6d61",
+    "representative_source_index": 93501,
+    "representative_source_url": "http://dr-haghbin.info/administrator/help/onedriveone/onedrive1/",
+    "representative_final_url": "http://dr-haghbin.info/",
+    "normalized_final_url": "http://dr-haghbin.info/",
+    "source_hostname": "dr-haghbin.info",
+    "final_hostname": "dr-haghbin.info",
+    "source_urls": [
+      "http://dr-haghbin.info/administrator/help/onedriveone/onedrive1/"
+    ],
+    "provenance": [
+      {
+        "source_index": 93501,
+        "source_url": "http://dr-haghbin.info/administrator/help/onedriveone/onedrive1/",
+        "source_hostname": "dr-haghbin.info",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://dr-haghbin.info/",
+        "final_hostname": "dr-haghbin.info",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 11020,
+        "elapsed_ms": 1455,
+        "checked_at": "2026-10-05T13:05:04.242295+00:00",
+        "error": null,
+        "normalized_source_url": "http://dr-haghbin.info/administrator/help/onedriveone/onedrive1/",
+        "normalized_final_url": "http://dr-haghbin.info/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Home",
+  "capture_timestamp": "2026-10-05T16:33:32.545634+00:00",
+  "dom_chars": 12008,
+  "screenshot_bytes": 396793,
+  "dom_sha256": "6de8047a5749812dca265f3ba1fb59453472a729d4b61de4383d31566d6f221e",
+  "screenshot_sha256": "268465d3e1270b2bc44ce3474788fdc602fe34dc41a0419ccd19d479717325c7",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://dr-haghbin.info/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://dr-haghbin.info/",
+    "browser_final_url": "http://dr-haghbin.info/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 3429,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:35:03.272422+00:00",
+    "previous_report_sha256": "bf212e8f085d9f1294e7f7df8b1b247e9b8d9b64487841f35667cb58e0f313f3",
+    "recovered_at": "2026-10-05T16:33:32.545634+00:00",
+    "result": "complete"
+  }
+}

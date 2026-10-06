@@ -1,0 +1,27 @@
+{
+  "original_url": "https://rimraphael.com/wp-includes/Requests/exe/maxxi/xls/excel/bizmail.php?email=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1",
+  "hostname": "rimraphael.com",
+  "checked_at": "2026-10-04T15:50:06.498193+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f4c3e-8328-706a-90ca-fdf46f7a2eae",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-10T13:36:47.768Z",
+  "scan_original_url": "http://rimraphael.com/",
+  "final_url": "https://rimraphael.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 819,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.233,
+  "discovery": {
+    "batch_id": "92dd37ee9931340d8bc3edade6d2c9c59033bb442c2bb1efc27ad087c4cec9a4",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

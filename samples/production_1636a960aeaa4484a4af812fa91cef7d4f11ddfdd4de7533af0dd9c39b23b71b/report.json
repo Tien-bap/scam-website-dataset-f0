@@ -1,0 +1,27 @@
+{
+  "original_url": "http://tycoonelite.com/officepage/office365-MD6-Popup",
+  "hostname": "tycoonelite.com",
+  "checked_at": "2026-10-04T15:00:11.286755+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0aa51-a930-714e-b676-66ddbb22a0b4",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-16T13:04:41.741Z",
+  "scan_original_url": "https://tycoonelite.com/login.php",
+  "final_url": "https://tycoonelite.com/wp-login.php",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 339,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 1.48,
+  "discovery": {
+    "batch_id": "b5d95d5cbe39833ce670a6c8bfcac5cb7dcf9dabf64332bc3cbc8a14558c49d2",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

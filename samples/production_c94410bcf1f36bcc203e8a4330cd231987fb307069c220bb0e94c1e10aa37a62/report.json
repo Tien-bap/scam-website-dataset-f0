@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.rungsarith.ac.th/mis/gallery/outlook-webapp.html",
+  "hostname": "www.rungsarith.ac.th",
+  "checked_at": "2026-10-04T15:44:02.455274+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fb274-b85a-777a-876f-eab02457df05",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-30T09:57:13.939Z",
+  "scan_original_url": "http://www.rungsarith.ac.th/",
+  "final_url": "https://www.rungsarith.ac.th/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3866,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.834,
+  "discovery": {
+    "batch_id": "af6ff81293bda6c2c120381691567171e50efd2c6f08380cf7cbcaf13b088ac9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

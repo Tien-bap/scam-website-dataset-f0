@@ -1,0 +1,27 @@
+{
+  "original_url": "https://fostersclambake.com/Kristi/Connect2Office.php",
+  "hostname": "fostersclambake.com",
+  "checked_at": "2026-10-04T14:21:12.871987+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fcd0e-a410-7597-8c5c-7d2ebb1872b1",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-04T13:55:27.099Z",
+  "scan_original_url": "http://fostersclambake.com/",
+  "final_url": "https://www.fostersclambake.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2144,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.595,
+  "discovery": {
+    "batch_id": "e00ef4a81b7821a69d84db43824b8b51aa7611b7b12db9f07e33e632e216ebba",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

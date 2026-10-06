@@ -1,0 +1,157 @@
+{
+  "candidate_id": "live_3c15576f8da99ee85fe04a25ab26a49ff97894bd31b9806dd79d4f789be504b1",
+  "candidate_sha256": "b18d23d05c2e6723f8e369053a28ddc7273f91e5ad16d392043027c9dee7ba7a",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://*.kolotibablo.com/",
+  "requested_url": "https://kolotibablo.com/",
+  "browser_final_url": "https://kolotibablo.com/",
+  "source_urls": [
+    "https://*.kolotibablo.com/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 6712,
+      "source_url": "https://*.kolotibablo.com/",
+      "source_hostname": "*.kolotibablo.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://kolotibablo.com/",
+      "final_hostname": "kolotibablo.com",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3478,
+      "checked_at": "2026-10-05T12:41:31.572782+00:00",
+      "error": null,
+      "normalized_source_url": "https://*.kolotibablo.com/",
+      "normalized_final_url": "https://kolotibablo.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_3c15576f8da99ee85fe04a25ab26a49ff97894bd31b9806dd79d4f789be504b1",
+    "representative_source_index": 6712,
+    "representative_source_url": "https://*.kolotibablo.com/",
+    "representative_final_url": "https://kolotibablo.com/",
+    "normalized_final_url": "https://kolotibablo.com/",
+    "source_hostname": "*.kolotibablo.com",
+    "final_hostname": "kolotibablo.com",
+    "source_urls": [
+      "https://*.kolotibablo.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 6712,
+        "source_url": "https://*.kolotibablo.com/",
+        "source_hostname": "*.kolotibablo.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://kolotibablo.com/",
+        "final_hostname": "kolotibablo.com",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3478,
+        "checked_at": "2026-10-05T12:41:31.572782+00:00",
+        "error": null,
+        "normalized_source_url": "https://*.kolotibablo.com/",
+        "normalized_final_url": "https://kolotibablo.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Captcha Solving Job",
+  "capture_timestamp": "2026-10-05T16:37:17.119692+00:00",
+  "dom_chars": 88901,
+  "screenshot_bytes": 380322,
+  "dom_sha256": "10b72889b8495458f52d9375da5cbc34f597029e7360ee97e1b81d251cc4f07a",
+  "screenshot_sha256": "5c6cb83bb3f6fe008302fd6b3f678accd25566b349d2eccecf18bff5d249e226",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://kolotibablo.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://kolotibablo.com/",
+    "browser_final_url": "https://kolotibablo.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 31
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 3519,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:40:40.900336+00:00",
+    "previous_report_sha256": "550c793be49aea66fd5155ccb2200434f9cbc3a08d171c6ef71e7e85775b0a10",
+    "recovered_at": "2026-10-05T16:37:17.119692+00:00",
+    "result": "complete"
+  }
+}

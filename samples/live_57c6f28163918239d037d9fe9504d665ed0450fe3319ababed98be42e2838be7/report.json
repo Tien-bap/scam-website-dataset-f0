@@ -1,0 +1,158 @@
+{
+  "candidate_id": "live_57c6f28163918239d037d9fe9504d665ed0450fe3319ababed98be42e2838be7",
+  "candidate_sha256": "905ede79fc0c854e27139b8ad997160e5fccca79c52b30b44c8ceb688db5eb1e",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://eastcoastlocksmith.com/abc/latest-onedrive/webmail.php",
+  "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+  "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+  "source_urls": [
+    "http://eastcoastlocksmith.com/abc/latest-onedrive/webmail.php"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 116133,
+      "source_url": "http://eastcoastlocksmith.com/abc/latest-onedrive/webmail.php",
+      "source_hostname": "eastcoastlocksmith.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 44690,
+      "elapsed_ms": 904,
+      "checked_at": "2026-10-05T13:16:55.632167+00:00",
+      "error": null,
+      "normalized_source_url": "http://eastcoastlocksmith.com/abc/latest-onedrive/webmail.php",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_57c6f28163918239d037d9fe9504d665ed0450fe3319ababed98be42e2838be7",
+    "representative_source_index": 116133,
+    "representative_source_url": "http://eastcoastlocksmith.com/abc/latest-onedrive/webmail.php",
+    "representative_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+    "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+    "source_hostname": "eastcoastlocksmith.com",
+    "final_hostname": "www.hugedomains.com",
+    "source_urls": [
+      "http://eastcoastlocksmith.com/abc/latest-onedrive/webmail.php"
+    ],
+    "provenance": [
+      {
+        "source_index": 116133,
+        "source_url": "http://eastcoastlocksmith.com/abc/latest-onedrive/webmail.php",
+        "source_hostname": "eastcoastlocksmith.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 44690,
+        "elapsed_ms": 904,
+        "checked_at": "2026-10-05T13:16:55.632167+00:00",
+        "error": null,
+        "normalized_source_url": "http://eastcoastlocksmith.com/abc/latest-onedrive/webmail.php",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "EastCoastLocksmith.com is for sale | HugeDomains",
+  "capture_timestamp": "2026-10-05T16:38:50.885330+00:00",
+  "dom_chars": 82946,
+  "screenshot_bytes": 94997,
+  "dom_sha256": "a784d5c4a483c92164c89e5ad81a8f6ddfe9ef76dbd1808ea5fffdf2d3315999",
+  "screenshot_sha256": "03b219a253671fa1d906d80549c1f06e8cd53d50589945dc4426be8c8b7a6509",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_parking_page"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+    "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=eastcoastlocksmith.com",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 5,
+    "resource": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 2888,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "timeout",
+    "original_capture_timestamp": "2026-10-05T14:43:19.069697+00:00",
+    "previous_report_sha256": "b4b8b3e60e472cba2a40fb2b16daf9237756e826063ce958a515c0f103742c36",
+    "recovered_at": "2026-10-05T16:38:50.885330+00:00",
+    "result": "complete"
+  }
+}

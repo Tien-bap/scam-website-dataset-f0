@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_68b44adebc437305e78df949c13eab7256efb9c5574e507809a6479f1b4024aa",
+  "candidate_sha256": "9a091ad83e684352b8defbcb500f0bf6117370e43b52952ee4fe5af1292f3622",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://binvay.com",
+  "requested_url": "https://binvay.com",
+  "browser_final_url": "https://binvay.com/",
+  "source_urls": [
+    "https://binvay.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1702,
+      "source_url": "https://binvay.com",
+      "source_hostname": "binvay.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://binvay.com",
+      "final_hostname": "binvay.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 577,
+      "checked_at": "2026-10-05T12:19:04.943903+00:00",
+      "error": null,
+      "normalized_source_url": "https://binvay.com/",
+      "normalized_final_url": "https://binvay.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_68b44adebc437305e78df949c13eab7256efb9c5574e507809a6479f1b4024aa",
+    "representative_source_index": 1702,
+    "representative_source_url": "https://binvay.com",
+    "representative_final_url": "https://binvay.com",
+    "normalized_final_url": "https://binvay.com/",
+    "source_hostname": "binvay.com",
+    "final_hostname": "binvay.com",
+    "source_urls": [
+      "https://binvay.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 1702,
+        "source_url": "https://binvay.com",
+        "source_hostname": "binvay.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://binvay.com",
+        "final_hostname": "binvay.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 577,
+        "checked_at": "2026-10-05T12:19:04.943903+00:00",
+        "error": null,
+        "normalized_source_url": "https://binvay.com/",
+        "normalized_final_url": "https://binvay.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "BAJAI88 : Situs Slot Gacor Terpercaya Rekomendasi SEO Cengkareng 2026",
+  "capture_timestamp": "2026-10-05T14:45:30.464684+00:00",
+  "dom_chars": 426921,
+  "screenshot_bytes": 482345,
+  "dom_sha256": "dae8beb1fb3e7f15de7900753015192361e06c469dc3201697a9a9c9cf87f921",
+  "screenshot_sha256": "94cc404afc88c7a464fcc2355a0bef2060cb206a5b1bd0625708326a59438a98",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://binvay.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://binvay.com",
+    "browser_final_url": "https://binvay.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 1,
+    "method": 7
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 8847
+}

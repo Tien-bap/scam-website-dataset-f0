@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_1279a97c3339829c02823f64e1b25cc587673e9e4c027d9a4002d34cb78820fd",
+  "candidate_sha256": "d1e83b5c2a8b8ca52a4350b8352a2385d5657ac42052c1fdca3acf613ca1fcdb",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://chanlemomo.vin",
+  "requested_url": "https://five88club.fun/",
+  "browser_final_url": "https://five88club.fun/",
+  "source_urls": [
+    "https://chanlemomo.vin"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2161,
+      "source_url": "https://chanlemomo.vin",
+      "source_hostname": "chanlemomo.vin",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://five88club.fun/",
+      "final_hostname": "five88club.fun",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1497,
+      "checked_at": "2026-10-05T12:19:33.610644+00:00",
+      "error": null,
+      "normalized_source_url": "https://chanlemomo.vin/",
+      "normalized_final_url": "https://five88club.fun/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_1279a97c3339829c02823f64e1b25cc587673e9e4c027d9a4002d34cb78820fd",
+    "representative_source_index": 2161,
+    "representative_source_url": "https://chanlemomo.vin",
+    "representative_final_url": "https://five88club.fun/",
+    "normalized_final_url": "https://five88club.fun/",
+    "source_hostname": "chanlemomo.vin",
+    "final_hostname": "five88club.fun",
+    "source_urls": [
+      "https://chanlemomo.vin"
+    ],
+    "provenance": [
+      {
+        "source_index": 2161,
+        "source_url": "https://chanlemomo.vin",
+        "source_hostname": "chanlemomo.vin",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://five88club.fun/",
+        "final_hostname": "five88club.fun",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1497,
+        "checked_at": "2026-10-05T12:19:33.610644+00:00",
+        "error": null,
+        "normalized_source_url": "https://chanlemomo.vin/",
+        "normalized_final_url": "https://five88club.fun/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "FV88【FIVE88】⚜️Truy Cập FV88.COM T9/2026 Săn Thưởng +188.888K",
+  "capture_timestamp": "2026-10-05T14:35:31.895103+00:00",
+  "dom_chars": 124997,
+  "screenshot_bytes": 506457,
+  "dom_sha256": "9ed86c976d36f63962b46be7ac154374f279433c063cebce4f4ab0b4f3e0fd5f",
+  "screenshot_sha256": "640afe1f8ae1458745fbc020fe7b3317ce83085720501eef7efb052b380c9061",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://five88club.fun/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://five88club.fun/",
+    "browser_final_url": "https://five88club.fun/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 7125
+}

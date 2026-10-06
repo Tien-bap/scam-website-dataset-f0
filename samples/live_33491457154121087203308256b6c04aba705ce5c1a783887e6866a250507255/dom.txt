@@ -1,0 +1,1174 @@
+<!DOCTYPE html><html lang="id-ID"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>aisa77 – Platform Game &amp; Olahraga Online Terpercaya</title>
+<meta name="description" content="aisa77 adalah platform game online dan taruhan olahraga terpercaya di Indonesia. Nikmati slot, live casino, tembak ikan, bingo, dan lebih banyak permainan seru.">
+<link rel="canonical" href="https://aisa77.com/">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<meta property="og:type" content="website">
+<meta property="og:title" content="aisa77 – Platform Game &amp; Olahraga Online Terpercaya">
+<meta property="og:description" content="aisa77 adalah platform game online dan taruhan olahraga terpercaya di Indonesia. Nikmati slot, live casino, tembak ikan, bingo, dan lebih banyak permainan seru.">
+<meta property="og:url" content="https://aisa77.com/">
+<meta property="og:image" content="https://aisa77.com/img/4fspxpgn.jpg">
+<meta property="og:site_name" content="aisa77">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="aisa77 – Platform Game &amp; Olahraga Online Terpercaya">
+<meta name="twitter:description" content="aisa77 adalah platform game online dan taruhan olahraga terpercaya di Indonesia. Nikmati slot, live casino, tembak ikan, bingo, dan lebih banyak permainan seru.">
+<meta name="twitter:image" content="https://aisa77.com/img/4fspxpgn.jpg">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&amp;family=Inter:wght@300;400;500;600&amp;display=swap" rel="stylesheet">
+<style>:root {
+    --bg-deep: #020617;
+    --bg-dark: #111827;
+    --bg-card: #1a1f35;
+    --purple-main: #8b5cf6;
+    --purple-sec: #6366f1;
+    --purple-glow: rgba(139,92,246,0.35);
+    --purple-border: rgba(139,92,246,0.55);
+    --text-light: #e2e8f0;
+    --text-muted: #94a3b8;
+    --text-white: #ffffff;
+    --gradient-hero: linear-gradient(135deg, #020617 0%, #0f0a1e 50%, #111827 100%);
+  }
+  * { box-sizing: border-box; }
+  body {
+    background-color: var(--bg-deep);
+    color: var(--text-light);
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+  }
+  h1,h2,h3,h4,h5,h6 { font-family: 'Rajdhani', sans-serif; }
+
+  /* NAVBAR */
+  .navbar-custom {
+    background: rgba(2,6,23,0.97);
+    border-bottom: 1px solid var(--purple-border);
+    box-shadow: 0 2px 24px var(--purple-glow);
+    padding: 0.6rem 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 1050;
+  }
+  .navbar-brand img {
+    height: 44px;
+    width: auto;
+    max-width: calc(100vw - 108px);
+    object-fit: contain;
+  }
+  .navbar-toggler {
+    border-color: var(--purple-border);
+    color: var(--purple-main);
+    flex-shrink: 0;
+  }
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%238b5cf6' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+  .navbar-nav .nav-link {
+    color: var(--text-light) !important;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 0.95rem;
+    letter-spacing: 0.03em;
+    padding: 0.5rem 0.75rem;
+    transition: color 0.2s;
+  }
+  .navbar-nav .nav-link:hover,
+  .navbar-nav .nav-link.active {
+    color: var(--purple-main) !important;
+  }
+  .navbar-collapse { flex-wrap: wrap; }
+
+  /* HERO */
+  .hero-section {
+    background: var(--gradient-hero);
+    min-height: 520px;
+    position: relative;
+    overflow: hidden;
+    padding: 80px 0 60px;
+  }
+  .hero-section::before {
+    content: '';
+    position: absolute;
+    top: -80px; left: -80px;
+    width: 500px; height: 500px;
+    background: radial-gradient(circle, rgba(139,92,246,0.18) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-section::after {
+    content: '';
+    position: absolute;
+    bottom: -60px; right: -60px;
+    width: 400px; height: 400px;
+    background: radial-gradient(circle, rgba(99,102,241,0.15) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-badge {
+    display: inline-block;
+    background: linear-gradient(90deg, var(--purple-main), var(--purple-sec));
+    color: #fff;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    padding: 4px 14px;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+  }
+  .hero-title {
+    font-size: clamp(2rem, 5vw, 3.4rem);
+    font-weight: 700;
+    line-height: 1.15;
+    color: #fff;
+    margin-bottom: 1.2rem;
+  }
+  .hero-title span {
+    background: linear-gradient(90deg, #a78bfa, #818cf8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .hero-desc {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    line-height: 1.75;
+    margin-bottom: 2rem;
+    max-width: 540px;
+  }
+  .btn-purple {
+    background: linear-gradient(90deg, var(--purple-main), var(--purple-sec));
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 28px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 0.05em;
+    box-shadow: 0 0 18px var(--purple-glow);
+    transition: box-shadow 0.2s, transform 0.15s;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .btn-purple:hover {
+    box-shadow: 0 0 32px rgba(139,92,246,0.6);
+    transform: translateY(-2px);
+    color: #fff;
+  }
+  .btn-outline-purple {
+    background: transparent;
+    color: var(--purple-main);
+    border: 1.5px solid var(--purple-border);
+    border-radius: 8px;
+    padding: 11px 26px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 0.05em;
+    transition: background 0.2s, color 0.2s;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .btn-outline-purple:hover {
+    background: var(--purple-main);
+    color: #fff;
+  }
+  .hero-img-wrap {
+    position: relative;
+    z-index: 2;
+  }
+  .hero-img-wrap img {
+    width: 100%;
+    border-radius: 16px;
+    border: 1.5px solid var(--purple-border);
+    box-shadow: 0 0 40px var(--purple-glow);
+    object-fit: cover;
+  }
+
+  /* SECTION GLOBALS */
+  section { padding: 72px 0; }
+  .section-label {
+    display: inline-block;
+    color: var(--purple-main);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+  }
+  .section-title {
+    font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 0.75rem;
+  }
+  .section-sub {
+    color: var(--text-muted);
+    font-size: 1rem;
+    max-width: 600px;
+    margin: 0 auto 2.5rem;
+  }
+  .divider-purple {
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--purple-main), var(--purple-sec));
+    border-radius: 2px;
+    margin: 0 auto 1.5rem;
+  }
+
+  /* FEATURE CARDS */
+  .feature-card {
+    background: var(--bg-card);
+    border: 1px solid var(--purple-border);
+    border-radius: 14px;
+    padding: 28px 22px;
+    text-align: center;
+    transition: box-shadow 0.25s, transform 0.2s;
+    height: auto;
+  }
+  .feature-card:hover {
+    box-shadow: 0 0 28px var(--purple-glow);
+    transform: translateY(-4px);
+  }
+  .feature-icon {
+    width: 56px;
+    height: 56px;
+    background: linear-gradient(135deg, rgba(139,92,246,0.25), rgba(99,102,241,0.15));
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1rem;
+    font-size: 1.5rem;
+    color: var(--purple-main);
+    border: 1px solid var(--purple-border);
+  }
+  .feature-card h5 {
+    color: #fff;
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+  .feature-card p {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  /* STEPS */
+  .steps-section { background: var(--bg-dark); }
+  .step-item {
+    display: flex;
+    gap: 1.2rem;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+  }
+  .step-num {
+    min-width: 48px;
+    height: 48px;
+    background: linear-gradient(135deg, var(--purple-main), var(--purple-sec));
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #fff;
+    box-shadow: 0 0 16px var(--purple-glow);
+    flex-shrink: 0;
+  }
+  .step-content h5 {
+    color: #fff;
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+  }
+  .step-content p {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  /* SPORTS */
+  .sports-section { background: var(--bg-deep); }
+  .sport-card {
+    background: var(--bg-card);
+    border: 1px solid var(--purple-border);
+    border-radius: 14px;
+    overflow: hidden;
+    transition: box-shadow 0.25s, transform 0.2s;
+  }
+  .sport-card:hover {
+    box-shadow: 0 0 28px var(--purple-glow);
+    transform: translateY(-4px);
+  }
+  .sport-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+  }
+  .sport-card-body {
+    padding: 18px 16px;
+  }
+  .sport-card-body h5 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-bottom: 0.4rem;
+  }
+  .sport-card-body p {
+    color: var(--text-muted);
+    font-size: 0.88rem;
+    margin: 0;
+    line-height: 1.55;
+  }
+  .sport-tag {
+    display: inline-block;
+    background: rgba(139,92,246,0.18);
+    color: var(--purple-main);
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 2px 10px;
+    margin-bottom: 0.5rem;
+  }
+
+  /* IMAGES GALLERY */
+  .gallery-section { background: var(--bg-dark); }
+  .gallery-img {
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid var(--purple-border);
+    box-shadow: 0 0 18px var(--purple-glow);
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+  }
+
+  /* COMPARE TABLE */
+  .compare-section { background: var(--bg-deep); }
+  .compare-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid var(--purple-border);
+  }
+  .compare-table thead tr {
+    background: linear-gradient(90deg, var(--purple-main), var(--purple-sec));
+  }
+  .compare-table thead th {
+    color: #fff;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 14px 20px;
+    text-align: center;
+    border: none;
+  }
+  .compare-table tbody tr {
+    background: var(--bg-card);
+    border-bottom: 1px solid rgba(139,92,246,0.15);
+  }
+  .compare-table tbody tr:nth-child(even) {
+    background: #151a2e;
+  }
+  .compare-table tbody td {
+    color: var(--text-light);
+    padding: 12px 20px;
+    text-align: center;
+    font-size: 0.92rem;
+    border: none;
+    vertical-align: middle;
+  }
+  .compare-table tbody td:first-child {
+    text-align: left;
+    font-weight: 600;
+    color: #cbd5e1;
+  }
+  .check-yes { color: #34d399; font-size: 1.1rem; }
+  .check-info { color: var(--purple-main); font-size: 1.1rem; }
+
+  /* TESTIMONIALS */
+  .testimonials-section { background: var(--bg-dark); }
+  .testi-card {
+    background: var(--bg-card);
+    border: 1px solid var(--purple-border);
+    border-radius: 14px;
+    padding: 24px 20px;
+    transition: box-shadow 0.2s;
+  }
+  .testi-card:hover {
+    box-shadow: 0 0 24px var(--purple-glow);
+  }
+  .testi-stars { color: #fbbf24; font-size: 0.9rem; margin-bottom: 0.75rem; }
+  .testi-text {
+    color: var(--text-light);
+    font-size: 0.93rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+    font-style: italic;
+  }
+  .testi-author { display: flex; align-items: center; gap: 0.75rem; }
+  .testi-avatar {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--purple-main), var(--purple-sec));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    color: #fff;
+    font-size: 1rem;
+    flex-shrink: 0;
+  }
+  .testi-name { color: #fff; font-weight: 600; font-size: 0.92rem; }
+  .testi-city { color: var(--text-muted); font-size: 0.8rem; }
+
+  /* PRIVACY NOTICE */
+  .privacy-notice {
+    background: linear-gradient(90deg, rgba(139,92,246,0.1), rgba(99,102,241,0.08));
+    border: 1px solid var(--purple-border);
+    border-radius: 12px;
+    padding: 20px 24px;
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  .privacy-notice i { color: var(--purple-main); font-size: 1.3rem; flex-shrink: 0; margin-top: 2px; }
+  .privacy-notice p { margin: 0; color: var(--text-muted); font-size: 0.9rem; line-height: 1.65; }
+  .privacy-notice a { color: var(--purple-main); text-decoration: underline; }
+
+  /* CTA BANNER */
+  .cta-section {
+    background: linear-gradient(135deg, #0f0a1e 0%, #1a0f2e 50%, #111827 100%);
+    border-top: 1px solid var(--purple-border);
+    border-bottom: 1px solid var(--purple-border);
+    position: relative;
+    overflow: hidden;
+  }
+  .cta-section::before {
+    content: '';
+    position: absolute;
+    left: 50%; top: 50%;
+    transform: translate(-50%,-50%);
+    width: 600px; height: 300px;
+    background: radial-gradient(ellipse, rgba(139,92,246,0.13) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  /* FOOTER */
+  footer {
+    background: #080c18;
+    border-top: 1px solid var(--purple-border);
+    padding: 56px 0 24px;
+  }
+  .footer-logo { height: 40px; width: auto; object-fit: contain; max-width: 160px; display: block; }
+  .footer-tagline { color: var(--text-muted); font-size: 0.88rem; margin-top: 0.6rem; line-height: 1.6; max-width: 240px; }
+  .footer-heading {
+    color: var(--purple-main);
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    font-size: 0.95rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+  .footer-links { list-style: none; padding: 0; margin: 0; }
+  .footer-links li { margin-bottom: 0.5rem; }
+  .footer-links a {
+    color: var(--text-muted);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.2s;
+  }
+  .footer-links a:hover { color: var(--purple-main); }
+  .footer-bottom {
+    border-top: 1px solid rgba(139,92,246,0.15);
+    padding-top: 1.5rem;
+    margin-top: 2.5rem;
+  }
+  .footer-bottom p { color: var(--text-muted); font-size: 0.83rem; margin: 0; }
+  .email-display { color: var(--purple-main); font-size: 0.9rem; }
+
+  /* RESPONSIVE */
+  @media (max-width: 576px) {
+    .hero-section { padding: 56px 0 40px; }
+    .hero-title { font-size: 1.8rem; }
+    section { padding: 52px 0; }
+  }
+  @media (max-width: 768px) {
+    .navbar-brand img { max-width: calc(100vw - 108px); }
+  }</style>
+<style id="site-compare-table-readability-safeguard" data-safeguard-version="my-v1.2">/* MY V1.2 compare-table readability safeguard. */
+.compare-table tbody tr:nth-child(odd) td {
+  background-color: #1a1f35 !important;
+  color: #e2e8f0 !important;
+}
+.compare-table tbody tr:nth-child(even) td {
+  background-color: #162032 !important;
+  color: #e2e8f0 !important;
+}
+.compare-table tbody td:first-child {
+  color: #ffffff !important;
+  font-weight: 600 !important;
+}
+.compare-table .check-yes,
+.compare-table .check-yes i,
+.compare-table .check,
+.compare-table .check i,
+.compare-table i.fa-check-circle {
+  color: #4ade80 !important;
+}
+.compare-table .check-no,
+.compare-table .check-no i,
+.compare-table .cross,
+.compare-table .cross i,
+.compare-table i.fa-times-circle {
+  color: #f87171 !important;
+}</style>
+<style id="site-mobile-logo-safeguard" data-safeguard-version="my-v1.2">/* MY V1.2 mobile logo and Bootstrap collapse protection. */
+.navbar > .container,
+.navbar > .container-fluid {
+  flex-wrap: wrap !important;
+  min-width: 0;
+}
+.navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+  min-width: 0 !important;
+  width: auto !important;
+  flex: 0 1 auto !important;
+  max-width: calc(100% - 64px) !important;
+  margin-right: 8px !important;
+  white-space: nowrap;
+}
+.navbar-brand img {
+  display: block !important;
+  width: auto !important;
+  height: auto !important;
+  max-width: min(260px, 100%) !important;
+  max-height: 44px !important;
+  object-fit: contain !important;
+}
+.navbar-toggler {
+  flex: 0 0 auto !important;
+  margin-left: auto !important;
+  white-space: nowrap;
+}
+@media (max-width: 576px) {
+  .navbar > .container,
+  .navbar > .container-fluid {
+    flex-wrap: wrap !important;
+    min-width: 0;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+  .navbar-brand {
+    flex: 0 1 auto !important;
+    max-width: calc(100vw - 108px) !important;
+    margin-right: 8px !important;
+    min-width: 0 !important;
+  }
+  .navbar-brand img {
+    width: auto !important;
+    height: auto !important;
+    max-width: calc(100vw - 108px) !important;
+    max-height: 42px !important;
+    object-fit: contain !important;
+  }
+  .navbar > .container > .navbar-collapse,
+  .navbar > .container-fluid > .navbar-collapse {
+    flex-basis: 100% !important;
+    width: 100% !important;
+  }
+}</style>
+<style id="site-footer-logo-color-safeguard">/* site-footer-logo-color-safeguard: keep generated footer logos in original colors */
+footer .footer-brand img,
+footer .footer-logo img,
+footer img[src*="logo" i],
+footer img[alt*="logo" i],
+footer img[class*="brand-logo" i],
+footer img[class*="footer-logo" i] {
+  filter: none !important;
+  -webkit-filter: none !important;
+  opacity: 1 !important;
+  mix-blend-mode: normal !important;
+  display: inline-block !important;
+  width: auto !important;
+  height: auto !important;
+  max-width: min(180px, 100%) !important;
+  max-height: 44px !important;
+  object-fit: contain !important;
+  vertical-align: middle !important;
+}</style>
+<meta property="og:locale" content="id_ID">
+    <meta property="og:image:alt" content="aisa77 – Platform Game &amp; Olahraga Online Terpercaya">
+
+    <meta name="twitter:image:alt" content="aisa77 – Platform Game &amp; Olahraga Online Terpercaya">
+
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://aisa77.com/#website","url":"https://aisa77.com/","name":"aisa77","inLanguage":"id-ID","publisher":{"@id":"https://aisa77.com/#organization"}},{"@type":"Organization","@id":"https://aisa77.com/#organization","name":"aisa77","url":"https://aisa77.com/","logo":{"@type":"ImageObject","url":"https://aisa77.com/img/4fspxpgn.jpg","width":512,"height":512},"description":"aisa77 adalah platform game online dan taruhan olahraga terpercaya di Indonesia. Nikmati slot, live casino, tembak ikan, bingo, dan lebih banyak permainan seru.","areaServed":{"@type":"Country","name":"Indonesia"},"knowsAbout":["Slot Online","Kasino Langsung","Badminton","Taruhan Seluler","Taruhan Olahraga"]},{"@type":"WebPage","@id":"https://aisa77.com/#webpage","url":"https://aisa77.com/","name":"aisa77 – Platform Game & Olahraga Online Terpercaya","description":"aisa77 adalah platform game online dan taruhan olahraga terpercaya di Indonesia. Nikmati slot, live casino, tembak ikan, bingo, dan lebih banyak permainan seru.","inLanguage":"id-ID","image":{"@type":"ImageObject","@id":"https://aisa77.com/#primaryimage","url":"https://aisa77.com/img/4fspxpgn.jpg","width":512,"height":512},"primaryImageOfPage":{"@id":"https://aisa77.com/#primaryimage"},"isPartOf":{"@id":"https://aisa77.com/#website"},"about":{"@id":"https://aisa77.com/#organization"}}]}</script>
+<script src="/data.js"></script><style>#br-stick{position:fixed;bottom:0;left:0;z-index:2147483647;box-sizing:border-box;width:100%;max-width:100%;overflow:hidden;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;transform:translateZ(0);will-change:transform;background:transparent;padding:15px;}@supports (width:100svw) and (max-width:768px){#br-stick{width:100svw;max-width:100svw;}}@supports (width:100dvw) and (max-width:768px){#br-stick{width:100dvw;max-width:100dvw;}}@media (min-width:769px){  #br-stick{    left:50%;    transform:translateX(-50%) translateZ(0);    max-width:400px;    width:auto;    border-radius:12px 12px 0 0;    overflow:visible;  }}@media (max-width:768px){  #br-stick{    padding-left:calc(15px + env(safe-area-inset-left));    padding-right:calc(15px + env(safe-area-inset-right));    padding-bottom:calc(15px + env(safe-area-inset-bottom));    width:100vw;    max-width:100vw;  }  @supports (width:100svw){#br-stick{width:100svw;max-width:100svw;}}  @supports (width:100dvw){#br-stick{width:100dvw;max-width:100dvw;}}}#br-stick .wrap{max-width:100%;margin:0 auto;padding:0;background:transparent;}#br-stick .card{position:relative;border:none;border-radius:0;overflow:visible;box-shadow:none;background:transparent;margin:0;padding:0;}#br-stick .close{position:absolute;top:6px;right:6px;z-index:10;width:20px;height:20px;border-radius:7px;background:rgba(0,0,0,.28);color:#fff;border:1px solid rgba(255,255,255,.35);display:flex;align-items:center;justify-content:center;font-size:13px;cursor:pointer;transition:all .3s ease;}#br-stick .close:hover{background:rgba(0,0,0,.5);}#br-stick .btn-container{display:flex;justify-content:center;align-items:center;gap:12px;margin:0;padding:0;background:transparent;flex-wrap:nowrap;}#br-stick .br-btn{display:inline-flex;align-items:center;justify-content:center;padding:10px 20px;border-radius:6px;font-weight:600;text-decoration:none;cursor:pointer;transition:all .2s ease;border:none;font-size:14px;width:140px;height:50px;text-align:center;position:relative;box-shadow:0 2px 4px rgba(0,0,0,.15);white-space:nowrap;box-sizing:border-box;}#br-stick .br-btn:hover{transform:translateY(-1px);box-shadow:0 3px 6px rgba(0,0,0,.2);}#br-stick .br-btn:active{transform:translateY(0);box-shadow:0 1px 3px rgba(0,0,0,.15);}#br-stick .br-btn-login{background:#009C3B;color:#fff;border:1px solid #002776;}#br-stick .br-btn-login:hover{background:#00B44A;}#br-stick .br-btn-register{background:#FFCC29;color:#002776;border:1px solid #002776;}#br-stick .br-btn-register:hover{background:#FFD54F;}</style>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-custom" aria-label="Navigasi utama aisa77">
+  <div class="container">
+    <a class="navbar-brand" href="/" aria-label="Beranda aisa77">
+      <img src="/logo.png" alt="aisa77 logo" width="auto" height="44">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigasi">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav ms-auto align-items-lg-center gap-lg-1">
+        <li class="nav-item"><a class="nav-link active" href="/">Beranda</a></li>
+        <li class="nav-item"><a class="nav-link" href="/lobby-game">Lobby Game</a></li>
+        <li class="nav-item"><a class="nav-link" href="/tembak-ikan">Tembak Ikan</a></li>
+        <li class="nav-item"><a class="nav-link" href="/bingo">Bingo</a></li>
+        <li class="nav-item"><a class="nav-link" href="/platform">Platform</a></li>
+        <li class="nav-item"><a class="nav-link" href="/slot">Slot</a></li>
+        <li class="nav-item"><a class="nav-link" href="/permainan-slot">Permainan Slot</a></li>
+        <li class="nav-item"><a class="nav-link" href="/penarikan-dana">Penarikan Dana</a></li>
+        <li class="nav-item ms-lg-2"><a class="btn-purple" href="/register" style="padding:8px 20px;font-size:0.9rem">Daftar</a></li>
+        <li class="nav-item ms-lg-1"><a class="btn-outline-purple" href="/login" style="padding:7px 18px;font-size:0.9rem">Masuk</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero-section" aria-label="Selamat datang di aisa77">
+  <div class="container">
+    <div class="row align-items-center align-items-start g-4">
+      <div class="col-lg-6 order-lg-1 order-2">
+        <span class="hero-badge"><i class="fa-solid fa-bolt me-1"></i> Platform Terpercaya Indonesia</span>
+        <h1 class="hero-title">
+          aisa77 – <span>Platform Game Online</span> &amp; Olahraga Terpercaya untuk Pengguna Indonesia
+        </h1>
+        <p class="hero-desc">
+          Bergabunglah bersama jutaan pengguna di seluruh Indonesia yang sudah menikmati pengalaman bermain terbaik di aisa77. Dari slot modern, tembak ikan, bingo, hingga taruhan olahraga favorit seperti sepak bola dan badminton — semua tersedia dalam satu platform yang cepat, aman, dan mudah diakses kapan saja.
+        </p>
+        <div class="d-flex flex-wrap gap-3">
+          <a href="/register" class="btn-purple"><i class="fa-solid fa-user-plus me-2"></i>Daftar Sekarang</a>
+          <a href="/lobby-game" class="btn-outline-purple"><i class="fa-solid fa-gamepad me-2"></i>Lihat Lobby Game</a>
+        </div>
+      </div>
+      <div class="col-lg-6 order-lg-2 order-1">
+        <div class="hero-img-wrap">
+          <img src="/img/4fspxpgn.jpg" alt="aisa77 platform game online terpercaya Indonesia tampilan utama" title="aisa77 – Tampilan Hero Platform Game Online Indonesia">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- KEUNGGULAN / FEATURES -->
+<section aria-label="Keunggulan aisa77">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Kenapa aisa77?</span>
+      <h2 class="section-title">Keunggulan yang Membedakan aisa77</h2>
+      <div class="divider-purple"></div>
+      <p class="section-sub">Dirancang khusus untuk pengguna Indonesia yang menginginkan pengalaman bermain yang cepat, aman, dan menyenangkan setiap saat.</p>
+    </div>
+    <div class="row g-4 align-items-start">
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-bolt"></i></div>
+          <h5>Transaksi Super Cepat</h5>
+          <p>Deposit dan penarikan dana diproses dalam hitungan menit tanpa hambatan.</p>
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-shield-halved"></i></div>
+          <h5>Keamanan Berlapis</h5>
+          <p>Enkripsi SSL 256-bit dan sistem verifikasi berlapis menjaga akun kamu tetap aman.</p>
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-mobile-screen"></i></div>
+          <h5>Ramah Mobile</h5>
+          <p>Tampilan responsif yang mulus di semua perangkat — HP, tablet, atau komputer.</p>
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-dice"></i></div>
+          <h5>Ratusan Pilihan Game</h5>
+          <p>Slot, tembak ikan, bingo, live casino, dan olahraga — semua dalam satu lobby.</p>
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-server"></i></div>
+          <h5>Server Stabil 24/7</h5>
+          <p>Uptime tinggi dan server berkapasitas besar memastikan permainan tidak terputus.</p>
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-headset"></i></div>
+          <h5>Dukungan Pelanggan</h5>
+          <p>Tim CS siap membantu lewat live chat setiap hari — responsif dan ramah.</p>
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-wallet"></i></div>
+          <h5>Metode Pembayaran Lokal</h5>
+          <p>Dukung transfer bank lokal, e-wallet populer Indonesia, dan berbagai opsi lainnya.</p>
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fa-solid fa-gift"></i></div>
+          <h5>Bonus &amp; Promosi</h5>
+          <p>Nikmati berbagai bonus selamat datang, cashback, dan promosi eksklusif setiap minggu.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CARA
+<!-- CARA MENGGUNAKAN -->
+<section class="steps-section" aria-label="Cara menggunakan aisa77">
+  <div class="container">
+    <div class="row align-items-start g-5">
+      <div class="col-lg-5">
+        <span class="section-label">Mulai dalam 4 Langkah</span>
+        <h2 class="section-title">Cara Mudah Bergabung di aisa77</h2>
+        <div class="divider-purple" style="margin:0 0 1.5rem"></div>
+        <p style="color:var(--text-muted);font-size:0.95rem;line-height:1.75">
+          Mendaftar dan mulai bermain di aisa77 sangat mudah. Hanya butuh beberapa menit untuk menyiapkan akun dan langsung menikmati ratusan pilihan game favorit kamu.
+        </p>
+        <div class="mt-4">
+          <img src="/img/xgp35ubl.jpg" alt="aisa77 proses pendaftaran akun baru langkah mudah" title="aisa77 – Panduan Cara Daftar dan Mulai Bermain" class="img-fluid rounded" style="border:1.5px solid var(--purple-border);box-shadow:0 0 24px var(--purple-glow)">
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="step-item">
+          <div class="step-num">1</div>
+          <div class="step-content">
+            <h5>Daftar Akun Baru</h5>
+            <p>Kunjungi halaman pendaftaran aisa77 dan isi data diri kamu dengan lengkap. Proses registrasi cepat dan tidak memerlukan dokumen rumit untuk memulai.</p>
+          </div>
+        </div>
+        <div class="step-item">
+          <div class="step-num">2</div>
+          <div class="step-content">
+            <h5>Masuk ke Akun</h5>
+            <p>Setelah akun aktif, gunakan username dan password untuk Masuk ke platform. Sistem keamanan berlapis memastikan hanya kamu yang bisa mengakses akunmu.</p>
+          </div>
+        </div>
+        <div class="step-item">
+          <div class="step-num">3</div>
+          <div class="step-content">
+            <h5>Lakukan Deposit</h5>
+            <p>Pilih metode pembayaran lokal favoritmu — transfer bank, e-wallet, atau opsi lain yang tersedia. Deposit diproses cepat agar kamu tidak perlu menunggu lama untuk mulai bermain.</p>
+          </div>
+        </div>
+        <div class="step-item" style="margin-bottom:0">
+          <div class="step-num">4</div>
+          <div class="step-content">
+            <h5>Pilih Game atau Olahraga &amp; Mulai Bermain</h5>
+            <p>Masuk ke lobby game, pilih kategori favoritmu — slot, tembak ikan, bingo, atau taruhan olahraga seperti sepak bola dan badminton — lalu langsung nikmati keseruannya!</p>
+          </div>
+        </div>
+        <div class="mt-4">
+          <a href="/register" class="btn-purple me-3"><i class="fa-solid fa-user-plus me-2"></i>Daftar Sekarang</a>
+          <a href="/login" class="btn-outline-purple"><i class="fa-solid fa-right-to-bracket me-2"></i>Masuk</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SPORTS INDONESIA -->
+<section class="sports-section" aria-label="Olahraga favorit Indonesia di aisa77">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Olahraga &amp; Esports</span>
+      <h2 class="section-title">Ikuti Semangat Olahraga Indonesia di aisa77</h2>
+      <div class="divider-purple"></div>
+      <p class="section-sub">Dari lapangan hijau hingga arena esports, aisa77 menghadirkan pengalaman taruhan olahraga paling lengkap untuk pengguna Indonesia.</p>
+    </div>
+    <div class="row g-4 align-items-start">
+      <div class="col-sm-6 col-lg-4">
+        <div class="sport-card">
+          <img src="/img/dwf1aypvpe.jpg" alt="aisa77 taruhan sepak bola Indonesia liga domestik internasional" title="aisa77 – Taruhan Sepak Bola Indonesia dan Liga Internasional">
+          <div class="sport-card-body">
+            <span class="sport-tag">Sepak Bola</span>
+            <h5>Sepak Bola &amp; Liga Internasional</h5>
+            <p>Ikuti Liga 1 Indonesia, BRI Liga, hingga kompetisi besar dunia seperti Premier League dan Champions League. aisa77 menyajikan odds terkini dan beragam jenis taruhan yang bisa kamu pilih sesuai selera.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-4">
+        <div class="sport-card">
+          <img src="/img/x5pyzw7u8.jpg" alt="aisa77 badminton Indonesia turnamen internasional BWF" title="aisa77 – Taruhan Badminton Indonesia dan Turnamen BWF">
+          <div class="sport-card-body">
+            <span class="sport-tag">Badminton</span>
+            <h5>Badminton &amp; Kejuaraan Dunia</h5>
+            <p>Bangga dengan prestasi atlet badminton Indonesia di kancah dunia? Di aisa77, kamu bisa mengikuti turnamen BWF, Thomas Cup, dan Uber Cup dengan pilihan taruhan yang variatif dan odds yang kompetitif.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-4">
+        <div class="sport-card">
+          <img src="/img/vdpxmvvmnz.jpg" alt="aisa77 esports Mobile Legends MLBB turnamen Indonesia" title="aisa77 – Esports Mobile Legends dan Turnamen Gaming Indonesia">
+          <div class="sport-card-body">
+            <span class="sport-tag">Esports</span>
+            <h5>Esports &amp; Gaming Kompetitif</h5>
+            <p>Generasi muda Indonesia gila esports — dan aisa77 ada di sana. Ikuti turnamen Mobile Legends, PUBG Mobile, hingga kompetisi internasional dengan platform taruhan esports yang responsif dan real-time.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-6">
+        <div class="sport-card">
+          <img src="/img/b3frh4cm1p2.jpg" alt="aisa77 MotoGP balap motor taruhan seru pengguna Indonesia" title="aisa77 – Taruhan MotoGP dan Balap Motor Internasional">
+          <div class="sport-card-body">
+            <span class="sport-tag">MotoGP</span>
+            <h5>MotoGP &amp; Balap Motor Internasional</h5>
+            <p>MotoGP selalu dinantikan penggemar balap Indonesia. Di aisa77, kamu bisa mengikuti setiap seri balapan dengan taruhan live yang seru — mulai dari kualifikasi hingga podium akhir. Rasakan adrenalin balap dari layar HPmu.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-lg-6">
+        <div class="sport-card">
+          <img src="/img/tceib7z2q.jpg" alt="aisa77 futsal olahraga lokal Indonesia taruhan online" title="aisa77 – Futsal dan Olahraga Lokal Indonesia">
+          <div class="sport-card-body">
+            <span class="sport-tag">Futsal &amp; Olahraga Lokal</span>
+            <h5>Futsal &amp; Cabang Olahraga Lainnya</h5>
+            <p>Selain sepak bola besar, aisa77 juga meliput futsal, bola voli, dan berbagai cabang olahraga lokal yang populer di komunitas Indonesia. Platform kami terus diperbarui mengikuti jadwal kompetisi nasional maupun regional.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- GALLERY / KONTEN VISUAL -->
+<section class="gallery-section" aria-label="Galeri tampilan platform aisa77">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Platform aisa77</span>
+      <h2 class="section-title">Tampilan Game &amp; Fitur Unggulan</h2>
+      <div class="divider-purple"></div>
+      <p class="section-sub">Lihat sendiri bagaimana aisa77 menghadirkan pengalaman bermain yang modern, intuitif, dan mengasyikkan di setiap perangkat.</p>
+    </div>
+    <div class="row g-4 align-items-start">
+      <div class="col-md-6 col-lg-4 text-center">
+        <img src="/img/mvl0egrz.jpg" alt="aisa77 tampilan lobby game lengkap slot dan live casino" title="aisa77 – Lobby Game Lengkap Slot dan Live Casino" class="gallery-img">
+        <p class="mt-3" style="color:var(--text-muted);font-size:0.88rem">Lobby game aisa77 yang lengkap dengan ratusan pilihan slot, live casino, dan tembak ikan dalam satu tampilan yang bersih.</p>
+      </div>
+      <div class="col-md-6 col-lg-4 text-center">
+        <img src="/img/4fspxpgn.jpg" alt="aisa77 antarmuka mobile friendly nyaman di semua perangkat" title="aisa77 – Antarmuka Mobile Friendly Semua Perangkat" class="gallery-img">
+        <p class="mt-3" style="color:var(--text-muted);font-size:0.88rem">Antarmuka aisa77 dirancang mobile-first sehingga nyaman dimainkan di smartphone, tablet, maupun desktop.</p>
+      </div>
+      <div class="col-md-6 col-lg-4 text-center">
+        <img src="/img/xgp35ubl.jpg" alt="aisa77 fitur penarikan dana cepat aman terpercaya" title="aisa77 – Penarikan Dana Cepat dan Aman" class="gallery-img">
+        <p class="mt-3" style="color:var(--text-muted);font-size:0.88rem">Sistem Penarikan Dana di aisa77 diproses cepat dengan verifikasi keamanan untuk melindungi setiap transaksimu.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PERBANDINGAN FITUR -->
+<section class="compare-section" aria-label="Perbandingan fitur aisa77">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Perbandingan Fitur</span>
+      <h2 class="section-title">Cara Bermain: Pengalaman Standar vs aisa77</h2>
+      <div class="divider-purple"></div>
+      <p class="section-sub">Berikut perbandingan umum pengalaman bermain di platform konvensional dibandingkan dengan apa yang ditawarkan aisa77 kepada penggunanya.</p>
+    </div>
+    <div class="table-responsive">
+      <table class="compare-table" role="table" aria-label="Tabel perbandingan fitur platform">
+        <thead>
+          <tr>
+            <th scope="col" style="text-align:left">Fitur / Pengalaman</th>
+            <th scope="col">Platform Konvensional</th>
+            <th scope="col">aisa77</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Kecepatan Proses Deposit</td>
+            <td><span style="color:#f87171">Lambat, 1–3 jam</span></td>
+            <td><span class="check-yes"><i class="fa-solid fa-circle-check"></i> Menit, proses cepat</span></td>
+          </tr>
+          <tr>
+            <td>Penarikan Dana</td>
+            <td><span style="color:#f87171">Bisa memakan hari</span></td>
+            <td><span class="check-yes"><i class="fa-solid fa-circle-check"></i> Diproses hari yang sama</span></td>
+          </tr>
+          <tr>
+            <td>Pilihan Metode Pembayaran Lokal</td>
+            <td><span style="color:#fbbf24">Terbatas</span></td>
+            <td><span class="check-yes"><i class="fa-solid fa-circle-check"></i> Bank lokal + e-wallet lengkap</span></td>
+          </tr>
+          <tr>
+            <td>Tampilan Mobile</td>
+            <td><span style="color:#fbbf24">Kurang optimal</span></td>
+            <td><span class="check-yes"><i class="fa-solid fa-circle-check"></i> Responsif di semua perangkat</span></td>
+          </tr>
+          <tr>
+            <td>Variasi Game</td>
+            <td><span style="color:#fbbf24">Terbatas pada satu kategori</span></td>
+            <td><span class="check-yes"><i class="fa-solid fa-circle-check"></i> Slot, olahraga, live, tembak ikan</span></td>
+          </tr>
+          <tr>
+            <td>Keamanan Akun</td>
+            <td><span style="color:#fbbf24">Standar</span></td>
+            <td><span class="check-yes"><i class="fa-solid fa-circle-check"></i> Enkripsi SSL + verifikasi berlapis</span></td>
+          </tr>
+          <tr>
+            <td>Dukungan Bahasa Indonesia</td>
+            <td><span style="color:#f87171">Tidak selalu tersedia</span></td>
+            <td><span class="check-yes"><i class="fa-solid fa-circle-check"></i> Penuh Bahasa Indonesia</span></td>
+          </tr>
+          <tr>
+            <td>Taruhan Olahraga Lokal (Liga Indonesia, Badminton)</td>
+            <td><span style="color:#f87171">Minim atau tidak ada</span></td>
+            <td><span class="check-yes"><i class="fa-solid fa-circle-check"></i> Tersedia dan diperbarui rutin</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- KEBIJAKAN PRIVASI INLINE -->
+<section aria-label="Informasi kebijakan privasi aisa77" style="background:var(--bg-dark);padding:48px 0">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-9">
+        <div class="privacy-notice">
+          <i class="fa-solid fa-lock"></i>
+          <p>
+            <strong style="color:var(--text-light)">Kebijakan Privasi aisa77:</strong> Kami berkomitmen menjaga kerahasiaan seluruh data pribadi dan informasi finansial pengguna. Setiap data yang kamu berikan saat mendaftar, melakukan deposit, maupun Penarikan Dana diproses menggunakan enkripsi tingkat tinggi dan tidak akan dibagikan kepada pihak ketiga tanpa persetujuanmu. Untuk memahami sepenuhnya bagaimana aisa77 mengelola dan melindungi data pribadimu, silakan baca <a href="/privacy-policy">Kebijakan Privasi</a> kami secara lengkap.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="testimonials-section" aria-label="Ulasan pengguna aisa77">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Kata Mereka</span>
+      <h2 class="section-title">Pengalaman Pengguna aisa77 dari Seluruh Indonesia</h2>
+      <div class="divider-purple"></div>
+      <p class="section-sub">Berikut ini adalah contoh ulasan dari pengguna aisa77. Pendapat ini bersifat ilustratif dan mencerminkan jenis pengalaman yang umum disampaikan oleh para pemain.</p>
+    </div>
+    <div class="row g-4 align-items-start">
+      <div class="col-md-4">
+        <div class="testi-card">
+          <div class="testi-stars">
+            <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i>
+          </div>
+          <p class="testi-text">"Saya sudah coba beberapa platform sebelumnya, tapi aisa77 beda. Proses deposit dan penarikan dana benar-benar cepat, tidak pakai lama. Tampilan mobile-nya juga nyaman banget dipakai sambil santai."</p>
+          <div class="testi-author">
+            <div class="testi-avatar">RA</div>
+            <div>
+              <div class="testi-name">Rizky A.</div>
+              <div class="testi-city"><i class="fa-solid fa-location-dot me-1" style="color:var(--purple-main)"></i>Surabaya, Jawa Timur</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="testi-card">
+          <div class="testi-stars">
+            <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i>
+          </div>
+          <p class="testi-text">"Yang bikin saya betah di aisa77 itu pilihan olahraganya lengkap. Liga Indonesia, badminton, MotoGP semuanya ada. CS-nya juga responsif kalau ada pertanyaan — tidak perlu nunggu lama untuk dapat jawaban."</p>
+          <div class="testi-author">
+            <div class="testi-avatar">DW</div>
+            <div>
+              <div class="testi-name">Dewi W.</div>
+              <div class="testi-city"><i class="fa-solid fa-location-dot me-1" style="color:var(--purple-main)"></i>Bandung, Jawa Barat</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="testi-card">
+          <div class="testi-stars">
+            <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i>
+          </div>
+          <p class="testi-text">"Tembak ikan di aisa77 seru banget, grafiknya halus dan tidak nge-lag sama sekali. Saya main dari HP Android biasa pun lancar. Bonus mingguannya juga lumayan bikin semangat main terus."</p>
+          <div class="testi-author">
+            <div class="testi-avatar">BH</div>
+            <div>
+              <div class="testi-name">Bagas H.</div>
+              <div class="testi-city"><i class="fa-solid fa-location-dot me-1" style="color:var(--purple-main)"></i>Medan, Sumatera Utara</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA BANNER -->
+<section class="cta-section" aria-label="Ajakan bergabung aisa77">
+  <div class="container text-center" style="position:relative;z-index:2;padding:64px 0">
+    <span class="section-label">Bergabung Sekarang</span>
+    <h2 class="section-title" style="max-width:640px;margin:0 auto 1rem">Siap Memulai Petualangan Bermain di aisa77?</h2>
+    <p style="color:var(--text-muted);font-size:1rem;max-width:500px;margin:0 auto 2rem;line-height:1.7">
+      Daftar sekarang dan dapatkan bonus selamat datang eksklusif. Bergabunglah bersama komunitas pemain aisa77 yang terus berkembang di seluruh Indonesia.
+    </p>
+    <div class="d-flex flex-wrap justify-content-center gap-3">
+      <a href="/register" class="btn-purple" style="font-size:1.05rem;padding:14px 36px"><i class="fa-solid fa-user-plus me-2"></i>Daftar Gratis</a>
+      <a href="/login" class="btn-outline-purple" style="font-size:1.05rem;padding:13px 32px"><i class="fa-solid fa-right-to-bracket me-2"></i>Masuk</a>
+    </div>
+  </div>
+</section>
+
+<!-- KONTEN ARTIKEL SEO -->
+<section aria-label="Tentang aisa77 platform game Indonesia" style="background:var(--bg-deep)">
+  <div class="container">
+    <div class="row align-items-start g-5">
+      <div class="col-lg-8">
+        <span class="section-label">Tentang Platform</span>
+        <h2 class="section-title" style="text-align:left">aisa77: Pilihan Utama Platform Game Online di Indonesia</h2>
+        <div class="divider-purple" style="margin:0 0 1.5rem"></div>
+        <div style="color:var(--text-muted);font-size:0.95rem;line-height:1.85">
+          <p>Di tengah pesatnya perkembangan dunia hiburan digital, <strong style="color:var(--text-light)">aisa77</strong> hadir sebagai salah satu platform game online yang dirancang khusus untuk memenuhi kebutuhan pengguna Indonesia. Bukan sekadar platform biasa — aisa77 membangun ekosistem permainan yang lengkap, mulai dari permainan kasino klasik, slot modern berteknologi tinggi, tembak ikan interaktif, bingo seru, hingga taruhan olahraga yang mencakup cabang-cabang favorit masyarakat Indonesia.</p>
+          <p>Salah satu keunggulan utama aisa77 adalah pemahaman mendalam terhadap preferensi dan kebiasaan pengguna lokal. Mulai dari dukungan penuh terhadap metode pembayaran populer di Indonesia seperti transfer antarbank lokal dan dompet digital, hingga antarmuka yang sepenuhnya menggunakan Bahasa Indonesia yang natural — semuanya dirancang agar pengguna merasa nyaman dan tidak asing dengan platform ini.</p>
+          <p>Sepak bola adalah olahraga kebanggaan Indonesia, dan aisa77 memahami itu sepenuhnya. Platform ini menyajikan pasar taruhan untuk Liga 1 Indonesia, BRI Liga, hingga kompetisi Eropa bergengsi. Tidak hanya itu, aisa77 juga meliput badminton — olahraga di mana Indonesia selalu bersinar di pentas dunia — serta esports yang kini menjadi bagian tak terpisahkan dari gaya hidup anak muda Indonesia.</p>
+          <p>Dari sisi keamanan, aisa77 menerapkan protokol enkripsi data tingkat lanjut untuk melindungi setiap transaksi dan informasi pribadi pengguna. Setiap Akun dilindungi dengan sistem verifikasi berlapis yang memastikan hanya pemilik sah yang dapat mengakses dan mengelola dana mereka. Komitmen terhadap keamanan ini juga tercantum lengkap dalam <a href="/privacy-policy" style="color:var(--purple-main)">Kebijakan Privasi</a> resmi aisa77.</p>
+          <p>Permainan slot di aisa77 hadir dalam ratusan judul dari berbagai provider terkemuka. Setiap slot dirancang dengan grafis berkualitas tinggi dan mekanisme permainan yang adil. Fitur bonus, free spin, dan jackpot progresif membuat setiap sesi bermain selalu menarik dan penuh kejutan. Bagi yang menyukai tantangan berbeda, tembak ikan menghadirkan gameplay yang memadukan keterampilan dan strategi dalam suasana visual yang memukau.</p>
+          <p>Bingo di aisa77 menghadirkan format permainan sosial yang menyenangkan — cocok dimainkan kapan saja saat ingin bersantai. Sementara itu, lobby game aisa77 yang terus diperbarui memastikan selalu ada sesuatu yang baru untuk dijelajahi setiap kali pengguna masuk ke platform.</p>
+          <p>Kemudahan akses adalah prioritas aisa77. Platform ini dioptimalkan untuk semua jenis perangkat — dari smartphone Android dan iOS hingga komputer desktop — sehingga pengguna bisa menikmati permainan tanpa batas kapan pun dan di mana pun mereka berada. Dengan server yang stabil dan uptime tinggi, pengalaman bermain tidak akan terganggu oleh masalah teknis yang tidak perlu.</p>
+          <p>Proses <strong style="color:var(--text-light)">Penarikan Dana</strong> di aisa77 dirancang sesederhana dan secepat mungkin. Pengguna dapat mengajukan penarikan kapan saja, dan tim keuangan aisa77 memproses permintaan tersebut dengan efisien. Transparansi dalam setiap proses transaksi adalah nilai yang selalu dijunjung tinggi oleh platform ini.</p>
+          <p>Bergabung dengan aisa77 juga berarti mendapatkan akses ke berbagai program bonus dan promosi yang dirancang untuk memberikan nilai lebih kepada setiap pengguna. Dari bonus selamat datang untuk anggota baru, cashback mingguan, hingga turnamen slot dan esports berhadiah menarik — aisa77 selalu memiliki cara untuk membuat pengalaman bermain semakin berkesan.</p>
+          <p>Dengan dukungan layanan pelanggan yang responsif dan tim yang memahami kebutuhan pengguna Indonesia, aisa77 bukan hanya sekadar platform game — melainkan mitra hiburan digital yang bisa diandalkan setiap hari. Daftar sekarang dan rasakan sendiri perbedaannya.</p>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div style="position:sticky;top:80px">
+          <div style="background:var(--bg-card);border:1px solid var(--purple-border);border-radius:14px;padding:24px;margin-bottom:1.5rem">
+            <h5 style="color:#fff;font-family:'Rajdhani',sans-serif;font-weight:700;margin-bottom:1rem;font-size:1.05rem"><i class="fa-solid fa-fire me-2" style="color:var(--purple-main)"></i>Game Populer</h5>
+            <ul style="list-style:none;padding:0;margin:0">
+              <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.12)"><a href="/slot" style="color:var(--text-muted);text-decoration:none;font-size:0.9rem;transition:color 0.2s" onmouseover="this.style.color='#8b5cf6'" onmouseout="this.style.color='#94a3b8'"><i class="fa-solid fa-slot-machine me-2" style="color:var(--purple-main)"></i>Slot Online</a></li>
+              <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.12)"><a href="/tembak-ikan" style="color:var(--text-muted);text-decoration:none;font-size:0.9rem" onmouseover="this.style.color='#8b5cf6'" onmouseout="this.style.color='#94a3b8'"><i class="fa-solid fa-fish me-2" style="color:var(--purple-main)"></i>Tembak Ikan</a></li>
+              <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.12)"><a href="/bingo" style="color:var(--text-muted);text-decoration:none;font-size:0.9rem" onmouseover="this.style.color='#8b5cf6'" onmouseout="this.style.color='#94a3b8'"><i class="fa-solid fa-circle-dot me-2" style="color:var(--purple-main)"></i>Bingo</a></li>
+              <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.12)"><a href="/permainan-slot" style="color:var(--text-muted);text-decoration:none;font-size:0.9rem" onmouseover="this.style.color='#8b5cf6'" onmouseout="this.style.color='#94a3b8'"><i class="fa-solid fa-gamepad me-2" style="color:var(--purple-main)"></i>Permainan
+Slot</a></li>
+              <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.12)"><a href="/lobby-game" style="color:var(--text-muted);text-decoration:none;font-size:0.9rem" onmouseover="this.style.color='#8b5cf6'" onmouseout="this.style.color='#94a3b8'"><i class="fa-solid fa-trophy me-2" style="color:var(--purple-main)"></i>Lobby Game</a></li>
+              <li style="padding:8px 0"><a href="/platform" style="color:var(--text-muted);text-decoration:none;font-size:0.9rem" onmouseover="this.style.color='#8b5cf6'" onmouseout="this.style.color='#94a3b8'"><i class="fa-solid fa-layer-group me-2" style="color:var(--purple-main)"></i>Platform</a></li>
+            </ul>
+          </div>
+          <div style="background:linear-gradient(135deg,rgba(139,92,246,0.15),rgba(99,102,241,0.1));border:1px solid var(--purple-border);border-radius:14px;padding:24px;margin-bottom:1.5rem">
+            <h5 style="color:#fff;font-family:'Rajdhani',sans-serif;font-weight:700;margin-bottom:0.75rem;font-size:1.05rem"><i class="fa-solid fa-shield-halved me-2" style="color:var(--purple-main)"></i>Privasi &amp; Keamanan</h5>
+            <p style="color:var(--text-muted);font-size:0.88rem;line-height:1.65;margin-bottom:0.75rem">Data pribadi dan transaksi kamu dilindungi sepenuhnya oleh sistem enkripsi aisa77. Baca selengkapnya di halaman kami.</p>
+            <a href="/privacy-policy" style="color:var(--purple-main);font-size:0.88rem;font-weight:600;text-decoration:underline">Baca Kebijakan Privasi →</a>
+          </div>
+          <div style="background:var(--bg-card);border:1px solid var(--purple-border);border-radius:14px;padding:24px">
+            <h5 style="color:#fff;font-family:'Rajdhani',sans-serif;font-weight:700;margin-bottom:1rem;font-size:1.05rem"><i class="fa-solid fa-link me-2" style="color:var(--purple-main)"></i>Tautan Cepat</h5>
+            <div class="d-flex flex-column gap-2">
+              <a href="/register" class="btn-purple" style="text-align:center;padding:10px 16px;font-size:0.9rem"><i class="fa-solid fa-user-plus me-2"></i>Daftar Akun Baru</a>
+              <a href="/login" class="btn-outline-purple" style="text-align:center;padding:9px 16px;font-size:0.9rem"><i class="fa-solid fa-right-to-bracket me-2"></i>Masuk ke Akun</a>
+              <a href="/penarikan-dana" style="color:var(--text-muted);text-decoration:none;font-size:0.88rem;text-align:center;padding:6px;transition:color 0.2s" onmouseover="this.style.color='#8b5cf6'" onmouseout="this.style.color='#94a3b8'"><i class="fa-solid fa-money-bill-transfer me-2" style="color:var(--purple-main)"></i>Info Penarikan Dana</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer aria-label="Footer aisa77">
+  <div class="container">
+    <div class="row align-items-start g-4">
+      <div class="col-lg-4 col-md-6">
+        <a href="/" aria-label="Beranda aisa77">
+          <img src="/logo.png" alt="aisa77 logo" class="footer-logo">
+        </a>
+        <p class="footer-tagline mt-3">aisa77 adalah platform game online dan taruhan olahraga terpercaya untuk pengguna Indonesia. Cepat, aman, dan selalu siap menemani harimu.</p>
+        <div class="mt-3 d-flex gap-3">
+          <span style="color:var(--purple-main);font-size:1.2rem"><i class="fa-brands fa-instagram"></i></span>
+          <span style="color:var(--purple-main);font-size:1.2rem"><i class="fa-brands fa-telegram"></i></span>
+          <span style="color:var(--purple-main);font-size:1.2rem"><i class="fa-brands fa-whatsapp"></i></span>
+        </div>
+      </div>
+      <div class="col-lg-2 col-md-6 col-6">
+        <p class="footer-heading">Navigasi</p>
+        <ul class="footer-links">
+          <li><a href="/">Beranda</a></li>
+          <li><a href="/lobby-game">Lobby Game</a></li>
+          <li><a href="/tembak-ikan">Tembak Ikan</a></li>
+          <li><a href="/bingo">Bingo</a></li>
+          <li><a href="/platform">Platform</a></li>
+          <li><a href="/slot">Slot</a></li>
+          <li><a href="/permainan-slot">Permainan Slot</a></li>
+          <li><a href="/penarikan-dana">Penarikan Dana</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-6 col-6">
+        <p class="footer-heading">Informasi</p>
+        <ul class="footer-links">
+          <li><a href="/about-us">Tentang Kami</a></li>
+          <li><a href="/terms-conditions">Syarat dan Ketentuan</a></li>
+          <li><a href="/privacy-policy">Kebijakan Privasi</a></li>
+          <li><a href="/responsible-gaming">Permainan Bertanggung Jawab</a></li>
+          <li><a href="/faq">FAQ</a></li>
+          <li><a href="/sitemap.xml">Peta Situs</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <p class="footer-heading">Akun &amp; Kontak</p>
+        <div class="d-flex flex-column gap-2 mb-3">
+          <a href="/register" class="btn-purple" style="text-align:center;padding:10px 16px;font-size:0.9rem"><i class="fa-solid fa-user-plus me-2"></i>Daftar</a>
+          <a href="/login" class="btn-outline-purple" style="text-align:center;padding:9px 16px;font-size:0.9rem"><i class="fa-solid fa-right-to-bracket me-2"></i>Masuk</a>
+        </div>
+        <div style="background:rgba(139,92,246,0.08);border:1px solid var(--purple-border);border-radius:10px;padding:14px 16px">
+          <p style="color:var(--text-muted);font-size:0.85rem;margin-bottom:0.4rem"><i class="fa-solid fa-envelope me-2" style="color:var(--purple-main)"></i>Email Resmi:</p>
+          <span class="email-display">support@aisa77.com</span>
+        </div>
+        <div class="mt-3" style="background:rgba(139,92,246,0.06);border:1px solid rgba(139,92,246,0.2);border-radius:10px;padding:12px 16px">
+          <p style="color:var(--text-muted);font-size:0.82rem;margin:0;line-height:1.6">
+            <i class="fa-solid fa-circle-info me-2" style="color:var(--purple-main)"></i>
+            Bermainlah dengan bijak. Untuk panduan bermain yang bertanggung jawab, kunjungi halaman <a href="/responsible-gaming" style="color:var(--purple-main)">Permainan Bertanggung Jawab</a> kami.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="row align-items-center">
+        <div class="col-md-6">
+          <p>© 2026 aisa77. Seluruh hak cipta dilindungi undang-undang.</p>
+        </div>
+        <div class="col-md-6 text-md-end mt-2 mt-md-0">
+          <p>
+            <a href="/terms-conditions" style="color:var(--text-muted);text-decoration:none;font-size:0.83rem;margin-right:1rem" onmouseover="this.style.color='#8b5cf6'" onmouseout="this.style.color='#94a3b8'">Syarat dan Ketentuan</a>
+            <a href="/privacy-policy" style="color:var(--text-muted);text-decoration:none;font-size:0.83rem;margin-right:1rem" onmouseover="this.style.color='#8b5cf6'" onmouseout="this.style.color='#94a3b8'">Kebijakan Privasi</a>
+            <a href="/responsible-gaming" style="color:var(--text-muted);text-decoration:none;font-size:0.83rem" onmouseover="this.style.color='#8b5cf6'" onmouseout="this.style.color='#94a3b8'">Permainan Bertanggung Jawab</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;6098192eebc3465e9db626e479da2fb9&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+<div id="br-stick" lang="id" style="left: 50%; transform: translateX(-50%) translateZ(0px); max-width: 400px; width: auto; bottom: 0px;"><div class="wrap">  <div class="card" role="region" aria-label="Daftar dan Masuk">    <button class="close" aria-label="Tutup" type="button">×</button>    <div class="btn-container">      <a href="https://z8m4r.com" class="br-btn br-btn-register" target="_blank" rel="nofollow noopener noreferrer">Daftar</a>      <a href="https://z8m4r.com" class="br-btn br-btn-login" target="_blank" rel="nofollow noopener noreferrer">Masuk</a>    </div>  </div></div></div></body></html>

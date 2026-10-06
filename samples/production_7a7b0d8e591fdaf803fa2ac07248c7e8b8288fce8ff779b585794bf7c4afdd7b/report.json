@@ -1,0 +1,27 @@
+{
+  "original_url": "https://chanlemomo.vet",
+  "hostname": "chanlemomo.vet",
+  "checked_at": "2026-10-04T13:34:11.883171+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a05336-0b48-70de-9af4-545ddb7f93d3",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-08-30T15:07:36.200Z",
+  "scan_original_url": "http://yamate-jyubankan.yokohama/",
+  "final_url": "https://chanlemomo.vet/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4513,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.084,
+  "discovery": {
+    "batch_id": "50783877bb939c0c5a3ed63973d16f20473ba8495c0c564607f32ec2f18a4c6f",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

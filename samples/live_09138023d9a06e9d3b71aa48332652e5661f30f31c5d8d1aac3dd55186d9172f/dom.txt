@@ -1,0 +1,781 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><meta content="text/html; CHARSET=utf-8" http-equiv="Content-Type">
+<title>Outlook Web App</title>
+<style data-href="https://mail.haaretz.co.il/CookieAuth.dll?GetPic?formdir=1&amp;image=logon_style.css" rel="stylesheet" type="text/css">/*Copyright (c) 2003-2006 Mail Corporation.  All rights reserved.*/
+
+/* main layout styles */
+
+/* Everything should be Tahoma */
+body
+{
+	background-color:#ffffff;
+	text-align:center;
+	font-family:Tahoma;
+}
+img
+{
+	border:0;
+}
+.nonMSIE
+{
+	padding: 3px 3px; 
+	margin: 2px 2px;
+}
+table#tblMain
+{
+	margin-top:48px;
+	padding:0px 0px 0px 0px;
+}
+table.mid
+{
+	width: 385px;
+	border-collapse:collapse;
+	padding:0px;
+	color:#444444; 
+}
+table.tblConn
+{
+    direction: ltr;
+}
+td.tdConnImg
+{
+    width: 22px;
+}
+td.tdCopy
+{
+    font-size: 80%;
+}
+td.tdConn
+{
+    padding-top: 15px;
+}
+td#mdLft
+{
+	background: url("data:image/gif;base64,R0lGODlhDwDIAKIAAP7+/qSkpPr6+/b2+P///wAAAAAAAAAAACH5BAAAAAAALAAAAAAPAMgAAAPnSKogEyvG9qSl0E6XNePegoVfRY4nmJoh2qov67kzXMsands7fvE/n0QX7NyMPWSRRCAOgU/hRiqCTpVR7JXp3K60VWoJPOZaw+Tmufw1i9XvLtqdlrNj9TU8H9fb93SBbYN4goWER4aJiEmKjYxLkFmOkYeWi5ePmZWYnZqenJ+ioaSTkl6bpqmooKqtrKOusbCltLK1c6e5q7uvvbO/uHe+w8DFwoC6x7fMts7BzdDPy9PJvNTS2djb1sTdxt/If+N+5X3nfOmU0dzk6OvV7urK4ez18ebz1/fa/O358PrJC/jvnYQEADs=") repeat-y;
+	width:15px;
+}
+td#mdRt
+{
+	background: url("data:image/gif;base64,R0lGODlhDwDIAKIAAP7+/qSkpOjp7vDx9Pr6+/b2+P///wAAACH5BAAAAAAALAAAAAAPAMgAAAP3aLohUwSsqdqLdFooc3Wc912dt2HiWWaqaLQpiJrySsE06eJsvfsxXTA0nPWEOWLSeAMubRrnUTllRpFVKEPaxHapX+vWewWXxSPzWJ1Gv7hnbVv+Jq/dvDA9H//Z535sdYJ8d3twhoF4iIBFh3+Di5CFjU+Kj4SMkZiSmZOalJuXo46klqWop6pZpqyprqt6rbKvtLF9tbi3ibm8u5WwwbbCusS+xsDDysXLx83JzNHO0tDT1tXYor3Zod2g35/hnuOd5Zzns9Tav+vI7c/v6t7i5unX8ffz5Ojb+Nzg++z9o8ePnb56/Q4WdKdQoL+HDRMCRGggAQA7") repeat-y;
+	width:15px;
+}
+td#mdMid
+{
+	padding:0px 45px;
+	background: #ffffff; 
+	vertical-align: top;
+}
+td .txtpad
+{
+	padding: 3px 6px 3px 0px;
+	text-align:right;
+}
+/* shared content styles */
+body.rtl td#mdMid
+{
+	text-align:right;
+	direction:rtl;
+}
+select, table
+{
+	color:#444444;
+}
+select, .txt
+{
+	color:#000000;
+	background-color:#fff3c0;
+	border: 1px solid #a4a4a4;
+	margin: 3px 6px; 
+}
+.txt
+{
+	padding:3px;
+	height:2.2em;
+}
+input.btn
+{
+	color: #ffffff;
+	background-color: #eb9c12;
+	border:0px;
+	padding:2px 6px;
+	margin:0px 6px;
+	text-align:center;
+}
+.btnOnFcs
+{
+	color: #ffffff;
+	background-color: #eb9c12;
+	border:0px;
+	padding:2px 6px;
+	margin:0px 6px;
+	text-align:center;
+}
+.btnOnMseOvr
+{
+	color: #ffffff;
+	background-color: #f9b133;
+	border:0px;
+	padding:2px 6px;
+	margin:0px 6px;
+	text-align:center;
+}
+.btnOnMseDwn
+{
+	color: #000000;
+	background-color: #f9b133;
+	border: 0px solid #f9b133;
+	padding:2px 6px;
+	margin:0px 6px;
+	text-align:center;
+}
+.nowrap
+{
+	white-space:nowrap;
+}
+hr
+{
+	height: 0px; 
+	visibility: hidden;
+}
+.l
+{
+	text-align:left;
+}
+.rtl .l
+{
+	text-align:right;
+}
+.r
+{
+	text-align:right;
+}
+.rtl .r
+{
+	text-align:left;
+}
+/* logon page specific styles */
+a
+{
+	color:#ff6c00;
+	text-decoration:none;
+}
+.wrng
+{
+	color:#ff6c00;
+}
+.disBsc
+{
+	color:#999999;
+}
+.expl
+{
+	color:#999999;
+}
+.w100, .txt
+{
+	width:100%;
+}
+.txt
+{
+	margin:0px 6px;
+}
+.rdo
+{
+	margin:0px 12px 0px 32px;
+}
+body.rtl .rdo
+{
+	margin:0px 32px 0px 12px;
+}
+tr.expl td, tr.wrng td
+{
+	padding:2px 0px 4px 0px;
+}
+tr#trSec td
+{
+	padding:3px 0px 8px 0px;
+}
+/* language page specific styles */
+td#tdLng
+{
+	padding:12px 0px 12px 0px;
+}
+td#tdTz
+{
+	padding:8px 0px 8px 0px;
+}
+select#selTz
+{
+	padding:0px;
+	margin:0px;
+}
+td#tdOptMsg
+{
+	padding:10px 0px 10px 0px;
+}
+td#tdOptChk
+{
+	padding:0px 0px 15px 65px;
+}
+td#tdOptAcc
+{
+	vertical-align:middle;
+	padding:0px 0px 0px 3px;
+}
+select#selLng
+{
+	margin:0px 16px;
+}
+input#btnOk
+{
+	width:50px;
+}
+/* logoff page specific styles */
+td#tdMsg
+{
+	margin:9px 0px 64px;
+}
+input#btnCls
+{
+	margin:3px 6px;
+}
+.dir
+{
+	direction: ltr;
+}
+.align
+{
+	text-align:left;
+}
+.padding
+{
+	padding-left:42px;
+}
+/* styles for logon page with script disabled */
+div#dvErr
+{
+	padding:0px 0px 3px 3px;
+	background-color: #FCBC9C;
+	border:solid 1px #B43038;
+}
+div#dvErr table
+{
+	color:#000000;
+}
+div#dvErr a
+{
+	color:#3F52B8;
+}
+td.lgnTL, td.lgnBL
+{
+	width: 456px;
+}
+td.lgnTM
+{
+	background: url("data:image/gif;base64,R0lGODlhAQBzAJEAAP7+/qSkpP///wAAACH5BAAAAAAALAAAAAABAHMAAAILlC8QyO0Po5y0ugIAOw==") repeat-x;
+	width: 100%;
+}
+td.lgnBM
+{
+	background: url("data:image/gif;base64,R0lGODlhAQA2ANUAAP/++/r6+//////43f/53//kNP7dV//88P/1yv/98//lOf/20v/76KSkpP/99v/fMeLj6ujp7v/lTfDx9P/vr//eLv7+/v/1zf/gNf/hOfb2+P/65N7f5//lN//oUf/87f/42v/lQf/++v/aN//++f/rYv/lMv/mPf7cS//aRf/eLf/lRf/ZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAABADYAAAYxQICI5EgcPowNYQBaXBAUAwqVSrGuI5Wq8sBkPKWSZLUKnU6KTsFkanAgkYkmYBEEAQA7") repeat-x;
+	width: 100%;
+}
+td.lgnTR, td.lgnBR
+{
+	width: 45px;
+}
+table.tblLgn
+{
+	padding: 0px; 
+	margin: 0px; 
+	border-collapse:collapse;
+	width: 100%;
+}
+	</style>
+<style data-href="https://mail.haaretz.co.il/CookieAuth.dll?GetPic?formdir=1&amp;image=owafont.css" rel="stylesheet" type="text/css">body, textarea
+{
+	font-family:Tahoma,Arial,Helvetica;
+	font-size:70%;
+}
+input, select, pre
+{
+	font-family:Tahoma,Arial,Helvetica;
+}
+.bld, .ur
+{
+	font-weight:bold;
+}
+.nbMnuItm
+{
+	font-weight:bold;
+}
+input, select, pre
+{
+	font-family:Tahoma,Arial,Helvetica;
+}
+.bld, div.vlv .ur
+{
+	font-weight:bold;
+}
+#divBrandBtns
+{
+	font-size: 100%;
+}
+.fromSdr
+{
+	font-size:120%;
+}
+
+.readSubj 
+{
+	font-size:12pt;
+	font-weight:bold;
+	font-family:Arial;
+}
+
+.pvwFrom, .pvwMpFrom
+{
+	font-size:130%;
+	font-family:Arial;
+}
+
+.fbBiu 
+{
+	font-family:Courier New;
+	font-size:17px;
+}
+
+
+table#tblPckr 
+{
+	font-size:0px;
+}
+
+
+.rwW a, .rwW strong, .rwW em, .rwW u 
+{
+	font-weight:normal;
+	font-style:normal;
+}
+
+td#svRemTop 
+{
+	font-family:Arial;
+	font-weight:bold;
+	font-size:130%;
+}
+
+.dyTms 
+{
+	font-size:xx-small;
+}
+
+.dpWN 
+{
+	font-size:7.5pt;
+}
+
+
+.fb0 
+{
+	font-weight:normal;
+}
+
+.timeStripLeft
+{
+	font-size:175%;
+}
+
+#divDailyViewDateName, #divMonthlyViewDateName 
+{
+	font-weight:bold;
+	font-size:125%;
+}
+
+.tdHdr 
+{
+	font-family:Arial;
+	font-size:160%;
+}
+
+
+div#divCmpFnt span span 
+{
+	font-weight:bold;
+	font-size:17px;
+	font-family:Courier New;
+}
+
+
+span.nm 
+{
+	font-size:130%;
+	font-weight:bold;
+}
+
+.abArrw 
+{
+	font-family:Courier New;
+}
+
+.mid 
+{
+	font-size:70%;
+}
+
+.tdCopy 
+{
+	font-size:80%;
+}
+
+input#txtcp 
+{
+	font-size:100%;
+	font-family:Tahoma, Arial, Helvetica;
+}
+
+.rcpLwr .tck td,    /* read AD free/busy scroll bar hour cell section */
+.dyTmsAd .hrs td   /* read AD free/busy scroll bar time section */
+{
+	width:36px;
+}
+.rcpHdrAd tr.t td, #tys td
+{
+	width:37px;
+}
+
+select, input, textarea, button, label, table, pre, 
+div#divTr, .awRW, .awRO, .rwW, .edtSubj,
+textarea#taAn, table#tblErr, td#tdErrHdCt, div#divFH, .timeStripRight,
+div#divNFld, div#divRFld, input#txtNFld, input#txtFldN, .edtTsk, 
+body.owaLgnBdy 
+{
+	font-size:100%;
+}
+
+input, select, pre, button 
+{
+	font-family:Tahoma,Arial,Helvetica;
+}
+
+.bld, .ur, .nwItmTxtFrm, span.bld, .fbLbl, 
+.rwDL, .moSctTxt, .lyt .hdr, .lyt .sugHdr, 
+.dyTms .dy, table#tblDpM td.b, .fb1, .visSbj, tr.gh td, 
+.bold, span#spnPn, table#tblCnts .sct, 
+table#tblCnts .bLn, div#divNtfyItmSb, .adMgHd, .cntTabCT,
+.cntDetPT, body.rtl .cntDetPT, .cntSepT, #spnMbQtUsg, 
+.pvwLabel, .pvwLblMdl, td.pvwLblMdl 
+{
+	font-weight:bold;
+}
+
+#divSubj, #divMN
+{
+	font-family:Arial;
+	font-size:12pt;
+	font-weight:bold;
+}
+
+/* Font color for new value of modified props from meeting update highlight  
+*/
+.updNew, .fbItalics, span#spnCmpI 
+{
+	font-style:italic;
+}
+
+.wvsn, .rtl .wvsn 
+{
+	font:normal 85% Tahoma, Sans Serif, Arial;
+}
+
+.errDesc #errMsg, .errHd 
+{
+	font-size:130%;
+}
+
+.dp, .dpDD 
+{
+	font-size:8pt;
+}
+
+.mlIL span#abc, .txtBdy, .cntNot 
+{
+	font-family:Tahoma,Arial,Helvetica;
+	font-size:100%;
+}
+
+.mbqtTxt, input.btn, .btnOnFcs, .btnOnMseOvr, .btnOnMseDwn 
+{
+	font-size:95%;
+}
+
+/* Webready.css */
+.tbWIB, .tbEIB 
+{
+	font:normal 95% Tahoma, Sans Serif, Arial;
+}
+.userTileTxt
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarUserTextFontSize;
+}
+#divLogOff
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarSignOutFontSize;
+}
+#divBrandOrgName
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarCoBrandFontSize;
+}
+#divBrandOrgLive
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarIngrediantFontSize;
+}
+.brandBarLink
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarLinksFontSize;
+}
+#divMdNm
+{
+	font-family: Arial Black, Gadget, sans-serif;
+	font-size: 17pt;
+}
+	</style>
+</head>
+<body class="owaLgnBdy">
+<form autocomplete="off" id="logonForm" method="GET"><!-- Main table -->
+<table align="center" cellpadding="0" cellspacing="0" id="tblMain">
+<tbody>
+<tr>
+<td colspan="3">
+<table cellpadding="0" cellspacing="0" class="tblLgn" height="23" width="493">
+<tbody>
+<tr>
+<td class="lgnTL" style="margin-left:130px">&nbsp;</td>
+<td class="lgnTM">&nbsp;</td>
+<td class="lgnTR">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td id="mdLft">&nbsp;</td>
+<td id="mdMid"><!-- Mid table -->
+<table class="mid" id="tblMid">
+<tbody>
+<tr>
+<td class="expl" id="expltxt">&nbsp;</td>
+</tr>
+<tr>
+<td class="align"><!-- Table 1-->
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="wrng">
+<h2>Mail Web Access</h2>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- End Table 1--></td>
+</tr>
+<tr>
+<td>
+<hr><!-- HR--></td>
+</tr>
+<tr>
+<td class="align"><!-- Table 2-->
+<table cellpadding="0" cellspacing="0">
+<colgroup>
+<col>
+<col class="w100">
+</colgroup>
+<tbody>
+<tr id="trSec">
+<td class="nowrap">Security&nbsp;</td>
+<td id="expl1" style="display:none">( <a href="/tracking/de/4905571-djPP1uNpPDzrkg" id="lnkShwSec">show explanation</a><a href="/tracking/de/4905571-djPP1uNpPDzrkg" id="lnkHdSec">hide explanation</a> )</td>
+</tr>
+</tbody>
+</table>
+<!-- End Table 2--></td>
+</tr>
+<tr>
+<td><!--Table 3-->
+<table cellpadding="0" cellspacing="0">
+<colgroup>
+<col>
+<col class="w100">
+</colgroup>
+<tbody>
+<tr class="height">
+<td><input checked="checked" class="rdo" id="rdoPblc" name="trusted" type="radio" value="0"></td>
+<td><label for="rdoPblc">This is a public or shared computer</label></td>
+</tr>
+<tr class="expl" id="trPubExp" style="display:none">
+<td>&nbsp;</td>
+<td>Select this option if you are connecting from a public computer. Be sure to log off and close all browser windows to end your session. Read about the <a href="/tracking/de/4905571-djPP1uNpPDzrkg">security risks</a> of using a public computer.</td>
+</tr>
+<tr class="height">
+<td><input class="rdo" id="rdoPrvt" name="trusted" type="radio" value="4"></td>
+<td><label for="rdoPrvt">This is a private computer</label></td>
+</tr>
+<tr class="expl" id="trPrvtExp" style="display:none">
+<td>&nbsp;</td>
+<td>Select this option if you are the only person using this computer. This option provides additional time of inactivity before automatically logging you off.</td>
+</tr>
+<tr class="wrng" id="trPrvtWrn" style="display:none">
+<td>&nbsp;</td>
+<td><b>Warning:</b> By selecting this option you acknowledge that the computer complies with your organization's security policy.</td>
+</tr>
+</tbody>
+</table>
+<!-- End Table 3--></td>
+</tr>
+<tr>
+<td>
+<hr><!-- HR--></td>
+</tr>
+<tr>
+<td><!-- Table 4-->
+<table cellpadding="0" cellspacing="0">
+<colgroup>
+<col>
+<col class="w100">
+</colgroup>
+<tbody>
+<tr>
+<td valign="top"><input class="rdo" id="chkBsc" name="chkBsc" type="checkbox"></td>
+<td><label for="chkBsc">Use Web App Light</label></td>
+</tr>
+<tr class="disBsc" id="trBscExp" style="display:none">
+<td>&nbsp;</td>
+<td>The Light client provides fewer features and is sometimes faster. Use the Light client if you are on a slow connection or using a computer with unusually strict browser security settings.</td>
+</tr>
+</tbody>
+</table>
+<!-- End Table 4--></td>
+</tr>
+<tr>
+<td>
+<hr><!-- HR--></td>
+</tr>
+<tr>
+<td><!-- Table 5-->
+<table cellpadding="0" cellspacing="0">
+<colgroup>
+<col>
+<col class="w100">
+</colgroup>
+<tbody>
+<tr style="display: none">
+<td valign="top"><input class="rdo" id="chpwd" name="chpwd" type="checkbox"></td>
+<td><label for="chpwd">I want to change my password after logging on</label></td>
+</tr>
+<tr class="expl" id="trChpwdExp" style="display:none">
+<td>&nbsp;</td>
+<td>With this option selected, a page used to change your password will be displayed after your credentials are submitted.</td>
+</tr>
+</tbody>
+</table>
+<!-- End Table 5--></td>
+</tr>
+<tr style="display: none">
+<td>
+<hr><!-- HR--></td>
+</tr>
+<tr>
+<td><!-- Table 6-->
+<table cellpadding="0" cellspacing="0">
+<colgroup>
+<col class="nowrap">
+<col class="w100">
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="nowrap"><label for="username">Domain\user name:</label></td>
+<td class="txtpad"><input class="txt" id="username" name="username" type="text"></td>
+</tr>
+<tr>
+<td class="nowrap"><label for="password">Password:</label></td>
+<td class="txtpad"><input class="txt" id="password" name="password" type="password"></td>
+</tr>
+<tr>
+<td class="nowrap">&nbsp;</td>
+<td class="txtpad" colspan="2"><input class="btn" id="SubmitCreds" name="SubmitCreds" type="submit" value="Log On"></td>
+</tr>
+</tbody>
+</table>
+<!-- End Table 6--></td>
+</tr>
+<tr>
+<td>
+<hr><!-- HR--></td>
+</tr>
+</tbody>
+</table>
+<!-- End Mid Table--><!-- Mid2 Table-->
+<table class="mid" id="tblMid2" style="display:none">
+<tbody>
+<tr>
+<td>
+<hr></td>
+</tr>
+<tr>
+<td><br>
+						Cookies are currently disabled by your browser settings. To access this Web site, cookies must be enabled.<br>
+<br>
+						Follow these directions to enable cookies (Internet Explorer 6 or later): In Internet Explorer, on the Tools menu, click Internet Options. Click the Privacy tab, then click Sites. In Address of Web site, type the complete address of this Web site.<br>
+<br>
+						&nbsp;</td>
+</tr>
+<tr>
+<td>
+<hr></td>
+</tr>
+<tr>
+<td class="txtpad"><input class="btn" style="float: right" type="button" value="Retry"></td>
+</tr>
+</tbody>
+</table>
+<!-- End Mid2 Table-->
+<table class="mid tblConn">
+<tbody>
+<tr>
+<td class="tdConnImg" rowspan="3" style="vertical-align:top"><img alt="" src="data:image/gif;base64,R0lGODlhFgAWAIAAAP///wAAACH5BAAAAAAALAAAAAAWABYAAAIUhI+py+0Po5y02ouz3rz7D4biVQAAOw=="></td>
+<td class="tdConn" style="padding-top:6px;">Connected to Mail Exchange</td>
+</tr>
+<tr>
+<td class="tdConn" style="padding-top:0px;">Secured by Mail Forefront Threat Management Gateway</td>
+</tr>
+<tr>
+<td class="tdCopy">© 2009 Mail Corporation. All rights reserved.</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td id="mdRt">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3">
+<table cellpadding="0" cellspacing="0" class="tblLgn">
+<tbody>
+<tr>
+<td class="lgnBL">&nbsp;</td>
+<td class="lgnBM">&nbsp;</td>
+<td class="lgnBR">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- End Main Table--></form>
+
+
+<script src="/static/training/js/jquery-3.6.1.min.js"></script><script src="/static/training/js/create_click_event.js"></script><script src="/static/training/js/confirm_data_entry_on_typing.js"></script><script type="text/javascript">createClickEvent('/tracking/create_click_event/4905571-djPP1uNpPDzrkg', false);confirmDataEntryOnTyping('/tracking/de/4905571-djPP1uNpPDzrkg');</script></body></html>

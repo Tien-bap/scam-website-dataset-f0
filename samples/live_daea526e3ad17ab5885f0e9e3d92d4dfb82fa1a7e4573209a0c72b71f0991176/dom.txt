@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>247Help</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background-color: #ffffff;
+      font-family: sans-serif;
+      text-align: center;
+    }
+
+    .wrapper {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 40px 20px;
+      min-height: 100dvh;
+      box-sizing: border-box;
+    }
+
+    img {
+      width: 322px;         /* target size */
+      max-width: 90vw;      /* allow scaling down on small screens only */
+      height: auto;
+      margin-bottom: 30px;
+    }
+
+    p {
+      color: #333;
+      font-size: 15px;
+      line-height: 1.6;
+      max-width: 500px;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <img src="sosapp.png" alt="247Help App Preview">
+    <p>
+      247Help is a modern SOS app for real-time emergency response in Curaçao.
+      <br><br>
+      We’re actively preparing for launch, with final elements coming together.
+    </p>
+  </div>
+
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl505354'},{'dcenter':'p3'},{'cp_id':'10278081'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src="https://img1.wsimg.com/traffic-assets/js/tccl.min.js"></script></body></html>

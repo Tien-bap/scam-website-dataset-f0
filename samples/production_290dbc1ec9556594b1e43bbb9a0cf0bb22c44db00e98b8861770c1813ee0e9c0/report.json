@@ -1,0 +1,27 @@
+{
+  "original_url": "https://aeonbig.com.my/diamo/ex/ex/",
+  "hostname": "aeonbig.com.my",
+  "checked_at": "2026-10-04T15:37:06.946979+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a101d9-1dcc-74ed-b233-a2d53a7c7fbd",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-03T12:59:38.639Z",
+  "scan_original_url": "https://aeonbig.com.my/",
+  "final_url": "https://aeonbig.com.my/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2506,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.499,
+  "discovery": {
+    "batch_id": "9f2ea6f51c09034ddd456eeb908f4019c1a7e229dd1d0012412f86a9c3a30a79",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

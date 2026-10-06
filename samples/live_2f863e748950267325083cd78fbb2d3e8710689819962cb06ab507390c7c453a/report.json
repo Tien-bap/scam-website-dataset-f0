@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_2f863e748950267325083cd78fbb2d3e8710689819962cb06ab507390c7c453a",
+  "candidate_sha256": "6ef3e836646dafd64f433dfa67d4ca4c1572f2f7eb41acb5ac8e036f6d5944f6",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://rafigroup.com/login/",
+  "requested_url": "https://rafigroup.com/wp-login.php",
+  "browser_final_url": "https://rafigroup.com/wp-login.php",
+  "source_urls": [
+    "https://rafigroup.com/login/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 65248,
+      "source_url": "https://rafigroup.com/login/",
+      "source_hostname": "rafigroup.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://rafigroup.com/wp-login.php",
+      "final_hostname": "rafigroup.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 7875,
+      "elapsed_ms": 3510,
+      "checked_at": "2026-10-05T12:56:59.428710+00:00",
+      "error": null,
+      "normalized_source_url": "https://rafigroup.com/login/",
+      "normalized_final_url": "https://rafigroup.com/wp-login.php",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_2f863e748950267325083cd78fbb2d3e8710689819962cb06ab507390c7c453a",
+    "representative_source_index": 65248,
+    "representative_source_url": "https://rafigroup.com/login/",
+    "representative_final_url": "https://rafigroup.com/wp-login.php",
+    "normalized_final_url": "https://rafigroup.com/wp-login.php",
+    "source_hostname": "rafigroup.com",
+    "final_hostname": "rafigroup.com",
+    "source_urls": [
+      "https://rafigroup.com/login/"
+    ],
+    "provenance": [
+      {
+        "source_index": 65248,
+        "source_url": "https://rafigroup.com/login/",
+        "source_hostname": "rafigroup.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://rafigroup.com/wp-login.php",
+        "final_hostname": "rafigroup.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 7875,
+        "elapsed_ms": 3510,
+        "checked_at": "2026-10-05T12:56:59.428710+00:00",
+        "error": null,
+        "normalized_source_url": "https://rafigroup.com/login/",
+        "normalized_final_url": "https://rafigroup.com/wp-login.php",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Log In ‹ Rafi Group — WordPress",
+  "capture_timestamp": "2026-10-05T14:39:10.479823+00:00",
+  "dom_chars": 10647,
+  "screenshot_bytes": 26107,
+  "dom_sha256": "a0397f69e434fd47e0dcd5fba8b515a69915563919659df3844dec20b7121c6e",
+  "screenshot_sha256": "52314449db41e03dc725b0ac251ce89a8b404914b540e85fdd5921cbc5954f80",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://rafigroup.com/wp-login.php",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://rafigroup.com/wp-login.php",
+    "browser_final_url": "https://rafigroup.com/wp-login.php",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5957
+}

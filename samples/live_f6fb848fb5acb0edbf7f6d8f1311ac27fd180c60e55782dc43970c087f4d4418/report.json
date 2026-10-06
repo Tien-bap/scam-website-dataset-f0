@@ -1,0 +1,147 @@
+{
+  "candidate_id": "live_f6fb848fb5acb0edbf7f6d8f1311ac27fd180c60e55782dc43970c087f4d4418",
+  "candidate_sha256": "4e950e340a841a7788a6e3173679d659878c049cca3d80e72b3bc03f5e5db238",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com",
+  "requested_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com",
+  "browser_final_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com/",
+  "source_urls": [
+    "https://binhchoncuocthivetranhsinhvien2024.weebly.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 618,
+      "source_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com",
+      "source_hostname": "binhchoncuocthivetranhsinhvien2024.weebly.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com",
+      "final_hostname": "binhchoncuocthivetranhsinhvien2024.weebly.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 35494,
+      "elapsed_ms": 886,
+      "checked_at": "2026-10-05T12:17:57.837231+00:00",
+      "error": null,
+      "normalized_source_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com/",
+      "normalized_final_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_f6fb848fb5acb0edbf7f6d8f1311ac27fd180c60e55782dc43970c087f4d4418",
+    "representative_source_index": 618,
+    "representative_source_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com",
+    "representative_final_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com",
+    "normalized_final_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com/",
+    "source_hostname": "binhchoncuocthivetranhsinhvien2024.weebly.com",
+    "final_hostname": "binhchoncuocthivetranhsinhvien2024.weebly.com",
+    "source_urls": [
+      "https://binhchoncuocthivetranhsinhvien2024.weebly.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 618,
+        "source_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com",
+        "source_hostname": "binhchoncuocthivetranhsinhvien2024.weebly.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com",
+        "final_hostname": "binhchoncuocthivetranhsinhvien2024.weebly.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 35494,
+        "elapsed_ms": 886,
+        "checked_at": "2026-10-05T12:17:57.837231+00:00",
+        "error": null,
+        "normalized_source_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com/",
+        "normalized_final_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "𝐖𝐈𝐍𝐓𝐄𝐑 𝐀𝐌𝐁𝐀𝐒𝐒𝐀𝐃𝐎𝐑 | ĐẠ𝕀 𝕊Ứ 𝕄Ù𝔸 ĐÔℕ𝔾 - TRANG CHỦ",
+  "capture_timestamp": "2026-10-05T15:00:46.054994+00:00",
+  "dom_chars": 41140,
+  "screenshot_bytes": 535768,
+  "dom_sha256": "48a011c66c07177058a0618865ad3a8e107b67edeefa125385baa67a1e00083f",
+  "screenshot_sha256": "ea0c09651fd35c6a0780b09065d20aabc32e5a17249f02680a8c66375a9e4fc9",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com",
+    "browser_final_url": "https://binhchoncuocthivetranhsinhvien2024.weebly.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3923
+}

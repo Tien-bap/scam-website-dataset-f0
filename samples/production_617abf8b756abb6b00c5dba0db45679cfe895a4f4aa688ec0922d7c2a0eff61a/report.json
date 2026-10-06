@@ -1,0 +1,27 @@
+{
+  "original_url": "https://suntechnology.org/office1/source/login.php",
+  "hostname": "suntechnology.org",
+  "checked_at": "2026-10-04T15:37:19.712702+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0bd33-b980-7208-a070-7afcbe8ce659",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-20T05:04:47.256Z",
+  "scan_original_url": "http://suntechnology.org/",
+  "final_url": "https://suntechnology.org/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3788,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 43.682,
+  "discovery": {
+    "batch_id": "e2519f59aab518da9d880ec9884bcfa6450ac311ec5d7f93dc7ee29a18e055b4",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

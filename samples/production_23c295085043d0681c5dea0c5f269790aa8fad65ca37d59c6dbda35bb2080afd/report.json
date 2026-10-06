@@ -1,0 +1,27 @@
+{
+  "original_url": "https://bubasoftware.com/wp-content/themes/salient/img/icons/leaflet/drive/drive/index.html",
+  "hostname": "bubasoftware.com",
+  "checked_at": "2026-10-04T14:28:05.757471+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b8da-dfb0-729b-b754-96ea5935a87e",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-19T08:49:12.765Z",
+  "scan_original_url": "http://bubasoftware.com/",
+  "final_url": "https://bubasoftware.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 23917,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.652,
+  "discovery": {
+    "batch_id": "4dd5eee0cec9491548f59d83937230a431c4472a983120c9819b5c7ac87136ed",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

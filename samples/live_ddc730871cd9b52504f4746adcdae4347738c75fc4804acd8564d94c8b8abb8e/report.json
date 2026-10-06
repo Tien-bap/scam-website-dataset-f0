@@ -1,0 +1,316 @@
+{
+  "candidate_id": "live_ddc730871cd9b52504f4746adcdae4347738c75fc4804acd8564d94c8b8abb8e",
+  "candidate_sha256": "325acab7a4fc3133ee0fe7ff2d37ba8c5a6292307cc59fa8e7e1433624d0a6e3",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://fabet.to",
+  "requested_url": "https://fabet.host/",
+  "browser_final_url": "https://fabet.bike/",
+  "source_urls": [
+    "https://fabet.to",
+    "https://fabet.win"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 985,
+      "source_url": "https://fabet.to",
+      "source_hostname": "fabet.to",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fabet.host/",
+      "final_hostname": "fabet.host",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 805,
+      "checked_at": "2026-10-05T12:18:15.556347+00:00",
+      "error": null,
+      "normalized_source_url": "https://fabet.to/",
+      "normalized_final_url": "https://fabet.host/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 1201,
+      "source_url": "https://fabet.win",
+      "source_hostname": "fabet.win",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fabet.host/",
+      "final_hostname": "fabet.host",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 726,
+      "checked_at": "2026-10-05T12:18:32.510173+00:00",
+      "error": null,
+      "normalized_source_url": "https://fabet.win/",
+      "normalized_final_url": "https://fabet.host/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_ddc730871cd9b52504f4746adcdae4347738c75fc4804acd8564d94c8b8abb8e",
+    "representative_source_index": 985,
+    "representative_source_url": "https://fabet.to",
+    "representative_final_url": "https://fabet.host/",
+    "normalized_final_url": "https://fabet.host/",
+    "source_hostname": "fabet.to",
+    "final_hostname": "fabet.host",
+    "source_urls": [
+      "https://fabet.to",
+      "https://fabet.win"
+    ],
+    "provenance": [
+      {
+        "source_index": 985,
+        "source_url": "https://fabet.to",
+        "source_hostname": "fabet.to",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fabet.host/",
+        "final_hostname": "fabet.host",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 805,
+        "checked_at": "2026-10-05T12:18:15.556347+00:00",
+        "error": null,
+        "normalized_source_url": "https://fabet.to/",
+        "normalized_final_url": "https://fabet.host/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 1201,
+        "source_url": "https://fabet.win",
+        "source_hostname": "fabet.win",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fabet.host/",
+        "final_hostname": "fabet.host",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 726,
+        "checked_at": "2026-10-05T12:18:32.510173+00:00",
+        "error": null,
+        "normalized_source_url": "https://fabet.win/",
+        "normalized_final_url": "https://fabet.host/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 2,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "commit_salvaged",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Fabet - Trang Cá Độ Cá Cược Bóng Đá, Nhà Cái Thể Thao Uy Tín Số 1- Rút/Nạp nhanh.",
+  "capture_timestamp": "2026-10-06T02:43:35.513385+00:00",
+  "dom_chars": 682189,
+  "screenshot_bytes": 1032067,
+  "dom_sha256": "69b373542b62904fa65617cf6c13ba2c8dbacf81f15a050416e2067b903ea9aa",
+  "screenshot_sha256": "a92fba43df036123e89477262a4958262da97c465ff8ec6f5c20a540be894109",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://fabet.host/",
+      "http_status": 301
+    },
+    {
+      "url": "https://fabet.bike/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://fabet.host/",
+    "browser_final_url": "https://fabet.bike/",
+    "url_changed": true,
+    "cross_hostname": true,
+    "http_redirect_count": 1
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 37
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "dom_source": "rendered",
+  "recovery_strategy": "commit_fallback",
+  "timeline": [
+    {
+      "event": "context created",
+      "timestamp": "2026-10-06T02:43:35.517557+00:00",
+      "elapsed_ms": 8
+    },
+    {
+      "event": "goto(commit) start",
+      "timestamp": "2026-10-06T02:43:35.565220+00:00",
+      "elapsed_ms": 56
+    },
+    {
+      "event": "HTTP response: 301 https://fabet.host/",
+      "timestamp": "2026-10-06T02:43:35.717769+00:00",
+      "elapsed_ms": 208
+    },
+    {
+      "event": "HTTP response: 200 https://fabet.bike/",
+      "timestamp": "2026-10-06T02:43:35.956330+00:00",
+      "elapsed_ms": 447
+    },
+    {
+      "event": "response committed",
+      "timestamp": "2026-10-06T02:43:35.961029+00:00",
+      "elapsed_ms": 451
+    },
+    {
+      "event": "goto end: commit_failed",
+      "timestamp": "2026-10-06T02:43:35.961055+00:00",
+      "elapsed_ms": 451
+    },
+    {
+      "event": "settle start",
+      "timestamp": "2026-10-06T02:43:35.961069+00:00",
+      "elapsed_ms": 451
+    },
+    {
+      "event": "settle end",
+      "timestamp": "2026-10-06T02:43:39.962173+00:00",
+      "elapsed_ms": 4452
+    },
+    {
+      "event": "page.url: https://fabet.bike/ HTTP: 200",
+      "timestamp": "2026-10-06T02:43:39.963429+00:00",
+      "elapsed_ms": 4454
+    },
+    {
+      "event": "title start",
+      "timestamp": "2026-10-06T02:43:39.963458+00:00",
+      "elapsed_ms": 4454
+    },
+    {
+      "event": "title end",
+      "timestamp": "2026-10-06T02:43:40.030300+00:00",
+      "elapsed_ms": 4521
+    },
+    {
+      "event": "content start",
+      "timestamp": "2026-10-06T02:43:40.030321+00:00",
+      "elapsed_ms": 4521
+    },
+    {
+      "event": "content end",
+      "timestamp": "2026-10-06T02:43:40.099981+00:00",
+      "elapsed_ms": 4590
+    },
+    {
+      "event": "screenshot start",
+      "timestamp": "2026-10-06T02:43:40.100704+00:00",
+      "elapsed_ms": 4591
+    },
+    {
+      "event": "screenshot end",
+      "timestamp": "2026-10-06T02:43:40.375496+00:00",
+      "elapsed_ms": 4866
+    },
+    {
+      "event": "context close start",
+      "timestamp": "2026-10-06T02:43:40.434850+00:00",
+      "elapsed_ms": 4925
+    },
+    {
+      "event": "context close end",
+      "timestamp": "2026-10-06T02:43:40.444428+00:00",
+      "elapsed_ms": 4935
+    }
+  ],
+  "artifact_errors": [],
+  "elapsed_ms": 4935,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T16:53:00.576642+00:00",
+    "previous_report_sha256": "673b414c5ef655ffb417803132586ae50a56d4725a86871a76b6c9eaf72b99d9",
+    "recovered_at": "2026-10-06T02:43:35.513385+00:00",
+    "result": "commit_salvaged"
+  }
+}

@@ -1,0 +1,417 @@
+<!DOCTYPE html><html class=" js no-touch csstransforms3d csstransitions video webkit chrome linux js" style="height: auto;"><head>
+    <title>Alternatif Klinik | Sakarya Akupuntur | Bülent Hazer</title>
+    
+    <meta charset="utf-8">
+    <meta name="Author" content="Atak Teknoloji">
+    <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300italic,300,400italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/plugins/slider.revolution/css/extralayers.css" rel="stylesheet" type="text/css">
+    <link href="assets/plugins/slider.revolution/css/settings.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/essentials.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/layout.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/header-1.css" rel="stylesheet" type="text/css">
+    <link id="color_scheme" href="assets/css/color_scheme/blue.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/app.css" rel="stylesheet">
+
+    <meta name="description" content="Alternartif Klinik (Bülent Hazer): sakarya akupunktur, proloterapi, kupa-hacamat, ozonterapi, fitoterapi, nöralterapi, manyetoterapi, detoks-sağlıklı yaşam hizmetlerini sürdürmektedir.">
+	<meta name="keywords" content="sakarya akupunktur, bülent hazer, alternatif klinik, sakarya klinik, proloterapi, kupa-hacamat, ozonterapi, fitoterapi, nöralterapi, manyetoterapi, detoks-sağlıklı yaşam, çiçek terapi">
+
+</head>
+<body class="smoothscroll enable-animation">
+    <div id="wrapper">
+     
+        <div id="header" class="sticky clearfix">
+    <header id="topNav">
+        <div class="container">
+            <span class="btn btn-mobile" data-toggle="collapse" data-target=".nav-main-collapse"><i class="fa fa-bars"></i></span>
+            <a class="logo pull-left" href="index.asp">
+                <img src="assets/images/dogrutanitim.png" alt="Sakarya Profesyonel Klinik"></a>
+              
+            <div class="navbar-collapse pull-right nav-main-collapse collapse">
+                <nav class="nav-main">
+                    <ul id="topMain" class="nav nav-pills nav-main">
+                        <li><a href="index.asp">ANASAYFA</a></li>
+                        <li><a href="hakkimizda.asp">KURUMSAL</a></li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#">HİZMETLERİMİZ</a>
+                            <ul class="dropdown-menu">
+
+                                <li><a href="akupunktur.asp">AKUPUNKTUR</a></li>
+
+                                <li><a href="proloterapi.asp">PROLOTERAPİ</a></li>
+
+                                <li><a href="kupa-hacamat.asp">KUPA - HACAMAT</a></li>
+
+                                <li><a href="ozonterapi.asp">OZONTERAPİ</a></li>
+
+                                <li><a href="fitoterapi.asp">FİTOTERAPİ</a></li>
+
+                                <li><a href="noralterapi.asp">NÖRALTERAPİ</a></li>
+
+                                <li><a href="manyetoterapi.asp">MANYETOTERAPİ</a></li>
+
+                                <li><a href="detoks.asp">DETOKS</a></li>
+
+                                <li><a href="cicek-terapi.asp">ÇİÇEK TERAPİ</a></li>
+
+                            </ul>
+                        </li>
+                        <li><a href="galeriler.asp">GALERİ</a></li>
+                        <li><a href="iletisim.asp">İLETİŞİM</a></li>
+                       <li><a href="https://www.facebook.com/drbulenthazer/?fref=ts
+" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/dr.bulenthazerr/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      
+                    </ul>
+
+                </nav>
+            </div>
+        </div>
+    </header>
+</div>
+
+
+
+        <!-- REVOLUTION SLIDER -->
+        <div class="slider fullwidthbanner-container roundedcorners" style="overflow: visible;">
+            <div class="fullwidthbanner revslider-initialised tp-simpleresponsive" id="revslider-198" style="max-height: 500px; height: 500px;">
+                <ul class="tp-revslider-mainul" style="display: block; overflow: hidden; width: 100%; height: 100%; max-height: none;">
+
+
+                    <!-- SLIDE  -->
+                    <li data-transition="fade" data-slotamount="14" data-masterspeed="300" data-delay="10000" class="tp-revslider-slidesli active-revslide current-sr-slide-visible" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1;">
+
+                        <!-- COVER IMAGE -->
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center-center" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="/uploads/banner/_1920x720/1.jpg" data-bgfit="cover" data-bgposition="center-center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="/uploads/banner/_1920x720/1.jpg" data-src="assets/images/1x1.png" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;/uploads/banner/_1920x720/1.jpg&quot;); background-size: cover; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+
+                        <div class="tp-caption medium_text lfl stl start" data-x="right" data-y="200" data-speed="300" data-start="500" data-easing="easeOutExpo" style="transition: all; min-height: 0px; min-width: 0px; line-height: 20px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 20px; left: 1267.5px; top: 200px; visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.0025, 0, 0, 0, 1);">
+                        </div>
+
+                    </li>
+                    <!-- SLIDE  -->
+
+
+                    <!-- SLIDE  -->
+                    <li data-transition="fade" data-slotamount="14" data-masterspeed="300" data-delay="10000" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden;">
+
+                        <!-- COVER IMAGE -->
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center-center" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="/uploads/banner/_1920x720/2.jpg" data-bgfit="cover" data-bgposition="center-center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="assets/images/1x1.png" data-src="assets/images/1x1.png" style="background-color:rgba(0, 0, 0, 0);background-repeat:no-repeat;background-image:url(assets/images/1x1.png);background-size:cover;background-position:center-center;width:100%;height:100%;"></div></div>
+
+                        <div class="tp-caption medium_text lfl stl start" data-x="right" data-y="200" data-speed="300" data-start="500" data-easing="easeOutExpo">
+                        </div>
+
+                    </li>
+                    <!-- SLIDE  -->
+                   
+
+
+                    <!-- SLIDE  -->
+                    <li data-transition="fade" data-slotamount="14" data-masterspeed="300" data-delay="10000" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden;">
+
+                        <!-- COVER IMAGE -->
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center-center" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="/uploads/banner/_1920x720/4.jpg" data-bgfit="cover" data-bgposition="center-center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="assets/images/1x1.png" data-src="assets/images/1x1.png" style="background-color:rgba(0, 0, 0, 0);background-repeat:no-repeat;background-image:url(assets/images/1x1.png);background-size:cover;background-position:center-center;width:100%;height:100%;"></div></div>
+
+                        <div class="tp-caption medium_text lfl stl start" data-x="right" data-y="200" data-speed="300" data-start="500" data-easing="easeOutExpo">
+                        </div>
+
+                    </li>
+                    <!-- SLIDE  -->
+
+                    <!-- SLIDE  -->
+                    <li data-transition="fade" data-slotamount="14" data-masterspeed="300" data-delay="10000" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden;">
+
+                        <!-- COVER IMAGE -->
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center-center" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="/uploads/banner/_1920x720/5.jpg" data-bgfit="cover" data-bgposition="center-center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="assets/images/1x1.png" data-src="assets/images/1x1.png" style="background-color:rgba(0, 0, 0, 0);background-repeat:no-repeat;background-image:url(assets/images/1x1.png);background-size:cover;background-position:center-center;width:100%;height:100%;"></div></div>
+
+                        <div class="tp-caption medium_text lfl stl start" data-x="right" data-y="200" data-speed="300" data-start="500" data-easing="easeOutExpo">
+                        </div>
+
+                    </li>
+                    <!-- SLIDE  -->
+					 <!-- SLIDE  -->
+                    <li data-transition="fade" data-slotamount="14" data-masterspeed="300" data-delay="10000" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden; visibility: hidden; opacity: 0; z-index: 18;">
+
+                        <!-- COVER IMAGE -->
+                        <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="center-center" data-kenburns="undefined" data-easeme="undefined" data-bgfit="cover" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="/uploads/banner/_1920x720/3.jpg" data-bgfit="cover" data-bgposition="center-center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="assets/images/1x1.png" data-src="assets/images/1x1.png" style="background-color:rgba(0, 0, 0, 0);background-repeat:no-repeat;background-image:url(assets/images/1x1.png);background-size:cover;background-position:center-center;width:100%;height:100%;"></div></div>
+
+                        <div class="tp-caption medium_text lfl stl start" data-x="right" data-y="200" data-speed="300" data-start="500" data-easing="easeOutExpo">
+                        </div>
+
+                    </li>
+                    <!-- SLIDE  -->
+                </ul>
+                <div class="tp-bannertimer" style="width: 2.98%; visibility: visible; transform: translate3d(0px, 0px, 0px);"></div>
+            <div class="tp-loader spinner0" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div></div>
+        <div class="tp-bullets hidebullets simplebullets round" style="bottom: 10px; left: 50%; margin-left: -59px;"><div class="bullet first selected"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet"></div><div class="bullet last"></div><div class="tpclear"></div></div><div style="position: absolute; top: 250px; margin-top: -28px; left: 20px;" class="tp-leftarrow hidearrows tparrows default round"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="visibility: inherit; opacity: 0.96; background-image: url(&quot;assets/images/1x1.png&quot;);"></div><div class="tp-arr-imgholder2"></div><div class="tp-arr-titleholder"></div><div class="tp-arr-subtitleholder"></div></div></div></div><div style="position: absolute; top: 250px; margin-top: -28px; right: 20px;" class="tp-rightarrow hidearrows tparrows default round"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="visibility: inherit; opacity: 0.96; background-image: url(&quot;assets/images/1x1.png&quot;);"></div><div class="tp-arr-imgholder2"></div><div class="tp-arr-titleholder"></div><div class="tp-arr-subtitleholder"></div></div></div></div></div>
+        <!-- /REVOLUTION SLIDER -->
+
+
+        <hr class="nomargin">
+        <!-- 1px line separator -->
+
+
+        <!-- BUTTON CALLOUT -->
+        <a href="iletisim.asp" class="btn btn-xlg btn-info size-20 fullwidth nomargin noradius padding-40">
+            <span class="font-lato size-30">Sorularınız mı var ? 
+					<strong>İletişime geçin  »</strong>
+            </span>
+        </a>
+        <!-- /BUTTON CALLOUT -->
+
+
+
+        <section>
+            <div class="container">
+                <header class="margin-bottom-60 text-center">
+                    <h2>Hizmetlerimiz</h2>
+                   
+                </header>
+           
+                                        <a class="ico-rounded" href="akupunktur.asp">
+                                            <span class="glyphicon glyphicon-eye-open size-20"></span>
+                                        </a>
+                                    
+                                
+                                <img class="img-responsive" src="/uploads/hizmetler/_800x533/r_20160903162851808fguohntjzc.jpg" width="600" height="399" alt="Sakarya Akupunktur | Alternatif Klinik" title="Akupunktur | Alternatif Klinik">
+                            
+
+                            <div class="item-box-desc">
+                                <h3>AKUPUNKTUR</h3>
+                            </div>
+                        </div>
+                    </section></div>
+
+                    <div class="col-md-4 col-sm-4 mix design">
+                        <div class="item-box">
+                            <figure>
+                                <span class="item-hover">
+                                    <span class="overlay dark-5"></span>
+                                    <span class="inner">
+
+                                        
+                                            <span class="glyphicon glyphicon-eye-open size-20"></span>
+                                        
+                                    </span>
+                                </span>
+                                
+
+                            <div class="item-box-desc">
+                                
+                            </div>
+                        </figure></div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4 mix design">
+                        <div class="item-box">
+                            <figure>
+                                <span class="item-hover">
+                                    <span class="overlay dark-5"></span>
+                                    <span class="inner">
+
+                                        <a class="ico-rounded" href="kupa-hacamat.asp">
+                                            <span class="glyphicon glyphicon-eye-open size-20"></span>
+                                        </a>
+                                    </span>
+                                </span>
+                                <img class="img-responsive" src="/uploads/hizmetler/_800x533/r_20160903161513398fsvpqimwmz.jpg" width="600" height="399" alt="Sakarya Kupa- Hacamat | Alternatif Klinik" title="Kupa- Hacamat | Alternatif Klinik">
+                            </figure>
+
+                            <div class="item-box-desc">
+                                <h3>KUPA - HACAMAT</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4 mix design">
+                        <div class="item-box">
+                            <figure>
+                                <span class="item-hover">
+                                    <span class="overlay dark-5"></span>
+                                    <span class="inner">
+
+                                        <a class="ico-rounded" href="ozonterapi.asp">
+                                            <span class="glyphicon glyphicon-eye-open size-20"></span>
+                                        </a>
+                                    </span>
+                                </span>
+                                <img class="img-responsive" src="/uploads/hizmetler/_800x533/r_20160903162506914zjkjrqhoir.jpg" width="600" height="399" alt="Sakarya Ozonterapi | Alternatif Klinik" title="Ozonterapi | Alternatif Klinik">
+                            </figure>
+
+                            <div class="item-box-desc">
+                                <h3>OZONTERAPİ</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4 mix design">
+                        <div class="item-box">
+                            <figure>
+                                <span class="item-hover">
+                                    <span class="overlay dark-5"></span>
+                                    <span class="inner">
+
+                                        <a class="ico-rounded" href="fitoterapi.asp">
+                                            <span class="glyphicon glyphicon-eye-open size-20"></span>
+                                        </a>
+                                    </span>
+                                </span>
+                                <img class="img-responsive" src="/uploads/hizmetler/_800x533/r_20160903162220273nuibqlrjbp.jpg" width="600" height="399" alt="Sakarya Fitoterapi | Alternatif Klinik Sakarya">
+                            </figure>
+
+                            <div class="item-box-desc">
+                                <h3>FİTOTERAPİ</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4 mix design">
+                        <div class="item-box">
+                            <figure>
+                                <span class="item-hover">
+                                    <span class="overlay dark-5"></span>
+                                    <span class="inner">
+
+                                        <a class="ico-rounded" href="noralterapi.asp">
+                                            <span class="glyphicon glyphicon-eye-open size-20"></span>
+                                        </a>
+                                    </span>
+                                </span>
+                                <img class="img-responsive" src="/uploads/hizmetler/_800x533/r_20160903161912337loqftsgicq.jpg" width="600" height="399" alt="Sakarya Nöralterapi">
+                            </figure>
+
+                            <div class="item-box-desc">
+                                <h3>NÖRALTERAPİ</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4 mix design">
+                        <div class="item-box">
+                            <figure>
+                                <span class="item-hover">
+                                    <span class="overlay dark-5"></span>
+                                    <span class="inner">
+
+                                       
+                                            <span class="glyphicon glyphicon-eye-open size-20"></span>
+                                        
+                                    </span>
+                                </span>
+                                <img class="img-responsive" src="/uploads/hizmetler/_800x533/r_20160903161721237uvboeyreys.jpg" width="600" height="399" alt="">
+                            
+
+                            <div class="item-box-desc">
+                                
+                                <h3>DETOKS</h3>
+                            </div>
+                        </figure></div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4 mix design">
+                        <div class="item-box">
+                            <figure>
+                                <span class="item-hover">
+                                    <span class="overlay dark-5"></span>
+                                    <span class="inner">
+
+                                        <a class="ico-rounded" href="cicek-terapi.asp">
+                                            <span class="glyphicon glyphicon-eye-open size-20"></span>
+                                        </a>
+                                    </span>
+                                </span>
+                   
+
+        <!-- PAGELEVEL SCRIPTS -->
+        <script type="text/javascript" src="assets/js/contact.js"></script>
+
+
+        <section class="callout alert alert-transparent noborder noradius nomargin">
+            <div class="text-center">
+                <h3>Bizi Arayın <span><strong><a href="tel:02645020777">0264 502 07 77 /  0532 624 98 66</a></strong></span></h3>
+                <p class="font-lato size-20">
+                    Randevu almak için bizi telefon ile arayabilirsiniz.
+                </p>
+                <a href="randevu-al.asp" class="btn btn-primary btn-lg margin-top-30">RANDEVU AL</a>
+            </div>
+        </section>
+        <!-- /CALLOUT -->
+<!-- FOOTER -->
+<footer id="footer">
+    <div class="container">
+
+
+        <div class="row">
+
+            <!-- col #1 -->
+            <div class="col-md-8">
+
+                <h3 class="letter-spacing-1">NEDEN BİZ ?</h3>
+
+                <!-- Small Description -->
+                <p>
+                    Op. Dr. Bülent HAZER, ilaçsız tedavi yöntemi olarak tamamlayıcı tıp uygulamalarının modern tıbba entegre olarak hastalıkların tedavisinde daha fazla faydalı olacağına inanmaktadır. Bu nedenle uzmanlık eğitiminin üzerine Akupunktur, Proloterapi, Nöralterapi, Ozonterapi ve Kupaterapi gibi daha bir çok uygulamanın eğitimlerini görmüş ve bunları bir bütün olarak hastalarına uygulamaya devam etmektedir.
+
+                </p>
+                <h2>0264 502 07 77</h2>
+            </div>
+            <!-- /col #1 -->
+
+            <!-- col #2 -->
+            <div class="col-md-4">
+                <h3 class="letter-spacing-1">ÜCRETSİZ E-BÜLTEN</h3>
+
+                <!-- Newsletter Form -->
+                <p>Bültenimize kayıt olun. Kampanyalardan ve yeniliklerden ilk sizin haberiniz olsun.</p>
+				
+
+                <form class="validate" action="" method="post" data-success="Subscribed! Thank you!" data-toastr-position="bottom-right" novalidate="novalidate">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                        <input type="email" id="email" name="email" class="form-control required" placeholder="Email adresiniz">
+                        <span class="input-group-btn">
+                            <button class="btn btn-success" type="submit"><a href="iletisim.asp">KAYIT OL</a></button>
+                        </span>
+                    </div>
+                <input type="hidden" name="is_ajax" value="true"></form>
+                <!-- /Newsletter Form -->
+
+
+            </div>
+            <!-- /col #2 -->
+
+        </div>
+
+
+    </div>
+
+    <div class="copyright">
+        <div class="container">
+            © Her hakkı sakldır, ALTER KLİNİK 2017
+        </div>
+    </div>
+
+</footer>
+<!-- /FOOTER -->
+
+
+<a href="#" id="toTop"></a>
+
+<!-- JAVASCRIPT FILES -->
+<script type="text/javascript">var plugin_path = 'assets/plugins/';</script>
+<script type="text/javascript" src="assets/plugins/jquery/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="assets/js/scripts.js"></script>
+
+
+<script type="text/javascript" src="assets/plugins/slider.revolution/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="assets/plugins/slider.revolution/js/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="assets/js/view/demo.revolution_slider.js"></script>
+
+
+    </figure></div>
+
+
+<a href="https://wa.me/905426818054?text=Merhaba%20Alternatif%20Klinik,%20bilgi%20almak%20istiyorum." target="_blank" style="position:fixed; bottom:20px; right:20px; background-color:#25d366; color:white; border-radius:50px; text-align:center; font-size:16px; box-shadow: 2px 2px 3px #999; z-index:100; padding:12px 20px; text-decoration:none; font-family:Arial, sans-serif; font-weight:bold;">
+   Alternatif Klinik WhatsApp
+</a></div><script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script><script type="text/javascript" src="assets/plugins/smoothscroll.js"></script><script type="text/javascript" src="assets/plugins/form.validate/jquery.form.min.js"></script><script type="text/javascript" src="assets/plugins/form.validate/jquery.validation.min.js"></script></body></html>

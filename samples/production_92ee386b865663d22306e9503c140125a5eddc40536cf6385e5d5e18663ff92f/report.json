@@ -1,0 +1,27 @@
+{
+  "original_url": "https://teilhard.com/wp-includes/xx/office-RD117/",
+  "hostname": "teilhard.com",
+  "checked_at": "2026-10-04T14:02:24.656547+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fd189-2a50-739d-8782-b3c864175468",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-05T10:47:45.813Z",
+  "scan_original_url": "http://m.teilhard.com/",
+  "final_url": "https://teilhard.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 35047,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 39.234,
+  "discovery": {
+    "batch_id": "b0259675f3ca489a25957dfb1d5b60dd68c336e6452e910499cf6f962cad12c8",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

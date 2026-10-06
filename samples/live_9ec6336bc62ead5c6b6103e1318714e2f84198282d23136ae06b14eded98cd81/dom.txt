@@ -1,0 +1,540 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nick's Metal Fabricating | Structural Steel, Stairs, Catwalks &amp; Industrial Metal Fabrication</title>
+  <meta name="description" content="Nick's Metal Fabricating specializes in structural steel columns, beams, joist and deck, monumental and spiral stairs, catwalks, RTU screen walls, HVAC frames, mechanical racks, canopies, anchor bolts, lintels, and bollards. Contact us at (708) 485-1170.">
+  <meta name="keywords" content="metal fabrication, structural steel fabrication, steel columns, steel beams, joist and deck, stairs and rails, interior fire escapes, monumental stairs, spiral stairs, catwalks and rails, wind screens, RTU screen walls, HVAC frames, mechanical racks, RTU support frames, MAU support frames, free standing canopies, building attached canopies, anchor bolts, setting plates, lintels, embeds, bollards, steel detailing, shop drawings, structural engineering calculations, custom metal fabrication">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Nick's Metal Fabricating">
+  <link rel="canonical" href="https://nicksmetal.com/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=Barlow:wght@300;400;500;600;700&amp;family=Barlow+Condensed:wght@400;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="images/favicon-48.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="images/favicon-180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="images/favicon-192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="images/favicon-512.png">
+  <!-- Open Graph -->
+  <meta property="og:title" content="Nick's Metal Fabricating | Structural Steel &amp; Custom Metal Fabrication">
+  <meta property="og:description" content="Expert fabricators of structural steel, stairs, rails, catwalks, RTU screen walls, HVAC frames, canopies, and more. Call (708) 485-1170 for a quote.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://nicksmetal.com/">
+  <meta property="og:image" content="https://nicksmetal.com/images/logo.png">
+  <meta property="og:site_name" content="Nick's Metal Fabricating">
+  <meta property="og:locale" content="en_US">
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Nick's Metal Fabricating | Structural Steel &amp; Custom Metal Fabrication">
+  <meta name="twitter:description" content="Expert fabricators of structural steel, stairs, rails, catwalks, RTU screen walls, HVAC frames, canopies, and more.">
+  <meta name="twitter:image" content="https://nicksmetal.com/images/logo.png">
+  <!-- Structured Data: LocalBusiness -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Nick's Metal Fabricating",
+    "description": "Expert fabricators of structural steel, stairs and rails, catwalks, RTU screen walls, HVAC frames, mechanical racks, canopies, anchor bolts, lintels, bollards, and more. Steel detailing, shop drawings, and engineering calculations available.",
+    "url": "https://nicksmetal.com",
+    "telephone": "+1-708-485-1170",
+    "email": "info@nicksmetal.com",
+    "image": "https://nicksmetal.com/images/logo.png",
+    "priceRange": "$$",
+    "knowsAbout": [
+      "Structural Steel Fabrication",
+      "Steel Columns",
+      "Steel Beams",
+      "Joist and Deck",
+      "Monumental Stairs",
+      "Spiral Stairs",
+      "Interior Fire Escapes",
+      "Catwalks and Rails",
+      "Wind Screens",
+      "RTU Screen Walls",
+      "HVAC Frames",
+      "Mechanical Racks",
+      "RTU Support Frames",
+      "MAU Support Frames",
+      "Canopies",
+      "Mezzanines",
+      "Anchor Bolts",
+      "Setting Plates",
+      "Lintels",
+      "Embeds",
+      "Bollards",
+      "Steel Detailing",
+      "Shop Drawings",
+      "Structural Engineering Calculations"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Metal Fabrication Services",
+      "itemListElement": [
+        {
+          "@type": "OfferCatalog",
+          "name": "Structural Steel",
+          "itemListElement": [
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Steel Column Fabrication"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Steel Beam Fabrication"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Joist and Deck Systems"}}
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "name": "Stairs and Rails",
+          "itemListElement": [
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Service Stairs and Interior Fire Escapes"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Monumental Stair Fabrication"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Spiral Stair Fabrication"}}
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "name": "Mechanical and Industrial",
+          "itemListElement": [
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Catwalks and Rails"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Wind Screens"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "RTU Screen Walls"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "HVAC Frames"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Mechanical Racks"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "RTU and MAU Support Frames"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Canopies"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Mezzanines"}}
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "name": "Supply Only",
+          "itemListElement": [
+            {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Anchor Bolts and Setting Plates"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Lintels and Embeds"}},
+            {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Bollards"}}
+          ]
+        }
+      ]
+    }
+  }
+  </script>
+</head>
+<body>
+
+  <!-- NAVIGATION -->
+  <nav class="nav" id="nav" role="navigation" aria-label="Main navigation">
+    <div class="nav__inner">
+      <a href="index.html" class="nav__logo">
+        <img src="images/logo-nav.png" alt="Nick's Metal Fabricating" class="nav__logo-img">
+      </a>
+      <button class="nav__toggle" id="navToggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__links" id="navLinks">
+        <li><a href="#hero" class="nav__link active">Home</a></li>
+        <li><a href="#services" class="nav__link">Services</a></li>
+        <li><a href="#specialties" class="nav__link">Specialties</a></li>
+        <li><a href="#supply" class="nav__link">Supply</a></li>
+        <li><a href="#options" class="nav__link">Options</a></li>
+        <li><a href="#contact" class="nav__link nav__link--cta">Get a Quote</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <header class="hero" id="hero">
+    <div class="hero__bg">
+      <div class="hero__grid-overlay"></div>
+      <div class="hero__sparks"></div>
+    </div>
+    <div class="hero__content">
+      <div class="hero__badge">OVER 75 YEARS OF SERVICE</div>
+      <div class="hero__logo-wrap">
+        <img src="images/logo-transparent.png" alt="Nick's Metal Fabricating" class="hero__logo-img">
+      </div>
+      <div class="hero__established">Established 1949</div>
+      <h1 class="sr-only">Nick's Metal Fabricating — Structural Steel, Stairs, Catwalks, RTU Screen Walls &amp; Industrial Metal Fabrication</h1>
+      <p class="hero__subtitle">Structural steel, custom stairs, mechanical supports &amp; industrial fabrication — built to spec, built to last.</p>
+      <div class="hero__actions">
+        <a href="#services" class="btn btn--primary">Our Services</a>
+        <a href="#contact" class="btn btn--outline">Request Quote</a>
+      </div>
+    </div>
+    <div class="hero__certification">AISC Certified Fabricator</div>
+    <div class="hero__scroll">
+      <span>Scroll</span>
+      <div class="hero__scroll-line"></div>
+    </div>
+  </header>
+
+  <!-- STATS BAR -->
+  <section class="stats">
+    <div class="container">
+      <div class="stats__grid">
+        <div class="stats__item">
+          <span class="stats__icon">■</span>
+          <div class="stats__text">
+            <strong>Structural Steel</strong>
+            <span>Columns, Beams, Joist &amp; Deck</span>
+          </div>
+        </div>
+        <div class="stats__divider"></div>
+        <div class="stats__item">
+          <span class="stats__icon">▲</span>
+          <div class="stats__text">
+            <strong>Stairs &amp; Rails</strong>
+            <span>Service, Monumental, Spiral</span>
+          </div>
+        </div>
+        <div class="stats__divider"></div>
+        <div class="stats__item">
+          <span class="stats__icon">◆</span>
+          <div class="stats__text">
+            <strong>Mechanical &amp; Industrial</strong>
+            <span>Catwalks, Screens, Frames</span>
+          </div>
+        </div>
+        <div class="stats__divider"></div>
+        <div class="stats__item">
+          <span class="stats__icon">●</span>
+          <div class="stats__text">
+            <strong>Supply &amp; Engineering</strong>
+            <span>Bolts, Lintels, Detailing</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="services" id="services" aria-label="Structural Steel Fabrication Services">
+    <div class="container">
+      <div class="section-header reveal">
+        <span class="section-header__tag">WHAT WE BUILD</span>
+        <h2 class="section-header__title">STRUCTURAL<br><em>STEEL</em></h2>
+        <p class="section-header__desc">The backbone of every project. We fabricate and supply structural steel components to meet exacting specifications for commercial and industrial construction.</p>
+      </div>
+      <div class="services__grid">
+        <div class="service-card reveal">
+          <div class="service-card__number">01</div>
+          <div class="service-card__icon">
+            <svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="24" y="8" width="16" height="48" rx="1"></rect>
+              <line x1="20" y1="56" x2="44" y2="56"></line>
+              <line x1="20" y1="8" x2="44" y2="8"></line>
+              <line x1="24" y1="20" x2="40" y2="20" stroke-dasharray="2 2"></line>
+              <line x1="24" y1="32" x2="40" y2="32" stroke-dasharray="2 2"></line>
+              <line x1="24" y1="44" x2="40" y2="44" stroke-dasharray="2 2"></line>
+            </svg>
+          </div>
+          <h3 class="service-card__title">Steel Columns</h3>
+          <p class="service-card__desc">Load-bearing vertical members fabricated to precise tolerances for multi-story structures and heavy industrial applications.</p>
+        </div>
+        <div class="service-card reveal">
+          <div class="service-card__number">02</div>
+          <div class="service-card__icon">
+            <svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="4" y="24" width="56" height="16" rx="1"></rect>
+              <line x1="4" y1="28" x2="60" y2="28" stroke-dasharray="3 2"></line>
+              <line x1="4" y1="36" x2="60" y2="36" stroke-dasharray="3 2"></line>
+              <line x1="16" y1="24" x2="16" y2="40"></line>
+              <line x1="32" y1="24" x2="32" y2="40"></line>
+              <line x1="48" y1="24" x2="48" y2="40"></line>
+            </svg>
+          </div>
+          <h3 class="service-card__title">Steel Beams</h3>
+          <p class="service-card__desc">W-shapes, wide-flange beams, and custom profiles — cut, drilled, and fabricated for seamless field erection.</p>
+        </div>
+        <div class="service-card reveal">
+          <div class="service-card__number">03</div>
+          <div class="service-card__icon">
+            <svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="4" y1="16" x2="60" y2="16"></line>
+              <line x1="4" y1="48" x2="60" y2="48"></line>
+              <line x1="8" y1="16" x2="8" y2="48"></line>
+              <line x1="56" y1="16" x2="56" y2="48"></line>
+              <line x1="8" y1="16" x2="20" y2="48"></line>
+              <line x1="20" y1="16" x2="32" y2="48"></line>
+              <line x1="32" y1="16" x2="44" y2="48"></line>
+              <line x1="44" y1="16" x2="56" y2="48"></line>
+              <rect x="4" y="10" width="56" height="6" rx="1" fill="currentColor" opacity="0.15"></rect>
+            </svg>
+          </div>
+          <h3 class="service-card__title">Joist &amp; Deck</h3>
+          <p class="service-card__desc">Open-web steel joists and metal decking systems for efficient floor and roof framing on commercial projects.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STAIRS & RAILS -->
+  <section class="stairs" id="stairs" aria-label="Stairs and Rails Fabrication">
+    <div class="container">
+      <div class="stairs__layout">
+        <div class="stairs__visual reveal">
+          <div class="stairs__graphic">
+            <img src="images/stairs.png" alt="Custom fabricated curved metal staircase with glass railings" class="stairs__photo">
+          </div>
+        </div>
+        <div class="stairs__content reveal">
+          <span class="section-header__tag">VERTICAL ACCESS</span>
+          <h2 class="section-header__title">STAIRS<br><em>&amp; RAILS</em></h2>
+          <p class="stairs__desc">From utilitarian service stairs to architecturally striking monumental staircases, we fabricate every tread, stringer, and railing to code and to spec.</p>
+          <div class="stairs__list">
+            <div class="stairs__item reveal">
+              <div class="stairs__item-marker"></div>
+              <div>
+                <h4>Service Stairs &amp; Interior Fire Escapes</h4>
+                <p>Code-compliant egress stairs built tough for high-traffic commercial and industrial buildings.</p>
+              </div>
+            </div>
+            <div class="stairs__item reveal">
+              <div class="stairs__item-marker"></div>
+              <div>
+                <h4>Monumental Stairs</h4>
+                <p>Architectural centerpiece stairs with custom finishes, designed for lobbies, atriums, and public spaces.</p>
+              </div>
+            </div>
+            <div class="stairs__item reveal">
+              <div class="stairs__item-marker"></div>
+              <div>
+                <h4>Spiral Stairs</h4>
+                <p>Space-efficient spiral designs for both interior and exterior applications, fabricated to exact radius specs.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SPECIALTIES / MECHANICAL & INDUSTRIAL -->
+  <section class="specialties" id="specialties" aria-label="Mechanical and Industrial Fabrication Specialties">
+    <div class="container">
+      <div class="section-header section-header--center reveal">
+        <span class="section-header__tag">MECHANICAL &amp; INDUSTRIAL</span>
+        <h2 class="section-header__title">INDUSTRIAL<br><em>SPECIALTIES</em></h2>
+        <p class="section-header__desc">High-demand mechanical and industrial steel solutions — the components that keep buildings running and equipment protected.</p>
+      </div>
+      <div class="specialties__grid">
+        <div class="specialty-card reveal">
+          <div class="specialty-card__stripe"></div>
+          <div class="specialty-card__content">
+            <h3>Catwalks &amp; Rails</h3>
+            <p>Elevated walkways and guardrail systems for mechanical rooms, rooftop access, and industrial facilities.</p>
+          </div>
+        </div>
+        <div class="specialty-card reveal">
+          <div class="specialty-card__stripe"></div>
+          <div class="specialty-card__content">
+            <h3>Wind Screens</h3>
+            <p>Structural wind screen frames for rooftop equipment protection and building envelope performance.</p>
+          </div>
+        </div>
+        <div class="specialty-card reveal">
+          <div class="specialty-card__stripe"></div>
+          <div class="specialty-card__content">
+            <h3>RTU Screen Walls</h3>
+            <p>Rooftop unit screening systems that conceal mechanical equipment while maintaining proper airflow.</p>
+          </div>
+        </div>
+        <div class="specialty-card reveal">
+          <div class="specialty-card__stripe"></div>
+          <div class="specialty-card__content">
+            <h3>HVAC Frames</h3>
+            <p>Custom steel frames engineered to support heating, ventilation, and air conditioning units at any elevation.</p>
+          </div>
+        </div>
+        <div class="specialty-card reveal">
+          <div class="specialty-card__stripe"></div>
+          <div class="specialty-card__content">
+            <h3>Canopies</h3>
+            <p>Free-standing and building-attached canopy structures for entrances, loading docks, and covered walkways.</p>
+          </div>
+        </div>
+        <div class="specialty-card reveal">
+          <div class="specialty-card__stripe"></div>
+          <div class="specialty-card__content">
+            <h3>Mechanical Racks</h3>
+            <p>Heavy-duty rack systems for piping, conduit, and mechanical equipment in plant and commercial settings.</p>
+          </div>
+        </div>
+        <div class="specialty-card reveal">
+          <div class="specialty-card__stripe"></div>
+          <div class="specialty-card__content">
+            <h3>RTU &amp; MAU Support Frames</h3>
+            <p>Engineered support structures for rooftop units and makeup air units — load-rated and code-compliant.</p>
+          </div>
+        </div>
+        <div class="specialty-card reveal">
+          <div class="specialty-card__stripe"></div>
+          <div class="specialty-card__content">
+            <h3>Mezzanines</h3>
+            <p>Custom-fabricated steel mezzanine platforms for additional floor space in warehouses, factories, and commercial buildings.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SUPPLY -->
+  <section class="supply" id="supply" aria-label="Steel Materials Supply">
+    <div class="container">
+      <div class="supply__layout">
+        <div class="supply__content reveal">
+          <span class="section-header__tag">SUPPLY ONLY</span>
+          <h2 class="section-header__title">MATERIALS<br><em>SUPPLY</em></h2>
+          <p class="supply__desc">Need components without full fabrication? We supply critical connection and embed hardware direct to your jobsite.</p>
+        </div>
+        <div class="supply__cards">
+          <div class="supply-card reveal">
+            <div class="supply-card__icon">
+              <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="24" y1="4" x2="24" y2="36"></line>
+                <circle cx="24" cy="8" r="3"></circle>
+                <line x1="16" y1="36" x2="32" y2="36"></line>
+                <rect x="14" y="36" width="20" height="6" rx="1"></rect>
+              </svg>
+            </div>
+            <h3>Anchor Bolts &amp; Setting Plates</h3>
+            <p>Foundation anchor bolts and base/setting plates — supplied to your specs for field installation.</p>
+          </div>
+          <div class="supply-card reveal">
+            <div class="supply-card__icon">
+              <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M8 12 L40 12 L40 18 L8 18 Z"></path>
+                <line x1="12" y1="18" x2="12" y2="36"></line>
+                <line x1="36" y1="18" x2="36" y2="36"></line>
+                <line x1="24" y1="18" x2="24" y2="36" stroke-dasharray="2 2"></line>
+              </svg>
+            </div>
+            <h3>Lintels &amp; Embeds</h3>
+            <p>Steel lintels for masonry openings and embedded connection plates cast into concrete structures.</p>
+          </div>
+          <div class="supply-card reveal">
+            <div class="supply-card__icon">
+              <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="18" y="6" width="12" height="36" rx="6"></rect>
+                <line x1="14" y1="42" x2="34" y2="42"></line>
+                <line x1="18" y1="16" x2="30" y2="16" stroke-dasharray="2 2"></line>
+                <line x1="18" y1="26" x2="30" y2="26" stroke-dasharray="2 2"></line>
+              </svg>
+            </div>
+            <h3>Bollards</h3>
+            <p>Protective steel bollards for vehicle barriers, building perimeters, and equipment protection zones.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- OPTIONS -->
+  <section class="options" id="options" aria-label="Steel Detailing and Engineering Services">
+    <div class="container">
+      <div class="options__layout">
+        <div class="options__card reveal">
+          <div class="options__card-inner">
+            <span class="options__card-number">A</span>
+            <h3>Detailing &amp; Shop Drawings</h3>
+            <p>Full steel detailing services and shop drawing packages prepared to AISC standards. Connection details, piece marks, bolt patterns, and erection plans — everything your project needs from modeling to fabrication.</p>
+            <div class="options__card-line"></div>
+          </div>
+        </div>
+        <div class="options__card reveal">
+          <div class="options__card-inner">
+            <span class="options__card-number">B</span>
+            <h3>Engineering &amp; Calcs</h3>
+            <p>Structural engineering services and calculation packages for your fabricated steel. PE-stamped calculations, connection design, load analysis, and code compliance review to support permits and approvals.</p>
+            <div class="options__card-line"></div>
+          </div>
+        </div>
+        <div class="options__header reveal">
+          <span class="section-header__tag">ADD-ON SERVICES</span>
+          <h2 class="section-header__title">AVAILABLE<br><em>OPTIONS</em></h2>
+          <p>Comprehensive pre-fabrication services to streamline your project from concept through erection.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT / CTA -->
+  <section class="contact" id="contact" aria-label="Contact Nick's Metal Fabricating">
+    <div class="container">
+      <div class="contact__layout">
+        <div class="contact__info reveal">
+          <span class="section-header__tag">LET'S BUILD</span>
+          <h2 class="section-header__title">GET IN<br><em>TOUCH</em></h2>
+          <p class="contact__desc">Ready to start your project? Reach out for a quote, consultation, or to discuss your fabrication needs.</p>
+          <div class="contact__details">
+            <div class="contact__detail">
+              <span class="contact__detail-label">Email</span>
+              <a href="mailto:info@nicksmetal.com">info@nicksmetal.com</a>
+            </div>
+            <div class="contact__detail">
+              <span class="contact__detail-label">Phone</span>
+              <a href="tel:+17084851170">(708) 485-1170</a>
+            </div>
+
+          </div>
+        </div>
+        <div class="contact__form-wrap reveal">
+          <form class="contact__form" id="contactForm" action="#" method="POST">
+            <div class="contact__form-group">
+              <label for="name">Name</label>
+              <input type="text" id="name" name="name" required="" placeholder="Your name">
+            </div>
+            <div class="contact__form-group">
+              <label for="email">Email</label>
+              <input type="email" id="email" name="email" required="" placeholder="you@company.com">
+            </div>
+            <div class="contact__form-group">
+              <label for="phone">Phone</label>
+              <input type="tel" id="phone" name="phone" placeholder="(555) 000-0000">
+            </div>
+            <div class="contact__form-group">
+              <label for="project">Project Type</label>
+              <select id="project" name="project">
+                <option value="">Select a category...</option>
+                <option value="structural">Structural Steel</option>
+                <option value="stairs">Stairs &amp; Rails</option>
+                <option value="mechanical">Mechanical &amp; Industrial</option>
+                <option value="supply">Supply Only</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+            <div class="contact__form-group contact__form-group--full">
+              <label for="message">Project Details</label>
+              <textarea id="message" name="message" rows="4" placeholder="Tell us about your project..."></textarea>
+            </div>
+            <button type="submit" class="btn btn--primary btn--full">Send Inquiry</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer" role="contentinfo">
+    <div class="container">
+      <div class="footer__inner">
+        <div class="footer__brand">
+          <img src="images/logo-nav.png" alt="Nick's Metal Fabricating" class="footer__logo-img">
+        </div>
+        <div class="footer__links">
+          <a href="#services">Services</a>
+          <a href="#specialties">Specialties</a>
+          <a href="#supply">Supply</a>
+          <a href="#contact">Contact</a>
+        </div>
+        <div class="footer__meta">
+          <p>© 2026 Nick's Metal Fabricating. All rights reserved.</p>
+          <p class="footer__seo">Nick's Metal Fabricating is a full-service structural steel and metal fabrication company specializing in steel columns, beams, joist and deck, service stairs, monumental stairs, spiral stairs, interior fire escapes, catwalks and rails, wind screens, RTU screen walls, HVAC frames, mechanical racks, RTU and MAU support frames, free-standing and building-attached canopies, anchor bolts, setting plates, lintels, embeds, and bollards. We also offer steel detailing, shop drawings, and structural engineering calculations.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+
+
+</body></html>

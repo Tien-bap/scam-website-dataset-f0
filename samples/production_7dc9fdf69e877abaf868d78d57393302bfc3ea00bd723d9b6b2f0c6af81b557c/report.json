@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.servicecontabil.com.br/uk_pdf.html",
+  "hostname": "www.servicecontabil.com.br",
+  "checked_at": "2026-10-04T14:11:07.345116+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0d9ba-e2a6-72ee-9f4f-e01744d966d3",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-25T18:01:46.177Z",
+  "scan_original_url": "https://www.servicecontabil.com.br/",
+  "final_url": "https://www.servicecontabil.com.br/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4043,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.995,
+  "discovery": {
+    "batch_id": "912a2b07c70c766c22f6065f4a2dbb95d12a6e33ac30314484467fbfff12a0aa",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "candidate_id": "live_20427e4b8d2bb59e541bbf1e5a991a172e5c380a95419e8d3e819053e3f1571b",
+  "candidate_sha256": "930022661fbfa424b6d7bf45e728e6cdc48d18e3f6e012186ebbe80070a642e2",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://paystatics.com/ap/en/",
+  "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+  "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+  "source_urls": [
+    "https://paystatics.com/ap/en/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 88165,
+      "source_url": "https://paystatics.com/ap/en/",
+      "source_hostname": "paystatics.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 44303,
+      "elapsed_ms": 1327,
+      "checked_at": "2026-10-05T13:16:20.678686+00:00",
+      "error": null,
+      "normalized_source_url": "https://paystatics.com/ap/en/",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_20427e4b8d2bb59e541bbf1e5a991a172e5c380a95419e8d3e819053e3f1571b",
+    "representative_source_index": 88165,
+    "representative_source_url": "https://paystatics.com/ap/en/",
+    "representative_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+    "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+    "source_hostname": "paystatics.com",
+    "final_hostname": "www.hugedomains.com",
+    "source_urls": [
+      "https://paystatics.com/ap/en/"
+    ],
+    "provenance": [
+      {
+        "source_index": 88165,
+        "source_url": "https://paystatics.com/ap/en/",
+        "source_hostname": "paystatics.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 44303,
+        "elapsed_ms": 1327,
+        "checked_at": "2026-10-05T13:16:20.678686+00:00",
+        "error": null,
+        "normalized_source_url": "https://paystatics.com/ap/en/",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "PayStatics.com is for sale | HugeDomains",
+  "capture_timestamp": "2026-10-05T16:34:48.656737+00:00",
+  "dom_chars": 82542,
+  "screenshot_bytes": 95487,
+  "dom_sha256": "29e0bb697fbd852ea9343e4c72dff0ace4a5eeab24a60f1817fe23e115c0fc56",
+  "screenshot_sha256": "e4f557e91c3be11ab81cd4a4963ed42e30678906f6b953c9799b3f3746f51701",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_parking_page"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+    "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=paystatics.com",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 5,
+    "resource": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 2865,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "timeout",
+    "original_capture_timestamp": "2026-10-05T14:37:01.705510+00:00",
+    "previous_report_sha256": "050af0bb416fb88e412348c320ced90b1face07e259330c84c458eb47a52e9fb",
+    "recovered_at": "2026-10-05T16:34:48.656737+00:00",
+    "result": "complete"
+  }
+}

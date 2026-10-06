@@ -1,0 +1,21 @@
+{
+  "original_url": "quyduan.com",
+  "hostname": "quyduan.com",
+  "checked_at": "2026-10-04T10:35:13.703813+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "f48818c4-ba71-4944-927f-3a7d0690647e",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2025-02-19T16:05:50.984Z",
+  "scan_original_url": "http://quyduan.com/h5/#/login",
+  "final_url": "https://quyduan.com/lander",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 354,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.029
+}

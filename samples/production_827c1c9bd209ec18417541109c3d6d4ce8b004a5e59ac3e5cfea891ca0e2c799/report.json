@@ -1,0 +1,27 @@
+{
+  "original_url": "https://furnimart.in/BT577252/bnVub0BnZW5lcmFsd29vZGNyYWZ0aW5jLmNvbQ==",
+  "hostname": "furnimart.in",
+  "checked_at": "2026-10-04T16:03:03.894156+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f5586-f805-75cc-a093-d0ff0b92b3f1",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-12T08:52:28.454Z",
+  "scan_original_url": "http://furnimart.in/",
+  "final_url": "https://www.furnimart.in/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1359,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 1.951,
+  "discovery": {
+    "batch_id": "6f5ddbbf9cd14de034693df84df0048ae7580c81b82f0433b0996f0d72b56e4a",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

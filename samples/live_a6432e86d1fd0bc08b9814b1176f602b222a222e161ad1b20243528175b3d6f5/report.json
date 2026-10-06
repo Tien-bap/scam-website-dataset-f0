@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_a6432e86d1fd0bc08b9814b1176f602b222a222e161ad1b20243528175b3d6f5",
+  "candidate_sha256": "3c5fcee7d60b0fbb7e804f78860f18673be14e682cb06e5f719c1fa465d8a3fa",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://amazon.co.jp.signin.ltd/",
+  "requested_url": "http://amazon.co.jp.signin.ltd/",
+  "browser_final_url": "http://amazon.co.jp.signin.ltd/",
+  "source_urls": [
+    "http://amazon.co.jp.signin.ltd/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 123169,
+      "source_url": "http://amazon.co.jp.signin.ltd/",
+      "source_hostname": "amazon.co.jp.signin.ltd",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://amazon.co.jp.signin.ltd/",
+      "final_hostname": "amazon.co.jp.signin.ltd",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 3086,
+      "elapsed_ms": 2663,
+      "checked_at": "2026-10-05T13:12:25.147999+00:00",
+      "error": null,
+      "normalized_source_url": "http://amazon.co.jp.signin.ltd/",
+      "normalized_final_url": "http://amazon.co.jp.signin.ltd/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_a6432e86d1fd0bc08b9814b1176f602b222a222e161ad1b20243528175b3d6f5",
+    "representative_source_index": 123169,
+    "representative_source_url": "http://amazon.co.jp.signin.ltd/",
+    "representative_final_url": "http://amazon.co.jp.signin.ltd/",
+    "normalized_final_url": "http://amazon.co.jp.signin.ltd/",
+    "source_hostname": "amazon.co.jp.signin.ltd",
+    "final_hostname": "amazon.co.jp.signin.ltd",
+    "source_urls": [
+      "http://amazon.co.jp.signin.ltd/"
+    ],
+    "provenance": [
+      {
+        "source_index": 123169,
+        "source_url": "http://amazon.co.jp.signin.ltd/",
+        "source_hostname": "amazon.co.jp.signin.ltd",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://amazon.co.jp.signin.ltd/",
+        "final_hostname": "amazon.co.jp.signin.ltd",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 3086,
+        "elapsed_ms": 2663,
+        "checked_at": "2026-10-05T13:12:25.147999+00:00",
+        "error": null,
+        "normalized_source_url": "http://amazon.co.jp.signin.ltd/",
+        "normalized_final_url": "http://amazon.co.jp.signin.ltd/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "ERRP | Expired Registration Recovery Policy",
+  "capture_timestamp": "2026-10-05T14:51:43.030286+00:00",
+  "dom_chars": 3019,
+  "screenshot_bytes": 90210,
+  "dom_sha256": "4adcedea61737fdb06f0cd173f91912fb056c50e2579731a1ef4f3f540c06074",
+  "screenshot_sha256": "f4fdc8b14317ff06c74f1f59fce460a65f65d0b735ad1c3660d705abafc8f102",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://amazon.co.jp.signin.ltd/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://amazon.co.jp.signin.ltd/",
+    "browser_final_url": "http://amazon.co.jp.signin.ltd/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3002
+}

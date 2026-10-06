@@ -1,0 +1,421 @@
+<head>
+<meta charset="UTF-8">
+<title>L’encyclopédie pour enfants écrite par les enfants - Wikimini</title>
+<script type="text/javascript" defer="" async="" src="https://matomo.wikimedia.ch/piwik.js"></script><script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Accueil","wgTitle":"Accueil","wgCurRevisionId":354702,"wgRevisionId":354702,"wgArticleId":1,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","jan","fév","mar","avr","mai","juin","juil","août","sep","oct","nov","déc"],"wgRelevantPageName":"Accueil","wgRelevantArticleId":1,"wgRequestId":"dac55e369385e9ee12bc5048","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgULSAcceptLanguageList":["de-ch","de"],"wgULSCurrentAutonym":"français","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"publish":true},"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","usePageImages":false,"usePageDescriptions":false},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.uls.nojs":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.wikimini.styles":"ready"});mw.loader.implement("user.options@1x2qlv5",function($,jQuery,require,module){mw.user.options.set({"variant":"fr"});});mw.loader.implement("user.tokens@078r9hw",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mmv.head","ext.uls.init","ext.visualEditor.desktopArticleTarget.init","swiffy.fr.js","skins.wikimini.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fr&amp;modules=ext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.wikimini.styles&amp;only=styles&amp;skin=wikimini">
+<script async="" src="/w/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=wikimini"></script>
+<style>
+.uls-trigger{background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAQCAMAAADQzfSkAAABqlBMVEX////f3/+Ov+/n5+fp6enp6eno6Ojp6enn5+ff39/q6urp6enp6enp6enq6urp6en////q6urr6+upv+rU1NTJycnR0dEaGhrp6enT4/SEuuK9vb3l5eU2ktCxsbFdXV1paWmzwc9ITFDo6OhaWlpsbGxtbW2BipSZpK/X19d2dnZ8hI2/v79PT09gZm2CgoLIyMjD0eGksL1JTVHM2+spKywnKCkcHBzAzt3I1+cxMzZxcXFkZGSvr69WW2C8vLyFjphqcXiLlZ8dHh4gISLa2trQ3/Dc3NzZ2dl7e3uioqIfHyBCRko9QEPh4eFgYGDGxsZoaGiPj4/Ly8uRm6a6yNcbGxuSnKfL2uqVn6scHR20tLR/f3+Kioq4uLienp54gIipqanA2e+71u9GSk5yeoKgoKCAgIB0dHRLS0tlZWWDg4PBwcHFxcWxvsxkanGapbCKlJ7O4fNXo9hQn9bM3/OPmaRfZWve3t6mpqbR0dG+vr6JiYnKyspPVFl1s99+fn5srdzm5ubNzc1BREh2s99xsN7S0tIxMzUiIyQ2OTt/iJFwcHBbYWc3S28lAAAAF3RSTlMACBAg7P3LiTYIX6LmmDzeAYMnDN+1MJx17ncAAAEQSURBVHheddBTb0VREIbhVduYWVuHRm3btm3bNv9zJ2v3IE36Xk3yZG4+xkMKw0BREYwJMzkcO38MY37tG6AmYN48YZFxwsbeiys6y/02rT1Wa4TxwoYgpx4adLMbfRubs9tk0cJuYK8ACv1/Xy5LLlIYS5bf2FTUUlJapptiqKwyuOfJEsjq4M3j+YBPYc02X6utTWnvQEwk6wJRNxn29Pb1D2iIg0bEJMaHYWTU6RyfABPZ5BTa7xBxxo2YzPgcPPGFRb4Ey2Qrq2vrXlRk6xampDK+a94/ODw6PjGfkp2dX1y6ZOvVNWKavsutqt6HbGZ5QCqdMUmSnlXqhY6M12CZtKcaUnhtsKz/Tc5m7AfjN0jzWIipawAAAABJRU5ErkJggg==) no-repeat scroll left center;background:transparent url(/w/extensions/UniversalLanguageSelector/lib/jquery.uls/images/icon-language.png?4d0aa) no-repeat scroll left center!ie;background-image:-webkit-linear-gradient(transparent,transparent),url(data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2227%22%20height%3D%2216%22%3E%3Cpath%20fill%3D%22%23D3E3F4%22%20d%3D%22M0%200h11.876v16h-11.876v-16z%22%2F%3E%3Cpath%20fill%3D%22%23E9E9E9%22%20d%3D%22M12.819%200v15.969h10.755c1.085-2.578%201.837-4.991%203.062-8.591l-3.062-7.378h-10.755z%22%2F%3E%3Cpath%20fill%3D%22%23434343%22%20d%3D%22M14.828%204.146c.32.023.639.035.951.035.471%200%20.922-.016%201.354-.046l.023-.258.034-.367.081-.711.033-.333.873.058c-.073.577-.133%201.091-.179%201.542%201.116-.119%202.233-.331%203.349-.637l.092.809c-1.078.271-2.251.472-3.521.602-.05.463-.082.968-.098%201.514.524-.187%201.14-.313%201.847-.378.064-.207.136-.461.213-.763l.865.201c-.027.123-.088.315-.184.579.814.104%201.461.34%201.938.711.681.542%201.021%201.252%201.021%202.128%200%20.963-.406%201.746-1.221%202.351-.635.47-1.505.784-2.609.94l-.505-.779c.968-.104%201.739-.337%202.317-.7.733-.458%201.101-1.066%201.101-1.823%200-.772-.341-1.363-1.021-1.772-.345-.21-.764-.344-1.256-.401-.604%201.422-1.4%202.598-2.387%203.527.035.352.102.715.201%201.09l-.849.314-.126-.773c-.654.462-1.27.693-1.847.693-.696%200-1.044-.407-1.044-1.222%200-1.104.591-2.103%201.771-2.993.227-.165.532-.352.918-.562.012-.524.046-1.128.104-1.812-.585.046-1.143.069-1.675.069l-.493-.011-.071-.822m2.127%203.384c-.268.161-.545.392-.831.694-.612.619-.94%201.226-.986%201.817l-.017.121.017.138c0%20.252.112.378.339.378.492%200%201.02-.258%201.582-.773-.057-.613-.092-1.404-.104-2.375m2.455-.884c-.57.08-1.111.226-1.623.436%200%20.883.018%201.581.052%202.093.634-.707%201.158-1.55%201.571-2.529%22%2F%3E%3Cpath%20fill%3D%22%231A1A1A%22%20d%3D%22M8.517%2011.735l-.734-2.409h-3.69l-.734%202.409h-2.313l3.573-10.165h2.625l3.587%2010.165h-2.314m-1.246-4.21c-.679-2.183-1.062-3.418-1.149-3.704-.083-.286-.143-.512-.18-.678-.153.59-.589%202.051-1.309%204.382h2.638%22%2F%3E%3Cpath%20fill%3D%22%23BCBCBC%22%20d%3D%22M12.817%2013.5v2.5h10.757l.98-2.5h-11.737z%22%2F%3E%3Cpath%20fill%3D%22%233692D0%22%20d%3D%22M.011%2013.511h3.569l2.367-3.116%202.367%203.116h3.57v2.484h-11.873v-2.484z%22%2F%3E%3C%2Fsvg%3E);background-image:-webkit-linear-gradient(transparent,transparent),url(/w/extensions/UniversalLanguageSelector/lib/jquery.uls/images/icon-language.svg?9334a)!ie;background-image:linear-gradient(transparent,transparent),url(data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2227%22%20height%3D%2216%22%3E%3Cpath%20fill%3D%22%23D3E3F4%22%20d%3D%22M0%200h11.876v16h-11.876v-16z%22%2F%3E%3Cpath%20fill%3D%22%23E9E9E9%22%20d%3D%22M12.819%200v15.969h10.755c1.085-2.578%201.837-4.991%203.062-8.591l-3.062-7.378h-10.755z%22%2F%3E%3Cpath%20fill%3D%22%23434343%22%20d%3D%22M14.828%204.146c.32.023.639.035.951.035.471%200%20.922-.016%201.354-.046l.023-.258.034-.367.081-.711.033-.333.873.058c-.073.577-.133%201.091-.179%201.542%201.116-.119%202.233-.331%203.349-.637l.092.809c-1.078.271-2.251.472-3.521.602-.05.463-.082.968-.098%201.514.524-.187%201.14-.313%201.847-.378.064-.207.136-.461.213-.763l.865.201c-.027.123-.088.315-.184.579.814.104%201.461.34%201.938.711.681.542%201.021%201.252%201.021%202.128%200%20.963-.406%201.746-1.221%202.351-.635.47-1.505.784-2.609.94l-.505-.779c.968-.104%201.739-.337%202.317-.7.733-.458%201.101-1.066%201.101-1.823%200-.772-.341-1.363-1.021-1.772-.345-.21-.764-.344-1.256-.401-.604%201.422-1.4%202.598-2.387%203.527.035.352.102.715.201%201.09l-.849.314-.126-.773c-.654.462-1.27.693-1.847.693-.696%200-1.044-.407-1.044-1.222%200-1.104.591-2.103%201.771-2.993.227-.165.532-.352.918-.562.012-.524.046-1.128.104-1.812-.585.046-1.143.069-1.675.069l-.493-.011-.071-.822m2.127%203.384c-.268.161-.545.392-.831.694-.612.619-.94%201.226-.986%201.817l-.017.121.017.138c0%20.252.112.378.339.378.492%200%201.02-.258%201.582-.773-.057-.613-.092-1.404-.104-2.375m2.455-.884c-.57.08-1.111.226-1.623.436%200%20.883.018%201.581.052%202.093.634-.707%201.158-1.55%201.571-2.529%22%2F%3E%3Cpath%20fill%3D%22%231A1A1A%22%20d%3D%22M8.517%2011.735l-.734-2.409h-3.69l-.734%202.409h-2.313l3.573-10.165h2.625l3.587%2010.165h-2.314m-1.246-4.21c-.679-2.183-1.062-3.418-1.149-3.704-.083-.286-.143-.512-.18-.678-.153.59-.589%202.051-1.309%204.382h2.638%22%2F%3E%3Cpath%20fill%3D%22%23BCBCBC%22%20d%3D%22M12.817%2013.5v2.5h10.757l.98-2.5h-11.737z%22%2F%3E%3Cpath%20fill%3D%22%233692D0%22%20d%3D%22M.011%2013.511h3.569l2.367-3.116%202.367%203.116h3.57v2.484h-11.873v-2.484z%22%2F%3E%3C%2Fsvg%3E);background-image:linear-gradient(transparent,transparent),url(/w/extensions/UniversalLanguageSelector/lib/jquery.uls/images/icon-language.svg?9334a)!ie;padding-left:30px}#pt-uls a.uls-trigger{padding-left:30px; line-height:1}   x:-o-prefocus,body.rtl li#pt-uls{ direction:ltr}#uls-settings-block{border-top:1px solid #C9C9C9;background:#f8f8f8;background:-webkit-gradient(linear,left top,left bottom,from(#FBFBFB),to(#F0F0F0));background:-webkit-linear-gradient(top,#FBFBFB,#F0F0F0);background:-moz-linear-gradient(top,#FBFBFB,#F0F0F0);background:-o-linear-gradient(top,#FBFBFB,#F0F0F0);background:linear-gradient(#FBFBFB,#F0F0F0);padding-left:10px;line-height:1.2em;border-radius:0 0 5px 5px}#uls-settings-block div.display-settings-block,#uls-settings-block div.input-settings-block{display:inline-block;margin:8px 15px;color:#565656}#uls-settings-block div.display-settings-block:hover,#uls-settings-block div.input-settings-block:hover{color:#252525}
+.mw-collapsible-toggle{float:right;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;user-select:none}  .mw-content-ltr .mw-collapsible-toggle,.mw-content-rtl .mw-content-ltr .mw-collapsible-toggle{float:right} .mw-content-rtl .mw-collapsible-toggle,.mw-content-ltr .mw-content-rtl .mw-collapsible-toggle{float:left}.mw-customtoggle,.mw-collapsible-toggle{cursor:pointer} caption .mw-collapsible-toggle,.mw-content-ltr caption .mw-collapsible-toggle,.mw-content-rtl caption .mw-collapsible-toggle,.mw-content-rtl .mw-content-ltr caption .mw-collapsible-toggle,.mw-content-ltr .mw-content-rtl caption .mw-collapsible-toggle{float:none} li .mw-collapsible-toggle,.mw-content-ltr li .mw-collapsible-toggle,.mw-content-rtl li .mw-collapsible-toggle,.mw-content-rtl .mw-content-ltr li .mw-collapsible-toggle,.mw-content-ltr .mw-content-rtl li .mw-collapsible-toggle{float:none} .mw-collapsible-toggle-li{list-style:none}
+.mw-ui-icon{position:relative;line-height:1.5em;min-height:1.5em;min-width:1.5em}.mw-ui-icon.mw-ui-icon-element{text-indent:-999px;overflow:hidden;width:3.5em;min-width:3.5em;max-width:3.5em}.mw-ui-icon.mw-ui-icon-element:before{left:0;right:0;position:absolute;margin:0 1em}.mw-ui-icon.mw-ui-icon-before:before,.mw-ui-icon.mw-ui-icon-element:before{background-position:50% 50%;background-repeat:no-repeat;background-size:100% auto;float:left;display:block;min-height:1.5em;content:''}.mw-ui-icon.mw-ui-icon-before:before{position:relative;width:1.5em;margin-right:1em}.mw-ui-icon.mw-ui-icon-small:before{background-size:66.67% auto}</style><style>
+.suggestions{overflow:hidden;position:absolute;top:0;left:0;width:0;border:none;z-index:1099;padding:0;margin:-1px 0 0 0}.suggestions-special{position:relative;background-color:#fff;cursor:pointer;border:solid 1px #aaa;padding:0;margin:0;margin-top:-2px;display:none;padding:0.25em 0.25em;line-height:1.25em}.suggestions-results{background-color:#fff;cursor:pointer;border:solid 1px #aaa;padding:0;margin:0}.suggestions-result{color:#000;margin:0;line-height:1.5em;padding:0.01em 0.25em;text-align:left; overflow:hidden;-o-text-overflow:ellipsis; text-overflow:ellipsis;white-space:nowrap}.suggestions-result-current{background-color:#4c59a6;color:#fff}.suggestions-special .special-label{color:#808080;text-align:left}.suggestions-special .special-query{color:#000;font-style:italic;text-align:left}.suggestions-special .special-hover{background-color:#c0c0c0}.suggestions-result-current .special-label,.suggestions-result-current .special-query{color:#fff}.highlight{font-weight:bold}
+.uls-menu a{cursor:pointer}.uls-menu.callout .caret-before{border-top:20px solid transparent;border-right:20px solid #C9C9C9;border-bottom:20px solid transparent;display:inline-block;left:-21px;top:30px;position:absolute}.uls-menu.callout .caret-after{border-top:20px solid transparent;border-right:20px solid #FCFCFC;border-bottom:20px solid transparent;display:inline-block;left:-20px;top:30px;position:absolute}.uls-ui-languages button{width:23%;text-overflow:ellipsis;margin-right:4%}button.uls-more-languages{width:auto}.settings-title{font-size:11pt}.settings-text{color:#555555;font-size:9pt}div.display-settings-block:hover .settings-text{color:#252525}
+.postedit-container{margin:0 auto;position:fixed;top:0;height:0;left:50%;z-index:1000;font-size:13px}.postedit-container:hover{cursor:pointer}.postedit{position:relative;top:0.6em;left:-50%;padding:.6em 3.6em .6em 1.1em;line-height:1.5625em;color:#626465;background-color:#f4f4f4;border:1px solid #dcd9d9;text-shadow:0 0.0625em 0 rgba( 255,255,255,0.5 );border-radius:5px;box-shadow:0 2px 5px 0 #ccc;-webkit-transition:all 0.25s ease-in-out;-moz-transition:all 0.25s ease-in-out;-ms-transition:all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out;transition:all 0.25s ease-in-out}.skin-monobook .postedit{top:6em !important}.postedit-faded{opacity:0}.postedit-icon{padding-left:41px;  line-height:25px;background-repeat:no-repeat;background-position:8px 50%}.postedit-icon-checkmark{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB9ElEQVR4AZWRA3AYURQArxrVHtW2bdu2bdu2zdi2bdu2bWxs7zeehZaw4f70kbs+zI3e/nWK+RWx3aOFlrL56Sy5SxrruG69hlv6OyK+mz+8KDSXdXembj0ispT7tjs4ZTIbpYBvxGSGKzZTeFrb7W/meN002swFs0U8ttpHTkF2BvCqWQrW35929bTsKm5Zb+SEwWwcY8wAngB9m7Z+d+rIPZ/npdy12M5p47n8dXsCYAf0qPy06eGMdktuDu9Qf+JmKl3SWM91qzVcN9tAbEYkwMaq0tyb1m/To5kP170el/BK8/qa6sJr70ydf+T/Uu5ab+Oo/lS0AkUBpIFWlZ9WPhxpse/PHO7YbOOczjL0vZV2lNxPPtG73dYXM+xvm2znrOl83tidoqCwMBgYXsPFB0on5S6pr+eK5TKuW67lgvaKvF8mL1dtfTL32FHxRdyx3cQpg7m4x9sCXKkTIzA4LDH44zWdzaUf71hv5rTG4uyzcusybxSX7aThbMQ8XgCYAp3rzTTQOiIh9PNlzY3FSuZxrzjme1Y7uGS6kjsWO4jPjM4FVjRZsvD4kO9XtTZzQn82NyzWc0B7AmZh6gA/hOYSGhfw9YbOVnarj+S7800AL2BIsxUAbWNToj7bhBuQmZcOsFdoKUC74rGheCwXmqAIQTc9jQcrADIAAAAASUVORK5CYII=);background-image:url(/w/resources/src/mediawiki.action/images/green-checkmark.png?d94f1)!ie;background-position:left}.postedit-close{position:absolute;padding:0 .8em;right:0;top:0;font-size:1.25em;font-weight:bold;line-height:2.3em;color:#000;text-shadow:0 0.0625em 0 #fff;text-decoration:none;opacity:0.2;filter:alpha( opacity=20 )}.postedit-close:hover{color:#000;text-decoration:none;opacity:0.4;filter:alpha( opacity=40 )}
+.mw-mmv-overlay{position:fixed;top:0px;left:0px;right:0px;bottom:0px;z-index:1000;background-color:#000000}body.mw-mmv-lightbox-open{overflow-y:auto}body.mw-mmv-lightbox-open #mw-page-base,body.mw-mmv-lightbox-open #mw-head-base,body.mw-mmv-lightbox-open #mw-navigation,body.mw-mmv-lightbox-open #content,body.mw-mmv-lightbox-open #footer,body.mw-mmv-lightbox-open #globalWrapper{ display:none}body.mw-mmv-lightbox-open > *{ display:none}body.mw-mmv-lightbox-open > .mw-mmv-overlay,body.mw-mmv-lightbox-open > .mw-mmv-wrapper{display:block}.mw-mmv-filepage-buttons{margin-top:5px}.mw-mmv-filepage-buttons .mw-mmv-view-expanded,.mw-mmv-filepage-buttons .mw-mmv-view-config{display:block}.mw-mmv-filepage-buttons .mw-mmv-view-expanded.mw-ui-icon:before{background-image:url(data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%20standalone%3D%22no%22%3F%3E%0A%3C%21--%20Created%20with%20Inkscape%20%28http%3A%2F%2Fwww.inkscape.org%2F%29%20--%3E%0A%0A%3Csvg%0A%20%20%20xmlns%3Adc%3D%22http%3A%2F%2Fpurl.org%2Fdc%2Felements%2F1.1%2F%22%0A%20%20%20xmlns%3Acc%3D%22http%3A%2F%2Fcreativecommons.org%2Fns%23%22%0A%20%20%20xmlns%3Ardf%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%22%0A%20%20%20xmlns%3Asvg%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%0A%20%20%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%0A%20%20%20version%3D%221.1%22%0A%20%20%20width%3D%22100%25%22%0A%20%20%20height%3D%22100%25%22%0A%20%20%20viewBox%3D%220%200%201024%20768%22%0A%20%20%20id%3D%22Layer_1%22%0A%20%20%20xml%3Aspace%3D%22preserve%22%3E%3Cmetadata%0A%20%20%20%20%20id%3D%22metadata17%22%3E%3Crdf%3ARDF%3E%3Ccc%3AWork%0A%20%20%20%20%20%20%20%20%20rdf%3Aabout%3D%22%22%3E%3Cdc%3Aformat%3Eimage%2Fsvg%2Bxml%3C%2Fdc%3Aformat%3E%3Cdc%3Atype%0A%20%20%20%20%20%20%20%20%20%20%20rdf%3Aresource%3D%22http%3A%2F%2Fpurl.org%2Fdc%2Fdcmitype%2FStillImage%22%20%2F%3E%3Cdc%3Atitle%3E%3C%2Fdc%3Atitle%3E%3C%2Fcc%3AWork%3E%3C%2Frdf%3ARDF%3E%3C%2Fmetadata%3E%3Cdefs%0A%20%20%20%20%20id%3D%22defs15%22%20%2F%3E%3Cg%0A%20%20%20%20%20id%3D%22g3%22%3E%3Cpolygon%0A%20%20%20%20%20%20%20points%3D%22851.2%2C71.6%20690.7%2C232.1%20650.6%2C191.8%20641%2C356.6%20805.8%2C347.3%20765.5%2C306.9%20926%2C146.4%20984.5%2C204.9%20997.6%2C0%20792.7%2C13.1%20%22%0A%20%20%20%20%20%20%20id%3D%22polygon5%22%0A%20%20%20%20%20%20%20style%3D%22fill%3A%23777777%22%20%2F%3E%3Cpolygon%0A%20%20%20%20%20%20%20points%3D%22769.6%2C89.3%20611.9%2C89.3%20682.8%2C160.1%20690.7%2C167.6%20%22%0A%20%20%20%20%20%20%20id%3D%22polygon7%22%0A%20%20%20%20%20%20%20style%3D%22fill%3A%23777777%22%20%2F%3E%3Cpath%0A%20%20%20%20%20%20%20d%3D%22m%20643.6%2C402.2%20-51.2%2C3%203%2C-51.2%209.4%2C-164.4%205.8%2C-100.3%20H%2026.4%20V%20768%20H%20909.5%20V%20387%20l%20-100.9%2C5.8%20-165%2C9.4%20z%20M%20813.9%2C678%20H%20113.6%20l%20207.2%2C-270.2%2031.5%2C-12.9%20195.7%2C204.9%20105.9%2C-63.2%20159.8%2C140.8%200.2%2C0.6%200%2C0%20z%22%0A%20%20%20%20%20%20%20id%3D%22path9%22%0A%20%20%20%20%20%20%20style%3D%22fill%3A%23777777%22%20%2F%3E%3Cpolygon%0A%20%20%20%20%20%20%20points%3D%22909.5%2C386.1%20909.5%2C228%20830.4%2C306.9%20838.2%2C314.8%20%22%0A%20%20%20%20%20%20%20id%3D%22polygon11%22%0A%20%20%20%20%20%20%20style%3D%22fill%3A%23777777%22%20%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E);background-image:url(/w/extensions/MultimediaViewer/resources/mmv/img/expand.svg?09b49)!ie}.mw-mmv-filepage-buttons .mw-mmv-view-config.mw-ui-icon:before{background-image:url(data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%20standalone%3D%22no%22%3F%3E%0A%3C%21--%20Created%20with%20Inkscape%20%28http%3A%2F%2Fwww.inkscape.org%2F%29%20--%3E%0A%0A%3Csvg%0A%20%20%20xmlns%3Adc%3D%22http%3A%2F%2Fpurl.org%2Fdc%2Felements%2F1.1%2F%22%0A%20%20%20xmlns%3Acc%3D%22http%3A%2F%2Fcreativecommons.org%2Fns%23%22%0A%20%20%20xmlns%3Ardf%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%22%0A%20%20%20xmlns%3Asvg%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%0A%20%20%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%0A%20%20%20version%3D%221.1%22%0A%20%20%20width%3D%22100%25%22%0A%20%20%20height%3D%22100%25%22%0A%20%20%20viewBox%3D%220%200%201024%20768%22%0A%20%20%20id%3D%22Layer_1%22%0A%20%20%20xml%3Aspace%3D%22preserve%22%3E%3Cmetadata%0A%20%20%20%20%20id%3D%22metadata9%22%3E%3Crdf%3ARDF%3E%3Ccc%3AWork%0A%20%20%20%20%20%20%20%20%20rdf%3Aabout%3D%22%22%3E%3Cdc%3Aformat%3Eimage%2Fsvg%2Bxml%3C%2Fdc%3Aformat%3E%3Cdc%3Atype%0A%20%20%20%20%20%20%20%20%20%20%20rdf%3Aresource%3D%22http%3A%2F%2Fpurl.org%2Fdc%2Fdcmitype%2FStillImage%22%20%2F%3E%3Cdc%3Atitle%3E%3C%2Fdc%3Atitle%3E%3C%2Fcc%3AWork%3E%3C%2Frdf%3ARDF%3E%3C%2Fmetadata%3E%3Cdefs%0A%20%20%20%20%20id%3D%22defs7%22%20%2F%3E%3Cpath%0A%20%20%20%20%20d%3D%22M%20897%2C454.6%20V%20313.4%20L%20810.4%2C299%20c%20-6.4%2C-23.3%20-16%2C-45.7%20-27.3%2C-65.8%20L%20833.6%2C161.8%20734.2%2C61.6%20662.8%2C112.1%20C%20641.9%2C100.9%20620.3%2C91.2%20597%2C84.8%20L%20582.6%2C-1%20H%20441.4%20L%20427%2C85.6%20c%20-23.3%2C6.4%20-45.7%2C16%20-65.8%2C27.3%20L%20289.8%2C62.4%20189.5%2C161.9%20240%2C233.3%20c%20-11.2%2C20.9%20-20.9%2C42.5%20-27.3%2C66.6%20L%20127%2C313.4%20v%20141.2%20l%2085.8%2C14.4%20c%206.4%2C23.3%2016%2C45.7%2027.3%2C66.6%20l%20-50.5%2C71.4%2099.5%2C99.5%2071.4%2C-50.5%20c%2020.9%2C11.2%2042.5%2C20.9%2066.6%2C27.3%20l%2014.4%2C85.8%20h%20141.2%20l%2014.4%2C-86.6%20c%2023.3%2C-6.4%2045.7%2C-16%2065.8%2C-27.3%20l%2071.4%2C50.5%2099.5%2C-99.5%20-50.5%2C-71.4%20c%2011.2%2C-20.9%2020.9%2C-42.5%2027.3%2C-66.6%20L%20897%2C454.6%20z%20m%20-385%2C77%20C%20430.2%2C531.6%20364.4%2C465%20364.4%2C384%20364.4%2C302.2%20431%2C236.4%20512%2C236.4%20c%2081%2C0%20147.6%2C65.8%20147.6%2C147.6%200%2C81.8%20-65.8%2C147.6%20-147.6%2C147.6%20z%22%0A%20%20%20%20%20id%3D%22path3%22%0A%20%20%20%20%20style%3D%22fill%3A%23777777%22%20%2F%3E%3C%2Fsvg%3E);background-image:url(/w/extensions/MultimediaViewer/resources/mmv/img/gear_gray.svg?ea8fa)!ie;opacity:0.75}.mw-mmv-filepage-buttons .mw-mmv-view-config.mw-ui-icon:before:hover{opacity:1}</style><style>
+.suggestions a.mw-searchSuggest-link,.suggestions a.mw-searchSuggest-link:hover,.suggestions a.mw-searchSuggest-link:active,.suggestions a.mw-searchSuggest-link:focus{color:#000;text-decoration:none}.suggestions-result-current a.mw-searchSuggest-link,.suggestions-result-current a.mw-searchSuggest-link:hover,.suggestions-result-current a.mw-searchSuggest-link:active,.suggestions-result-current a.mw-searchSuggest-link:focus{color:#fff}.suggestions a.mw-searchSuggest-link .special-query{ overflow:hidden;-o-text-overflow:ellipsis; text-overflow:ellipsis;white-space:nowrap}
+.ve-activated #toc,.ve-activated #siteNotice,.ve-activated .mw-indicators,.ve-activated #t-print,.ve-activated #t-permalink,.ve-activated #p-coll-print_export,.ve-activated #t-cite,.ve-deactivating .ve-ui-surface,.ve-active .ve-init-mw-desktopArticleTarget-editableContent{display:none} .ve-activating .ve-ui-surface{height:0;padding:0 !important; overflow:hidden} .ve-loading #content > :not( .ve-init-mw-desktopArticleTarget-loading-overlay ), .ve-activated .ve-init-mw-desktopArticleTarget-uneditableContent{  pointer-events:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none; opacity:0.5}.ve-activated .catlinks{cursor:pointer}.ve-activated .catlinks a{opacity:1} .ve-activated #content{position:relative} .ve-init-mw-desktopArticleTarget-loading-overlay{position:absolute;left:0;right:0;z-index:1;margin-top:-0.5em}.ve-init-mw-desktopArticleTarget-progress{height:1em;overflow:hidden;margin:0 25%}.ve-init-mw-desktopArticleTarget-progress-bar{height:1em;width:0} .mw-editsection{white-space:nowrap; unicode-bidi:-moz-isolate;unicode-bidi:-webkit-isolate;unicode-bidi:isolate}.mw-editsection-divider{color:#555}</style><meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=wikimini">
+<meta name="generator" content="MediaWiki 1.28.0">
+<meta name="keywords" content="encyclopédie,enfants,enfant,adolescents,wiki,projet,école,éducation,enseignement">
+<meta name="description" content="Encyclopédie pour enfants dont les définitions et articles sont écrits par des enfants et adolescents : A l’école ou à la maison, chacun peut y participer. Wikimini est un projet pédagogique d’écriture collaborative édité par des enseignants et spécialistes de l’éducation.">
+<meta name="twitter:description" content="Encyclopédie pour enfants dont les définitions et articles sont écrits par des enfants et adolescents : A l’école ou à la maison, chacun peut y participer. Wikimini est un projet pédagogique d’écriture collaborative édité par des enseignants et spécialistes de l’éducation.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="https://fr.wikimini.org/wiki/Accueil">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimini, l’encyclopédie pour enfants (fr)">
+<link rel="EditURI" type="application/rsd+xml" href="https://fr.wikimini.org/w/api.php?action=rsd">
+<meta property="og:description" content="Encyclopédie pour enfants dont les définitions et articles sont écrits par des enfants et adolescents : A l’école ou à la maison, chacun peut y participer. Wikimini est un projet pédagogique d’écriture collaborative édité par des enseignants et spécialistes de l’éducation.">
+
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/Wikimini/resources/htc/csshover.min.htc")}</style><![endif]-->
+<script src="/w/load.php?debug=false&amp;lang=fr&amp;modules=jquery%2Cmediawiki&amp;only=scripts&amp;skin=wikimini&amp;version=17vtkx0"></script><link rel="stylesheet" href="/w/index.php?title=MediaWiki:Wikimini.css&amp;action=raw&amp;ctype=text/css"></head><body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Accueil rootpage-Accueil skin-wikimini action-view">	<script>
+		var flashButton ='button=1'
+	</script>
+    <!-- modal -->
+    <div class="modal" id="uploadModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                     <h4 class="modal-title">Upload</h4>
+
+                </div>
+                <div class="modal-body">
+                    <iframe id="stockIframe" data-src="https://stock.wikimini.org/wiki/Special:Upload" src="" width="770" height="500"></iframe>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+	<div class="mw-body container" role="main">
+		    		        	<div id="mobile-p-search" role="search" class="mobile-search-box text-left">
+    		        		<div class="search-content">
+
+    							<form action="/w/index.php" id="searchform">
+    								    								<div id="simpleSearch">
+    									    								<input type="search" name="search" placeholder="Rechercher sur Wikimini" title="Chercher dans Wikimini [alt-shift-f]" accesskey="f" id="searchInput" tabindex="1" autocomplete="off"><input type="hidden" value="Spécial:Recherche" name="title"><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton">    									</div>
+    							</form>
+    						</div>
+    					</div>
+
+    	    			<div class="row hidden-xs">
+			<div id="swiffycontainer" style="width: 760px; height: 278px">
+            		<div style="position: relative; width: 100%; height: 100%; overflow: hidden; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); user-select: none;"><canvas width="760" height="278" style="width: 760px; height: 278px; position: relative; left: 0px; top: 0px;"></canvas></div></div>
+		</div>
+        <div class="row visible-xs-block" id="mobileNav">
+			<nav class="navbar navbar-default navbar-wikimini">
+			  <div class="container-fluid">
+			    <div class="navbar-header">
+			      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainNav" aria-expanded="false">
+			        <span class="sr-only">Toggle navigation</span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			      </button>
+
+				<a href="/wiki/Accueil" class="navbar-brand">
+					<img src="/w/skins/Wikimini/resources/images/logofr.png" alt="Wikimini, l’encyclopédie pour enfants">
+				</a>
+
+			    </div>
+
+			    <!-- Nav -->
+			    <div class="collapse navbar-collapse" id="mainNav">
+			      <ul class="nav navbar-nav">
+			        <li class="active wm-home"><a href="/" title="Wikimini, l'encyclopédie pour enfants et adolescents">Accueil</a></li>
+			        <li class="wm-children"><a href="/wiki/Wikimini:Enfants_et_ados" title="Pour les enfants et les adolescents">Coin des enfants</a></li>
+			        <li class="wm-adults"><a href="/wiki/Wikimini:Adultes" title="Pour les adultes et grands adolescents">Coin des adultes</a></li>
+			        <li class="wm-teachers"><a href="/wiki/Wikimini:Enseignants" title="Pour les enseignants et professionnels de l'éducation">Coin des enseignants</a></li>
+			        <li class="wm-forum"><a href="/wiki/Special:AWCforum" title="Forum de discussion de Wikimini">Forum de discussion</a></li>
+			        <li class="wm-help"><a href="/wiki/Aide:Accueil" title="Besoin d'aide?">Aide</a></li>
+			      </ul>
+			    </div>
+			  </div>
+			</nav>
+        </div>
+        <div class="row">
+
+	            <div class="mw-indicators">
+</div>
+
+      </div>
+      <div class="row">
+            </div>
+
+	        <div id="fluid-row" class="row  fluid-candidate">
+
+				        <div id="fluid-content" class="col-md-7">
+				        <div id="content">
+			<h1 id="firstHeading" class="firstHeading" lang="fr">
+			Wikimini, l'encyclopédie des enfants			</h1>
+
+			
+						<div id="bodyContent" class="mw-body-content">
+												<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><h2><span class="mw-headline" id="Bienvenue_sur_Wikimini.C2.A0.21">Bienvenue sur Wikimini&nbsp;!</span></h2>
+<div style="float: right; padding-left: 10px;"><div class="noresize"><map name="ImageMap_1_1385400151"><area href="/wiki/Wikimini:Enfants_et_ados" shape="poly" coords="20,67,114,69,140,84,114,94,20,91" alt="Enfants et adolescents" title="Enfants et adolescents"><area href="/wiki/Wikimini:Adultes" shape="poly" coords="14,109,117,97,154,106,123,122,62,129,33,122,13,128" alt="Adultes et grands ados" title="Adultes et grands ados"><area href="/wiki/Wikimini:Enseignants" shape="poly" coords="4,135,37,126,123,142,122,166,29,151" alt="Enseignants et éducateurs" title="Enseignants et éducateurs"><area href="/wiki/Sp%C3%A9cial:AWCforum" shape="poly" coords="17,159,107,166,138,181,108,192,14,184" alt="Forum de discussion" title="Forum de discussion"></map><img alt="Wikimini-directional sign-fr.png" src="https://stock.wikimini.org/w/images/c/c5/Wikimini-directional_sign-fr.png" width="160" height="290" data-file-width="160" data-file-height="290" usemap="#ImageMap_1_1385400151"></div></div> 
+<p>Wikimini est une <b><a href="/wiki/Encyclop%C3%A9die" title="Encyclopédie">encyclopédie</a></b> en ligne <b>écrite par des <i>enfants</i> et des <i>adolescents</i></b>, aidés des plus grands. Elle est gratuite et compte actuellement <a href="/wiki/Sp%C3%A9cial:Statistiques" title="Spécial:Statistiques">22&nbsp;264 articles</a> et <a href="/wiki/Sp%C3%A9cial:Journal/newusers" title="Spécial:Journal/newusers">55&nbsp;227 Wikiminautes</a>! 
+</p>
+<div class="floatleft"><div class="noresize"><a href="https://youtu.be/_VurKwuubF4" class="plainlinks" rel="nofollow" title="https://youtu.be/_VurKwuubF4"><img alt="Présentation de l'encyclopédie en vidéo" src="https://stock.wikimini.org/w/images/thumb/6/68/Wikimini-video_presentation-fr.png/110px-Wikimini-video_presentation-fr.png" width="110" height="110" srcset="https://stock.wikimini.org/w/images/thumb/6/68/Wikimini-video_presentation-fr.png/165px-Wikimini-video_presentation-fr.png 1.5x, https://stock.wikimini.org/w/images/6/68/Wikimini-video_presentation-fr.png 2x" data-file-width="200" data-file-height="200"></a></div></div> 
+<p>En classe ou depuis chez soi, <b>chacun peut participer</b> à cette belle aventure collective. 
+</p>
+<div style="text-align: right; padding-top: 15px;"><img alt="Puce-rouge2.gif" src="https://stock.wikimini.org/w/images/9/9f/Puce-rouge2.gif" width="22" height="22" data-file-width="22" data-file-height="22"> <a href="/wiki/Wikimini:%C3%80_propos" title="Wikimini:À propos">En savoir plus</a></div> 
+<h2><span class="mw-headline" id="Consulter_l.27encyclop.C3.A9die">Consulter l'encyclopédie</span></h2>
+<div style="font-size: 0.9em; line-height: 1.3em; padding: 10px; background-color: rgb(255, 243, 234); margin-top: 20px; border-radius: 20px;"><div style="border-bottom: 0px none; font-size: 130%; padding-top: 10px; padding-bottom: 2px;"><span style="float: left; margin-top: -30px; margin-left: -30px; margin-right: 8px;"><img alt="Wikiboo32 128x128 trans.png" src="https://stock.wikimini.org/w/images/thumb/1/19/Wikiboo32_128x128_trans.png/64px-Wikiboo32_128x128_trans.png" width="64" height="64" srcset="https://stock.wikimini.org/w/images/thumb/1/19/Wikiboo32_128x128_trans.png/96px-Wikiboo32_128x128_trans.png 1.5x, https://stock.wikimini.org/w/images/1/19/Wikiboo32_128x128_trans.png 2x" data-file-width="128" data-file-height="128"></span> INDEX THÉMATIQUE<a href="/wiki/Sp%C3%A9cial:Index" title="Spécial:Index"><span style="position: relative; float: right; font-size: xx-small; text-align: right;">Tous les articles</span></a></div><div style="clear:both;"></div>
+<table cellspacing="1" cellpadding="0" border="0" width="360">
+
+<tbody><tr>
+<td align="center" valign="top">
+<div class="center"><div class="floatnone"><a href="/wiki/Cat%C3%A9gorie:Arts,_loisirs_et_sports" title="Arts, loisirs et sports"><img alt="Arts, loisirs et sports" src="https://stock.wikimini.org/w/images/thumb/0/0a/CAT-Arts%2C_recreation_and_sports.png/85px-CAT-Arts%2C_recreation_and_sports.png" width="85" height="85" srcset="https://stock.wikimini.org/w/images/0/0a/CAT-Arts%2C_recreation_and_sports.png 1.5x" data-file-width="128" data-file-height="128"></a></div></div><a href="/wiki/Cat%C3%A9gorie:Arts,_loisirs_et_sports" title="Catégorie:Arts, loisirs et sports">Arts, loisirs et<br>sports</a>
+</td>
+<td align="center" valign="top">
+<div class="center"><div class="floatnone"><a href="/wiki/Cat%C3%A9gorie:Litt%C3%A9rature_et_th%C3%A9%C3%A2tre" title="Littérature et théâtre"><img alt="Littérature et théâtre" src="https://stock.wikimini.org/w/images/thumb/a/a7/CAT-Literature_and_drama.png/85px-CAT-Literature_and_drama.png" width="85" height="85" srcset="https://stock.wikimini.org/w/images/a/a7/CAT-Literature_and_drama.png 1.5x" data-file-width="128" data-file-height="128"></a></div></div><a href="/wiki/Cat%C3%A9gorie:Litt%C3%A9rature_et_th%C3%A9%C3%A2tre" title="Catégorie:Littérature et théâtre">Littérature et<br>théâtre</a> 
+</td>
+<td align="center" valign="top">
+<div class="center"><div class="floatnone"><a href="/wiki/Cat%C3%A9gorie:Pens%C3%A9e_et_esprit" title="Pensée et esprit"><img alt="Pensée et esprit" src="https://stock.wikimini.org/w/images/thumb/e/e2/CAT-Mind_and_spirit.png/85px-CAT-Mind_and_spirit.png" width="85" height="85" srcset="https://stock.wikimini.org/w/images/e/e2/CAT-Mind_and_spirit.png 1.5x" data-file-width="128" data-file-height="128"></a></div></div><a href="/wiki/Cat%C3%A9gorie:Pens%C3%A9e_et_esprit" title="Catégorie:Pensée et esprit">Pensée et<br>esprit</a>
+</td>
+<td align="center" valign="top">
+<div class="center"><div class="floatnone"><a href="/wiki/Cat%C3%A9gorie:Langues_et_langage" title="Langues et langage"><img alt="Langues et langage" src="https://stock.wikimini.org/w/images/thumb/b/b9/CAT-Languages_and_linguistics.png/85px-CAT-Languages_and_linguistics.png" width="85" height="85" srcset="https://stock.wikimini.org/w/images/b/b9/CAT-Languages_and_linguistics.png 1.5x" data-file-width="128" data-file-height="128"></a></div></div><a href="/wiki/Cat%C3%A9gorie:Langues_et_langage" title="Catégorie:Langues et langage">Langues et<br>langage</a>
+</td></tr>
+<tr>
+<td align="center" valign="top">
+<div class="center"><div class="floatnone"><a href="/wiki/Cat%C3%A9gorie:Croyances_et_religions" title="Croyances et religions"><img alt="Croyances et religions" src="https://stock.wikimini.org/w/images/thumb/a/a5/CAT-Beliefs_and_religions.png/85px-CAT-Beliefs_and_religions.png" width="85" height="85" srcset="https://stock.wikimini.org/w/images/a/a5/CAT-Beliefs_and_religions.png 1.5x" data-file-width="128" data-file-height="128"></a></div></div><a href="/wiki/Cat%C3%A9gorie:Croyances_et_religions" title="Catégorie:Croyances et religions">Croyances et<br>religions</a> 
+</td>
+<td align="center" valign="top">
+<div class="center"><div class="floatnone"><a href="/wiki/Cat%C3%A9gorie:Vie_en_soci%C3%A9t%C3%A9" title="Vie en société"><img alt="Vie en société" src="https://stock.wikimini.org/w/images/thumb/4/44/CAT-Life_in_society.png/85px-CAT-Life_in_society.png" width="85" height="85" srcset="https://stock.wikimini.org/w/images/4/44/CAT-Life_in_society.png 1.5x" data-file-width="128" data-file-height="128"></a></div></div><a href="/wiki/Cat%C3%A9gorie:Vie_en_soci%C3%A9t%C3%A9" title="Catégorie:Vie en société">Vie en<br>société</a>
+</td>
+<td align="center" valign="top">
+<div class="center"><div class="floatnone"><a href="/wiki/Cat%C3%A9gorie:Histoire_et_g%C3%A9ographie" title="Histoire et géographie"><img alt="Histoire et géographie" src="https://stock.wikimini.org/w/images/thumb/d/d1/CAT-History_and_geography.png/85px-CAT-History_and_geography.png" width="85" height="85" srcset="https://stock.wikimini.org/w/images/d/d1/CAT-History_and_geography.png 1.5x" data-file-width="128" data-file-height="128"></a></div></div><a href="/wiki/Cat%C3%A9gorie:Histoire_et_g%C3%A9ographie" title="Catégorie:Histoire et géographie">Histoire et<br>géographie</a> 
+</td>
+<td align="center" valign="top">
+<div class="center"><div class="floatnone"><a href="/wiki/Cat%C3%A9gorie:Sciences_et_math%C3%A9matiques" title="Sciences et mathématiques"><img alt="Sciences et mathématiques" src="https://stock.wikimini.org/w/images/thumb/b/b2/CAT-Sciences_and_mathematics.png/85px-CAT-Sciences_and_mathematics.png" width="85" height="85" srcset="https://stock.wikimini.org/w/images/b/b2/CAT-Sciences_and_mathematics.png 1.5x" data-file-width="128" data-file-height="128"></a></div></div><a href="/wiki/Cat%C3%A9gorie:Sciences_et_math%C3%A9matiques" title="Catégorie:Sciences et mathématiques">Sciences et<br>mathématiques</a>
+</td></tr>
+<tr>
+<td align="center" valign="top">
+<div class="center"><div class="floatnone"><a href="/wiki/Cat%C3%A9gorie:Technologie_et_sant%C3%A9" title="Technologie et santé"><img alt="Technologie et santé" src="https://stock.wikimini.org/w/images/thumb/5/57/CAT-Technology_and_health.png/85px-CAT-Technology_and_health.png" width="85" height="85" srcset="https://stock.wikimini.org/w/images/5/57/CAT-Technology_and_health.png 1.5x" data-file-width="128" data-file-height="128"></a></div></div><a href="/wiki/Cat%C3%A9gorie:Technologie_et_sant%C3%A9" title="Catégorie:Technologie et santé">Technologie et<br>santé</a>
+</td>
+<td align="center" valign="top">
+<div class="center"><div class="floatnone"><a href="/wiki/Cat%C3%A9gorie:Information_et_documentation" title="Information et documentation"><img alt="Information et documentation" src="https://stock.wikimini.org/w/images/thumb/f/f5/CAT-Information_and_documentation.png/85px-CAT-Information_and_documentation.png" width="85" height="85" srcset="https://stock.wikimini.org/w/images/f/f5/CAT-Information_and_documentation.png 1.5x" data-file-width="128" data-file-height="128"></a></div></div><a href="/wiki/Cat%C3%A9gorie:Information_et_documentation" title="Catégorie:Information et documentation">Information et<br>documentation</a>
+</td>
+<td align="center" valign="middle">
+<div class="center"><div class="floatnone"><a href="/wiki/Wikimini:Atlas" title="Atlas du monde"><img alt="Atlas du monde" src="https://stock.wikimini.org/w/images/thumb/b/b3/Carte_du_monde_transparente.png/85px-Carte_du_monde_transparente.png" width="85" height="64" srcset="https://stock.wikimini.org/w/images/thumb/b/b3/Carte_du_monde_transparente.png/128px-Carte_du_monde_transparente.png 1.5x, https://stock.wikimini.org/w/images/thumb/b/b3/Carte_du_monde_transparente.png/170px-Carte_du_monde_transparente.png 2x" data-file-width="1600" data-file-height="1200"></a></div></div><br><a href="/wiki/Wikimini:Atlas" title="Wikimini:Atlas">Atlas<br>du monde</a>
+</td>
+<td align="center" valign="middle">
+<div class="center"><div class="floatnone"><a href="/wiki/Wikimini:Quiz" title="Quiz"><img alt="Quiz" src="https://stock.wikimini.org/w/images/thumb/4/4f/Point-d%27interrogation-Quiz.png/65px-Point-d%27interrogation-Quiz.png" width="65" height="71" srcset="https://stock.wikimini.org/w/images/thumb/4/4f/Point-d%27interrogation-Quiz.png/98px-Point-d%27interrogation-Quiz.png 1.5x, https://stock.wikimini.org/w/images/thumb/4/4f/Point-d%27interrogation-Quiz.png/130px-Point-d%27interrogation-Quiz.png 2x" data-file-width="400" data-file-height="436"></a></div></div><br><a href="/wiki/Wikimini:Quiz" title="Wikimini:Quiz">Quiz</a>
+</td></tr></tbody></table>
+</div><br><div style="font-size: 0.9em; line-height: 1.3em; padding: 10px; background-color: #E9F3FF; margin-top: 20px; border-radius: 20px;"><div style="border-bottom: 0px none; font-size: 130%; padding-top: 10px; padding-bottom: 2px;"><span style="float: left; margin-top: -30px; margin-left: -30px; margin-right: 8px;"><img alt="Wikiboo05 128x128 trans.png" src="https://stock.wikimini.org/w/images/thumb/9/92/Wikiboo05_128x128_trans.png/64px-Wikiboo05_128x128_trans.png" width="64" height="64" srcset="https://stock.wikimini.org/w/images/thumb/9/92/Wikiboo05_128x128_trans.png/96px-Wikiboo05_128x128_trans.png 1.5x, https://stock.wikimini.org/w/images/9/92/Wikiboo05_128x128_trans.png 2x" data-file-width="128" data-file-height="128"></span> INDEX ALPHABÉTIQUE<a href="/wiki/Sp%C3%A9cial:Toutes_les_pages" title="Spécial:Toutes les pages"><span style="position: relative; float: right; font-size: xx-small; text-align: right;">Toutes les pages</span></a></div>
+<p style="text-align:center;font-size:190%;"> 
+<a href="/wiki/Sp%C3%A9cial:Index/A" title="Spécial:Index/A">A</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/B" title="Spécial:Index/B">B</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/C" title="Spécial:Index/C">C</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/D" title="Spécial:Index/D">D</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/E" title="Spécial:Index/E">E</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/F" title="Spécial:Index/F">F</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/G" title="Spécial:Index/G">G</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/H" title="Spécial:Index/H">H</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/I" title="Spécial:Index/I">I</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/J" title="Spécial:Index/J">J</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/K" title="Spécial:Index/K">K</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/L" title="Spécial:Index/L">L</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/M" title="Spécial:Index/M">M</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/N" title="Spécial:Index/N">N</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/O" title="Spécial:Index/O">O</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/P" title="Spécial:Index/P">P</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/Q" title="Spécial:Index/Q">Q</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/R" title="Spécial:Index/R">R</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/S" title="Spécial:Index/S">S</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/T" title="Spécial:Index/T">T</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/U" title="Spécial:Index/U">U</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/V" title="Spécial:Index/V">V</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/W" title="Spécial:Index/W">W</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/X" title="Spécial:Index/X">X</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/Y" title="Spécial:Index/Y">Y</a> &nbsp;<a href="/wiki/Sp%C3%A9cial:Index/Z" title="Spécial:Index/Z">Z</a> &nbsp;<span class="plainlinks"><a target="_blank" rel="noreferrer noopener" class="external text" href="http://fr.wikimini.org/w/index.php?title=Sp%E9cial%3AIndex&amp;from=!">#</a></span>
+</p>
+</div> 
+<div style="margin-top: 5px; text-align: center; font-size: 90%;"><a href="/wiki/Sp%C3%A9cial:Nouvelles_pages" title="Spécial:Nouvelles pages">Nouveaux articles</a> • <a href="/wiki/Sp%C3%A9cial:Pages_courtes" title="Spécial:Pages courtes">Les plus courts</a> • <a href="/wiki/Sp%C3%A9cial:Pages_longues" title="Spécial:Pages longues">Les plus longs</a> • <a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Spécial:Page au hasard">Au hasard</a></div> 
+<p><br> 
+</p>
+<table cellspacing="10" cellpadding="1" width="100%" align="center" style="background-color: #F7F7F7; border: solid 1px #DDDDDD;">
+
+<tbody><tr>
+<td valign="top" width="45"> <img alt="Bg-pin.gif" src="https://stock.wikimini.org/w/images/e/e9/Bg-pin.gif" width="30" height="44" data-file-width="30" data-file-height="44">
+</td>
+<td style="text-align: justify;"> Si tu n'es pas encore inscrit(e), tu peux <a href="/wiki/Sp%C3%A9cial:Connexion" title="Spécial:Connexion"><b>créer un compte</b></a>. Tu pourras alors contribuer à l'encyclopédie sur <b>les sujets qui t'intéressent</b>.
+</td></tr></tbody></table>
+<div style="margin-top: 5px; text-align: center; font-size: 90%;">Articles actuellement <a href="/wiki/Sp%C3%A9cial:Pages_demand%C3%A9es" title="Spécial:Pages demandées">les plus demandés</a>&nbsp;:<div class="mw-spcontent"><a href="/w/index.php?title=Maison_de_Valois&amp;action=edit&amp;redlink=1" class="new" title="Maison de Valois (page inexistante)">Maison de Valois</a>‏‎ (<a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Maison_de_Valois" title="Spécial:Pages liées/Maison de Valois">13 pages liées</a>), <a href="/w/index.php?title=ADOR&amp;action=edit&amp;redlink=1" class="new" title="ADOR (page inexistante)">ADOR</a>‏‎ (<a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/ADOR" title="Spécial:Pages liées/ADOR">10 pages liées</a>) et <a href="/w/index.php?title=5_octobre&amp;action=edit&amp;redlink=1" class="new" title="5 octobre (page inexistante)">5 octobre</a>‏‎ (<a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/5_octobre" title="Spécial:Pages liées/5 octobre">9 pages liées</a>)</div></div> 
+<h2><span class="mw-headline" id="Qui_est_en_ligne.C2.A0.3F">Qui est en ligne&nbsp;?</span></h2>
+<div style="display:inline; margin-left:2.8em; font-size:smaller;">Il y a en ce moment 557 visiteurs anonymes sur le site.</div>
+<div style="display:inline; margin-left:2.8em; font-size:smaller;">Il y a en ce moment 1 visiteurs anonymes sur le site.</div>
+<p> 
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20260913114204
+Cache expiry: 0
+Dynamic content: true
+CPU time usage: 0.049 seconds
+Real time usage: 1.280 seconds
+Preprocessor visited node count: 80/1000000
+Preprocessor generated node count: 212/1000000
+Post‐expand include size: 5273/2097152 bytes
+Template argument size: 175/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1227.439      1 - -total
+ 99.62% 1222.744      1 - Spécial:Wantedpages/3
+  0.19%    2.384      1 - Modèle:Index_thématique
+  0.09%    1.161      1 - Modèle:Index_alphabétique
+  0.07%    0.881      1 - Modèle:Remarque
+-->
+</div>				<div id="catlinks"><div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div></div><!-- end content -->
+
+
+					        	</div>
+	        </div>
+
+
+
+	        </div>
+
+				        <div id="fluid-sidebar" class="col-md-5  text-center">
+
+
+			<!-- Options (print, home, etc.)  -->
+				<div class="OptionsBox">
+				   <div class="visualClear"><span id="OptionsTexte" class="OptionsTexte_Hidden"></span></div>
+				   <div id="MenuOptions">
+				  <!--   -->
+             <a id="HeaderButton" data-toggle="tooltip" data-original-title="Réduire l'en-tête" data-text1="Réduire l'en-tête" data-text2="Afficher l'en-tête">
+              <img class="MenuOptionsBouton" src="/w/skins/Wikimini/resources/images/hide-header-b.png" alt="$this-&gt;msg( 'wikimini-tooltip-reduce-header' ) ?&gt;"></a>
+
+					   <img src="/w/skins/Wikimini/resources/images/blank-18x18.png" width="9">
+
+					   <a id="SiteWidth" data-toggle="tooltip" data-original-title="Afficher le site en pleine largeur" data-text1="Afficher le site en pleine largeur" data-text2="Afficher le site en largeur réduite">
+             <img class="MenuOptionsBouton" src="/w/skins/Wikimini/resources/images/expand-b.png" alt="Afficher le site en pleine largeur"></a>
+
+
+					   <img src="/w/skins/Wikimini/resources/images/blank-18x18.png" width="9">
+
+					   <a id="IncreaseFont" data-toggle="tooltip" data-original-title="Augmenter la taille de la police">
+             <img class="MenuOptionsBouton" src="/w/skins/Wikimini/resources/images/font-plus-b.png" alt="Augmenter la taille de la police"></a>
+					   <a id="DecreaseFont" data-toggle="tooltip" data-original-title="Diminuer la taille de la police">
+              <img class="MenuOptionsBouton" src="/w/skins/Wikimini/resources/images/font-minus-b.png" alt="Diminuer la taille de la police"></a>
+					   <a id="DefaultFontSize" data-toggle="tooltip" data-original-title="Rétablir la taille de la police">
+					   	<img class="MenuOptionsBouton" src="/w/skins/Wikimini/resources/images/font-default-b.png" alt="Rétablir la taille de la police"></a>
+
+					   <img src="/w/skins/Wikimini/resources/images/blank-18x18.png" width="9">
+
+					   <a id="PrintVersion" data-toggle="tooltip" data-original-title="Version imprimable">
+					   	<img class="MenuOptionsBouton" src="/w/skins/Wikimini/resources/images/printer-b.png" alt="Version imprimable"></a>
+				   </div>
+				</div>
+
+									<!-- search -->
+				        	<div id="p-search" role="search" class="search-box text-left">
+	        		<div class="search-logo">
+	        		<img src="/w/skins/Wikimini/resources/images/wikiboo08_36x36_trans.png" alt="Wikiboo">
+	        		</div>
+	        		<div class="search-content">
+						<h5>
+							Rechercher						</h5>
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Rechercher sur Wikimini" title="Chercher dans Wikimini [alt-shift-f]" accesskey="f" id="searchInput" autocomplete="off"><input type="hidden" value="Spécial:Recherche" name="title"><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"><input type="submit" name="go" value="Lire" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton">								</div>
+						</form>
+					</div>
+				</div>
+
+    	
+	        <!-- Daily Picture -->
+	            	<div class="dailyPic">
+
+			<img src="/w/skins/Wikimini/resources/images/Wikimini-daily_picture-fr.png" alt="Image du jour" style="-moz-transform:rotate(2deg); -webkit-transform:rotate(2deg);">
+			<div id="multicouche">
+				<a href="https://fr.wikimini.org/wiki/Wikimini:Image_du_jour"><img id="couche1" src="https://fr.wikimini.org/w/pictures-of-the-day/fr/thumbs/200/2023-03-07-0200.jpg" width="160" alt=""></a><img id="couche2a" src="https://fr.wikimini.org/w/skins/Wikimini/resources/images/scotch-l.png" alt="Scotch"><img id="couche2b" src="https://fr.wikimini.org/w/skins/Wikimini/resources/images/scotch-r.png" alt="Scotch">			</div>
+		</div>
+
+		
+	        <!-- Toolbox -->
+					<div class="tool-box text-center">
+			<div class="text-left">
+	    		<h5>
+	    			<img src="/w/skins/Wikimini/resources/images/wikiboo11_36x36_trans.png" alt="Wikiboo">
+	    		    		Outils	    		</h5>
+    		</div>
+    			<img src="/w/skins/Wikimini/resources/images/kids/wikimini-kids-91.jpg" alt="Wikimini, l'encyclopédie pour enfants et adolescents">
+			<div class="tool-box-content text-left">
+
+				<div class="text-left">
+				    <ul>
+				    	<li id="t-newarticle"><a href="/wiki/Wikimini:Nouvel_article" title="Écrire un nouvel article">Écrire un nouvel article</a></li>
+
+			    			    		<li id="t-upload">
+                            <a id="uploadBtn">Ajouter une image</a>
+                        </li>
+			    									    	<li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" t-specialpages="">Pages spéciales</a></li>
+				    			<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Accueil" t-whatlinkshere="">Pages liées</a></li>
+																	    			</ul>
+				    
+				    <p class="p1">
+				    <img src="/w/skins/Wikimini/resources/images/award_star_gold_1.png" alt="Wikichampions du moment">&nbsp;&nbsp;<a class="blackbold" href="/wiki/Special:ContributionScores" title="Wikichampions du moment">Wikichampions du moment</a><br>
+				    <img src="/w/skins/Wikimini/resources/images/bell.png" alt="Pages les plus demandées">&nbsp;&nbsp;<a class="blackbold" href="/wiki/Special:WantedPages" title="Pages les plus demandées">Pages les plus demandées</a><br>
+				    <img src="/w/skins/Wikimini/resources/images/clock.png" alt="Modifications récentes">&nbsp;&nbsp;<a class="blackbold" href="/wiki/Special:RecentChanges" title="Liste des modifications récentes sur le wiki">Modifications récentes</a><br>
+				    </p>
+														</div>
+
+
+
+
+
+			</div>
+		</div>
+
+    			        <!--  alert - abuse -->
+	        	<p style="text-align:center;">
+	        		<a href="/wiki/Discussion_Wikimini:Alertes" title="Signaler un contenu inapproprié" target="_blank"><img src="/w/skins/Wikimini/resources/images/wikiboo13_36x36_trans.png" alt="Wikiboo"><br>Alerte !</a>
+	        		</p>
+			        </div>
+            
+        </div>
+          
+        <div class="row   fluid-candidate">
+
+	        	<div class="content-bottom">
+					<h5><img src="/w/skins/Wikimini/resources/images/wikiboo12_36x36_trans.png" alt="Wikiboo">&nbsp;Outils personnels</h5>
+					<div class="box-bottom">
+
+						<div class="" style="padding: 15px;">
+							<ul>
+													<li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Accueil" pt-login="">Créer un compte ou me connecter</a></li>
+												</ul>
+						</div>
+
+					</div>
+				</div>
+			</div>
+			
+        <div class="row   fluid-candidate">
+				<!--footer -->
+				<div class="col-md-12 text-center" id="footer">
+					<ul id="f-list" style="padding-bottom:8px;">
+								<li id="lastmod"> Dernière collaboration à cette page le 27 mars 2021 à 20:12.<br></li>
+								<li id="about"><a href="/wiki/Wikimini:%C3%80_propos" title="Wikimini:À propos">À propos de Wikimini</a></li>
+								<li id="disclaimer"><a href="/wiki/Wikimini:Avertissements_g%C3%A9n%C3%A9raux" title="Wikimini:Avertissements généraux">Avertissements</a></li>
+								<li id="privacy"><a href="/wiki/Wikimini:Confidentialit%C3%A9" title="Wikimini:Confidentialité">Confidentialité</a></li>
+						                   		<li><a href="/wiki/Wikimini:Accessibilité">Accessibilité</a></li><li><a href="/wiki/Wikimini:Droits_d'utilisation">Droits d'utilisation</a></li><li><a href="/wiki/Wikimini:Presse">Presse &amp; médias</a></li>
+							</ul>
+							<p class="center" style="font-size:90%;">Wikimini, l’<a href="https://fr.wikimini.org">encyclopédie pour enfants</a> écrite <a href="https://fr.wikimini.org/wiki/Wikimini:Enfants_et_ados">par les enfants</a> | Partagé sur l’<a href="https://hepicerie.com" title="Plateforme d’échange de ressources pédagogiques libres et gratuites pour l’enseignement">Hepicerie - Ressources pédagogiques</a>							<!--&nbsp;|&nbsp;
+							<a rel="nofollow" href="http://validator.w3.org/check/referer"><img src="/w/skins/Wikimini/resources/images/validator-xhtml.gif" alt="Wiki valide XHTML 1.0" /></a>&nbsp;
+							<a rel="nofollow" href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3"><img src="/w/skins/Wikimini/resources/images/validator-css.gif" alt="Wiki valide CSS 3" /></a>&nbsp;
+							<a rel="nofollow" href="http://www.w3.org/WAI/WCAG1A-Conformance"><img src="/w/skins/Wikimini/resources/images/validator-aaa.gif" alt="Wiki valide WCAG1A" /></a>&nbsp;
+							<a href="/wiki/Wikimini:Syndication"><img src="/w/skins/Wikimini/resources/images/rss-xml.gif" alt="Flux de syndication RSS et Atom du wiki" /></a>-->
+							</p>
+
+						</div>
+						<!--footer end-->
+
+
+
+        </div>
+	</div>
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">
+	var addthis_config = {
+	data_track_addressbar:false,
+	ui_language: "fr"
+	}
+
+</script>
+<!--
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50b8ff8752329ed7"></script>
+-->
+<!-- AddThis Button END -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1453});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.uls.pt","ext.visualEditor.targetLoader","skins.wikimini.js2"]);});</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><!-- Matomo -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);_paq.push(["setCookieDomain", "*.wikimini.org", "*.wikimini.wikimedia.ch"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u = (("https:" == document.location.protocol) ? "https" : "http") + "://"+"matomo.wikimedia.ch/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+<!-- Matomo Image Tracker -->
+<noscript><img src="https://matomo.wikimedia.ch/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
+<!-- End Matomo --><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1453});});</script><!--
+ <script type="text/javascript">
+ 		  var _gaq = _gaq || [];
+ 		  _gaq.push(['_setAccount', 'UA-6055853-1']);
+ 		  _gaq.push(['_trackPageview']);
+
+ 		  (function() {
+ 		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ 		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ 		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  		 })();
+ </script>
+-->
+     
+
+<div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div><div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div><a accesskey="v" href="https://fr.wikimini.org/wiki/Accueil?veaction=edit" style="display: none;"></a></body>

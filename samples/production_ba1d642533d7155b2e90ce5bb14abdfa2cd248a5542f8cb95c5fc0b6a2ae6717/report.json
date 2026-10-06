@@ -1,0 +1,27 @@
+{
+  "original_url": "http://sabrilegal.com/cvs",
+  "hostname": "sabrilegal.com",
+  "checked_at": "2026-10-04T15:50:02.487212+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 2,
+  "selected_scan_uuid": "019f95a8-d82b-759a-9f81-186cc8c57c5c",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-24T19:45:20.924Z",
+  "scan_original_url": "http://sabrilegal.com/",
+  "final_url": "http://sabrilegal.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2776,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.314,
+  "discovery": {
+    "batch_id": "972ccbec7d13f97675a987d43aa93644bccc7c3a7de33281a938c7d13826a21a",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

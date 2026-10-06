@@ -1,0 +1,21 @@
+{
+  "original_url": "vinvn.online",
+  "hostname": "vinvn.online",
+  "checked_at": "2026-10-04T10:34:59.485133+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "b56afb21-d6de-425b-9b3b-f48ee2544c3c",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2024-02-01T12:00:55.464Z",
+  "scan_original_url": "http://vinvn.online/mobile/index.html",
+  "final_url": "http://vinvn.online/mobile/index.html",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1967,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.79
+}

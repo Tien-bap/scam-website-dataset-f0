@@ -1,0 +1,27 @@
+{
+  "original_url": "https://protechlinekenya.com/file/Outlook%205/Outlook%205/",
+  "hostname": "protechlinekenya.com",
+  "checked_at": "2026-10-04T14:56:12.567898+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0aff1-abc1-7198-ae74-b091e414fd67",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-17T15:17:34.640Z",
+  "scan_original_url": "http://protechlinekenya.com/",
+  "final_url": "https://protechlinekenya.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 11703,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 50.858,
+  "discovery": {
+    "batch_id": "c83f27c63d3a30bf5277324f43c279d5da042a05656f0ad1db105d4aa74d87df",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

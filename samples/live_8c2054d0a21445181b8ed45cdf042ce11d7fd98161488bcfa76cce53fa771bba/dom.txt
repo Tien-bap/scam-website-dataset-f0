@@ -1,0 +1,1063 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta name="keywords" content="Vietnam airlines, vietnam flight, airlines in vietnam, domestic flight, booking office, Flight, Schedule, Timetable, Fares "><meta name="description" content="Vietnam-airline.org is the website for customers to find and book online with the lowest Vietnam Airlines ticket. We offers weekly flights from Hanoi, Ho Chi Minh to destinations such as Cambodia, Laos, Phnom Penh, Siam Reap and Vientiane, among others and domestic flight. Book Now to Lock In the Best Deals."><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="vietnamairfares.org is the website for travellers to find and book both domestic and International flights. We offer our customers hundreds of daily flights in Vietnam to HaNoi, Ho Chi Minh, Nha Trang, Dalat..."><meta name="keywords" content="Vietnam airlines ticket, vietnam flight ticket, airlines ticket in vietnam, domestic flight ticket"><title>
+	Vietnam Airlines Tickets - Booking Office, Flight, Schedule, Timetable, Fares 
+</title>
+    <!--    FONT-->
+
+
+    
+    <style>
+    @font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Condensed'), local('RobotoCondensed-Regular'), url(https://fonts.gstatic.com/s/robotocondensed/v13/Zd2E9abXLFGSr9G3YK2MsDfpuqXd1lNTYuUi9MZPGEU.woff2) format('woff2'), url(https://fonts.gstatic.com/s/robotocondensed/v13/Zd2E9abXLFGSr9G3YK2MsNIjcMYHK_OhdqQKvz8_Eqo.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Condensed Bold'), local('RobotoCondensed-Bold'), url(https://fonts.gstatic.com/s/robotocondensed/v13/b9QBgL0iMZfDSpmcXcE8nJdRATDOq67wrEgzGuSj1rg.woff2) format('woff2'), url(https://fonts.gstatic.com/s/robotocondensed/v13/b9QBgL0iMZfDSpmcXcE8nMSqxGqx1BqHsIjxNL4q2HQ.woff) format('woff');
+}
+    </style>
+    
+
+    <!--    CSS-->
+    <link rel="stylesheet" href="css/bootstrap.css"><link rel="stylesheet" href="css/font-awesome.css"><link rel="stylesheet" href="css/style.css">
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png"><link rel="icon" href="img/favicon.ico">
+
+     <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-RDJ748NT41&amp;cx=c&amp;gtm=4e69u2"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-129808883-1&amp;cx=c&amp;gtm=4e69u2"></script><script src="js/jquery-2.1.1.js"></script>
+    <script src="js/bootstrap.js"></script>
+   
+      
+      <script src="js/jquery.cookie.js"></script>
+    
+
+    
+      <!-- Global site tag (gtag.js) - Google Ads: 805145888 -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-805145888"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'AW-805145888');
+      gtag('config', 'UA-129808883-1');
+    </script>
+
+    
+<link rel="canonical" href="https://vietnam-airline.org/"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/805145888/?random=1791211745447&amp;cv=11&amp;fst=1791211745447&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be69u2za200xecxf1&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=115616985~115938465~115938468~118012008~118897920~118897930~119381664~120385422~120469145~120469153~121280969&amp;u_w=1365&amp;u_h=768&amp;url=https%3A%2F%2Fvietnam-airline.org%2F&amp;rcb=12&amp;frm=0&amp;tiba=Vietnam%20Airlines%20Tickets%20-%20Booking%20Office%2C%20Flight%2C%20Schedule%2C%20Timetable%2C%20Fares&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=587708125.1791211745&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&amp;uamb=0&amp;uam=&amp;uap=Linux&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script></head>
+<body>
+   <script src="../scripts/JScript1.js"></script>
+    
+    <header>
+        <!--    Navigation-->
+        <nav class="navbar navbar-inverse">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="https://vietnam-airline.org/">
+                         
+                          
+<span id="lab_head">VIETNAM FLIGHT TICKETS</span>
+                         <small class="hidden-xs hidden-md hidden-sm"> <span id="Label1">Online booking center</span></small>
+                    </a>
+                </div>
+                <p class="navbar-text navbar-right top-menu text-right">
+                    <a id="l_flight_availability" href="https://vietnam-airline.org/info/flightstatus.aspx">Live Flight Status</a>  |
+                    <a id="l_schedule" href="https://vietnam-airline.org/info/schedule.aspx">Live Schedule</a> |
+                    <a id="l_faqs1" href="https://vietnam-airline.org/info/faqs.aspx">FAQs</a>
+                    <br><span id="Label3">Information:</span> 
+                    <a id="HyperLink4" class="navbar-link" href="mailto:booking@vietnamairfares.org">booking@vietnamairfares.org</a>
+                </p>
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+    </header>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="left-menu">
+                    <h4>
+                        <span id="Label4">Online Booking Center</span></h4>
+                    <hr>
+                    <ul>
+                        <li>
+                            <a id="l_homepage" href="https://vietnam-airline.org">Home</a>
+                        </li>
+                        <li><a id="l_book" href="https://vietnam-airline.org/flight.aspx">Book Your Trip</a>
+                        </li>
+                        <li><a id="l_fleet" href="https://vietnam-airline.org/info/fleet.aspx">Fleet Information</a>
+                        </li>
+                        <li><a id="l_fare" href="https://vietnam-airline.org/info/fare.aspx">Fare types</a>
+                        </li>
+                        <li><a id="l_traveldocument" href="https://vietnam-airline.org/info/travel_document.aspx">Travel documents</a>
+                        </li>
+                        <li><a id="l_baggage" href="https://vietnam-airline.org/info/baggage.aspx">Baggage</a>
+                        </li>
+                    </ul>
+                </div>
+
+                 <div class="left-menu">
+                    <a href="https://vietnamairfares.org/ha/flight-HaNoi-HaLong" target="_blank"></a>
+                </div>
+            </div>
+
+           
+            <div class="col-sm-9 white-bg">
+                 <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMjA3ODU3NTYPZBYCZg9kFigCAQ8PFgIeBFRleHQFFlZJRVROQU0gRkxJR0hUIFRJQ0tFVFNkZAIDDw8WAh4LTmF2aWdhdGVVcmwFMmh0dHBzOi8vdmlldG5hbS1haXJsaW5lLm9yZy9pbmZvL2ZsaWdodHN0YXR1cy5hc3B4ZGQCBA8PFgIfAQUuaHR0cHM6Ly92aWV0bmFtLWFpcmxpbmUub3JnL2luZm8vc2NoZWR1bGUuYXNweGRkAgUPDxYCHwEFKmh0dHBzOi8vdmlldG5hbS1haXJsaW5lLm9yZy9pbmZvL2ZhcXMuYXNweGRkAgcPDxYEHwEFIm1haWx0bzpib29raW5nQHZpZXRuYW1haXJmYXJlcy5vcmcfAAUbYm9va2luZ0B2aWV0bmFtYWlyZmFyZXMub3JnZGQCCQ8PFgIfAQUbaHR0cHM6Ly92aWV0bmFtLWFpcmxpbmUub3JnZGQCCg8PFgIfAQUnaHR0cHM6Ly92aWV0bmFtLWFpcmxpbmUub3JnL2ZsaWdodC5hc3B4ZGQCCw8PFgIfAQUraHR0cHM6Ly92aWV0bmFtLWFpcmxpbmUub3JnL2luZm8vZmxlZXQuYXNweGRkAgwPDxYCHwEFKmh0dHBzOi8vdmlldG5hbS1haXJsaW5lLm9yZy9pbmZvL2ZhcmUuYXNweGRkAg0PDxYCHwEFNWh0dHBzOi8vdmlldG5hbS1haXJsaW5lLm9yZy9pbmZvL3RyYXZlbF9kb2N1bWVudC5hc3B4ZGQCDg8PFgIfAQUtaHR0cHM6Ly92aWV0bmFtLWFpcmxpbmUub3JnL2luZm8vYmFnZ2FnZS5hc3B4ZGQCDw8WAh4HVmlzaWJsZWhkAhAPZBYCAgEPZBYCAgMPDxYCHwAF4Co8ZGl2PjxiPlZpZXRuYW0gQWlybGluZXMgbW92ZXMgaXRzIG9wZXJhdGlvbiB0byBIZWF0aHJvdyBBaXJwb3J0PC9iPjwvZGl2PjxkaXY+QXMgcmVsZWFzZWQgYnkgVmlldG5hbSBOZXdzIEFnZW5jeSBpbiBMb25kb24sIHRoZSByZXByZXNlbnRhdGl2ZSBvZmZpY2Ugb2YgVmlldG5hbSBBaXJsaW5lcyBpbiB0aGUgVW5pdGVkIEtpbmdkb20gYW5ub3VuY2VzIHRoYXQgdGhlIGZsYWcgY2FycmllciBvZiBWaWV0bmFtIOKAkyBWaWV0bmFtIEFpcmxpbmVzIHdpbGwgaGF2ZSB0aGUgZmlyc3QgZmxpZ2h0cyBvcGVyYXRlZCBmcm9tIEhlYXRocm93IEFpcnBvcnQgZnJvbSAzMSBNYXJjaCwgMjAxNS4gPC9kaXY+Li4uIDxhIGhyZWY9J2h0dHA6Ly92aWV0bmFtLWFpcmxpbmUub3JnL25ld3MvMjAvdmlldG5hbS1haXJsaW5lcy1tb3Zlcy1pdHMtb3BlcmF0aW9uLXRvLWhlYXRocm93LWFpcnBvcnQnPnJlYWQgbW9yZTwvYT48YnIvPjxici8+PGRpdj48Yj5OZXcgYW5ub3VuY2VtZW50cyBvbiB0aWdodGVuaW5nIGNoZWNrLWluIGRlYWRsaW5lPC9iPjwvZGl2PjxkaXY+RnJvbSBEZWNlbWJlciAyMDE0LCBWaWV0bmFtIEFpcmxpbmVzIHRpZ2h0ZW5zIGNoZWNrLWluIGRlYWRsaW5lIGZvciBhbGwgZG9tZXN0aWMNCmFuZCBpbnRlcm5hdGlvbmFsIGZsaWdodHMuIEFjY29yZGluZ2x5LCB0aGUgbWluaW11bSByZXF1aXJlZCBjaGVjay1pbiB0aW1lIGlzIDQwDQptaW51dGVzLCBpbnN0ZWFkIG9mJm5ic3A7MzAgbWludXRlcyBhcyBiZWZvcmUuIEluIHJlZ2FyZCB0byBpbnRlcm5hdGlvbmFsIGZsaWdodHMsDQp0aGUgY2xvc2luZyB0aW1lIGlzIDUwIG1pbnV0ZXMgYWhlYWQgb2YgJm5ic3A7ZGVwYXJ0dXJlLiBBbGwgYm9hcmRpbmcgZ2F0ZXMgYXJlDQpjdXJyZW50bHkgc2h1dHRlcmVkIDEwIG1pbnV0ZXMgcHJpb3IgdG8gZGVwYXJ0dXJlIHRpbWUuPC9kaXY+Li4uIDxhIGhyZWY9J2h0dHA6Ly92aWV0bmFtLWFpcmxpbmUub3JnL25ld3MvMjEvbmV3LWFubm91bmNlbWVudHMtb24tdGlnaHRlbmluZy1jaGVjay1pbi1kZWFkbGluZSc+cmVhZCBtb3JlPC9hPjxici8+PGJyLz48ZGl2PjxiPkRpZCB5b3Uga25vdz88L2I+PC9kaXY+PGRpdj5PbiBWaWV0bmFtIEFpcmxpbmVzIGNvZGVzaGFyZSBmbGlnaHRzIG9wZXJhdGVkIGJ5IG90aGVyIGFpcmxpbmVzIHRoZSBvcHRpb25hbCANCiAgICAgICAgICAgIHNlcnZpY2VzIGFuZCBmZWVzIG1heSBiZSBwcm92aWRlZCBieSBPcGVyYXRpbmcgY2FycmllcnMgd2l0aCBkaWZmZXJlbnQgZmVlcyBmcm9tIA0KICAgICAgICAgICAgVk4uIFBsZWFzZSB2aXNpdCB0aGUgT3BlcmF0aW5nIENhcnJpZXJz4oCZd2Vic2l0ZSBmb3IgZGV0YWlscy48L2Rpdj48ZGl2Pjx0YWJsZSBib3JkZXI9IjEiIHdpZHRoPSI4NiUiPg0KICAgICA8dGJvZHk+DQogICAgICAgICA8dHI+DQogICAgICAgICAgICAgPHRkIHNjb3BlPSJjb2wiIHdpZHRoPSIyNCUiPg0KICAgICAgICAgICAgIDxkaXYgYWxpZ249ImxlZnQiPg0KICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cuYWlyZnJhbmNlLnVzL1VTL2VuL2xvY2FsL3BhZ2VfZmxvdHRhbnRlL2hwL3VzX2RvdF9yZWd1bGF0aW9uLmh0bSIgdGFyZ2V0PSJfYmxhbmsiPg0KICAgICAgICAgICAgIEFpciBGcmFuY2U8L2E+PC9kaXY+DQogICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgICAgICA8dGQgc2NvcGU9ImNvbCIgd2lkdGg9IjI2JSI+DQogICAgICAgICAgICAgPGRpdiBhbGlnbj0ibGVmdCI+DQogICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy5rbG0uY29tL3RyYXZlbC9nYl9lbi9wcmVwYXJlX2Zvcl90cmF2ZWwvYmFnZ2FnZS9hbGxfYWJvdXQvaW5kZXguaHRtIiB0YXJnZXQ9Il9ibGFuayI+DQogICAgICAgICAgICAgUm95YWwgRHV0Y2ggQWlybGluZXM8L2E+PC9kaXY+DQogICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgICAgICA8dGQgc2NvcGU9ImNvbCIgd2lkdGg9IjI2JSI+DQogICAgICAgICAgICAgPGRpdiBhbGlnbj0ibGVmdCI+DQogICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy5jYXRoYXlwYWNpZmljLmNvbS9jeC9lbl9WTi9vcHRpb25hbC1zZXJ2aWNlcy1hbmQtZmVlcy5odG1sIiB0YXJnZXQ9Il9ibGFuayI+DQogICAgICAgICAgICAgQ2F0aGF5IFBhY2lmaWM8L2E+PC9kaXY+DQogICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgICAgICA8dGQgc2NvcGU9ImNvbCIgd2lkdGg9IjI0JSI+DQogICAgICAgICAgICAgPGRpdiBhbGlnbj0ibGVmdCI+DQogICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly93d3cua29yZWFuYWlyLmNvbS9nbG9iYWwvZW4vdHJhdmVsaW5nL2JhZ2dhZ2Utc2VydmljZXMuaHRtbCIgdGFyZ2V0PSJfYmxhbmsiPg0KICAgICAgICAgICAgIEtvcmVhbiBBaXI8L2E+PC9kaXY+DQogICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgIDwvdHI+DQogICAgICAgICA8dHI+DQogICAgICAgICAgICAgPHRkPg0KICAgICAgICAgICAgIDxkaXYgYWxpZ249ImxlZnQiPg0KICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cuZGVsdGEuY29tL3RyYXZlbGluZ19jaGVja2luL2JhZ2dhZ2UvaW5kZXguanNwIiB0YXJnZXQ9Il9ibGFuayI+RGVsdGENCiAgICAgICAgICAgICBBaXJsaW5lcyA8L2E+DQogICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgICAgICA8dGQ+DQogICAgICAgICAgICAgPGRpdiBhbGlnbj0ibGVmdCI+DQogICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL2FtLmNzYS5jei9lbi9wb3J0YWwvaW5mby1hbmQtc2VydmljZXMvdHJhdmVsLWluZm9ybWF0aW9uL2JhZ2dhZ2UyLmh0bSIgdGFyZ2V0PSJfYmxhbmsiPg0KICAgICAgICAgICAgIEN6ZWNoIEFpcmxpbmVzPC9hPjwvZGl2Pg0KICAgICAgICAgICAgIDwvdGQ+DQogICAgICAgICAgICAgPHRkPg0KICAgICAgICAgICAgIDxkaXYgYWxpZ249ImxlZnQiPg0KICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cubGFvYWlybGluZXMuY29tLz9jb250ZW50a2V5PXBhZ2VzJmFtcDtpZD0yMiIgdGFyZ2V0PSJfYmxhbmsiPg0KICAgICAgICAgICAgIExhbyBBaXJsaW5lczwvYT4NCiAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgICA8ZGl2IGFsaWduPSJsZWZ0Ij4NCiAgICAgICAgICAgICA8YSBocmVmPSJodHRwOi8vd3d3LmNzYWlyLmNvbS9lbi9vbmxpbmUvb3V0YmFnZ2FnZS8iIHRhcmdldD0iX2JsYW5rIj4NCiAgICAgICAgICAgICBDaGluYSBTb3V0aGVybiBBaXJsaW5lczwvYT48L2Rpdj4NCiAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgPC90cj4NCiAgICAgICAgIDx0cj4NCiAgICAgICAgICAgICA8dGQ+DQogICAgICAgICAgICAgPGRpdiBhbGlnbj0ibGVmdCI+DQogICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy5jaGluYS1haXJsaW5lcy5jb20vZW4vY2hlY2svY2hlY2tfYmFfZXguaHRtIiB0YXJnZXQ9Il9ibGFuayI+Q2hpbmENCiAgICAgICAgICAgICBBaXJsaW5lczwvYT48L2Rpdj4NCiAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgICA8ZGl2IGFsaWduPSJsZWZ0Ij4NCiAgICAgICAgICAgICA8YSBocmVmPSJodHRwOi8vd3d3LmNhbWJvZGlhYW5na29yYWlyLmNvbS9lbi9iZWZvcmUteW91LWZseS9iYWdnYWdlLWluZm9ybWF0aW9uL2hhbmQtYmFnZ2FnZS8iIHRhcmdldD0iX2JsYW5rIj4NCiAgICAgICAgICAgICBDYW1ib2RpYSBBbmdrb3IgQWlyPC9hPjwvZGl2Pg0KICAgICAgICAgICAgIDwvdGQ+DQogICAgICAgICAgICAgPHRkPg0KICAgICAgICAgICAgIDxkaXYgYWxpZ249ImxlZnQiPg0KICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmdhcnVkYS1pbmRvbmVzaWEuY29tL2lkL2VuL2dhcnVkYS1pbmRvbmVzaWEtZXhwZXJpZW5jZS9vbi1ncm91bmQvYmFnZ2FnZS9pbmRleC5wYWdlPyIgdGFyZ2V0PSJfYmxhbmsiPg0KICAgICAgICAgICAgIEdhcnVkYSBJbmRvbmVzaWE8L2E+PC9kaXY+DQogICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgICAgICA8dGQ+DQogICAgICAgICAgICAgPGRpdiBhbGlnbj0ibGVmdCI+DQogICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL2hrLmNlYWlyLmNvbS9tdW92Yy9tYWluL2VuX0hLL1N0YXRpY19wYWdlcy9CYWdnYWdlLmh0bWwiIHRhcmdldD0iX2JsYW5rIj4NCiAgICAgICAgICAgICBDaGluYSBFYXN0ZXJuIEFpcmxpbmVzPC9hPjwvZGl2Pg0KICAgICAgICAgICAgIDwvdGQ+DQogICAgICAgICA8L3RyPg0KICAgICAgICAgPHRyPg0KICAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgICA8ZGl2IGFsaWduPSJsZWZ0Ij4NCiAgICAgICAgICAgICA8YSBocmVmPSJodHRwOi8vd3d3LmFsaXRhbGlhLmNvbS9VU19FTi95b3VyX3RyYXZlbC9iYWdnYWdlL2luZGV4LmFzcHgiIHRhcmdldD0iX2JsYW5rIj4NCiAgICAgICAgICAgICBBbGl0YWxpYTwvYT48L2Rpdj4NCiAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgICA8ZGl2IGFsaWduPSJsZWZ0Ij4NCiAgICAgICAgICAgICA8YSBocmVmPSJodHRwOi8vd3d3LnZhc2NvLmNvbS52bi9MdWdnYWdlL1ZpZXcvMjYiIHRhcmdldD0iX2JsYW5rIj5WYXNjbzwvYT48L2Rpdj4NCiAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgICA8ZGl2IGFsaWduPSJsZWZ0Ij4NCiAgICAgICAgICAgICA8YSBocmVmPSJodHRwOi8vd3d3LnBoaWxpcHBpbmVhaXJsaW5lcy5jb20vZmxpZ2h0cy9hbGwtYWJvdXQtYmFnZ2FnZS8iIHRhcmdldD0iX2JsYW5rIj4NCiAgICAgICAgICAgICBQaGlsaXBwaW5lcyBBaXJsaW5lczwvYT48L2Rpdj4NCiAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgIDx0ZD4NCiAgICAgICAgICAgICA8ZGl2IGFsaWduPSJsZWZ0Ij4NCiAgICAgICAgICAgICA8YSBocmVmPSJodHRwOi8vd3d3LmV0aWhhZGFpcndheXMuY29tL3NpdGVzL2V0aWhhZC91ay9lbi9wbGFuYXRyaXAvUGFnZXMvQmFnZ2FnZS1pbmZvcm1hdGlvbi5hc3B4IiB0YXJnZXQ9Il9ibGFuayI+DQogICAgICAgICAgICAgRXRpaGFkIEFpcndheXM8L2E+PC9kaXY+DQogICAgICAgICAgICAgPC90ZD4NCiAgICAgICAgIDwvdHI+DQogICAgICAgICA8dHI+DQogICAgICAgICAgICAgPHRkPg0KICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cuamFsLmNvLmpwL2VuL2ludGVyL3NlcnZpY2UvYmFnLyIgdGFyZ2V0PSJfYmxhbmsiPkphcGFuIEFpcmxpbmVzPC9hPjwvdGQ+DQogICAgICAgICAgICAgPHRkPg0KICAgICAgICAgICAgICZuYnNwOzwvdGQ+DQogICAgICAgICAgICAgPHRkPg0KICAgICAgICAgICAgICZuYnNwOzwvdGQ+DQogICAgICAgICAgICAgPHRkPg0KICAgICAgICAgICAgICZuYnNwOzwvdGQ+DQogICAgICAgICA8L3RyPg0KICAgICA8L3Rib2R5Pg0KPC90YWJsZT48L2Rpdj5kZAIRDw8WAh8BBS1odHRwczovL3ZpZXRuYW0tYWlybGluZS5vcmcvaW5mby9jb250YWN0LmFzcHhkZAISDw8WAh8BBSpodHRwczovL3ZpZXRuYW0tYWlybGluZS5vcmcvaW5mby9mYXFzLmFzcHhkZAITDw8WAh8BBTRodHRwczovL3ZpZXRuYW0tYWlybGluZS5vcmcvaW5mby9wcml2YWN5X3BvbGljeS5hc3B4ZGQCFA8PFgIfAQU2aHR0cHM6Ly92aWV0bmFtLWFpcmxpbmUub3JnL2luZm8vdGVybXNfY29uZGl0aW9ucy5hc3B4ZGQCFQ8PFgIfAQUtaHR0cHM6Ly92aWV0bmFtLWFpcmxpbmUub3JnL2luZm8vYWJvdXR1cy5hc3B4ZGQCGQ8PFgQfAQUibWFpbHRvOmJvb2tpbmdAdmlldG5hbWFpcmZhcmVzLm9yZx8ABRtib29raW5nQHZpZXRuYW1haXJmYXJlcy5vcmdkZAIaDw8WAh8CZ2RkZNy08lahRHWm+SDW0cmFCdFnnLZlUTgjI/nGlLcJ/jLt">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+</div>
+                    
+
+
+
+    <img class="img-responsive" src="img/home.jpg">
+
+     
+  <div class="box col-lg-10">
+                    <h2>
+                        <span id="ContentPlaceHolder1_ucBookForm_Label1">BOOK YOUR TRIP</span></h2>
+                    <div class="form-horizontal" role="form">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-12">
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="RadioButtonList1" value="Round Trip" checked=""><span id="ContentPlaceHolder1_ucBookForm_Label2">Round Trip</span></label>
+                                </div>
+                            </div>
+                            <div class="col-sm-3 col-xs-12">
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="RadioButtonList1" value="One Way"><span id="ContentPlaceHolder1_ucBookForm_Label3">One Way</span></label>
+                                </div>
+                            </div>
+                            <div class="col-sm-5 col-xs-12">
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="RadioButtonList1" value="Multiple Destinations"><span id="ContentPlaceHolder1_ucBookForm_Label4">Multiple Destinations</span></label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="ContentPlaceHolder1_ucBookForm_Panel3" style="display: block;">
+	    
+                            <div class="form-group">
+                                <div class="col-md-5 col-xs-12">
+                                    <label class="control-label">
+                                        <span id="ContentPlaceHolder1_ucBookForm_Label5">From:</span></label>
+                                         <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_from" id="ContentPlaceHolder1_ucBookForm_drop_from" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                </div>
+                                <div class="col-xs-7">
+                                    <label class="control-label">
+                                        <span id="ContentPlaceHolder1_ucBookForm_Label6">Depart:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_from_month" id="ContentPlaceHolder1_ucBookForm_drop_from_month" class="form-control" style="font-size:Smaller;"><option value="10-2026">Oct 2026</option><option value="11-2026">Nov 2026</option><option value="12-2026">Dec 2026</option><option value="1-2027">Jan 2027</option><option value="2-2027">Feb 2027</option><option value="3-2027">Mar 2027</option><option value="4-2027">Apr 2027</option><option value="5-2027">May 2027</option><option value="6-2027">Jun 2027</option><option value="7-2027">Jul 2027</option><option value="8-2027">Aug 2027</option><option value="9-2027">Sep 2027</option></select>
+                                        <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_from_day" id="ContentPlaceHolder1_ucBookForm_drop_from_day" class="form-control" style="font-size:Smaller;"><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                                         
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-5 col-xs-12">
+                                    <label class="control-label">
+                                        <span id="ContentPlaceHolder1_ucBookForm_Label7">To: &nbsp;&nbsp;&nbsp;</span></label>
+                                          <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_to" id="ContentPlaceHolder1_ucBookForm_drop_to" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                </div>
+                                <div class="col-xs-7">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label8">Return:</span></label>
+                                      <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_to_month" id="ContentPlaceHolder1_ucBookForm_drop_to_month" class="form-control" style="font-size:Smaller;"><option value="10-2026">Oct 2026</option><option value="11-2026">Nov 2026</option><option value="12-2026">Dec 2026</option><option value="1-2027">Jan 2027</option><option value="2-2027">Feb 2027</option><option value="3-2027">Mar 2027</option><option value="4-2027">Apr 2027</option><option value="5-2027">May 2027</option><option value="6-2027">Jun 2027</option><option value="7-2027">Jul 2027</option><option value="8-2027">Aug 2027</option><option value="9-2027">Sep 2027</option></select>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_to_day" id="ContentPlaceHolder1_ucBookForm_drop_to_day" class="form-control" style="font-size:Smaller;"><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                                  
+                                </div>
+                            </div>
+                        
+</div>
+                        
+                        
+                        <div id="ContentPlaceHolder1_ucBookForm_Panel4" style="display: none;">
+	   
+                            <div class="form-group">
+                                <div class="col-md-5 col-xs-12">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label13">From:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_from_1" id="ContentPlaceHolder1_ucBookForm_drop_from_1" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                </div>
+                                <div class="col-xs-71">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label15">To:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_to_1" id="ContentPlaceHolder1_ucBookForm_drop_to_1" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+
+                                        <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_day_1" id="ContentPlaceHolder1_ucBookForm_drop_day_1" class="form-control" style="font-size:Smaller;"><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_month_1" id="ContentPlaceHolder1_ucBookForm_drop_month_1" class="form-control" style="font-size:Smaller;"><option value="10-2026">Oct 2026</option><option value="11-2026">Nov 2026</option><option value="12-2026">Dec 2026</option><option value="1-2027">Jan 2027</option><option value="2-2027">Feb 2027</option><option value="3-2027">Mar 2027</option><option value="4-2027">Apr 2027</option><option value="5-2027">May 2027</option><option value="6-2027">Jun 2027</option><option value="7-2027">Jul 2027</option><option value="8-2027">Aug 2027</option><option value="9-2027">Sep 2027</option></select>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-5 col-xs-12">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label14">From:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_from_2" id="ContentPlaceHolder1_ucBookForm_drop_from_2" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                </div>
+                                <div class="col-xs-71">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label16">To:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_to_2" id="ContentPlaceHolder1_ucBookForm_drop_to_2" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                      <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_day_2" id="ContentPlaceHolder1_ucBookForm_drop_day_2" class="form-control" style="font-size:Smaller;"><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_month_2" id="ContentPlaceHolder1_ucBookForm_drop_month_2" class="form-control" style="font-size:Smaller;"><option value="10-2026">Oct 2026</option><option value="11-2026">Nov 2026</option><option value="12-2026">Dec 2026</option><option value="1-2027">Jan 2027</option><option value="2-2027">Feb 2027</option><option value="3-2027">Mar 2027</option><option value="4-2027">Apr 2027</option><option value="5-2027">May 2027</option><option value="6-2027">Jun 2027</option><option value="7-2027">Jul 2027</option><option value="8-2027">Aug 2027</option><option value="9-2027">Sep 2027</option></select>
+                                </div>
+                              
+                            </div>
+
+                             <div class="form-group">
+                                <div class="col-md-5 col-xs-12">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label17">From:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_from_3" id="ContentPlaceHolder1_ucBookForm_drop_from_3" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                </div>
+                                <div class="col-xs-71">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label18">To:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_to_3" id="ContentPlaceHolder1_ucBookForm_drop_to_3" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                     <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_day_3" id="ContentPlaceHolder1_ucBookForm_drop_day_3" class="form-control" style="font-size:Smaller;"><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_month_3" id="ContentPlaceHolder1_ucBookForm_drop_month_3" class="form-control" style="font-size:Smaller;"><option value="10-2026">Oct 2026</option><option value="11-2026">Nov 2026</option><option value="12-2026">Dec 2026</option><option value="1-2027">Jan 2027</option><option value="2-2027">Feb 2027</option><option value="3-2027">Mar 2027</option><option value="4-2027">Apr 2027</option><option value="5-2027">May 2027</option><option value="6-2027">Jun 2027</option><option value="7-2027">Jul 2027</option><option value="8-2027">Aug 2027</option><option value="9-2027">Sep 2027</option></select>
+                                </div>
+                               
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-5 col-xs-12">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label19">From:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_from_4" id="ContentPlaceHolder1_ucBookForm_drop_from_4" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                </div>
+                                <div class="col-xs-71">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label20">To:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_to_4" id="ContentPlaceHolder1_ucBookForm_drop_to_4" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                      <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_day_4" id="ContentPlaceHolder1_ucBookForm_drop_day_4" class="form-control" style="font-size:Smaller;"><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_month_4" id="ContentPlaceHolder1_ucBookForm_drop_month_4" class="form-control" style="font-size:Smaller;"><option value="10-2026">Oct 2026</option><option value="11-2026">Nov 2026</option><option value="12-2026">Dec 2026</option><option value="1-2027">Jan 2027</option><option value="2-2027">Feb 2027</option><option value="3-2027">Mar 2027</option><option value="4-2027">Apr 2027</option><option value="5-2027">May 2027</option><option value="6-2027">Jun 2027</option><option value="7-2027">Jul 2027</option><option value="8-2027">Aug 2027</option><option value="9-2027">Sep 2027</option></select>
+                                </div>
+                             
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-5 col-xs-12">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label21">From:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_from_5" id="ContentPlaceHolder1_ucBookForm_drop_from_5" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                </div>
+                                <div class="col-xs-71">
+                                    <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label22">To:</span></label>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_to_5" id="ContentPlaceHolder1_ucBookForm_drop_to_5" class="form-control" style="font-size:Smaller;width:120px;"><option value="0">Select</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Vietnam</option><option value="1">Ho Chi Minh City</option><option value="3">Ha Noi</option><option value="20">Can Tho City</option><option value="23">Da Nang City</option><option value="24">Da Lat</option><option value="27">Hai Phong City</option><option value="30">Hue</option><option value="32">Nha Trang City</option><option value="33">Phu Quoc</option><option value="45">Quy Nhon</option><option value="46">Buon Ma Thuot</option><option value="47">Pleiku</option><option value="49">Dien Bien Phu</option><option value="230">Thanh Hoa</option><option value="231">Ca Mau</option><option value="233">Con Dao</option><option value="234">Dong Hoi</option><option value="237">Rach Gia</option><option value="238">Tam Ky</option><option value="239">Tuy Hoa</option><option value="255">Vinh</option><option value="319">Ha Long</option><option value="320">Ninh Binh</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Australia</option><option value="87">Melbourne</option><option value="88">Sydney</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Indochina</option><option value="65">Phnom Penh</option><option value="67">Luang Prabang</option><option value="121">Vientiane</option><option value="253">Siem Reap</option><option value="302">Brunei</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*South East Asia</option><option value="78">Bangkok</option><option value="81">Singapore</option><option value="106">Kuala Lumpur</option><option value="108">Manila</option><option value="117">Yangon</option><option value="165">Jakarta</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*North East Asia</option><option value="68">Beijing</option><option value="79">Hong Kong</option><option value="84">Kaohsiung</option><option value="94">Tokyo</option><option value="95">Osaka</option><option value="96">Fukuoka</option><option value="97">Nagoya</option><option value="100">Seoul</option><option value="120">Taipei</option><option value="143">Guangzhou</option><option value="227">Shanghai</option><option value="246">Kunming</option><option value="304">Tokyo Haneda</option><option value="309">Busan</option><option value="310">Chengdu</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*Europe</option><option value="92">Frankfurt</option><option value="110">Moscow</option><option value="113">London</option><option value="156">Paris</option><option value="167">Rome</option><option value="182">Amsterdam</option><option value="259">Prague</option><option value="303">Madrid</option><option value="305">Marseille</option><option value="306">Montpellier</option><option value="307">Nice</option><option value="308">Toulouse</option><option value="314">Barcelona</option><option value="315">Geneva</option><option value="316">Lyon</option><option value="317">Vienne</option><option value="318">Zurich</option><option value="10000" class="d_vietnam" disabled="disabled" optgroup="optgroup">*United States of America</option><option value="115">San Francisco</option><option value="220">Washington Dc</option><option value="232">Chicago Il</option><option value="235">Atlanta Hartsfield</option><option value="236">Austin Texas</option><option value="240">Boston Logan</option><option value="242">Dallas</option><option value="243">Denver</option><option value="244">Honolulu</option><option value="247">Los Angeles</option><option value="248">Miami</option><option value="249">Minneapolis</option><option value="250">Philadelphia</option><option value="251">Portland</option><option value="252">Seattle</option><option value="254">St Louis</option><option value="311">New York</option></select>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_day_5" id="ContentPlaceHolder1_ucBookForm_drop_day_5" class="form-control" style="font-size:Smaller;"><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_month_5" id="ContentPlaceHolder1_ucBookForm_drop_month_5" class="form-control" style="font-size:Smaller;"><option value="10-2026">Oct 2026</option><option value="11-2026">Nov 2026</option><option value="12-2026">Dec 2026</option><option value="1-2027">Jan 2027</option><option value="2-2027">Feb 2027</option><option value="3-2027">Mar 2027</option><option value="4-2027">Apr 2027</option><option value="5-2027">May 2027</option><option value="6-2027">Jun 2027</option><option value="7-2027">Jul 2027</option><option value="8-2027">Aug 2027</option><option value="9-2027">Sep 2027</option></select>
+                                </div>
+                             
+                            </div>
+                        
+</div>
+
+
+
+
+                        <div class="row">
+                            <div class="col-xs-3 col-sm-4">
+                                <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label9">Adults:</span>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_adults" id="ContentPlaceHolder1_ucBookForm_drop_adults" class="form-control">
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+
+</select>
+                                </label>
+                            </div>
+                            <div class="col-xs-3 col-sm-4">
+                                <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label10">Children(2-11 years):</span>
+                                    <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_child" id="ContentPlaceHolder1_ucBookForm_drop_child" class="form-control">
+	<option value="0">0</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+
+</select>
+                                </label>
+                            </div>
+                            <div class="col-xs-3 col-sm-4">
+                                <label class="control-label"><span id="ContentPlaceHolder1_ucBookForm_Label11">Infants(&lt;2 years old):</span>
+                                <select name="ctl00$ContentPlaceHolder1$ucBookForm$drop_infant" id="ContentPlaceHolder1_ucBookForm_drop_infant">
+	<option value="0">0</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+
+</select>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-4 ">
+                                <hr>
+                                <a href="" id="result"></a>
+                                <button type="button" id="cmd_find" name="cmd_find" class="btn btn-primary white-space ">
+                                    <span id="ContentPlaceHolder1_ucBookForm_Label12">Find Flights</span></button>
+                                       <input type="hidden" name="ctl00$ContentPlaceHolder1$ucBookForm$txt_purchase" id="ContentPlaceHolder1_ucBookForm_txt_purchase">
+                            </div>
+                        </div>
+                    </div>
+                    <!--   End box-->
+
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <span id="ContentPlaceHolder1_ucBookForm_lab_viewflight"></span>
+
+                    
+                    <div id="ContentPlaceHolder1_ucBookForm_Panel_button" style="display: none;">
+	  
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-4 ">
+                                <hr>
+                              
+                               <input type="submit" name="ctl00$ContentPlaceHolder1$ucBookForm$cmd_next" value="Continue" onclick="document.getElementById('loading').style.display='block';" id="ContentPlaceHolder1_ucBookForm_cmd_next" class="btn btn-primary white-space ">
+                               <input type="hidden" name="ctl00$ContentPlaceHolder1$ucBookForm$txt_ip" id="ContentPlaceHolder1_ucBookForm_txt_ip" value="171.246.70.155">
+
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$ucBookForm$dayFrom" id="ContentPlaceHolder1_ucBookForm_dayFrom">
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$ucBookForm$dayTo" id="ContentPlaceHolder1_ucBookForm_dayTo">
+                                  <input type="hidden" name="ctl00$ContentPlaceHolder1$ucBookForm$day1" id="ContentPlaceHolder1_ucBookForm_day1">
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$ucBookForm$day2" id="ContentPlaceHolder1_ucBookForm_day2">
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$ucBookForm$day3" id="ContentPlaceHolder1_ucBookForm_day3">
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$ucBookForm$day4" id="ContentPlaceHolder1_ucBookForm_day4">
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$ucBookForm$day5" id="ContentPlaceHolder1_ucBookForm_day5">
+                            </div>
+                        </div>
+                     
+</div>
+
+                    </div>
+                </div>
+
+<div class="loading-spin">
+                    <i class="fa fa-5x fa-spinner fa-pulse middle" id="loading" style="display: none;"></i>
+                </div> 
+
+
+<script type="text/javascript">
+
+                    $(document).ready(function () {
+
+                        var root = location.protocol + '//' + location.host;
+
+                        //if (root.indexOf("localhost") !== -1) {
+                        //    root = root + '/airlines';
+                        //}
+
+                        showLoading()
+
+                        $("#ContentPlaceHolder1_ucBookForm_Panel_button").css("display", "none");
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from").loadcity();
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to").loadcity();
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_1").loadcity();
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_2").loadcity();
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_3").loadcity();
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_4").loadcity();
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_5").loadcity();
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to_1").loadcity();
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to_2").loadcity();
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to_3").loadcity();
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to_4").loadcity();
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to_5").loadcity();
+
+
+                        loadday($("#ContentPlaceHolder1_ucBookForm_drop_from_day"), $("#ContentPlaceHolder1_ucBookForm_drop_to_day"), $("#ContentPlaceHolder1_ucBookForm_drop_day_1"), $("#ContentPlaceHolder1_ucBookForm_drop_day_2"), $("#ContentPlaceHolder1_ucBookForm_drop_day_3"), $("#ContentPlaceHolder1_ucBookForm_drop_day_4"), $("#ContentPlaceHolder1_ucBookForm_drop_day_5"));
+                        loadmonth($("#ContentPlaceHolder1_ucBookForm_drop_from_month"), $("#ContentPlaceHolder1_ucBookForm_drop_to_month"), $("#ContentPlaceHolder1_ucBookForm_drop_month_1"), $("#ContentPlaceHolder1_ucBookForm_drop_month_2"), $("#ContentPlaceHolder1_ucBookForm_drop_month_3"), $("#ContentPlaceHolder1_ucBookForm_drop_month_4"), $("#ContentPlaceHolder1_ucBookForm_drop_month_5"));
+
+                        check_radio($("input[name='RadioButtonList1']:checked").val());
+                        hideLoading();
+
+                        function loadday(from_day, to_day, drop_day_1, drop_day_2, drop_day_3, drop_day_4, drop_day_5) {
+                            from_day.html("");
+                            to_day.html("");
+                            drop_day_1.html("");
+                            drop_day_2.html("");
+                            drop_day_3.html("");
+                            drop_day_4.html("");
+                            drop_day_5.html("");
+
+                            var d = addDays(new Date(),0);
+                            var monthnow = d.getMonth();
+                            monthnow = monthnow + 1;
+
+                            var year = d.getFullYear();
+
+                            var songaytrongthang = daysInMonth(monthnow, year)
+
+                            var batdau = d.getDate();
+
+                            for (i = batdau; i <= songaytrongthang; i++) {
+                                from_day.append($("<option></option>").val(i).text(i));
+                                to_day.append($("<option></option>").val(i).text(i));
+                                drop_day_1.append($("<option></option>").val(i).text(i));
+                                drop_day_2.append($("<option></option>").val(i).text(i));
+                                drop_day_3.append($("<option></option>").val(i).text(i));
+                                drop_day_4.append($("<option></option>").val(i).text(i));
+                                drop_day_5.append($("<option></option>").val(i).text(i));
+                            }
+
+                        }
+
+                        function loadmonth(from_month, to_month, drop_month_1, drop_month_2, drop_month_3, drop_month_4, drop_month_5) {
+                            from_month.html("");
+                            to_month.html("");
+                            drop_month_1.html("");
+                            drop_month_2.html("");
+                            drop_month_3.html("");
+                            drop_month_4.html("");
+                            drop_month_5.html("");
+
+                            var someDate = new Date();
+                            someDate.setDate(15);
+                            var months = new Array(12);
+                            months[0] = "Jan";
+                            months[1] = "Feb";
+                            months[2] = "Mar";
+                            months[3] = "Apr";
+                            months[4] = "May";
+                            months[5] = "Jun";
+                            months[6] = "Jul";
+                            months[7] = "Aug";
+                            months[8] = "Sep";
+                            months[9] = "Oct";
+                            months[10] = "Nov";
+                            months[11] = "Dec";
+
+                            someDate.setMonth(someDate.getMonth() - 1);
+
+                            for (i = 0; i <= 11; i++) {
+                                someDate.setMonth(someDate.getMonth() + 1);
+                                var monthnow = someDate.getMonth() + 1;
+
+                                var year = someDate.getFullYear();
+                                var value = monthnow + '-' + year;
+                                var text = months[monthnow - 1] + ' ' + year;
+
+                                from_month.append($("<option></option>").val(value).html(text));
+                                to_month.append($("<option></option>").val(value).html(text));
+                                drop_month_1.append($("<option></option>").val(value).html(text));
+                                drop_month_2.append($("<option></option>").val(value).html(text));
+                                drop_month_3.append($("<option></option>").val(value).html(text));
+                                drop_month_4.append($("<option></option>").val(value).html(text));
+                                drop_month_5.append($("<option></option>").val(value).html(text));
+                            }
+
+
+                        }
+
+                        function showLoading() {
+                            $("#loading").show();
+                        }
+
+                        function hideLoading() {
+                            $("#loading").hide();
+                        }
+
+                     
+                        
+                        
+                        
+
+                        $("#cmd_find").click(function () {
+                            getSchedule("",0);
+                        });
+
+                        function addDays(date, days) {
+                            var result = new Date(date);
+                            result.setDate(result.getDate() + days);
+                            return result;
+                        }
+
+                        function getSchedule(type,addDay) {
+                            
+                            showLoading();
+
+                            $("#ContentPlaceHolder1_ucBookForm_Panel_button").css("display", "none");
+
+                            adult = $('#ContentPlaceHolder1_ucBookForm_drop_adults option:selected').attr("value");
+                            child = $('#ContentPlaceHolder1_ucBookForm_drop_child option:selected').attr("value");
+                            infant = $('#ContentPlaceHolder1_ucBookForm_drop_infant option:selected').attr("value");
+                            radio = $("input[name='RadioButtonList1']:checked").val();
+                            ip = $("#ContentPlaceHolder1_ucBookForm_txt_ip").val();
+                            drop_from = $('#ContentPlaceHolder1_ucBookForm_drop_from option:selected').attr("value");
+                            drop_to = $('#ContentPlaceHolder1_ucBookForm_drop_to option:selected').attr("value");
+                            drop_from_day = $('#ContentPlaceHolder1_ucBookForm_drop_from_day option:selected').attr("value");
+                            drop_to_day = $('#ContentPlaceHolder1_ucBookForm_drop_to_day option:selected').attr("value");
+                            drop_from_month = $('#ContentPlaceHolder1_ucBookForm_drop_from_month option:selected').attr("value");
+                            drop_to_month = $('#ContentPlaceHolder1_ucBookForm_drop_to_month option:selected').attr("value");
+
+                            drop_from_1 = $('#ContentPlaceHolder1_ucBookForm_drop_from_1 option:selected').attr("value");
+                            drop_to_1 = $('#ContentPlaceHolder1_ucBookForm_drop_to_1 option:selected').attr("value");
+                            drop_day_1 = $('#ContentPlaceHolder1_ucBookForm_drop_day_1 option:selected').attr("value");
+                            drop_month_1 = $('#ContentPlaceHolder1_ucBookForm_drop_month_1 option:selected').attr("value");
+
+                            drop_from_2 = $('#ContentPlaceHolder1_ucBookForm_drop_from_2 option:selected').attr("value");
+                            drop_to_2 = $('#ContentPlaceHolder1_ucBookForm_drop_to_2 option:selected').attr("value");
+                            drop_day_2 = $('#ContentPlaceHolder1_ucBookForm_drop_day_2 option:selected').attr("value");
+                            drop_month_2 = $('#ContentPlaceHolder1_ucBookForm_drop_month_2 option:selected').attr("value");
+
+                            drop_from_3 = $('#ContentPlaceHolder1_ucBookForm_drop_from_3 option:selected').attr("value");
+                            drop_to_3 = $('#ContentPlaceHolder1_ucBookForm_drop_to_3 option:selected').attr("value");
+                            drop_day_3 = $('#ContentPlaceHolder1_ucBookForm_drop_day_3 option:selected').attr("value");
+                            drop_month_3 = $('#ContentPlaceHolder1_ucBookForm_drop_month_3 option:selected').attr("value");
+
+                            drop_from_4 = $('#ContentPlaceHolder1_ucBookForm_drop_from_4 option:selected').attr("value");
+                            drop_to_4 = $('#ContentPlaceHolder1_ucBookForm_drop_to_4 option:selected').attr("value");
+                            drop_day_4 = $('#ContentPlaceHolder1_ucBookForm_drop_day_4 option:selected').attr("value");
+                            drop_month_4 = $('#ContentPlaceHolder1_ucBookForm_drop_month_4 option:selected').attr("value");
+
+                            drop_from_5 = $('#ContentPlaceHolder1_ucBookForm_drop_from_5 option:selected').attr("value");
+                            drop_to_5 = $('#ContentPlaceHolder1_ucBookForm_drop_to_5 option:selected').attr("value");
+                            drop_day_5 = $('#ContentPlaceHolder1_ucBookForm_drop_day_5 option:selected').attr("value");
+                            drop_month_5 = $('#ContentPlaceHolder1_ucBookForm_drop_month_5 option:selected').attr("value");
+
+
+                            check = check_required(radio, drop_from, drop_to, drop_from_1, drop_to_1, drop_from_day, drop_from_month, drop_to_day, drop_to_month);
+                            if (check == false) {
+                                hideLoading();
+                                return false;
+                            }
+
+                            if (type=="") {
+                                $("#ContentPlaceHolder1_ucBookForm_dayFrom").val(drop_from_month.replace("-", "/" + drop_from_day + "/"));
+                                $("#ContentPlaceHolder1_ucBookForm_dayTo").val(drop_to_month.replace("-", "/" + drop_to_day + "/"));
+                                $("#ContentPlaceHolder1_ucBookForm_day1").val(drop_month_1.replace("-", "/" + drop_day_1 + "/"));
+                                $("#ContentPlaceHolder1_ucBookForm_day2").val(drop_month_2.replace("-", "/" + drop_day_2 + "/"));
+                                $("#ContentPlaceHolder1_ucBookForm_day3").val(drop_month_3.replace("-", "/" + drop_day_3 + "/"));
+                                $("#ContentPlaceHolder1_ucBookForm_day4").val(drop_month_4.replace("-", "/" + drop_day_4 + "/"));
+                                $("#ContentPlaceHolder1_ucBookForm_day5").val(drop_month_5.replace("-", "/" + drop_day_5 + "/"));
+                            }
+
+                            if (type == "s01") {
+                                var nextDay = addDays(new Date($("#ContentPlaceHolder1_ucBookForm_dayFrom").val()), addDay);
+                                $("#ContentPlaceHolder1_ucBookForm_dayFrom").val(nextDay);
+                            }
+                             if (type == "s02") {
+                                var nextDay = addDays(new Date($("#ContentPlaceHolder1_ucBookForm_dayTo").val()), addDay);
+                                $("#ContentPlaceHolder1_ucBookForm_dayTo").val(nextDay);
+                             }
+                             if (type == "s1") {
+                                var nextDay = addDays(new Date($("#ContentPlaceHolder1_ucBookForm_day1").val()), addDay);
+                                $("#ContentPlaceHolder1_ucBookForm_day1").val(nextDay);
+                             }
+                            if (type == "s2") {
+                                var nextDay = addDays(new Date($("#ContentPlaceHolder1_ucBookForm_day2").val()), addDay);
+                                $("#ContentPlaceHolder1_ucBookForm_day2").val(nextDay);
+                            }
+                            if (type == "s3") {
+                                var nextDay = addDays(new Date($("#ContentPlaceHolder1_ucBookForm_day3").val()), addDay);
+                                $("#ContentPlaceHolder1_ucBookForm_day3").val(nextDay);
+                            }
+                            if (type == "s4") {
+                                var nextDay = addDays(new Date($("#ContentPlaceHolder1_ucBookForm_day4").val()), addDay);
+                                $("#ContentPlaceHolder1_ucBookForm_day4").val(nextDay);
+                            }
+                            if (type == "s5") {
+                                var nextDay = addDays(new Date($("#ContentPlaceHolder1_ucBookForm_day5").val()), addDay);
+                                $("#ContentPlaceHolder1_ucBookForm_day5").val(nextDay);
+                            }
+                           
+                            var dayFrom = new Date($("#ContentPlaceHolder1_ucBookForm_dayFrom").val());
+                            drop_from_day = dayFrom.getDate();
+                            drop_from_month = dayFrom.getMonth() + 1 + '-' + dayFrom.getFullYear();
+
+                             var dayTo = new Date($("#ContentPlaceHolder1_ucBookForm_dayTo").val());
+                            drop_to_day = dayTo.getDate();
+                            drop_to_month = dayTo.getMonth() + 1 + '-' + dayTo.getFullYear();
+
+                             var day1 = new Date($("#ContentPlaceHolder1_ucBookForm_day1").val());
+                            drop_day_1 = day1.getDate();
+                            drop_month_1 = day1.getMonth() + 1 + '-' + day1.getFullYear();
+
+                             var day2 = new Date($("#ContentPlaceHolder1_ucBookForm_day2").val());
+                            drop_day_2 = day2.getDate();
+                            drop_month_2 = day2.getMonth() + 1 + '-' + day2.getFullYear();
+
+                             var day3 = new Date($("#ContentPlaceHolder1_ucBookForm_day3").val());
+                            drop_day_3 = day3.getDate();
+                            drop_month_3 = day3.getMonth() + 1 + '-' + day3.getFullYear();
+
+                             var day4 = new Date($("#ContentPlaceHolder1_ucBookForm_day4").val());
+                            drop_day_4 = day4.getDate();
+                            drop_month_4 = day4.getMonth() + 1 + '-' + day4.getFullYear();
+
+                             var day5 = new Date($("#ContentPlaceHolder1_ucBookForm_day5").val());
+                            drop_day_5 = day5.getDate();
+                            drop_month_5 = day5.getMonth() + 1 + '-' + day5.getFullYear();
+
+                            chuoi_str = root + '/js/loadflight.ashx?adult=' + adult + '&child=' + child + '&infant=' + infant + '&ip=' + ip + '&drop_from=' + drop_from + '&drop_to=' + drop_to + '&drop_from_day=' + drop_from_day + '&drop_from_month=' + drop_from_month + '&drop_to_month=' + drop_to_month + '&drop_to_day=' + drop_to_day + '&radio=' + radio
+                            chuoi_str += '&drop_from_1=' + drop_from_1 + '&drop_to_1=' + drop_to_1 + '&drop_day_1=' + drop_day_1 + '&drop_month_1=' + drop_month_1
+                            chuoi_str += '&drop_from_2=' + drop_from_2 + '&drop_to_2=' + drop_to_2 + '&drop_day_2=' + drop_day_2 + '&drop_month_2=' + drop_month_2
+                            chuoi_str += '&drop_from_3=' + drop_from_3 + '&drop_to_3=' + drop_to_3 + '&drop_day_3=' + drop_day_3 + '&drop_month_3=' + drop_month_3
+                            chuoi_str += '&drop_from_4=' + drop_from_4 + '&drop_to_4=' + drop_to_4 + '&drop_day_4=' + drop_day_4 + '&drop_month_4=' + drop_month_4
+                            chuoi_str += '&drop_from_5=' + drop_from_5 + '&drop_to_5=' + drop_to_5 + '&drop_day_5=' + drop_day_5 + '&drop_month_5=' + drop_month_5
+
+                            //alert(chuoi_str);
+                            drop_from_text = $('#ContentPlaceHolder1_ucBookForm_drop_from option:selected').text();
+                            drop_to_text = $('#ContentPlaceHolder1_ucBookForm_drop_to option:selected').text();
+                   
+                            fromText1 = $('#ContentPlaceHolder1_ucBookForm_drop_from_1 option:selected').text();
+                            toText1 = $('#ContentPlaceHolder1_ucBookForm_drop_to_1 option:selected').text();
+                            fromText2 = $('#ContentPlaceHolder1_ucBookForm_drop_from_2 option:selected').text();
+                            toText2 = $('#ContentPlaceHolder1_ucBookForm_drop_to_2 option:selected').text();
+                            fromText3 = $('#ContentPlaceHolder1_ucBookForm_drop_from_3 option:selected').text();
+                            toText3 = $('#ContentPlaceHolder1_ucBookForm_drop_to_3 option:selected').text();
+                            fromText4 = $('#ContentPlaceHolder1_ucBookForm_drop_from_4 option:selected').text();
+                            toText4 = $('#ContentPlaceHolder1_ucBookForm_drop_to_4 option:selected').text();
+                            fromText5 = $('#ContentPlaceHolder1_ucBookForm_drop_from_5 option:selected').text();
+                            toText5 = $('#ContentPlaceHolder1_ucBookForm_drop_to_5 option:selected').text();
+                           
+                            if (radio == 'One Way') {
+                                link = '#' + radio + '-' + drop_from_text + '-' + drop_to_text + '-' + drop_from_day + '-' + drop_from_month 
+                            }
+                            if (radio == 'Round Trip') {
+                                link = '#' + radio + "-" + drop_from_text + '-' + drop_to_text + '-' + drop_from_day + '-' + drop_from_month
+                            }
+                            if (radio == 'Multiple Destinations') {
+                                link = '#' + radio + '-(' + fromText1 + ',' + toText1 + ',' + drop_day_1 + ',' + drop_month_1 + ')';
+                                if ((fromText2 != 'Select') && (toText2 != 'Select')) {
+                                    link += '-(' + fromText2 + ', ' + toText2 + ', ' + drop_day_2 + ', ' + drop_month_2 + ')';
+                                }
+                                if ((fromText3 != 'Select') && (toText3 != 'Select')) {
+                                    link += '-(' + fromText3 + ', ' + toText3 + ', ' + drop_day_3 + ', ' + drop_month_3 + ')';
+                                }
+                                if ((fromText4 != 'Select') && (toText4 != 'Select')) {
+                                    link += '-(' + fromText4 + ',' + toText4 + ',' + drop_day_4 + ',' + drop_month_4 + ')';
+                                }
+                                if ((fromText5 != 'Select') && (toText5 != 'Select')) {
+                                    link += '-(' + fromText5 + ',' + toText5 + ',' + drop_day_5 + ',' + drop_month_5 + ')';
+                                }
+                            }
+
+                            $.cookie('url_ref',$.cookie('url_ref') + '<br/>js/:' + link);
+                          
+                            window.location.replace(link);
+
+                            $('html, body').animate({
+                                scrollTop: $("#result").offset().top
+                            }, 2000);
+
+
+                            $.getJSON(chuoi_str, function (cities) {
+                                $.each(cities, function () {
+                                    $("#ContentPlaceHolder1_ucBookForm_lab_viewflight").html(this['str']);
+                                    $("#ContentPlaceHolder1_txt_purchase").val(this['purchase']);
+
+                                    if ((this['str'].indexOf("radio") !== -1) && (this['str'].indexOf("No flights") == -1)) {
+                                        $("#ContentPlaceHolder1_ucBookForm_Panel_button").css("display", "block");
+                                    }
+
+                                    hideLoading();
+                                });
+                            });
+                        }
+
+                     
+
+
+                        $("#ContentPlaceHolder1_ucBookForm_Panel3").show();
+                        $("#ContentPlaceHolder1_ucBookForm_Panel4").hide();
+
+
+
+                        $("input[name='RadioButtonList1']").change(function () {
+                            check_radio($("input[name='RadioButtonList1']:checked").val())
+                        });
+
+
+
+                        function check_radio(k) {
+                            if (k == 'One Way') {
+                                //                                $("#ContentPlaceHolder1_ucBookForm_Panel3").css("display", "block");
+                                //                                $("#ContentPlaceHolder1_ucBookForm_Panel4").css("display", "none");
+                                $("#ContentPlaceHolder1_ucBookForm_Panel3").show();
+                                $("#ContentPlaceHolder1_ucBookForm_Panel4").hide();
+
+                                $("#ContentPlaceHolder1_ucBookForm_Label8").hide();
+
+                                $("#ContentPlaceHolder1_ucBookForm_drop_to_day").hide();
+                                $("#ContentPlaceHolder1_ucBookForm_drop_to_month").hide();
+                            }
+                            if (k == 'Round Trip') {
+                                $("#ContentPlaceHolder1_ucBookForm_Panel3").css("display", "block");
+                                $("#ContentPlaceHolder1_ucBookForm_Panel4").css("display", "none");
+
+                                $("#ContentPlaceHolder1_ucBookForm_Label8").show();
+                                $("#ContentPlaceHolder1_ucBookForm_drop_to_day").show();
+                                $("#ContentPlaceHolder1_ucBookForm_drop_to_month").show();
+
+                            }
+                            if (k == 'Multiple Destinations') {
+                                //                                $("#ContentPlaceHolder1_ucBookForm_Panel3").css("display", "none");
+                                //                                $("#ContentPlaceHolder1_ucBookForm_Panel4").css("display", "block");
+                                $("#ContentPlaceHolder1_ucBookForm_Panel3").hide();
+                                $("#ContentPlaceHolder1_ucBookForm_Panel4").show();
+
+                            }
+                        }
+
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from").change(function () {
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to").loadcity_from($("#ContentPlaceHolder1_ucBookForm_drop_from").val())
+                        });
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_1").change(function () {
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_1").loadcity_from($("#ContentPlaceHolder1_ucBookForm_drop_from_1").val())
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_2").change(function () {
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_2").loadcity_from($("#ContentPlaceHolder1_ucBookForm_drop_from_2").val())
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_3").change(function () {
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_3").loadcity_from($("#ContentPlaceHolder1_ucBookForm_drop_from_3").val())
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_4").change(function () {
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_4").loadcity_from($("#ContentPlaceHolder1_ucBookForm_drop_from_4").val())
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_5").change(function () {
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_5").loadcity_from($("#ContentPlaceHolder1_ucBookForm_drop_from_5").val())
+                        });
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to_1").change(function () {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_to_1").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_from_2").val(SelectedVal);
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_2").loadcity_from($("#ContentPlaceHolder1_ucBookForm_drop_from_2").val())
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to_2").change(function () {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_to_2").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_from_3").val(SelectedVal);
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_3").loadcity_from($("#ContentPlaceHolder1_ucBookForm_drop_from_3").val())
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to_3").change(function () {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_to_3").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_from_4").val(SelectedVal);
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_4").loadcity_from($("#ContentPlaceHolder1_ucBookForm_drop_from_4").val())
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to_4").change(function () {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_to_4").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_from_5").val(SelectedVal);
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_5").loadcity_from($("#ContentPlaceHolder1_ucBookForm_drop_from_5").val())
+                        });
+
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_day").change(function () {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_from_day").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_day").val(SelectedVal);
+                        });
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_from_month").change(function () {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_from_month").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_month").val(SelectedVal);
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_day").chinhdaytheomonth($("#ContentPlaceHolder1_ucBookForm_drop_from_month option:selected").attr("value"));
+                            $("#ContentPlaceHolder1_ucBookForm_drop_from_day").chinhdaytheomonth($("#ContentPlaceHolder1_ucBookForm_drop_from_month option:selected").attr("value"));
+                        });
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_to_month").change(function () {
+                            $("#ContentPlaceHolder1_ucBookForm_drop_to_day").chinhdaytheomonth($("#ContentPlaceHolder1_ucBookForm_drop_to_month option:selected").attr("value"));
+                        });
+
+
+                        function update_day_1() {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_day_1").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_day_2").val(SelectedVal);
+                        }
+                        function update_day_2() {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_day_2").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_day_3").val(SelectedVal);
+                        }
+                        function update_day_3() {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_day_3").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_day_4").val(SelectedVal);
+                        }
+                        function update_day_4() {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_day_4").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_day_5").val(SelectedVal);
+                        }
+
+                        function update_month_1() {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_month_1").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_month_2").val(SelectedVal);
+                            $("#ContentPlaceHolder1_ucBookForm_drop_day_1").chinhdaytheomonth($("#ContentPlaceHolder1_ucBookForm_drop_month_1 option:selected").attr("value"));
+                        }
+                        function update_month_2() {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_month_2").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_month_3").val(SelectedVal);
+                            $("#ContentPlaceHolder1_ucBookForm_drop_day_2").chinhdaytheomonth($("#ContentPlaceHolder1_ucBookForm_drop_month_2 option:selected").attr("value"));
+                        }
+                        function update_month_3() {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_month_3").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_month_4").val(SelectedVal);
+                            $("#ContentPlaceHolder1_ucBookForm_drop_day_3").chinhdaytheomonth($("#ContentPlaceHolder1_ucBookForm_drop_month_3 option:selected").attr("value"));
+                        }
+                        function update_month_4() {
+                            var SelectedVal = $("#ContentPlaceHolder1_ucBookForm_drop_month_4").val();
+                            $("#ContentPlaceHolder1_ucBookForm_drop_month_5").val(SelectedVal);
+                            $("#ContentPlaceHolder1_ucBookForm_drop_day_4").chinhdaytheomonth($("#ContentPlaceHolder1_ucBookForm_drop_month_4 option:selected").attr("value"));
+                        }
+                        function update_month_5() {
+                            $("#ContentPlaceHolder1_ucBookForm_drop_day_5").chinhdaytheomonth($("#ContentPlaceHolder1_ucBookForm_drop_month_5 option:selected").attr("value"));
+                        }
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_day_1").change(function () {
+                            update_day_1();
+                            update_day_2();
+                            update_day_3();
+                            update_day_4();
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_month_1").change(function () {
+                            update_month_1();
+                            update_month_2();
+                            update_month_3();
+                            update_month_4();
+                        });
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_day_2").change(function () {
+                            update_day_2();
+                            update_day_3();
+                            update_day_4();
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_month_2").change(function () {
+                            update_month_2();
+                            update_month_3();
+                            update_month_4();
+                        });
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_day_3").change(function () {
+                            update_day_3();
+                            update_day_4();
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_month_3").change(function () {
+                            update_month_3();
+                            update_month_4();
+                        });
+
+                        $("#ContentPlaceHolder1_ucBookForm_drop_day_4").change(function () {
+                            update_day_4();
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_month_4").change(function () {
+                            update_month_4();
+                        });
+                        $("#ContentPlaceHolder1_ucBookForm_drop_month_5").change(function () {
+                            update_month_5();
+                        });
+                        var currentYear = (new Date).getFullYear();
+                        var Month = (new Date).getMonth();
+                        var day = (new Date).getDate();
+
+                        year_for_child = currentYear - 12
+                        year_for_infant = currentYear - 2
+
+
+                    });
+    </script>
+
+
+    <div class="row">
+        <div class="col-xs-12">
+            <h3 class="light-blue">NEWS</h3>
+
+            <span id="ContentPlaceHolder1_lab_news_detail"><div><b>Vietnam Airlines moves its operation to Heathrow Airport</b></div><div>As released by Vietnam News Agency in London, the representative office of Vietnam Airlines in the United Kingdom announces that the flag carrier of Vietnam – Vietnam Airlines will have the first flights operated from Heathrow Airport from 31 March, 2015. </div>... <a href="https://vietnam-airline.org/news/20/vietnam-airlines-moves-its-operation-to-heathrow-airport">read more</a><br><br><div><b>New announcements on tightening check-in deadline</b></div><div>From December 2014, Vietnam Airlines tightens check-in deadline for all domestic
+and international flights. Accordingly, the minimum required check-in time is 40
+minutes, instead of&nbsp;30 minutes as before. In regard to international flights,
+the closing time is 50 minutes ahead of &nbsp;departure. All boarding gates are
+currently shuttered 10 minutes prior to departure time.</div>... <a href="https://vietnam-airline.org/news/21/new-announcements-on-tightening-check-in-deadline">read more</a><br><br><div><b>Did you know?</b></div><div>On Vietnam Airlines codeshare flights operated by other airlines the optional 
+            services and fees may be provided by Operating carriers with different fees from 
+            VN. Please visit the Operating Carriers’website for details.</div><div><table border="1" width="86%">
+     <tbody>
+         <tr>
+             <td scope="col" width="24%">
+             <div align="left">
+             <a href="http://www.airfrance.us/US/en/local/page_flottante/hp/us_dot_regulation.htm" target="_blank">
+             Air France</a></div>
+             </td>
+             <td scope="col" width="26%">
+             <div align="left">
+             <a href="http://www.klm.com/travel/gb_en/prepare_for_travel/baggage/all_about/index.htm" target="_blank">
+             Royal Dutch Airlines</a></div>
+             </td>
+             <td scope="col" width="26%">
+             <div align="left">
+             <a href="http://www.cathaypacific.com/cx/en_VN/optional-services-and-fees.html" target="_blank">
+             Cathay Pacific</a></div>
+             </td>
+             <td scope="col" width="24%">
+             <div align="left">
+             <a href="https://www.koreanair.com/global/en/traveling/baggage-services.html" target="_blank">
+             Korean Air</a></div>
+             </td>
+         </tr>
+         <tr>
+             <td>
+             <div align="left">
+             <a href="http://www.delta.com/traveling_checkin/baggage/index.jsp" target="_blank">Delta
+             Airlines </a>
+             </div>
+             </td>
+             <td>
+             <div align="left">
+             <a href="http://am.csa.cz/en/portal/info-and-services/travel-information/baggage2.htm" target="_blank">
+             Czech Airlines</a></div>
+             </td>
+             <td>
+             <div align="left">
+             <a href="http://www.laoairlines.com/?contentkey=pages&amp;id=22" target="_blank">
+             Lao Airlines</a>
+             </div>
+             </td>
+             <td>
+             <div align="left">
+             <a href="http://www.csair.com/en/online/outbaggage/" target="_blank">
+             China Southern Airlines</a></div>
+             </td>
+         </tr>
+         <tr>
+             <td>
+             <div align="left">
+             <a href="http://www.china-airlines.com/en/check/check_ba_ex.htm" target="_blank">China
+             Airlines</a></div>
+             </td>
+             <td>
+             <div align="left">
+             <a href="http://www.cambodiaangkorair.com/en/before-you-fly/baggage-information/hand-baggage/" target="_blank">
+             Cambodia Angkor Air</a></div>
+             </td>
+             <td>
+             <div align="left">
+             <a href="https://www.garuda-indonesia.com/id/en/garuda-indonesia-experience/on-ground/baggage/index.page?" target="_blank">
+             Garuda Indonesia</a></div>
+             </td>
+             <td>
+             <div align="left">
+             <a href="http://hk.ceair.com/muovc/main/en_HK/Static_pages/Baggage.html" target="_blank">
+             China Eastern Airlines</a></div>
+             </td>
+         </tr>
+         <tr>
+             <td>
+             <div align="left">
+             <a href="http://www.alitalia.com/US_EN/your_travel/baggage/index.aspx" target="_blank">
+             Alitalia</a></div>
+             </td>
+             <td>
+             <div align="left">
+             <a href="http://www.vasco.com.vn/Luggage/View/26" target="_blank">Vasco</a></div>
+             </td>
+             <td>
+             <div align="left">
+             <a href="http://www.philippineairlines.com/flights/all-about-baggage/" target="_blank">
+             Philippines Airlines</a></div>
+             </td>
+             <td>
+             <div align="left">
+             <a href="http://www.etihadairways.com/sites/etihad/uk/en/planatrip/Pages/Baggage-information.aspx" target="_blank">
+             Etihad Airways</a></div>
+             </td>
+         </tr>
+         <tr>
+             <td>
+             <a href="http://www.jal.co.jp/en/inter/service/bag/" target="_blank">Japan Airlines</a></td>
+             <td>
+             &nbsp;</td>
+             <td>
+             &nbsp;</td>
+             <td>
+             &nbsp;</td>
+         </tr>
+     </tbody>
+</table></div></span>
+            
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <footer class="white-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 ">
+                    <ul class="nav nav-pills">
+                        <li><a id="l_contact" href="https://vietnam-airline.org/info/contact.aspx">Contact us</a>
+                        </li>
+                        <li><a id="l_faqs" href="https://vietnam-airline.org/info/faqs.aspx">FAQS</a>
+                        </li>
+                        <li><a id="l_privacy" href="https://vietnam-airline.org/info/privacy_policy.aspx">Privacy Policy</a>
+                        </li>
+                        <li><a id="l_terms" href="https://vietnam-airline.org/info/terms_conditions.aspx">Terms of Use</a>
+                        </li>
+                        <li><a id="l_aboutus" href="https://vietnam-airline.org/info/aboutus.aspx">About us</a>
+                        </li>
+                    </ul>
+                    <hr><span id="Label5">Secure payments:</span>
+                    <img class="img-responsive" src="https://vietnam-airline.org/img/secure.png">
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-sm-6">
+                    <span id="Label6">© 2015 Vietnam-airline.org - All rights reserved.</span></div>
+                <div class="col-sm-6 text-right">
+                    <strong><span id="Label7">Information</span> 
+                    <a id="HyperLink16" href="mailto:booking@vietnamairfares.org">booking@vietnamairfares.org</a></strong>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <hr>
+                    <small> <span id="Label8">Vietnamairfares.org is an online travel agency. We offer information and booking facilities for domestic and international flights as well as other travel services in Vietnam. We feature information on air travel in Vietnam, in-flight meals, baggage and the easiest air travel planning tools and expert travel advice. We also provide you with a great deal of information on living and traveling in Vietnam includes weather, visa and immigration and country guide.</span></small>
+                </div>
+            </div>
+        </div>
+    </footer>
+   
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+
+       
+    </script>
+
+    
+<script type="text/javascript">
+    var sc_project = 7168481;
+    var sc_invisible = 1;
+    var sc_security = "057eb816";
+    var sc_https = 1;
+    var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "https://www.");
+    document.write("<sc" + "ript type='text/javascript' src='" +
+scJsHost +
+"statcounter.com/counter/counter.js'></" + "script>");
+</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;df50acec0b8b4e3798edb67314a99ec4&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+</body></html>

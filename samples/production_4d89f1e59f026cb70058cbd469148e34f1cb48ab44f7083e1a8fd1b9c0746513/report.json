@@ -1,0 +1,27 @@
+{
+  "original_url": "https://ganeshdecorators.com/www.facebook.com/mobile.html",
+  "hostname": "ganeshdecorators.com",
+  "checked_at": "2026-10-04T14:17:20.444251+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b148-240a-74fb-9a16-229d6702ebce",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-17T21:31:42.058Z",
+  "scan_original_url": "http://ganeshdecorators.com/",
+  "final_url": "https://www.ganeshdecorators.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1231,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 43.177,
+  "discovery": {
+    "batch_id": "77964bb45ae20c2a425531c50dbdb85b640603a7e8f6d8107aa181000553596f",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

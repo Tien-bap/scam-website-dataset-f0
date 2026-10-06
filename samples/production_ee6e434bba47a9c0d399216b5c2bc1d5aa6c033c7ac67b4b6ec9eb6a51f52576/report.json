@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.casafavilla.com.au/acrobat/",
+  "hostname": "www.casafavilla.com.au",
+  "checked_at": "2026-10-04T14:23:11.358461+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fb27b-9236-759f-8021-b7ad704b8126",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-30T10:04:44.526Z",
+  "scan_original_url": "http://casafavilla.com.au/",
+  "final_url": "https://www.casafavilla.com.au/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 9241,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 53.249,
+  "discovery": {
+    "batch_id": "452ffb8be4282bc3db438c2065f91c69d379e8620807d736d74e6e761bb8fedb",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

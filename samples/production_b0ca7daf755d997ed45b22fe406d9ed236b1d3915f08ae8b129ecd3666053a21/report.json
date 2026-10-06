@@ -1,0 +1,27 @@
+{
+  "original_url": "https://backendlessappcontent.com/BDC2DA6B-FA68-E909-FFF4-5630AFC85800/console/rcguzirmhspaighltfuwbhstlogstydncaxq/files/view/web/index.html",
+  "hostname": "backendlessappcontent.com",
+  "checked_at": "2026-10-04T16:06:04.289919+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 7,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0c5de-a69e-720d-b17c-448f7177a71a",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-21T21:28:26.859Z",
+  "scan_original_url": "http://calldelivery.ro/",
+  "final_url": "https://backendlessappcontent.com/D3E675A8-5EAB-4152-A0B7-206D1942B8A6/3E3779EA-C9D1-4AEF-8C11-B644A63FB44C/files/web/dispecer/index.html?page=login",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 144,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 0.904,
+  "discovery": {
+    "batch_id": "a9a074be8630b010ecfd18938564743601423997b7ffeb5b1a05e3bd2b4650cf",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

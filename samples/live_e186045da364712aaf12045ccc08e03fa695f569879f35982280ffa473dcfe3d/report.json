@@ -1,0 +1,209 @@
+{
+  "candidate_id": "live_e186045da364712aaf12045ccc08e03fa695f569879f35982280ffa473dcfe3d",
+  "candidate_sha256": "3f11f4d2a0d8aad581902b5c1289049d341991de8324c357eca33cdb3108887b",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://marcuscps19.github.io/facebook-signup",
+  "requested_url": "https://marcuscps19.github.io/facebook-signup/",
+  "browser_final_url": "https://marcuscps19.github.io/facebook-signup/",
+  "source_urls": [
+    "http://marcuscps19.github.io/facebook-signup"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 74096,
+      "source_url": "http://marcuscps19.github.io/facebook-signup",
+      "source_hostname": "marcuscps19.github.io",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://marcuscps19.github.io/facebook-signup/",
+      "final_hostname": "marcuscps19.github.io",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 8899,
+      "elapsed_ms": 1161,
+      "checked_at": "2026-10-05T12:59:22.484087+00:00",
+      "error": null,
+      "normalized_source_url": "http://marcuscps19.github.io/facebook-signup",
+      "normalized_final_url": "https://marcuscps19.github.io/facebook-signup/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 112482,
+      "source_url": "http://marcuscps19.github.io/facebook-signup",
+      "source_hostname": "marcuscps19.github.io",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://marcuscps19.github.io/facebook-signup/",
+      "final_hostname": "marcuscps19.github.io",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 8899,
+      "elapsed_ms": 624,
+      "checked_at": "2026-10-05T13:15:46.853941+00:00",
+      "error": null,
+      "normalized_source_url": "http://marcuscps19.github.io/facebook-signup",
+      "normalized_final_url": "https://marcuscps19.github.io/facebook-signup/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_e186045da364712aaf12045ccc08e03fa695f569879f35982280ffa473dcfe3d",
+    "representative_source_index": 74096,
+    "representative_source_url": "http://marcuscps19.github.io/facebook-signup",
+    "representative_final_url": "https://marcuscps19.github.io/facebook-signup/",
+    "normalized_final_url": "https://marcuscps19.github.io/facebook-signup/",
+    "source_hostname": "marcuscps19.github.io",
+    "final_hostname": "marcuscps19.github.io",
+    "source_urls": [
+      "http://marcuscps19.github.io/facebook-signup"
+    ],
+    "provenance": [
+      {
+        "source_index": 74096,
+        "source_url": "http://marcuscps19.github.io/facebook-signup",
+        "source_hostname": "marcuscps19.github.io",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://marcuscps19.github.io/facebook-signup/",
+        "final_hostname": "marcuscps19.github.io",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 8899,
+        "elapsed_ms": 1161,
+        "checked_at": "2026-10-05T12:59:22.484087+00:00",
+        "error": null,
+        "normalized_source_url": "http://marcuscps19.github.io/facebook-signup",
+        "normalized_final_url": "https://marcuscps19.github.io/facebook-signup/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 112482,
+        "source_url": "http://marcuscps19.github.io/facebook-signup",
+        "source_hostname": "marcuscps19.github.io",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://marcuscps19.github.io/facebook-signup/",
+        "final_hostname": "marcuscps19.github.io",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 8899,
+        "elapsed_ms": 624,
+        "checked_at": "2026-10-05T13:15:46.853941+00:00",
+        "error": null,
+        "normalized_source_url": "http://marcuscps19.github.io/facebook-signup",
+        "normalized_final_url": "https://marcuscps19.github.io/facebook-signup/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Facebook",
+  "capture_timestamp": "2026-10-05T14:58:46.263116+00:00",
+  "dom_chars": 18123,
+  "screenshot_bytes": 146516,
+  "dom_sha256": "be1f366b1d1c47b0bbefa1b1dd1739c7bcb44abcd07220315e270bca0fa7c13d",
+  "screenshot_sha256": "1463839688b0c63ed33950460273e4adecebef53603ae9283ec269f2b80f5aac",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://marcuscps19.github.io/facebook-signup/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://marcuscps19.github.io/facebook-signup/",
+    "browser_final_url": "https://marcuscps19.github.io/facebook-signup/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3273
+}

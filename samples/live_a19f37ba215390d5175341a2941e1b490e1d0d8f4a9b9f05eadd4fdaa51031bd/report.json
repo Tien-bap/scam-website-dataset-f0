@@ -1,0 +1,239 @@
+{
+  "candidate_id": "live_a19f37ba215390d5175341a2941e1b490e1d0d8f4a9b9f05eadd4fdaa51031bd",
+  "candidate_sha256": "a38a61c0fd5314656d293c6ec869c5119335c29d492c1f69455fd82e6f8f72f2",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://maximasport.eu/bg/vhod",
+  "requested_url": "https://maximasport.eu/bg/vhod",
+  "browser_final_url": "https://maximasport.eu/bg/vhod",
+  "source_urls": [
+    "http://maximasport.eu/bg/vhod"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 30339,
+      "source_url": "http://maximasport.eu/bg/vhod",
+      "source_hostname": "maximasport.eu",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://maximasport.eu/bg/vhod",
+      "final_hostname": "maximasport.eu",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 32892,
+      "elapsed_ms": 3315,
+      "checked_at": "2026-10-05T12:46:19.652046+00:00",
+      "error": null,
+      "normalized_source_url": "http://maximasport.eu/bg/vhod",
+      "normalized_final_url": "https://maximasport.eu/bg/vhod",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_a19f37ba215390d5175341a2941e1b490e1d0d8f4a9b9f05eadd4fdaa51031bd",
+    "representative_source_index": 30339,
+    "representative_source_url": "http://maximasport.eu/bg/vhod",
+    "representative_final_url": "https://maximasport.eu/bg/vhod",
+    "normalized_final_url": "https://maximasport.eu/bg/vhod",
+    "source_hostname": "maximasport.eu",
+    "final_hostname": "maximasport.eu",
+    "source_urls": [
+      "http://maximasport.eu/bg/vhod"
+    ],
+    "provenance": [
+      {
+        "source_index": 30339,
+        "source_url": "http://maximasport.eu/bg/vhod",
+        "source_hostname": "maximasport.eu",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://maximasport.eu/bg/vhod",
+        "final_hostname": "maximasport.eu",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 32892,
+        "elapsed_ms": 3315,
+        "checked_at": "2026-10-05T12:46:19.652046+00:00",
+        "error": null,
+        "normalized_source_url": "http://maximasport.eu/bg/vhod",
+        "normalized_final_url": "https://maximasport.eu/bg/vhod",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "nojs_salvaged",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Спортен магазин MaximaSport - Спортни стоки и оборудване за всички спортове",
+  "capture_timestamp": "2026-10-06T04:50:30.357375+00:00",
+  "dom_chars": 26840,
+  "screenshot_bytes": 221073,
+  "dom_sha256": "7adb93fa364a8e3f22bfc6c4e78eb2488bdc1ebd9358e6dd7b86577cbd68f6a7",
+  "screenshot_sha256": "6f089a0c0fe8d3dc80a58287bd48ce8edb9c48641a8a2d1e3aae0d26c2e0436a",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://maximasport.eu/bg/vhod",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://maximasport.eu/bg/vhod",
+    "browser_final_url": "https://maximasport.eu/bg/vhod",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "dom_source": "rendered",
+  "recovery_strategy": "javascript_disabled_fallback",
+  "capture_strategy": "javascript_disabled_fallback",
+  "javascript_enabled": false,
+  "timeline": [
+    {
+      "event": "context created",
+      "timestamp": "2026-10-06T04:50:30.387857+00:00",
+      "elapsed_ms": 37
+    },
+    {
+      "event": "goto(commit) start",
+      "timestamp": "2026-10-06T04:50:30.491307+00:00",
+      "elapsed_ms": 140
+    },
+    {
+      "event": "HTTP response: 200 https://maximasport.eu/bg/vhod",
+      "timestamp": "2026-10-06T04:50:31.594838+00:00",
+      "elapsed_ms": 1244
+    },
+    {
+      "event": "response committed",
+      "timestamp": "2026-10-06T04:50:31.605375+00:00",
+      "elapsed_ms": 1254
+    },
+    {
+      "event": "goto end: commit_failed",
+      "timestamp": "2026-10-06T04:50:31.605399+00:00",
+      "elapsed_ms": 1254
+    },
+    {
+      "event": "settle start",
+      "timestamp": "2026-10-06T04:50:31.605410+00:00",
+      "elapsed_ms": 1254
+    },
+    {
+      "event": "settle end",
+      "timestamp": "2026-10-06T04:50:35.606564+00:00",
+      "elapsed_ms": 5255
+    },
+    {
+      "event": "page.url: https://maximasport.eu/bg/vhod HTTP: 200",
+      "timestamp": "2026-10-06T04:50:35.608324+00:00",
+      "elapsed_ms": 5257
+    },
+    {
+      "event": "title start",
+      "timestamp": "2026-10-06T04:50:35.608348+00:00",
+      "elapsed_ms": 5257
+    },
+    {
+      "event": "title end",
+      "timestamp": "2026-10-06T04:50:35.615214+00:00",
+      "elapsed_ms": 5264
+    },
+    {
+      "event": "content start",
+      "timestamp": "2026-10-06T04:50:35.615239+00:00",
+      "elapsed_ms": 5264
+    },
+    {
+      "event": "content end",
+      "timestamp": "2026-10-06T04:50:35.622427+00:00",
+      "elapsed_ms": 5271
+    },
+    {
+      "event": "screenshot start",
+      "timestamp": "2026-10-06T04:50:35.622484+00:00",
+      "elapsed_ms": 5271
+    },
+    {
+      "event": "screenshot end",
+      "timestamp": "2026-10-06T04:50:35.753230+00:00",
+      "elapsed_ms": 5402
+    },
+    {
+      "event": "context close start",
+      "timestamp": "2026-10-06T04:50:35.782929+00:00",
+      "elapsed_ms": 5432
+    },
+    {
+      "event": "context close end",
+      "timestamp": "2026-10-06T04:50:35.792678+00:00",
+      "elapsed_ms": 5441
+    }
+  ],
+  "artifact_errors": [],
+  "elapsed_ms": 5441,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "commit_failed",
+    "original_capture_timestamp": "2026-10-06T02:42:42.629421+00:00",
+    "previous_report_sha256": "3350f869d2bc5dde948aa616f2ff694076f62b45922efb4b7a4af8c472663039",
+    "recovered_at": "2026-10-06T04:50:30.357375+00:00",
+    "result": "nojs_salvaged"
+  }
+}

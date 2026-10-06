@@ -1,0 +1,27 @@
+{
+  "original_url": "https://mayxanhsupport.com/",
+  "hostname": "mayxanhsupport.com",
+  "checked_at": "2026-10-04T13:33:44.567698+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b747-bd0b-755d-abe8-3733b978a6cc",
+  "match_kind": "exact_url",
+  "capture_timestamp": "2026-09-19T01:29:01.362Z",
+  "scan_original_url": "https://mayxanhsupport.com/",
+  "final_url": "https://mayxanhsupport.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 7115,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.151,
+  "discovery": {
+    "batch_id": "8792315ad9c04094d79a847f2cdbf7ce6135a1d7dc511de8aaecc9b1185fe679",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

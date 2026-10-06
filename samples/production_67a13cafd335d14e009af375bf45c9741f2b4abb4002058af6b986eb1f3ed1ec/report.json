@@ -1,0 +1,27 @@
+{
+  "original_url": "https://afropolitain.com/wp-admin/gf/fire/fire/",
+  "hostname": "afropolitain.com",
+  "checked_at": "2026-10-04T15:44:02.234139+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a01075-9884-72ed-babc-a7273c2928c3",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-17T16:02:25.357Z",
+  "scan_original_url": "http://afropolitain.com/",
+  "final_url": "https://www.afropolitain.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 8744,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.15,
+  "discovery": {
+    "batch_id": "af6ff81293bda6c2c120381691567171e50efd2c6f08380cf7cbcaf13b088ac9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

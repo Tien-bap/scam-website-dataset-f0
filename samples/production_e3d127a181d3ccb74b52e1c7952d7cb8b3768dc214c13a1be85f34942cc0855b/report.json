@@ -1,0 +1,27 @@
+{
+  "original_url": "http://paulmitchellforcongress.com/wp-content/languages/login.php?REDACTED",
+  "hostname": "paulmitchellforcongress.com",
+  "checked_at": "2026-10-04T14:14:19.253766+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 8,
+  "candidates_checked": 8,
+  "selected_scan_uuid": "019f9415-3d78-7296-8839-cc309a495cb8",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-24T12:24:17.775Z",
+  "scan_original_url": "http://paulmitchellforcongress.com/",
+  "final_url": "https://paulmitchellforcongress.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5497,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 50.185,
+  "discovery": {
+    "batch_id": "a75ce7017788edeecbad1137badd7c17d13cc7dcfb0ab033f605602686614546",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

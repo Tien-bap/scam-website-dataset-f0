@@ -1,0 +1,27 @@
+{
+  "original_url": "http://sohantraders.com/wp-content/plugins/login/myaccount/confirm=identity",
+  "hostname": "sohantraders.com",
+  "checked_at": "2026-10-04T15:42:08.069284+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 3,
+  "selected_scan_uuid": "019fa67b-ba31-71dd-9fb5-f73b120e0466",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-28T02:09:24.007Z",
+  "scan_original_url": "http://sohantraders.com/",
+  "final_url": "https://sohantraders.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3196,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 55.342,
+  "discovery": {
+    "batch_id": "bc990fa3d8901cf41f49c18fff960499d2e808f6a51a5f9c85588a85771809f7",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

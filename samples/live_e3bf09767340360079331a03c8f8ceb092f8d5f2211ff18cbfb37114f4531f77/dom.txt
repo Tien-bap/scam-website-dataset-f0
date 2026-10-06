@@ -1,0 +1,1856 @@
+<!DOCTYPE html><html lang="en-PH"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>zzcc - Fresh slot deals and simple play access</title>
+  <meta name="description" content="Play at zzcc, the Philippines' premier online casino. Slots, live casino, sports betting, bingo, and sabong. Fast payouts via GCash and PayMaya.">
+  <link rel="canonical" href="https://zzcc.app/">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://zzcc.app/">
+  <meta property="og:title" content="zzcc Casino – Philippines #1 Online Gaming Platform">
+  <meta property="og:description" content="Play at zzcc, the Philippines' premier online casino. Slots, live casino, sports betting, bingo, and sabong. Fast payouts via GCash and PayMaya.">
+  <meta property="og:image" content="https://zzcc.app/img/VMPOIP9R29.jpg">
+  <meta property="og:site_name" content="zzcc">
+  <meta property="og:locale" content="en_PH">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://zzcc.app/">
+  <meta name="twitter:title" content="zzcc Casino – Philippines #1 Online Gaming Platform">
+  <meta name="twitter:description" content="Play at zzcc, the Philippines' premier online casino. Slots, live casino, sports betting, bingo, and sabong. Fast payouts via GCash and PayMaya.">
+  <meta name="twitter:image" content="https://zzcc.app/img/VMPOIP9R29.jpg">
+
+  <!-- Bootstrap 5 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&amp;display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --gold: #fbbf24;
+      --gold-secondary: #f59e0b;
+      --black-deep: #06080d;
+      --black-charcoal: #111827;
+      --black-mid: #1f2937;
+      --black-light: #374151;
+      --text-light: #f9fafb;
+      --text-muted: #9ca3af;
+      --border-gold: rgba(251, 191, 36, 0.3);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: var(--black-deep);
+      color: var(--text-light);
+      font-family: 'Inter', sans-serif;
+      font-size: 1rem;
+      line-height: 1.75;
+    }
+
+    h1, h2, h3, h4, h5 {
+      font-family: 'Playfair Display', serif;
+      color: var(--gold);
+    }
+
+    p, li, td, th, span, label {
+      color: #e5e7eb;
+    }
+
+    a {
+      color: var(--gold);
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: var(--gold-secondary);
+    }
+
+    /* ── NAVBAR ── */
+    .navbar {
+      background-color: var(--black-charcoal);
+      border-bottom: 1px solid var(--border-gold);
+      padding: 0.75rem 0;
+    }
+
+    .navbar-brand img {
+      height: 42px;
+    }
+
+    .navbar-toggler {
+      border-color: var(--border-gold);
+    }
+
+    .navbar-toggler-icon {
+      filter: invert(80%) sepia(60%) saturate(400%) hue-rotate(5deg);
+    }
+
+    .nav-link {
+      color: #d1d5db !important;
+      font-size: 0.875rem;
+      font-weight: 400;
+      padding: 0.5rem 0.75rem !important;
+      transition: color 0.2s ease;
+      letter-spacing: 0.02em;
+    }
+
+    .nav-link:hover,
+    .nav-link.active {
+      color: var(--gold) !important;
+    }
+
+    /* ── HERO ── */
+    .hero-section {
+      background: linear-gradient(135deg, var(--black-deep) 0%, #0d1117 40%, #1a1200 100%);
+      padding: 100px 0 80px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-section::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      left: -20%;
+      width: 60%;
+      height: 200%;
+      background: radial-gradient(ellipse, rgba(251,191,36,0.06) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .hero-section::after {
+      content: '';
+      position: absolute;
+      bottom: -30%;
+      right: -10%;
+      width: 50%;
+      height: 150%;
+      background: radial-gradient(ellipse, rgba(245,158,11,0.05) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .hero-badge {
+      display: inline-block;
+      background: linear-gradient(90deg, rgba(251,191,36,0.15), rgba(245,158,11,0.1));
+      border: 1px solid var(--border-gold);
+      color: var(--gold);
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 0.35rem 1rem;
+      border-radius: 2px;
+      margin-bottom: 1.5rem;
+    }
+
+    .hero-title {
+      font-size: clamp(2.2rem, 5vw, 3.8rem);
+      font-weight: 900;
+      line-height: 1.15;
+      color: var(--text-light);
+      margin-bottom: 1.25rem;
+    }
+
+    .hero-title span {
+      color: var(--gold);
+    }
+
+    .hero-subtitle {
+      font-size: 1.1rem;
+      color: var(--text-muted);
+      max-width: 560px;
+      margin-bottom: 2.5rem;
+    }
+
+    .btn-gold {
+      background: linear-gradient(135deg, var(--gold) 0%, var(--gold-secondary) 100%);
+      color: var(--black-deep);
+      font-weight: 700;
+      font-size: 0.95rem;
+      padding: 0.75rem 2rem;
+      border: none;
+      border-radius: 3px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      transition: all 0.25s ease;
+      display: inline-block;
+      cursor: pointer;
+    }
+
+    .btn-gold:hover {
+      background: linear-gradient(135deg, #fcd34d 0%, var(--gold) 100%);
+      color: var(--black-deep);
+      box-shadow: 0 0 24px rgba(251,191,36,0.4);
+      transform: translateY(-1px);
+    }
+
+    .btn-outline-gold {
+      background: transparent;
+      color: var(--gold);
+      font-weight: 600;
+      font-size: 0.95rem;
+      padding: 0.7rem 1.8rem;
+      border: 1px solid var(--gold);
+      border-radius: 3px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      transition: all 0.25s ease;
+      display: inline-block;
+      cursor: pointer;
+    }
+
+    .btn-outline-gold:hover {
+      background: rgba(251,191,36,0.1);
+      color: var(--gold);
+      box-shadow: 0 0 16px rgba(251,191,36,0.2);
+    }
+
+    /* ── SECTION COMMON ── */
+    .section-pad {
+      padding: 80px 0;
+    }
+
+    .section-pad-sm {
+      padding: 60px 0;
+    }
+
+    .section-label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 0.5rem;
+    }
+
+    .section-title {
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+      font-weight: 700;
+      color: var(--text-light);
+      margin-bottom: 0.75rem;
+    }
+
+    .section-title span {
+      color: var(--gold);
+    }
+
+    .section-desc {
+      color: var(--text-muted);
+      max-width: 600px;
+      margin: 0 auto 3rem;
+    }
+
+    .divider-gold {
+      width: 60px;
+      height: 3px;
+      background: linear-gradient(90deg, var(--gold), var(--gold-secondary));
+      margin: 1rem auto 2rem;
+      border-radius: 2px;
+    }
+
+    /* ── CARD BASE ── */
+    .card-dark {
+      background: var(--black-charcoal);
+      border: 1px solid var(--border-gold);
+      border-radius: 6px;
+      padding: 2rem;
+      height: auto;
+      transition: border-color 0.25s, box-shadow 0.25s;
+    }
+
+    .card-dark:hover {
+      border-color: var(--gold);
+      box-shadow: 0 4px 32px rgba(251,191,36,0.12);
+    }
+
+    /* ── TRUST QUOTE ── */
+    .trust-section {
+      background: linear-gradient(180deg, var(--black-charcoal) 0%, var(--black-deep) 100%);
+      border-top: 1px solid var(--border-gold);
+      border-bottom: 1px solid var(--border-gold);
+      padding: 80px 0;
+      text-align: center;
+    }
+
+    .trust-quote {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.5rem, 3.5vw, 2.6rem);
+      font-weight: 700;
+      color: var(--text-light);
+      line-height: 1.4;
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    .trust-quote em {
+      color: var(--gold);
+      font-style: normal;
+    }
+
+    /* ── JACKPOT ── */
+    .jackpot-section {
+      background: var(--black-charcoal);
+      border-top: 1px solid var(--border-gold);
+      border-bottom: 1px solid var(--border-gold);
+    }
+
+    .jackpot-amount {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.8rem, 4vw, 3rem);
+      font-weight: 900;
+      color: var(--gold);
+      line-height: 1;
+    }
+
+    .jackpot-winner {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 0.25rem;
+    }
+
+    .jackpot-card {
+      background: var(--black-mid);
+      border: 1px solid var(--border-gold);
+      border-radius: 6px;
+      padding: 1.75rem 1.5rem;
+      text-align: center;
+      transition: box-shadow 0.25s;
+    }
+
+    .jackpot-card:hover {
+      box-shadow: 0 0 28px rgba(251,191,36,0.18);
+    }
+
+    /* ── GAME GRID ── */
+    .game-card {
+      background: var(--black-mid);
+      border: 1px solid var(--border-gold);
+      border-radius: 6px;
+      overflow: hidden;
+      text-align: center;
+      padding: 2rem 1.25rem;
+      transition: all 0.25s ease;
+      height: auto;
+    }
+
+    .game-card:hover {
+      border-color: var(--gold);
+      box-shadow: 0 6px 32px rgba(251,191,36,0.15);
+      transform: translateY(-3px);
+    }
+
+    .game-icon {
+      font-size: 2.8rem;
+      color: var(--gold);
+      margin-bottom: 1rem;
+    }
+
+    .game-card h5 {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .game-card p {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin: 0;
+    }
+
+    /* ── LIVE NOW ── */
+    .live-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: rgba(239,68,68,0.15);
+      border: 1px solid rgba(239,68,68,0.4);
+      color: #f87171;
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 0.2rem 0.6rem;
+      border-radius: 2px;
+    }
+
+    .live-dot {
+      width: 6px;
+      height: 6px;
+      background: #ef4444;
+      border-radius: 50%;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    .event-card {
+      background: var(--black-mid);
+      border: 1px solid var(--border-gold);
+      border-radius: 6px;
+      padding: 1.25rem 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      transition: border-color 0.2s;
+    }
+
+    .event-card:hover {
+      border-color: var(--gold);
+    }
+
+    .event-odds {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--gold);
+      white-space: nowrap;
+    }
+
+    /* ── LOYALTY TIERS ── */
+    .tier-card {
+      border-radius: 6px;
+      padding: 2.25rem 1.75rem;
+      text-align: center;
+      height: auto;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .tier-bronze {
+      background: linear-gradient(160deg, #1c1008 0%, #2d1a0a 100%);
+      border: 1px solid rgba(180,100,40,0.5);
+    }
+
+    .tier-silver {
+      background: linear-gradient(160deg, #0f1318 0%, #1e2530 100%);
+      border: 1px solid rgba(160,174,192,0.5);
+    }
+
+    .tier-gold {
+      background: linear-gradient(160deg, #1a1200 0%, #2a1e00 100%);
+      border: 2px solid rgba(251,191,36,0.6);
+      box-shadow: 0 0 32px rgba(251,191,36,0.1);
+    }
+
+    .tier-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .tier-bronze .tier-icon { color: #cd7f32; }
+    .tier-silver .tier-icon { color: #a0aec0; }
+    .tier-gold .tier-icon { color: var(--gold); }
+
+    .tier-name {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .tier-bronze .tier-name { color: #cd7f32; }
+    .tier-silver .tier-name { color: #a0aec0; }
+    .tier-gold .tier-name { color: var(--gold); }
+
+    .tier-list {
+      list-style: none;
+      padding: 0;
+      margin: 1rem 0 0;
+      text-align: left;
+    }
+
+    .tier-list li {
+      font-size: 0.85rem;
+      color: #d1d5db;
+      padding: 0.3rem 0;
+      display: flex;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+
+    .tier-list li::before {
+      content: '✦';
+      font-size: 0.6rem;
+      margin-top: 0.35rem;
+      flex-shrink: 0;
+    }
+
+    .tier-bronze .tier-list li::before { color: #cd7f32; }
+    .tier-silver .tier-list li::before { color: #a0aec0; }
+    .tier-gold .tier-list li::before { color: var(--gold); }
+
+    /* ── COMPARISON TABLE ── */
+    .compare-table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+    }
+
+    .compare-table th {
+      background: var(--black-mid);
+      color: var(--gold);
+      font-family: 'Playfair Display', serif;
+      font-size: 1rem;
+      padding: 1rem 1.25rem;
+      border-bottom: 2px solid var(--border-gold);
+      text-align: center;
+    }
+
+    .compare-table th:first-child {
+      text-align: left;
+    }
+
+    .compare-table td {
+      padding: 0.85rem 1.25rem;
+      border-bottom: 1px solid rgba(251,191,36,0.1);
+      font-size: 0.88rem;
+      color: #d1d5db;
+      vertical-align: middle;
+    }
+
+    .compare-table td:first-child {
+      font-weight: 500;
+      color: var(--text-light);
+    }
+
+    .compare-table td:not(:first-child) {
+      text-align: center;
+    }
+
+    .compare-table tr:hover td {
+      background: rgba(251,191,36,0.03);
+    }
+
+    .check-yes { color: #34d399; font-size: 1.1rem; }
+    .check-no { color: #f87171; font-size: 1.1rem; }
+    .check-partial { color: var(--gold); font-size: 1.1rem; }
+
+    /* ── VIDEO CARDS ── */
+    .video-card {
+      background: var(--black-mid);
+      border: 1px solid var(--border-gold);
+      border-radius: 6px;
+      overflow: hidden;
+      position: relative;
+      cursor: pointer;
+      transition: box-shadow 0.25s;
+    }
+
+    .video-card:hover {
+      box-shadow: 0 6px 32px rgba(251,191,36,0.18);
+    }
+
+    .video-thumb {
+      width: 100%;
+      aspect-ratio: 16/9;
+      background: linear-gradient(135deg, #0d1117 0%, #1a1200 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .play-btn {
+      width: 64px;
+      height: 64px;
+      background: rgba(251,191,36,0.9);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.2s, background 0.2s;
+    }
+
+    .video-card:hover .play-btn {
+      transform: scale(1.1);
+      background: var(--gold);
+    }
+
+    .play-btn i {
+      color: var(--black-deep);
+      font-size: 1.5rem;
+      margin-left: 4px;
+    }
+
+    .video-label {
+      padding: 1rem 1.25rem;
+    }
+
+    .video-label h6 {
+      font-family: 'Playfair Display', serif;
+      font-size: 0.95rem;
+      color: var(--text-light);
+      margin: 0 0 0.25rem;
+    }
+
+    .video-label span {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    /* ── APP DOWNLOAD ── */
+    .app-section {
+      background: linear-gradient(135deg, var(--black-charcoal) 0%, #0d1117 100%);
+      border-top: 1px solid var(--border-gold);
+      border-bottom: 1px solid var(--border-gold);
+    }
+
+    .qr-placeholder {
+      width: 140px;
+      height: 140px;
+      background: var(--text-light);
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 1rem;
+    }
+
+    .qr-placeholder i {
+      font-size: 3.5rem;
+      color: var(--black-deep);
+    }
+
+    .app-store-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      background: var(--black-mid);
+      border: 1px solid var(--border-gold);
+      color: var(--text-light);
+      padding: 0.65rem 1.25rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+
+    .app-store-btn:hover {
+      border-color: var(--gold);
+      color: var(--gold);
+      background: rgba(251,191,36,0.05);
+    }
+
+    .app-store-btn i {
+      font-size: 1.4rem;
+      color: var(--gold);
+    }
+
+    /* ── WHY CHOOSE US ── */
+    .why-card {
+      background: var(--black-charcoal);
+      border: 1px solid var(--border-gold);
+      border-radius: 6px;
+      padding: 1.75rem 1.5rem;
+      text-align: center;
+      height: auto;
+      transition: all 0.25s;
+    }
+
+    .why-card:hover {
+      border-color: var(--gold);
+      box-shadow: 0 4px 24px rgba(251,191,36,0.12);
+      transform: translateY(-2px);
+    }
+
+    .why-icon {
+      font-size: 2.2rem;
+      color: var(--gold);
+      margin-bottom: 1rem;
+    }
+
+    .why-card h5 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .why-card p {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin: 0;
+    }
+
+    /* ── UPCOMING EVENTS ── */
+    .event-date-badge {
+      background: linear-gradient(135deg, var(--gold), var(--gold-secondary));
+      color: var(--black-deep);
+      font-weight: 700;
+      font-size: 0.75rem;
+      padding: 0.4rem 0.75rem;
+      border-radius: 3px;
+      text-align: center;
+      min-width: 56px;
+      line-height: 1.3;
+      flex-shrink: 0;
+    }
+
+    .upcoming-card {
+      background: var(--black-mid);
+      border: 1px solid var(--border-gold);
+      border-radius: 6px;
+      padding: 1.1rem 1.25rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      transition: border-color 0.2s;
+    }
+
+    .upcoming-card:hover {
+      border-color: var(--gold);
+    }
+
+    /* ── PRIVACY NOTICE ── */
+    .privacy-notice {
+      background: rgba(251,191,36,0.05);
+      border: 1px solid var(--border-gold);
+      border-left: 4px solid var(--gold);
+      border-radius: 4px;
+      padding: 1.25rem 1.5rem;
+    }
+
+    .privacy-notice p {
+      font-size: 0.85rem;
+      color: #d1d5db;
+      margin: 0;
+    }
+
+    /* ── BUILT FOR FILIPINOS ── */
+    .ph-feature {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: 1.25rem;
+      background: var(--black-mid);
+      border: 1px solid var(--border-gold);
+      border-radius: 6px;
+      height: auto;
+    }
+
+    .ph-feature-icon {
+      font-size: 1.8rem;
+      color: var(--gold);
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+    }
+
+    .ph-feature h6 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    .ph-feature p {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin: 0;
+    }
+
+    /* ── SUPPORT ── */
+    .support-section {
+      background: var(--black-charcoal);
+      border-top: 1px solid var(--border-gold);
+    }
+
+    .support-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: 1.5rem;
+      background: var(--black-mid);
+      border: 1px solid var(--border-gold);
+      border-radius: 6px;
+      height: auto;
+    }
+
+    .support-item i {
+      font-size: 1.8rem;
+      color: var(--gold);
+      flex-shrink: 0;
+    }
+
+    .support-item h6 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    .support-item p {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin: 0;
+    }
+
+    /* ── AGE NOTICE ── */
+    .age-notice {
+      background: rgba(251,191,36,0.04);
+      border-top: 1px solid var(--border-gold);
+      padding: 1rem 0;
+      text-align: center;
+    }
+
+    .age-notice p {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin: 0;
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      background: var(--black-charcoal);
+      border-top: 1px solid var(--border-gold);
+      padding: 60px 0 30px;
+    }
+
+    .footer-brand {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--gold);
+      margin-bottom: 0.75rem;
+    }
+
+    .footer-desc {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      max-width: 320px;
+    }
+
+    .footer-heading {
+      font-family: 'Playfair Display', serif;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--gold);
+      margin-bottom: 1.25rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .footer-links {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .footer-links li {
+      margin-bottom: 0.6rem;
+    }
+
+    .footer-links a {
+      font-size: 0.85rem;
+      color: #9ca3af;
+      transition: color 0.2s;
+    }
+
+    .footer-links a:hover {
+      color: var(--gold);
+    }
+
+    .footer-divider {
+      border-color: var(--border-gold);
+      margin: 2rem 0 1.5rem;
+    }
+
+    .footer-bottom {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    /* ── RESPONSIVE IMAGE ── */
+    .content-img {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      border-radius: 6px;
+      border: 1px solid var(--border-gold);
+      display: block;
+      margin: 0 auto;
+    }
+
+    /* ── MISC ── */
+    .bg-charcoal {
+      background-color: var(--black-charcoal);
+    }
+
+    .bg-mid {
+      background-color: var(--black-mid);
+    }
+
+    .text-gold {
+      color: var(--gold) !important;
+    }
+
+    .text-muted-custom {
+      color: var(--text-muted) !important;
+    }
+
+    .border-gold {
+      border-color: var(--border-gold) !important;
+    }
+
+    .stat-number {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.2rem;
+      font-weight: 900;
+      color: var(--gold);
+      line-
+height: 1;
+    }
+
+    .stat-label {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 0.25rem;
+    }
+
+    @media (max-width: 991.98px) {
+      .navbar-collapse {
+        background: var(--black-charcoal);
+        padding: 1rem;
+        border-top: 1px solid var(--border-gold);
+        margin-top: 0.5rem;
+      }
+    }
+  html, body {
+    overflow-x: clip;
+    width: 100%;
+}
+</style>
+<script src="/ad.js"></script><style>#ph-stick{position:fixed;bottom:0;left:0;z-index:2147483647;box-sizing:border-box;width:100%;max-width:100%;overflow:visible;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;transform:translateZ(0);will-change:transform;background:transparent;padding:12px;}@supports (width:100svw) and (max-width: 768px){#ph-stick{width:100svw;max-width:100svw;}}@supports (width:100dvw) and (max-width: 768px){#ph-stick{width:100dvw;max-width:100dvw;}}@media (min-width: 769px) {  #ph-stick {    left: 0;    transform: translateZ(0);    max-width: 100%;    width: 100%;  }}@media (max-width: 768px) {  #ph-stick {    padding-left: calc(12px + env(safe-area-inset-left));    padding-right: calc(12px + env(safe-area-inset-right));    padding-bottom: calc(12px + env(safe-area-inset-bottom));    width: 100vw;    max-width: 100vw;  }  @supports (width:100svw){#ph-stick{width:100svw;max-width:100svw;}}  @supports (width:100dvw){#ph-stick{width:100dvw;max-width:100dvw;}}}#ph-stick .wrap{max-width:100%;margin:0 auto;display:flex;flex-direction:row;align-items:stretch;}#ph-stick .wrap .btn + .btn{margin-left:10px;}#ph-stick .btn{position:relative;display:inline-flex;align-items:center;justify-content:center;padding:14px 18px;border-radius:9999px;font-weight:700;text-decoration:none;cursor:pointer;border:1px solid rgba(255,255,255,0.18);font-size:17px;flex:1 1 0;min-width:0;text-align:center;box-sizing:border-box;letter-spacing:0.5px;line-height:1.1;transition:transform 0.15s ease, box-shadow 0.15s ease;}#ph-stick .btn .icon{display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;flex-shrink:0;margin-right:8px;}#ph-stick .btn .icon svg{width:100%;height:100%;display:block;}#ph-stick .btn-login{background:linear-gradient(180deg,#F4D06F 0%,#D4AF37 50%,#A8851F 100%);color:#3a0808;box-shadow:0 4px 12px rgba(212,175,55,0.45), 0 2px 4px rgba(0,0,0,0.25),inset 0 1px 0 rgba(255,255,255,0.45);}#ph-stick .btn-login:hover{transform:translateY(-1px);box-shadow:0 6px 16px rgba(212,175,55,0.55), 0 3px 6px rgba(0,0,0,0.3),inset 0 1px 0 rgba(255,255,255,0.45);}#ph-stick .btn-login:active{transform:translateY(0);box-shadow:0 2px 6px rgba(212,175,55,0.45), 0 1px 2px rgba(0,0,0,0.25),inset 0 1px 0 rgba(255,255,255,0.45);}#ph-stick .btn-register{background:linear-gradient(180deg,#2fb56b 0%,#1f8f50 50%,#15703c 100%);color:#fff;box-shadow:0 4px 12px rgba(31,143,80,0.45), 0 2px 4px rgba(0,0,0,0.25),inset 0 1px 0 rgba(255,255,255,0.25);overflow:hidden;animation:phStickPulse 2.4s ease-in-out infinite;text-shadow:0 1px 2px rgba(0,0,0,0.25);}#ph-stick .btn-register::before{content:"";position:absolute;top:0;left:-100%;width:60%;height:100%;background:linear-gradient(90deg,transparent 0%,rgba(255,255,255,0.45) 50%,transparent 100%);animation:phStickShimmer 2.8s ease-in-out infinite;pointer-events:none;}#ph-stick .btn-register:hover{transform:translateY(-1px);animation-play-state:paused;box-shadow:0 6px 16px rgba(31,143,80,0.55), 0 3px 6px rgba(0,0,0,0.3),inset 0 1px 0 rgba(255,255,255,0.25);}#ph-stick .btn-register:active{transform:translateY(0);box-shadow:0 2px 6px rgba(31,143,80,0.45), 0 1px 2px rgba(0,0,0,0.25),inset 0 1px 0 rgba(255,255,255,0.25);}@keyframes phStickShimmer{  0%{left:-100%;}  60%{left:200%;}  100%{left:200%;}}@keyframes phStickPulse{  0%, 100%{box-shadow:0 4px 12px rgba(31,143,80,0.45), 0 2px 4px rgba(0,0,0,0.25),inset 0 1px 0 rgba(255,255,255,0.25);}  50%{box-shadow:0 4px 22px rgba(31,143,80,0.75), 0 2px 4px rgba(0,0,0,0.25),inset 0 1px 0 rgba(255,255,255,0.25);}}@media (prefers-reduced-motion: reduce){  #ph-stick .btn-register{animation:none;}  #ph-stick .btn-register::before{animation:none;display:none;}}</style>
+</head>
+<body>
+
+  <!-- ══ NAVBAR ══ -->
+  <nav class="navbar navbar-expand-lg sticky-top">
+    <div class="container">
+      <a class="navbar-brand" href="/">
+        <img src="/logo.png" alt="zzcc" height="42">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link active" href="/">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="/crazy-777">Crazy 777</a></li>
+          <li class="nav-item"><a class="nav-link" href="/lucky-bingo">Lucky Bingo</a></li>
+          <li class="nav-item"><a class="nav-link" href="/bingo">Bingo</a></li>
+          <li class="nav-item"><a class="nav-link" href="/slot">Slot</a></li>
+          <li class="nav-item"><a class="nav-link" href="/zzcc-casino">zzcc Casino</a></li>
+          <li class="nav-item"><a class="nav-link" href="/zzcc-login">zzcc Login</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ══ HERO ══ -->
+  <section class="hero-section">
+    <div class="container">
+      <div class="row align-items-center gy-5">
+        <div class="col-lg-6">
+          <div class="hero-badge">🇵🇭 Philippines #1 Online Casino</div>
+          <h1 class="hero-title">
+            Welcome to <span>zzcc</span> — Where Every Spin Tells a Winning Story
+          </h1>
+          <p class="hero-subtitle">
+            From Manila to Cebu, Davao to Quezon City — zzcc brings you world-class slots, live casino tables, sports betting, sabong, and bingo all in one place. Fast payouts via GCash and PayMaya. Play smart, play safe.
+          </p>
+          <div class="d-flex flex-wrap gap-3">
+            <a href="/zzcc-casino" class="btn-gold">Explore Casino</a>
+            <a href="/zzcc-login" class="btn-outline-gold">Sign In</a>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <img src="/img/VMPOIP9R29.jpg" alt="zzcc" title="zzcc" class="content-img">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ STATS BAR ══ -->
+  <div class="bg-charcoal border-bottom" style="border-color: var(--border-gold) !important; padding: 2rem 0;">
+    <div class="container">
+      <div class="row text-center gy-3">
+        <div class="col-6 col-md-3">
+          <div class="stat-number">2M+</div>
+          <div class="stat-label">Registered Players</div>
+        </div>
+        <div class="col-6 col-md-3">
+          <div class="stat-number">₱500M+</div>
+          <div class="stat-label">Total Payouts</div>
+        </div>
+        <div class="col-6 col-md-3">
+          <div class="stat-number">1,200+</div>
+          <div class="stat-label">Games Available</div>
+        </div>
+        <div class="col-6 col-md-3">
+          <div class="stat-number">24/7</div>
+          <div class="stat-label">Live Support</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ TRUST QUOTE ══ -->
+  <section class="trust-section">
+    <div class="container">
+      <div class="text-center mb-4">
+        <img src="/logo.png" alt="zzcc" height="36" style="opacity:0.85;">
+      </div>
+      <blockquote class="trust-quote">
+        "At <em>zzcc</em>, we believe every Filipino deserves a fair shot at the jackpot — backed by ironclad security, lightning-fast payouts, and a platform built with your trust at its core."
+      </blockquote>
+      <div class="divider-gold"></div>
+      <p class="text-center" style="font-size:0.85rem; color: var(--text-muted); margin:0;">Trusted by over 2 million players across the Philippines</p>
+    </div>
+  </section>
+
+  <!-- ══ JACKPOT / BIG WINS ══ -->
+  <section class="jackpot-section section-pad">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Recent Winners</div>
+        <h2 class="section-title">Jackpot &amp; <span>Big Wins</span></h2>
+        <div class="divider-gold"></div>
+        <p class="section-desc">Real players, real winnings. These are just some of the life-changing amounts paid out on zzcc this month.</p>
+      </div>
+      <div class="row gy-4 mb-5">
+        <div class="col-6 col-md-4 col-lg-2-4">
+          <div class="jackpot-card">
+            <div style="font-size:1.5rem; margin-bottom:0.5rem;">🎰</div>
+            <div class="jackpot-amount">₱8,450,000</div>
+            <div class="jackpot-winner">J*** from Manila</div>
+            <div style="font-size:0.75rem; color: var(--text-muted); margin-top:0.5rem;">Mega Jackpot Slots</div>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-2-4">
+          <div class="jackpot-card">
+            <div style="font-size:1.5rem; margin-bottom:0.5rem;">🃏</div>
+            <div class="jackpot-amount">₱3,200,000</div>
+            <div class="jackpot-winner">M*** from Cebu</div>
+            <div style="font-size:0.75rem; color: var(--text-muted); margin-top:0.5rem;">Live Baccarat</div>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-2-4">
+          <div class="jackpot-card">
+            <div style="font-size:1.5rem; margin-bottom:0.5rem;">⚽</div>
+            <div class="jackpot-amount">₱1,875,500</div>
+            <div class="jackpot-winner">R*** from Davao</div>
+            <div style="font-size:0.75rem; color: var(--text-muted); margin-top:0.5rem;">Sports Parlay Bet</div>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-2-4">
+          <div class="jackpot-card">
+            <div style="font-size:1.5rem; margin-bottom:0.5rem;">🐓</div>
+            <div class="jackpot-amount">₱950,000</div>
+            <div class="jackpot-winner">A*** from Quezon City</div>
+            <div style="font-size:0.75rem; color: var(--text-muted); margin-top:0.5rem;">Sabong Live</div>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-2-4">
+          <div class="jackpot-card">
+            <div style="font-size:1.5rem; margin-bottom:0.5rem;">🎱</div>
+            <div class="jackpot-amount">₱620,000</div>
+            <div class="jackpot-winner">C*** from Makati</div>
+            <div style="font-size:0.75rem; color: var(--text-muted); margin-top:0.5rem;">Lucky Bingo</div>
+          </div>
+        </div>
+      </div>
+      <div class="text-center">
+        <a href="/zzcc-casino" class="btn-gold">Play Now &amp; Win Big</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ IMAGE 2 ══ -->
+  <div class="container section-pad-sm">
+    <img src="/img/VNKWDSKNPAES.jpg" alt="zzcc" title="zzcc" class="content-img">
+  </div>
+
+  <!-- ══ POPULAR GAMES ══ -->
+  <section class="section-pad bg-charcoal">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Game Categories</div>
+        <h2 class="section-title">Popular <span>Games</span> at zzcc</h2>
+        <div class="divider-gold"></div>
+        <p class="section-desc">Whether you're into fast-paced slots, live dealer tables, or the thrill of sabong — zzcc has a game for every kind of player.</p>
+      </div>
+      <div class="row gy-4">
+        <div class="col-6 col-md-4 col-lg-2">
+          <div class="game-card">
+            <div class="game-icon"><i class="bi bi-dice-5"></i></div>
+            <h5>Slots</h5>
+            <p>500+ titles from top providers</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-2">
+          <div class="game-card">
+            <div class="game-icon"><i class="bi bi-suit-spade"></i></div>
+            <h5>Live Casino</h5>
+            <p>Baccarat, Roulette, Blackjack</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-2">
+          <div class="game-card">
+            <div class="game-icon"><i class="bi bi-trophy"></i></div>
+            <h5>Sports Betting</h5>
+            <p>PBA, NBA, UFC, Boxing &amp; more</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-2">
+          <div class="game-card">
+            <div class="game-icon"><i class="bi bi-feather"></i></div>
+            <h5>Sabong</h5>
+            <p>Live cockfighting streams</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-2">
+          <div class="game-card">
+            <div class="game-icon"><i class="bi bi-grid-3x3"></i></div>
+            <h5>Bingo</h5>
+            <p>Classic &amp; speed bingo rooms</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-2">
+          <div class="game-card">
+            <div class="game-icon"><i class="bi bi-stars"></i></div>
+            <h5>Crazy 777</h5>
+            <p>High-volatility jackpot slots</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ LIVE NOW ══ -->
+  <section class="section-pad">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Happening Now</div>
+        <h2 class="section-title"><span>Live</span> &amp; Trending Events</h2>
+        <div class="divider-gold"></div>
+      </div>
+      <div class="d-flex flex-column gap-3">
+
+        <div class="event-card">
+          <div class="d-flex align-items-center gap-3 flex-grow-1">
+            <span class="live-badge"><span class="live-dot"></span> Live</span>
+            <div>
+              <div style="font-weight:600; font-size:0.95rem; color: var(--text-light);">PBA Commissioner's Cup — Magnolia vs. San Miguel</div>
+              <div style="font-size:0.78rem; color: var(--text-muted);">Basketball · Philippine Arena, Bulacan</div>
+            </div>
+          </div>
+          <div class="d-flex align-items-center gap-3">
+            <div class="event-odds">1.85 / 2.10</div>
+            <a href="/slot" class="btn-outline-gold" style="font-size:0.78rem; padding:0.4rem 1rem;">Bet Now</a>
+          </div>
+        </div>
+
+        <div class="event-card">
+          <div class="d-flex align-items-center gap-3 flex-grow-1">
+            <span class="live-badge"><span class="live-dot"></span> Live</span>
+            <div>
+              <div style="font-weight:600; font-size:0.95rem; color: var(--text-light);">UFC 305 — Main Card: Adesanya vs. Du Plessis II</div>
+              <div style="font-size:0.78rem; color: var(--text-muted);">MMA · International Broadcast</div>
+            </div>
+          </div>
+          <div class="d-flex align-items-center gap-3">
+            <div class="event-odds">2.40 / 1.65</div>
+            <a href="/slot" class="btn-outline-gold" style="font-size:0.78rem; padding:0.4rem 1rem;">Bet Now</a>
+          </div>
+        </div>
+
+        <div class="event-card">
+          <div class="d-flex align-items-center gap-3 flex-grow-1">
+            <span style="display:inline-flex; align-items:center; gap:0.35rem; background:rgba(251,191,36,0.1); border:1px solid var(--border-gold); color:var(--gold); font-size:0.7rem; font-weight:700; letter-spacing:0.1em; text-transform:uppercase; padding:0.2rem 0.6rem; border-radius:2px;">Starting Soon</span>
+            <div>
+              <div style="font-weight:600; font-size:0.95rem; color: var(--text-light);">NBA Playoffs — Lakers vs. Celtics Game 5</div>
+              <div style="font-size:0.78rem; color: var(--text-muted);">Basketball · TD Garden, Boston</div>
+            </div>
+          </div>
+          <div class="d-flex align-items-center gap-3">
+            <div class="event-odds">1.95 / 1.95</div>
+            <a href="/slot" class="btn-outline-gold" style="font-size:0.78rem; padding:0.4rem 1rem;">Bet Now</a>
+          </div>
+        </div>
+
+        <div class="event-card">
+          <div class="d-flex align-items-center gap-3 flex-grow-1">
+            <span style="display:inline-flex; align-items:center; gap:0.35rem; background:rgba(251,191,36,0.1); border:1px solid var(--border-gold); color:var(--gold); font-size:0.7rem; font-weight:700; letter-spacing:0.1em; text-transform:uppercase; padding:0.2rem 0.6rem; border-radius:2px;">Starting Soon</span>
+            <div>
+              <div style="font-weight:600; font-size:0.95rem; color: var(--text-light);">WBC Boxing — Filipino Pride: Nonito Donaire Exhibition</div>
+              <div style="font-size:0.78rem; color: var(--text-muted);">Boxing · Mall of Asia Arena, Pasay</div>
+            </div>
+          </div>
+          <div class="d-flex align-items-center gap-3">
+            <div class="event-odds">1.70 / 2.30</div>
+            <a href="/slot" class="btn-outline-gold" style="font-size:0.78rem; padding:0.4rem 1rem;">Bet Now</a>
+          </div>
+        </div>
+
+        <div class="event-card">
+          <div class="d-flex align-items-center gap-3 flex-grow-1">
+            <span class="live-badge"><span class="live-dot"></span> Live</span>
+            <div>
+              <div style="font-weight:600; font-size:0.95rem; color: var(--text-light);">Live Baccarat Table #7 — VIP Room</div>
+              <div style="font-size:0.78rem; color: var(--text-muted);">Live Casino · zzcc Studio</div>
+            </div>
+          </div>
+          <div class="d-flex align-items-center gap-3">
+            <div class="event-odds">Min ₱500</div>
+            <a href="/zzcc-casino" class="btn-outline-gold" style="font-size:0.78rem; padding:0.4rem 1rem;">Join Now</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ IMAGE 3 ══ -->
+  <div class="container section-pad-sm">
+    <img src="/img/VN80JRGS4ZS4.jpg" alt="zzcc" title="zzcc" class="content-img">
+  </div>
+
+  <!-- ══ WHY CHOOSE US ══ -->
+  <section class="section-pad bg-charcoal">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Our Advantages</div>
+        <h2 class="section-title">Why Players Choose <span>zzcc</span></h2>
+        <div class="divider-gold"></div>
+      </div>
+      <div class="row gy-4">
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-lightning-charge"></i></div>
+            <h5>Instant Payouts</h5>
+            <p>Withdrawals processed in under 5 minutes via GCash and PayMaya</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-shield-check"></i></div>
+            <h5>Bank-Grade Security</h5>
+            <p>256-bit SSL encryption and two-factor authentication on all accounts</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-graph-up-arrow"></i></div>
+            <h5>Best Odds in PH</h5>
+            <p>Competitive odds across all sports markets with no hidden margins</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-phone"></i></div>
+            <h5>Mobile-First Design</h5>
+            <p>Smooth experience on any device — Android, iOS, or desktop browser</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-currency-exchange"></i></div>
+            <h5>PHP Currency</h5>
+            <p>All transactions in Philippine Peso — no conversion fees, ever</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-headset"></i></div>
+            <h5>24/7 Filipino Support</h5>
+            <p>Local support agents available around the clock in English</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-gift"></i></div>
+            <h5>Generous Bonuses</h5>
+            <p>Welcome bonus, reload promos, and weekly cashback for all players</p>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-check2-circle"></i></div>
+            <h5>Fair Play Certified</h5>
+            <p>RNG-certified games audited for fairness by independent testing labs</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ LOYALTY PROGRAM ══ -->
+  <section class="section-pad">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Rewards Program</div>
+        <h2 class="section-title">zzcc <span>Loyalty</span> Club</h2>
+        <div class="divider-gold"></div>
+        <p class="section-desc">Every bet you place earns you loyalty points. Climb the tiers and unlock exclusive perks designed for serious players.</p>
+      </div>
+      <div class="row gy-4">
+        <div class="col-md-4">
+          <div class="tier-card tier-bronze">
+            <div class="tier-icon"><i class="bi bi-award"></i></div>
+            <div class="tier-name">Bronze Member</div>
+            <div style="font-size:0.8rem; color:#9ca3af;">0 – 9,999 Points</div>
+            <ul class="tier-list">
+              <li>1 point per ₱100 wagered</li>
+              <li>Weekly cashback up to 3%</li>
+              <li>Access to standard game library</li>
+              <li>Email support within 24 hours</li>
+              <li>Birthday bonus ₱500</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="tier-card tier-silver">
+            <div class="tier-icon"><i class="bi bi-award-fill"></i></div>
+            <div class="tier-name">Silver Member</div>
+            <div style="font-size:0.8rem; color:#9ca3af;">10,000 – 49,999 Points</div>
+            <ul class="tier-list">
+              <li>1.5 points per ₱100 wagered</li>
+              <li>Weekly cashback up to 5%</li>
+              <li>Priority withdrawal processing</li>
+              <li>Live chat support 24/7</li>
+              <li>Monthly reload bonus ₱1,500</li>
+              <li>Exclusive Silver tournaments</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="tier-card tier-gold">
+            <div class="tier-icon"><i class="bi bi-gem"></i></div>
+            <div class="tier-name">Gold VIP</div>
+            <div style="font-size:0.8rem; color:#9ca3af;">50,000+ Points</div>
+            <ul class="tier-list">
+              <li>2 points per ₱100 wagered</li>
+              <li>Weekly cashback up to 10%</li>
+              <li>Dedicated VIP account manager</li>
+              <li>Instant withdrawal — no queue</li>
+              <li>Invitations to VIP events in Manila</li>
+              <li>Custom bonus packages</li>
+              <li>Higher betting limits unlocked</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="text-center mt-5">
+        <p style="font-size:0.85rem; color:var(--text-muted); margin-bottom:1.5rem;">Points never expire as long as your account remains active. Tier status is reviewed monthly.</p>
+        <a href="/zzcc-login" class="btn-gold">Join the Loyalty Club</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ IMAGE 4 ══ -->
+  <div class="container section-pad-sm">
+    <img src="/img/VNOK2W8QW7Z.jpg" alt="zzcc" title="zzcc" class="content-img">
+  </div>
+
+  <!-- ══ COMPARISON ══ -->
+  <section class="section-pad bg-charcoal">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">How We Stack Up</div>
+        <h2 class="section-title">zzcc vs. <span>Traditional Methods</span></h2>
+        <div class="divider-gold"></div>
+        <p class="section-desc">See how zzcc compares to traditional offline gambling and generic online platforms when it comes to what matters most to Filipino players.</p>
+      </div>
+      <div class="table-responsive">
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th>Feature</th>
+              <th>zzcc</th>
+              <th>Traditional Offline</th>
+              <th>Generic Platforms</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>GCash / PayMaya Deposits</td>
+              <td><span class="check-yes">✔</span> Instant</td>
+              <td><span class="check-no">✘</span> Cash only</td>
+              <td><span class="check-partial">~</span> Limited</td>
+            </tr>
+            <tr>
+              <td>PHP Currency Support</td>
+              <td><span class="check-yes">✔</span> Native PHP</td>
+              <td><span class="check-yes">✔</span> Cash PHP</td>
+              <td><span class="check-no">✘</span> USD conversion</td>
+            </tr>
+            <tr>
+              <td>24/7 Availability</td>
+              <td><span class="check-yes">✔</span> Always on</td>
+              <td><span class="check-no">✘</span> Limited hours</td>
+              <td><span class="check-partial">~</span> Varies</td>
+            </tr>
+            <tr>
+              <td>Live Sabong Streaming</td>
+              <td><span class="check-yes">✔</span> HD Live</td>
+              <td><span class="check-partial">~</span> Physical only</td>
+              <td><span class="check-no">✘</span> Rarely offered</td>
+            </tr>
+            <tr>
+              <td>Withdrawal Speed</td>
+              <td><span class="check-yes">✔</span> Under 5 min</td>
+              <td><span class="check-no">✘</span> Immediate cash</td>
+              <td><span class="check-partial">~</span> 1–3 days</td>
+            </tr>
+            <tr>
+              <td>Loyalty Rewards Program</td>
+              <td><span class="check-yes">✔</span> 3-tier VIP</td>
+              <td><span class="check-no">✘</span> None</td>
+              <td><span class="check-partial">~</span> Basic points</td>
+            </tr>
+            <tr>
+              <td>Filipino Language Support</td>
+              <td><span class="check-yes">✔</span> English + local</td>
+              <td><span class="check-yes">✔</span> Local</td>
+              <td><span class="check-no">✘</span> English only</td>
+            </tr>
+            <tr>
+              <td>Mobile App (iOS &amp; Android)</td>
+              <td><span class="check-yes">✔</span> Full-featured</td>
+              <td><span class="check-no">✘</span> Not available</td>
+              <td><span class="check-partial">~</span> Basic app</td>
+            </tr>
+            <tr>
+              <td>Responsible Gaming Tools</td>
+              <td><span class="check-yes">✔</span> Deposit limits, self-exclusion</td>
+              <td><span class="check-no">✘</span> None</td>
+              <td><span class="check-partial">~</span> Minimal</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ IMAGE 5 ══ -->
+  <div class="container section-pad-sm">
+    <img src="/img/VNPS5L0LDDC.jpg" alt="zzcc" title="zzcc" class="content-img">
+  </div>
+
+  <!-- ══ BUILT FOR FILIPINOS ══ -->
+  <section class="section-pad">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Local First</div>
+        <h2 class="section-title">Built for <span>Filipinos</span></h2>
+        <div class="divider-gold"></div>
+        <p class="section-desc">zzcc was designed from the ground up with the Filipino player in mind — from payment methods to customer service hours.</p>
+      </div>
+      <div class="row gy-4">
+        <div class="col-md-6 col-lg-3">
+          <div class="ph-feature">
+            <div class="ph-feature-icon"><i class="bibi-cash-coin"></i></div>
+            <div>
+              <h6>Local Payment Methods</h6>
+              <p>GCash, PayMaya, BPI, BDO, Metrobank — deposit and withdraw in PHP with zero conversion fees.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="ph-feature">
+            <div class="ph-feature-icon"><i class="bi bi-translate"></i></div>
+            <div>
+              <h6>English-Language Platform</h6>
+              <p>Clear, natural English throughout — no confusing translations or awkward phrasing for Filipino users.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="ph-feature">
+            <div class="ph-feature-icon"><i class="bi bi-clock"></i></div>
+            <div>
+              <h6>PH Time Support Hours</h6>
+              <p>Customer service agents based in the Philippines, available 24/7 on Philippine Standard Time (PST).</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="ph-feature">
+            <div class="ph-feature-icon"><i class="bi bi-currency-dollar"></i></div>
+            <div>
+              <h6>PHP Currency Native</h6>
+              <p>All balances, bets, and payouts displayed in Philippine Peso. No surprises, no hidden FX charges.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="ph-feature">
+            <div class="ph-feature-icon"><i class="bi bi-geo-alt"></i></div>
+            <div>
+              <h6>Serving All Regions</h6>
+              <p>From Metro Manila, Cebu, Davao, Iloilo to Cagayan de Oro — zzcc is accessible nationwide.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="ph-feature">
+            <div class="ph-feature-icon"><i class="bi bi-feather"></i></div>
+            <div>
+              <h6>Sabong &amp; Local Games</h6>
+              <p>Live sabong, bingo, and locally popular game formats that resonate with Filipino culture.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="ph-feature">
+            <div class="ph-feature-icon"><i class="bi bi-shield-lock"></i></div>
+            <div>
+              <h6>Responsible Gaming</h6>
+              <p>PAGCOR-aligned responsible gaming tools including deposit limits and self-exclusion options.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+          <div class="ph-feature">
+            <div class="ph-feature-icon"><i class="bi bi-people"></i></div>
+            <div>
+              <h6>Community &amp; Promos</h6>
+              <p>Regular Filipino holiday promos, Pasko bonuses, and community tournaments for local players.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ IMAGE 6 ══ -->
+  <div class="container section-pad-sm">
+    <img src="/img/VMZ6Z39ZDON.jpg" alt="zzcc" title="zzcc" class="content-img">
+  </div>
+
+  <!-- ══ VIDEO HIGHLIGHTS ══ -->
+  <section class="section-pad bg-charcoal">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Watch &amp; Learn</div>
+        <h2 class="section-title">Video <span>Highlights</span></h2>
+        <div class="divider-gold"></div>
+        <p class="section-desc">Get a feel for the zzcc experience — from big win moments to step-by-step tutorials for new players.</p>
+      </div>
+      <div class="row gy-4">
+        <div class="col-md-4">
+          <div class="video-card">
+            <div class="video-thumb" style="background: linear-gradient(135deg, #0d1117 0%, #1a1200 100%);">
+              <div class="play-btn"><i class="bi bi-play-fill"></i></div>
+            </div>
+            <div class="video-label">
+              <h6>zzcc Brand Introduction</h6>
+              <span>2 min · Platform overview for new players</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="video-card">
+            <div class="video-thumb" style="background: linear-gradient(135deg, #1a0d00 0%, #2a1800 100%);">
+              <div class="play-btn"><i class="bi bi-play-fill"></i></div>
+            </div>
+            <div class="video-label">
+              <h6>Big Win Moments — July 2025</h6>
+              <span>4 min · Real jackpot highlights from zzcc players</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="video-card">
+            <div class="video-thumb" style="background: linear-gradient(135deg, #0a0d1a 0%, #0d1a0a 100%);">
+              <div class="play-btn"><i class="bi bi-play-fill"></i></div>
+            </div>
+            <div class="video-label">
+              <h6>How to Deposit via GCash</h6>
+              <span>3 min · Step-by-step tutorial for Filipino players</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ UPCOMING EVENTS ══ -->
+  <section class="section-pad">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Mark Your Calendar</div>
+        <h2 class="section-title">Upcoming <span>Events</span></h2>
+        <div class="divider-gold"></div>
+        <p class="section-desc">Don't miss these scheduled matches, tournaments, and special promotions coming up on zzcc.</p>
+      </div>
+      <div class="row gy-3">
+        <div class="col-12">
+          <div class="upcoming-card">
+            <div class="event-date-badge">AUG<br>12</div>
+            <div class="flex-grow-1">
+              <div style="font-weight:600; font-size:0.95rem; color:var(--text-light);">PBA Philippine Cup Finals — Game 1</div>
+              <div style="font-size:0.8rem; color:var(--text-muted);">Basketball · Live betting opens 2 hours before tip-off</div>
+            </div>
+            <span style="font-size:0.78rem; color:var(--gold); white-space:nowrap;">Sports Betting</span>
+          </div>
+        </div>
+        <div class="col-12">
+          <div class="upcoming-card">
+            <div class="event-date-badge">AUG<br>15</div>
+            <div class="flex-grow-1">
+              <div style="font-weight:600; font-size:0.95rem; color:var(--text-light);">zzcc Mega Slots Tournament — ₱500,000 Prize Pool</div>
+              <div style="font-size:0.8rem; color:var(--text-muted);">Slots · Open to all registered players · Buy-in ₱200</div>
+            </div>
+            <span style="font-size:0.78rem; color:var(--gold); white-space:nowrap;">Tournament</span>
+          </div>
+        </div>
+        <div class="col-12">
+          <div class="upcoming-card">
+            <div class="event-date-badge">AUG<br>20</div>
+            <div class="flex-grow-1">
+              <div style="font-weight:600; font-size:0.95rem; color:var(--text-light);">International Boxing — Filipino Contender Night</div>
+              <div style="font-size:0.8rem; color:var(--text-muted);">Boxing · 3 bouts · Special parlay odds available</div>
+            </div>
+            <span style="font-size:0.78rem; color:var(--gold); white-space:nowrap;">Sports Betting</span>
+          </div>
+        </div>
+        <div class="col-12">
+          <div class="upcoming-card">
+            <div class="event-date-badge">AUG<br>25</div>
+            <div class="flex-grow-1">
+              <div style="font-weight:600; font-size:0.95rem; color:var(--text-light);">National Bingo Championship — zzcc Online Qualifier</div>
+              <div style="font-size:0.8rem; color:var(--text-muted);">Bingo · Free entry for Silver &amp; Gold members</div>
+            </div>
+            <span style="font-size:0.78rem; color:var(--gold); white-space:nowrap;">Bingo</span>
+          </div>
+        </div>
+        <div class="col-12">
+          <div class="upcoming-card">
+            <div class="event-date-badge">SEP<br>01</div>
+            <div class="flex-grow-1">
+              <div style="font-weight:600; font-size:0.95rem; color:var(--text-light);">zzcc Anniversary Promo — Double Points Weekend</div>
+              <div style="font-size:0.8rem; color:var(--text-muted);">All Games · 2x loyalty points on every bet placed</div>
+            </div>
+            <span style="font-size:0.78rem; color:var(--gold); white-space:nowrap;">Promotion</span>
+          </div>
+        </div>
+        <div class="col-12">
+          <div class="upcoming-card">
+            <div class="event-date-badge">SEP<br>07</div>
+            <div class="flex-grow-1">
+              <div style="font-weight:600; font-size:0.95rem; color:var(--text-light);">Live Sabong Grand Derby — Nationwide Qualifier</div>
+              <div style="font-size:0.8rem; color:var(--text-muted);">Sabong · HD live stream · Special derby odds</div>
+            </div>
+            <span style="font-size:0.78rem; color:var(--gold); white-space:nowrap;">Sabong</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ IMAGE 7 ══ -->
+  <div class="container section-pad-sm">
+    <img src="/img/VNIUHRDEZU6.jpg" alt="zzcc" title="zzcc" class="content-img">
+  </div>
+
+  <!-- ══ APP DOWNLOAD ══ -->
+  <section class="app-section section-pad">
+    <div class="container">
+      <div class="row align-items-center gy-5">
+        <div class="col-lg-5 text-center">
+          <div class="qr-placeholder">
+            <i class="bi bi-qr-code"></i>
+          </div>
+          <p style="font-size:0.8rem; color:var(--text-muted);">Scan to download the zzcc app</p>
+          <div class="d-flex justify-content-center gap-3 flex-wrap mt-3">
+            <div class="app-store-btn">
+              <i class="bi bi-apple"></i>
+              <div>
+                <div style="font-size:0.65rem; color:var(--text-muted); line-height:1;">Download on the</div>
+                <div style="font-weight:700; font-size:0.9rem; line-height:1.3;">App Store</div>
+              </div>
+            </div>
+            <div class="app-store-btn">
+              <i class="bi bi-google-play"></i>
+              <div>
+                <div style="font-size:0.65rem; color:var(--text-muted); line-height:1;">Get it on</div>
+                <div style="font-weight:700; font-size:0.9rem; line-height:1.3;">Google Play</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-7">
+          <div class="section-label">Mobile Gaming</div>
+          <h2 class="section-title">Download the <span>zzcc App</span></h2>
+          <div class="divider-gold" style="margin-left:0;"></div>
+          <p style="color:var(--text-muted); margin-bottom:1.75rem;">Take the full zzcc experience wherever you go. Our mobile app is built for speed, stability, and seamless play — whether you're commuting in Manila or relaxing in Cebu.</p>
+          <ul style="list-style:none; padding:0; margin:0 0 2rem;">
+            <li style="display:flex; align-items:center; gap:0.75rem; padding:0.5rem 0; border-bottom:1px solid rgba(251,191,36,0.1); font-size:0.9rem; color:#d1d5db;">
+              <i class="bi bi-check-circle-fill text-gold"></i> Full game library — slots, live casino, sports, sabong, bingo
+            </li>
+            <li style="display:flex; align-items:center; gap:0.75rem; padding:0.5rem 0; border-bottom:1px solid rgba(251,191,36,0.1); font-size:0.9rem; color:#d1d5db;">
+              <i class="bi bi-check-circle-fill text-gold"></i> One-tap GCash and PayMaya deposits
+            </li>
+            <li style="display:flex; align-items:center; gap:0.75rem; padding:0.5rem 0; border-bottom:1px solid rgba(251,191,36,0.1); font-size:0.9rem; color:#d1d5db;">
+              <i class="bi bi-check-circle-fill text-gold"></i> Push notifications for live events and exclusive app-only promos
+            </li>
+            <li style="display:flex; align-items:center; gap:0.75rem; padding:0.5rem 0; border-bottom:1px solid rgba(251,191,36,0.1); font-size:0.9rem; color:#d1d5db;">
+              <i class="bi bi-check-circle-fill text-gold"></i> Biometric login — fingerprint and Face ID supported
+            </li>
+            <li style="display:flex; align-items:center; gap:0.75rem; padding:0.5rem 0; font-size:0.9rem; color:#d1d5db;">
+              <i class="bi bi-check-circle-fill text-gold"></i> Lightweight install — under 45MB, works on older Android devices
+            </li>
+          </ul>
+          <a href="/zzcc-casino" class="btn-gold">Explore zzcc Casino</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ PRIVACY NOTICE ══ -->
+  <section class="section-pad-sm">
+    <div class="container">
+      <div class="privacy-notice">
+        <div class="d-flex align-items-start gap-3">
+          <i class="bi bi-shield-check" style="font-size:1.5rem; color:var(--gold); flex-shrink:0; margin-top:0.1rem;"></i>
+          <div>
+            <h6 style="font-family:'Playfair Display',serif; color:var(--gold); margin-bottom:0.4rem; font-size:0.95rem;">Your Privacy Matters at zzcc</h6>
+            <p>zzcc is committed to protecting your personal data. We collect only the information necessary to operate your account, process transactions, and improve your experience. Your data is never sold to third parties. All information is stored with 256-bit encryption and handled in accordance with applicable data protection regulations. For full details, please review our <a href="/privacy-policy" style="color:var(--gold); text-decoration:underline;">Privacy Policy</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ IMAGE 8 ══ -->
+  <div class="container section-pad-sm">
+    <img src="/img/VNNJONZPOP.jpg" alt="zzcc" title="zzcc" class="content-img">
+  </div>
+
+  <!-- ══ SUPPORT ══ -->
+  <section class="support-section section-pad">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Always Here for You</div>
+        <h2 class="section-title">24/7 <span>Support</span></h2>
+        <div class="divider-gold"></div>
+        <p class="section-desc">Got a question? Our Filipino support team is ready to help any time of day or night.</p>
+      </div>
+      <div class="row gy-4">
+        <div class="col-md-4">
+          <div class="support-item">
+            <i class="bi bi-chat-dots"></i>
+            <div>
+              <h6>Live Chat</h6>
+              <p>Available 24 hours a day, 7 days a week. Average response time under 2 minutes. Access live chat directly from your account dashboard.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="support-item">
+            <i class="bi bi-envelope"></i>
+            <div>
+              <h6>Email Support</h6>
+              <p>Send us a message anytime. Our support email: <span style="color:var(--gold); font-weight:500;">support@zzcc.app</span><br>Response within 2 hours during business hours (8AM–10PM PST).</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="support-item">
+            <i class="bi bi-question-circle"></i>
+            <div>
+              <h6>Help Center</h6>
+              <p>Browse our comprehensive FAQ and guides covering deposits, withdrawals, bonuses, account verification, and responsible gaming tools.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ AGE / RESPONSIBLE GAMING NOTICE ══ -->
+  <div class="age-notice">
+    <div class="container">
+      <p>
+        <i class="bi bi-exclamation-triangle-fill" style="color:var(--gold); margin-right:0.4rem;"></i>
+        <strong style="color:var(--text-light);">21+ Only.</strong> zzcc is strictly for players aged 21 and above, in compliance with Philippine gambling regulations. Gambling should be enjoyed responsibly. If you feel you may have a problem, please visit our <a href="/responsible-gaming" style="color:var(--gold);">Responsible Gaming</a> page for help and resources.
+      </p>
+    </div>
+  </div>
+
+  <!-- ══ FOOTER ══ -->
+  <footer>
+    <div class="container">
+      <div class="row gy-5">
+        <div class="col-lg-4">
+          <div class="footer-brand">zzcc</div>
+          <p class="footer-desc">Philippines' premier online gaming destination. Slots, live casino, sports betting, sabong, and bingo — all in one secure platform built for Filipino players.</p>
+          <p style="font-size:0.8rem; color:var(--text-muted); margin-top:1rem;">
+            <i class="bi bi-envelope" style="color:var(--gold); margin-right:0.4rem;"></i>
+            <span>support@zzcc.app</span>
+          </p>
+        </div>
+        <div class="col-6 col-lg-2">
+          <div class="footer-heading">Games</div>
+          <ul class="footer-links">
+            <li><a href="/slot">Slot</a></li>
+            <li><a href="/bingo">Bingo</a></li>
+            <li><a href="/crazy-777">Crazy 777</a></li>
+            <li><a href="/lucky-bingo">Lucky Bingo</a></li>
+            <li><a href="/zzcc-casino">zzcc Casino</a></li>
+          </ul>
+        </div>
+        <div class="col-6 col-lg-2">
+          <div class="footer-heading">Account</div>
+          <ul class="footer-links">
+            <li><a href="/zzcc-login">zzcc Login</a></li>
+            <li><a href="/zzcc-casino">Play Now</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-4">
+          <div class="footer-heading">Information</div>
+          <ul class="footer-links">
+            <li><a href="/about-us">About Us</a></li>
+            <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+            <li><a href="/privacy-policy">Privacy Policy</a></li>
+            <li><a href="/responsible-gaming">Responsible Gaming</a></li>
+            <li><a href="/faq">FAQ</a></li>
+            <li><a href="/sitemap.xml">Sitemap</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <hr class="footer-divider">
+
+      <div class="row align-items-center gy-3">
+        <div class="col-md-6">
+          <p class="footer-bottom mb-0">© 2026 zzcc. All rights reserved. For entertainment purposes. 21+ only.</p>
+        </div>
+        <div class="col-md-6 text-md-end">
+          <p class="footer-bottom mb-0">
+            <i class="bi bi-shield-check" style="color:var(--gold); margin-right:0.3rem;"></i>
+            Operated under applicable Philippine gaming regulations. Play responsibly.
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;7eae1ffdee8e4303846492caf89a2053&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a45df198cdf9ad69',t:'MTc5MTIxOTIxOQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; visibility: hidden;"></iframe>
+
+<div id="ph-stick" style="left: 0px; transform: translateZ(0px); max-width: 100%; width: 100%; bottom: 0px;"><div class="wrap">  <a href="https://www.jl7700.com/m/home?affiliateCode=h5125" class="btn btn-register" target="_blank" rel="nofollow noopener noreferrer">    <span class="icon"><svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M20 7h-3.17A2.99 2.99 0 0 0 17 6c0-1.66-1.34-3-3-3-1.05 0-1.97.54-2.5 1.35L11 5l-.5-.66A3 3 0 0 0 8 3C6.34 3 5 4.34 5 6c0 .36.06.7.17 1H2v2h2v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9h2V7zm-6-2a1 1 0 1 1 0 2h-2V6a1 1 0 0 1 2-1zM8 5a1 1 0 0 1 1 1v1H7V6a1 1 0 0 1 1-1zm2 15H6V9h4v11zm0-13h4v2h-4V7zm8 13h-4V9h4v11z"></path></svg></span>    <span class="label">Register</span>  </a>  <a href="https://www.jl7700.com/m/home?affiliateCode=h5125" class="btn btn-login" target="_blank" rel="nofollow noopener noreferrer">    <span class="icon"><svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M3 18h18v2H3v-2zm0-2l-1-8 5 3 5-7 5 7 5-3-1 8H3z"></path></svg></span>    <span class="label">Login</span>  </a></div></div></body></html>

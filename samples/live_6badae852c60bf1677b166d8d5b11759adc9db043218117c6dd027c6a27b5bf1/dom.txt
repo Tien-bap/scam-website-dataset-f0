@@ -1,0 +1,1015 @@
+<!DOCTYPE html><html lang="vi-VN" class="reveal-done"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>kubet11 - Nền tảng cá cược trực tuyến uy tín cho người Việt</title>
+<meta name="description" content="Trải nghiệm kubet11 với giao diện thân thiện, bảo mật cao và nhiều trò chơi cá cược hấp dẫn dành riêng cho thị trường Việt Nam.">
+<link rel="canonical" href="https://kubet11-bangla.com">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<meta property="og:type" content="website">
+<meta property="og:title" content="kubet11 - Nền tảng cá cược trực tuyến uy tín cho người Việt">
+<meta property="og:description" content="Trải nghiệm kubet11 với giao diện thân thiện, bảo mật cao và nhiều trò chơi cá cược hấp dẫn dành riêng cho thị trường Việt Nam.">
+<meta property="og:url" content="https://kubet11-bangla.com">
+<meta property="og:site_name" content="kubet11">
+<meta property="og:image" content="https://kubet11-bangla.com/logo.png">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+<meta property="og:image:alt" content="Logo kubet11">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="kubet11 - Nền tảng cá cược trực tuyến uy tín cho người Việt">
+<meta name="twitter:description" content="Trải nghiệm kubet11 với giao diện thân thiện, bảo mật cao và nhiều trò chơi cá cược hấp dẫn dành riêng cho thị trường Việt Nam.">
+<meta name="twitter:image" content="https://kubet11-bangla.com/logo.png">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+<style id="theme-tokens">:root{--page-bg:#071614;--page-text:#d6f2ed;--page-heading:#f0fdfa;--page-muted:#82bdb3;--page-link:#5eead4;--btn-bg:#14b8a6;--btn-text:#071614;--btn-hover:#0d9488;}
+html,body{background:#071614;color:#d6f2ed;}
+body{-webkit-font-smoothing:antialiased;}
+h1,h2,h3,h4,h5,h6{color:#f0fdfa;}
+p,li,span,strong,em,small,label,td,th,dd,dt,figcaption{color:inherit;}
+.muted,.text-muted{color:#82bdb3 !important;}
+a:not(.btn){color:#5eead4;}
+a:not(.btn):hover,a:not(.btn):focus{color:#5eead4;text-decoration:underline;}
+.surface-page{background:#071614 !important;color:#d6f2ed;border-color:rgba(255,255,255,0.14);}
+.surface-page.surface-page h1,.surface-page.surface-page h2,.surface-page.surface-page h3,.surface-page.surface-page h4,.surface-page.surface-page h5,.surface-page.surface-page h6,.surface-page.surface-page .heading{color:#f0fdfa;}
+.surface-page.surface-page :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.icon-circle):not(.icon-bubble){color:#d6f2ed;}
+.surface-page.surface-page *:not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not(.form-control):not(.form-select):not(input):not(textarea):not(select):not(option):not(.navbar-toggler):not([class*="surface-"]):not(a){color:inherit;}
+.surface-page.surface-page .icon-circle,.surface-page.surface-page .icon-bubble{background-color:#14b8a6 !important;color:#071614 !important;}
+.surface-page.surface-page .form-control,.surface-page.surface-page .form-select,.surface-page.surface-page input,.surface-page.surface-page textarea,.surface-page.surface-page select{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-page.surface-page .form-control::placeholder,.surface-page.surface-page input::placeholder,.surface-page.surface-page textarea::placeholder{color:#6b7280 !important;}
+.surface-page.surface-page option{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-page.surface-page .muted,.surface-page.surface-page .text-muted{color:#82bdb3 !important;}
+.surface-page:is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light){color:#d6f2ed !important;}
+.surface-page.surface-page :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,div):is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not([class*="surface-"]){color:#d6f2ed !important;}
+.surface-page.surface-page a:not(.btn){color:#5eead4;}
+.surface-page.surface-page a:not(.btn):hover,.surface-page.surface-page a:not(.btn):focus{color:#5eead4;text-decoration:underline;}
+.surface-page:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){border:1px solid rgba(255,255,255,0.14);box-shadow:0 6px 18px rgba(0,0,0,0.45);}
+.surface-page:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){color:#d6f2ed !important;}
+.surface-page:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review) a:not(.btn){color:inherit !important;text-decoration:underline;}
+.surface-page .table,.surface-page.table,.surface-page table,.surface-page.table-responsive .table{--bs-table-bg:transparent;--bs-table-color:#d6f2ed;--bs-table-striped-bg:transparent;--bs-table-striped-color:#d6f2ed;--bs-table-border-color:rgba(255,255,255,0.14);}
+.surface-page .table>:not(caption)>*>*,.surface-page.table>:not(caption)>*>*{background-color:transparent !important;}
+.surface-page .badge,.surface-page .badge-pill,.surface-page .chip,.surface-page .tag,.surface-page .pill{background:#d6f2ed !important;color:#071614 !important;border:1px solid #d6f2ed !important;}
+.surface-page .badge i,.surface-page .badge-pill i,.surface-page .chip i,.surface-page .tag i,.surface-page .pill i{color:#071614 !important;}
+.surface-page :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary){background:#d6f2ed !important;color:#071614 !important;border-color:#d6f2ed !important;}
+.surface-page :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary) i{color:#071614 !important;}
+.surface-page.surface-page a.badge,.surface-page.surface-page a.badge-pill,.surface-page.surface-page a.chip,.surface-page.surface-page a.tag,.surface-page.surface-page a.pill,.surface-page.surface-page a:not(.btn).badge-pill,.surface-page.surface-page a:not(.btn).badge,.surface-page.surface-page a:not(.btn).chip,.surface-page.surface-page a:not(.btn).tag,.surface-page.surface-page a:not(.btn).pill{color:#071614 !important;text-decoration:none !important;}
+.surface-page .btn-ghost{color:inherit !important;border-color:currentColor !important;background:transparent !important;}
+.surface-page .btn-ghost:hover,.surface-page .btn-ghost:focus{background:#5eead4 !important;color:#071614 !important;}
+.surface-page.surface-page .accordion-button,.surface-page.surface-page .accordion-button.collapsed,.surface-page.surface-page .accordion-button:not(.collapsed){color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.surface-page.surface-page .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s;}
+.surface-page.surface-page .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-page.surface-page button:not(.btn):not(.accordion-button):not(.navbar-toggler){color:#d6f2ed;}
+.surface-dark{background:#0d2522 !important;color:#d6f2ed;border-color:rgba(255,255,255,0.14);}
+.surface-dark.surface-dark h1,.surface-dark.surface-dark h2,.surface-dark.surface-dark h3,.surface-dark.surface-dark h4,.surface-dark.surface-dark h5,.surface-dark.surface-dark h6,.surface-dark.surface-dark .heading{color:#ffffff;}
+.surface-dark.surface-dark :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.icon-circle):not(.icon-bubble){color:#d6f2ed;}
+.surface-dark.surface-dark *:not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not(.form-control):not(.form-select):not(input):not(textarea):not(select):not(option):not(.navbar-toggler):not([class*="surface-"]):not(a){color:inherit;}
+.surface-dark.surface-dark .icon-circle,.surface-dark.surface-dark .icon-bubble{background-color:#14b8a6 !important;color:#071614 !important;}
+.surface-dark.surface-dark .form-control,.surface-dark.surface-dark .form-select,.surface-dark.surface-dark input,.surface-dark.surface-dark textarea,.surface-dark.surface-dark select{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-dark.surface-dark .form-control::placeholder,.surface-dark.surface-dark input::placeholder,.surface-dark.surface-dark textarea::placeholder{color:#6b7280 !important;}
+.surface-dark.surface-dark option{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-dark.surface-dark .muted,.surface-dark.surface-dark .text-muted{color:#8fc7bd !important;}
+.surface-dark:is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light){color:#d6f2ed !important;}
+.surface-dark.surface-dark :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,div):is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not([class*="surface-"]){color:#d6f2ed !important;}
+.surface-dark.surface-dark a:not(.btn){color:#5eead4;}
+.surface-dark.surface-dark a:not(.btn):hover,.surface-dark.surface-dark a:not(.btn):focus{color:#5eead4;text-decoration:underline;}
+.surface-dark:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){border:1px solid rgba(255,255,255,0.14);box-shadow:0 6px 18px rgba(0,0,0,0.45);}
+.surface-dark:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){color:#d6f2ed !important;}
+.surface-dark:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review) a:not(.btn){color:inherit !important;text-decoration:underline;}
+.surface-dark .table,.surface-dark.table,.surface-dark table,.surface-dark.table-responsive .table{--bs-table-bg:transparent;--bs-table-color:#d6f2ed;--bs-table-striped-bg:transparent;--bs-table-striped-color:#d6f2ed;--bs-table-border-color:rgba(255,255,255,0.14);}
+.surface-dark .table>:not(caption)>*>*,.surface-dark.table>:not(caption)>*>*{background-color:transparent !important;}
+.surface-dark .badge,.surface-dark .badge-pill,.surface-dark .chip,.surface-dark .tag,.surface-dark .pill{background:#d6f2ed !important;color:#0d2522 !important;border:1px solid #d6f2ed !important;}
+.surface-dark .badge i,.surface-dark .badge-pill i,.surface-dark .chip i,.surface-dark .tag i,.surface-dark .pill i{color:#0d2522 !important;}
+.surface-dark :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary){background:#d6f2ed !important;color:#0d2522 !important;border-color:#d6f2ed !important;}
+.surface-dark :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary) i{color:#0d2522 !important;}
+.surface-dark.surface-dark a.badge,.surface-dark.surface-dark a.badge-pill,.surface-dark.surface-dark a.chip,.surface-dark.surface-dark a.tag,.surface-dark.surface-dark a.pill,.surface-dark.surface-dark a:not(.btn).badge-pill,.surface-dark.surface-dark a:not(.btn).badge,.surface-dark.surface-dark a:not(.btn).chip,.surface-dark.surface-dark a:not(.btn).tag,.surface-dark.surface-dark a:not(.btn).pill{color:#0d2522 !important;text-decoration:none !important;}
+.surface-dark .btn-ghost{color:inherit !important;border-color:currentColor !important;background:transparent !important;}
+.surface-dark .btn-ghost:hover,.surface-dark .btn-ghost:focus{background:#5eead4 !important;color:#0d2522 !important;}
+.surface-dark.surface-dark .accordion-button,.surface-dark.surface-dark .accordion-button.collapsed,.surface-dark.surface-dark .accordion-button:not(.collapsed){color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.surface-dark.surface-dark .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s;}
+.surface-dark.surface-dark .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-dark.surface-dark button:not(.btn):not(.accordion-button):not(.navbar-toggler){color:#d6f2ed;}
+.surface-light{background:#f0fbf9 !important;color:#08302b;border-color:rgba(15,23,42,0.12);}
+.surface-light.surface-light h1,.surface-light.surface-light h2,.surface-light.surface-light h3,.surface-light.surface-light h4,.surface-light.surface-light h5,.surface-light.surface-light h6,.surface-light.surface-light .heading{color:#041d19;}
+.surface-light.surface-light :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.icon-circle):not(.icon-bubble){color:#08302b;}
+.surface-light.surface-light *:not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not(.form-control):not(.form-select):not(input):not(textarea):not(select):not(option):not(.navbar-toggler):not([class*="surface-"]):not(a){color:inherit;}
+.surface-light.surface-light .icon-circle,.surface-light.surface-light .icon-bubble{background-color:#14b8a6 !important;color:#071614 !important;}
+.surface-light.surface-light .form-control,.surface-light.surface-light .form-select,.surface-light.surface-light input,.surface-light.surface-light textarea,.surface-light.surface-light select{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-light.surface-light .form-control::placeholder,.surface-light.surface-light input::placeholder,.surface-light.surface-light textarea::placeholder{color:#6b7280 !important;}
+.surface-light.surface-light option{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-light.surface-light .muted,.surface-light.surface-light .text-muted{color:#3a6b62 !important;}
+.surface-light:is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light){color:#08302b !important;}
+.surface-light.surface-light :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,div):is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not([class*="surface-"]){color:#08302b !important;}
+.surface-light.surface-light a:not(.btn){color:#0a6f66;}
+.surface-light.surface-light a:not(.btn):hover,.surface-light.surface-light a:not(.btn):focus{color:#0a6f66;text-decoration:underline;}
+.surface-light:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){border:1px solid rgba(15,23,42,0.12);box-shadow:0 6px 18px rgba(15,23,42,0.10);}
+.surface-light:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){color:#08302b !important;}
+.surface-light:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review) a:not(.btn){color:inherit !important;text-decoration:underline;}
+.surface-light .table,.surface-light.table,.surface-light table,.surface-light.table-responsive .table{--bs-table-bg:transparent;--bs-table-color:#08302b;--bs-table-striped-bg:transparent;--bs-table-striped-color:#08302b;--bs-table-border-color:rgba(15,23,42,0.12);}
+.surface-light .table>:not(caption)>*>*,.surface-light.table>:not(caption)>*>*{background-color:transparent !important;}
+.surface-light .badge,.surface-light .badge-pill,.surface-light .chip,.surface-light .tag,.surface-light .pill{background:#08302b !important;color:#f0fbf9 !important;border:1px solid #08302b !important;}
+.surface-light .badge i,.surface-light .badge-pill i,.surface-light .chip i,.surface-light .tag i,.surface-light .pill i{color:#f0fbf9 !important;}
+.surface-light :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary){background:#08302b !important;color:#f0fbf9 !important;border-color:#08302b !important;}
+.surface-light :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary) i{color:#f0fbf9 !important;}
+.surface-light.surface-light a.badge,.surface-light.surface-light a.badge-pill,.surface-light.surface-light a.chip,.surface-light.surface-light a.tag,.surface-light.surface-light a.pill,.surface-light.surface-light a:not(.btn).badge-pill,.surface-light.surface-light a:not(.btn).badge,.surface-light.surface-light a:not(.btn).chip,.surface-light.surface-light a:not(.btn).tag,.surface-light.surface-light a:not(.btn).pill{color:#f0fbf9 !important;text-decoration:none !important;}
+.surface-light .btn-ghost{color:inherit !important;border-color:currentColor !important;background:transparent !important;}
+.surface-light .btn-ghost:hover,.surface-light .btn-ghost:focus{background:#0a6f66 !important;color:#f0fbf9 !important;}
+.surface-light.surface-light .accordion-button,.surface-light.surface-light .accordion-button.collapsed,.surface-light.surface-light .accordion-button:not(.collapsed){color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.surface-light.surface-light .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s;}
+.surface-light.surface-light .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-light.surface-light button:not(.btn):not(.accordion-button):not(.navbar-toggler){color:#08302b;}
+.surface-soft{background:#112e2a !important;color:#d6f2ed;border-color:rgba(255,255,255,0.14);}
+.surface-soft.surface-soft h1,.surface-soft.surface-soft h2,.surface-soft.surface-soft h3,.surface-soft.surface-soft h4,.surface-soft.surface-soft h5,.surface-soft.surface-soft h6,.surface-soft.surface-soft .heading{color:#ffffff;}
+.surface-soft.surface-soft :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.icon-circle):not(.icon-bubble){color:#d6f2ed;}
+.surface-soft.surface-soft *:not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not(.form-control):not(.form-select):not(input):not(textarea):not(select):not(option):not(.navbar-toggler):not([class*="surface-"]):not(a){color:inherit;}
+.surface-soft.surface-soft .icon-circle,.surface-soft.surface-soft .icon-bubble{background-color:#14b8a6 !important;color:#071614 !important;}
+.surface-soft.surface-soft .form-control,.surface-soft.surface-soft .form-select,.surface-soft.surface-soft input,.surface-soft.surface-soft textarea,.surface-soft.surface-soft select{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-soft.surface-soft .form-control::placeholder,.surface-soft.surface-soft input::placeholder,.surface-soft.surface-soft textarea::placeholder{color:#6b7280 !important;}
+.surface-soft.surface-soft option{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-soft.surface-soft .muted,.surface-soft.surface-soft .text-muted{color:#8fc7bd !important;}
+.surface-soft:is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light){color:#d6f2ed !important;}
+.surface-soft.surface-soft :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,div):is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not([class*="surface-"]){color:#d6f2ed !important;}
+.surface-soft.surface-soft a:not(.btn){color:#5eead4;}
+.surface-soft.surface-soft a:not(.btn):hover,.surface-soft.surface-soft a:not(.btn):focus{color:#5eead4;text-decoration:underline;}
+.surface-soft:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){border:1px solid rgba(255,255,255,0.14);box-shadow:0 6px 18px rgba(0,0,0,0.45);}
+.surface-soft:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){color:#d6f2ed !important;}
+.surface-soft:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review) a:not(.btn){color:inherit !important;text-decoration:underline;}
+.surface-soft .table,.surface-soft.table,.surface-soft table,.surface-soft.table-responsive .table{--bs-table-bg:transparent;--bs-table-color:#d6f2ed;--bs-table-striped-bg:transparent;--bs-table-striped-color:#d6f2ed;--bs-table-border-color:rgba(255,255,255,0.14);}
+.surface-soft .table>:not(caption)>*>*,.surface-soft.table>:not(caption)>*>*{background-color:transparent !important;}
+.surface-soft .badge,.surface-soft .badge-pill,.surface-soft .chip,.surface-soft .tag,.surface-soft .pill{background:#d6f2ed !important;color:#112e2a !important;border:1px solid #d6f2ed !important;}
+.surface-soft .badge i,.surface-soft .badge-pill i,.surface-soft .chip i,.surface-soft .tag i,.surface-soft .pill i{color:#112e2a !important;}
+.surface-soft :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary){background:#d6f2ed !important;color:#112e2a !important;border-color:#d6f2ed !important;}
+.surface-soft :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary) i{color:#112e2a !important;}
+.surface-soft.surface-soft a.badge,.surface-soft.surface-soft a.badge-pill,.surface-soft.surface-soft a.chip,.surface-soft.surface-soft a.tag,.surface-soft.surface-soft a.pill,.surface-soft.surface-soft a:not(.btn).badge-pill,.surface-soft.surface-soft a:not(.btn).badge,.surface-soft.surface-soft a:not(.btn).chip,.surface-soft.surface-soft a:not(.btn).tag,.surface-soft.surface-soft a:not(.btn).pill{color:#112e2a !important;text-decoration:none !important;}
+.surface-soft .btn-ghost{color:inherit !important;border-color:currentColor !important;background:transparent !important;}
+.surface-soft .btn-ghost:hover,.surface-soft .btn-ghost:focus{background:#5eead4 !important;color:#112e2a !important;}
+.surface-soft.surface-soft .accordion-button,.surface-soft.surface-soft .accordion-button.collapsed,.surface-soft.surface-soft .accordion-button:not(.collapsed){color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.surface-soft.surface-soft .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s;}
+.surface-soft.surface-soft .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-soft.surface-soft button:not(.btn):not(.accordion-button):not(.navbar-toggler){color:#d6f2ed;}
+.surface-accent{background:#0a6f66 !important;color:#ffffff;border-color:rgba(255,255,255,0.14);}
+.surface-accent.surface-accent h1,.surface-accent.surface-accent h2,.surface-accent.surface-accent h3,.surface-accent.surface-accent h4,.surface-accent.surface-accent h5,.surface-accent.surface-accent h6,.surface-accent.surface-accent .heading{color:#ffffff;}
+.surface-accent.surface-accent :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.icon-circle):not(.icon-bubble){color:#ffffff;}
+.surface-accent.surface-accent *:not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not(.form-control):not(.form-select):not(input):not(textarea):not(select):not(option):not(.navbar-toggler):not([class*="surface-"]):not(a){color:inherit;}
+.surface-accent.surface-accent .icon-circle,.surface-accent.surface-accent .icon-bubble{background-color:#14b8a6 !important;color:#071614 !important;}
+.surface-accent.surface-accent .form-control,.surface-accent.surface-accent .form-select,.surface-accent.surface-accent input,.surface-accent.surface-accent textarea,.surface-accent.surface-accent select{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-accent.surface-accent .form-control::placeholder,.surface-accent.surface-accent input::placeholder,.surface-accent.surface-accent textarea::placeholder{color:#6b7280 !important;}
+.surface-accent.surface-accent option{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-accent.surface-accent .muted,.surface-accent.surface-accent .text-muted{color:#ffffff !important;}
+.surface-accent:is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light){color:#ffffff !important;}
+.surface-accent.surface-accent :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,div):is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not([class*="surface-"]){color:#ffffff !important;}
+.surface-accent.surface-accent a:not(.btn){color:#ffffff;}
+.surface-accent.surface-accent a:not(.btn):hover,.surface-accent.surface-accent a:not(.btn):focus{color:#ffffff;text-decoration:underline;}
+.surface-accent:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){border:1px solid rgba(255,255,255,0.14);box-shadow:0 6px 18px rgba(0,0,0,0.45);}
+.surface-accent:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){color:#ffffff !important;}
+.surface-accent:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review) a:not(.btn){color:inherit !important;text-decoration:underline;}
+.surface-accent .table,.surface-accent.table,.surface-accent table,.surface-accent.table-responsive .table{--bs-table-bg:transparent;--bs-table-color:#ffffff;--bs-table-striped-bg:transparent;--bs-table-striped-color:#ffffff;--bs-table-border-color:rgba(255,255,255,0.14);}
+.surface-accent .table>:not(caption)>*>*,.surface-accent.table>:not(caption)>*>*{background-color:transparent !important;}
+.surface-accent .badge,.surface-accent .badge-pill,.surface-accent .chip,.surface-accent .tag,.surface-accent .pill{background:#ffffff !important;color:#0a6f66 !important;border:1px solid #ffffff !important;}
+.surface-accent .badge i,.surface-accent .badge-pill i,.surface-accent .chip i,.surface-accent .tag i,.surface-accent .pill i{color:#0a6f66 !important;}
+.surface-accent :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary){background:#ffffff !important;color:#0a6f66 !important;border-color:#ffffff !important;}
+.surface-accent :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary) i{color:#0a6f66 !important;}
+.surface-accent.surface-accent a.badge,.surface-accent.surface-accent a.badge-pill,.surface-accent.surface-accent a.chip,.surface-accent.surface-accent a.tag,.surface-accent.surface-accent a.pill,.surface-accent.surface-accent a:not(.btn).badge-pill,.surface-accent.surface-accent a:not(.btn).badge,.surface-accent.surface-accent a:not(.btn).chip,.surface-accent.surface-accent a:not(.btn).tag,.surface-accent.surface-accent a:not(.btn).pill{color:#0a6f66 !important;text-decoration:none !important;}
+.surface-accent .btn-ghost{color:inherit !important;border-color:currentColor !important;background:transparent !important;}
+.surface-accent .btn-ghost:hover,.surface-accent .btn-ghost:focus{background:#ffffff !important;color:#0a6f66 !important;}
+.surface-accent.surface-accent .accordion-button,.surface-accent.surface-accent .accordion-button.collapsed,.surface-accent.surface-accent .accordion-button:not(.collapsed){color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.surface-accent.surface-accent .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s;}
+.surface-accent.surface-accent .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-accent.surface-accent button:not(.btn):not(.accordion-button):not(.navbar-toggler){color:#ffffff;}
+.surface-accent :is(p,li,span,strong,em,small,label,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,.heading){color:#ffffff;}
+.surface-accent a:not(.btn){text-decoration:underline;}
+.badge-pill,.chip,.tag,.pill{display:inline-flex;align-items:center;gap:.35rem;padding:.4rem .8rem;border-radius:999px;font-size:.85rem;line-height:1.2;font-weight:600;background:#d6f2ed;color:#071614;border:1px solid #d6f2ed;}
+.surface-accent .badge,.surface-accent .badge-pill,.surface-accent .chip,.surface-accent .tag,.surface-accent .pill{background:#ffffff !important;color:#0a6f66 !important;border:1px solid #ffffff !important;}
+.surface-accent .badge i,.surface-accent .badge-pill i,.surface-accent .chip i,.surface-accent .tag i,.surface-accent .pill i{color:#0a6f66 !important;}
+.surface-dark .bg-light,.surface-dark .bg-white,.surface-soft .bg-light,.surface-soft .bg-white,.surface-page .bg-light,.surface-page .bg-white,.surface-accent .bg-light,.surface-accent .bg-white{background:transparent !important;}
+.surface-light .bg-dark,.surface-light .bg-secondary{background:transparent !important;}
+:is(.surface-page,.surface-dark,.surface-light,.surface-soft,.surface-accent) :is(table,.table):not(.surface-page):not(.surface-dark):not(.surface-light):not(.surface-soft):not(.surface-accent){color:inherit !important;background-color:transparent !important;}
+:is(.surface-page,.surface-dark,.surface-light,.surface-soft,.surface-accent) :is(table,.table) *{color:inherit !important;background-color:transparent !important;}
+:is(.surface-page,.surface-dark,.surface-light,.surface-soft,.surface-accent) :is(.surface-page,.surface-dark,.surface-light,.surface-soft,.surface-accent) :is(p,li,span,strong,em,small,label,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,.heading,.muted,.text-muted):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not([class*="surface-"]){color:inherit !important;}
+:is(.surface-page,.surface-dark,.surface-light,.surface-soft,.surface-accent) :is(p,li,span,strong,em,small,label,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,.heading,.muted,.text-muted):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not([class*="surface-"]){color:inherit;}
+.btn-brand{background:#14b8a6 !important;color:#071614 !important;border:0;}
+.btn-brand:hover,.btn-brand:focus{background:#0d9488 !important;color:#071614 !important;}
+.btn-ghost{background:transparent !important;color:#5eead4 !important;border:1px solid #5eead4 !important;}
+.btn-ghost:hover,.btn-ghost:focus{background:#5eead4 !important;color:#071614 !important;}
+a.surface-light.surface-light[class*="surface-light"]:is(.card,.rounded-xl,.card-space,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell){color:#08302b !important;}
+a.surface-page.surface-page[class*="surface-page"]:is(.card,.rounded-xl,.card-space,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell){color:#d6f2ed !important;}
+a.surface-soft.surface-soft[class*="surface-soft"]:is(.card,.rounded-xl,.card-space,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell){color:#d6f2ed !important;}
+a.surface-light.surface-light[class*="surface-light"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(strong,span,p,small,em,b,i,h1,h2,h3,h4,h5,h6,div):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill){color:#08302b !important;}
+a.surface-page.surface-page[class*="surface-page"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(strong,span,p,small,em,b,i,h1,h2,h3,h4,h5,h6,div):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill){color:#d6f2ed !important;}
+a.surface-soft.surface-soft[class*="surface-soft"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(strong,span,p,small,em,b,i,h1,h2,h3,h4,h5,h6,div):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill){color:#d6f2ed !important;}
+.surface-light.surface-light[class*="surface-light"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(.badge,.badge-pill,.chip,.tag,.pill){background:#08302b !important;color:#f0fbf9 !important;border-color:#08302b !important;}
+.surface-page.surface-page[class*="surface-page"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(.badge,.badge-pill,.chip,.tag,.pill){background:#d6f2ed !important;color:#071614 !important;border-color:#d6f2ed !important;}
+.surface-soft.surface-soft[class*="surface-soft"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(.badge,.badge-pill,.chip,.tag,.pill){background:#d6f2ed !important;color:#112e2a !important;border-color:#d6f2ed !important;}
+.card:not([class*="surface-"]),.accordion:not([class*="surface-"]),.accordion-item:not([class*="surface-"]){background-color:transparent !important;color:inherit !important;border-color:rgba(255,255,255,0.14) !important;}
+.card:not([class*="surface-"]) :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,div),.accordion-item:not([class*="surface-"]) :is(p,li,span,strong,em,small,label,div){color:inherit;}
+.card:not([class*="surface-"]) :is(h1,h2,h3,h4,h5,h6,.heading),.accordion-item:not([class*="surface-"]) :is(h1,h2,h3,h4,h5,h6,.heading){color:inherit;}
+.accordion-button:not([class*="surface-"]),.accordion:not([class*="surface-"]) .accordion-button{color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.accordion:not([class*="surface-"]) .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);}
+.accordion:not([class*="surface-"]) .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-accent [class*="glow"],.surface-accent[class*="glow"],.surface-accent [class*="gradient-text"],.surface-accent [class*="text-gradient"]{background:none !important;-webkit-background-clip:initial !important;background-clip:initial !important;-webkit-text-fill-color:currentColor !important;color:#ffffff !important;text-shadow:none !important;}</style>
+<style>html{scroll-behavior:smooth;}
+.hero-safe-heading {
+  font-weight: 700;
+  line-height: 1.1;
+  font-size: 2.5rem;
+  max-width: 700px;
+  margin-bottom: 1rem;
+}
+.btn-brand {
+  border-radius: 0.5rem;
+  box-shadow: 0 0 15px var(--btn-bg);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.btn-brand:hover, .btn-brand:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 0 25px var(--btn-bg);
+}
+.card {
+  border-radius: 1rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover, .card:focus-within {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.6);
+}
+.hero-orb {
+  position: absolute;
+  top: 3rem;
+  right: 10%;
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--btn-bg)80 0%, transparent 75%);
+  animation: orb-float 12s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+@keyframes orb-float {
+  0%,100% {transform: translateY(0);}
+  50% {transform: translateY(15px);}
+}
+.scroll-marquee {
+  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
+}
+.scroll-marquee span {
+  display: inline-block;
+  padding-right: 50px;
+  animation: marquee-scroll 20s linear infinite;
+}
+.scroll-marquee:hover span {
+  animation-play-state: paused;
+}
+@keyframes marquee-scroll {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+.reveal {
+  opacity: 1 !important;
+  transform: translateY(16px);
+  transition: transform 0.6s ease-out;
+}
+.reveal.is-visible {
+  transform: none;
+}
+.back-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 15px var(--btn-bg);
+  cursor: pointer;
+  padding: 0.5rem 1.25rem;
+  font-weight: 600;
+  z-index: 1000;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.back-top:hover, .back-top:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 0 25px var(--btn-bg);
+}
+.scrollable-x {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.scrollable-x::-webkit-scrollbar {
+  display: none;
+}
+.icon-circle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3rem;
+  width: 2.25rem;
+  height: 2.25rem;
+  font-size: 1.5rem;
+  flex-shrink: 0;
+  margin-right: 0.75rem;
+  background-color: var(--btn-bg);
+  color: var(--btn-text);
+}
+.timeline-item {
+  display: flex;
+  gap: 1rem;
+}
+.timeline-step {
+  flex-shrink: 0;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  background-color: var(--btn-bg);
+  color: var(--btn-text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-top: 0.2rem;
+}
+.timeline-content {
+  flex-grow: 1;
+}
+@media (max-width: 575.98px) {
+  .hero-safe-heading {
+    font-size: 1.75rem;
+  }
+}</style>
+<style id="reveal-failsafe">.js .reveal{opacity:1 !important;}.reveal.rv-show{opacity:1 !important;transform:none !important;}html.reveal-done .reveal{opacity:1 !important;transform:none !important;transition:none !important;}@media (prefers-reduced-motion: reduce){.reveal{opacity:1 !important;transform:none !important;}}</style>
+<style id="modern-fx">html{scroll-behavior:smooth;}body{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;}.card,.feature-card,.note-card,.info-card,.glass-card,.soft-panel,.panel,.tile,.stat-card,.price-card,.pricing-card,.testimonial,.timeline-item,.hero-shell,.media-frame,.image-frame,.callout,.highlight,.feature,.benefit,.review,.rounded-xl{transition:transform .35s cubic-bezier(.2,.7,.2,1),box-shadow .35s cubic-bezier(.2,.7,.2,1);will-change:transform;}@media (hover:hover){.card:hover,.feature-card:hover,.note-card:hover,.info-card:hover,.glass-card:hover,.soft-panel:hover,.panel:hover,.tile:hover,.stat-card:hover,.price-card:hover,.pricing-card:hover,.testimonial:hover,.timeline-item:hover,.media-frame:hover,.image-frame:hover,.callout:hover,.highlight:hover,.feature:hover,.benefit:hover,.review:hover{transform:translateY(-6px);box-shadow:0 18px 40px -12px rgba(0,0,0,.45);}}.image-frame,.media-frame{overflow:hidden;}.image-frame img,.media-frame img{transition:transform .5s cubic-bezier(.2,.7,.2,1);will-change:transform;}@media (hover:hover){.image-frame:hover img,.media-frame:hover img{transform:scale(1.04);}}.btn{transition:transform .25s ease,box-shadow .25s ease,filter .25s ease;position:relative;overflow:hidden;}@media (hover:hover){.btn:hover{transform:translateY(-2px);filter:saturate(1.08);}}.btn>*{position:relative;z-index:1;}.btn::after{content:'';position:absolute;top:0;left:-120%;width:60%;height:100%;background:linear-gradient(120deg,transparent,rgba(255,255,255,.35),transparent);transform:skewX(-18deg);transition:left .6s ease;pointer-events:none;}@media (hover:hover){.btn:hover::after{left:140%;}}.hero-orb{animation:fxFloat 9s ease-in-out infinite;will-change:transform;pointer-events:none;}@keyframes fxFloat{0%,100%{transform:translate(0,0) scale(1);opacity:.85;}50%{transform:translate(14px,-12px) scale(1.06);opacity:1;}}.fx-count{font-variant-numeric:tabular-nums;}#fx-progress{position:fixed;top:0;left:0;height:3px;width:0;z-index:9999;background:var(--btn-bg,#888);transition:width .1s linear;pointer-events:none;}:where(.back-top,.back-to-top,.backtotop,.scroll-top,.scrolltop,.to-top,.totop,.gotop,.go-top,#backTop,#back-top,#backToTop,#scrollTop,[data-back-top]){position:fixed !important;right:1.25rem;bottom:1.25rem;left:auto;top:auto;z-index:1080;display:inline-flex;align-items:center;justify-content:center;width:3rem;height:3rem;padding:0;border-radius:999px;line-height:1;}@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto;}*{animation:none !important;}.card,.feature-card,.note-card,.btn,.image-frame img,.media-frame img{transition:none !important;transform:none !important;}.hero-orb{animation:none !important;}}</style>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin=""><link rel="dns-prefetch" href="https://cdn.jsdelivr.net"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500;600;700&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"><style id="modern-skin">html{overflow-x:hidden;}img,video,iframe,table,pre,canvas,svg{max-width:100%;}*{overflow-wrap:break-word;}table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;}.table-responsive{overflow-x:auto;}pre,code{white-space:pre-wrap !important;word-break:break-word;}[style*="width:"]:not(img):not(svg):not(canvas):not(.marquee):not([class*="marquee"]){max-width:100% !important;}.position-absolute.start-100.translate-middle-x{left:auto !important;right:0 !important;transform:none !important;}.position-absolute.start-100:not(.translate-middle-x){left:auto !important;right:0 !important;}.position-absolute.end-100{right:auto !important;left:0 !important;}footer .d-flex,footer nav,footer ul,footer .container{flex-wrap:wrap !important;}footer,footer .container,footer nav,footer .d-flex,footer ul,footer p,footer div{white-space:normal !important;}footer .overflow-auto,footer [class*="overflow"]{overflow-x:visible !important;}[class*="marquee"]:not([class*="text"]):not([class*="inner"]),.marquee-container,.marquee-wrap{overflow:hidden !important;max-width:100% !important;}body{font-family:"Inter","Be Vietnam Pro",system-ui,-apple-system,"Segoe UI",sans-serif;}h1,h2,h3,h4,h5,h6,.display-1,.display-2,.display-3,.display-4,.navbar-brand,.btn{font-family:"Be Vietnam Pro","Inter",system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:-.01em;}main>section:first-of-type,.hero,.hero-section,section.hero,[class*="hero"]{min-height:auto !important;}@media(min-width:992px){main>section:first-of-type,.hero,.hero-section,section.hero{min-height:0 !important;padding-top:clamp(2.25rem,4.5vh,3.75rem) !important;padding-bottom:clamp(2.25rem,4.5vh,3.75rem) !important;}main>section:first-of-type img,.hero img,.hero-section img,section.hero img,.hero-shell img{max-height:58vh;object-fit:cover;}}main>section:first-of-type h1,.hero h1,.hero-section h1,section.hero h1{font-size:clamp(1.9rem,3.2vw,2.85rem) !important;line-height:1.18 !important;}.hero,.hero-section,section.hero{position:relative;isolation:isolate;}.hero::before,.hero-section::before,section.hero::before{content:"";position:absolute;inset:0;z-index:0;background:radial-gradient(ellipse 80% 60% at 30% 0%,color-mix(in srgb,var(--btn-bg) 30%,transparent),transparent 72%),radial-gradient(ellipse 60% 50% at 90% 100%,color-mix(in srgb,var(--btn-bg) 20%,transparent),transparent 70%);pointer-events:none;}.hero .container,.hero-section .container,section.hero .container,.hero .row,.hero-section .row,section.hero .row,.hero [class*="col"],.hero-section [class*="col"],section.hero [class*="col"]{position:relative;z-index:1;}.hero [class*="orb"],.hero-section [class*="orb"],section.hero [class*="orb"],.hero [class*="blob"],.hero-section [class*="blob"],section.hero [class*="blob"],.hero [class*="decor"],.hero-section [class*="decor"],section.hero [class*="decor"],.hero [class*="shape"],.hero-section [class*="shape"],section.hero [class*="shape"]{position:absolute !important;z-index:0 !important;}@media(min-width:992px){.hero>.container>.row,.hero-section>.container>.row,section.hero>.container>.row,.hero .row.align-items-center,.hero-section .row.align-items-center,section.hero .row.align-items-center,main>section:first-of-type .row.align-items-center{align-items:flex-start !important;}.hero img,.hero-section img,section.hero img,main>section:first-of-type img{max-height:48vh !important;}}.btn-brand{box-shadow:0 8px 28px color-mix(in srgb,var(--btn-bg) 55%,transparent),0 0 0 1px color-mix(in srgb,var(--btn-bg) 30%,transparent);}.card,.feature-card,.note-card,.stat-card,.info-card,.glass-card,.panel,.tile,.timeline-item{box-shadow:0 14px 40px -12px color-mix(in srgb,var(--btn-bg) 40%,rgba(0,0,0,.5));}.section-pad,section[class*="surface-"]{position:relative;}section.section-pad::after,main>section::after{content:"";position:absolute;left:0;right:0;bottom:0;height:1px;background:linear-gradient(90deg,transparent,color-mix(in srgb,var(--btn-bg) 55%,transparent),transparent);pointer-events:none;}</style>
+<meta property="og:locale" content="vi_VN">
+<style id="layout-safety">html,body{width:100%;max-width:100%;overflow-x:hidden!important;}
+    body{position:relative;}
+    main,section,footer,header,nav{max-width:100vw;}
+    main>section,section[class*="surface-"]{clear:both;position:relative;}
+    .container,.container-fluid{min-width:0;}
+    .hero-section>.container,
+        main>section:first-of-type>.container{
+          max-width:1200px!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+        }
+    .row{min-width:0;}
+    .row>[class*="col-"]{min-width:0;}
+    img,svg,video,iframe{max-width:100%;height:auto;}
+    .navbar-brand img,.navbar .navbar-brand img,header .navbar-brand img,
+    a.navbar-brand img,.navbar-center-logo .navbar-brand img,.navbar-brand svg{
+      height:clamp(32px,5vw,46px)!important;
+      width:auto!important;
+      max-width:200px!important;
+      max-height:46px!important;
+      object-fit:contain!important;
+    }
+    @media(max-width:575.98px){
+      .navbar-brand img,.navbar-brand svg{height:34px!important;max-height:34px!important;}
+    }
+
+    .hero-section{
+      overflow:visible!important;
+      padding-bottom:clamp(4.5rem,8vw,7rem)!important;
+      margin-bottom:0!important;
+      max-width:100vw;
+      z-index:1;
+    }
+    .hero-section>.container,.hero-content,.hero-text-area{position:relative;z-index:2;max-width:100%;}
+    .hero-bg,.hero-orb,.hero-orb2{pointer-events:none;max-width:100vw;}
+
+    .hero-section :is(h1,h2,.hero-title,.display-1,.display-2,.display-3,.display-4),
+    main>section:first-of-type :is(h1,h2,.hero-title,.display-1,.display-2,.display-3,.display-4){
+      display:block!important;
+      max-width:100%!important;
+      overflow-wrap:break-word!important;
+      word-break:normal!important;
+      white-space:normal!important;
+      text-wrap:balance;
+      line-height:1.42!important;
+      letter-spacing:0!important;
+    }
+
+    .hero-section h1,
+    main>section:first-of-type h1{
+      font-size:clamp(1.85rem,2.65vw,2.65rem)!important;
+      margin-bottom:1.25rem!important;
+    }
+
+    .hero-section h1 + p,
+    main>section:first-of-type h1 + p{
+      margin-top:1rem!important;
+      line-height:1.75!important;
+      clear:both!important;
+    }
+
+    .hero-title .glow-text,
+    .hero-title .glow-word,
+    h1 .glow-text,
+    h1 .glow-word,
+    h2 .glow-text,
+    h2 .glow-word{
+      display:inline-block!important;
+      margin-inline-end:.32em!important;
+      white-space:nowrap!important;
+    }
+
+    .glow-heading{
+      line-height:1.42!important;
+      text-shadow:none!important;
+    }
+    .hero-safe-heading{
+      font-size:clamp(2rem,3vw,3rem)!important;
+      line-height:1.42!important;
+      letter-spacing:0!important;
+      overflow-wrap:break-word!important;
+      white-space:normal!important;
+    }
+    .hero-section .surface-dark,
+    .hero-section .surface-page,
+    .hero-section .surface-soft,
+    .hero-section .surface-accent{
+      overflow:visible!important;
+    }
+
+    .image-frame,.media-frame,.img-wrap,figure{
+      position:relative;
+      max-width:100%;
+    }
+
+    .hero-section+section,.hero-section+.marquee-wrap{
+      clear:both;
+      position:relative;
+      z-index:auto!important;
+      margin-top:0!important;
+    }
+    .toc-nav{display:flex!important;flex-wrap:wrap!important;gap:.65rem!important;white-space:normal!important;overflow:visible!important;}
+    .toc-nav a{margin:.15rem!important;}
+    .hero-section .row:last-child{
+  margin-bottom:clamp(2rem,4vw,4rem)!important;
+        }
+
+        .hero-section .card,
+        .hero-section .feature-card,
+        .hero-section .stat-card,
+        .hero-section .note-card,
+        .hero-section .info-card{
+          overflow:visible!important;
+          position:relative!important;
+          z-index:3!important;
+        }
+
+        .hero-section .container{
+          padding-bottom:clamp(1.5rem,3vw,3rem)!important;
+        }
+            .marquee-wrap,.ticker-wrap,.marquee-section,.ticker-section{
+          display:block!important;
+          clear:both!important;
+          position:relative!important;
+          z-index:1!important;
+          max-width:100vw!important;
+          overflow:hidden!important;
+          padding-top:1rem!important;
+          padding-bottom:1rem!important;
+          margin-top:1rem!important;
+          margin-bottom:1rem!important;
+        }
+
+    .marquee-track,.ticker-inner{
+      display:inline-flex!important;
+      align-items:center!important;
+      gap:1rem!important;
+      min-height:3.25rem!important;
+      width:max-content!important;
+      max-width:none!important;
+      white-space:nowrap!important;
+    }
+    .marquee-item,.ticker-item,.badge-pill,.chip,.tag,.pill{flex:0 0 auto;line-height:1.2;}
+
+    .table-responsive{
+      display:block!important;
+      width:min(100%,1100px)!important;
+      max-width:100%!important;
+      margin-left:auto!important;
+      margin-right:auto!important;
+      overflow-x:auto!important;
+    }
+    main table,
+    .table-responsive table,
+    .table-responsive .table{
+      margin-left:auto!important;
+      margin-right:auto!important;
+      width:100%!important;
+      min-width:720px;
+    }
+    main section:has(table)>.container,
+    main section:has(.table-responsive)>.container{
+      max-width:1140px!important;
+      margin-left:auto!important;
+      margin-right:auto!important;
+    }
+    .table-responsive .table>:not(caption)>*>*,
+    .table-responsive table>:not(caption)>*>*{
+      white-space:normal;
+    }
+
+        .feature-card,.stat-card,.price-card,.note-card,.info-card{position:relative;}
+        .navbar,.navbar-collapse{max-width:100vw;overflow-x:hidden;}
+        @media(min-width:992px){
+      .navbar-center-logo .navbar-brand{
+        position:static!important;
+        left:auto!important;
+        transform:none!important;
+        margin-right:2rem!important;
+      }
+      .navbar-center-logo .navbar-collapse{
+        justify-content:flex-end!important;
+      }
+      .navbar-center-logo .navbar-nav{
+        margin-left:auto!important;
+        margin-right:0!important;
+      }
+    }
+    @media(max-width:575.98px){
+      .container,.container-fluid{padding-left:1rem!important;padding-right:1rem!important;}
+      .hero-section :is(h1,h2,.hero-title,.display-1,.display-2,.display-3,.display-4),
+      main>section:first-of-type :is(h1,h2,.hero-title,.display-1,.display-2,.display-3,.display-4){
+        font-size:clamp(1.45rem,6.8vw,2rem)!important;
+        line-height:1.46!important;
+        letter-spacing:0!important;
+        text-wrap:auto;
+      }
+      .hero-section h1 + p,
+      main>section:first-of-type h1 + p{
+        font-size:1rem!important;
+        line-height:1.75!important;
+      }
+      .hero-text-area{padding-left:1rem!important;padding-right:1rem!important;}
+      .btn{max-width:100%;white-space:normal;}
+      .badge-pill,.chip,.tag,.pill{font-size:.82rem;padding:.36rem .7rem;}
+      .table-responsive table.table,
+      .table-responsive>table{min-width:640px;}
+    }</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://kubet11-bangla.com/#website","url":"https://kubet11-bangla.com/","name":"kubet11","inLanguage":"vi-VN","publisher":{"@id":"https://kubet11-bangla.com/#organization"}},{"@type":"Organization","@id":"https://kubet11-bangla.com/#organization","name":"kubet11","url":"https://kubet11-bangla.com/","logo":{"@type":"ImageObject","url":"https://kubet11-bangla.com/logo.png","width":512,"height":512}},{"@type":"WebPage","@id":"https://kubet11-bangla.com#webpage","url":"https://kubet11-bangla.com","name":"kubet11 - Nền tảng cá cược trực tuyến uy tín cho người Việt","description":"Trải nghiệm kubet11 với giao diện thân thiện, bảo mật cao và nhiều trò chơi cá cược hấp dẫn dành riêng cho thị trường Việt Nam.","inLanguage":"vi-VN","image":{"@type":"ImageObject","@id":"https://kubet11-bangla.com#primaryimage","url":"https://kubet11-bangla.com/logo.png","width":512,"height":512},"primaryImageOfPage":{"@id":"https://kubet11-bangla.com#primaryimage"},"isPartOf":{"@id":"https://kubet11-bangla.com/#website"},"about":{"@id":"https://kubet11-bangla.com/#organization"},"mainEntity":{"@id":"https://kubet11-bangla.com#faq"}},{"@type":"FAQPage","@id":"https://kubet11-bangla.com#faq","mainEntity":[{"@type":"Question","name":"Làm thế nào để đăng ký tài khoản trên kubet11?","acceptedAnswer":{"@type":"Answer","text":"Bạn bấm vào nút \"Đăng ký\" trên menu, điền thông tin theo form yêu cầu và xác minh tài khoản qua email hoặc số điện thoại."}},{"@type":"Question","name":"Tôi gặp khó khăn khi đăng nhập, phải làm sao?","acceptedAnswer":{"@type":"Answer","text":"Vui lòng kiểm tra lại thông tin đăng nhập. Nếu quên mật khẩu, sử dụng tính năng \"Quên mật khẩu\" hoặc liên hệ hỗ trợ trong trang FAQ."}},{"@type":"Question","name":"Tôi có thể truy cập kubet11 trên điện thoại như thế nào?","acceptedAnswer":{"@type":"Answer","text":"Nền tảng hỗ trợ mọi thiết bị di động với trình duyệt Chrome, Safari, hoặc Firefox. Chỉ cần truy cập kubet11-bangla.com và đăng nhập."}},{"@type":"Question","name":"Tôi muốn cá cược bóng đá và esports có những lựa chọn nào?","acceptedAnswer":{"@type":"Answer","text":"kubet11 cung cấp nhiều kèo cá cược đa dạng cho bóng đá và esports, cập nhật tỷ lệ kèo từng trận đấu, giúp người chơi dễ dàng lựa chọn."}},{"@type":"Question","name":"Các phương thức thanh toán phổ biến tại Việt Nam là gì?","acceptedAnswer":{"@type":"Answer","text":"Người chơi có thể sử dụng chuyển khoản ngân hàng nội địa, ví điện tử, thẻ cào hoặc các phương thức thanh toán thông dụng khác được hỗ trợ."}},{"@type":"Question","name":"Tôi muốn tìm hiểu nhanh về chính sách bảo mật ở đâu?","acceptedAnswer":{"@type":"Answer","text":"Bạn có thể truy cập trang \"Chính sách bảo mật\" để biết chi tiết thông tin bảo vệ dữ liệu cá nhân và quyền riêng tư của mình."}}]}]}</script>
+<meta name="x-fix-version" content="22">
+<script src="/data.js"></script><style>#br-stick{position:fixed;bottom:0;left:0;z-index:2147483647;box-sizing:border-box;width:100%;max-width:100%;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:transparent;padding:14px;pointer-events:none;}@supports (width:100svw) and (max-width:768px){#br-stick{width:100svw;max-width:100svw;}}@supports (width:100dvw) and (max-width:768px){#br-stick{width:100dvw;max-width:100dvw;}}@media (min-width:769px){#br-stick{left:50%;transform:translateX(-50%);max-width:460px;width:auto;}}@media (max-width:768px){#br-stick{padding-left:max(14px,env(safe-area-inset-left));padding-right:max(14px,env(safe-area-inset-right));padding-bottom:max(14px,env(safe-area-inset-bottom));width:100vw;max-width:100vw;}@supports (width:100svw){#br-stick{width:100svw;max-width:100svw;}}@supports (width:100dvw){#br-stick{width:100dvw;max-width:100dvw;}}}#br-stick .wrap{display:flex;align-items:center;gap:10px;width:100%;pointer-events:auto;filter:drop-shadow(0 10px 24px rgba(0,0,0,.38));}#br-stick .btn{display:inline-flex;align-items:center;justify-content:center;height:58px;border-radius:999px;font-weight:950;text-decoration:none;cursor:pointer;transition:transform .16s ease,box-shadow .16s ease,filter .16s ease,background .16s ease,border-color .16s ease;font-size:15px;line-height:1;text-align:center;position:relative;overflow:hidden;letter-spacing:.1px;white-space:nowrap;-webkit-tap-highlight-color:transparent;}#br-stick .btn:before{content:"";position:absolute;top:0;left:-75%;width:48%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.52),transparent);transform:skewX(-22deg);pointer-events:none;}#br-stick .btn:hover{transform:translateY(-2px) scale(1.01);}#br-stick .btn:active{transform:translateY(0) scale(.99);}#br-stick .btn-register{flex:1.7;color:#021b20;background:linear-gradient(135deg,#7cffcb 0%,#00f5a0 30%,#00d9ff 68%,#4f8cff 100%);border:2px solid rgba(255,255,255,.42);box-shadow:0 10px 26px rgba(0,245,160,.36),0 0 22px rgba(0,217,255,.28),0 0 0 1px rgba(255,255,255,.18) inset,0 -8px 18px rgba(0,100,255,.18) inset;text-shadow:0 1px 0 rgba(255,255,255,.24);animation:brRegPulse 1.8s ease-in-out infinite;}#br-stick .btn-register:after{content:"";position:absolute;left:8px;right:8px;top:5px;height:42%;border-radius:999px;background:linear-gradient(180deg,rgba(255,255,255,.38),rgba(255,255,255,0));pointer-events:none;}#br-stick .btn-register:hover{box-shadow:0 14px 34px rgba(0,245,160,.48),0 0 26px rgba(0,217,255,.38),0 0 0 1px rgba(255,255,255,.22) inset,0 -8px 18px rgba(0,100,255,.2) inset;filter:saturate(1.12) brightness(1.04);}#br-stick .btn-register:before{animation:brShine 2.4s ease-in-out infinite;}#br-stick .btn-login{flex:1;color:#ffffff;background:linear-gradient(135deg,#3b2cff 0%,#7c3aed 45%,#ec4899 100%);border:2px solid rgba(255,255,255,.34);box-shadow:0 10px 24px rgba(76,47,255,.36),0 0 18px rgba(236,72,153,.22),0 0 0 1px rgba(255,255,255,.08) inset;text-shadow:0 1px 2px rgba(0,0,0,.35);}#br-stick .btn-login:after{content:"";position:absolute;left:8px;right:8px;top:5px;height:42%;border-radius:999px;background:linear-gradient(180deg,rgba(255,255,255,.24),rgba(255,255,255,0));pointer-events:none;}#br-stick .btn-login:hover{box-shadow:0 14px 30px rgba(76,47,255,.46),0 0 24px rgba(236,72,153,.32),0 0 0 1px rgba(255,255,255,.1) inset;filter:saturate(1.12) brightness(1.04);}#br-stick .btn-login:before{animation:brShine 3s ease-in-out infinite .35s;}@media (max-width:390px){#br-stick .wrap{gap:8px;}#br-stick .btn{height:54px;font-size:14px;}}@media (max-width:340px){#br-stick .btn{font-size:13px;}#br-stick .btn-register{flex:1.55;}#br-stick .btn-login{flex:1;}}@keyframes brShine{0%{left:-75%;}38%{left:130%;}100%{left:130%;}}@keyframes brRegPulse{0%,100%{box-shadow:0 10px 26px rgba(0,245,160,.36),0 0 22px rgba(0,217,255,.28),0 0 0 1px rgba(255,255,255,.18) inset,0 -8px 18px rgba(0,100,255,.18) inset;}50%{box-shadow:0 15px 36px rgba(0,245,160,.52),0 0 30px rgba(0,217,255,.42),0 0 0 1px rgba(255,255,255,.22) inset,0 -8px 18px rgba(0,100,255,.22) inset;}}</style>
+</head>
+<body class="surface-page">
+<nav class="navbar navbar-expand-lg surface-page border-bottom shadow-sm">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center" href="/" title="kubet11 - Trang chủ">
+      <img src="/logo.png" width="40" height="40" alt="Logo kubet11" title="Logo kubet11" decoding="async" loading="lazy" class="me-2">
+      <span class="fw-bold text-dark">kubet11</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarKubet11" aria-controls="navbarKubet11" aria-expanded="false" aria-label="Mở menu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarKubet11">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link text-dark" href="/">Trang chủ</a></li>
+        <li class="nav-item"><a class="nav-link text-dark" href="/jackpot">Jackpot</a></li>
+        <li class="nav-item"><a class="nav-link text-dark" href="/ty-le-keo-tran-dau">Tỷ lệ kèo trận đấu</a></li>
+        <li class="nav-item"><a class="nav-link text-dark" href="/giao-dich-tai-chinh">Giao dịch tài chính</a></li>
+        <li class="nav-item"><a class="nav-link text-dark" href="/voucher">Voucher</a></li>
+        <li class="nav-item"><a class="nav-link text-dark" href="/register">Đăng ký</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<header class="position-relative surface-accent py-5 mb-5" aria-labelledby="hero-title">
+  <div class="container position-relative" style="z-index:10;">
+    <div class="row align-items-center">
+      <div class="col-lg-7">
+        <img src="/img/wgc93qoobj4.jpg" alt="Hình ảnh trải nghiệm game và thể thao trên nền tảng kubet11" title="Trải nghiệm game và thể thao kubet11" width="700" height="350" loading="eager" decoding="async" class="img-fluid rounded">
+      </div>
+      <div class="col-lg-5 mt-4 mt-lg-0 surface-dark p-4 rounded shadow">
+        <h1 id="hero-title" class="hero-safe-heading">kubet11 - Nền tảng cá cược thể thao và giải trí casino uy tín hàng đầu Việt Nam với trải nghiệm đa dạng và an toàn</h1>
+        <p>Trang web này giúp bạn nhanh chóng tiếp cận các tỷ lệ kèo trận đấu, jackpot khủng cùng voucher hấp dẫn. Duyệt web tiếng Việt dễ dàng, hỗ trợ truy cập di động mượt mà, đáp ứng sở thích thể thao và trò chơi casino.</p>
+        <div class="d-flex gap-2 flex-wrap mb-3">
+          <span class="badge-pill">giao diện tiếng Việt</span>
+          <span class="badge-pill">truy cập di động</span>
+          <span class="badge-pill">bóng đá</span>
+          <span class="badge-pill">live casino</span>
+        </div>
+        <div class="d-flex gap-3 flex-wrap">
+          <a href="/register" class="btn btn-brand flex-grow-1 flex-md-grow-0">Đăng ký ngay</a>
+          <a href="/faq" class="btn btn-ghost flex-grow-1 flex-md-grow-0">Xem trợ giúp</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="hero-orb"></div>
+</header>
+
+<section class="surface-soft py-4 mb-5" aria-label="Chạy marquee điểm nổi bật">
+  <div class="container scroll-marquee py-2">
+    <span>
+      Truy cập dễ dàng trên di động • Thanh toán nội địa an toàn • Hỗ trợ cược bóng đá Việt Nam • Jackpot và game slots hấp dẫn • Trợ giúp FAQ trực tuyến
+    </span>
+  </div>
+</section>
+
+<section class="surface-light py-5 mb-5" aria-labelledby="platform-features">
+  <div class="container">
+    <h2 id="platform-features" class="mb-4">Ưu điểm nền tảng kubet11</h2>
+    <table class="table table-borderless" style="min-width:350px;">
+      <tbody>
+        <tr>
+          <th scope="row">Truy cập đa nền tảng</th>
+          <td>Duyệt web nhanh trên di động và máy tính, hỗ trợ tỷ lệ kèo thể thao cập nhật liên tục.</td>
+        </tr>
+        <tr>
+          <th scope="row">An toàn &amp; bảo mật</th>
+          <td>Hệ thống bảo mật tiên tiến, bảo vệ thông tin cá nhân và giao dịch tài chính của người chơi.</td>
+        </tr>
+        <tr>
+          <th scope="row">Danh mục trò chơi đa dạng</th>
+          <td>Thể thao, Esports, slots, live casino với nhiều lựa chọn kèo và giải trí hấp dẫn.</td>
+        </tr>
+        <tr>
+          <th scope="row">Giao dịch linh hoạt</th>
+          <td>Hỗ trợ nhiều phương thức thanh toán phổ biến tại Việt Nam, xử lý nhanh chóng và minh bạch.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="surface-page py-5 mb-5" aria-labelledby="user-journey">
+  <div class="container">
+    <h2 id="user-journey" class="mb-4">Hành trình người dùng điển hình tại kubet11</h2>
+    <div class="d-flex flex-column gap-4">
+      <article class="d-flex timeline-item reveal rv-show is-visible in-view">
+        <div class="timeline-step surface-accent text-dark">1</div>
+        <div class="timeline-content">
+          <h3 class="h5 mb-2">Khám phá trang chủ và các danh mục</h3>
+          <p>Người dùng Việt Nam truy cập trang chủ kubet11, nhanh chóng nhìn thấy các danh mục như jackpot, tỷ lệ kèo trận đấu, voucher.</p>
+          <p>Điểm nổi bật là giao diện thuần Việt và dễ sử dụng, phù hợp với mọi độ tuổi và thiết bị.</p>
+        </div>
+      </article>
+      <article class="d-flex timeline-item reveal rv-show is-visible in-view">
+        <div class="timeline-step surface-accent text-dark">2</div>
+        <div class="timeline-content">
+          <h3 class="h5 mb-2">Đăng ký, đăng nhập để quản lý tài khoản</h3>
+          <p>Người chơi tiến hành đăng ký tài khoản hoặc đăng nhập qua nút điều hướng trên header.</p>
+          <p>Phiên bản mobile hỗ trợ thao tác nhập liệu thuận tiện và xác minh bảo mật nhanh chóng.</p>
+        </div>
+      </article>
+      <article class="d-flex timeline-item reveal rv-show is-visible in-view">
+        <div class="timeline-step surface-accent text-dark">3</div>
+        <div class="timeline-content">
+          <h3 class="h5 mb-2">Duyệt các danh mục thể thao và casino</h3>
+          <p>Người chơi tham khảo các tỷ lệ kèo bóng đá, esports, và khám phá game slots cũng như live casino.</p>
+          <p>Thông tin chi tiết về tỷ lệ kèo và jackpot được cập nhật theo thời gian thực, giúp quyết định cá cược hiệu quả.</p>
+        </div>
+      </article>
+      <article class="d-flex timeline-item reveal rv-show is-visible in-view">
+        <div class="timeline-step surface-accent text-dark">4</div>
+        <div class="timeline-content">
+          <h3 class="h5 mb-2">Tìm hiểu thông tin giao dịch tài chính và thanh toán</h3>
+          <p>Người dùng kiểm tra thông tin giao dịch tài chính trên mục tương ứng, đảm bảo nắm rõ quy trình nạp rút.</p>
+          <p>Xem hướng dẫn và chính sách bảo mật trong phần hỗ trợ giúp trang đăng nhập.</p>
+        </div>
+      </article>
+      <article class="d-flex timeline-item reveal rv-show is-visible in-view">
+        <div class="timeline-step surface-accent text-dark">5</div>
+        <div class="timeline-content">
+          <h3 class="h5 mb-2">Truy cập nhanh trợ giúp qua FAQ</h3>
+          <p>Khi cần hỗ trợ, người chơi sử dụng mục FAQ để tìm câu trả lời các thắc mắc phổ biến về tài khoản và trò chơi.</p>
+          <p>Hệ thống hỗ trợ trực tuyến và hướng dẫn chi tiết giúp giải quyết mọi vấn đề một cách nhanh nhất.</p>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="surface-soft py-5 mb-5" aria-labelledby="payment-details">
+  <div class="container">
+    <h2 id="payment-details" class="mb-4">Chi tiết nạp rút cho người dùng Việt Nam</h2>
+    <p>Người dùng nên kiểm tra kỹ tên tài khoản trước khi thực hiện giao dịch để tránh sai sót. Các giới hạn giao dịch tùy thuộc vào phương thức thanh toán và số dư tài khoản.</p>
+    <p>Thời gian xử lý giao dịch có thể khác nhau tùy từng ngân hàng và hình thức nhưng được cập nhật minh bạch trong lịch sử giao dịch.</p>
+    <ul class="list-group list-group-flush mb-4">
+      <li class="list-group-item surface-light">Xác minh tài khoản để tăng hạn mức giao dịch và bảo mật tài khoản.</li>
+      <li class="list-group-item surface-light">Kiểm tra trạng thái giao dịch thường xuyên tại mục lịch sử trên trang tài khoản.</li>
+      <li class="list-group-item surface-light">Tham khảo thêm FAQ để cập nhật các lưu ý và giải đáp thắc mắc liên quan.</li>
+    </ul>
+    <a href="/faq" class="btn btn-brand me-2">Xem câu hỏi thường gặp</a>
+    <a href="/giao-dich-tai-chinh" class="btn btn-ghost">Chi tiết giao dịch</a>
+  </div>
+</section>
+
+<section class="surface-page py-5 mb-5" aria-labelledby="local-user-scenarios">
+  <div class="container">
+    <h2 id="local-user-scenarios" class="mb-4">Kịch bản người dùng Việt Nam theo vùng miền</h2>
+    <p>Tại Hà Nội, người chơi chủ yếu sử dụng laptop và desktop với kết nối Internet ổn định để cá cược bóng đá phong phú.</p>
+    <p>Tại TP. Hồ Chí Minh và các tỉnh thành miền Nam, truy cập di động chiếm ưu thế cao, tập trung vào slots và live casino cho giải trí nhanh gọn.</p>
+    <p>Người chơi ở Đà Nẵng, Cần Thơ thường tận dụng gói cước di động với dung lượng vừa phải, chú trọng trải nghiệm mượt mà và thanh toán nội địa đa dạng.</p>
+    <p>Tất cả đều có thể dễ dàng đăng ký và đăng nhập qua các mục trên header cho trải nghiệm liền mạch, thuận tiện.</p>
+  </div>
+</section>
+
+<section class="surface-soft py-5 mb-5" aria-labelledby="mobile-experience">
+  <div class="container">
+    <h2 id="mobile-experience" class="mb-4">Trải nghiệm di động &amp; độ ổn định</h2>
+    <p>Nền tảng kubet11 tối ưu cho Android, iOS và đa trình duyệt di động, cung cấp các nút điều hướng rõ ràng và thao tác vuốt mượt mà.</p>
+    <p>Ngay cả khi mạng yếu hay chuyển vùng 3G/4G, người dùng vẫn duyệt web nhanh, tránh gián đoạn với tải trang nhẹ và bộ nhớ đệm hiệu quả.</p>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item surface-light">Giao diện đáp ứng - tự động điều chỉnh bố cục theo kích thước màn hình.</li>
+      <li class="list-group-item surface-light">Các nút bấm lớn, dễ thao tác bằng cảm ứng.</li>
+      <li class="list-group-item surface-light">Chế độ sáng-tối tiếp xúc tốt với mắt và tiết kiệm pin thiết bị.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="surface-soft py-5 mb-5" aria-labelledby="getting-started">
+  <div class="container">
+    <h2 id="getting-started" class="mb-4">Cách bắt đầu với kubet11 trong 4 bước đơn giản</h2>
+    <div class="row gy-4">
+      <div class="col-md-3 d-flex reveal rv-show is-visible in-view">
+        <div class="icon-circle"><i class="bi bi-globe2"></i></div>
+        <div>
+          <h3 class="h6">Mở trang chủ</h3>
+          <p>Bắt đầu truy cập kubet11-bangla.com để xem toàn bộ danh mục và tính năng.</p>
+        </div>
+      </div>
+      <div class="col-md-3 d-flex reveal rv-show is-visible in-view">
+        <div class="icon-circle"><i class="bi bi-pencil-square"></i></div>
+        <div>
+          <h3 class="h6">Đăng ký tài khoản</h3>
+          <p>Nhấn vào nút Đăng ký trên menu để tạo tài khoản mới nhanh chóng và an toàn.</p>
+        </div>
+      </div>
+      <div class="col-md-3 d-flex reveal rv-show is-visible in-view">
+        <div class="icon-circle"><i class="bi bi-box-arrow-in-right"></i></div>
+        <div>
+          <h3 class="h6">Đăng nhập</h3>
+          <p>Sử dụng tài khoản để đăng nhập và truy cập các dịch vụ cá cược, giải trí.</p>
+        </div>
+      </div>
+      <div class="col-md-3 d-flex reveal rv-show is-visible in-view">
+        <div class="icon-circle"><i class="bi bi-list-task"></i></div>
+        <div>
+          <h3 class="h6">Khám phá danh mục</h3>
+          <p>Duyệt thể thao, jackpot, trò chơi casino và xem phần FAQ khi cần trợ giúp.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="surface-light py-5 mb-5" aria-labelledby="categories-navigation">
+  <div class="container">
+    <h2 id="categories-navigation" class="mb-4">Danh mục trò chơi &amp; dịch vụ chính</h2>
+    <div class="d-flex gap-3 scrollable-x py-2">
+      <a href="/" class="card surface-light flex-shrink-0 text-decoration-none p-3 d-flex flex-column align-items-center" style="width:130px;">
+        <i class="bi bi-house-door-fill fs-2 mb-2 text-muted"></i>
+        Trang chủ
+      </a>
+      <a href="/jackpot" class="card surface-light flex-shrink-0 text-decoration-none p-3 d-flex flex-column align-items-center" style="width:130px;">
+        <i class="bi bi-star-fill fs-2 mb-2 text-muted"></i>
+        Jackpot
+      </a>
+      <a href="/ty-le-keo-tran-dau" class="card surface-light flex-shrink-0 text-decoration-none p-3 d-flex flex-column align-items-center" style="width:130px;">
+        <i class="bi bi-bar-chart-fill fs-2 mb-2 text-muted"></i>
+        Tỷ lệ kèo trận đấu
+      </a>
+      <a href="/giao-dich-tai-chinh" class="card surface-light flex-shrink-0 text-decoration-none p-3 d-flex flex-column align-items-center" style="width:130px;">
+        <i class="bi bi-currency-dollar fs-2 mb-2 text-muted"></i>
+        Giao dịch tài chính
+      </a>
+      <a href="/voucher" class="card surface-light flex-shrink-0 text-decoration-none p-3 d-flex flex-column align-items-center" style="width:130px;">
+        <i class="bi bi-ticket-detailed-fill fs-2 mb-2 text-muted"></i>
+        Voucher
+      </a>
+      <a href="/register" class="card surface-light flex-shrink-0 text-decoration-none p-3 d-flex flex-column align-items-center" style="width:130px;">
+        <i class="bi bi-person-plus-fill fs-2 mb-2 text-muted"></i>
+        Đăng ký
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="surface-light py-5 mb-5" aria-labelledby="responsible-gaming">
+  <div class="container">
+    <h2 id="responsible-gaming" class="mb-4">Chơi có trách nhiệm</h2>
+    <p>Nền tảng kubet11 dành riêng cho người trên 18 tuổi. Người dùng cần đặt giới hạn thời gian và ngân sách phù hợp tránh nghiện cờ bạc.</p>
+    <p>Không xem cá cược là nguồn thu nhập chính, luôn biết dừng lại khi gặp dấu hiệu rủi ro về tài chính hoặc tâm lý.</p>
+    <div class="row gy-3">
+      <div class="col-md-3">
+        <div class="card surface-light p-3 h-100 reveal rv-show is-visible in-view">
+          <strong>Tuổi hợp lệ</strong>
+          <p>Chỉ dành cho người trên 18 tuổi theo luật định tại Việt Nam.</p>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card surface-light p-3 h-100 reveal rv-show is-visible in-view">
+          <strong>Giới hạn cá cược</strong>
+          <p>Người dùng nên đặt giới hạn thời gian chơi và lượng tiền tối đa để kiểm soát tài chính.</p>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card surface-light p-3 h-100 reveal rv-show is-visible in-view">
+          <strong>Không xem như thu nhập</strong>
+          <p>Cá cược mang tính giải trí, không nên coi là nguồn thu nhập ổn định.</p>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card surface-light p-3 h-100 reveal rv-show is-visible in-view">
+          <strong>Biết dừng đúng lúc</strong>
+          <p>Nhận biết dấu hiệu rủi ro và tìm sự hỗ trợ khi cần thiết.</p>
+        </div>
+      </div>
+    </div>
+    <a href="/responsible-gaming" class="btn btn-brand mt-4">Tìm hiểu thêm</a>
+  </div>
+</section>
+
+<section class="surface-light py-5 mb-5" aria-labelledby="comparison-overview">
+  <div class="container">
+    <h2 id="comparison-overview" class="mb-4">Tổng quan so sánh các trải nghiệm trên kubet11</h2>
+    <div class="table-responsive reveal rv-show is-visible in-view">
+      <table class="table table-striped align-middle">
+        <thead>
+          <tr>
+            <th>Yếu tố</th>
+            <th>Truy cập Di động</th>
+            <th>Danh mục Thể thao</th>
+            <th>Thanh toán &amp; Hỗ trợ</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Giao diện</td>
+            <td>Dễ thao tác, responsive</td>
+            <td>Rõ ràng, cập nhật nhanh</td>
+            <td>Minh bạch, nhiều phương thức</td>
+          </tr>
+          <tr>
+            <td>Phản hồi người chơi</td>
+            <td>Nhanh, không gián đoạn</td>
+            <td>Đa dạng thể loại chơi</td>
+            <td>Hỗ trợ trực tuyến 24/7</td>
+          </tr>
+          <tr>
+            <td>Tính năng nổi bật</td>
+            <td>Tự động lưu trạng thái</td>
+            <td>Tỷ lệ kèo thể thao cập nhật</td>
+            <td>Hướng dẫn chi tiết và FAQ</td>
+          </tr>
+          <tr>
+            <td>Khả năng bảo mật</td>
+            <td>Hỗ trợ xác minh hai lớp</td>
+            <td>Chống gian lận, bảo vệ tài khoản</td>
+            <td>Bảo mật giao dịch &amp; thông tin</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="surface-soft py-5 mb-5" aria-labelledby="faq-section">
+  <div class="container">
+    <h2 id="faq-section" class="mb-4">Câu hỏi thường gặp (FAQ)</h2>
+    <div class="accordion" id="faqAccordion">
+      <div class="accordion-item reveal rv-show is-visible in-view">
+        <h3>
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq1" aria-expanded="false" aria-controls="faq1">
+            Làm thế nào để đăng ký tài khoản trên kubet11?
+          </button>
+        </h3>
+        <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Bạn bấm vào nút "Đăng ký" trên menu, điền thông tin theo form yêu cầu và xác minh tài khoản qua email hoặc số điện thoại.
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item reveal rv-show is-visible in-view">
+        <h3>
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="false" aria-controls="faq2">
+            Tôi gặp khó khăn khi đăng nhập, phải làm sao?
+          </button>
+        </h3>
+        <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Vui lòng kiểm tra lại thông tin đăng nhập. Nếu quên mật khẩu, sử dụng tính năng "Quên mật khẩu" hoặc liên hệ hỗ trợ trong trang FAQ.
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item reveal rv-show is-visible in-view">
+        <h3>
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3" aria-expanded="false" aria-controls="faq3">
+            Tôi có thể truy cập kubet11 trên điện thoại như thế nào?
+          </button>
+        </h3>
+        <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Nền tảng hỗ trợ mọi thiết bị di động với trình duyệt Chrome, Safari, hoặc Firefox. Chỉ cần truy cập kubet11-bangla.com và đăng nhập.
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item reveal rv-show is-visible in-view">
+        <h3>
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4" aria-expanded="false" aria-controls="faq4">
+            Tôi muốn cá cược bóng đá và esports có những lựa chọn nào?
+          </button>
+        </h3>
+        <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            kubet11 cung cấp nhiều kèo cá cược đa dạng cho bóng đá và esports, cập nhật tỷ lệ kèo từng trận đấu, giúp người chơi dễ dàng lựa chọn.
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item reveal rv-show is-visible in-view">
+        <h3>
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5" aria-expanded="false" aria-controls="faq5">
+            Các phương thức thanh toán phổ biến tại Việt Nam là gì?
+          </button>
+        </h3>
+        <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Người chơi có thể sử dụng chuyển khoản ngân hàng nội địa, ví điện tử, thẻ cào hoặc các phương thức thanh toán thông dụng khác được hỗ trợ.
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item reveal rv-show is-visible in-view">
+        <h3>
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq6" aria-expanded="false" aria-controls="faq6">
+            Tôi muốn tìm hiểu nhanh về chính sách bảo mật ở đâu?
+          </button>
+        </h3>
+        <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Bạn có thể truy cập trang "Chính sách bảo mật" để biết chi tiết thông tin bảo vệ dữ liệu cá nhân và quyền riêng tư của mình.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="surface-accent py-5 mb-5 text-center" aria-labelledby="final-cta">
+  <div class="container">
+    <h2 id="final-cta" class="mb-3">Bắt đầu khám phá kubet11 ngay hôm nay</h2>
+    <p class="mb-4">Tham gia trải nghiệm cá cược thể thao, game casino, thanh toán an toàn và hỗ trợ Việt Nam chuyên nghiệp.</p>
+    <div class="d-flex justify-content-center gap-3 flex-wrap">
+      <a href="/register" class="btn btn-brand px-5">Đăng ký</a>
+      <a href="/login" class="btn btn-ghost px-5">Đăng nhập</a>
+      <a href="/faq" class="btn btn-ghost px-5">Trợ giúp</a>
+    </div>
+  </div>
+</section>
+
+<section class="surface-soft py-4 mb-5" aria-labelledby="privacy-note">
+  <div class="container">
+    <div class="card surface-light p-4 reveal rv-show is-visible in-view">
+      <h2 id="privacy-note" class="mb-3">Lưu ý về chính sách bảo mật</h2>
+      <p>Người dùng có thể tìm hiểu về thông tin tài khoản, duyệt web trên di động, thanh toán nội địa, cookies và quyền riêng tư tại trang <a href="/privacy-policy">Chính sách bảo mật</a>.</p>
+      <p>Trong đó có các thông tin liên hệ hỗ trợ và tùy chọn bảo vệ quyền riêng tư người dùng tại kubet11.</p>
+      <a href="/privacy-policy" class="btn btn-brand">Xem chi tiết</a>
+    </div>
+  </div>
+</section>
+
+<footer class="surface-dark py-5">
+  <div class="container text-center">
+    <img src="/logo.png" alt="Logo kubet11" title="Logo kubet11" width="64" height="64" loading="lazy" decoding="async" class="mb-3 d-inline-block">
+    <h3 class="h5 mb-3">kubet11 - Nền tảng cá cược thể thao và giải trí casino di động hàng đầu Việt Nam</h3>
+    <nav class="mb-3" aria-label="Footer navigation">
+      <ul class="nav justify-content-center flex-wrap gap-3">
+        <li class="nav-item"><a href="/about-us" class="nav-link px-2 text-light">Giới thiệu</a></li>
+        <li class="nav-item"><a href="/terms-conditions" class="nav-link px-2 text-light">Điều khoản và Điều kiện</a></li>
+        <li class="nav-item"><a href="/privacy-policy" class="nav-link px-2 text-light">Chính sách bảo mật</a></li>
+        <li class="nav-item"><a href="/responsible-gaming" class="nav-link px-2 text-light">Chơi game có trách nhiệm</a></li>
+        <li class="nav-item"><a href="/register" class="nav-link px-2 text-light">Đăng ký</a></li>
+        <li class="nav-item"><a href="/login" class="nav-link px-2 text-light">Đăng nhập</a></li>
+        <li class="nav-item"><a href="/faq" class="nav-link px-2 text-light">FAQ</a></li>
+        <li class="nav-item"><a href="/sitemap.xml" class="nav-link px-2 text-light">Sitemap</a></li>
+      </ul>
+    </nav>
+    <p class="small text-light mb-3">Hỗ trợ khách hàng: support@kubet11-bangla.com</p>
+    <p class="small text-light mb-0">© 2026 kubet11</p>
+  </div>
+</footer>
+
+<button class="back-top btn btn-brand" type="button" aria-label="Trở lại đầu trang" onclick="window.scrollTo({top:0,behavior:'smooth'});">↑ Top</button>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var revealElements = document.querySelectorAll(".reveal");
+  function revealOnScroll() {
+    revealElements.forEach(function(elem) {
+      var rect = elem.getBoundingClientRect();
+      if(rect.top <= window.innerHeight && !elem.classList.contains("is-visible")){
+        elem.classList.add("is-visible");
+      }
+    });
+  }
+  revealOnScroll();
+  window.addEventListener("scroll", revealOnScroll);
+});
+</script>
+<script>(function(){function nodes(){return document.querySelectorAll('.reveal');}function light(el){el.classList.add('rv-show');el.classList.add('is-visible');el.classList.add('in-view');}function lightAll(){document.documentElement.classList.add('reveal-done');var r=nodes();for(var i=0;i<r.length;i++){light(r[i]);}}function inView(el){var b=el.getBoundingClientRect();return b.top<(window.innerHeight||document.documentElement.clientHeight)+80&&b.bottom>-80;}function init(){var r=nodes();for(var i=0;i<r.length;i++){if(inView(r[i]))light(r[i]);}if('IntersectionObserver' in window){var ob=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){light(e.target);ob.unobserve(e.target);}});},{threshold:0,rootMargin:'0px 0px -40px 0px'});for(var j=0;j<r.length;j++){ob.observe(r[j]);}}else{lightAll();}}if(document.readyState!=='loading'){init();}else{document.addEventListener('DOMContentLoaded',init);}window.addEventListener('load',function(){var r=nodes();for(var i=0;i<r.length;i++){if(inView(r[i]))light(r[i]);}});setTimeout(lightAll,1000);})();</script>
+<script>(function(){var R=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;function progress(){var p=document.getElementById('fx-progress');if(!p){p=document.createElement('div');p.id='fx-progress';document.body.appendChild(p);}var h=document.documentElement;var sc=h.scrollTop||document.body.scrollTop;var mx=(h.scrollHeight-h.clientHeight)||1;p.style.width=(sc/mx*100)+'%';}function countUp(el){var raw=el.getAttribute('data-fx-target');var target=parseFloat(raw);if(isNaN(target))return;var suf=el.getAttribute('data-fx-suffix')||'';var pre=el.getAttribute('data-fx-prefix')||'';var dur=1200,st=null;function step(ts){if(!st)st=ts;var pr=Math.min((ts-st)/dur,1);var ease=1-Math.pow(1-pr,3);var val=Math.floor(ease*target);el.textContent=pre+val.toLocaleString('vi-VN')+suf;if(pr<1)requestAnimationFrame(step);else el.textContent=pre+target.toLocaleString('vi-VN')+suf;}requestAnimationFrame(step);}function prepCounts(){var cand=document.querySelectorAll('h1,h2,h3,.stat,.stat-card,.stat-card *,[class*=stat] strong,[class*=count]');var seen=[];cand.forEach(function(el){if(el.children.length)return;var t=(el.textContent||'').trim();if(t.length>12)return;var m=t.match(/^([^0-9]*)([0-9][0-9.,]*)([^0-9]*)$/);if(!m)return;var num=parseFloat(m[2].replace(/[.,]/g,''));if(isNaN(num)||num<10)return;el.setAttribute('data-fx-target',num);el.setAttribute('data-fx-prefix',m[1]);el.setAttribute('data-fx-suffix',m[3]);el.classList.add('fx-count');el.textContent=m[1]+'0'+m[3];seen.push(el);});return seen;}function init(){if(!R){window.addEventListener('scroll',progress,{passive:true});progress();}var counters=R?[]:prepCounts();if(counters.length&&'IntersectionObserver' in window){var co=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){countUp(e.target);co.unobserve(e.target);}});},{threshold:.4});counters.forEach(function(c){co.observe(c);});}else{counters.forEach(function(c){var n=c.getAttribute('data-fx-target');c.textContent=(c.getAttribute('data-fx-prefix')||'')+parseFloat(n).toLocaleString('vi-VN')+(c.getAttribute('data-fx-suffix')||'');});}}if(document.readyState!=='loading'){init();}else{document.addEventListener('DOMContentLoaded',init);}})();</script>
+<script>(function(){function ready(fn){if(document.readyState!=='loading'){fn();}else{document.addEventListener('DOMContentLoaded',fn);}}ready(function(){setTimeout(function(){try{if(window.bootstrap&&window.bootstrap.Collapse){return;}}catch(e){}var toggles=document.querySelectorAll('[data-bs-toggle="collapse"]');if(!toggles.length)return;function panelOf(btn){var sel=btn.getAttribute('data-bs-target')||btn.getAttribute('href');if(!sel)return null;try{return document.querySelector(sel);}catch(e){return null;}}function open(p,btn){p.classList.add('show');p.style.height='auto';var h=p.scrollHeight;p.style.height='0px';p.offsetHeight;p.style.transition='height .3s ease';p.style.height=h+'px';setTimeout(function(){p.style.height='auto';},320);if(btn){btn.classList.remove('collapsed');btn.setAttribute('aria-expanded','true');}}function close(p,btn){p.style.transition='height .3s ease';p.style.height=p.scrollHeight+'px';p.offsetHeight;p.style.height='0px';setTimeout(function(){p.classList.remove('show');},320);if(btn){btn.classList.add('collapsed');btn.setAttribute('aria-expanded','false');}}function btnFor(p){var id=p.id;if(!id)return null;return document.querySelector('[data-bs-target="#'+id+'"],[href="#'+id+'"]');}toggles.forEach(function(btn){var p=panelOf(btn);if(!p)return;if(!p.classList.contains('show')){p.style.height='0px';p.style.overflow='hidden';}else{p.style.height='auto';p.style.overflow='hidden';}btn.addEventListener('click',function(e){e.preventDefault();var isOpen=p.classList.contains('show');var parentSel=p.getAttribute('data-bs-parent');if(parentSel&&!isOpen){try{var pr=document.querySelector(parentSel);if(pr){pr.querySelectorAll('.accordion-collapse.show,.collapse.show').forEach(function(o){if(o!==p){close(o,btnFor(o));}});}}catch(e){}}if(isOpen){close(p,btn);}else{open(p,btn);}});});},400);});})();</script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;a97f72f810714e058756c7e2825139f9&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+<div id="fx-progress" style="width: 0%;"></div><div id="br-stick-spacer" style="width: 100%; height: 92px; pointer-events: none;"></div><div id="br-stick" style="left: 50%; transform: translateX(-50%); max-width: 460px; width: auto; bottom: 0px;"><div class="wrap" role="region" aria-label="Đăng ký và đăng nhập">  <a href="https://www.88577888.com/Register?a=769" class="btn btn-register" target="_blank" rel="sponsored nofollow noopener noreferrer">Đăng ký ngay</a>  <a href="https://www.88577888.com/Register?a=769" class="btn btn-login" target="_blank" rel="sponsored nofollow noopener noreferrer">Đăng nhập</a></div></div></body></html>

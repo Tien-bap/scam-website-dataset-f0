@@ -1,0 +1,27 @@
+{
+  "original_url": "https://davinciec.com.br/Christine/Morton",
+  "hostname": "davinciec.com.br",
+  "checked_at": "2026-10-04T14:33:06.824848+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fa969-a654-7657-9f2d-7deb792e3484",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-28T15:48:32.398Z",
+  "scan_original_url": "https://davinciec.com.br/",
+  "final_url": "https://davinciec.com.br/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 10000,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.199,
+  "discovery": {
+    "batch_id": "7885e2c0fe3ada6b85b5e9f15adbfe53883241f26ae6081bbcecef221d8dda86",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

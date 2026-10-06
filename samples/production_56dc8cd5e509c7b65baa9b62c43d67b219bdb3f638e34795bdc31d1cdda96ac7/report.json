@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.spaceandform.com/gsk/1drvoff/",
+  "hostname": "www.spaceandform.com",
+  "checked_at": "2026-10-04T16:11:06.955966+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a028ea-e0fc-73c8-9e8e-7df5193c4f65",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-22T10:01:25.644Z",
+  "scan_original_url": "https://www.spaceandform.com/",
+  "final_url": "https://www.spaceandform.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1848,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.315,
+  "discovery": {
+    "batch_id": "1b1bf9e5ae1c151a5123ec71a4615fed3ed7195ca682fee6a3c88308c716ac09",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

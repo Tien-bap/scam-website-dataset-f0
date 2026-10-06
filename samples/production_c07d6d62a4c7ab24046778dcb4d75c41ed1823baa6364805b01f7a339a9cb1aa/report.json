@@ -1,0 +1,27 @@
+{
+  "original_url": "https://kumhosamco.com.vn/wp-admin/webapp.html",
+  "hostname": "kumhosamco.com.vn",
+  "checked_at": "2026-10-04T14:22:04.021674+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0d3c9-eeee-719d-8f3a-32d6a2d5db76",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-24T14:20:36.259Z",
+  "scan_original_url": "http://www.kumhosamco.com.vn/",
+  "final_url": "https://kumhosamco.com.vn/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4917,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.497,
+  "discovery": {
+    "batch_id": "8afc6bb9f3e0df894ea4b986ab25384abefb0250e4ff9f5d2ce1a4d53ea676d1",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

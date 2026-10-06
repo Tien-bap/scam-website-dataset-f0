@@ -1,0 +1,27 @@
+{
+  "original_url": "https://denmarkhillkafe.com.au/MLLK403LKF93LKLFLFFS9ML90204LKFSLOS/login.html?hvxhhlf=TcCAVGEzrg5oBv8Wu42XhXQ99&amp;llqszrqe=L5Qrg1XiXhchopixNSWYrxG4hUNWlL&amp;kmfiwlbbk=XZrX6zB7IDUrTS1YpiFk&amp;iwoyz=nHSUQKNidy5gT4PqWaP5ZZu2",
+  "hostname": "denmarkhillkafe.com.au",
+  "checked_at": "2026-10-04T16:09:03.616510+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fccca-033b-759b-92a9-8943754fd832",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-04T12:40:31.426Z",
+  "scan_original_url": "http://denmarkhillkafe.com.au/",
+  "final_url": "https://www.denmarkhillkafe.com.au/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1626,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.971,
+  "discovery": {
+    "batch_id": "c83f27c63d3a30bf5277324f43c279d5da042a05656f0ad1db105d4aa74d87df",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

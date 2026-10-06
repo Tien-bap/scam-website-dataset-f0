@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_cbe3461b542c3e9c273882fee1280de5865284d189ddda95c989ede39403d0fc",
+  "candidate_sha256": "2b5ac9631e95132639760e512590180f2aaed072714a0ffb31ff1172c7631669",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://m.icrde.com",
+  "requested_url": "https://m.icrde.com",
+  "browser_final_url": "https://m.icrde.com/#/home",
+  "source_urls": [
+    "https://m.icrde.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2776,
+      "source_url": "https://m.icrde.com",
+      "source_hostname": "m.icrde.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://m.icrde.com",
+      "final_hostname": "m.icrde.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 3553,
+      "elapsed_ms": 623,
+      "checked_at": "2026-10-05T12:20:07.767519+00:00",
+      "error": null,
+      "normalized_source_url": "https://m.icrde.com/",
+      "normalized_final_url": "https://m.icrde.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_cbe3461b542c3e9c273882fee1280de5865284d189ddda95c989ede39403d0fc",
+    "representative_source_index": 2776,
+    "representative_source_url": "https://m.icrde.com",
+    "representative_final_url": "https://m.icrde.com",
+    "normalized_final_url": "https://m.icrde.com/",
+    "source_hostname": "m.icrde.com",
+    "final_hostname": "m.icrde.com",
+    "source_urls": [
+      "https://m.icrde.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 2776,
+        "source_url": "https://m.icrde.com",
+        "source_hostname": "m.icrde.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://m.icrde.com",
+        "final_hostname": "m.icrde.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 3553,
+        "elapsed_ms": 623,
+        "checked_at": "2026-10-05T12:20:07.767519+00:00",
+        "error": null,
+        "normalized_source_url": "https://m.icrde.com/",
+        "normalized_final_url": "https://m.icrde.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Trang chủ",
+  "capture_timestamp": "2026-10-05T14:55:49.243951+00:00",
+  "dom_chars": 23913,
+  "screenshot_bytes": 235974,
+  "dom_sha256": "3453e478d1e18b06c8a4b005a15cb3da8a3b68bd84aee492a4594c0eececd816",
+  "screenshot_sha256": "afb479d8326e633c47ee9964f4da5105e02b020c3576c11076d1feb48a3388e1",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://m.icrde.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://m.icrde.com",
+    "browser_final_url": "https://m.icrde.com/#/home",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3010
+}

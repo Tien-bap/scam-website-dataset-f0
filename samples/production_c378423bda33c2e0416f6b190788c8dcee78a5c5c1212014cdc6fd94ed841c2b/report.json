@@ -1,0 +1,27 @@
+{
+  "original_url": "https://bitly.com.vn/rtmth4",
+  "hostname": "bitly.com.vn",
+  "checked_at": "2026-10-04T13:36:53.784340+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019ffa4f-bc42-720b-bedf-e5f22f85eabb",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-13T08:49:26.058Z",
+  "scan_original_url": "http://bitly.com.vn/",
+  "final_url": "https://bitly.com.vn/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5527,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.048,
+  "discovery": {
+    "batch_id": "5346f4d36fc1e7c18261039622bbdadd540613440e58b5af14ada28a91ead24d",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

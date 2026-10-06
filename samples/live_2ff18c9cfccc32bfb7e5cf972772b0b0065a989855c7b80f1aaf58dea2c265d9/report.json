@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_2ff18c9cfccc32bfb7e5cf972772b0b0065a989855c7b80f1aaf58dea2c265d9",
+  "candidate_sha256": "31315986e295918673d431ff4acace1930b2735014bbc3bfa9bbe32366308577",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://bb9998.com",
+  "requested_url": "https://bb9998.com",
+  "browser_final_url": "https://bb9998.com/",
+  "source_urls": [
+    "https://bb9998.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1988,
+      "source_url": "https://bb9998.com",
+      "source_hostname": "bb9998.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://bb9998.com",
+      "final_hostname": "bb9998.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 29665,
+      "elapsed_ms": 739,
+      "checked_at": "2026-10-05T12:19:23.041526+00:00",
+      "error": null,
+      "normalized_source_url": "https://bb9998.com/",
+      "normalized_final_url": "https://bb9998.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_2ff18c9cfccc32bfb7e5cf972772b0b0065a989855c7b80f1aaf58dea2c265d9",
+    "representative_source_index": 1988,
+    "representative_source_url": "https://bb9998.com",
+    "representative_final_url": "https://bb9998.com",
+    "normalized_final_url": "https://bb9998.com/",
+    "source_hostname": "bb9998.com",
+    "final_hostname": "bb9998.com",
+    "source_urls": [
+      "https://bb9998.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 1988,
+        "source_url": "https://bb9998.com",
+        "source_hostname": "bb9998.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://bb9998.com",
+        "final_hostname": "bb9998.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 29665,
+        "elapsed_ms": 739,
+        "checked_at": "2026-10-05T12:19:23.041526+00:00",
+        "error": null,
+        "normalized_source_url": "https://bb9998.com/",
+        "normalized_final_url": "https://bb9998.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "BB999 - Explore Novos Jogos em Diversas Categorias e Estilos Diferentes",
+  "capture_timestamp": "2026-10-05T14:39:15.547852+00:00",
+  "dom_chars": 29723,
+  "screenshot_bytes": 472510,
+  "dom_sha256": "1ab6f88c689beb88adff832b9129e82a44676876476561c20122d927235a147c",
+  "screenshot_sha256": "81aaf5b88bc89643055ffc1efb43a6dea5cc3bf6de4a6a242eb5fb6a65abc6c2",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://bb9998.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://bb9998.com",
+    "browser_final_url": "https://bb9998.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 1,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 6105
+}

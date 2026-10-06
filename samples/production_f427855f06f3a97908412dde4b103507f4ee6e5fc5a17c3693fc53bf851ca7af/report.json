@@ -1,0 +1,27 @@
+{
+  "original_url": "https://billetretail.co.za/index_htm_files/index_htm_files/11",
+  "hostname": "billetretail.co.za",
+  "checked_at": "2026-10-04T14:48:05.493897+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a09255-51d2-73d6-8a86-f25f5f9a6638",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-11T21:17:47.405Z",
+  "scan_original_url": "https://billetretail.co.za/",
+  "final_url": "https://billetretail.co.za/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 675,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.093,
+  "discovery": {
+    "batch_id": "7540ca2b955be0fea51cfff869e26bd98ace200de7e81bb1679792d1c443e06a",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

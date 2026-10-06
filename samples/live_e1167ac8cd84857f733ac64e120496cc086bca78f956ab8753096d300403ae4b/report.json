@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_e1167ac8cd84857f733ac64e120496cc086bca78f956ab8753096d300403ae4b",
+  "candidate_sha256": "62b46565768230b108435caef2456108c1f15eebf097a7d6c0a2a50d91863b68",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://hotlive22.net",
+  "requested_url": "https://thehotlive.com/?code=5VRF3",
+  "browser_final_url": "https://thehotlive.com/?code=5VRF3",
+  "source_urls": [
+    "https://hotlive22.net"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 16029,
+      "source_url": "https://hotlive22.net",
+      "source_hostname": "hotlive22.net",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://thehotlive.com/?code=5VRF3",
+      "final_hostname": "thehotlive.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3179,
+      "checked_at": "2026-10-05T12:42:08.386507+00:00",
+      "error": null,
+      "normalized_source_url": "https://hotlive22.net/",
+      "normalized_final_url": "https://thehotlive.com/?code=5VRF3",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_e1167ac8cd84857f733ac64e120496cc086bca78f956ab8753096d300403ae4b",
+    "representative_source_index": 16029,
+    "representative_source_url": "https://hotlive22.net",
+    "representative_final_url": "https://thehotlive.com/?code=5VRF3",
+    "normalized_final_url": "https://thehotlive.com/?code=5VRF3",
+    "source_hostname": "hotlive22.net",
+    "final_hostname": "thehotlive.com",
+    "source_urls": [
+      "https://hotlive22.net"
+    ],
+    "provenance": [
+      {
+        "source_index": 16029,
+        "source_url": "https://hotlive22.net",
+        "source_hostname": "hotlive22.net",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://thehotlive.com/?code=5VRF3",
+        "final_hostname": "thehotlive.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3179,
+        "checked_at": "2026-10-05T12:42:08.386507+00:00",
+        "error": null,
+        "normalized_source_url": "https://hotlive22.net/",
+        "normalized_final_url": "https://thehotlive.com/?code=5VRF3",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Hot51 - Chơi trò chơi, Kết bạn, Xem phát trực tiếp miễn phí",
+  "capture_timestamp": "2026-10-05T14:58:36.565103+00:00",
+  "dom_chars": 74803,
+  "screenshot_bytes": 565150,
+  "dom_sha256": "009fbcc0561452f76460ee1fbd98615f0cb9a9230953996aa4c21c43638745b9",
+  "screenshot_sha256": "c0664610427de1efb1013f8d58df87fa08ac0810229127665b9c42d543d93b56",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://thehotlive.com/?code=5VRF3",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://thehotlive.com/?code=5VRF3",
+    "browser_final_url": "https://thehotlive.com/?code=5VRF3",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5639
+}

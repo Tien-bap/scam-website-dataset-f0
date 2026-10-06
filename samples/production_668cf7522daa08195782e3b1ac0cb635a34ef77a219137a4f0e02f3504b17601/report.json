@@ -1,0 +1,27 @@
+{
+  "original_url": "https://itsssl.com/zCInJ",
+  "hostname": "itsssl.com",
+  "checked_at": "2026-10-04T15:45:09.582614+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 6,
+  "candidates_checked": 3,
+  "selected_scan_uuid": "01a0a426-b157-749e-81a0-3b63c5b325c2",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-15T08:20:02.598Z",
+  "scan_original_url": "http://itsssl.com/",
+  "final_url": "https://itsssl.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 7035,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 53.032,
+  "discovery": {
+    "batch_id": "6074bd58d471c2a3fcfbfaecfdaece9e3fc1ee4aa089c278b9570108919d93fc",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_8e3eb617bf2bbb8a0595c0c1511bf7afda8b195c9d4b4e8b73506a0381f6b570",
+  "candidate_sha256": "246e42477d999815659711cd1265fbe31e9bca90034af2a2bd5c918fdb786695",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://win55.men",
+  "requested_url": "https://slig.io/",
+  "browser_final_url": "https://slig.io/",
+  "source_urls": [
+    "https://win55.men"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1394,
+      "source_url": "https://win55.men",
+      "source_hostname": "win55.men",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://slig.io/",
+      "final_hostname": "slig.io",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1118,
+      "checked_at": "2026-10-05T12:18:46.579383+00:00",
+      "error": null,
+      "normalized_source_url": "https://win55.men/",
+      "normalized_final_url": "https://slig.io/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_8e3eb617bf2bbb8a0595c0c1511bf7afda8b195c9d4b4e8b73506a0381f6b570",
+    "representative_source_index": 1394,
+    "representative_source_url": "https://win55.men",
+    "representative_final_url": "https://slig.io/",
+    "normalized_final_url": "https://slig.io/",
+    "source_hostname": "win55.men",
+    "final_hostname": "slig.io",
+    "source_urls": [
+      "https://win55.men"
+    ],
+    "provenance": [
+      {
+        "source_index": 1394,
+        "source_url": "https://win55.men",
+        "source_hostname": "win55.men",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://slig.io/",
+        "final_hostname": "slig.io",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1118,
+        "checked_at": "2026-10-05T12:18:46.579383+00:00",
+        "error": null,
+        "normalized_source_url": "https://win55.men/",
+        "normalized_final_url": "https://slig.io/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Win55 ⭐️ Link Vào Win55.Com Mới Nhất 2026 | Nhận +155k",
+  "capture_timestamp": "2026-10-05T14:49:12.240562+00:00",
+  "dom_chars": 126489,
+  "screenshot_bytes": 348916,
+  "dom_sha256": "df68d3b988dec525d88de0bfeb9e77a2908e73e56f0d5fb57cb9f13d25992387",
+  "screenshot_sha256": "b56ccb1c63b8f18c1983a67f5ae610ee0c90db3b13d5e442b313a6ccc3d34e0d",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://slig.io/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://slig.io/",
+    "browser_final_url": "https://slig.io/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4871
+}

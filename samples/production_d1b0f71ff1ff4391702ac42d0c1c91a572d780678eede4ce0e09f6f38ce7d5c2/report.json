@@ -1,0 +1,27 @@
+{
+  "original_url": "http://docusignatures.com/",
+  "hostname": "docusignatures.com",
+  "checked_at": "2026-10-04T14:09:23.745397+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a087a0-1af0-7386-a664-8f10b1d48328",
+  "match_kind": "exact_url",
+  "capture_timestamp": "2026-09-09T19:23:42.891Z",
+  "scan_original_url": "http://docusignatures.com/",
+  "final_url": "http://docusignatures.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1368,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 41.98,
+  "discovery": {
+    "batch_id": "dada3674643a1547c62d31df86401b0f8f97580673a457c8369ecc4a5a2d8c51",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

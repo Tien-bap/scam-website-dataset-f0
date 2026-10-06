@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_3dce2c540f73a12e9ecb7a4eae2a01b90a068ce97f1ec75e35a173423d0e85d3",
+  "candidate_sha256": "45bcc3c6a038a9a0520f914d08de14871491f3692d34dd38c121488e3424a546",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://m.ctcrt.com",
+  "requested_url": "https://m.ctcrt.com",
+  "browser_final_url": "https://m.ctcrt.com/#/home",
+  "source_urls": [
+    "https://m.ctcrt.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2715,
+      "source_url": "https://m.ctcrt.com",
+      "source_hostname": "m.ctcrt.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://m.ctcrt.com",
+      "final_hostname": "m.ctcrt.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 3553,
+      "elapsed_ms": 776,
+      "checked_at": "2026-10-05T12:20:05.291886+00:00",
+      "error": null,
+      "normalized_source_url": "https://m.ctcrt.com/",
+      "normalized_final_url": "https://m.ctcrt.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_3dce2c540f73a12e9ecb7a4eae2a01b90a068ce97f1ec75e35a173423d0e85d3",
+    "representative_source_index": 2715,
+    "representative_source_url": "https://m.ctcrt.com",
+    "representative_final_url": "https://m.ctcrt.com",
+    "normalized_final_url": "https://m.ctcrt.com/",
+    "source_hostname": "m.ctcrt.com",
+    "final_hostname": "m.ctcrt.com",
+    "source_urls": [
+      "https://m.ctcrt.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 2715,
+        "source_url": "https://m.ctcrt.com",
+        "source_hostname": "m.ctcrt.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://m.ctcrt.com",
+        "final_hostname": "m.ctcrt.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 3553,
+        "elapsed_ms": 776,
+        "checked_at": "2026-10-05T12:20:05.291886+00:00",
+        "error": null,
+        "normalized_source_url": "https://m.ctcrt.com/",
+        "normalized_final_url": "https://m.ctcrt.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Trang chủ",
+  "capture_timestamp": "2026-10-05T14:40:51.311987+00:00",
+  "dom_chars": 23341,
+  "screenshot_bytes": 39884,
+  "dom_sha256": "18096d2ae69a191b7c207c544b06cd8177d5e559ab25ccf73c5454d5a799219a",
+  "screenshot_sha256": "d4b8420ae4c475ccbc4ad16aa877e110ded5851f69cf10fa31d9d02ee149ed56",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://m.ctcrt.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://m.ctcrt.com",
+    "browser_final_url": "https://m.ctcrt.com/#/home",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2773
+}

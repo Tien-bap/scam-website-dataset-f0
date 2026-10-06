@@ -1,0 +1,658 @@
+{
+  "candidate_id": "live_2726d31a6c44afa41300e1acb59879e74a13ecfc78ff4379e9edb32ae51f3198",
+  "candidate_sha256": "99777c8f5bccaf2618ab2832fd6a657e1d3c1364113b18e7ba586a1c853e8c07",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://sin88.moi/",
+  "requested_url": "https://sin88.family/",
+  "browser_final_url": "https://sin88.vision/",
+  "source_urls": [
+    "https://sin88.cc",
+    "https://sin88.in",
+    "https://sin88.moi/",
+    "https://sin88.org",
+    "https://sin88.today",
+    "https://sin88.tv",
+    "https://sin88.vin"
+  ],
+  "source_count": 7,
+  "provenance": [
+    {
+      "source_index": 972,
+      "source_url": "https://sin88.moi/",
+      "source_hostname": "sin88.moi",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sin88.family/",
+      "final_hostname": "sin88.family",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1838,
+      "checked_at": "2026-10-05T12:18:13.734156+00:00",
+      "error": null,
+      "normalized_source_url": "https://sin88.moi/",
+      "normalized_final_url": "https://sin88.family/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 1242,
+      "source_url": "https://sin88.org",
+      "source_hostname": "sin88.org",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sin88.family/",
+      "final_hostname": "sin88.family",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 823,
+      "checked_at": "2026-10-05T12:18:37.428328+00:00",
+      "error": null,
+      "normalized_source_url": "https://sin88.org/",
+      "normalized_final_url": "https://sin88.family/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 1365,
+      "source_url": "https://sin88.vin",
+      "source_hostname": "sin88.vin",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sin88.family/",
+      "final_hostname": "sin88.family",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 754,
+      "checked_at": "2026-10-05T12:18:44.934481+00:00",
+      "error": null,
+      "normalized_source_url": "https://sin88.vin/",
+      "normalized_final_url": "https://sin88.family/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 1534,
+      "source_url": "https://sin88.today",
+      "source_hostname": "sin88.today",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sin88.family/",
+      "final_hostname": "sin88.family",
+      "redirect_count": 2,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1199,
+      "checked_at": "2026-10-05T12:18:53.415246+00:00",
+      "error": null,
+      "normalized_source_url": "https://sin88.today/",
+      "normalized_final_url": "https://sin88.family/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 1536,
+      "source_url": "https://sin88.tv",
+      "source_hostname": "sin88.tv",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sin88.family/",
+      "final_hostname": "sin88.family",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 748,
+      "checked_at": "2026-10-05T12:18:53.451227+00:00",
+      "error": null,
+      "normalized_source_url": "https://sin88.tv/",
+      "normalized_final_url": "https://sin88.family/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 1684,
+      "source_url": "https://sin88.in",
+      "source_hostname": "sin88.in",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sin88.family/",
+      "final_hostname": "sin88.family",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 809,
+      "checked_at": "2026-10-05T12:19:04.235180+00:00",
+      "error": null,
+      "normalized_source_url": "https://sin88.in/",
+      "normalized_final_url": "https://sin88.family/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 2720,
+      "source_url": "https://sin88.cc",
+      "source_hostname": "sin88.cc",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sin88.family/",
+      "final_hostname": "sin88.family",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 858,
+      "checked_at": "2026-10-05T12:20:05.479659+00:00",
+      "error": null,
+      "normalized_source_url": "https://sin88.cc/",
+      "normalized_final_url": "https://sin88.family/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_2726d31a6c44afa41300e1acb59879e74a13ecfc78ff4379e9edb32ae51f3198",
+    "representative_source_index": 972,
+    "representative_source_url": "https://sin88.moi/",
+    "representative_final_url": "https://sin88.family/",
+    "normalized_final_url": "https://sin88.family/",
+    "source_hostname": "sin88.moi",
+    "final_hostname": "sin88.family",
+    "source_urls": [
+      "https://sin88.cc",
+      "https://sin88.in",
+      "https://sin88.moi/",
+      "https://sin88.org",
+      "https://sin88.today",
+      "https://sin88.tv",
+      "https://sin88.vin"
+    ],
+    "provenance": [
+      {
+        "source_index": 972,
+        "source_url": "https://sin88.moi/",
+        "source_hostname": "sin88.moi",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sin88.family/",
+        "final_hostname": "sin88.family",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1838,
+        "checked_at": "2026-10-05T12:18:13.734156+00:00",
+        "error": null,
+        "normalized_source_url": "https://sin88.moi/",
+        "normalized_final_url": "https://sin88.family/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 1242,
+        "source_url": "https://sin88.org",
+        "source_hostname": "sin88.org",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sin88.family/",
+        "final_hostname": "sin88.family",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 823,
+        "checked_at": "2026-10-05T12:18:37.428328+00:00",
+        "error": null,
+        "normalized_source_url": "https://sin88.org/",
+        "normalized_final_url": "https://sin88.family/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 1365,
+        "source_url": "https://sin88.vin",
+        "source_hostname": "sin88.vin",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sin88.family/",
+        "final_hostname": "sin88.family",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 754,
+        "checked_at": "2026-10-05T12:18:44.934481+00:00",
+        "error": null,
+        "normalized_source_url": "https://sin88.vin/",
+        "normalized_final_url": "https://sin88.family/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 1534,
+        "source_url": "https://sin88.today",
+        "source_hostname": "sin88.today",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sin88.family/",
+        "final_hostname": "sin88.family",
+        "redirect_count": 2,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1199,
+        "checked_at": "2026-10-05T12:18:53.415246+00:00",
+        "error": null,
+        "normalized_source_url": "https://sin88.today/",
+        "normalized_final_url": "https://sin88.family/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 1536,
+        "source_url": "https://sin88.tv",
+        "source_hostname": "sin88.tv",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sin88.family/",
+        "final_hostname": "sin88.family",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 748,
+        "checked_at": "2026-10-05T12:18:53.451227+00:00",
+        "error": null,
+        "normalized_source_url": "https://sin88.tv/",
+        "normalized_final_url": "https://sin88.family/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 1684,
+        "source_url": "https://sin88.in",
+        "source_hostname": "sin88.in",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sin88.family/",
+        "final_hostname": "sin88.family",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 809,
+        "checked_at": "2026-10-05T12:19:04.235180+00:00",
+        "error": null,
+        "normalized_source_url": "https://sin88.in/",
+        "normalized_final_url": "https://sin88.family/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 2720,
+        "source_url": "https://sin88.cc",
+        "source_hostname": "sin88.cc",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sin88.family/",
+        "final_hostname": "sin88.family",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 858,
+        "checked_at": "2026-10-05T12:20:05.479659+00:00",
+        "error": null,
+        "normalized_source_url": "https://sin88.cc/",
+        "normalized_final_url": "https://sin88.family/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 7,
+    "unique_source_url_count": 7,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "commit_salvaged",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "SIN88 - Nhà Cái Uy Tín Singapore Cá Cược Thể Thao Trực Tuyến",
+  "capture_timestamp": "2026-10-06T02:42:14.563627+00:00",
+  "dom_chars": 730894,
+  "screenshot_bytes": 83872,
+  "dom_sha256": "b6b54a843e942333c379b2f2fee97f355cf40dbce447ae8e5c178d7065430bbe",
+  "screenshot_sha256": "a3f0ac8fa7dfd7dcd7e997b9368fef84093316eb96fea32ee80b7646fa505b6b",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://sin88.family/",
+      "http_status": 301
+    },
+    {
+      "url": "https://sin88.vision/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://sin88.family/",
+    "browser_final_url": "https://sin88.vision/",
+    "url_changed": true,
+    "cross_hostname": true,
+    "http_redirect_count": 1
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 29
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "dom_source": "rendered",
+  "recovery_strategy": "commit_fallback",
+  "timeline": [
+    {
+      "event": "context created",
+      "timestamp": "2026-10-06T02:42:14.567019+00:00",
+      "elapsed_ms": 8
+    },
+    {
+      "event": "goto(commit) start",
+      "timestamp": "2026-10-06T02:42:14.610473+00:00",
+      "elapsed_ms": 51
+    },
+    {
+      "event": "HTTP response: 301 https://sin88.family/",
+      "timestamp": "2026-10-06T02:42:14.765013+00:00",
+      "elapsed_ms": 206
+    },
+    {
+      "event": "HTTP response: 200 https://sin88.vision/",
+      "timestamp": "2026-10-06T02:42:14.965769+00:00",
+      "elapsed_ms": 406
+    },
+    {
+      "event": "response committed",
+      "timestamp": "2026-10-06T02:42:14.973484+00:00",
+      "elapsed_ms": 414
+    },
+    {
+      "event": "goto end: commit_failed",
+      "timestamp": "2026-10-06T02:42:14.973508+00:00",
+      "elapsed_ms": 414
+    },
+    {
+      "event": "settle start",
+      "timestamp": "2026-10-06T02:42:14.973521+00:00",
+      "elapsed_ms": 414
+    },
+    {
+      "event": "settle end",
+      "timestamp": "2026-10-06T02:42:18.974037+00:00",
+      "elapsed_ms": 4415
+    },
+    {
+      "event": "page.url: https://sin88.vision/ HTTP: 200",
+      "timestamp": "2026-10-06T02:42:18.975633+00:00",
+      "elapsed_ms": 4416
+    },
+    {
+      "event": "title start",
+      "timestamp": "2026-10-06T02:42:18.975649+00:00",
+      "elapsed_ms": 4416
+    },
+    {
+      "event": "title end",
+      "timestamp": "2026-10-06T02:42:19.065342+00:00",
+      "elapsed_ms": 4506
+    },
+    {
+      "event": "content start",
+      "timestamp": "2026-10-06T02:42:19.065366+00:00",
+      "elapsed_ms": 4506
+    },
+    {
+      "event": "content end",
+      "timestamp": "2026-10-06T02:42:19.185229+00:00",
+      "elapsed_ms": 4626
+    },
+    {
+      "event": "screenshot start",
+      "timestamp": "2026-10-06T02:42:19.186030+00:00",
+      "elapsed_ms": 4627
+    },
+    {
+      "event": "screenshot end",
+      "timestamp": "2026-10-06T02:42:19.413395+00:00",
+      "elapsed_ms": 4854
+    },
+    {
+      "event": "context close start",
+      "timestamp": "2026-10-06T02:42:19.449570+00:00",
+      "elapsed_ms": 4890
+    },
+    {
+      "event": "context close end",
+      "timestamp": "2026-10-06T02:42:19.468626+00:00",
+      "elapsed_ms": 4909
+    }
+  ],
+  "artifact_errors": [],
+  "elapsed_ms": 4909,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T16:35:34.312727+00:00",
+    "previous_report_sha256": "326ce7395e713702640a307c31f9c435fd6aaf1d4ef2e1cd0cb48b2340550954",
+    "recovered_at": "2026-10-06T02:42:14.563627+00:00",
+    "result": "commit_salvaged"
+  }
+}

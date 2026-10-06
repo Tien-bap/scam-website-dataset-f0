@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_d73fe4e60ccd2c730f372d4d160ae8a1e2c3817c28f930a1423eef6c1c042ef1",
+  "candidate_sha256": "8d7aa8eefd3f5ae1832c36ec5aa2b40fc0156bfb7857bfa7f637fabad1074fc7",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "xemdabong.net",
+  "requested_url": "https://kqbd24.online/",
+  "browser_final_url": "https://kqbd24.online/",
+  "source_urls": [
+    "xemdabong.net"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 15556,
+      "source_url": "xemdabong.net",
+      "source_hostname": "xemdabong.net",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://kqbd24.online/",
+      "final_hostname": "kqbd24.online",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 6085,
+      "checked_at": "2026-10-05T12:41:59.560642+00:00",
+      "error": null,
+      "normalized_source_url": "https://xemdabong.net/",
+      "normalized_final_url": "https://kqbd24.online/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_d73fe4e60ccd2c730f372d4d160ae8a1e2c3817c28f930a1423eef6c1c042ef1",
+    "representative_source_index": 15556,
+    "representative_source_url": "xemdabong.net",
+    "representative_final_url": "https://kqbd24.online/",
+    "normalized_final_url": "https://kqbd24.online/",
+    "source_hostname": "xemdabong.net",
+    "final_hostname": "kqbd24.online",
+    "source_urls": [
+      "xemdabong.net"
+    ],
+    "provenance": [
+      {
+        "source_index": 15556,
+        "source_url": "xemdabong.net",
+        "source_hostname": "xemdabong.net",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://kqbd24.online/",
+        "final_hostname": "kqbd24.online",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 6085,
+        "checked_at": "2026-10-05T12:41:59.560642+00:00",
+        "error": null,
+        "normalized_source_url": "https://xemdabong.net/",
+        "normalized_final_url": "https://kqbd24.online/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 3,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "KQBD 🎖️ Cập Nhật Kết Quả Bóng Đá Hôm Nay🎖️ Lịch Thi Đấu Mới Nhất",
+  "capture_timestamp": "2026-10-05T14:57:27.789601+00:00",
+  "dom_chars": 239137,
+  "screenshot_bytes": 683250,
+  "dom_sha256": "6b5572b6280268f522137b2f2cca77d3eff5c4a22124fb7aa1a8123d1aaa2bb8",
+  "screenshot_sha256": "5915ce4ca3b7a2aece43b38a625b6709af5535a950eda8ca8d9ef3b40808fd29",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://kqbd24.online/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://kqbd24.online/",
+    "browser_final_url": "https://kqbd24.online/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 5
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5650
+}

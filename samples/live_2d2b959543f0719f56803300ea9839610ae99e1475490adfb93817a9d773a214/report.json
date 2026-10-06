@@ -1,0 +1,281 @@
+{
+  "candidate_id": "live_2d2b959543f0719f56803300ea9839610ae99e1475490adfb93817a9d773a214",
+  "candidate_sha256": "0a15d0bb4955db32d573ef68910828e192c6ffc929da6e78b87ff70d55de9053",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://showmeoutdoor.com/paymentinformation/new",
+  "requested_url": "https://omnicreative.com/",
+  "browser_final_url": "https://omnicreative.com/",
+  "source_urls": [
+    "http://showmeoutdoor.com/vm/new",
+    "https://showmeoutdoor.com/paymentSlip/new",
+    "https://showmeoutdoor.com/paymentinformation/new"
+  ],
+  "source_count": 3,
+  "provenance": [
+    {
+      "source_index": 105970,
+      "source_url": "https://showmeoutdoor.com/paymentinformation/new",
+      "source_hostname": "showmeoutdoor.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://omnicreative.com/",
+      "final_hostname": "omnicreative.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3705,
+      "checked_at": "2026-10-05T13:08:31.330993+00:00",
+      "error": null,
+      "normalized_source_url": "https://showmeoutdoor.com/paymentinformation/new",
+      "normalized_final_url": "https://omnicreative.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 106188,
+      "source_url": "https://showmeoutdoor.com/paymentSlip/new",
+      "source_hostname": "showmeoutdoor.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://omnicreative.com/",
+      "final_hostname": "omnicreative.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3805,
+      "checked_at": "2026-10-05T13:17:55.164269+00:00",
+      "error": null,
+      "normalized_source_url": "https://showmeoutdoor.com/paymentSlip/new",
+      "normalized_final_url": "https://omnicreative.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 107704,
+      "source_url": "http://showmeoutdoor.com/vm/new",
+      "source_hostname": "showmeoutdoor.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://omnicreative.com/",
+      "final_hostname": "omnicreative.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2934,
+      "checked_at": "2026-10-05T13:18:13.523394+00:00",
+      "error": null,
+      "normalized_source_url": "http://showmeoutdoor.com/vm/new",
+      "normalized_final_url": "https://omnicreative.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_2d2b959543f0719f56803300ea9839610ae99e1475490adfb93817a9d773a214",
+    "representative_source_index": 105970,
+    "representative_source_url": "https://showmeoutdoor.com/paymentinformation/new",
+    "representative_final_url": "https://omnicreative.com/",
+    "normalized_final_url": "https://omnicreative.com/",
+    "source_hostname": "showmeoutdoor.com",
+    "final_hostname": "omnicreative.com",
+    "source_urls": [
+      "http://showmeoutdoor.com/vm/new",
+      "https://showmeoutdoor.com/paymentSlip/new",
+      "https://showmeoutdoor.com/paymentinformation/new"
+    ],
+    "provenance": [
+      {
+        "source_index": 105970,
+        "source_url": "https://showmeoutdoor.com/paymentinformation/new",
+        "source_hostname": "showmeoutdoor.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://omnicreative.com/",
+        "final_hostname": "omnicreative.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3705,
+        "checked_at": "2026-10-05T13:08:31.330993+00:00",
+        "error": null,
+        "normalized_source_url": "https://showmeoutdoor.com/paymentinformation/new",
+        "normalized_final_url": "https://omnicreative.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 106188,
+        "source_url": "https://showmeoutdoor.com/paymentSlip/new",
+        "source_hostname": "showmeoutdoor.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://omnicreative.com/",
+        "final_hostname": "omnicreative.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3805,
+        "checked_at": "2026-10-05T13:17:55.164269+00:00",
+        "error": null,
+        "normalized_source_url": "https://showmeoutdoor.com/paymentSlip/new",
+        "normalized_final_url": "https://omnicreative.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 107704,
+        "source_url": "http://showmeoutdoor.com/vm/new",
+        "source_hostname": "showmeoutdoor.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://omnicreative.com/",
+        "final_hostname": "omnicreative.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2934,
+        "checked_at": "2026-10-05T13:18:13.523394+00:00",
+        "error": null,
+        "normalized_source_url": "http://showmeoutdoor.com/vm/new",
+        "normalized_final_url": "https://omnicreative.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 3,
+    "unique_source_url_count": 3,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Let us craft your story & build your brand. Web design, video, seo...",
+  "capture_timestamp": "2026-10-05T14:38:49.042537+00:00",
+  "dom_chars": 90310,
+  "screenshot_bytes": 466698,
+  "dom_sha256": "70b5a9dc1174b0e9c51ddaaebfd1121b2b7718c6670076221217cd5c2e9f203d",
+  "screenshot_sha256": "58818ebb1380ceff0ef92ec9bc116e33f5c04a5c024b27cfdcc2e8a5c764586c",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://omnicreative.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://omnicreative.com/",
+    "browser_final_url": "https://omnicreative.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 12225
+}

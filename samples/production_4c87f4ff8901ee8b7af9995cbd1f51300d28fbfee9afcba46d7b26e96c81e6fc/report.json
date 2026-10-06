@@ -1,0 +1,27 @@
+{
+  "original_url": "dienmayxanh-services.com",
+  "hostname": "dienmayxanh-services.com",
+  "checked_at": "2026-10-04T13:33:36.001812+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a014f6-addd-7787-b5c8-a6b0a5a6d77d",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-08-18T13:02:05.432Z",
+  "scan_original_url": "https://www.dienmayxanh-services.com/",
+  "final_url": "https://dienmayxanh-services.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 13773,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.586,
+  "discovery": {
+    "batch_id": "205e1872a392fb3a4f32dbbabd50ca6041a8e9e82eeb6e482f26bb8dbbbb90d3",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

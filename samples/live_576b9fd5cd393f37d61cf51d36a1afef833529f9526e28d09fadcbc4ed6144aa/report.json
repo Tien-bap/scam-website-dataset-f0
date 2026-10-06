@@ -1,0 +1,211 @@
+{
+  "candidate_id": "live_576b9fd5cd393f37d61cf51d36a1afef833529f9526e28d09fadcbc4ed6144aa",
+  "candidate_sha256": "6d98a01f7657af1dda0defb51046a676dce6181fca4ff37e309d38d0cefabc4f",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+  "requested_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+  "browser_final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+  "source_urls": [
+    "http://sahnawaz786.github.io/Facebook_login_clone_project",
+    "https://sahnawaz786.github.io/Facebook_login_clone_project/"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 104817,
+      "source_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+      "source_hostname": "sahnawaz786.github.io",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+      "final_hostname": "sahnawaz786.github.io",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 3175,
+      "elapsed_ms": 428,
+      "checked_at": "2026-10-05T13:16:20.504050+00:00",
+      "error": null,
+      "normalized_source_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+      "normalized_final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 110914,
+      "source_url": "http://sahnawaz786.github.io/Facebook_login_clone_project",
+      "source_hostname": "sahnawaz786.github.io",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+      "final_hostname": "sahnawaz786.github.io",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 3175,
+      "elapsed_ms": 839,
+      "checked_at": "2026-10-05T13:17:50.490831+00:00",
+      "error": null,
+      "normalized_source_url": "http://sahnawaz786.github.io/Facebook_login_clone_project",
+      "normalized_final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_576b9fd5cd393f37d61cf51d36a1afef833529f9526e28d09fadcbc4ed6144aa",
+    "representative_source_index": 104817,
+    "representative_source_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+    "representative_final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+    "normalized_final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+    "source_hostname": "sahnawaz786.github.io",
+    "final_hostname": "sahnawaz786.github.io",
+    "source_urls": [
+      "http://sahnawaz786.github.io/Facebook_login_clone_project",
+      "https://sahnawaz786.github.io/Facebook_login_clone_project/"
+    ],
+    "provenance": [
+      {
+        "source_index": 104817,
+        "source_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+        "source_hostname": "sahnawaz786.github.io",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+        "final_hostname": "sahnawaz786.github.io",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 3175,
+        "elapsed_ms": 428,
+        "checked_at": "2026-10-05T13:16:20.504050+00:00",
+        "error": null,
+        "normalized_source_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+        "normalized_final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 110914,
+        "source_url": "http://sahnawaz786.github.io/Facebook_login_clone_project",
+        "source_hostname": "sahnawaz786.github.io",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+        "final_hostname": "sahnawaz786.github.io",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 3175,
+        "elapsed_ms": 839,
+        "checked_at": "2026-10-05T13:17:50.490831+00:00",
+        "error": null,
+        "normalized_source_url": "http://sahnawaz786.github.io/Facebook_login_clone_project",
+        "normalized_final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 2,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Facebook-log in or sign up",
+  "capture_timestamp": "2026-10-05T14:43:16.404201+00:00",
+  "dom_chars": 3117,
+  "screenshot_bytes": 37109,
+  "dom_sha256": "d21686993460c88e7a29d078d00d020d4c032cfd7b3d79e3a98fbca8c0992397",
+  "screenshot_sha256": "35bdf87c9d223598641a34864db3ecfc42f25293fa3aa3a5cc5e8f7803d40e53",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+    "browser_final_url": "https://sahnawaz786.github.io/Facebook_login_clone_project/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2196
+}

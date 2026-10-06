@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_770d0d4eaf46182bd7e9e8795ff399a9230f8a49bea0dd525468226a9ce02531",
+  "candidate_sha256": "afab85ab0850de52d569f138033cd2e309e4a8c6ec999d0d6665c8b1a45ff93e",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+  "requested_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+  "browser_final_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+  "source_urls": [
+    "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 111773,
+      "source_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+      "source_hostname": "mail.utu.fi",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+      "final_hostname": "mail.utu.fi",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 58703,
+      "elapsed_ms": 1894,
+      "checked_at": "2026-10-05T13:10:02.783353+00:00",
+      "error": null,
+      "normalized_source_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+      "normalized_final_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_770d0d4eaf46182bd7e9e8795ff399a9230f8a49bea0dd525468226a9ce02531",
+    "representative_source_index": 111773,
+    "representative_source_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+    "representative_final_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+    "normalized_final_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+    "source_hostname": "mail.utu.fi",
+    "final_hostname": "mail.utu.fi",
+    "source_urls": [
+      "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f"
+    ],
+    "provenance": [
+      {
+        "source_index": 111773,
+        "source_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+        "source_hostname": "mail.utu.fi",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+        "final_hostname": "mail.utu.fi",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 58703,
+        "elapsed_ms": 1894,
+        "checked_at": "2026-10-05T13:10:02.783353+00:00",
+        "error": null,
+        "normalized_source_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+        "normalized_final_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Outlook",
+  "capture_timestamp": "2026-10-05T14:46:56.841863+00:00",
+  "dom_chars": 56955,
+  "screenshot_bytes": 21311,
+  "dom_sha256": "b5e6f191272e43c8aed7475530491f00e4cc991993e4b2d6e8b646222576df05",
+  "screenshot_sha256": "aa41407783742722454b1d3d21ffaa4ecbed61d5d55069fe280066ab5c0bfbf0",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+    "browser_final_url": "https://mail.utu.fi/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.utu.fi%2fowa%2f",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "elapsed_ms": 2929
+}

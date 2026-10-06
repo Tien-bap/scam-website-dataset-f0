@@ -1,0 +1,21 @@
+{
+  "original_url": "dvc.bcavn.cc",
+  "hostname": "dvc.bcavn.cc",
+  "checked_at": "2026-10-04T10:33:49.570593+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 5,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "163584af-ea75-43f1-80c9-3c7e21282bfc",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-02-28T06:48:00.849Z",
+  "scan_original_url": "http://dvc.bcavn.cc/",
+  "final_url": "https://dvc.bcavn.cc/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1606,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.382
+}

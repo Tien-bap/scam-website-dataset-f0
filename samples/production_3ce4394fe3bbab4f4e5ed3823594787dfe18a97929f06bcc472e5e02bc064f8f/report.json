@@ -1,0 +1,27 @@
+{
+  "original_url": "https://darrbak.com/cg-bin/Amazon/Transaction/Refund",
+  "hostname": "darrbak.com",
+  "checked_at": "2026-10-04T14:32:10.070922+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fa832-171e-7019-86d4-3d8802d24673",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-28T10:08:14.886Z",
+  "scan_original_url": "http://m.darrbak.com/",
+  "final_url": "https://darrbak.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 679,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 52.542,
+  "discovery": {
+    "batch_id": "66c6288db190cc74426f297ff5855f43f4c9690cc22a0adb7f0f01174db88420",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

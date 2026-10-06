@@ -1,0 +1,27 @@
+{
+  "original_url": "http://asoprovida.org/kingoooooooo/",
+  "hostname": "asoprovida.org",
+  "checked_at": "2026-10-04T15:02:11.250377+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a02ca2-33e1-75dc-831d-65f43bede1e5",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-23T03:20:31.877Z",
+  "scan_original_url": "http://asoprovida.org/",
+  "final_url": "https://asoprovida.org/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 7869,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 53.189,
+  "discovery": {
+    "batch_id": "d6e5bd4588db63579917c9c2792138ba39b3ac09d6f6c297df094b04f6497dae",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

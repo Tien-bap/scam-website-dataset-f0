@@ -1,0 +1,27 @@
+{
+  "original_url": "https://vipshopee.com",
+  "hostname": "vipshopee.com",
+  "checked_at": "2026-10-04T13:34:17.178888+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a040cc-231f-708a-a6cc-1be73fb61a49",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-08-27T01:18:48.041Z",
+  "scan_original_url": "http://vipshopee.com/",
+  "final_url": "https://vipshopee.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 495,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.887,
+  "discovery": {
+    "batch_id": "7197996036986105402fd13d9464652f4cb75b6881e7d6980d764c4704713772",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

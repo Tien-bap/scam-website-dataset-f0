@@ -1,0 +1,982 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Shakti Engineering Equipment Co.</title>
+    <!-- mobile responsive meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="../ms-icon-144x144.html">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <style>
+    footer.site-footer.fixed-footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+     
+    </style>
+
+    
+</head><body class="_active-preloader-ovh">
+
+
+
+<div class="page-wrapper">
+
+    <div id="minimal-bootstrap-carousel" class="carousel slide carousel-fade slider-home-one slider-home-two" data-ride="carousel">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item slide-1" style="background-image: url(img/banner-2-1.jpg);background-position: center center;">
+                
+                <div class="carousel-caption">
+                    <div class="container">
+                        <div class="box valign-middle">
+                            <div class="content ">
+                                <h2 data-animation="animated fadeInUp">We will provide the best <span>Quality</span> Valve</h2>
+							</div>
+							<div class="content text-right">
+								<div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['650','750','700','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['-100','-80','-100','-80']" data-x="['right','right','right','right']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" style="z-index: 7; white-space: nowrap; text-align: right;">
+								<img src="img/seeco/product-bn-2.png" alt="www.seecovalves.com">
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+            </div>
+            <div class="item slide-2 active" style="background-image: url(img/banner-2-2.jpg);background-position: center center;">
+                
+                <div class="carousel-caption">
+                    <div class="container">
+                        <div class="box valign-middle">
+                            <div class="content text-left">
+                                <h2 data-animation="animated fadeInUp">We will provide the best <span>Industrial</span> Valve</h2>
+								<div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['650','750','700','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['-100','-80','-100','-80']" data-x="['right','right','right','right']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" style="z-index: 7; white-space: nowrap; text-align: right;">
+								<img src="img/seeco/product-bn-1.png" alt="www.seecovalves.com">
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+            </div>
+            <div class="item slide-3" style="background-image: url(img/banner-2-3.jpg);background-position: center center;">
+                
+                <div class="carousel-caption">
+                    <div class="container">
+                        <div class="box valign-middle">
+                            <div class="content text-left">
+                                <h2 data-animation="animated fadeInUp">Every Products provide you with <span>Technical</span> Specification</h2>
+								<div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['650','750','700','420']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['-100','-80','-100','-80']" data-x="['right','right','right','right']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" style="z-index: 7; white-space: nowrap; text-align: right;">
+								<img src="img/seeco/product-bn-3.png" alt="www.seecovalves.com">
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+            </div>
+        </div>
+        <!-- Controls -->
+        <a class="left carousel-control" href="#minimal-bootstrap-carousel" role="button" data-slide="prev">
+            <i class="fas fa-angle-left"></i>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#minimal-bootstrap-carousel" role="button" data-slide="next">
+            <i class="fas fa-angle-right"></i>
+            <span class="sr-only">Next</span>
+        </a>
+
+        <ul class="carousel-indicators list-inline custom-navigation">
+            <li data-target="#minimal-bootstrap-carousel" data-slide-to="0" class=""></li><!--
+            --><li data-target="#minimal-bootstrap-carousel" data-slide-to="1" class="active"></li><!--
+            --><li data-target="#minimal-bootstrap-carousel" data-slide-to="2"></li>
+        </ul>
+            
+        <div class="logo home-two">
+            <a href="index.html"><img src="img/seeco/seeco-logo-new.png" alt="www.seecovalves.com"></a>
+        </div><!-- /.logo home-two -->
+    </div>
+
+	
+
+<header class="header header-home-two stricky">
+        <nav class="navbar navbar-default header-navigation">
+            <div class="container clearfix">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button class="side-nav-toggler side-nav-opener"><i class="fa fa-bars"></i></button>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse main-navigation mainmenu " id="main-nav-bar">
+                    
+                    <ul class="nav navbar-nav navigation-box">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about-us.php">About Us</a></li>
+						<li> 
+                            <a href="products.php">Products</a> 
+                            <ul class="sub-menu">
+                                <li> <a href="ball-valve.php">Ball Valve</a> </li>
+                                <li><a href="niddle-valve.php">Niddle Valve</a></li>
+                                <li><a href="globe-valve.php">Globe Valve</a></li>
+								<li><a href="y-type-flush-bottom-tank-valve.php">Y Type Flush Bottom Valve</a></li>
+                                <li><a href="safety-valve.php">Safety Valve</a></li>
+                                <li><a href="butterfly-valve.php">Butterfly Valve</a></li>
+                                <li><a href="manual-diaphragm-valve.php">Manual Diaphragm Valve</a></li>
+								<li><a href="pipe-&amp;-fitting-parts.php">Pipe &amp; Fitting Parts</a></li>
+                            </ul><!-- /.sub-menu -->
+                        </li>
+                        <li><a href="quality.php">Quality</a></li>
+						<li> 
+                            <a href="#">Table Data Sheet</a> 
+                            <ul class="sub-menu">
+                                <li> <a href="common-table.php">Common Flanges Table</a> </li>
+                                <li><a href="standard-table.php">Standard Flanges Table</a></li>
+                            </ul><!-- /.sub-menu -->
+                        </li>
+                        <li><a href="inquiry.php">Inquiry</a></li>
+						<li><a href="contact-us.php">Contact</a></li>
+                    </ul>               
+                </div><!-- /.navbar-collapse -->
+                <div class="right-side-box">
+                    <a href="download.php" class="rqa-btn hvr-sweep-to-right"><span class="inner">Download Catalouge <i class="fa fa-download"></i></span></a>
+                </div><!-- /.right-side-box -->
+            </div><!-- /.container -->
+        </nav>   
+    </header><!-- /.header -->
+    
+
+	 <section class="about-style-one sec-pad pb0">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7">
+                    <div class="about-content">
+                        <h3>Welcome to <span>Shakti Engineering Equipment Co.</span></h3>
+                        <p>Shakti Engineering Equipment co. is a leading manufacturer of high quality quarter-turn ball valves and automated accessories. Our creative engineering department and quality manufacturing practices enable Seeco Valve to offer the convenience of standard features with the option of customizing for a specific process.</p>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                               <ul class="list-items">
+                                    <li><i class="industrio-icon-next"></i>  BUSINESS ACTIVITIES</li>
+                                    <li><i class="industrio-icon-next"></i>  MANAGEMENT</li>
+                                </ul><!-- /.list-items -->
+                            </div><!-- /.col-lg-4 col-md-6 col-sm-12 col-xs-12 -->
+                            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                               <ul class="list-items">
+                                    <li><i class="industrio-icon-next"></i>  ASSEMBLY </li>
+                                    <li><i class="industrio-icon-next"></i>  HEALTH &amp; SAFETY </li>
+                                </ul><!-- /.list-items -->
+                            </div><!-- /.col-lg-4 col-md-6 col-sm-12 col-xs-12 -->
+                        </div><!-- /.row -->
+                        <a href="about-us.php" class="about-btn hvr-sweep-to-right">Know more about us</a>
+                    </div><!-- /.about-content -->
+
+                </div><!-- /.col-md-7 -->
+                <div class="col-md-5">
+                    <div class="about-img-box">
+                        <img src="img/seeco/about-1-1.png" alt="www.seecovalves.com">
+                        <div class="video-box">
+                            <img src="img/seeco/about-1-2.png" alt="www.seecovalves.com">
+                           
+                        </div><!-- /.video-box -->
+                    </div><!-- /.about-img-box -->
+                </div><!-- /.col-md-5 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section><!-- /.about-style-one -->
+	
+    <section class="service-style-three sec-pad">
+        <div class="container">
+            <div class="sec-title text-center">
+                <h3><span>Services</span> we provide</h3>
+                <p>You will find yourself working in a true partnership that results in an incredible <br> experience, and an end product that is the best. </p>
+            </div><!-- /.sec-title -->
+            <div class="row">
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="single-service-style-three">
+                        <div class="img-box">
+                            <img src="img/seeco/quality.png" alt="www.seecovalves.com">                            
+                            <div class="text-box text-center">
+                                <div class="inner hvr-bounce-to-bottom">
+                                    <div class="icon-box">
+                                        <i class="industrio-icon-gas-station-1"></i>
+                                    </div><!-- /.icon-box -->
+                                    <a href="quality.php"><h3>Quality Control</h3></a>
+                                    <p>Every product manufactured at Seeco carries name for Quality..</p>
+                                    <a href="quality.php" class="more">Read More <i class="fa fa-arrow-right"></i></a>
+                                </div><!-- /.inner -->
+                            </div><!-- /.text-box -->
+                        </div><!-- /.img-box -->
+                    </div><!-- /.single-service-style-three -->
+                </div><!-- /.col-md-4 col-md-6 -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="single-service-style-three">
+                        <div class="img-box">
+                            <img src="img/seeco/r-d.png" alt="www.seecovalves.com">
+                            <div class="text-box text-center">
+                                <div class="inner hvr-bounce-to-bottom">
+                                    <div class="icon-box">
+                                        <i class="industrio-icon-flasks"></i>
+                                    </div><!-- /.icon-box -->
+                                    <a href="quality.php"><h3>R &amp; D</h3></a>
+                                    <p>All the raw materials that Seeco Vales procure are from reliable..</p>
+                                    <a href="quality.php" class="more">Read More <i class="fa fa-arrow-right"></i></a>
+                                </div><!-- /.inner -->
+                            </div><!-- /.text-box -->
+                        </div><!-- /.img-box -->                        
+                    </div><!-- /.single-service-style-three -->
+                </div><!-- /.col-md-4 col-md-6 -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="single-service-style-three">
+                        <div class="img-box">
+                            <img src="img/seeco/design.png" alt="www.seecovalves.com">                            
+                            <div class="text-box text-center">
+                                <div class="inner hvr-bounce-to-bottom">
+                                    <div class="icon-box">
+                                        <i class="industrio-icon-atom"></i>
+                                    </div><!-- /.icon-box -->
+                                    <a href="standard-table.php"><h3>Design Facility</h3></a>
+                                    <p>Sed quia non numquam eius modi tempora incidunt ut labore..</p>
+                                    <a href="standard-table.php" class="more">Read More <i class="fa fa-arrow-right"></i></a>
+                                </div><!-- /.inner -->
+                            </div><!-- /.text-box -->
+                        </div><!-- /.img-box -->
+                    </div><!-- /.single-service-style-three -->
+                </div><!-- /.col-md-4 col-md-6 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section><!-- /.service-style-three -->
+
+	<section class="fact-counter-section">
+        <div class="container">
+				<div class="sec-title text-center">
+ <h3 style="color:#fff"><span>Product</span> Range</h3>
+                <p style="color: #e5e5e5">You will find yourself working in a true partnership that results in an incredible <br> experience, and an end product that is the best. </p>            </div><!-- /.sec-title -->
+            
+        </div><!-- /.container -->
+    </section><!-- /.fact-counter-section -->
+	
+	 <section class="service-style-two">
+        <div class="container">
+            <div class="service-carousel-style-two owl-carousel owl-theme owl-loaded">
+                <!-- /.item -->
+                <!-- /.item -->
+                <!-- /.item -->
+                <!-- /.item -->
+                <!-- /.item -->
+                <!-- /.item -->
+            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2400px, 0px, 0px); transition: 0.25s; width: 4800px;"><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/flush-bottom-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flush Bottom Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flush Bottom Ball Valve</h3>
+                                        <a href="flush-bottom-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/one-piece-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>One Piece Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>One Piece Ball Valve</h3>
+                                        <a href="one-piece-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/three-piece-butt-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Three Piece Buttweld Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Three Piece Buttweld Ball Valve</h3>
+                                        <a href="three-piece-buttweld-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/flanged-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flanged Type Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flanged Type Ball Valve</h3>
+                                        <a href="flanged-type-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/flanged-type3-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flanged Type 3 Way Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flanged Type 3 Way Ball Valve</h3>
+                                        <a href="flanged-type-3-way-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/triclover-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Triclover Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Triclover Ball Valve</h3>
+                                        <a href="triclover-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/flush-bottom-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flush Bottom Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flush Bottom Ball Valve</h3>
+                                        <a href="flush-bottom-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/one-piece-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>One Piece Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>One Piece Ball Valve</h3>
+                                        <a href="one-piece-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item active" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/three-piece-butt-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Three Piece Buttweld Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Three Piece Buttweld Ball Valve</h3>
+                                        <a href="three-piece-buttweld-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/flanged-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flanged Type Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flanged Type Ball Valve</h3>
+                                        <a href="flanged-type-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/flanged-type3-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flanged Type 3 Way Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Flanged Type 3 Way Ball Valve</h3>
+                                        <a href="flanged-type-3-way-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div><div class="owl-item cloned" style="width: 370px; margin-right: 30px;"><div class="item">
+                    <div class="single-service-style-two">
+                        <div class="img-box">
+                            <img src="img/seeco/products/triclover-1.jpg" alt="www.seecovalves.com">
+                        </div><!-- /.img-box -->
+                        <div class="overlay">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Triclover Ball Valve</h3>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.overlay -->
+                        <div class="hover">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="text-box">
+                                        <h3>Triclover Ball Valve</h3>
+                                        <a href="triclover-ball-valve.php" class="more">view more details <i class="fa fa-angle-right"></i></a>
+                                    </div><!-- /.text-box -->
+                                </div><!-- /.content -->
+                            </div><!-- /.box -->
+                        </div><!-- /.hover -->
+                    </div><!-- /.single-service-style-two -->
+                </div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;"><i class="fa fa-angle-left"></i></div><div class="owl-next" style="display: none;"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots" style=""><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div></div></div></div><!-- /.service-carousel-style-two -->
+        </div><!-- /.container -->
+    </section><!-- /.service-style-two -->
+	
+    <section class="fact-counter-section">
+        <div class="container">
+            <div class="sec-title text-center light">
+                <h3>Why <span>choose</span> us?</h3>
+            </div><!-- /.sec-title text-center light -->
+            <div class="row">
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="progress-box">
+                        <p>Manufacturing industry became a key sector of production and labour in European and North American countries during the Industrial Revolution, upsetting previous mercantile and feudal economies.</p>
+                        <div class="single-progress-bar">
+                            <div class="labeled-text">In House Testing</div><!-- /.labeled-text -->
+                            <div class="progress-scale">
+                                <div class="inner pogress-animation slideInLeft" style="width: 85%; visibility: hidden; animation-name: none;"></div><!-- /.inner -->
+                            </div><!-- /.progress-scale -->
+                            <div class="percent"><span class="timer" data-from="0" data-to="85" data-speed="3000" data-refresh-interval="50"></span>%</div><!-- /.percent -->
+                        </div><!-- /.single-progress-bar -->
+                        <div class="single-progress-bar">
+                            <div class="labeled-text">Laboratory Testing</div><!-- /.labeled-text -->
+                            <div class="progress-scale">
+                                <div class="inner pogress-animation slideInLeft" style="width: 80%; visibility: hidden; animation-name: none;"></div><!-- /.inner -->
+                            </div><!-- /.progress-scale -->
+                            <div class="percent"><span class="timer" data-from="0" data-to="80" data-speed="3000" data-refresh-interval="50"></span>%</div><!-- /.percent -->
+                        </div><!-- /.single-progress-bar -->
+                        <div class="single-progress-bar">
+                            <div class="labeled-text">Working Ability</div><!-- /.labeled-text -->
+                            <div class="progress-scale">
+                                <div class="inner pogress-animation slideInLeft" style="width: 90%; visibility: hidden; animation-name: none;"></div><!-- /.inner -->
+                            </div><!-- /.progress-scale -->
+                            <div class="percent"><span class="timer" data-from="0" data-to="90" data-speed="3000" data-refresh-interval="50"></span>%</div><!-- /.percent -->
+                        </div><!-- /.single-progress-bar -->
+                    </div><!-- /.progress-box -->
+                </div><!-- /.col-md-6 -->
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="fact-counter row">
+                        <div class="divider hor"></div><!-- /.divider hor -->
+                        <div class="divider ver"></div><!-- /.divider hor -->
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="single-fact-counter">
+                                <div class="icon-box">
+                                    <i class="industrio-icon-atom"></i>
+                                </div><!-- /.icon-box -->
+                                <div class="text-box">
+                                    <h3 class="counter">15</h3>
+                                    <p>Experiance</p>
+                                </div><!-- /.text-box -->
+                            </div><!-- /.single-fact-counter -->
+                        </div><!-- /.col-md-6 -->
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="single-fact-counter">
+                                <div class="icon-box">
+                                    <i class="industrio-icon-team"></i>
+                                </div><!-- /.icon-box -->
+                                <div class="text-box">
+                                    <h3 class="counter">860</h3>
+                                    <p>Downloads</p>
+                                </div><!-- /.text-box -->
+                            </div><!-- /.single-fact-counter -->
+                        </div><!-- /.col-md-6 -->
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="single-fact-counter">
+                                <div class="icon-box">
+                                    <i class="industrio-icon-child"></i>
+                                </div><!-- /.icon-box -->
+                                <div class="text-box">
+                                    <h3 class="counter">450</h3>
+                                    <p>Happy Clients</p>
+                                </div><!-- /.text-box -->
+                            </div><!-- /.single-fact-counter -->
+                        </div><!-- /.col-md-6 -->
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="single-fact-counter">
+                                <div class="icon-box">
+                                    <img src="img/seeco/valve.png" alt="www.seecovalves.com">
+                                </div><!-- /.icon-box -->
+                                <div class="text-box">
+                                    <h3 class="counter">20</h3>
+                                    <p>Products</p>
+                                </div><!-- /.text-box -->
+                            </div><!-- /.single-fact-counter -->
+                        </div><!-- /.col-md-6 -->
+                    </div><!-- /.fact-counter -->
+                </div><!-- /.col-md-6 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section><!-- /.fact-counter-section -->
+		
+	
+    <section class="portfolio-style-two full-width no-gutter sec-pad">
+        <div class="container-fluid">
+            <div class="sec-title text-center">
+                <h3>Products <span>Application</span></h3>
+                <p>You will find yourself working in a true partnership that results in an incredible <br> experience, and an end product that is the best. </p>
+            </div><!-- /.sec-title -->
+            <div class="row masonary-layout filter-layout" data-filter-class="filter" style="position: relative; height: 647.282px;">
+                
+				
+				<div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item" style="position: absolute; left: 0px; top: 0px;">
+                    <div class="single-portfolio-style-two">
+                        <div class="img-box">
+                        <img src="img/project-2-5.jpg" alt="www.seecovalves.com">
+                            <div class="overlay">
+                                <div class="box">
+                                    <div class="content">
+                                        <h3>Chemical Industry</h3>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.overlay -->
+                        </div><!-- /.img-box -->
+                    </div><!-- /.single-portfolio-style-two -->
+                </div>
+				
+				<div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item" style="position: absolute; left: 400px; top: 0px;">
+                    <div class="single-portfolio-style-two">
+                        <div class="img-box">
+                        <img src="img/project-2-4.jpg" alt="www.seecovalves.com">
+                            <div class="overlay">
+                                <div class="box">
+                                    <div class="content">
+                                        <h3>Pharma Industry</h3>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.overlay -->
+                        </div><!-- /.img-box -->
+                    </div><!-- /.single-portfolio-style-two -->
+                </div>
+				
+				<div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item" style="position: absolute; left: 800px; top: 0px;">
+                    <div class="single-portfolio-style-two">
+                        <div class="img-box">
+                        <img src="img/project-2-8.jpg" alt="www.seecovalves.com">
+                            <div class="overlay">
+                                <div class="box">
+                                    <div class="content">
+                                        <h3>Oil Gas Upstream</h3>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.overlay -->
+                        </div><!-- /.img-box -->
+                    </div><!-- /.single-portfolio-style-two -->
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item" style="position: absolute; left: 1200px; top: 0px;">
+                    <div class="single-portfolio-style-two">
+                        <div class="img-box">
+                        <img src="img/project-2-2.jpg" alt="www.seecovalves.com">
+                            <div class="overlay">
+                                <div class="box">
+                                    <div class="content">
+                                        <h3>Oil Gas Midstream</h3>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.overlay -->
+                        </div><!-- /.img-box -->
+                    </div><!-- /.single-portfolio-style-two -->
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item" style="position: absolute; left: 0px; top: 323px;">
+                    <div class="single-portfolio-style-two">
+                        <div class="img-box">
+                        <img src="img/project-2-3.jpg" alt="www.seecovalves.com">
+                            <div class="overlay">
+                                <div class="box">
+                                    <div class="content">
+                                        <h3>Oil Gas Downstream</h3>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.overlay -->
+                        </div><!-- /.img-box -->
+                    </div><!-- /.single-portfolio-style-two -->
+                </div>
+                
+                
+                <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item" style="position: absolute; left: 400px; top: 323px;">
+                    <div class="single-portfolio-style-two">
+                        <div class="img-box">
+                        <img src="img/project-2-6.jpg" alt="www.seecovalves.com">
+                            <div class="overlay">
+                                <div class="box">
+                                    <div class="content">
+										<h3>Power Industry</h3>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.overlay -->
+                        </div><!-- /.img-box -->
+                    </div><!-- /.single-portfolio-style-two -->
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item" style="position: absolute; left: 800px; top: 323px;">
+                    <div class="single-portfolio-style-two">
+                        <div class="img-box">
+                        <img src="img/project-2-1.jpg" alt="www.seecovalves.com">
+                            <div class="overlay">
+                                <div class="box">
+                                    <div class="content">
+                                        <h3>Mining Industry</h3>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.overlay -->
+                        </div><!-- /.img-box -->
+                    </div><!-- /.single-portfolio-style-two -->
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item" style="position: absolute; left: 1200px; top: 323px;">
+                    <div class="single-portfolio-style-two">
+                        <div class="img-box">
+                        <img src="img/project-2-7.jpg" alt="www.seecovalves.com">
+                            <div class="overlay">
+                                <div class="box">
+                                    <div class="content">
+                                        <h3>General Industry</h3>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.overlay -->
+                        </div><!-- /.img-box -->
+                    </div><!-- /.single-portfolio-style-two -->
+                </div>
+            </div>
+        </div><!-- /.container -->                
+    </section><!-- /.project-style-one -->
+    
+    
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">        
+
+<div class="whats-bar">
+			<a class="whatsapp" href="https://api.whatsapp.com/send?phone=919824267297&amp;text=Hi, I contacted you Through your www.seecovalves.com" target="_blank"><i class="fab fa-whatsapp"></i></a>
+</div>
+    <section class="contact-info-style-one">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                    <div class="title">
+                        <h3>Get in Touch</h3>
+                        <p>You will find yourself working in a true partnership that results in an incredible experience, and an end product that is the best.</p>
+                    </div><!-- /.title -->
+                </div><!-- /.col-md-7 -->
+                <div class="col-md-7">
+                    <div class="contact-infos">
+                        <div class="single-contact-infos">
+                            <div class="icon-box">
+                                <i class="industrio-icon-phone-call"></i>
+                            </div><!-- /.icon-box -->
+                            <div class="text-box">
+                                <h3>Call us on</h3>
+                                <p>+91 9824267297<br>+91 9824265768</p>
+                            </div><!-- /.text-box -->
+                        </div><!-- /.single-contact-infos -->
+                        <div class="single-contact-infos">
+                            <div class="icon-box">
+                                <i class="industrio-icon-envelope"></i>
+                            </div><!-- /.icon-box -->
+                            <div class="text-box">
+                                <h3>Email us</h3>
+                                <p>info@seecovalves.com<br>sesvalve@yahoo.co.in</p>
+                            </div><!-- /.text-box -->
+                        </div><!-- /.single-contact-infos -->
+                    </div><!-- /.contact-infos -->
+                </div><!-- /.col-md-5 -->
+            </div><!-- /.row -->
+        </div><!-- /.contianer -->
+    </section><!-- /.contact-info-style-one -->
+
+</div><!-- /.page-wrapper -->
+
+<footer class="site-footer fixed-footer">
+    <div class="main-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2 col-sm-6 col-xs-12">
+                    <div class="footer-widget links-widget">
+                        <div class="title">
+                            <h3>Links</h3>
+                        </div><!-- /.title -->
+                        <ul class="links-list">
+                            <li class="underline"><a href="index.php">Home</a></li>
+                            <li class="underline"><a href="about-us.php">About Us</a></li>
+                            <li class="underline"><a href="products.php">Products</a></li>
+							<li class="underline"><a href="quality.php">Quality</a></li>
+                            <li class="underline"><a href="table-data-sheet.php">Table Data Sheet</a></li>
+                            <li class="underline"><a href="inquiry.php">Inquiry</a></li>
+                            <li class="underline"><a href="contact-us.php">Contact Us</a></li>
+                        </ul><!-- /.links-list -->
+                    </div><!-- /.footer-widget links-widget -->
+                </div><!-- /.col-md-2 -->
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="footer-widget links-widget">
+                        <div class="title">
+                            <h3>Products</h3>
+                        </div><!-- /.title -->
+                        <ul class="links-list">
+                            <li class="underline"><a href="ball-valve.php">Ball Valve</a></li>
+                            <li class="underline"><a href="niddle-valve.php">Niddle Valve</a></li>
+                            <li class="underline"><a href="globe-valve.php">Globe Valve</a></li>
+                            <li class="underline"><a href="safety-valve.php">Safety Valve</a></li>
+                            <li class="underline"><a href="butterfly-valve.php">Butterfly Valve</a></li>
+                            <li class="underline"><a href="manual-diaphragm-valve.php">Manual Diaphragm Valve</a></li>
+                            <li class="underline"><a href="pipe-&amp;-fitting-parts.php">Pipe &amp; Fitting Parts</a></li>
+                        </ul><!-- /.links-list -->
+                    </div><!-- /.footer-widget links-widget -->
+                </div><!-- /.col-md-2 -->
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="footer-widget services-widget">
+                        <div class="title">
+                            <h3>Ball Valve Products</h3>
+                        </div><!-- /.title -->
+                        <ul class="links-list">
+                            <li class="underline"><a href="flanged-type-ball-valve.php">Flanged Type Ball Valve</a></li>
+                            <li class="underline"><a href="triclover-ball-valve.php">Triclover Ball Valve</a></li>
+                            <li class="underline"><a href="flush-bottom-ball-valve.php">Flush Bottom Ball Valve</a></li>
+                            <li class="underline"><a href="three-piece-socketweld-ball-valve.php">Three Piece Socketweld Ball Valve</a></li>
+                            <li class="underline"><a href="three-piece-buttweld-ball-valve.php">Three Piece Buttweld Ball Valve</a></li>
+							<li class="underline"><a href="flanged-type-3-way-ball-valve.php">Flanged Type 3 Way Ball Valve</a></li>
+							<li class="underline"><a href="ball-valve.php">View All</a></li>
+                        </ul><!-- /.links-list -->
+                    </div><!-- /.footer-widget services-widget -->
+                </div><!-- /.col-md-3 -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="footer-widget subscribe-widget">
+                        <h3>Address</h3>
+                        <p> Block No. H-37, Abhishek Estate,<br>Opp. Haripura Bus Stand Beside Asarwa Over Bridge, Asarwa,<br>Ahmedabad - 380 016.
+							</p>
+                    </div><!-- /.footer-widget subscribe-widget -->
+                </div><!-- /.col-md-4 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div><!-- /.main-footer -->
+    <div class="bottom-footer">
+        <div class="container">
+            <div class="left-text pull-left"><p>© Copyright 2019. Shakti Engineering Equipment Co. All right reserved.</p></div><!-- /.left-text -->
+            <div class="right-text pull-right"><p>Developed by <a href="http://www.acmeinfosoft.com" target="_blank">Acme Infosoft</a></p></div><!-- /.right-text --><a href="http://www.acmeinfosoft.com" target="_blank">
+        </a></div><!-- /.container --><a href="http://www.acmeinfosoft.com" target="_blank">
+    </a></div><!-- /.bottom-footer --><a href="http://www.acmeinfosoft.com" target="_blank">
+</a></footer><!-- /.site-footer --><a href="http://www.acmeinfosoft.com" target="_blank">
+
+</a><section class="hidden-sidebar side-navigation"><a href="http://www.acmeinfosoft.com" target="_blank">
+    </a><a href="#" class="close-button side-navigation-close-btn fa fa-times"></a><!-- /.close-button -->
+    <div class="sidebar-content">
+        <div class="top-content">
+            <a href="index.html"><img src="img/seeco/seeco-logo-new.png" alt="www.seecovalves.com"></a>
+        </div><!-- /.top-content -->
+        <nav class="nav-menu middle-content">
+            <ul class=" navigation-box">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about-us.php">About Us</a></li>
+						<li> 
+                            <a href="products.php">Products</a> 
+                            <ul class="sub-menu">
+                                <li> <a href="ball-valve.php">Ball Valve</a> </li>
+                                <li><a href="niddle-valve.php">Niddle Valve</a></li>
+                                <li><a href="globe-valve.php">Globe Valve</a></li>
+								<li><a href="y-type-flush-bottom-tank-valve.php">Y Type Flush Bottom Valve</a></li>
+                                <li><a href="safety-valve.php">Safety Valve</a></li>
+                                <li><a href="butterfly-valve.php">Butterfly Valve</a></li>
+                                <li><a href="manual-diaphragm-valve.php">Manual Diaphragm Valve</a></li>
+								<li><a href="pipe-&amp;-fitting-parts.php">Pipe &amp; Fitting Parts</a></li>
+                            </ul><!-- /.sub-menu -->
+                        </li>
+                        <li><a href="quality.php">Quality</a></li>
+						<li> 
+                            <a href="#">Table Data Sheet</a> 
+                            <ul class="sub-menu">
+                                <li> <a href="common-table.php">Common Flanges Table</a> </li>
+                                <li><a href="standard-table.php">Standard Flanges Table</a></li>
+                            </ul><!-- /.sub-menu -->
+                        </li>
+                        <li><a href="inquiry.php">Inquiry</a></li>
+						<li><a href="contact-us.php">Contact</a></li>
+                    </ul>
+        </nav><!-- /.nav-menu -->
+            <p class="copy-text">© Copyright 2019. Shakti Engineering Equipment Co. All right reserved. <br> Developed By <a href="http://www.acmeinfosoft.com" target="_blank">Acme Infosoft</a> </p><!-- /.copy-text -->
+        </div><!-- /.bottom-content -->
+    <!-- /.sidebar-content -->
+</section><!-- /.hidden-sidebar -->
+
+
+
+
+
+<div class="scroll-to-top scroll-to-target" data-target="html"><i class="fa fa-angle-up"></i></div>                    
+
+<script src="js/jquery.js"></script>
+
+<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap-select.min.js"></script>
+<script src="js/jquery.validate.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/isotope.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/waypoints.min.js"></script>
+<script src="js/jquery.counterup.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/jquery.appear.js"></script>
+<script src="js/jquery.countTo.js"></script>
+<script src="js/custom.js"></script>
+
+
+
+
+
+</body>

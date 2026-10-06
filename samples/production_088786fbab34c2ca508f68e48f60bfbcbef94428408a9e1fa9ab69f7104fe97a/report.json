@@ -1,0 +1,27 @@
+{
+  "original_url": "http://verify-account.us/profile.html?countUser=273de4fefd56096c67eb578124994f6b",
+  "hostname": "verify-account.us",
+  "checked_at": "2026-10-04T13:58:12.820170+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fda18-d960-778d-bce8-e2ef9e0d9290",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-07T02:41:35.415Z",
+  "scan_original_url": "http://verify-account.us/",
+  "final_url": "https://verify-account.us/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 405,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.359,
+  "discovery": {
+    "batch_id": "56491c987783419d260aba5ce51a9fedbc65b3c9ecb60d48c05a6b6c385e1ca0",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

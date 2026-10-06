@@ -1,0 +1,158 @@
+{
+  "candidate_id": "live_314974a21c065606308f4be12bab9340779c93bf3b94035a36c230421237030e",
+  "candidate_sha256": "57d6a69f091c1130f0a1146ad4762299e92085d4452c52a6e6f21261358740bd",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://myerslegacy.com/Craig/Douthit/index.html",
+  "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+  "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+  "source_urls": [
+    "https://myerslegacy.com/Craig/Douthit/index.html"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 84211,
+      "source_url": "https://myerslegacy.com/Craig/Douthit/index.html",
+      "source_hostname": "myerslegacy.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 44317,
+      "elapsed_ms": 2327,
+      "checked_at": "2026-10-05T13:02:32.944049+00:00",
+      "error": null,
+      "normalized_source_url": "https://myerslegacy.com/Craig/Douthit/index.html",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_314974a21c065606308f4be12bab9340779c93bf3b94035a36c230421237030e",
+    "representative_source_index": 84211,
+    "representative_source_url": "https://myerslegacy.com/Craig/Douthit/index.html",
+    "representative_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+    "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+    "source_hostname": "myerslegacy.com",
+    "final_hostname": "www.hugedomains.com",
+    "source_urls": [
+      "https://myerslegacy.com/Craig/Douthit/index.html"
+    ],
+    "provenance": [
+      {
+        "source_index": 84211,
+        "source_url": "https://myerslegacy.com/Craig/Douthit/index.html",
+        "source_hostname": "myerslegacy.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 44317,
+        "elapsed_ms": 2327,
+        "checked_at": "2026-10-05T13:02:32.944049+00:00",
+        "error": null,
+        "normalized_source_url": "https://myerslegacy.com/Craig/Douthit/index.html",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "MyersLegacy.com is for sale | HugeDomains",
+  "capture_timestamp": "2026-10-05T16:36:52.085271+00:00",
+  "dom_chars": 82556,
+  "screenshot_bytes": 97176,
+  "dom_sha256": "a9f6e0030e279fbf96ee7f62d4df99d7b16badc5b52bbd52007e17e3836e7388",
+  "screenshot_sha256": "86b7174ea9d13e6a5fa9acc88731acb56b992703d9bf17618a118985a49033d1",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_parking_page"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+    "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=myerslegacy.com",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 5,
+    "resource": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 2981,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "timeout",
+    "original_capture_timestamp": "2026-10-05T14:39:24.270059+00:00",
+    "previous_report_sha256": "c84f46ac46062e797a7eb99fe22aa730bb97a58924a828c85b4c56a1c508a4e5",
+    "recovered_at": "2026-10-05T16:36:52.085271+00:00",
+    "result": "complete"
+  }
+}

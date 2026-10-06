@@ -1,0 +1,27 @@
+{
+  "original_url": "http://gwenet.org/oneee/0ffice365.php?l=_JeHFUq_VJOXK0QWHtoGYDw177425fgfdfgrtui6418&fid.123InboxLight.aspxn.1774256418&fid.1252899645289964213InboxLight_Product-userid&use",
+  "hostname": "gwenet.org",
+  "checked_at": "2026-10-04T14:30:03.842914+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 17,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a10487-ff4d-713d-8856-eb0eb1d69cbe",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-04T01:29:57.836Z",
+  "scan_original_url": "http://gwenet.org/office",
+  "final_url": "http://gwenet.org/office/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3548,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.81,
+  "discovery": {
+    "batch_id": "c329ef5a7db78f36bf31719d4f5aa2d2cda6196cc200d57fea56ac53ab212e24",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

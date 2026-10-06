@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.vivereilvetro.it/wp-includes/Text/Diff/Renderer/inline.html",
+  "hostname": "www.vivereilvetro.it",
+  "checked_at": "2026-10-04T15:52:05.258147+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f4131-4c33-72e5-aedd-6cb5ce292441",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-08T10:06:30.266Z",
+  "scan_original_url": "http://vivereilvetro.it/",
+  "final_url": "https://www.vivereilvetro.it/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 617,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.545,
+  "discovery": {
+    "batch_id": "be6cf7c4c50880ae1334690f8a5e7ac7e8527f4c470b637747820cd245db9c3f",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

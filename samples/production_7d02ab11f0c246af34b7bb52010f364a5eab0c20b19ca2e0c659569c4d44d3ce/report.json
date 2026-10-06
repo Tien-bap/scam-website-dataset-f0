@@ -1,0 +1,27 @@
+{
+  "original_url": "https://kecsterilizer.com/zmps/Validation/",
+  "hostname": "kecsterilizer.com",
+  "checked_at": "2026-10-04T16:03:05.309362+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019faf40-b750-71d1-b893-2472c538f489",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-29T19:01:42.278Z",
+  "scan_original_url": "https://kecsterilizer.com/",
+  "final_url": "https://kecsterilizer.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3128,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.361,
+  "discovery": {
+    "batch_id": "65d7f82374175ad7dee686227c9e67daa946786e937b8332d2b35751e1dcf7e2",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://sharlu.com/wp-admin/2021-APR/retiovcx-excel2/index.php",
+  "hostname": "sharlu.com",
+  "checked_at": "2026-10-04T14:18:18.802785+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019febf1-f700-724c-9aa7-76f4b2bed70e",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-10T13:52:33.396Z",
+  "scan_original_url": "https://sharlu.com/",
+  "final_url": "https://sharlu.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 8947,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.24,
+  "discovery": {
+    "batch_id": "8927945ec259f89fb2a827db2c9738367fe158773e47156305c6f4dded81ded2",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

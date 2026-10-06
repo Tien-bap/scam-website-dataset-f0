@@ -1,0 +1,27 @@
+{
+  "original_url": "https://equipexitos.com/wp/pro/ceia5kyzlp0ynb3nwlxhfs7m.php?secure&share=j36j39160411055694bfc46292f6f63b12c060d8c99a502794bfc46292f6f63b12c060d8c99a502794bfc46292f6f63b12c060d8c99a502794bfc46292f6f63b12c060d8c99a502794bfc46292f6f63b12c060d8c99a5027",
+  "hostname": "equipexitos.com",
+  "checked_at": "2026-10-04T14:23:03.186385+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a03b1c-3e15-7472-ad03-8daa761c865a",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-25T22:48:37.031Z",
+  "scan_original_url": "https://postventagastronomia.com/",
+  "final_url": "https://equipexitos.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 7437,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.853,
+  "discovery": {
+    "batch_id": "8e2c8cf64b34041befec7a80d8a6676af253567a1e3febb681992690e6f45daa",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

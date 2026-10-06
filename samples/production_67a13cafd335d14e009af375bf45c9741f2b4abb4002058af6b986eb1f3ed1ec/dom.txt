@@ -1,0 +1,804 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Afropolitain Magazine</title>
+
+    <meta name="description" content="Thoughts, stories and ideas.">
+    <link rel="canonical" href="https://www.afropolitain.com/">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <link rel="next" href="https://www.afropolitain.com/page/2/">
+    
+    <meta property="og:site_name" content="Afropolitain Magazine">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Afropolitain Magazine">
+    <meta property="og:description" content="Thoughts, stories and ideas.">
+    <meta property="og:url" content="https://www.afropolitain.com/">
+    <meta property="og:image" content="https://static.ghost.org/v5.0.0/images/publication-cover.jpg">
+    <meta property="article:publisher" content="https://www.facebook.com/ghost">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Afropolitain Magazine">
+    <meta name="twitter:description" content="Thoughts, stories and ideas.">
+    <meta name="twitter:url" content="https://www.afropolitain.com/">
+    <meta name="twitter:image" content="https://static.ghost.org/v5.0.0/images/publication-cover.jpg">
+    <meta name="twitter:site" content="@ghost">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="840">
+    
+    <script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202608130101/show_ads_impl_fy2021.js"></script><script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Afropolitain Magazine",
+        "url": "https://www.afropolitain.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2025/10/Afropolitain-logo200x39-2.png"
+        }
+    },
+    "url": "https://www.afropolitain.com/",
+    "name": "Afropolitain Magazine",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://static.ghost.org/v5.0.0/images/publication-cover.jpg",
+        "width": 1200,
+        "height": 840
+    },
+    "mainEntityOfPage": "https://www.afropolitain.com/",
+    "description": "Thoughts, stories and ideas."
+}
+    </script>
+
+    <meta name="generator" content="Ghost 6.57">
+    <link rel="alternate" type="application/rss+xml" title="Afropolitain Magazine" href="https://www.afropolitain.com/rss/">
+    <script defer="" src="https://cdn.jsdelivr.net/ghost/portal@~2.69/umd/portal.min.js" data-i18n="true" data-ghost="https://www.afropolitain.com/" data-key="e45242a5ec1e9255f89404ec37" data-api="https://afropolitain.ghost.io/ghost/api/content/" data-locale="en" crossorigin="anonymous"></script><style id="gh-members-styles">.gh-post-upgrade-cta-content,
+.gh-post-upgrade-cta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.gh-post-upgrade-cta-content {
+    border-radius: 8px;
+    padding: 40px 4vw;
+}
+
+.gh-post-upgrade-cta h2 {
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: -0.2px;
+    margin: 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta p {
+    margin: 20px 0 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta small {
+    font-size: 16px;
+    letter-spacing: -0.2px;
+}
+
+.gh-post-upgrade-cta a {
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: 500;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a:hover {
+    color: #ffffff;
+    opacity: 0.8;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a.gh-btn {
+    display: block;
+    background: #ffffff;
+    text-decoration: none;
+    margin: 28px 0 0;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.gh-post-upgrade-cta a.gh-btn:hover {
+    opacity: 0.92;
+}</style>
+    <script defer="" src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.8/umd/sodo-search.min.js" data-key="e45242a5ec1e9255f89404ec37" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.8/umd/main.css" data-sodo-search="https://afropolitain.ghost.io/" data-locale="en" crossorigin="anonymous"></script>
+    
+    <link href="https://www.afropolitain.com/webmentions/receive/" rel="webmention">
+    <script defer="" src="/public/cards.min.js?v=D6OJpxckK_6QDJ1o"></script>
+    <link rel="stylesheet" type="text/css" href="/public/cards.min.css?v=zbOBSN8qHrr3rC6Y">
+    <script defer="" src="/public/member-attribution.min.js?v=fGWxp7cZ6mmurhvN"></script>
+    <script defer="" src="/public/ghost-stats.min.js?v=XExDLZJ3NKpv0kSa" data-stringify-payload="false" data-datasource="analytics_events" data-storage="localStorage" data-host="https://www.afropolitain.com/.ghost/analytics/api/v1/page_hit" tb_site_uuid="1eceea75-fac9-4223-a692-56151dcfc317" tb_post_uuid="undefined" tb_post_type="null" tb_member_uuid="undefined" tb_member_status="undefined" tb_gift_link=""></script><style>:root {--ghost-accent-color: #FF1A75;}</style>
+    <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2041725418536204" crossorigin="anonymous" data-checked-head="true"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&amp;family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://www.afropolitain.com/assets/css/screen.css?v=HuYrwZzHLFXKkDIS">
+<meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><link type="text/css" href="//fonts.googleapis.com/css?family=Roboto%3A500" rel="stylesheet"></head><body class="home-template">
+    <header class="afropo-header">
+  <div class="afropo-topbar">
+    <div class="afropo-topbar__inner">
+      <div class="afropo-topbar__left">
+        <a class="afropo-btn afropo-btn--subscribe" href="#/portal/signup">SUBSCRIBE</a>
+      </div>
+
+      <div class="afropo-topbar__brand">
+        <a class="afropo-logo" href="https://www.afropolitain.com">
+          <img src="https://www.afropolitain.com/assets/images/afropolitan-logo-black.png?v=s-801-joj2pRjqIV" alt="Afropolitain Magazine">
+        </a>
+      </div>
+
+      <div class="afropo-topbar__right">
+        <div class="afropo-auth">
+          <a class="afropo-btn afropo-btn--black" href="#/portal/signin">SIGN IN</a>
+          <a class="afropo-btn afropo-btn--black" href="#/portal/signup">SIGN UP</a>
+        </div>
+
+        <a class="afropo-search" href="/search/" aria-label="Search">
+          <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M10.5 3a7.5 7.5 0 105.02 13.05l4.21 4.2 1.41-1.41-4.2-4.21A7.5 7.5 0 0010.5 3zm0 2a5.5 5.5 0 110 11 5.5 5.5 0 010-11z"></path></svg>        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="afropo-nav afropo-nav--primary">
+    <div class="afropo-nav__inner">
+      <ul class="nav">
+    <li class="nav-news"><a href="https://www.afropolitain.com/tag/news/">News</a></li>
+    <li class="nav-fashion"><a href="https://www.afropolitain.com/tag/fashion/">Fashion</a></li>
+    <li class="nav-beauty"><a href="https://www.afropolitain.com/tag/beauty/">Beauty</a></li>
+    <li class="nav-culture"><a href="https://www.afropolitain.com/tag/culture/">Culture</a></li>
+    <li class="nav-lifestyle"><a href="https://www.afropolitain.com/tag/lifestyle/">Lifestyle</a></li>
+    <li class="nav-shop"><a href="https://www.afropoli.com">Shop</a></li>
+</ul>
+
+    </div>
+  </div>
+
+  <div class="afropo-subnav">
+    <div class="afropo-subnav__inner">
+      <a class="afropo-pill" href="/tag/trending/">TRENDING</a>
+      <a class="afropo-pill" href="/tag/one-on-one/">ONE ON ONE</a>
+      <a class="afropo-pill" href="/tag/cover/">COVER</a>
+      <a class="afropo-pill" href="/tag/music/">MUSIC</a>
+    </div>
+  </div>
+</header>
+
+    <main class="afropo-main">
+        
+<section class="afropo-home">
+
+        <div class="afropo-section-title afropo-section-title--hero"><span>EVENTS</span></div>
+        <section class="afropo-hero">
+          <a class="afropo-hero__link" href="/africa-now-returns-to-galeries-lafayette-paris-haussmann/">
+              <img class="afropo-hero__img" src="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/07/p0_x13_1097x793.png" alt="After Africa Now: Why Paris Needs a Second Edition, and the Designers Who Made the Case">
+            <div class="afropo-hero__overlay">
+              <div class="afropo-hero__kicker">Featured</div>
+              <div class="afropo-hero__title">After Africa Now: Why Paris Needs a Second Edition, and the Designers Who Made the Case</div>
+            </div>
+          </a>
+        </section>
+
+  
+    <section class="afropo-block home-covers" id="covers">
+    <div class="afropo-section-title"><span>COVERS</span></div>
+
+    <div class="home-covers__hero" id="afropoCoverHero">
+      <a class="home-covers__hero-link" id="afropoCoverHeroLink" href="/deontay-wilder-true-grit/">
+        <div class="home-covers__hero-img-wrap">
+          <img class="home-covers__hero-img" id="afropoCoverHeroImg" src="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/04/Deontay-Wilder-1.jpg" alt="DEONTAY WILDER: TRUE GRIT">
+        </div>
+        <div class="home-covers__hero-overlay">
+          <span class="home-covers__hero-eyebrow">Cover Story</span>
+          <h2 class="home-covers__hero-title" id="afropoCoverHeroTitle">DEONTAY WILDER: TRUE GRIT</h2>
+          <p class="home-covers__hero-excerpt" id="afropoCoverHeroExcerpt">The city of Tuscaloosa, Alabama, is named after a tall warrior of dark complexion—a Native American chief whose story has so much in common with its modern resident, the boxing champion of the world, Deontay Wilder, that you would think one the reincarnation of the other. Wilder is all</p>
+          <span class="home-covers__hero-cta">READ THE STORY</span>
+        </div>
+      </a>
+    </div>
+
+    <ul class="home-covers__thumbrow" id="afropoCoversList">
+      <li class="home-covers__thumbitem home-covers__thumbitem--active" data-url="/deontay-wilder-true-grit/" data-img="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/04/Deontay-Wilder-1.jpg" data-title="DEONTAY WILDER: TRUE GRIT" data-excerpt="The city of Tuscaloosa, Alabama, is named after a tall warrior of dark complexion—a Native American chief whose story has so much in common with its modern resident, the boxing champion of the world, Deontay Wilder, that you would think one the reincarnation of the other. Wilder is all">
+        <a class="home-covers__thumblink" href="/deontay-wilder-true-grit/">
+          <div class="home-covers__thumbimg">
+              <img src="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/04/Deontay-Wilder-1.jpg" alt="DEONTAY WILDER: TRUE GRIT" loading="lazy">
+            <span class="home-covers__thumb-badge">COVER</span>
+          </div>
+          <div class="home-covers__thumbtitle">DEONTAY WILDER: TRUE GRIT</div>
+        </a>
+      </li>
+      <li class="home-covers__thumbitem" data-url="/megalyn-echikunwoke-triple-threat/" data-img="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/04/Megalyn-110.jpg" data-title="MEGALYN ECHIKUNWOKE: TRIPLE THREAT" data-excerpt="She grew up on a Native American reservation in Arizona. Her father is of Nigerian descent, her mother of European heritage. She started acting at thirteen. She sings, dances, and acts—Hollywood's so-called &quot;triple threat&quot;—and she has spent two decades navigating an industry that">
+        <a class="home-covers__thumblink" href="/megalyn-echikunwoke-triple-threat/">
+          <div class="home-covers__thumbimg">
+              <img src="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/04/Megalyn-110.jpg" alt="MEGALYN ECHIKUNWOKE: TRIPLE THREAT" loading="lazy">
+            <span class="home-covers__thumb-badge">COVER</span>
+          </div>
+          <div class="home-covers__thumbtitle">MEGALYN ECHIKUNWOKE: TRIPLE THREAT</div>
+        </a>
+      </li>
+      <li class="home-covers__thumbitem" data-url="/maxwell-africans-in-rhythm/" data-img="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/04/Maxwell-1.jpg" data-title="MAXWELL: AFRICANS IN RHYTHM" data-excerpt="He received a keyboard at 17 and never looked back. Maxwell—the Brooklyn-born singer-songwriter of Caribbean descent who has been credited with the rebirth of soul in the late 1990s alongside Erykah Badu, D'Angelo, and Bilal—moves through the world with the unhurried confidence of a">
+        <a class="home-covers__thumblink" href="/maxwell-africans-in-rhythm/">
+          <div class="home-covers__thumbimg">
+              <img src="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/04/Maxwell-1.jpg" alt="MAXWELL: AFRICANS IN RHYTHM" loading="lazy">
+            <span class="home-covers__thumb-badge">COVER</span>
+          </div>
+          <div class="home-covers__thumbtitle">MAXWELL: AFRICANS IN RHYTHM</div>
+        </a>
+      </li>
+      <li class="home-covers__thumbitem" data-url="/georgie-badiel-the-water-nymph/" data-img="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/04/Georgie-144.jpg" data-title="GEORGIE BADIEL: THE WATER NYMPH" data-excerpt="She loves to eat, yet worked in an industry where you are constantly on a diet. She wanted to become a doctor, yet turned out to be a high-fashion model. She hated walking to get water, so she dedicated her life to providing clean water for those in need.">
+        <a class="home-covers__thumblink" href="/georgie-badiel-the-water-nymph/">
+          <div class="home-covers__thumbimg">
+              <img src="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/04/Georgie-144.jpg" alt="GEORGIE BADIEL: THE WATER NYMPH" loading="lazy">
+            <span class="home-covers__thumb-badge">COVER</span>
+          </div>
+          <div class="home-covers__thumbtitle">GEORGIE BADIEL: THE WATER NYMPH</div>
+        </a>
+      </li>
+    </ul>
+  </section>
+
+  <script>
+  (() => {
+    const heroLink    = document.getElementById('afropoCoverHeroLink');
+    const heroImg     = document.getElementById('afropoCoverHeroImg');
+    const heroTitle   = document.getElementById('afropoCoverHeroTitle');
+    const heroExcerpt = document.getElementById('afropoCoverHeroExcerpt');
+    const list        = document.getElementById('afropoCoversList');
+
+    if (!heroLink || !list) return;
+
+    const items = Array.from(list.querySelectorAll('.home-covers__thumbitem'));
+
+    function setHero(item) {
+      const url     = item.dataset.url     || '#';
+      const img     = item.dataset.img     || '';
+      const title   = item.dataset.title   || '';
+      const excerpt = item.dataset.excerpt || '';
+
+      heroLink.href            = url;
+      heroImg.src              = img;
+      heroImg.alt              = title;
+      heroTitle.textContent    = title;
+      heroExcerpt.textContent  = excerpt;
+
+      items.forEach(el => el.classList.remove('home-covers__thumbitem--active'));
+      item.classList.add('home-covers__thumbitem--active');
+
+      // Update thumb links so they go to the article (not intercept click)
+      item.querySelector('a').href = url;
+    }
+
+    items.forEach(item => {
+      const link = item.querySelector('.home-covers__thumblink');
+      link.addEventListener('click', e => {
+        // First click: activate hero. Second click (already active): follow link.
+        if (!item.classList.contains('home-covers__thumbitem--active')) {
+          e.preventDefault();
+          setHero(item);
+        }
+        // if already active, let the link navigate normally
+      });
+    });
+
+    // Initialise with first item
+    if (items[0]) setHero(items[0]);
+  })();
+  </script>
+
+      <section class="afropo-block">
+        <div class="afropo-section-title"><span>FASHION</span></div>
+        <div class="afropo-grid afropo-grid--cards afropo-grid--fashion">
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/ebuka-obi-uchendu-looks-every-bit-the-stylish-northerner-in-this-golden-babariga-see-photos/">
+      <figure class="afropo-card__media">
+        <img src="https://www.bellanaija.com/wp-content/uploads/2026/08/SaveClip.App_776686630_18612355741006271_4937006710092893227_n.jpg" alt="Ebuka Obi-Uchendu Looks Every Bit the Stylish Northerner in This Golden Babariga | See Photos" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">fashion</span>
+    <h3 class="afropo-card__title">Ebuka Obi-Uchendu Looks Every Bit the Stylish Northerner in This Golden Babariga | See Photos</h3>
+      <div class="afropo-card__meta">Aug 16, 2026</div>
+      <p class="afropo-card__excerpt">Big Brother Naija host Ebuka Obi-Uchendu stepped out in a metallic golden three-piece Babariga by D29 Africa, styled with a snake-print Hula cap, dark aviator sunglasses, and polished black leather shoes.
+The post Ebuka Obi-Uchendu Looks Every Bit the Stylish Northerner in This Golden Babariga | See</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/lateef-adedimeji-mo-bimpe-stepped-out-in-regal-champagne-gold-looks-for-their-triplets-thanksgiving/">
+      <figure class="afropo-card__media">
+        <img src="https://www.bellanaija.com/wp-content/uploads/2026/08/SaveClip.App_774512220_18620079988001387_288409790809266560_n-1-scaled.jpg" alt="Lateef Adedimeji &amp; Mo Bimpe Stepped Out in Regal Champagne Gold Looks for Their Triplets’ Thanksgiving" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">fashion</span>
+    <h3 class="afropo-card__title">Lateef Adedimeji &amp; Mo Bimpe Stepped Out in Regal Champagne Gold Looks for Their Triplets’ Thanksgiving</h3>
+      <div class="afropo-card__meta">Aug 15, 2026</div>
+      <p class="afropo-card__excerpt">Lateef Adedimeji and Mo Bimpe wore custom champagne gold traditional looks by Olusola Philips and Tochini, styled by Zackstyling Luxury, for their triplets' thanksgiving party in Lagos.
+The post Lateef Adedimeji &amp; Mo Bimpe Stepped Out in Regal Champagne Gold Looks for Their Triplets’ Thanksgiving ap</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/lateef-adedimejis-wine-agbada-look-is-everything-we-love-about-nigerian-menswear/">
+      <figure class="afropo-card__media">
+        <img src="https://www.bellanaija.com/wp-content/uploads/2026/08/SaveClip.App_771616842_18121771691509180_5187490850727093455_n-scaled.jpg" alt="Lateef Adedimeji’s Wine Agbada Look Is Everything We Love About Nigerian Menswear" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">fashion</span>
+    <h3 class="afropo-card__title">Lateef Adedimeji’s Wine Agbada Look Is Everything We Love About Nigerian Menswear</h3>
+      <div class="afropo-card__meta">Aug 13, 2026</div>
+      <p class="afropo-card__excerpt">Serving as a guide on what to wear to a big family celebration, Lateef Adedimeji marked the thanksgiving of his triplets in a bespoke wine three-piece Agbada by Tochini, styled by Zackstyling Luxury with gold embroidery and coral beads.
+The post Lateef Adedimeji’s Wine Agbada Look Is Everything We L</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/gentlemen-take-notes-enioluwa-adeoluwas-new-headshots-are-a-tailored-suit-afro-style-masterclass/">
+      <figure class="afropo-card__media">
+        <img src="https://www.bellanaija.com/wp-content/uploads/2026/08/SaveClip.App_771726501_18351154669216731_2462699091811696592_n-scaled.jpg" alt="Gentlemen, Take Notes! Enioluwa Adeoluwa’s New Headshots Are a Tailored Suit &amp; Afro Style Masterclass" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">fashion</span>
+    <h3 class="afropo-card__title">Gentlemen, Take Notes! Enioluwa Adeoluwa’s New Headshots Are a Tailored Suit &amp; Afro Style Masterclass</h3>
+      <div class="afropo-card__meta">Aug 13, 2026</div>
+      <p class="afropo-card__excerpt">Enioluwa Adeoluwa pairs a rounded Afro with three bespoke suits in his new school headshots, serving up key notes on portrait angles, suit styling, and natural hair grooming for men.
+The post Gentlemen, Take Notes! Enioluwa Adeoluwa’s New Headshots Are a Tailored Suit &amp; Afro Style Masterclass appear</p>
+  </a>
+</article>
+        </div>
+      </section>
+
+      <section class="afropo-block">
+        <div class="afropo-section-title"><span>CULTURE</span></div>
+        <div class="afropo-grid afropo-grid--cards">
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/makwerekwere-abahambe-black-edward-fiction/">
+      <figure class="afropo-card__media">
+        <img src="https://web.s3.wisc.edu/brittle-paper/prod/uploads/2026/07/Submissions-2026-08-03T144323.854.png" alt="Makwerekwere Abahambe! | Black Edward | Fiction" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">culture</span>
+    <h3 class="afropo-card__title">Makwerekwere Abahambe! | Black Edward | Fiction</h3>
+      <div class="afropo-card__meta">Aug 17, 2026</div>
+      <p class="afropo-card__excerpt">Part One When their parents died within six months of each other, twenty-year-old Gift inherited a six-roomed-house on Zvimba Street in Glen Norah, and three younger brothers who looked to him for their daily bread. They let out four rooms to tenants, but the income melted into mealie meal, bread an</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/zambia-at-a-crossroads-preserving-democracy-beyond-the-ballot/">
+      <figure class="afropo-card__media">
+        <img src="https://i0.wp.com/thisisafrica.me/wp-content/uploads/2026/08/Hichilema-Hakainde-Voting.jpg?resize=1000%2C600&amp;#038;ssl=1" alt="Zambia at a crossroads: Preserving democracy beyond the ballot" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">culture</span>
+    <h3 class="afropo-card__title">Zambia at a crossroads: Preserving democracy beyond the ballot</h3>
+      <div class="afropo-card__meta">Aug 14, 2026</div>
+      <p class="afropo-card__excerpt">Zambia’s peaceful polling day has given way to a far more precarious test: a nationwide suspension of vote counting, competing victory claims and allegations of electoral interference. The emerging crisis exposes the danger of an information vacuum—and whether Zambia’s institutions can prevent elect</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/education-is-neither-a-commercial-venture-nor-a-credit-facility-but-a-basic-need-and-a-public-good/">
+      <figure class="afropo-card__media">
+        <img src="https://i0.wp.com/thisisafrica.me/wp-content/uploads/2026/08/Student-dent-Africa.jpg?resize=1000%2C600&amp;#038;ssl=1" alt="Education is neither a commercial venture nor a credit facility but a basic need and a public good" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">culture</span>
+    <h3 class="afropo-card__title">Education is neither a commercial venture nor a credit facility but a basic need and a public good</h3>
+      <div class="afropo-card__meta">Aug 14, 2026</div>
+      <p class="afropo-card__excerpt">Restoring Utu to Higher Education: A Sovereign Endowment Blueprint to Abolish Kenya’s Student Debt Trap.
+The post Education is neither a commercial venture nor a credit facility but a basic need and a public good appeared first on This is Africa.</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/writing-our-legacy-opens-applications-for-covert-7s-ghana-issue-in-partnership-with-writers-project-of-ghana-submit-by-august-26/">
+      <figure class="afropo-card__media">
+        <img src="https://web.s3.wisc.edu/brittle-paper/prod/uploads/2026/08/covert-sm.png" alt="Writing Our Legacy Opens Applications for Covert 7’s “Ghana Issue,” in Partnership with Writers Project of Ghana | Submit by August 26" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">culture</span>
+    <h3 class="afropo-card__title">Writing Our Legacy Opens Applications for Covert 7’s “Ghana Issue,” in Partnership with Writers Project of Ghana | Submit by August 26</h3>
+      <div class="afropo-card__meta">Aug 14, 2026</div>
+      <p class="afropo-card__excerpt">Writing Our Legacy has opened applications for a special edition of its Covert Talent Development Programme, built around the seventh issue of Covert Literary Magazine themed “Ghana.” Produced in partnership with the Writers Project of Ghana and supported by the British Council’s Beyond Literature B</p>
+  </a>
+</article>
+        </div>
+      </section>
+
+	<section class="afropo-block home-videos" id="videos">
+    <div class="afropo-section-title"><span>VIDEOS</span></div>
+
+    <div class="home-videos__hero">
+        <div class="home-videos__iframewrap" id="afropoVideoPlayer"><iframe src="https://iframe.mediadelivery.net/embed/559162/e764fcd3-999f-458b-8dd2-7a49fe10ef85?autoplay=false&amp;loop=false&amp;muted=false&amp;preload=true&amp;responsive=true" loading="lazy" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div>
+        <h3 class="home-videos__title" id="afropoVideoTitle">Afropolitain 1 on 1 with Swaggy Mo</h3>
+    </div>
+
+    <ul class="home-videos__thumbrow" id="afropoVideosList">
+                <li class="home-videos__thumbitem home-videos__thumb--active">
+                    <a class="home-videos__thumblink" href="#" data-idx="0">
+                        <div class="home-videos__thumbimg">
+                            <iframe src="https://iframe.mediadelivery.net/embed/559162/e764fcd3-999f-458b-8dd2-7a49fe10ef85?autoplay=false&amp;controls=false&amp;loop=false&amp;muted=true&amp;preload=true&amp;responsive=true" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;border:0;pointer-events:none;" allow="autoplay" tabindex="-1" aria-hidden="true"></iframe>
+                            <span class="home-videos__nowplaying">NOW PLAYING</span>
+                        </div>
+                        <div class="home-videos__thumbtitle">Afropolitain 1 on 1 with Swaggy Mo</div>
+                    </a>
+                </li>
+                <li class="home-videos__thumbitem">
+                    <a class="home-videos__thumblink" href="#" data-idx="1">
+                        <div class="home-videos__thumbimg">
+                            <iframe src="https://iframe.mediadelivery.net/embed/559162/5bb192ce-2ac9-436d-b287-0d88917412a3?autoplay=false&amp;controls=false&amp;loop=false&amp;muted=true&amp;preload=true&amp;responsive=true" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;border:0;pointer-events:none;" allow="autoplay" tabindex="-1" aria-hidden="true"></iframe>
+                            <span class="home-videos__playbtn">▶</span>
+                        </div>
+                        <div class="home-videos__thumbtitle">Afropolitain 1 on 1 with Sonia Barbie Tucker</div>
+                    </a>
+                </li>
+                <li class="home-videos__thumbitem">
+                    <a class="home-videos__thumblink" href="#" data-idx="2">
+                        <div class="home-videos__thumbimg">
+                            <iframe src="https://iframe.mediadelivery.net/embed/559162/a65b180e-e40d-4728-a84e-bcd39640880a?autoplay=false&amp;controls=false&amp;loop=false&amp;muted=true&amp;preload=true&amp;responsive=true" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;border:0;pointer-events:none;" allow="autoplay" tabindex="-1" aria-hidden="true"></iframe>
+                            <span class="home-videos__playbtn">▶</span>
+                        </div>
+                        <div class="home-videos__thumbtitle">Afropolitain 1 on 1 with Psycho YP</div>
+                    </a>
+                </li>
+                <li class="home-videos__thumbitem">
+                    <a class="home-videos__thumblink" href="#" data-idx="3">
+                        <div class="home-videos__thumbimg">
+                            <iframe src="https://iframe.mediadelivery.net/embed/559162/6362fcb5-4420-491f-ad02-1bdcb8c59ff1?autoplay=false&amp;controls=false&amp;loop=false&amp;muted=true&amp;preload=true&amp;responsive=true" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;border:0;pointer-events:none;" allow="autoplay" tabindex="-1" aria-hidden="true"></iframe>
+                            <span class="home-videos__playbtn">▶</span>
+                        </div>
+                        <div class="home-videos__thumbtitle">Afropolitain 1 on 1 with Laurence Bass</div>
+                    </a>
+                </li>
+                <li class="home-videos__thumbitem">
+                    <a class="home-videos__thumblink" href="#" data-idx="4">
+                        <div class="home-videos__thumbimg">
+                            <iframe src="https://iframe.mediadelivery.net/embed/559162/68335db8-e997-4ecf-bb6e-c9e2f8c1e158?autoplay=false&amp;controls=false&amp;loop=false&amp;muted=true&amp;preload=true&amp;responsive=true" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;border:0;pointer-events:none;" allow="autoplay" tabindex="-1" aria-hidden="true"></iframe>
+                            <span class="home-videos__playbtn">▶</span>
+                        </div>
+                        <div class="home-videos__thumbtitle">Afropolitain 1 on 1 with DJ Cuppy</div>
+                    </a>
+                </li></ul>
+</section>
+
+<script>
+(() => {
+    const LIB = '559162';
+
+    const VIDEOS = [
+        {
+            guid: 'e764fcd3-999f-458b-8dd2-7a49fe10ef85',
+            title: 'Afropolitain 1 on 1 with Swaggy Mo'
+        },
+        {
+            guid: '5bb192ce-2ac9-436d-b287-0d88917412a3',
+            title: 'Afropolitain 1 on 1 with Sonia Barbie Tucker'
+        },
+        {
+            guid: 'a65b180e-e40d-4728-a84e-bcd39640880a',
+            title: 'Afropolitain 1 on 1 with Psycho YP'
+        },
+        {
+            guid: '6362fcb5-4420-491f-ad02-1bdcb8c59ff1',
+            title: 'Afropolitain 1 on 1 with Laurence Bass'
+        },
+        {
+            guid: '68335db8-e997-4ecf-bb6e-c9e2f8c1e158',
+            title: 'Afropolitain 1 on 1 with DJ Cuppy'
+        }
+    ].map(v => ({
+        ...v,
+        // Full player: autoplay off, full controls
+        embedUrl: `https://iframe.mediadelivery.net/embed/${LIB}/${v.guid}?autoplay=false&loop=false&muted=false&preload=true&responsive=true`,
+        // Thumbnail: controls hidden, no autoplay, shows poster — loaded from Bunny's own domain so hotlink protection passes
+        thumbUrl: `https://iframe.mediadelivery.net/embed/${LIB}/${v.guid}?autoplay=false&controls=false&loop=false&muted=true&preload=true&responsive=true`
+    }));
+
+    const playerEl = document.getElementById('afropoVideoPlayer');
+    const titleEl  = document.getElementById('afropoVideoTitle');
+    const listEl   = document.getElementById('afropoVideosList');
+
+    if (!playerEl || !titleEl || !listEl) return;
+
+    let currentIdx = 0;
+
+    const esc = s => String(s)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+    function setPlayer(idx) {
+        currentIdx = idx;
+        const v = VIDEOS[idx];
+        playerEl.innerHTML = `<iframe
+            src="${esc(v.embedUrl)}"
+            loading="lazy"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe>`;
+        titleEl.textContent = v.title;
+        renderThumbs();
+    }
+
+    function renderThumbs() {
+        listEl.innerHTML = VIDEOS
+            .map((v, i) => {
+                const active = i === currentIdx ? ' home-videos__thumb--active' : '';
+                const isActive = i === currentIdx;
+                return `
+                <li class="home-videos__thumbitem${active}">
+                    <a class="home-videos__thumblink" href="#" data-idx="${i}">
+                        <div class="home-videos__thumbimg">
+                            <iframe
+                                src="${esc(v.thumbUrl)}"
+                                loading="lazy"
+                                style="position:absolute;inset:0;width:100%;height:100%;border:0;pointer-events:none;"
+                                allow="autoplay"
+                                tabindex="-1"
+                                aria-hidden="true"></iframe>
+                            ${!isActive ? '<span class="home-videos__playbtn">&#9654;</span>' : '<span class="home-videos__nowplaying">NOW PLAYING</span>'}
+                        </div>
+                        <div class="home-videos__thumbtitle">${esc(v.title)}</div>
+                    </a>
+                </li>`;
+            })
+            .join('');
+
+        listEl.querySelectorAll('a[data-idx]').forEach(a => {
+            a.addEventListener('click', e => {
+                e.preventDefault();
+                setPlayer(Number(a.dataset.idx));
+            });
+        });
+    }
+
+    setPlayer(0);
+})();
+</script>
+
+      <section class="afropo-block">
+        <div class="afropo-section-title"><span>MUSIC</span></div>
+        <div class="afropo-grid afropo-grid--cards">
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/indomitable-lionesses-conquer-africa-to-win-first-ever-wafcon-title/">
+      <figure class="afropo-card__media">
+        <img src="https://notjustok.com/wp-content/uploads/2026/08/HP4Bws4WwAAdHgg-2-1440x720.jpg" alt="Indomitable Lionesses conquer Africa to win first-ever WAFCON title" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">Music</span>
+    <h3 class="afropo-card__title">Indomitable Lionesses conquer Africa to win first-ever WAFCON title</h3>
+      <div class="afropo-card__meta">Aug 17, 2026</div>
+      <p class="afropo-card__excerpt">The Indomitable Lionesses of Cameroon are the new queens of African women's football after a commanding 3-0 victory over Malawi in the WAFCON 2026 final in Rabat after decades of heartbreak to lift their first-ever Women's Africa Cup of Nations trophy. The Indomitable Lionesses, who had previously l</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/22-lyrics-by-kunmie/">
+      <figure class="afropo-card__media">
+        <img src="https://notjustok.com/wp-content/uploads/2026/08/IMG_0681.jpeg" alt="22 Lyrics by Kunmie" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">Music</span>
+    <h3 class="afropo-card__title">22 Lyrics by Kunmie</h3>
+      <div class="afropo-card__meta">Aug 17, 2026</div>
+      <p class="afropo-card__excerpt">Kunmie Lyrics 22 by Kunmie, the title track of his debut album 22, is a deeply personal and reflective song about loneliness, self-doubt, faith, and finding purpose, with the lyrics recounting a difficult period at age 22 when he felt lost and overwhelmed by his thoughts, before finding comfort in G</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/letter-to-god-lyrics-by-ayra-starr/">
+      <figure class="afropo-card__media">
+        <img src="https://notjustok.com/wp-content/uploads/2026/08/IMG_0661.jpeg" alt="Letter To God Lyrics by Ayra Starr" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">Music</span>
+    <h3 class="afropo-card__title">Letter To God Lyrics by Ayra Starr</h3>
+      <div class="afropo-card__meta">Aug 17, 2026</div>
+      <p class="afropo-card__excerpt">Ayra Starr Lyrics Ayra Starr’s Letter To God is a heartfelt love song about deep affection, trust, and protecting a relationship from outside negativity, read the lyrics below. Ayra Starr expresses confidence that their connection is destined for something beautiful despite lies and doubts from othe</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/misunderstood-lyrics-by-ayra-starr/">
+      <figure class="afropo-card__media">
+        <img src="https://notjustok.com/wp-content/uploads/2026/08/IMG_0661.jpeg" alt="Misunderstood Lyrics by Ayra Starr" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">Music</span>
+    <h3 class="afropo-card__title">Misunderstood Lyrics by Ayra Starr</h3>
+      <div class="afropo-card__meta">Aug 17, 2026</div>
+      <p class="afropo-card__excerpt">Ayra Starr Lyrics Misunderstood by Ayra Starr is an empowering song about feeling different, misunderstood, and underestimated while remaining confident and determined, with the lyrics portraying a woman who has experienced heartbreak and rejection but refuses to let other people’s opinions define h</p>
+  </a>
+</article>
+        </div>
+      </section>
+
+      <section class="afropo-block">
+        <div class="afropo-section-title"><span>NEWS</span></div>
+        <div class="afropo-grid afropo-grid--cards">
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/kebbi-governor-drops-deputy-as-2027-running-mate-aide-disputes-consent-claim/">
+      <figure class="afropo-card__media">
+        <img src="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/11/Governor-Nasiru-Idris-1.jpg?fit=800%2C600&amp;amp;ssl=1" alt="Kebbi governor drops deputy as 2027 running mate; aide disputes consent claim" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">News</span>
+    <h3 class="afropo-card__title">Kebbi governor drops deputy as 2027 running mate; aide disputes consent claim</h3>
+      <div class="afropo-card__meta">Aug 17, 2026</div>
+      <p class="afropo-card__excerpt">Kebbi APC says Governor Nasir Idris replaced his deputy, Umar Tafida, as his 2027 running mate because of legal concerns.
+The post Kebbi governor drops deputy as 2027 running mate; aide disputes consent claim appeared first on Premium Times Nigeria.</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/southern-africa-ramaphosa-issues-apology-over-violence-against-foreigners/">
+      <figure class="afropo-card__media">
+        <img src="https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png" alt="Southern Africa: Ramaphosa Issues Apology Over Violence Against Foreigners" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">News</span>
+    <h3 class="afropo-card__title">Southern Africa: Ramaphosa Issues Apology Over Violence Against Foreigners</h3>
+      <div class="afropo-card__meta">Aug 17, 2026</div>
+      <p class="afropo-card__excerpt">[AIM] Durban -- South African President Cyril Ramaphosa apologized to his Mozambican counterpart, Daniel Chapo, for the recent violence perpetrated by South African citizens against African foreigners, including Mozambicans.</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/southern-africa-conciliatory-posture-exposes-decline-in-south-africas-geopolitical-influence/">
+      <figure class="afropo-card__media">
+        <img src="https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png" alt="Southern Africa: Conciliatory Posture Exposes Decline in South Africa's Geopolitical Influence" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">News</span>
+    <h3 class="afropo-card__title">Southern Africa: Conciliatory Posture Exposes Decline in South Africa's Geopolitical Influence</h3>
+      <div class="afropo-card__meta">Aug 17, 2026</div>
+      <p class="afropo-card__excerpt">[AIM] Durban -- The professor and political analyst Sipho Seepe argues that South African President Cyril Ramaphosa's "conciliatory posture" exposes the country's declining geopolitical influence among the 16 member-states of the Southern African Development Community (SADC).</p>
+  </a>
+</article>
+            <article class="afropo-card">
+  <a class="afropo-card__link" href="/africa-too-young-to-ask-young-researchers-challenge-how-africa-talks-about-sexuality-education/">
+      <figure class="afropo-card__media">
+        <img src="https://cdn.allafrica.com/download/pic/main/main/csiid/00690165:ccad134628b43cd7e8ac7b59af6aaa06:arc614x376:w1200.jpg" alt="Africa: Too Young to Ask? Young Researchers Challenge How Africa Talks About Sexuality Education" loading="lazy">
+      </figure>
+      <span class="afropo-card__tag">News</span>
+    <h3 class="afropo-card__title">Africa: Too Young to Ask? Young Researchers Challenge How Africa Talks About Sexuality Education</h3>
+      <div class="afropo-card__meta">Aug 17, 2026</div>
+      <p class="afropo-card__excerpt">[allAfrica] Mombasa -- "We wanted honest answers, but many adults thought we were too young to ask the questions."</p>
+  </a>
+</article>
+        </div>
+      </section>
+
+  
+
+  
+      <section class="afropo-coverfeature">
+        <div class="afropo-section-title"><span>ON THE COVER</span></div>
+        <div class="afropo-coverfeature__wrap">
+          <div class="afropo-coverfeature__panel">
+            <div class="afropo-coverfeature__kicker">INTERVIEW</div>
+            <div class="afropo-coverfeature__headline">14 Reasons Why AFROPOLITAiN Cover Male Boris Kodjoe Is The Quintessential Man</div>
+            <div class="afropo-coverfeature__excerpt">Boris Kodjoe graced the cover of Afropolitain and during his interview we got a glimpse into his philanthropy, his family life and how he views his place in the world. One of those things that stands out for him is his ability to center everything he does around his family. <div class="google-anno-skip google-anno-sc" tabindex="0" role="link" aria-label="Fashion &amp; Style" data-google-vignette="false" data-google-interstitial="false" style="color-scheme: initial !important; forced-color-adjust: initial !important; math-depth: initial !important; position: initial !important; position-anchor: initial !important; text-size-adjust: initial !important; appearance: initial !important; font-feature-settings: initial !important; font-kerning: initial !important; font-language-override: initial !important; font-optical-sizing: initial !important; font-palette: initial !important; font-size-adjust: initial !important; font-stretch: initial !important; font-synthesis: initial !important; font-variant: initial !important; font-variation-settings: initial !important; position-area: initial !important; text-rendering: initial !important; text-spacing-trim: initial !important; -webkit-font-smoothing: initial !important; -webkit-locale: initial !important; -webkit-text-orientation: initial !important; -webkit-writing-mode: initial !important; zoom: initial !important; accent-color: initial !important; place-content: initial !important; place-items: initial !important; place-self: initial !important; alignment-baseline: initial !important; anchor-name: initial !important; anchor-scope: initial !important; animation-composition: initial !important; animation: initial !important; animation-trigger: initial !important; app-region: initial !important; aspect-ratio: initial !important; backdrop-filter: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; baseline-shift: initial !important; baseline-source: initial !important; block-size: initial !important; border-block: initial !important; border-collapse: initial !important; border-end-end-radius: initial !important; border-end-start-radius: initial !important; border-inline: initial !important; border-shape: initial !important; border-start-end-radius: initial !important; border-start-start-radius: initial !important; inset: initial !important; box-decoration-break: initial !important; box-sizing: initial !important; break-after: initial !important; break-before: initial !important; break-inside: initial !important; buffered-rendering: initial !important; caption-side: initial !important; caret-animation: initial !important; caret-color: initial !important; caret-shape: initial !important; clear: initial !important; clip: initial !important; clip-path: initial !important; clip-rule: initial !important; color-interpolation: initial !important; color-interpolation-filters: initial !important; color-rendering: initial !important; columns: initial !important; column-fill: initial !important; gap: initial !important; rule-break: initial !important; rule: initial !important; rule-inset: initial !important; rule-visibility-items: initial !important; column-span: initial !important; contain: initial !important; contain-intrinsic-block-size: initial !important; contain-intrinsic-size: initial !important; contain-intrinsic-inline-size: initial !important; container: initial !important; content: initial !important; content-visibility: initial !important; corner-shape: initial !important; corner-block-end-shape: initial !important; corner-block-start-shape: initial !important; counter-increment: initial !important; counter-reset: initial !important; counter-set: initial !important; cx: initial !important; cy: initial !important; d: initial !important; dominant-baseline: initial !important; dynamic-range-limit: initial !important; empty-cells: initial !important; field-sizing: initial !important; fill: initial !important; fill-opacity: initial !important; fill-rule: initial !important; filter: initial !important; flex: initial !important; flex-flow: initial !important; flex-line-count: initial !important; float: initial !important; flood-color: initial !important; flood-opacity: initial !important; grid: initial !important; grid-area: initial !important; height: initial !important; hyphenate-character: initial !important; hyphenate-limit-chars: initial !important; hyphens: initial !important; image-orientation: initial !important; image-rendering: initial !important; initial-letter: initial !important; inline-size: initial !important; inset-block: initial !important; inset-inline: initial !important; interactivity: initial !important; interest-delay: initial !important; interpolate-size: initial !important; isolation: initial !important; letter-spacing: initial !important; lighting-color: initial !important; line-break: initial !important; line-height: initial !important; list-style: initial !important; margin-block: initial !important; margin-left: initial !important; margin-right: initial !important; marker: initial !important; mask: initial !important; mask-type: initial !important; math-shift: initial !important; math-style: initial !important; max-block-size: initial !important; max-height: initial !important; max-inline-size: initial !important; max-width: initial !important; min-block-size: initial !important; min-height: initial !important; min-inline-size: initial !important; min-width: initial !important; mix-blend-mode: initial !important; object-fit: initial !important; object-position: initial !important; object-view-box: initial !important; offset: initial !important; opacity: initial !important; order: initial !important; orphans: initial !important; outline: initial !important; outline-offset: initial !important; overflow-anchor: initial !important; overflow-block: initial !important; overflow-clip-margin: initial !important; overflow-inline: initial !important; overflow-wrap: initial !important; overflow: initial !important; overlay: initial !important; overscroll-behavior-block: initial !important; overscroll-behavior-inline: initial !important; overscroll-behavior: initial !important; padding-block: initial !important; padding-inline: initial !important; padding-left: initial !important; padding-right: initial !important; page: initial !important; page-margin-safety: initial !important; page-orientation: initial !important; paint-order: initial !important; perspective: initial !important; perspective-origin: initial !important; pointer-events: initial !important; position-try: initial !important; position-visibility: initial !important; print-color-adjust: initial !important; quotes: initial !important; r: initial !important; reading-flow: initial !important; reading-order: initial !important; resize: initial !important; rotate: initial !important; ruby-align: initial !important; ruby-overhang: initial !important; ruby-position: initial !important; rule-overlap: initial !important; rx: initial !important; ry: initial !important; scale: initial !important; scroll-behavior: initial !important; scroll-initial-target: initial !important; scroll-margin-block: initial !important; scroll-margin: initial !important; scroll-margin-inline: initial !important; scroll-marker-group: initial !important; scroll-padding-block: initial !important; scroll-padding: initial !important; scroll-padding-inline: initial !important; scroll-snap-align: initial !important; scroll-snap-stop: initial !important; scroll-snap-type: initial !important; scroll-target-group: initial !important; scroll-timeline: initial !important; scrollbar-color: initial !important; scrollbar-gutter: initial !important; scrollbar-width: initial !important; shape-image-threshold: initial !important; shape-margin: initial !important; shape-outside: initial !important; shape-rendering: initial !important; size: initial !important; speak: initial !important; stop-color: initial !important; stop-opacity: initial !important; stroke: initial !important; stroke-dasharray: initial !important; stroke-dashoffset: initial !important; stroke-linecap: initial !important; stroke-linejoin: initial !important; stroke-miterlimit: initial !important; stroke-opacity: initial !important; stroke-width: initial !important; tab-size: initial !important; table-layout: initial !important; text-align-last: initial !important; text-anchor: initial !important; text-autospace: initial !important; text-box: initial !important; text-combine-upright: initial !important; text-decoration: initial !important; text-decoration-skip-ink: initial !important; text-emphasis: initial !important; text-emphasis-position: initial !important; text-fit: initial !important; text-indent: initial !important; text-justify: initial !important; text-overflow: initial !important; text-shadow: initial !important; text-transform: initial !important; text-underline-offset: initial !important; text-underline-position: initial !important; text-wrap: initial !important; timeline-scope: initial !important; timeline-trigger: initial !important; touch-action: initial !important; transform: initial !important; transform-box: initial !important; transform-origin: initial !important; transform-style: initial !important; transition: initial !important; translate: initial !important; trigger-scope: initial !important; user-select: initial !important; vector-effect: initial !important; vertical-align: initial !important; view-timeline: initial !important; view-transition-class: initial !important; view-transition-group: initial !important; view-transition-name: initial !important; view-transition-scope: initial !important; border-spacing: initial !important; -webkit-box-align: initial !important; -webkit-box-decoration-break: initial !important; -webkit-box-direction: initial !important; -webkit-box-flex: initial !important; -webkit-box-ordinal-group: initial !important; -webkit-box-orient: initial !important; -webkit-box-pack: initial !important; -webkit-box-reflect: initial !important; -webkit-line-break: initial !important; -webkit-line-clamp: initial !important; -webkit-mask-box-image: initial !important; -webkit-rtl-ordering: initial !important; -webkit-ruby-position: initial !important; -webkit-tap-highlight-color: initial !important; -webkit-text-combine: initial !important; -webkit-text-decorations-in-effect: initial !important; -webkit-text-security: initial !important; -webkit-text-stroke: initial !important; -webkit-user-drag: initial !important; white-space-collapse: initial !important; widows: initial !important; width: initial !important; will-change: initial !important; word-break: initial !important; word-spacing: initial !important; x: initial !important; y: initial !important; z-index: initial !important; -webkit-text-fill-color: unset !important; color: rgb(26, 115, 232) !important; cursor: pointer !important; direction: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; text-align: inherit !important; text-orientation: inherit !important; visibility: inherit !important; writing-mode: inherit !important; display: inline !important; font-style: inherit !important; background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) transparent !important; border-width: medium !important; border-style: none !important; border-color: currentcolor !important; border-image: none !important; margin-top: 0px !important; margin-bottom: 0px !important; margin-inline: 0px !important; border-radius: 20px !important; padding-top: 2px !important; padding-bottom: 2px !important; box-shadow: rgb(255, 255, 255) 3px 0px 0px 0px !important;"><span style="color-scheme: initial !important; forced-color-adjust: initial !important; math-depth: initial !important; position: initial !important; position-anchor: initial !important; text-size-adjust: initial !important; appearance: initial !important; font-feature-settings: initial !important; font-kerning: initial !important; font-language-override: initial !important; font-optical-sizing: initial !important; font-palette: initial !important; font-size-adjust: initial !important; font-stretch: initial !important; font-style: initial !important; font-synthesis: initial !important; font-variant: initial !important; font-variation-settings: initial !important; position-area: initial !important; text-rendering: initial !important; text-spacing-trim: initial !important; -webkit-font-smoothing: initial !important; -webkit-locale: initial !important; -webkit-text-orientation: initial !important; -webkit-writing-mode: initial !important; zoom: initial !important; accent-color: initial !important; place-content: initial !important; place-items: initial !important; place-self: initial !important; alignment-baseline: initial !important; anchor-name: initial !important; anchor-scope: initial !important; animation-composition: initial !important; animation: initial !important; animation-trigger: initial !important; app-region: initial !important; aspect-ratio: initial !important; backdrop-filter: initial !important; backface-visibility: initial !important; background: initial !important; background-blend-mode: initial !important; baseline-shift: initial !important; baseline-source: initial !important; block-size: initial !important; border-block: initial !important; border: initial !important; border-radius: initial !important; border-collapse: initial !important; border-end-end-radius: initial !important; border-end-start-radius: initial !important; border-inline: initial !important; border-shape: initial !important; border-start-end-radius: initial !important; border-start-start-radius: initial !important; inset: initial !important; box-decoration-break: initial !important; box-shadow: initial !important; box-sizing: initial !important; break-after: initial !important; break-before: initial !important; break-inside: initial !important; buffered-rendering: initial !important; caption-side: initial !important; caret-animation: initial !important; caret-color: initial !important; caret-shape: initial !important; clear: initial !important; clip: initial !important; clip-path: initial !important; clip-rule: initial !important; color-interpolation: initial !important; color-interpolation-filters: initial !important; color-rendering: initial !important; columns: initial !important; column-fill: initial !important; gap: initial !important; rule-break: initial !important; rule: initial !important; rule-inset: initial !important; rule-visibility-items: initial !important; column-span: initial !important; contain: initial !important; contain-intrinsic-block-size: initial !important; contain-intrinsic-size: initial !important; contain-intrinsic-inline-size: initial !important; container: initial !important; content: initial !important; content-visibility: initial !important; corner-shape: initial !important; corner-block-end-shape: initial !important; corner-block-start-shape: initial !important; counter-increment: initial !important; counter-reset: initial !important; counter-set: initial !important; cx: initial !important; cy: initial !important; d: initial !important; dominant-baseline: initial !important; dynamic-range-limit: initial !important; empty-cells: initial !important; field-sizing: initial !important; fill: initial !important; fill-opacity: initial !important; fill-rule: initial !important; filter: initial !important; flex: initial !important; flex-flow: initial !important; flex-line-count: initial !important; float: initial !important; flood-color: initial !important; flood-opacity: initial !important; grid: initial !important; grid-area: initial !important; height: initial !important; hyphenate-character: initial !important; hyphenate-limit-chars: initial !important; hyphens: initial !important; image-orientation: initial !important; image-rendering: initial !important; initial-letter: initial !important; inline-size: initial !important; inset-block: initial !important; inset-inline: initial !important; interactivity: initial !important; interest-delay: initial !important; interpolate-size: initial !important; isolation: initial !important; letter-spacing: initial !important; lighting-color: initial !important; line-break: initial !important; line-height: initial !important; list-style: initial !important; margin-block: initial !important; margin: initial !important; margin-inline: initial !important; marker: initial !important; mask: initial !important; mask-type: initial !important; math-shift: initial !important; math-style: initial !important; max-block-size: initial !important; max-height: initial !important; max-inline-size: initial !important; max-width: initial !important; min-block-size: initial !important; min-height: initial !important; min-inline-size: initial !important; min-width: initial !important; mix-blend-mode: initial !important; object-fit: initial !important; object-position: initial !important; object-view-box: initial !important; offset: initial !important; opacity: initial !important; order: initial !important; orphans: initial !important; outline: initial !important; outline-offset: initial !important; overflow-anchor: initial !important; overflow-block: initial !important; overflow-clip-margin: initial !important; overflow-inline: initial !important; overflow-wrap: initial !important; overflow: initial !important; overlay: initial !important; overscroll-behavior-block: initial !important; overscroll-behavior-inline: initial !important; overscroll-behavior: initial !important; padding-block: initial !important; padding-bottom: initial !important; padding-inline: initial !important; padding-top: initial !important; page: initial !important; page-margin-safety: initial !important; page-orientation: initial !important; paint-order: initial !important; perspective: initial !important; perspective-origin: initial !important; pointer-events: initial !important; position-try: initial !important; position-visibility: initial !important; print-color-adjust: initial !important; quotes: initial !important; r: initial !important; reading-flow: initial !important; reading-order: initial !important; resize: initial !important; rotate: initial !important; ruby-align: initial !important; ruby-overhang: initial !important; ruby-position: initial !important; rule-overlap: initial !important; rx: initial !important; ry: initial !important; scale: initial !important; scroll-behavior: initial !important; scroll-initial-target: initial !important; scroll-margin-block: initial !important; scroll-margin: initial !important; scroll-margin-inline: initial !important; scroll-marker-group: initial !important; scroll-padding-block: initial !important; scroll-padding: initial !important; scroll-padding-inline: initial !important; scroll-snap-align: initial !important; scroll-snap-stop: initial !important; scroll-snap-type: initial !important; scroll-target-group: initial !important; scroll-timeline: initial !important; scrollbar-color: initial !important; scrollbar-gutter: initial !important; scrollbar-width: initial !important; shape-image-threshold: initial !important; shape-margin: initial !important; shape-outside: initial !important; shape-rendering: initial !important; size: initial !important; speak: initial !important; stop-color: initial !important; stop-opacity: initial !important; stroke: initial !important; stroke-dasharray: initial !important; stroke-dashoffset: initial !important; stroke-linecap: initial !important; stroke-linejoin: initial !important; stroke-miterlimit: initial !important; stroke-opacity: initial !important; stroke-width: initial !important; tab-size: initial !important; table-layout: initial !important; text-align-last: initial !important; text-anchor: initial !important; text-autospace: initial !important; text-box: initial !important; text-combine-upright: initial !important; text-decoration: initial !important; text-decoration-skip-ink: initial !important; text-emphasis: initial !important; text-emphasis-position: initial !important; text-fit: initial !important; text-indent: initial !important; text-justify: initial !important; text-overflow: initial !important; text-shadow: initial !important; text-transform: initial !important; text-underline-offset: initial !important; text-underline-position: initial !important; text-wrap: nowrap !important; timeline-scope: initial !important; timeline-trigger: initial !important; touch-action: initial !important; transform: initial !important; transform-box: initial !important; transform-origin: initial !important; transform-style: initial !important; transition: initial !important; translate: initial !important; trigger-scope: initial !important; user-select: initial !important; vector-effect: initial !important; vertical-align: initial !important; view-timeline: initial !important; view-transition-class: initial !important; view-transition-group: initial !important; view-transition-name: initial !important; view-transition-scope: initial !important; border-spacing: initial !important; -webkit-box-align: initial !important; -webkit-box-decoration-break: initial !important; -webkit-box-direction: initial !important; -webkit-box-flex: initial !important; -webkit-box-ordinal-group: initial !important; -webkit-box-orient: initial !important; -webkit-box-pack: initial !important; -webkit-box-reflect: initial !important; -webkit-line-break: initial !important; -webkit-line-clamp: initial !important; -webkit-mask-box-image: initial !important; -webkit-rtl-ordering: initial !important; -webkit-ruby-position: initial !important; -webkit-tap-highlight-color: initial !important; -webkit-text-combine: initial !important; -webkit-text-decorations-in-effect: initial !important; -webkit-text-security: initial !important; -webkit-text-stroke: initial !important; -webkit-user-drag: initial !important; widows: initial !important; width: initial !important; will-change: initial !important; word-break: initial !important; word-spacing: initial !important; x: initial !important; y: initial !important; z-index: initial !important; -webkit-text-fill-color: unset !important; color: inherit !important; cursor: inherit !important; direction: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; text-align: inherit !important; text-orientation: inherit !important; visibility: inherit !important; writing-mode: inherit !important; white-space-collapse: collapse !important; display: inline-block !important; padding-left: 6px !important; padding-right: 0px !important;"><span style="color-scheme: initial !important; forced-color-adjust: initial !important; math-depth: initial !important; position: initial !important; position-anchor: initial !important; text-size-adjust: initial !important; appearance: initial !important; font-feature-settings: initial !important; font-kerning: initial !important; font-language-override: initial !important; font-optical-sizing: initial !important; font-palette: initial !important; font-size-adjust: initial !important; font-stretch: initial !important; font-style: initial !important; font-synthesis: initial !important; font-variant: initial !important; font-variation-settings: initial !important; position-area: initial !important; text-rendering: initial !important; text-spacing-trim: initial !important; -webkit-font-smoothing: initial !important; -webkit-locale: initial !important; -webkit-text-orientation: initial !important; -webkit-writing-mode: initial !important; zoom: initial !important; accent-color: initial !important; place-content: initial !important; place-items: initial !important; place-self: initial !important; alignment-baseline: initial !important; anchor-name: initial !important; anchor-scope: initial !important; animation-composition: initial !important; animation: initial !important; animation-trigger: initial !important; app-region: initial !important; aspect-ratio: initial !important; backdrop-filter: initial !important; backface-visibility: initial !important; background: initial !important; background-blend-mode: initial !important; baseline-shift: initial !important; baseline-source: initial !important; block-size: initial !important; border-block: initial !important; border: initial !important; border-radius: initial !important; border-collapse: initial !important; border-end-end-radius: initial !important; border-end-start-radius: initial !important; border-inline: initial !important; border-shape: initial !important; border-start-end-radius: initial !important; border-start-start-radius: initial !important; inset: initial !important; box-decoration-break: initial !important; box-shadow: initial !important; box-sizing: initial !important; break-after: initial !important; break-before: initial !important; break-inside: initial !important; buffered-rendering: initial !important; caption-side: initial !important; caret-animation: initial !important; caret-color: initial !important; caret-shape: initial !important; clear: initial !important; clip: initial !important; clip-path: initial !important; clip-rule: initial !important; color-interpolation: initial !important; color-interpolation-filters: initial !important; color-rendering: initial !important; columns: initial !important; column-fill: initial !important; gap: initial !important; rule-break: initial !important; rule: initial !important; rule-inset: initial !important; rule-visibility-items: initial !important; column-span: initial !important; contain: initial !important; contain-intrinsic-block-size: initial !important; contain-intrinsic-size: initial !important; contain-intrinsic-inline-size: initial !important; container: initial !important; content: initial !important; content-visibility: initial !important; corner-shape: initial !important; corner-block-end-shape: initial !important; corner-block-start-shape: initial !important; counter-increment: initial !important; counter-reset: initial !important; counter-set: initial !important; cx: initial !important; cy: initial !important; d: initial !important; dominant-baseline: initial !important; dynamic-range-limit: initial !important; empty-cells: initial !important; field-sizing: initial !important; fill: initial !important; fill-opacity: initial !important; fill-rule: initial !important; filter: initial !important; flex: initial !important; flex-flow: initial !important; flex-line-count: initial !important; float: initial !important; flood-color: initial !important; flood-opacity: initial !important; grid: initial !important; grid-area: initial !important; height: initial !important; hyphenate-character: initial !important; hyphenate-limit-chars: initial !important; hyphens: initial !important; image-orientation: initial !important; image-rendering: initial !important; initial-letter: initial !important; inline-size: initial !important; inset-block: initial !important; inset-inline: initial !important; interactivity: initial !important; interest-delay: initial !important; interpolate-size: initial !important; isolation: initial !important; letter-spacing: initial !important; lighting-color: initial !important; line-break: initial !important; line-height: initial !important; list-style: initial !important; margin-block: initial !important; margin: initial !important; margin-inline: initial !important; marker: initial !important; mask: initial !important; mask-type: initial !important; math-shift: initial !important; math-style: initial !important; max-block-size: initial !important; max-height: initial !important; max-inline-size: initial !important; max-width: initial !important; min-block-size: initial !important; min-height: initial !important; min-inline-size: initial !important; min-width: initial !important; mix-blend-mode: initial !important; object-fit: initial !important; object-position: initial !important; object-view-box: initial !important; offset: initial !important; opacity: initial !important; order: initial !important; orphans: initial !important; outline: initial !important; outline-offset: initial !important; overflow-anchor: initial !important; overflow-block: initial !important; overflow-clip-margin: initial !important; overflow-inline: initial !important; overflow-wrap: initial !important; overflow: initial !important; overlay: initial !important; overscroll-behavior-block: initial !important; overscroll-behavior-inline: initial !important; overscroll-behavior: initial !important; padding-block: initial !important; padding-bottom: initial !important; padding-inline: initial !important; padding-right: initial !important; padding-top: initial !important; page: initial !important; page-margin-safety: initial !important; page-orientation: initial !important; paint-order: initial !important; perspective: initial !important; perspective-origin: initial !important; pointer-events: initial !important; position-try: initial !important; position-visibility: initial !important; print-color-adjust: initial !important; quotes: initial !important; r: initial !important; reading-flow: initial !important; reading-order: initial !important; resize: initial !important; rotate: initial !important; ruby-align: initial !important; ruby-overhang: initial !important; ruby-position: initial !important; rule-overlap: initial !important; rx: initial !important; ry: initial !important; scale: initial !important; scroll-behavior: initial !important; scroll-initial-target: initial !important; scroll-margin-block: initial !important; scroll-margin: initial !important; scroll-margin-inline: initial !important; scroll-marker-group: initial !important; scroll-padding-block: initial !important; scroll-padding: initial !important; scroll-padding-inline: initial !important; scroll-snap-align: initial !important; scroll-snap-stop: initial !important; scroll-snap-type: initial !important; scroll-target-group: initial !important; scroll-timeline: initial !important; scrollbar-color: initial !important; scrollbar-gutter: initial !important; scrollbar-width: initial !important; shape-image-threshold: initial !important; shape-margin: initial !important; shape-outside: initial !important; shape-rendering: initial !important; size: initial !important; speak: initial !important; stop-color: initial !important; stop-opacity: initial !important; stroke: initial !important; stroke-dasharray: initial !important; stroke-dashoffset: initial !important; stroke-linecap: initial !important; stroke-linejoin: initial !important; stroke-miterlimit: initial !important; stroke-opacity: initial !important; stroke-width: initial !important; tab-size: initial !important; table-layout: initial !important; text-align-last: initial !important; text-anchor: initial !important; text-autospace: initial !important; text-box: initial !important; text-combine-upright: initial !important; text-decoration: initial !important; text-decoration-skip-ink: initial !important; text-emphasis: initial !important; text-emphasis-position: initial !important; text-fit: initial !important; text-indent: initial !important; text-justify: initial !important; text-overflow: initial !important; text-shadow: initial !important; text-transform: initial !important; text-underline-offset: initial !important; text-underline-position: initial !important; text-wrap: nowrap !important; timeline-scope: initial !important; timeline-trigger: initial !important; touch-action: initial !important; transform: initial !important; transform-box: initial !important; transform-origin: initial !important; transform-style: initial !important; transition: initial !important; translate: initial !important; trigger-scope: initial !important; user-select: initial !important; vector-effect: initial !important; vertical-align: initial !important; view-timeline: initial !important; view-transition-class: initial !important; view-transition-group: initial !important; view-transition-name: initial !important; view-transition-scope: initial !important; border-spacing: initial !important; -webkit-box-align: initial !important; -webkit-box-decoration-break: initial !important; -webkit-box-direction: initial !important; -webkit-box-flex: initial !important; -webkit-box-ordinal-group: initial !important; -webkit-box-orient: initial !important; -webkit-box-pack: initial !important; -webkit-box-reflect: initial !important; -webkit-line-break: initial !important; -webkit-line-clamp: initial !important; -webkit-mask-box-image: initial !important; -webkit-rtl-ordering: initial !important; -webkit-ruby-position: initial !important; -webkit-tap-highlight-color: initial !important; -webkit-text-combine: initial !important; -webkit-text-decorations-in-effect: initial !important; -webkit-text-security: initial !important; -webkit-text-stroke: initial !important; -webkit-user-drag: initial !important; widows: initial !important; width: initial !important; will-change: initial !important; word-break: initial !important; word-spacing: initial !important; x: initial !important; y: initial !important; z-index: initial !important; -webkit-text-fill-color: unset !important; color: inherit !important; cursor: inherit !important; direction: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; text-align: inherit !important; text-orientation: inherit !important; visibility: inherit !important; writing-mode: inherit !important; display: inline !important; padding-left: 0px !important; white-space-collapse: collapse !important;"><svg viewBox="0 -960 960 960" width="13px" height="13px" style="animation: initial !important; background: initial !important; border: 0px !important; box-shadow: none !important; color: inherit !important; cursor: inherit !important; direction: inherit !important; display: inline !important; fill: rgb(26, 115, 232) !important; filter: initial !important; float: none !important; margin: 0px !important; opacity: initial !important; outline: 0px !important; overflow: initial !important; padding: 0px !important; stroke: initial !important; transform: initial !important; vertical-align: middle !important; visibility: inherit !important;"><path d="M168-144q-29.7 0-50.85-21.15Q96-186.3 96-216v-528q0-29.7 21.15-50.85Q138.3-816 168-816h624q29.7 0 50.85 21.15Q864-773.7 864-744v528q0 29.7-21.15 50.85Q821.7-144 792-144H168Zm0-72h624v-528H168v528Zm72-96h480v-72H240v72Zm0-144h168v-216H240v216Zm240 0h240v-72H480v72Zm0-144h240v-72H480v72ZM168-216v-528 528Z" style="animation: initial !important; background: initial !important; border: 0px !important; box-shadow: none !important; color: inherit !important; cursor: inherit !important; direction: inherit !important; display: inline !important; fill: currentcolor !important; filter: initial !important; float: none !important; margin: 0px !important; opacity: initial !important; outline: 0px !important; overflow: initial !important; padding: 0px !important; stroke: initial !important; transform: initial !important; vertical-align: initial !important; visibility: inherit !important;"></path></svg></span><span style="color-scheme: initial !important; forced-color-adjust: initial !important; math-depth: initial !important; position: initial !important; position-anchor: initial !important; text-size-adjust: initial !important; appearance: initial !important; font-feature-settings: initial !important; font-kerning: initial !important; font-language-override: initial !important; font-optical-sizing: initial !important; font-palette: initial !important; font-size-adjust: initial !important; font-stretch: initial !important; font-style: initial !important; font-synthesis: initial !important; font-variant: initial !important; font-variation-settings: initial !important; position-area: initial !important; text-rendering: initial !important; text-spacing-trim: initial !important; -webkit-font-smoothing: initial !important; -webkit-locale: initial !important; -webkit-text-orientation: initial !important; -webkit-writing-mode: initial !important; zoom: initial !important; accent-color: initial !important; place-content: initial !important; place-items: initial !important; place-self: initial !important; alignment-baseline: initial !important; anchor-name: initial !important; anchor-scope: initial !important; animation-composition: initial !important; animation: initial !important; animation-trigger: initial !important; app-region: initial !important; aspect-ratio: initial !important; backdrop-filter: initial !important; backface-visibility: initial !important; background: initial !important; background-blend-mode: initial !important; baseline-shift: initial !important; baseline-source: initial !important; block-size: initial !important; border-block: initial !important; border: initial !important; border-radius: initial !important; border-collapse: initial !important; border-end-end-radius: initial !important; border-end-start-radius: initial !important; border-inline: initial !important; border-shape: initial !important; border-start-end-radius: initial !important; border-start-start-radius: initial !important; inset: initial !important; box-decoration-break: initial !important; box-shadow: initial !important; box-sizing: initial !important; break-after: initial !important; break-before: initial !important; break-inside: initial !important; buffered-rendering: initial !important; caption-side: initial !important; caret-animation: initial !important; caret-color: initial !important; caret-shape: initial !important; clear: initial !important; clip: initial !important; clip-path: initial !important; clip-rule: initial !important; color-interpolation: initial !important; color-interpolation-filters: initial !important; color-rendering: initial !important; columns: initial !important; column-fill: initial !important; gap: initial !important; rule-break: initial !important; rule: initial !important; rule-inset: initial !important; rule-visibility-items: initial !important; column-span: initial !important; contain: initial !important; contain-intrinsic-block-size: initial !important; contain-intrinsic-size: initial !important; contain-intrinsic-inline-size: initial !important; container: initial !important; content: initial !important; content-visibility: initial !important; corner-shape: initial !important; corner-block-end-shape: initial !important; corner-block-start-shape: initial !important; counter-increment: initial !important; counter-reset: initial !important; counter-set: initial !important; cx: initial !important; cy: initial !important; d: initial !important; display: initial !important; dominant-baseline: initial !important; dynamic-range-limit: initial !important; empty-cells: initial !important; field-sizing: initial !important; fill: initial !important; fill-opacity: initial !important; fill-rule: initial !important; filter: initial !important; flex: initial !important; flex-flow: initial !important; flex-line-count: initial !important; float: initial !important; flood-color: initial !important; flood-opacity: initial !important; grid: initial !important; grid-area: initial !important; height: initial !important; hyphenate-character: initial !important; hyphenate-limit-chars: initial !important; hyphens: initial !important; image-orientation: initial !important; image-rendering: initial !important; initial-letter: initial !important; inline-size: initial !important; inset-block: initial !important; inset-inline: initial !important; interactivity: initial !important; interest-delay: initial !important; interpolate-size: initial !important; isolation: initial !important; letter-spacing: initial !important; lighting-color: initial !important; line-break: initial !important; line-height: initial !important; list-style: initial !important; margin-block: initial !important; margin-bottom: initial !important; margin-inline: initial !important; margin-right: initial !important; margin-top: initial !important; marker: initial !important; mask: initial !important; mask-type: initial !important; math-shift: initial !important; math-style: initial !important; max-block-size: initial !important; max-height: initial !important; max-inline-size: initial !important; max-width: initial !important; min-block-size: initial !important; min-height: initial !important; min-inline-size: initial !important; min-width: initial !important; mix-blend-mode: initial !important; object-fit: initial !important; object-position: initial !important; object-view-box: initial !important; offset: initial !important; opacity: initial !important; order: initial !important; orphans: initial !important; outline: initial !important; outline-offset: initial !important; overflow-anchor: initial !important; overflow-block: initial !important; overflow-clip-margin: initial !important; overflow-inline: initial !important; overflow-wrap: initial !important; overflow: initial !important; overlay: initial !important; overscroll-behavior-block: initial !important; overscroll-behavior-inline: initial !important; overscroll-behavior: initial !important; padding-block: initial !important; padding: initial !important; padding-inline: initial !important; page: initial !important; page-margin-safety: initial !important; page-orientation: initial !important; paint-order: initial !important; perspective: initial !important; perspective-origin: initial !important; pointer-events: initial !important; position-try: initial !important; position-visibility: initial !important; print-color-adjust: initial !important; quotes: initial !important; r: initial !important; reading-flow: initial !important; reading-order: initial !important; resize: initial !important; rotate: initial !important; ruby-align: initial !important; ruby-overhang: initial !important; ruby-position: initial !important; rule-overlap: initial !important; rx: initial !important; ry: initial !important; scale: initial !important; scroll-behavior: initial !important; scroll-initial-target: initial !important; scroll-margin-block: initial !important; scroll-margin: initial !important; scroll-margin-inline: initial !important; scroll-marker-group: initial !important; scroll-padding-block: initial !important; scroll-padding: initial !important; scroll-padding-inline: initial !important; scroll-snap-align: initial !important; scroll-snap-stop: initial !important; scroll-snap-type: initial !important; scroll-target-group: initial !important; scroll-timeline: initial !important; scrollbar-color: initial !important; scrollbar-gutter: initial !important; scrollbar-width: initial !important; shape-image-threshold: initial !important; shape-margin: initial !important; shape-outside: initial !important; shape-rendering: initial !important; size: initial !important; speak: initial !important; stop-color: initial !important; stop-opacity: initial !important; stroke: initial !important; stroke-dasharray: initial !important; stroke-dashoffset: initial !important; stroke-linecap: initial !important; stroke-linejoin: initial !important; stroke-miterlimit: initial !important; stroke-opacity: initial !important; stroke-width: initial !important; tab-size: initial !important; table-layout: initial !important; text-align-last: initial !important; text-anchor: initial !important; text-autospace: initial !important; text-box: initial !important; text-combine-upright: initial !important; text-decoration: initial !important; text-decoration-skip-ink: initial !important; text-emphasis: initial !important; text-emphasis-position: initial !important; text-fit: initial !important; text-indent: initial !important; text-justify: initial !important; text-overflow: initial !important; text-shadow: initial !important; text-transform: initial !important; text-underline-offset: initial !important; text-underline-position: initial !important; text-wrap: initial !important; timeline-scope: initial !important; timeline-trigger: initial !important; touch-action: initial !important; transform: initial !important; transform-box: initial !important; transform-origin: initial !important; transform-style: initial !important; transition: initial !important; translate: initial !important; trigger-scope: initial !important; user-select: initial !important; vector-effect: initial !important; vertical-align: initial !important; view-timeline: initial !important; view-transition-class: initial !important; view-transition-group: initial !important; view-transition-name: initial !important; view-transition-scope: initial !important; border-spacing: initial !important; -webkit-box-align: initial !important; -webkit-box-decoration-break: initial !important; -webkit-box-direction: initial !important; -webkit-box-flex: initial !important; -webkit-box-ordinal-group: initial !important; -webkit-box-orient: initial !important; -webkit-box-pack: initial !important; -webkit-box-reflect: initial !important; -webkit-line-break: initial !important; -webkit-line-clamp: initial !important; -webkit-mask-box-image: initial !important; -webkit-rtl-ordering: initial !important; -webkit-ruby-position: initial !important; -webkit-tap-highlight-color: initial !important; -webkit-text-combine: initial !important; -webkit-text-decorations-in-effect: initial !important; -webkit-text-security: initial !important; -webkit-text-stroke: initial !important; -webkit-user-drag: initial !important; white-space-collapse: initial !important; widows: initial !important; width: initial !important; will-change: initial !important; word-break: initial !important; word-spacing: initial !important; x: initial !important; y: initial !important; z-index: initial !important; -webkit-text-fill-color: unset !important; color: inherit !important; cursor: inherit !important; direction: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; text-align: inherit !important; text-orientation: inherit !important; visibility: inherit !important; writing-mode: inherit !important; margin-left: 3px !important;">Fashion</span></span><span style="color-scheme: initial !important; forced-color-adjust: initial !important; math-depth: initial !important; position: initial !important; position-anchor: initial !important; text-size-adjust: initial !important; appearance: initial !important; font-feature-settings: initial !important; font-kerning: initial !important; font-language-override: initial !important; font-optical-sizing: initial !important; font-palette: initial !important; font-size-adjust: initial !important; font-stretch: initial !important; font-style: initial !important; font-synthesis: initial !important; font-variant: initial !important; font-variation-settings: initial !important; position-area: initial !important; text-rendering: initial !important; text-spacing-trim: initial !important; -webkit-font-smoothing: initial !important; -webkit-locale: initial !important; -webkit-text-orientation: initial !important; -webkit-writing-mode: initial !important; zoom: initial !important; accent-color: initial !important; place-content: initial !important; place-items: initial !important; place-self: initial !important; alignment-baseline: initial !important; anchor-name: initial !important; anchor-scope: initial !important; animation-composition: initial !important; animation: initial !important; animation-trigger: initial !important; app-region: initial !important; aspect-ratio: initial !important; backdrop-filter: initial !important; backface-visibility: initial !important; background: initial !important; background-blend-mode: initial !important; baseline-shift: initial !important; baseline-source: initial !important; block-size: initial !important; border-block: initial !important; border: initial !important; border-radius: initial !important; border-collapse: initial !important; border-end-end-radius: initial !important; border-end-start-radius: initial !important; border-inline: initial !important; border-shape: initial !important; border-start-end-radius: initial !important; border-start-start-radius: initial !important; inset: initial !important; box-decoration-break: initial !important; box-shadow: initial !important; box-sizing: initial !important; break-after: initial !important; break-before: initial !important; break-inside: initial !important; buffered-rendering: initial !important; caption-side: initial !important; caret-animation: initial !important; caret-color: initial !important; caret-shape: initial !important; clear: initial !important; clip: initial !important; clip-path: initial !important; clip-rule: initial !important; color-interpolation: initial !important; color-interpolation-filters: initial !important; color-rendering: initial !important; columns: initial !important; column-fill: initial !important; gap: initial !important; rule-break: initial !important; rule: initial !important; rule-inset: initial !important; rule-visibility-items: initial !important; column-span: initial !important; contain: initial !important; contain-intrinsic-block-size: initial !important; contain-intrinsic-size: initial !important; contain-intrinsic-inline-size: initial !important; container: initial !important; content: initial !important; content-visibility: initial !important; corner-shape: initial !important; corner-block-end-shape: initial !important; corner-block-start-shape: initial !important; counter-increment: initial !important; counter-reset: initial !important; counter-set: initial !important; cx: initial !important; cy: initial !important; d: initial !important; display: initial !important; dominant-baseline: initial !important; dynamic-range-limit: initial !important; empty-cells: initial !important; field-sizing: initial !important; fill: initial !important; fill-opacity: initial !important; fill-rule: initial !important; filter: initial !important; flex: initial !important; flex-flow: initial !important; flex-line-count: initial !important; float: initial !important; flood-color: initial !important; flood-opacity: initial !important; grid: initial !important; grid-area: initial !important; height: initial !important; hyphenate-character: initial !important; hyphenate-limit-chars: initial !important; hyphens: initial !important; image-orientation: initial !important; image-rendering: initial !important; initial-letter: initial !important; inline-size: initial !important; inset-block: initial !important; inset-inline: initial !important; interactivity: initial !important; interest-delay: initial !important; interpolate-size: initial !important; isolation: initial !important; letter-spacing: initial !important; lighting-color: initial !important; line-break: initial !important; line-height: initial !important; list-style: initial !important; margin-block: initial !important; margin-bottom: initial !important; margin-inline: initial !important; margin-right: initial !important; margin-top: initial !important; marker: initial !important; mask: initial !important; mask-type: initial !important; math-shift: initial !important; math-style: initial !important; max-block-size: initial !important; max-height: initial !important; max-inline-size: initial !important; max-width: initial !important; min-block-size: initial !important; min-height: initial !important; min-inline-size: initial !important; min-width: initial !important; mix-blend-mode: initial !important; object-fit: initial !important; object-position: initial !important; object-view-box: initial !important; offset: initial !important; opacity: initial !important; order: initial !important; orphans: initial !important; outline: initial !important; outline-offset: initial !important; overflow-anchor: initial !important; overflow-block: initial !important; overflow-clip-margin: initial !important; overflow-inline: initial !important; overflow-wrap: initial !important; overflow: initial !important; overlay: initial !important; overscroll-behavior-block: initial !important; overscroll-behavior-inline: initial !important; overscroll-behavior: initial !important; padding-block: initial !important; padding-bottom: initial !important; padding-inline: initial !important; padding-left: initial !important; padding-top: initial !important; page: initial !important; page-margin-safety: initial !important; page-orientation: initial !important; paint-order: initial !important; perspective: initial !important; perspective-origin: initial !important; pointer-events: initial !important; position-try: initial !important; position-visibility: initial !important; print-color-adjust: initial !important; quotes: initial !important; r: initial !important; reading-flow: initial !important; reading-order: initial !important; resize: initial !important; rotate: initial !important; ruby-align: initial !important; ruby-overhang: initial !important; ruby-position: initial !important; rule-overlap: initial !important; rx: initial !important; ry: initial !important; scale: initial !important; scroll-behavior: initial !important; scroll-initial-target: initial !important; scroll-margin-block: initial !important; scroll-margin: initial !important; scroll-margin-inline: initial !important; scroll-marker-group: initial !important; scroll-padding-block: initial !important; scroll-padding: initial !important; scroll-padding-inline: initial !important; scroll-snap-align: initial !important; scroll-snap-stop: initial !important; scroll-snap-type: initial !important; scroll-target-group: initial !important; scroll-timeline: initial !important; scrollbar-color: initial !important; scrollbar-gutter: initial !important; scrollbar-width: initial !important; shape-image-threshold: initial !important; shape-margin: initial !important; shape-outside: initial !important; shape-rendering: initial !important; size: initial !important; speak: initial !important; stop-color: initial !important; stop-opacity: initial !important; stroke: initial !important; stroke-dasharray: initial !important; stroke-dashoffset: initial !important; stroke-linecap: initial !important; stroke-linejoin: initial !important; stroke-miterlimit: initial !important; stroke-opacity: initial !important; stroke-width: initial !important; tab-size: initial !important; table-layout: initial !important; text-align-last: initial !important; text-anchor: initial !important; text-autospace: initial !important; text-box: initial !important; text-combine-upright: initial !important; text-decoration: initial !important; text-decoration-skip-ink: initial !important; text-emphasis: initial !important; text-emphasis-position: initial !important; text-fit: initial !important; text-indent: initial !important; text-justify: initial !important; text-overflow: initial !important; text-shadow: initial !important; text-transform: initial !important; text-underline-offset: initial !important; text-underline-position: initial !important; text-wrap: initial !important; timeline-scope: initial !important; timeline-trigger: initial !important; touch-action: initial !important; transform: initial !important; transform-box: initial !important; transform-origin: initial !important; transform-style: initial !important; transition: initial !important; translate: initial !important; trigger-scope: initial !important; user-select: initial !important; vector-effect: initial !important; vertical-align: initial !important; view-timeline: initial !important; view-transition-class: initial !important; view-transition-group: initial !important; view-transition-name: initial !important; view-transition-scope: initial !important; border-spacing: initial !important; -webkit-box-align: initial !important; -webkit-box-decoration-break: initial !important; -webkit-box-direction: initial !important; -webkit-box-flex: initial !important; -webkit-box-ordinal-group: initial !important; -webkit-box-orient: initial !important; -webkit-box-pack: initial !important; -webkit-box-reflect: initial !important; -webkit-line-break: initial !important; -webkit-line-clamp: initial !important; -webkit-mask-box-image: initial !important; -webkit-rtl-ordering: initial !important; -webkit-ruby-position: initial !important; -webkit-tap-highlight-color: initial !important; -webkit-text-combine: initial !important; -webkit-text-decorations-in-effect: initial !important; -webkit-text-security: initial !important; -webkit-text-stroke: initial !important; -webkit-user-drag: initial !important; white-space-collapse: initial !important; widows: initial !important; width: initial !important; will-change: initial !important; word-break: initial !important; word-spacing: initial !important; x: initial !important; y: initial !important; z-index: initial !important; -webkit-text-fill-color: unset !important; color: inherit !important; cursor: inherit !important; direction: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; text-align: inherit !important; text-orientation: inherit !important; visibility: inherit !important; writing-mode: inherit !important; margin-left: 3px !important; padding-right: 6px !important;">&amp; Style</span></div></div>
+            <a class="afropo-coverfeature__btn" href="/14-reasons-why-afropolitain-cover-male-boris-kodjoe-is-the-quintessential-man-2/">
+              <span>WATCH THE FULL EPISODE ON</span>
+              <span class="afropo-coverfeature__btnicon">▶</span>
+            </a>
+          </div>
+          <a class="afropo-coverfeature__media" href="/14-reasons-why-afropolitain-cover-male-boris-kodjoe-is-the-quintessential-man-2/">
+              <img src="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2025/10/6290f515bfdbce013fa2582a_boris-kodjoe-2-jpeg.jpg" alt="14 Reasons Why AFROPOLITAiN Cover Male Boris Kodjoe Is The Quintessential Man">
+          </a>
+        </div>
+      </section>
+
+        <section class="afropo-feature afropo-feature--oneonone">
+          <div class="afropo-section-title"><span>ONE ON ONE</span></div>
+          <a class="afropo-feature__link" href="/deontay-wilder-true-grit/">
+              <img class="afropo-feature__img" src="https://storage.ghost.io/c/1e/ce/1eceea75-fac9-4223-a692-56151dcfc317/content/images/2026/04/Deontay-Wilder-1.jpg" alt="DEONTAY WILDER: TRUE GRIT">
+            <div class="afropo-feature__overlay">
+              <div class="afropo-feature__headline">DEONTAY WILDER: TRUE GRIT</div>
+              <span class="afropo-btn afropo-btn--ghost">WATCH THE FULL EPISODE ON</span>
+            </div>
+          </a>
+        </section>
+
+  <section class="afropo-block home-shop" id="afropoShopSection">
+  <div class="afropo-section-title"><span>SHOP</span></div>
+  <div class="home-shop__grid" id="afropoShopGrid"><a class="home-shop__card" href="https://afropoli.com/products/afropolitain-magazine-issue-9-swaggy-mo" target="_blank" rel="noopener noreferrer"><div class="home-shop__img-wrap"><img src="https://cdn.shopify.com/s/files/1/0069/1942/2005/files/COVERSwaggy2.jpg?v=1757469327" alt="AFROPOLiTAiN Magazine - Issue 9- Swaggy Mo" loading="lazy"></div><div class="home-shop__info"><div class="home-shop__title">AFROPOLiTAiN Magazine - Issue 9- Swaggy Mo</div><div class="home-shop__price">$10.00</div></div></a><a class="home-shop__card" href="https://afropoli.com/products/afropolitain-magazine-issue-8-cuppy" target="_blank" rel="noopener noreferrer"><div class="home-shop__img-wrap"><img src="https://cdn.shopify.com/s/files/1/0069/1942/2005/files/Cover.jpg?v=1738295541" alt="AFROPOLiTAiN Magazine - Issue 8 - Cuppy" loading="lazy"></div><div class="home-shop__info"><div class="home-shop__title">AFROPOLiTAiN Magazine - Issue 8 - Cuppy</div><div class="home-shop__price">$10.00</div></div></a><a class="home-shop__card" href="https://afropoli.com/products/luvv-by-bella-jumbo" target="_blank" rel="noopener noreferrer"><div class="home-shop__img-wrap"><img src="https://cdn.shopify.com/s/files/1/0069/1942/2005/files/jumbo.png?v=1711423197" alt="LUVV BY BELLA-Jumbo" loading="lazy"></div><div class="home-shop__info"><div class="home-shop__title">LUVV BY BELLA-Jumbo</div><div class="home-shop__price">$130.00</div></div></a><a class="home-shop__card" href="https://afropoli.com/products/luvv-by-bella-green-eagle" target="_blank" rel="noopener noreferrer"><div class="home-shop__img-wrap"><img src="https://cdn.shopify.com/s/files/1/0069/1942/2005/files/greeneagle.png?v=1711423063" alt="LUVV BY BELLA-Green Eagle" loading="lazy"></div><div class="home-shop__info"><div class="home-shop__title">LUVV BY BELLA-Green Eagle</div><div class="home-shop__price">$275.00</div></div></a><a class="home-shop__card" href="https://afropoli.com/products/luvv-by-bella-divine-crux" target="_blank" rel="noopener noreferrer"><div class="home-shop__img-wrap"><img src="https://cdn.shopify.com/s/files/1/0069/1942/2005/files/divinecrux.png?v=1711422846" alt="LUVV BY BELLA-Divine Crux" loading="lazy"></div><div class="home-shop__info"><div class="home-shop__title">LUVV BY BELLA-Divine Crux</div><div class="home-shop__price">$299.00</div></div></a><a class="home-shop__card" href="https://afropoli.com/products/luvv-by-bella-benue-links" target="_blank" rel="noopener noreferrer"><div class="home-shop__img-wrap"><img src="https://cdn.shopify.com/s/files/1/0069/1942/2005/files/benuelinks.png?v=1711420716" alt="LUVV BY BELLA-Benue Links" loading="lazy"></div><div class="home-shop__info"><div class="home-shop__title">LUVV BY BELLA-Benue Links</div><div class="home-shop__price">$250.00</div></div></a><a class="home-shop__card" href="https://afropoli.com/products/luvv-by-bella-beetle-juice" target="_blank" rel="noopener noreferrer"><div class="home-shop__img-wrap"><img src="https://cdn.shopify.com/s/files/1/0069/1942/2005/files/beetlejuice.png?v=1711420679" alt="LUVV BY BELLA-Beetle Juice" loading="lazy"></div><div class="home-shop__info"><div class="home-shop__title">LUVV BY BELLA-Beetle Juice</div><div class="home-shop__price">$250.00</div></div></a><a class="home-shop__card" href="https://afropoli.com/products/luvv-by-bella-yola" target="_blank" rel="noopener noreferrer"><div class="home-shop__img-wrap"><img src="https://cdn.shopify.com/s/files/1/0069/1942/2005/files/yola.png?v=1711423707" alt="LUVV BY BELLA- Yola" loading="lazy"></div><div class="home-shop__info"><div class="home-shop__title">LUVV BY BELLA- Yola</div><div class="home-shop__price">$180.00</div></div></a></div>
+  <div class="home-shop__footer">
+    <a class="afropo-btn afropo-btn--black" href="https://afropoli.com" target="_blank" rel="noopener noreferrer">VIEW ALL PRODUCTS</a>
+  </div>
+</section>
+
+<script>
+(function () {
+  var SHOP_URL = 'https://afropoli.com';
+
+  fetch(SHOP_URL + '/products.json?limit=8')
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var grid = document.getElementById('afropoShopGrid');
+      if (!grid || !data.products || !data.products.length) return;
+
+      grid.innerHTML = data.products.map(function (p) {
+        var img   = p.images && p.images[0] ? p.images[0].src : '';
+        var price = p.variants && p.variants[0] ? parseFloat(p.variants[0].price).toFixed(2) : '';
+        var url   = SHOP_URL + '/products/' + p.handle;
+        return '<a class="home-shop__card" href="' + url + '" target="_blank" rel="noopener noreferrer">'
+          + '<div class="home-shop__img-wrap">'
+          + (img ? '<img src="' + img + '" alt="' + p.title.replace(/"/g, '&quot;') + '" loading="lazy">' : '<div class="home-shop__img-placeholder"></div>')
+          + '</div>'
+          + '<div class="home-shop__info">'
+          + '<div class="home-shop__title">' + p.title + '</div>'
+          + (price ? '<div class="home-shop__price">$' + price + '</div>' : '')
+          + '</div>'
+          + '</a>';
+      }).join('');
+    })
+    .catch(function () {
+      var section = document.getElementById('afropoShopSection');
+      if (section) section.style.display = 'none';
+    });
+})();
+</script>
+
+  
+</section>
+
+    </main>
+
+    <footer class="afropo-footer">
+
+  <section class="afropo-cta">
+    <div class="afropo-cta__inner">
+      <div class="afropo-cta__title">WHERE CULTURE MEETS STYLE AND INFLUENCE.</div>
+      <div class="afropo-cta__copy">Follow Afropolitain Magazine for curated stories shaping<br>the future of fashion and culture.</div>
+      <div class="afropo-cta__follow">FOLLOW &nbsp;FOR MORE</div>
+    </div>
+  </section>
+
+  <section class="afropo-newsletter">
+    <div class="afropo-newsletter__inner">
+      <div class="afropo-newsletter__logo">Afropolitain Magazine</div>
+      <div class="afropo-newsletter__tagline">STAY IN TOUCH WITH US</div>
+      <p class="afropo-newsletter__copy">African and diaspora culture, fashion, beauty, and creative voices —<br>curated stories delivered straight to your inbox.</p>
+      <form class="afropo-newsletter__form" data-members-form="subscribe">
+        <input class="afropo-newsletter__input" type="email" placeholder="Your email address" data-members-email="" required="">
+        <button class="afropo-newsletter__submit" type="submit">SIGN ME UP</button>
+      </form>
+      <p class="afropo-newsletter__legal">By submitting your information you agree to the <a href="/terms/">Terms &amp; Conditions</a> and <a href="/privacy/">Privacy Policy</a> and are aged 18 or over.</p>
+    </div>
+  </section>
+
+  <div class="afropo-footer__bottom">
+    <div class="afropo-footer__inner">
+
+      <div class="afropo-footer__brand">
+        <div class="afropo-footer__logo">Afropolitain Magazine</div>
+          <nav class="afropo-footer__social" aria-label="Social links">
+            <ul class="nav">
+    <li class="nav-sign-up nav-current"><a href="#/portal/">Sign up</a></li>
+</ul>
+
+          </nav>
+      </div>
+
+      <div></div>
+
+      <div class="afropo-footer__links-col">
+        <div class="afropo-footer__heading">MORE FROM Afropolitain Magazine</div>
+        <a class="afropo-footer__subscribe" href="#/portal/signup">SUBSCRIBE</a>
+        <nav class="afropo-footer__nav" aria-label="Footer navigation">
+          <ul class="nav">
+            <li><a href="/about/">About us</a></li>
+            <li><a href="/media-kit/">Media kit</a></li>
+            <li><a href="/contact/">Contact us</a></li>
+            <li><a href="/advertise/">Advertise with us</a></li>
+            <li><a href="/privacy/">Privacy policy</a></li>
+            <li><a href="/cookies/">Cookies policy</a></li>
+            <li><a href="/terms/">Terms and conditions</a></li>
+          </ul>
+        </nav>
+      </div>
+
+    </div>
+
+    <div class="afropo-footer__copyright afropo-container">
+      © 2026 Afropolitain Magazine. All rights reserved. Afropolitain Magazine may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Afropolitain Magazine.
+    </div>
+  </div>
+
+</footer>
+
+    <script src="https://www.afropolitain.com/assets/js/main.js?v=4AYUwk7b8jENcp8n"></script>
+    2026 Afropolitain <a href="#" class="google-anno" data-google-vignette="false" data-google-interstitial="false" style="color-scheme: initial !important; forced-color-adjust: initial !important; math-depth: initial !important; position: initial !important; position-anchor: initial !important; text-size-adjust: initial !important; appearance: initial !important; font-feature-settings: initial !important; font-kerning: initial !important; font-language-override: initial !important; font-optical-sizing: initial !important; font-palette: initial !important; font-size-adjust: initial !important; font-stretch: initial !important; font-synthesis: initial !important; font-variant: initial !important; font-variation-settings: initial !important; position-area: initial !important; text-rendering: initial !important; text-spacing-trim: initial !important; -webkit-font-smoothing: initial !important; -webkit-locale: initial !important; -webkit-text-orientation: initial !important; -webkit-writing-mode: initial !important; zoom: initial !important; accent-color: initial !important; place-content: initial !important; place-items: initial !important; place-self: initial !important; alignment-baseline: initial !important; anchor-name: initial !important; anchor-scope: initial !important; animation-composition: initial !important; animation: initial !important; animation-trigger: initial !important; app-region: initial !important; aspect-ratio: initial !important; backdrop-filter: initial !important; backface-visibility: initial !important; background: initial !important; background-blend-mode: initial !important; baseline-shift: initial !important; baseline-source: initial !important; block-size: initial !important; border-block: initial !important; border: initial !important; border-radius: initial !important; border-collapse: initial !important; border-end-end-radius: initial !important; border-end-start-radius: initial !important; border-inline: initial !important; border-shape: initial !important; border-start-end-radius: initial !important; border-start-start-radius: initial !important; inset: initial !important; box-decoration-break: initial !important; box-shadow: initial !important; box-sizing: initial !important; break-after: initial !important; break-before: initial !important; break-inside: initial !important; buffered-rendering: initial !important; caption-side: initial !important; caret-animation: initial !important; caret-color: initial !important; caret-shape: initial !important; clear: initial !important; clip: initial !important; clip-path: initial !important; clip-rule: initial !important; color-interpolation: initial !important; color-interpolation-filters: initial !important; color-rendering: initial !important; columns: initial !important; column-fill: initial !important; gap: initial !important; rule-break: initial !important; rule: initial !important; rule-inset: initial !important; rule-visibility-items: initial !important; column-span: initial !important; contain: initial !important; contain-intrinsic-block-size: initial !important; contain-intrinsic-size: initial !important; contain-intrinsic-inline-size: initial !important; container: initial !important; content: initial !important; content-visibility: initial !important; corner-shape: initial !important; corner-block-end-shape: initial !important; corner-block-start-shape: initial !important; counter-increment: initial !important; counter-reset: initial !important; counter-set: initial !important; cx: initial !important; cy: initial !important; d: initial !important; display: initial !important; dominant-baseline: initial !important; dynamic-range-limit: initial !important; empty-cells: initial !important; field-sizing: initial !important; fill-opacity: initial !important; fill-rule: initial !important; filter: initial !important; flex: initial !important; flex-flow: initial !important; flex-line-count: initial !important; float: initial !important; flood-color: initial !important; flood-opacity: initial !important; grid: initial !important; grid-area: initial !important; height: initial !important; hyphenate-character: initial !important; hyphenate-limit-chars: initial !important; hyphens: initial !important; image-orientation: initial !important; image-rendering: initial !important; initial-letter: initial !important; inline-size: initial !important; inset-block: initial !important; inset-inline: initial !important; interactivity: initial !important; interest-delay: initial !important; interpolate-size: initial !important; isolation: initial !important; letter-spacing: initial !important; lighting-color: initial !important; line-break: initial !important; list-style: initial !important; margin-block: initial !important; margin: initial !important; margin-inline: initial !important; marker: initial !important; mask: initial !important; mask-type: initial !important; math-shift: initial !important; math-style: initial !important; max-block-size: initial !important; max-height: initial !important; max-inline-size: initial !important; max-width: initial !important; min-block-size: initial !important; min-height: initial !important; min-inline-size: initial !important; min-width: initial !important; mix-blend-mode: initial !important; object-fit: initial !important; object-position: initial !important; object-view-box: initial !important; offset: initial !important; opacity: initial !important; order: initial !important; orphans: initial !important; outline: initial !important; outline-offset: initial !important; overflow-anchor: initial !important; overflow-block: initial !important; overflow-clip-margin: initial !important; overflow-inline: initial !important; overflow-wrap: initial !important; overflow: initial !important; overlay: initial !important; overscroll-behavior-block: initial !important; overscroll-behavior-inline: initial !important; overscroll-behavior: initial !important; padding-block: initial !important; padding: initial !important; padding-inline: initial !important; page: initial !important; page-margin-safety: initial !important; page-orientation: initial !important; paint-order: initial !important; perspective: initial !important; perspective-origin: initial !important; pointer-events: initial !important; position-try: initial !important; position-visibility: initial !important; print-color-adjust: initial !important; quotes: initial !important; r: initial !important; reading-flow: initial !important; reading-order: initial !important; resize: initial !important; rotate: initial !important; ruby-align: initial !important; ruby-overhang: initial !important; ruby-position: initial !important; rule-overlap: initial !important; rx: initial !important; ry: initial !important; scale: initial !important; scroll-behavior: initial !important; scroll-initial-target: initial !important; scroll-margin-block: initial !important; scroll-margin: initial !important; scroll-margin-inline: initial !important; scroll-marker-group: initial !important; scroll-padding-block: initial !important; scroll-padding: initial !important; scroll-padding-inline: initial !important; scroll-snap-align: initial !important; scroll-snap-stop: initial !important; scroll-snap-type: initial !important; scroll-target-group: initial !important; scroll-timeline: initial !important; scrollbar-color: initial !important; scrollbar-gutter: initial !important; scrollbar-width: initial !important; shape-image-threshold: initial !important; shape-margin: initial !important; shape-outside: initial !important; shape-rendering: initial !important; size: initial !important; speak: initial !important; stop-color: initial !important; stop-opacity: initial !important; stroke: initial !important; stroke-dasharray: initial !important; stroke-dashoffset: initial !important; stroke-linecap: initial !important; stroke-linejoin: initial !important; stroke-miterlimit: initial !important; stroke-opacity: initial !important; stroke-width: initial !important; tab-size: initial !important; table-layout: initial !important; text-align-last: initial !important; text-anchor: initial !important; text-autospace: initial !important; text-box: initial !important; text-combine-upright: initial !important; text-decoration-skip-ink: initial !important; text-emphasis: initial !important; text-emphasis-position: initial !important; text-fit: initial !important; text-indent: initial !important; text-justify: initial !important; text-overflow: initial !important; text-shadow: initial !important; text-transform: initial !important; text-underline-offset: initial !important; text-underline-position: initial !important; text-wrap: initial !important; timeline-scope: initial !important; timeline-trigger: initial !important; touch-action: initial !important; transform: initial !important; transform-box: initial !important; transform-origin: initial !important; transform-style: initial !important; transition: initial !important; translate: initial !important; trigger-scope: initial !important; user-select: initial !important; vector-effect: initial !important; vertical-align: initial !important; view-timeline: initial !important; view-transition-class: initial !important; view-transition-group: initial !important; view-transition-name: initial !important; view-transition-scope: initial !important; border-spacing: initial !important; -webkit-box-align: initial !important; -webkit-box-decoration-break: initial !important; -webkit-box-direction: initial !important; -webkit-box-flex: initial !important; -webkit-box-ordinal-group: initial !important; -webkit-box-orient: initial !important; -webkit-box-pack: initial !important; -webkit-box-reflect: initial !important; -webkit-line-break: initial !important; -webkit-line-clamp: initial !important; -webkit-mask-box-image: initial !important; -webkit-rtl-ordering: initial !important; -webkit-ruby-position: initial !important; -webkit-tap-highlight-color: initial !important; -webkit-text-combine: initial !important; -webkit-text-decorations-in-effect: initial !important; -webkit-text-security: initial !important; -webkit-text-stroke: initial !important; -webkit-user-drag: initial !important; white-space-collapse: initial !important; widows: initial !important; width: initial !important; will-change: initial !important; word-break: initial !important; word-spacing: initial !important; x: initial !important; y: initial !important; z-index: initial !important; -webkit-text-fill-color: unset !important; color: revert-layer !important; cursor: pointer !important; direction: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; text-align: inherit !important; text-orientation: inherit !important; visibility: inherit !important; writing-mode: inherit !important; fill: currentcolor !important; font-style: inherit !important; line-height: inherit !important; text-decoration: none !important;"><svg viewBox="100 -1000 840 840" width="calc(15px - 2px)" height="15px" style="animation: initial !important; background: initial !important; border: 0px !important; box-shadow: none !important; color: inherit !important; cursor: inherit !important; direction: inherit !important; display: inline !important; fill: currentcolor !important; filter: initial !important; float: none !important; margin: 0px !important; opacity: initial !important; outline: 0px !important; overflow: initial !important; padding: 0px !important; stroke: initial !important; transform: initial !important; vertical-align: initial !important; visibility: inherit !important;"><path d="M168-144q-29.7 0-50.85-21.15Q96-186.3 96-216v-528q0-29.7 21.15-50.85Q138.3-816 168-816h624q29.7 0 50.85 21.15Q864-773.7 864-744v528q0 29.7-21.15 50.85Q821.7-144 792-144H168Zm0-72h624v-528H168v528Zm72-96h480v-72H240v72Zm0-144h168v-216H240v216Zm240 0h240v-72H480v72Zm0-144h240v-72H480v72ZM168-216v-528 528Z" style="animation: initial !important; background: initial !important; border: 0px !important; box-shadow: none !important; color: inherit !important; cursor: inherit !important; direction: inherit !important; display: inline !important; fill: currentcolor !important; filter: initial !important; float: none !important; margin: 0px !important; opacity: initial !important; outline: 0px !important; overflow: initial !important; padding: 0px !important; stroke: initial !important; transform: initial !important; vertical-align: initial !important; visibility: inherit !important;"></path></svg>&nbsp;<span class="google-anno-t" style="color-scheme: initial !important; forced-color-adjust: initial !important; math-depth: initial !important; position: initial !important; position-anchor: initial !important; text-size-adjust: initial !important; appearance: initial !important; font-feature-settings: initial !important; font-kerning: initial !important; font-language-override: initial !important; font-optical-sizing: initial !important; font-palette: initial !important; font-size-adjust: initial !important; font-stretch: initial !important; font-synthesis: initial !important; font-variant: initial !important; font-variation-settings: initial !important; position-area: initial !important; text-rendering: initial !important; text-spacing-trim: initial !important; -webkit-font-smoothing: initial !important; -webkit-locale: initial !important; -webkit-text-orientation: initial !important; -webkit-writing-mode: initial !important; zoom: initial !important; accent-color: initial !important; place-content: initial !important; place-items: initial !important; place-self: initial !important; alignment-baseline: initial !important; anchor-name: initial !important; anchor-scope: initial !important; animation-composition: initial !important; animation: initial !important; animation-trigger: initial !important; app-region: initial !important; aspect-ratio: initial !important; backdrop-filter: initial !important; backface-visibility: initial !important; background: initial !important; background-blend-mode: initial !important; baseline-shift: initial !important; baseline-source: initial !important; block-size: initial !important; border-block: initial !important; border: initial !important; border-radius: initial !important; border-collapse: initial !important; border-end-end-radius: initial !important; border-end-start-radius: initial !important; border-inline: initial !important; border-shape: initial !important; border-start-end-radius: initial !important; border-start-start-radius: initial !important; inset: initial !important; box-decoration-break: initial !important; box-shadow: initial !important; box-sizing: initial !important; break-after: initial !important; break-before: initial !important; break-inside: initial !important; buffered-rendering: initial !important; caption-side: initial !important; caret-animation: initial !important; caret-color: initial !important; caret-shape: initial !important; clear: initial !important; clip: initial !important; clip-path: initial !important; clip-rule: initial !important; color-interpolation: initial !important; color-interpolation-filters: initial !important; color-rendering: initial !important; columns: initial !important; column-fill: initial !important; gap: initial !important; rule-break: initial !important; rule: initial !important; rule-inset: initial !important; rule-visibility-items: initial !important; column-span: initial !important; contain: initial !important; contain-intrinsic-block-size: initial !important; contain-intrinsic-size: initial !important; contain-intrinsic-inline-size: initial !important; container: initial !important; content: initial !important; content-visibility: initial !important; corner-shape: initial !important; corner-block-end-shape: initial !important; corner-block-start-shape: initial !important; counter-increment: initial !important; counter-reset: initial !important; counter-set: initial !important; cx: initial !important; cy: initial !important; d: initial !important; display: initial !important; dominant-baseline: initial !important; dynamic-range-limit: initial !important; empty-cells: initial !important; field-sizing: initial !important; fill: initial !important; fill-opacity: initial !important; fill-rule: initial !important; filter: initial !important; flex: initial !important; flex-flow: initial !important; flex-line-count: initial !important; float: initial !important; flood-color: initial !important; flood-opacity: initial !important; grid: initial !important; grid-area: initial !important; height: initial !important; hyphenate-character: initial !important; hyphenate-limit-chars: initial !important; hyphens: initial !important; image-orientation: initial !important; image-rendering: initial !important; initial-letter: initial !important; inline-size: initial !important; inset-block: initial !important; inset-inline: initial !important; interactivity: initial !important; interest-delay: initial !important; interpolate-size: initial !important; isolation: initial !important; letter-spacing: initial !important; lighting-color: initial !important; line-break: initial !important; line-height: initial !important; list-style: initial !important; margin-block: initial !important; margin: initial !important; margin-inline: initial !important; marker: initial !important; mask: initial !important; mask-type: initial !important; math-shift: initial !important; math-style: initial !important; max-block-size: initial !important; max-height: initial !important; max-inline-size: initial !important; max-width: initial !important; min-block-size: initial !important; min-height: initial !important; min-inline-size: initial !important; min-width: initial !important; mix-blend-mode: initial !important; object-fit: initial !important; object-position: initial !important; object-view-box: initial !important; offset: initial !important; opacity: initial !important; order: initial !important; orphans: initial !important; outline: initial !important; outline-offset: initial !important; overflow-anchor: initial !important; overflow-block: initial !important; overflow-clip-margin: initial !important; overflow-inline: initial !important; overflow-wrap: initial !important; overflow: initial !important; overlay: initial !important; overscroll-behavior-block: initial !important; overscroll-behavior-inline: initial !important; overscroll-behavior: initial !important; padding-block: initial !important; padding: initial !important; padding-inline: initial !important; page: initial !important; page-margin-safety: initial !important; page-orientation: initial !important; paint-order: initial !important; perspective: initial !important; perspective-origin: initial !important; pointer-events: initial !important; position-try: initial !important; position-visibility: initial !important; print-color-adjust: initial !important; quotes: initial !important; r: initial !important; reading-flow: initial !important; reading-order: initial !important; resize: initial !important; rotate: initial !important; ruby-align: initial !important; ruby-overhang: initial !important; ruby-position: initial !important; rule-overlap: initial !important; rx: initial !important; ry: initial !important; scale: initial !important; scroll-behavior: initial !important; scroll-initial-target: initial !important; scroll-margin-block: initial !important; scroll-margin: initial !important; scroll-margin-inline: initial !important; scroll-marker-group: initial !important; scroll-padding-block: initial !important; scroll-padding: initial !important; scroll-padding-inline: initial !important; scroll-snap-align: initial !important; scroll-snap-stop: initial !important; scroll-snap-type: initial !important; scroll-target-group: initial !important; scroll-timeline: initial !important; scrollbar-color: initial !important; scrollbar-gutter: initial !important; scrollbar-width: initial !important; shape-image-threshold: initial !important; shape-margin: initial !important; shape-outside: initial !important; shape-rendering: initial !important; size: initial !important; speak: initial !important; stop-color: initial !important; stop-opacity: initial !important; stroke: initial !important; stroke-dasharray: initial !important; stroke-dashoffset: initial !important; stroke-linecap: initial !important; stroke-linejoin: initial !important; stroke-miterlimit: initial !important; stroke-opacity: initial !important; stroke-width: initial !important; tab-size: initial !important; table-layout: initial !important; text-align-last: initial !important; text-anchor: initial !important; text-autospace: initial !important; text-box: initial !important; text-combine-upright: initial !important; text-decoration-skip-ink: initial !important; text-emphasis: initial !important; text-emphasis-position: initial !important; text-fit: initial !important; text-indent: initial !important; text-justify: initial !important; text-overflow: initial !important; text-shadow: initial !important; text-transform: initial !important; text-underline-offset: initial !important; text-underline-position: initial !important; text-wrap: initial !important; timeline-scope: initial !important; timeline-trigger: initial !important; touch-action: initial !important; transform: initial !important; transform-box: initial !important; transform-origin: initial !important; transform-style: initial !important; transition: initial !important; translate: initial !important; trigger-scope: initial !important; user-select: initial !important; vector-effect: initial !important; vertical-align: initial !important; view-timeline: initial !important; view-transition-class: initial !important; view-transition-group: initial !important; view-transition-name: initial !important; view-transition-scope: initial !important; border-spacing: initial !important; -webkit-box-align: initial !important; -webkit-box-decoration-break: initial !important; -webkit-box-direction: initial !important; -webkit-box-flex: initial !important; -webkit-box-ordinal-group: initial !important; -webkit-box-orient: initial !important; -webkit-box-pack: initial !important; -webkit-box-reflect: initial !important; -webkit-line-break: initial !important; -webkit-line-clamp: initial !important; -webkit-mask-box-image: initial !important; -webkit-rtl-ordering: initial !important; -webkit-ruby-position: initial !important; -webkit-tap-highlight-color: initial !important; -webkit-text-combine: initial !important; -webkit-text-decorations-in-effect: initial !important; -webkit-text-security: initial !important; -webkit-text-stroke: initial !important; -webkit-user-drag: initial !important; white-space-collapse: initial !important; widows: initial !important; width: initial !important; will-change: initial !important; word-break: initial !important; word-spacing: initial !important; x: initial !important; y: initial !important; z-index: initial !important; -webkit-text-fill-color: unset !important; color: inherit !important; cursor: inherit !important; direction: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; text-align: inherit !important; text-orientation: inherit !important; visibility: inherit !important; writing-mode: inherit !important; text-decoration: underline dotted !important; font-style: inherit !important;">Magazine</span></a>
+
+
+<div id="ghost-portal-root" data-testid="portal-root"></div><div id="sodo-search-root"></div><ins class="adsbygoogle adsbygoogle-noablate" data-ad-hi="true" data-adsbygoogle-status="done" style="display: none !important;" data-ad-status="unfilled"><div id="aswift_0_host" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"><iframe id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;min-height:auto;max-height:none;min-width:auto;max-width:none;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-2041725418536204&amp;output=html&amp;adk=1812271804&amp;adf=3025194257&amp;abgtt=6&amp;lmt=1786982538&amp;plaf=1%3A2%2C2%3A2%2C7%3A2&amp;plat=1%3A128%2C2%3A128%2C3%3A128%2C4%3A128%2C8%3A128%2C9%3A134250504%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&amp;format=0x0&amp;url=https%3A%2F%2Fwww.afropolitain.com%2F&amp;pra=5&amp;asro=0&amp;itsi=-1&amp;aimartd=4&amp;aieuf=1&amp;aicrs=1&amp;uach=WyJMaW51eCIsIiIsIng4NiIsIiIsIjE1MS4wLjc5MjIuMTM3IixudWxsLDAsbnVsbCwiNjQiLFtbIkNocm9taXVtIiwiMTUxLjAuNzkyMi4xMzciXSxbIkdvb2dsZSBDaHJvbWUiLCIxNTEuMC43OTIyLjEzNyJdLFsiTm90PUE_QnJhbmQiLCI5OS4wLjAuMCJdXSwwXQ..&amp;dt=1786982538043&amp;bpp=2&amp;bdt=445&amp;idt=202&amp;shv=r20260812&amp;mjsv=m202608130101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;eoidce=1&amp;nras=1&amp;correlator=7332020812923&amp;frm=20&amp;pv=2&amp;u_tz=120&amp;u_his=2&amp;u_h=1200&amp;u_w=1600&amp;u_ah=1200&amp;u_aw=1600&amp;u_cd=24&amp;u_sd=1&amp;dmc=32&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1600&amp;bih=1200&amp;scr_x=0&amp;scr_y=0&amp;eid=95397678%2C122880127%2C122880367%2C122880397%2C42533293&amp;oid=2&amp;pvsid=8537877338345777&amp;tmod=1507389504&amp;uas=0&amp;nvt=1&amp;fsapi=1&amp;fc=1920&amp;brdim=20%2C20%2C20%2C20%2C1600%2C0%2C1600%2C1285%2C1600%2C1200&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=32768&amp;bc=31&amp;bz=1&amp;pgls=CAA.~CAk.&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=225" data-google-container-id="a!1" tabindex="0" title="Advertisement" aria-label="Advertisement" data-load-complete="true"></iframe></div></ins></body>

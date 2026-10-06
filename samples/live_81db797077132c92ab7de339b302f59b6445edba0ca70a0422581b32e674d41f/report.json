@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_81db797077132c92ab7de339b302f59b6445edba0ca70a0422581b32e674d41f",
+  "candidate_sha256": "acf33bb4e047a845f50b804c159eebb160a6f8f4b1e46d7b95a01c7d58d47415",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://grubwhatsappjess.duckdns.org/",
+  "requested_url": "http://grubwhatsappjess.duckdns.org/",
+  "browser_final_url": "http://grubwhatsappjess.duckdns.org/",
+  "source_urls": [
+    "http://grubwhatsappjess.duckdns.org/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 115364,
+      "source_url": "http://grubwhatsappjess.duckdns.org/",
+      "source_hostname": "grubwhatsappjess.duckdns.org",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://grubwhatsappjess.duckdns.org/",
+      "final_hostname": "grubwhatsappjess.duckdns.org",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 1658,
+      "elapsed_ms": 1512,
+      "checked_at": "2026-10-05T13:10:54.326262+00:00",
+      "error": null,
+      "normalized_source_url": "http://grubwhatsappjess.duckdns.org/",
+      "normalized_final_url": "http://grubwhatsappjess.duckdns.org/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_81db797077132c92ab7de339b302f59b6445edba0ca70a0422581b32e674d41f",
+    "representative_source_index": 115364,
+    "representative_source_url": "http://grubwhatsappjess.duckdns.org/",
+    "representative_final_url": "http://grubwhatsappjess.duckdns.org/",
+    "normalized_final_url": "http://grubwhatsappjess.duckdns.org/",
+    "source_hostname": "grubwhatsappjess.duckdns.org",
+    "final_hostname": "grubwhatsappjess.duckdns.org",
+    "source_urls": [
+      "http://grubwhatsappjess.duckdns.org/"
+    ],
+    "provenance": [
+      {
+        "source_index": 115364,
+        "source_url": "http://grubwhatsappjess.duckdns.org/",
+        "source_hostname": "grubwhatsappjess.duckdns.org",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://grubwhatsappjess.duckdns.org/",
+        "final_hostname": "grubwhatsappjess.duckdns.org",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 1658,
+        "elapsed_ms": 1512,
+        "checked_at": "2026-10-05T13:10:54.326262+00:00",
+        "error": null,
+        "normalized_source_url": "http://grubwhatsappjess.duckdns.org/",
+        "normalized_final_url": "http://grubwhatsappjess.duckdns.org/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Web Server's Default Page",
+  "capture_timestamp": "2026-10-05T14:48:01.065765+00:00",
+  "dom_chars": 16447,
+  "screenshot_bytes": 182365,
+  "dom_sha256": "3833940ab4df9aa20ca2f715059ebeaf9fe23007f08551390cbceec50674dd45",
+  "screenshot_sha256": "dda38ae485eca754b80dbb06e7a7e51ca74f280501cdb7859f0d73ddf5f467eb",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://grubwhatsappjess.duckdns.org/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://grubwhatsappjess.duckdns.org/",
+    "browser_final_url": "http://grubwhatsappjess.duckdns.org/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2546
+}

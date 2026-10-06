@@ -1,0 +1,216 @@
+{
+  "candidate_id": "live_8a2288a2cabd0093126014c5b0a7c86eec8ee7ddf200ccc8852af7b508d0da3b",
+  "candidate_sha256": "8da827c03ed2edb6739334c051e36114a74e3ea62ac815d4b391e054056404c3",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://www.ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/8caa5/",
+  "requested_url": "https://yoyofootmassage.com/",
+  "browser_final_url": "https://yoyofootmassage.com/",
+  "source_urls": [
+    "http://ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/396c2",
+    "https://www.ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/8caa5/"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 98706,
+      "source_url": "https://www.ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/8caa5/",
+      "source_hostname": "www.ephistory.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://yoyofootmassage.com/",
+      "final_hostname": "yoyofootmassage.com",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2149,
+      "checked_at": "2026-10-05T13:16:25.197997+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/8caa5/",
+      "normalized_final_url": "https://yoyofootmassage.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 102569,
+      "source_url": "http://ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/396c2",
+      "source_hostname": "ephistory.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://yoyofootmassage.com/",
+      "final_hostname": "yoyofootmassage.com",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1859,
+      "checked_at": "2026-10-05T13:17:46.995054+00:00",
+      "error": null,
+      "normalized_source_url": "http://ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/396c2",
+      "normalized_final_url": "https://yoyofootmassage.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_8a2288a2cabd0093126014c5b0a7c86eec8ee7ddf200ccc8852af7b508d0da3b",
+    "representative_source_index": 98706,
+    "representative_source_url": "https://www.ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/8caa5/",
+    "representative_final_url": "https://yoyofootmassage.com/",
+    "normalized_final_url": "https://yoyofootmassage.com/",
+    "source_hostname": "www.ephistory.com",
+    "final_hostname": "yoyofootmassage.com",
+    "source_urls": [
+      "http://ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/396c2",
+      "https://www.ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/8caa5/"
+    ],
+    "provenance": [
+      {
+        "source_index": 98706,
+        "source_url": "https://www.ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/8caa5/",
+        "source_hostname": "www.ephistory.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://yoyofootmassage.com/",
+        "final_hostname": "yoyofootmassage.com",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2149,
+        "checked_at": "2026-10-05T13:16:25.197997+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/8caa5/",
+        "normalized_final_url": "https://yoyofootmassage.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 102569,
+        "source_url": "http://ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/396c2",
+        "source_hostname": "ephistory.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://yoyofootmassage.com/",
+        "final_hostname": "yoyofootmassage.com",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1859,
+        "checked_at": "2026-10-05T13:17:46.995054+00:00",
+        "error": null,
+        "normalized_source_url": "http://ephistory.com/%D0%B0m%D0%B0z.c%D0%B0/3973FHSDCA/396c2",
+        "normalized_final_url": "https://yoyofootmassage.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 2,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Panentogel🍀Pijat Kaki Sambil Main Togel Online Disini Pasti Nikmat",
+  "capture_timestamp": "2026-10-05T14:48:49.806077+00:00",
+  "dom_chars": 649096,
+  "screenshot_bytes": 450077,
+  "dom_sha256": "6bdd2bc1feeb497b6d5c2be51343439f0a3ae19287b599643a27bb17bab6d4c6",
+  "screenshot_sha256": "ee6972f0560cff9659690f8229e32512e28bba701fbd15142c5da6b198ecf069",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://yoyofootmassage.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://yoyofootmassage.com/",
+    "browser_final_url": "https://yoyofootmassage.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 10
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3228
+}

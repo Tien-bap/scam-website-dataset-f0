@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_675de5acd3985d221970ceeded7bd51759bd6519c676265c2c97efbea4d3ccee",
+  "candidate_sha256": "59c82c376364258e68d8dd4b7a45b77263b8789784e9bb813e3c44594d902b44",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://www.hunt-nation.com/planbuildin/onedrivecloud/",
+  "requested_url": "https://www.hunt-nation.com",
+  "browser_final_url": "https://www.hunt-nation.com/",
+  "source_urls": [
+    "http://www.hunt-nation.com/planbuildin/onedrivecloud/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 77168,
+      "source_url": "http://www.hunt-nation.com/planbuildin/onedrivecloud/",
+      "source_hostname": "www.hunt-nation.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hunt-nation.com",
+      "final_hostname": "www.hunt-nation.com",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3322,
+      "checked_at": "2026-10-05T13:00:17.290946+00:00",
+      "error": null,
+      "normalized_source_url": "http://www.hunt-nation.com/planbuildin/onedrivecloud/",
+      "normalized_final_url": "https://www.hunt-nation.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_675de5acd3985d221970ceeded7bd51759bd6519c676265c2c97efbea4d3ccee",
+    "representative_source_index": 77168,
+    "representative_source_url": "http://www.hunt-nation.com/planbuildin/onedrivecloud/",
+    "representative_final_url": "https://www.hunt-nation.com",
+    "normalized_final_url": "https://www.hunt-nation.com/",
+    "source_hostname": "www.hunt-nation.com",
+    "final_hostname": "www.hunt-nation.com",
+    "source_urls": [
+      "http://www.hunt-nation.com/planbuildin/onedrivecloud/"
+    ],
+    "provenance": [
+      {
+        "source_index": 77168,
+        "source_url": "http://www.hunt-nation.com/planbuildin/onedrivecloud/",
+        "source_hostname": "www.hunt-nation.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hunt-nation.com",
+        "final_hostname": "www.hunt-nation.com",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3322,
+        "checked_at": "2026-10-05T13:00:17.290946+00:00",
+        "error": null,
+        "normalized_source_url": "http://www.hunt-nation.com/planbuildin/onedrivecloud/",
+        "normalized_final_url": "https://www.hunt-nation.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "timeout",
+  "capture_status": "partial",
+  "technical_complete": true,
+  "title": "Hunt-Nation: Your Gateway to Premier Hunting & Fishing Adventures Worldwide",
+  "capture_timestamp": "2026-10-05T14:45:15.829162+00:00",
+  "dom_chars": 919750,
+  "screenshot_bytes": 74364,
+  "dom_sha256": "b43ac2440a7c30d773b96e9d88380a2a180dbab239117ad309e6e4560021317b",
+  "screenshot_sha256": "9f3e4c8c354d95034db09324edfc7bcad6e5f633a8216a69d933dab7aa613f7f",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.hunt-nation.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.hunt-nation.com",
+    "browser_final_url": "https://www.hunt-nation.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": "Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.hunt-nation.com/\", waiting until \"domcontentloaded\"\n",
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 8
+  },
+  "blocked_responses": 2,
+  "downloaded_files": 0,
+  "elapsed_ms": 17055
+}

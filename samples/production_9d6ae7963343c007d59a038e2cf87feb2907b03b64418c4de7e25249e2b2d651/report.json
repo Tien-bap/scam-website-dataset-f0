@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.umeacademy.com/wine/",
+  "hostname": "www.umeacademy.com",
+  "checked_at": "2026-10-04T15:55:09.575651+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0955d-536e-74e9-aec2-6ab4fde2b0ea",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-12T11:25:51.703Z",
+  "scan_original_url": "http://umeacademy.com/",
+  "final_url": "https://www.umeacademy.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 117602,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 55.343,
+  "discovery": {
+    "batch_id": "bd0d1c72e684ea4218de616c33155a8ba4e60924903d6899c07b079e24323058",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

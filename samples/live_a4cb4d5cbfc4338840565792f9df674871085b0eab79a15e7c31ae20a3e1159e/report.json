@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_a4cb4d5cbfc4338840565792f9df674871085b0eab79a15e7c31ae20a3e1159e",
+  "candidate_sha256": "09672e5b676e624f876a430f165ffcd4a6e12025c4c8b892253e87d37ef8be59",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://suncity.bar",
+  "requested_url": "https://auspuff.eu.com/",
+  "browser_final_url": "https://auspuff.eu.com/",
+  "source_urls": [
+    "https://suncity.bar"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1101,
+      "source_url": "https://suncity.bar",
+      "source_hostname": "suncity.bar",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://auspuff.eu.com/",
+      "final_hostname": "auspuff.eu.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1151,
+      "checked_at": "2026-10-05T12:18:20.761761+00:00",
+      "error": null,
+      "normalized_source_url": "https://suncity.bar/",
+      "normalized_final_url": "https://auspuff.eu.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_a4cb4d5cbfc4338840565792f9df674871085b0eab79a15e7c31ae20a3e1159e",
+    "representative_source_index": 1101,
+    "representative_source_url": "https://suncity.bar",
+    "representative_final_url": "https://auspuff.eu.com/",
+    "normalized_final_url": "https://auspuff.eu.com/",
+    "source_hostname": "suncity.bar",
+    "final_hostname": "auspuff.eu.com",
+    "source_urls": [
+      "https://suncity.bar"
+    ],
+    "provenance": [
+      {
+        "source_index": 1101,
+        "source_url": "https://suncity.bar",
+        "source_hostname": "suncity.bar",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://auspuff.eu.com/",
+        "final_hostname": "auspuff.eu.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1151,
+        "checked_at": "2026-10-05T12:18:20.761761+00:00",
+        "error": null,
+        "normalized_source_url": "https://suncity.bar/",
+        "normalized_final_url": "https://auspuff.eu.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Nhà Cái Suncity - Bến Đỗ Chất Lượng Cao Số 1 Châu Á",
+  "capture_timestamp": "2026-10-05T14:51:34.781383+00:00",
+  "dom_chars": 126344,
+  "screenshot_bytes": 249104,
+  "dom_sha256": "46e874e038e0b25b1f8f80fe70b109e43c94154b2441d1d55bce8d2df33e95ac",
+  "screenshot_sha256": "02e9ff57382d717624ba78e7c68cc7950c2c4205161c7249febce4bc28bd1aa0",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://auspuff.eu.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://auspuff.eu.com/",
+    "browser_final_url": "https://auspuff.eu.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 7280
+}

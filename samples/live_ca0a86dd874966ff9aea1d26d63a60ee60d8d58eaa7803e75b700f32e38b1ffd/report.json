@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_ca0a86dd874966ff9aea1d26d63a60ee60d8d58eaa7803e75b700f32e38b1ffd",
+  "candidate_sha256": "6d1ec5d431c0a4e5dd4a17f08be2a5b00c5577e51c17ea5a0f1e3c44124ce8be",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://kubet.social",
+  "requested_url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+  "browser_final_url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+  "source_urls": [
+    "https://kubet.social"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1797,
+      "source_url": "https://kubet.social",
+      "source_hostname": "kubet.social",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+      "final_hostname": "expireddomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 41815,
+      "elapsed_ms": 1563,
+      "checked_at": "2026-10-05T12:19:09.367573+00:00",
+      "error": null,
+      "normalized_source_url": "https://kubet.social/",
+      "normalized_final_url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_ca0a86dd874966ff9aea1d26d63a60ee60d8d58eaa7803e75b700f32e38b1ffd",
+    "representative_source_index": 1797,
+    "representative_source_url": "https://kubet.social",
+    "representative_final_url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+    "normalized_final_url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+    "source_hostname": "kubet.social",
+    "final_hostname": "expireddomains.com",
+    "source_urls": [
+      "https://kubet.social"
+    ],
+    "provenance": [
+      {
+        "source_index": 1797,
+        "source_url": "https://kubet.social",
+        "source_hostname": "kubet.social",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+        "final_hostname": "expireddomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 41815,
+        "elapsed_ms": 1563,
+        "checked_at": "2026-10-05T12:19:09.367573+00:00",
+        "error": null,
+        "normalized_source_url": "https://kubet.social/",
+        "normalized_final_url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "kubet.social for sale — short .social domain | ED.com",
+  "capture_timestamp": "2026-10-05T14:55:38.544432+00:00",
+  "dom_chars": 42122,
+  "screenshot_bytes": 159846,
+  "dom_sha256": "b5774dd4b130a771898bfbd4f354f0e33dcc4a7d5a106a1c51f5933109fc91a5",
+  "screenshot_sha256": "bc7377d474afc28c07a5a5fbd96c360da39fecfb725fbb74bb91d81fa8af6ad1",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+    "browser_final_url": "https://expireddomains.com/domain/kubet.social?utm_source=redi",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 1,
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2279
+}

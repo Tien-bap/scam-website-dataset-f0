@@ -1,0 +1,4168 @@
+<head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style><style>
+
+	@media (min-width: 1200px) {
+        .container {
+            width: 1170px;
+            padding-right: 15px;
+            padding-left: 15px;
+            margin-right: auto;
+            margin-left: auto;
+        }
+    .newPromotion {
+        display: none;
+        position: fixed;
+        z-index: 15;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        /*    overflow:auto;*/
+        /*    background-color: rgba(0,0,0,0.4);*/
+    }
+    
+    .box {
+        background-image: url('/theme/img/back.png');
+        background-size: contain;
+        background-repeat: round;
+        border-radius: 25px;
+        border: 7px solid #ef4040;
+        padding: 25px;
+        width: 1020px;
+        height: 550px;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    .row {
+        display: flex;
+    }
+
+    .col-4 {
+        width: 115px;
+        overflow-y: auto;
+        height: 145px;
+        overflow-x: hidden;
+		text-align: center;
+		padding-top: 10px;
+    }
+
+    .col-8 {
+        width: 70%;
+        margin-top: -15px;
+    }
+
+    .layer {
+        padding: 155px 300px 78px 250px;
+        background-color: #00000073;
+        height: 2000px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .frame {
+        background-color: white;
+        height: 100%;
+        overflow-y: auto;
+    }
+
+    .bottom {
+        position: absolute;
+        margin-top: 425px;
+        margin-left: 920px;
+    }
+
+    .top {
+        position: absolute;
+        margin-top: -135px;
+        margin-left: -55px;
+    }
+
+    .close {
+        position: absolute;
+        margin-top: -50px;
+        margin-left: 950px;
+        opacity: 100;
+    }
+
+    .promo-image {
+        background-image: url('/theme/img/t2.png');
+        width: 100%;
+        height: 60px;
+        mix-blend-mode: luminosity;
+        background-repeat: no-repeat;
+        background-size: 270px 60px;
+    }
+
+    .t1 {
+        background-image: url('/theme/img/t1.png');
+        width: 100%;
+        min-height: 60px;
+        height: fit-content;
+        mix-blend-mode: luminosity;
+        background-repeat: no-repeat;
+        background-size: 270px 60px;
+        background-position-x: right;
+        background-position-y: bottom;
+    }
+
+    .t2 {
+        background-image: url('/theme/img/t2.png');
+        width: 100%;
+        min-height: 60px;
+        height: fit-content;
+        mix-blend-mode: luminosity;
+        background-repeat: no-repeat;
+        background-size: 270px 60px;
+        background-position-x: right;
+        background-position-y: bottom;
+    }
+
+    .t3 {
+        background-image: url('/theme/img/t3.png');
+        width: 100%;
+        min-height: 60px;
+        height: fit-content;
+        mix-blend-mode: luminosity;
+        background-repeat: no-repeat;
+        background-size: 270px 60px;
+        background-position-x: right;
+        background-position-y: bottom;
+    }
+
+    .t4 {
+        background-image: url('/theme/img/t4.png');
+        width: 100%;
+        min-height: 60px;
+        height: fit-content;
+        mix-blend-mode: luminosity;
+        background-repeat: no-repeat;
+        background-size: 270px 60px;
+        background-position-x: right;
+        background-position-y: bottom;
+    }
+
+    .t5 {
+        background-image: url('/theme/img/t5.png');
+        width: 100%;
+        min-height: 60px;
+        height: fit-content;
+        mix-blend-mode: luminosity;
+        background-repeat: no-repeat;
+        background-size: 270px 60px;
+        background-position-x: right;
+        background-position-y: bottom;
+    }
+
+    .pTablinks {
+        background: linear-gradient(to right, #bc88bc, #ca8abe, #d88bbe, #e68dbd, #f38fbb);
+        border-radius: 5px;
+        margin: 8px;
+        margin-left: 20px;
+    }
+
+    .text {
+        background: -webkit-linear-gradient(#f9f9f2, #f9ddb7);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight: 700;
+        font-size: 22px;
+        padding: 0px 10px;
+        text-align: left;
+        height: 60px;
+        width: 100%;
+    }
+
+    .border {
+        height: 500px;
+        width: 100%;
+        border-radius: 5px;
+        border: 3px dashed #ef4040;
+    }
+
+    .space {
+        padding: 15px;
+    }
+
+    .register-btn, .participate-btn {
+        background-image: url(/theme/img/register-button.png);
+        width: 150px;
+        height: 50px;
+        background-size: 150px 50px;
+        color: white;
+        border: 0px;
+        border-radius: 0px;
+        margin-bottom: 20px;
+    }
+
+    .promotion-cond {
+        margin-bottom: 20px;
+        background: linear-gradient(to left, #f9f9f2, #ff7410);
+        width: 250px;
+        color: white;
+        margin-left: 25px;
+        margin-top: -30px;
+        height: 25px;
+    }
+
+    .ptable, .pth, .ptd {
+        border: 1px solid #6d6d6d;
+        border-collapse: collapse;
+        text-align: center;
+        padding: 3px;
+        table-layout: fixed;
+    }
+
+    .pth {
+        background: #dd473c;
+        color: white;
+        font-weight: normal;
+        text-align: center;
+        padding: 3px;
+    }
+
+    .ptd {
+        color: #b07620;
+        border-color: #6d6d6d;
+        padding: 3px;
+    }
+
+    /*/////////////////////SCROLLBAR//////////////////////////*/
+    /* width */
+    ::-webkit-scrollbar {
+        width: 10px;
+    }
+
+    /* Track */
+    ::-webkit-scrollbar-track {
+        border-radius: 10px;
+        width: 10px;
+    }
+
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+        background: #d2d2d2;
+        border-radius: 10px;
+    }
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+        background: #d2d2d2;
+    }
+
+    /*/////////////////////BORDER Light///////////////////////*/
+    .lighting1 {
+        width: 200px;
+        height: 400px;
+        background: transparent;
+        mix-blend-mode: screen;
+        position: relative;
+        animation: myfirst 7s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        z-index: 100;
+    }
+
+    @keyframes myfirst {
+        0% {
+            background-image: url('/theme/img/light1.png');
+            left: -10.5%;
+            top: 70%;
+            opacity: 0;
+        }
+
+        30% {
+            background-image: url('/theme/img/light1.png');
+            left: -10.5%;
+            top: 90%;
+            opacity: 1;
+        }
+
+        80% {
+            background-image: url('/theme/img/light1.png');
+            left: -10.5%;
+            top: 130%;
+            opacity: 0.7;
+        }
+
+        100% {
+            background-image: url('/theme/img/light1.png');
+            left: -10.5%;
+            top: 153%;
+            opacity: 0;
+        }
+    }
+
+    .lighting2 {
+        width: 400px;
+        height: 200px;
+        background: transparent;
+        mix-blend-mode: screen;
+        position: relative;
+        animation: mysecond 7s;
+        animation-iteration-count: infinite;
+        animation-delay: 2s;
+        animation-timing-function: linear;
+        z-index: 100;
+    }
+
+    @keyframes mysecond {
+        0% {
+            background-image: url('/theme/img/light2.png');
+            left: 10%;
+            top: 7.8%;
+            opacity: 1;
+        }
+
+        30% {
+            background-image: url('/theme/img/light2.png');
+            left: 20%;
+            top: 7.8%;
+            opacity: 0.8;
+        }
+
+        80% {
+            background-image: url('/theme/img/light2.png');
+            left: 55%;
+            top: 7.8%;
+            opacity: 0.8;
+        }
+
+
+        100% {
+            background-image: url('/theme/img/light2.png');
+            left: 70%;
+            top: 7.8%;
+            opacity: 0;
+        }
+    }
+
+    * {
+        box-sizing: border-box
+    }
+
+    body {
+        font-family: "Lato", sans-serif;
+    }
+
+    /* Style the tab content */
+    .pTabcontent {
+        float: right;
+        width: 100%;
+        border-left: none;
+        height: 300px;
+        color: #6d6d6d;
+    }
+
+    .jfzh {
+        background-image: url('/theme/img/jfzh-bg-web.png');
+        display: flex;
+        width: 580px;
+        margin-top: 20px;
+        height: 180px;
+        background-size: 580px 180px;
+    }
+
+    .jfzh-btn1 {
+        background-image: url(/theme/img/button-1.png);
+        width: 120px;
+        height: 42px;
+        color: white;
+        border: 0px;
+        border-radius: 0px;
+        margin-bottom: 20px;
+        background-color: transparent;
+        background-size: 120px 50px;
+    }
+
+    .jfzh-btn2 {
+        background-image: url(/theme/img/button-2.png);
+        width: 120px;
+        height: 42px;
+        color: white;
+        border: 0px;
+        border-radius: 0px;
+        margin-bottom: 20px;
+        background-color: transparent;
+        background-size: 120px 50px;
+    }
+
+    .pcol1 {
+        color: white;
+        background-color: #3b151a;
+        padding: 5px;
+        margin: 15px;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .pcol2 {
+        color: white;
+        background-color: #3b151a;
+        padding: 10px;
+        margin: 15px;
+        border-radius: 5px;
+    }
+
+    .pcol3 {
+        color: white;
+        background-color: #3b151a;
+        padding: 10px;
+        margin: 15px;
+        text-align: center;
+        border-radius: 5px;
+        margin-left: 0px;
+    }
+
+    .right-side-img {
+        background-size: 160px 200px;
+        width: 160px;
+        height: 200px;
+        position: relative;
+        top: -11%;
+        right: 2%;
+    }
+
+    .promoInput {
+        width: 60%;
+        display: inline-block;
+        margin-bottom: 5px;
+        border-radius: 15px;
+        height: 30px;
+        color: black;
+        text-align: right;
+        padding-right: 10px;
+    }
+
+    .promoText {
+        width: 31%;
+        display: inline-block;
+        text-align: right;
+        margin-bottom: 5px;
+        margin-right: 5px;
+    }
+    
+    /* roulette */
+    .number:nth-child(1) {
+      -webkit-transform: rotateZ(5.72973deg);
+              transform: rotateZ(5.72973deg);
+    }
+    .number:nth-child(2) {
+      -webkit-transform: rotateZ(50.459459deg);
+              transform: rotateZ(50.459459deg);
+    }
+    .number:nth-child(3) {
+      -webkit-transform: rotateZ(96.189189deg);
+              transform: rotateZ(96.189189deg);
+    }
+    .number:nth-child(4) {
+      -webkit-transform: rotateZ(140.918919deg);
+              transform: rotateZ(140.918919deg);
+    }
+    .number:nth-child(5) {
+      -webkit-transform: rotateZ(186.648649deg);
+              transform: rotateZ(186.648649deg);
+    }
+    .number:nth-child(6) {
+      -webkit-transform: rotateZ(231.378378deg);
+              transform: rotateZ(231.378378deg);
+    }
+    .number:nth-child(7) {
+      -webkit-transform: rotateZ(276.108108deg);
+              transform: rotateZ(276.108108deg);
+    }
+    .number:nth-child(8) {
+      -webkit-transform: rotateZ(320.837838deg);
+              transform: rotateZ(320.837838deg);
+    }
+
+    .plate {
+      background-color: gray;
+      width: 220px;
+      height: 220px;
+      margin-top: 60px;
+      border-radius: 50%;
+      position: relative;
+      margin: auto;
+    }
+
+    .plate:after,
+    .plate:before {
+      display: block;
+      position: absolute;
+      border-radius: 50%;
+    }
+
+    .plate:after {
+      top: -6px;
+      right: -6px;
+      bottom: -6px;
+      left: -6px;
+    }
+
+    .plate:before {
+      background: rgba(0, 0, 0, 0.65);
+      border: 1px solid silver;
+      box-shadow: inset 0px 0px 0px 2px #808080;
+      z-index: 1;
+      bottom: 40px;
+      left: -6px;
+    }
+
+    .number {
+      width: 40px;
+      height: 75px;
+      display: inline-block;
+      position: absolute;
+      top: 0;
+      left: calc(50% - (32px/2));
+      -webkit-transform-origin: 50% 100%;
+              transform-origin: 50% 100%;
+      background-color: transparent;
+      border-left: 45px solid transparent;
+      border-right: 45px solid transparent;
+      border-top: 105px solid black;
+      box-sizing: border-box;
+      margin-left:-27px;
+      margin-top: 5px;
+    }
+
+    .pit {
+      color: #fff;
+      width: 60px;
+      display: inline-block;
+      font-size: 12px;
+      -webkit-transform: scale(1, 1.8);
+              transform: scale(1, 1.8);
+      position: absolute;
+      top: -70px;
+      left: -30px;
+      text-align: center;
+      transform: rotate(270deg);
+    }
+
+    .roulette{
+        background-image: url('/theme/img/xylp-bg-web.png');
+        background-repeat: no-repeat;
+        background-size: 650px 320px;
+        width:650px;
+        height: 320px;
+        border-radius: 10px;
+        margin-top: 20px;
+        border: 1px solid gold;
+        box-shadow: inset 0px 0px 0px 2px #b39700, 0px 0px 0px 2px #ffeb80;
+        position: relative;
+    }
+
+    .rouletteRing{
+        background-size: 238px 238px;
+        width: 238px;
+        height: 238px;
+        position: relative;
+        top: -73%;
+        right: -31.8%;
+        display: block;
+    }
+    
+    .promoPopUp{
+        background-image: url('/theme/img/popup-box.png');
+        display:none;
+        z-index: 100;
+        position: relative;
+        width: 250px;
+        height: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        color: white;
+        background-size: 250px 200px;
+        margin-top: 150px;
+        margin-bottom: auto;
+    }
+    
+    .pTitle{
+        display: inline-block;
+        font-size: 20px;
+        margin-bottom: auto;
+        color: #ffa462;
+        position: relative;
+        top: -60%;
+    }
+    
+    .pContent{
+        display: block;
+        top: -50%;
+        position: relative;
+    }
+	
+	/* req 1408 popup notice dialog */
+	.newDiagNotice {
+        display: none;
+        position: fixed;
+        z-index: 15;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+    }
+	
+    .nTablinks {
+        /*background: linear-gradient(to right, #bc88bc, #ca8abe, #d88bbe, #e68dbd, #f38fbb);*/
+        border-radius: 5px;
+        margin: 8px;
+        margin-left: 20px;
+    } 
+
+    .nTabcontent {
+        float: right;
+        width: 100%;
+        border-left: none;
+        height: 300px;
+        color: black;
+    } 
+    
+    .diagbox {
+		background-size: contain;
+		background-repeat: round;
+		border-radius: 25px;
+		padding: 25px;
+		width: 1020px;
+		height: 550px;
+		position: relative;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: auto;
+		margin-bottom: auto;
+		background-color: white;
+	}
+	
+	.nTabcontent .p {
+		margin: 10px 0px 10px 10px;
+	}
+	
+    .diagtext {
+        -webkit-background-clip: text;
+        /*-webkit-text-fill-color: white;*/
+        padding: 0px 10px;
+        text-align: left;
+        height: 50px;
+        width: 100%;
+    }	
+	/* end req 1408 popup notice dialog */
+</style>
+
+    
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="DỰ ÁN PHÚC LỢI - XÃ HỘI">
+<meta name="keywords" content="">
+<meta name="description" content="Quỹ từ thiện hỗ trợ cộng đồng Việt Nam">
+<meta property="og:title" content="DỰ ÁN PHÚC LỢI - XÃ HỘI">
+<meta property="og:description" content="Quỹ từ thiện hỗ trợ cộng đồng Việt Nam">
+<meta property="og:image" content="/theme/img/favicon.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="72">
+<meta property="og:image:height" content="72">
+<meta name="google-signin-client_id" content="">
+<link type="image/x-icon" rel="shortcut icon" href="/theme/img/favicon.ico" media="screen">
+<title>DỰ ÁN PHÚC LỢI - XÃ HỘI</title>
+<script src="/static/js/jquery.min.js"></script>
+<script>
+var isIndex = false;
+var isLogin = "";
+var isybapiSite = "2";
+var isybapiSiteLang = "vi";
+var siteLang = "zh";
+var currLang = "vi";
+if (currLang == 'null' || currLang == null) {
+	currLang = isybapiSiteLang; 
+}
+var socialLoginOpen = "0";
+if (typeof (socialLoginOpen) != undefined && socialLoginOpen != null && socialLoginOpen == 1) {
+    var head = document.getElementsByTagName('head')[0];
+    var js = document.createElement("script");
+
+    js.type = "text/javascript";
+    js.src = "/static/js/googleplatform.js";
+    head.appendChild(js);
+}
+</script>
+<script src="/static/js/i18n/js.cookie.js" charset="utf-8" type="text/javascript"></script>
+<script src="/static/js/i18n/jquery-lang.js" charset="utf-8" type="text/javascript"></script>
+<script src="/static/js/i18n/lang.js"></script>
+
+    <script>
+      var isIndex = true;
+    </script>
+    
+
+	
+	
+<style type="text/css">
+.select-pop {
+	width:360px;
+	height:333px;
+	position:fixed!important;/* FF IE7*/
+	left:50%;
+	top:50%;
+	z-index:10999;
+	margin:-166px 0 0 -180px;
+}
+.select-pop2 {
+	width:360px;
+	height:280px;
+	background:url(pop1.png);
+}
+a.select-pop2 {
+	display:block;
+	width:181px;
+	height:53px;
+	background:url(/static/img/pop2.png);
+	float:left;
+}
+a.select-pop2:hover {
+	background:url(/static/img/pop2-hover.png);
+}
+a.select-pop3 {
+	display:block;
+	width:179px;
+	height:53px;
+	background:url(/static/img/pop3.png);
+	float:left;
+}
+a.select-pop3:hover {
+	background:url(/static/img/pop3-hover.png);
+}
+.popBg,.popIframe {
+	background-color: #000;
+	display:none;
+	width: 100%;
+	height: 100%;
+	left:0;
+	top:0;/*FF IE7*/
+	filter:alpha(opacity=50);/*IE*/
+	opacity:0.5;/*FF*/
+	z-index:10998;
+	position:fixed!important;/*FF IE7*/
+	position:absolute;/*IE6*/
+	_top:       expression(eval(document.compatMode &&
+	document.compatMode=='CSS1Compat') ?
+	documentElement.scrollTop + (document.documentElement.clientHeight-this.offsetHeight)/2 :/*IE6*/
+	document.body.scrollTop + (document.body.clientHeight - this.clientHeight)/2);
+}
+.en_select-pop2 {
+	width:360px;
+	height:280px;
+	background:url(pop1.png);
+}
+a.en_select-pop2 {
+	display:block;
+	width:181px;
+	height:53px;
+	background:url(/static/img/en_pop2.png);
+	float:left;
+}
+a.en_select-pop2:hover {
+	background:url(/static/img/en_pop2-hover.png);
+}
+a.en_select-pop3 {
+	display:block;
+	width:179px;
+	height:53px;
+	background:url(/static/img/en_pop3.png);
+	float:left;
+}
+a.en_select-pop3:hover {
+	background:url(/static/img/en_pop3-hover.png);
+}
+</style>
+	
+
+<!-- 平板提示 -->
+<style type="text/css">.ui-dialog{*zoom:1;_float:left;position:relative;background-color:#fff;border:1px solid #999;border-radius:6px;outline:0;background-clip:padding-box;font-family:Helvetica,arial,sans-serif;font-size:14px;line-height:1.428571429;color:#333;opacity:0;-webkit-transform:scale(0);transform:scale(0);-webkit-transition:-webkit-transform .15s ease-in-out,opacity .15s ease-in-out;transition:transform .15s ease-in-out,opacity .15s ease-in-out}.ui-popup-show .ui-dialog{opacity:1;-webkit-transform:scale(1);transform:scale(1)}.ui-popup-focus .ui-dialog{box-shadow:0 0 8px rgba(0,0,0,.1)}.ui-popup-modal .ui-dialog{box-shadow:0 0 8px rgba(0,0,0,.1),0 0 256px hsla(0,0%,100%,.3)}.ui-dialog-grid{width:auto;margin:0;border:0 none;border-collapse:collapse;border-spacing:0;background:transparent}.ui-dialog-body,.ui-dialog-footer,.ui-dialog-header{padding:0;border:0 none;text-align:left;background:transparent}.ui-dialog-header{white-space:nowrap;border-bottom:1px solid #e5e5e5}.ui-dialog-close{position:relative;_position:absolute;float:right;top:-61px;right:13px;_height:26px;padding:0 4px;font-size:35px;font-weight:700;line-height:1;color:#fff;text-shadow:0 1px 0 #fff;filter:alpha(opacity=20);cursor:pointer;background:transparent;_background:#fff;border:0;-webkit-appearance:none}.ui-dialog-close:focus,.ui-dialog-close:hover{color:#000;text-decoration:none;cursor:pointer;outline:0;opacity:.5;filter:alpha(opacity=50)}.ui-dialog-title{margin:0;line-height:1.428571429;min-height:16.428571429px;padding:15px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-weight:700;cursor:default}.ui-dialog-body{padding:20px;text-align:center}.ui-dialog-content{display:inline-block;position:relative;vertical-align:middle;*zoom:1;*display:inline;text-align:left}.ui-dialog-footer{padding:0 20px 20px}.ui-dialog-statusbar{float:left;margin-right:20px;padding:6px 0;line-height:1.428571429;font-size:14px;color:#888;white-space:nowrap}.ui-dialog-statusbar label:hover{color:#333}.ui-dialog-statusbar .label,.ui-dialog-statusbar input{vertical-align:middle}.ui-dialog-button{float:right;white-space:nowrap}.ui-dialog-footer button,.ui-dialog-footer button+button{margin-bottom:0;margin-left:5px}.ui-dialog-footer button{width:auto;overflow:visible;display:inline-block;padding:6px 12px;font-size:14px;font-weight:400;line-height:1.428571429;text-align:center;white-space:nowrap;vertical-align:middle;cursor:pointer;background-image:none;border:1px solid transparent;border-radius:4px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none}.ui-dialog-footer button:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.ui-dialog-footer button:focus,.ui-dialog-footer button:hover{color:#333;text-decoration:none}.ui-dialog-footer button:active{outline:0;-webkit-box-shadow:inset 0 3px 5px rgba(0,0,0,.125);box-shadow:inset 0 3px 5px rgba(0,0,0,.125)}.ui-dialog-footer button[disabled]{pointer-events:none;cursor:not-allowed;opacity:.65;filter:alpha(opacity=65);-webkit-box-shadow:none;box-shadow:none}.ui-dialog-footer button{color:#333;background-color:#fff;border-color:#ccc}.ui-dialog-footer button:active,.ui-dialog-footer button:focus,.ui-dialog-footer button:hover{color:#333;background-color:#ebebeb;border-color:#adadad}.ui-dialog-footer button:active{background-image:none}.ui-dialog-footer button[disabled],.ui-dialog-footer button[disabled]:active,.ui-dialog-footer button[disabled]:focus,.ui-dialog-footer button[disabled]:hover{background-color:#fff;border-color:#ccc}.ui-dialog-footer button.ui-dialog-autofocus{color:#fff;background-color:#428bca;border-color:#357ebd}.ui-dialog-footer button.ui-dialog-autofocus:active,.ui-dialog-footer button.ui-dialog-autofocus:focus,.ui-dialog-footer button.ui-dialog-autofocus:hover{color:#fff;background-color:#3276b1;border-color:#285e8e}.ui-dialog-footer button.ui-dialog-autofocus:active{background-image:none}.ui-popup-top-left .ui-dialog,.ui-popup-top-right .ui-dialog,.ui-popup-top .ui-dialog{top:-8px}.ui-popup-bottom-left .ui-dialog,.ui-popup-bottom-right .ui-dialog,.ui-popup-bottom .ui-dialog{top:8px}.ui-popup-left-bottom .ui-dialog,.ui-popup-left-top .ui-dialog,.ui-popup-left .ui-dialog{left:-8px}.ui-popup-right-bottom .ui-dialog,.ui-popup-right-top .ui-dialog,.ui-popup-right .ui-dialog{left:8px}.ui-dialog-arrow-a,.ui-dialog-arrow-b{position:absolute;display:none;width:0;height:0;overflow:hidden;_color:#ff3fff;_filter:chroma(color=#FF3FFF);border:8px dashed transparent}.ui-popup-follow .ui-dialog-arrow-a,.ui-popup-follow .ui-dialog-arrow-b{display:block}.ui-popup-top-left .ui-dialog-arrow-a,.ui-popup-top-right .ui-dialog-arrow-a,.ui-popup-top .ui-dialog-arrow-a{bottom:-16px;border-top:8px solid #7c7c7c}.ui-popup-top-left .ui-dialog-arrow-b,.ui-popup-top-right .ui-dialog-arrow-b,.ui-popup-top .ui-dialog-arrow-b{bottom:-15px;border-top:8px solid #fff}.ui-popup-top-left .ui-dialog-arrow-a,.ui-popup-top-left .ui-dialog-arrow-b{left:15px}.ui-popup-top .ui-dialog-arrow-a,.ui-popup-top .ui-dialog-arrow-b{left:50%;margin-left:-8px}.ui-popup-top-right .ui-dialog-arrow-a,.ui-popup-top-right .ui-dialog-arrow-b{right:15px}.ui-popup-bottom-left .ui-dialog-arrow-a,.ui-popup-bottom-right .ui-dialog-arrow-a,.ui-popup-bottom .ui-dialog-arrow-a{top:-16px;border-bottom:8px solid #7c7c7c}.ui-popup-bottom-left .ui-dialog-arrow-b,.ui-popup-bottom-right .ui-dialog-arrow-b,.ui-popup-bottom .ui-dialog-arrow-b{top:-15px;border-bottom:8px solid #fff}.ui-popup-bottom-left .ui-dialog-arrow-a,.ui-popup-bottom-left .ui-dialog-arrow-b{left:15px}.ui-popup-bottom .ui-dialog-arrow-a,.ui-popup-bottom .ui-dialog-arrow-b{margin-left:-8px;left:50%}.ui-popup-bottom-right .ui-dialog-arrow-a,.ui-popup-bottom-right .ui-dialog-arrow-b{right:15px}.ui-popup-left-bottom .ui-dialog-arrow-a,.ui-popup-left-top .ui-dialog-arrow-a,.ui-popup-left .ui-dialog-arrow-a{right:-16px;border-left:8px solid #7c7c7c}.ui-popup-left-bottom .ui-dialog-arrow-b,.ui-popup-left-top .ui-dialog-arrow-b,.ui-popup-left .ui-dialog-arrow-b{right:-15px;border-left:8px solid #fff}.ui-popup-left-top .ui-dialog-arrow-a,.ui-popup-left-top .ui-dialog-arrow-b{top:15px}.ui-popup-left .ui-dialog-arrow-a,.ui-popup-left .ui-dialog-arrow-b{margin-top:-8px;top:50%}.ui-popup-left-bottom .ui-dialog-arrow-a,.ui-popup-left-bottom .ui-dialog-arrow-b{bottom:15px}.ui-popup-right-bottom .ui-dialog-arrow-a,.ui-popup-right-top .ui-dialog-arrow-a,.ui-popup-right .ui-dialog-arrow-a{left:-16px;border-right:8px solid #7c7c7c}.ui-popup-right-bottom .ui-dialog-arrow-b,.ui-popup-right-top .ui-dialog-arrow-b,.ui-popup-right .ui-dialog-arrow-b{left:-15px;border-right:8px solid #fff}.ui-popup-right-top .ui-dialog-arrow-a,.ui-popup-right-top .ui-dialog-arrow-b{top:15px}.ui-popup-right .ui-dialog-arrow-a,.ui-popup-right .ui-dialog-arrow-b{margin-top:-8px;top:50%}.ui-popup-right-bottom .ui-dialog-arrow-a,.ui-popup-right-bottom .ui-dialog-arrow-b{bottom:15px}@-webkit-keyframes ui-dialog-loading{0%{-webkit-transform:rotate(0deg)}to{-webkit-transform:rotate(1turn)}}@keyframes ui-dialog-loading{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.ui-dialog-loading{vertical-align:middle;position:relative;display:block;*zoom:1;*display:inline;overflow:hidden;width:32px;height:32px;top:50%;margin:-16px auto 0;font-size:0;text-indent:-999em;color:#666;width:100%\9;text-indent:0\9;line-height:32px\9;text-align:center\9;font-size:12px\9}.ui-dialog-loading:after{position:absolute;content:"";width:3px;height:3px;margin:14.5px 0 0 14.5px;border-radius:100%;box-shadow:0 -10px 0 1px #ccc,10px 0 #ccc,0 10px #ccc,-10px 0 #ccc,-7px -7px 0 .5px #ccc,7px -7px 0 1.5px #ccc,7px 7px #ccc,-7px 7px #ccc;-webkit-transform:rotate(1turn);-webkit-animation:ui-dialog-loading 1.5s infinite linear;transform:rotate(1turn);animation:ui-dialog-loading 1.5s infinite linear;display:none\9}</style></head><body ng-controller="cp98Ctrl" class="ng-scope"><div class=" aui_state_focus" style="position: absolute; left: -9999em; top: 409px; display: block; width: auto; z-index: 1987;"><div class="aui_outer"><table class="aui_border"><tbody><tr><td class="aui_nw"></td><td class="aui_n"></td><td class="aui_ne"></td></tr><tr><td class="aui_w"></td><td class="aui_c"><div class="aui_inner"><table class="aui_dialog"><tbody><tr><td colspan="2" class="aui_header"><div class="aui_titleBar"><div class="aui_title" style="cursor: move; display: block;">消息</div><a class="aui_close" href="javascript:/*artDialog*/;" style="display: block;">×</a></div></td></tr><tr><td class="aui_icon" style="display: none;"><div class="aui_iconBg" style="background: none;"></div></td><td class="aui_main" style="width: auto; height: auto;"><div class="aui_content" style="padding: 20px 25px;"><div class="aui_loading"><span>loading..</span></div></div></td></tr><tr><td colspan="2" class="aui_footer"><div class="aui_buttons" style="display: none;"></div></td></tr></tbody></table></div></td><td class="aui_e"></td></tr><tr><td class="aui_sw"></td><td class="aui_s"></td><td class="aui_se" style="cursor: se-resize;"></td></tr></tbody></table></div></div><div id="popDiv" class="select-pop" style="display:none;">
+    	<div class="select-pop1"><img src="/static/img/sharethumbs.png"></div>
+        <div>
+        	<a href="javascript:padJumpToPage('mobile');" class="select-pop2"></a>
+            <a href="javascript:padJumpToPage('pc');" class="select-pop3"></a>
+    	</div>
+</div>
+<div id="en_popDiv" class="select-pop" style="display:none;">
+    	<div class="select-pop1"><img src="/static/img/en_sharethumbs.png"></div>
+        <div>
+        	<a href="javascript:padJumpToPage('mobile');" class="en_select-pop2"></a>
+            <a href="javascript:padJumpToPage('pc');" class="en_select-pop3"></a>
+    	</div>
+</div>
+<div id="popBg" class="popBg" style="display:none;"></div>
+<iframe id="popIframe" class="popIframe" frameborder="0"></iframe>
+<script type="text/javascript">
+	(function(){
+		var lang="";
+		$.ajax({
+			url: "/page-lang",
+			type:"get",
+			async:false
+		}).success(function (data) {
+	    	console.log(data);
+	    	lang = data.lang;
+	    });
+		var ua = navigator.userAgent  || " "; 
+	    var pageType="";
+	    if ( (ua.indexOf("iPad") > 0	//ipad
+	    	|| (ua.indexOf("Android") > 0 && ua.indexOf("Mobile") == -1) //android pad
+	    	) && !pageType
+	    	){
+	    	if(lang == "zh"){
+	    		$("#popDiv").show();
+	    	}else{
+	    		$("#en_popDiv").show();
+	    	}
+	    	$("#popIframe").show();
+	      	$("#popBg").show();
+	    } 
+	})();
+	function padJumpToPage(type){
+		//$.cookie('pageType', type);
+		top.window.location.href = "/page-change?type=" + type;
+	}
+	
+	//禁止iframe
+	if (window!=top)
+		top.location.href = window.location.href;
+
+</script>
+	
+<script type="text/javascript">
+var App={};
+App.ctx="";
+var gaiatoken="";
+var socialLoginOpen = "0";
+var facebookToken = "";
+var facebookPixelId = "";
+var loginUserName = "";
+var loginEmail = "";
+</script>
+
+<!-- Bootstrap core CSS -->
+    <link href="/theme/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="/theme/css/style.css" rel="stylesheet">
+   	<link href="/static/css/bootstrap-datetimepicker.min.css" type="text/css" rel="stylesheet">
+   	<link href="/static/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="dist/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="/theme/dist/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="/theme/dist/js/html5shiv.min.js"></script>
+  <script src="/theme/dist/js/respond.min.js"></script>
+<![endif]-->
+
+
+
+<script src="/static/dist/js/bootstrap.min.js"></script>
+<script src="/static/js/jquery.validate.min.js"></script>
+<script src="/static/js/bootstrap-datetimepicker.min.js" type="text/javascript"></script>
+<script src="/static/js/bootstrap-datetimepicker.zh-CN.js" type="text/javascript"></script>
+<script src="/static/js/bootstrap-dropdown.js" type="text/javascript"></script>
+<script src="/static/js/bootstrap-paginator.js" type="text/javascript"></script>
+<script src="/static/js/bootstrap-paginatorForm.js" type="text/javascript"></script>
+<script src="/static/js/bootbox.js" type="text/javascript"></script>
+<script src="/static/js/jquery-ui-1.10.0.custom.min.js" type="text/javascript"></script>
+<script src="/static/js/moment.min.js" type="text/javascript"></script>
+<script src="/static/js/qrcanvas/QRCode.js" type="text/javascript"></script>
+
+<script src="/static/js/artDialog/artDialog7.js" type="text/javascript"></script>
+<script src="/static/js/notice-display.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/static/js/angular.min.js"></script>
+<script src="/theme/js/index.js" type="text/javascript"></script>
+<script src="/static/js/i18n/js.cookie.js" charset="utf-8" type="text/javascript"></script>
+<script src="/static/js/translate/angular-translate.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+Date.prototype.Format = function (fmt) {
+  var o = {
+      "M+": this.getMonth() + 1, //月份 
+      "d+": this.getDate(), //日 
+      "h+": this.getHours(), //小时 
+      "m+": this.getMinutes(), //分 
+      "s+": this.getSeconds(), //秒 
+      "q+": Math.floor((this.getMonth() + 3) / 3), //季度 
+      "S": this.getMilliseconds() //毫秒 
+  };
+  if (/(y+)/.test(fmt)) fmt = fmt.replace(RegExp.$1, (this.getFullYear() + "").substr(4 - RegExp.$1.length));
+  for (var k in o)
+  if (new RegExp("(" + k + ")").test(fmt)) fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k]).length)));
+  return fmt;
+}
+</script>
+
+
+
+
+<div class="warp " style="display: block;">
+	
+
+
+
+
+
+
+
+<style type="text/css">
+.dropdown-menu-arrow {
+    top: -25px;
+    left: 83%;
+    width: 0;
+    height: 0;
+    position: relative;
+}
+
+.dropdown-menu-arrow:before,
+.dropdown-menu-arrow:after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 0;
+    height: 0;
+    border-width: 7px 8px;
+    border-style: solid;
+    border-color: transparent;
+    z-index: 1001;
+}
+
+.dropdown-menu-arrow:after {
+    bottom: -18px;
+    right: -8px;
+    border-bottom-color: #fff;
+}
+
+.dropdown-menu-arrow:before {
+    bottom: -17px;
+    right: -8px;
+    border-bottom-color: rgba(0, 0, 0, .15);
+}
+
+.dropdown-menu-arrow1 {
+    top: -25px;
+    left: 35%;
+    width: 0;
+    height: 0;
+    position: relative;
+}
+
+.dropdown-menu-arrow1:before,
+.dropdown-menu-arrow1:after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 0;
+    height: 0;
+    border-width: 7px 8px;
+    border-style: solid;
+    border-color: transparent;
+    z-index: 1001;
+}
+
+.dropdown-menu-arrow1:after {
+    bottom: -18px;
+    right: -4px;
+    border-bottom-color: #fff;
+}
+
+.dropdown-menu-arrow1:before {
+    bottom: -17px;
+    right: -4px;
+    border-bottom-color: rgba(0, 0, 0, .15);
+}
+dl,
+ol,
+ul.one {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    list-style: none;
+}
+
+.dropdown-menu2.show {
+    display: block;
+    width: 265px;
+}
+
+ul.one>a.three>li.route>span {
+    color: red;
+    text-align: right;
+    float: right;
+}
+
+ul.one>li.two>span {
+    color: red;
+    text-align: right;
+    float: right;
+    width: max-content;
+}
+
+li.two {
+    padding: 13px 15px 13px 15px;
+    border-bottom: 1px solid #e2e2e2;
+    font-size: 14px;
+}
+
+li.route {
+    padding: 13px 15px 13px 15px;
+    border-bottom: 1px solid #e2e2e2;
+    font-size: 14px;
+}
+
+li.route.last-item {
+    border-bottom: none;
+}
+
+li.route:hover {
+    color: white;
+    background-color: #e23a3a;
+}
+
+li.route:hover>span {
+    color: white;
+}
+ul.one>a.three>li.route:hover>span{
+    color: white;
+}
+
+.dropdown-menu2 {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: right;
+    min-width: 10rem;
+    padding: .5rem 0 0 0;
+    margin: .125rem 0 0 880px;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, .15);
+    border-radius: .25rem;
+}
+
+a.three {
+    text-decoration: none;
+    color: black;
+}
+
+a.three:hover {
+    text-decoration: none;
+    color: transparent;
+}
+
+/* Rotate Icon */
+.rotate {
+    -moz-transition: all .5s linear;
+    -webkit-transition: all .5s linear;
+    transition: all .5s linear;
+}
+
+.rotate.down {
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+/* Wifi Signal */
+span.full {
+    background: url(img/full.png);
+    color: transparent;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px 13px;
+}
+
+li.route:hover span.full {
+    background: url(img/fullwhite.png);
+    color: transparent;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px 13px;
+}
+
+
+span.threeoverfour {
+    background: url(img/3over4.png);
+    color: transparent;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px 13px;
+}
+
+li.route:hover span.threeoverfour {
+    background: url(img/3over4white.png);
+    color: transparent;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px 13px;
+}
+
+span.half {
+    background: url(img/half.png);
+    color: transparent;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px 13px;
+}
+
+li.route:hover span.half {
+    background: url(img/halfwhite.png);
+    color: transparent;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px 13px;
+}
+
+span.onefourth {
+    background: url(img/1over4.png);
+    color: transparent;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px 13px;
+}
+
+li.route:hover span.onefourth {
+    background: url(img/1over4white.png);
+    color: transparent;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px 13px;
+}
+
+li.selected {
+	color: white!important;
+    background-color: #ff4646!important;
+}
+
+li.selected span {
+	color: white!important;
+}
+.img_en {
+	background:url(/static/img/en_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+.img_zh {
+	background:url(/static/img/zh_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+.img_vi {
+	background:url(/static/img/vn_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+.img_th {
+	background:url(/static/img/th_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+.img_in {
+	background:url(/static/img/in_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+.img_id {
+	background:url(/static/img/id_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+
+.img_pt {
+	background:url(/static/img/pt_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+    
+.lang-dropbtn {
+  background-color: Transparent;
+  border: none;
+  cursor: pointer;
+  outline:none;
+}
+
+.lang-dropdown-content {
+  background-color: #ffffff;
+  display: none;
+  position: absolute;
+  right: 0;
+  min-width: 65px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.lang-dropdown-content a {
+  display: block;
+}
+
+.show {
+    display: block;
+}
+</style>
+
+<div class="topbar" style="padding: 0 10px;background: #f6f6f6;border-bottom: none;">
+	<div class="container">
+        <div class="pull-right">
+        	<span lang="vi">Hiện tại là</span>: <span id="clock">2024-12-20 22:11:24</span> 
+        	
+            |
+      	      <span id="langSelector"><button onclick="showDropDown()" class="lang-dropbtn" id="langSelector"><img class="img_vi"> VN</button></span>
+              <div id="langChanger" class="lang-dropdown-content">
+              	<a href="#" onclick="changeLanguage('zh',''); return false;" id="lang_zh" style="display:none;"><img class="img_zh"> 中文</a>
+              	<a href="#" onclick="changeLanguage('en',''); return false;" id="lang_en" style="display:none;"><img class="img_en"> EN</a>
+              	<a href="#" onclick="changeLanguage('vi',''); return false;" id="lang_vi" style="display:none;"><img class="img_vi"> VN</a>
+              	<a href="#" onclick="changeLanguage('th',''); return false;" id="lang_th" style="display:none;"><img class="img_th"> TH</a>
+              	<a href="#" onclick="changeLanguage('in',''); return false;" id="lang_in" style="display:none;"><img class="img_in"> IN</a>
+              	<a href="#" onclick="changeLanguage('id',''); return false;" id="lang_id" style="display:none;"><img class="img_id"> ID</a>
+              	<a href="#" onclick="changeLanguage('pt',''); return false;" id="lang_pt" style="display:none;"><img class="img_pt"> PT</a>
+              </div>
+            			
+        </div>
+        
+         
+	</div>
+</div>
+<script src="/static/js/member/time_zone.js" type="text/javascript"></script>
+<script type="text/javascript">
+ var lineNum = [ "一", "二", "三", "四", "五", "六", "七", "八", "九","十","十一","十二","十三","十四","十五"];
+ var protocol = location.protocol.indexOf("https") == 0?"https://":"http://";
+ var timeZone = '-1';
+ 
+ function testPing(url,callback){
+	var ping,startTime = new Date().getTime();
+	var sUrl = getDomain(url);
+    try{
+    	$.ajax({
+            url: protocol + sUrl + '/beat?t='+startTime, 
+            type: 'GET',
+            dataType: 'text',
+            timeout: 15000
+        }).success(function(res){
+        	if(res == 'ok'){
+        		ping = (new Date().getTime()) - startTime;
+        		callback(sUrl,ping);
+        	}else
+        		callback(sUrl,false);
+        }).error(function(){
+        	callback(sUrl,false);
+        });
+    }catch(err){
+    	callback(sUrl,false);
+    }
+}//method testPing
+function changeLines(url){
+	window.location.href = protocol + url;
+}
+
+function showLines(){
+	var $ul = $("#linesul");
+	$ul.html("");
+	var inx = 0;
+	var curUrl = window.location.host;
+	var pings = JSON.parse(localStorage.getItem("Pings"));
+	var speedUrl = false;
+	var speedTime = 9e9;
+	for (var item in pings) {
+// 		if (decodeURI(item) == curUrl) continue;
+		var str = '<a class="three" href="#" onclick="changeLines(\''+decodeURI(item)+'\');" style="padding:0px"><li class="route last-item three' + (decodeURI(item) == curUrl ? ' selected' : '') + '" style="font-size:14px">路线入口'+lineNum[inx]+'<span class="half">&nbsp;</span><span id="speed-'+item+'" style="display:none;">(最快)</span>'+(!pings[item]?'<span>故障</span>':'<span>'+(pings[item] / 1000).toFixed(2)+'秒</span>')+'</li></a>';
+		$ul.append(str);
+		if(pings[item] && (pings[item] < speedTime)){
+			speedTime = pings[item];
+			speedUrl = item;
+		}
+		inx++;
+	}
+	if(speedUrl){
+		console.log(protocol+speedUrl+"/wap/domainlog?speed="+speedTime+"&speedUrl="+speedUrl);
+		$("[id='speed-"+speedUrl+"']").show();
+		$.ajax({url:protocol+speedUrl+"/wap/domainlog?speed="+speedTime+"&speedUrl="+speedUrl,dataType:"text",success:function(data,status1){}});
+	} 
+		
+}
+ (function(){
+	 var pings = JSON.parse(localStorage.getItem("Pings"));
+	 var curUrl = window.location.host;
+	 var pingsTime = localStorage.getItem("PingsTime");
+	 var curTime = new Date().getTime();
+	 var currentUser = "";
+	 var lastLoginTime = +localStorage.getItem(currentUser + "lastLoginTime");
+	 
+	 $.ajax({
+			url:"/wap/member-center/my-info-data?gaiatoken=",
+			type:"post",
+			async:false,
+			dataType:"json",
+			data:$("#loginForm").serialize()
+		}).done(function(da){			
+			if(da.loginInfo!="" && da.loginInfo != null)
+				lastLoginTime = da.loginInfo.loginTime;
+		}); 	 
+	 
+	 var lastLoginAddress = localStorage.getItem(currentUser + "lastLoginAddress");
+	 var lastLoginIP = localStorage.getItem(currentUser + "lastLoginIP");
+	 var dateConvert = convertByTimeZone(new Date(lastLoginTime)).toLocaleString().replaceAll("/","-");
+	 if(currentUser == "" || currentUser == null){
+		 localStorage.setItem("currentUser", currentUser);
+	 }
+	 if(lastLoginTime != "" && lastLoginTime != null){
+		 var datePattern = dateConvert.split(",");
+		 var date = datePattern[0].split("-");
+		 $('#lastLoginTime').html(date[2] + "-" + date[1] + "-" + date[0] + " " + datePattern[1]);
+	 }else{
+		 if (currentUser) {
+			$.ajax({
+				url:"/wap/member-center/my-info-data?gaiatoken=",
+				type:"post",
+				async:false,
+				dataType:"json",
+				data:$("#loginForm").serialize()
+			}).done(function(da){
+				if(da.loginInfo!="" && da.loginInfo != null)
+				localStorage.setItem(currentUser + "lastLoginTime", da.loginInfo.loginTime);
+			});
+			var lastLoginTime = +localStorage.getItem(currentUser + "lastLoginTime");
+			var dateConvert = new Date(lastLoginTime).toLocaleString().replaceAll("/","-").replace(",", "");
+			var datePattern = dateConvert.split(" ");
+			var date = datePattern[0].split("-");
+			$('#lastLoginTime').html(date[2] + "-" + date[1] + "-" + date[0] + " " + datePattern[1]);
+		 }
+	 }
+	 if(lastLoginAddress != "" && lastLoginAddress != null){
+		 $('#lastLoginAddress').html(lastLoginAddress);
+	 }else{
+		 if (currentUser) {		 
+			$.ajax({
+				url:"/wap/member-center/my-info-data?gaiatoken=",
+				type:"post",
+				async:false,
+				dataType:"json",
+				data:$("#loginForm").serialize()
+			}).done(function(da){
+				if(da.loginInfo!="" && da.loginInfo != null)
+				localStorage.setItem(currentUser + "lastLoginAddress", da.loginInfo.address);
+			});
+			var lastLoginAddress = localStorage.getItem(currentUser + "lastLoginAddress");
+			$('#lastLoginAddress').html(lastLoginAddress);
+		 }	
+	 }
+	 if(lastLoginIP != "" && lastLoginIP != null){
+		 $('#lastLoginIP').html(lastLoginIP);
+	 }else{
+		 if (currentUser) {
+			$.ajax({
+				url:"/wap/member-center/my-info-data?gaiatoken=",
+				type:"post",
+				async:false,
+				dataType:"json",
+				data:$("#loginForm").serialize()
+			}).done(function(da){
+				if(da.loginInfo!="" && da.loginInfo != null)
+				localStorage.setItem(currentUser + "lastLoginIP", da.loginInfo.loginIp);
+			});
+			var lastLoginIP = localStorage.getItem(currentUser + "lastLoginIP");
+			$('#lastLoginIP').html(lastLoginIP);
+		}
+ 	 }
+	 if(!pings || curTime - pingsTime > 1000 * 60 * 5){
+		 localStorage.setItem("PingsTime",curTime);
+		 $.ajax({url:"/wap/lines?https="+(protocol.indexOf("https")==0),dataType: "text",success:function(domainlist,status1){
+ 			var res = "";
+ 			var dms = domainlist.split(",");
+ 			$.each(dms,function(i,dm){
+ 			    if(!dm) return;
+ 			    var dme = dm.split("-");
+ 			    if(dme[1]) {
+ 			    	res += dme[3] + ",";
+ 			    }
+ 			});
+ 			if(res && res.lastIndexOf(",") == res.length - 1) res = res.substring(0,res.length - 1)
+ 	        window['\x6c\x6f\x63\x61\x6c\x53\x74\x6f\x72\x61\x67\x65']['\x73\x65\x74\x49\x74\x65\x6d']('\x64\x6d\x73',res);
+ 			pings = new Object();
+ 			var dmstr = res;
+			var dms = [];
+			dms = dmstr.split(",");
+			var checkNum = dms.length;
+			var $ul = $("#linesul");
+			$ul.html("");
+			if(!res){
+				var str = '<li class="two" style="margin-left:10px;font-size:14px">'+lang.translate("暂无可切换线路")+'</li>';
+				$ul.append(str);
+				return;
+			}
+			var inx = 0;
+			for(var i=0;i<dms.length;i++){
+				var str = '<a class="three" href="#" onclick="changeLines(\''+decodeURI(dms[i])+'\');" style="padding:0px"><li class="route last-item three' + (decodeURI(dms[i]) == curUrl ? ' selected' : '') + '" style="margin-left:10px;font-size:14px">路线入口'+lineNum[inx++]+'<span class="half">&nbsp;</span><span id="speed-'+dms[i]+'" style="display:none;">(最快)</span><span id="line-'+dms[i]+'">检测中</span></li></a>';
+				$ul.append(str);
+				testPing(dms[i],function(url,ping){
+					console.log("线路检测   ["+url+"]的状态是["+ping+"] false是故障 数字是延迟单位ms");
+					checkNum--;
+					pings[url] = ping;
+					$("[id='line-"+url+"']").html(!ping?'故障':(ping / 1000).toFixed(2)+'秒');
+					if(checkNum == 0){
+						localStorage.setItem("Pings",JSON.stringify(pings));
+						var speedUrl = false;
+						var speedTime = 9e9;
+						for (var item in pings) {
+							if(decodeURI(item) == curUrl) continue;
+							if(pings[item] && (pings[item] < speedTime)){
+								speedTime = pings[item]
+								speedUrl = item;
+							}
+						}
+						if(speedUrl){
+							console.log(protocol+speedUrl+"/wap/domainlog?speed="+speedTime+"&speedUrl="+speedUrl);
+							$("[id='speed-"+speedUrl+"']").show();
+							$.ajax({url:protocol+speedUrl+"/wap/domainlog?speed="+speedTime+"&speedUrl="+speedUrl,dataType:"text",success:function(data,status1){}});
+						}
+					}
+				});
+			}//for
+ 		}});
+	 }else
+		 showLines();
+ })();
+function show(){
+	$("#droplist").show();
+};
+function hide(){
+	$("#droplist").hide();
+};
+function show1(){
+	$("#droplist1").show();
+};
+function hide1(){
+	$("#droplist1").hide();
+};
+function getLocalTime(i) {
+    //参数i为时区值数字，比如北京为东八区则输进8,西5输入-5
+    if (typeof i !== 'number') return;
+    var d = new Date();
+    //得到1970年一月一日到现在的秒数
+    var len = d.getTime();
+    //本地时间与GMT时间的时间偏移差
+    var offset = d.getTimezoneOffset() * 60000;
+    //得到现在的格林尼治时间
+    var utcTime = len + offset;
+    return new Date(utcTime + 3600000 * i);
+}
+function getLocalTime() {
+    return new Date();
+}
+(function(){
+//	dljm();
+//	dljm2();
+	setInterval(function(){
+		$("#clock").html(convertByTimeZone().Format("yyyy-MM-dd hh:mm:ss"));	
+	},1000);
+})();
+function dljm(){
+	$.ajax({
+		url:'/dljm',
+		method:"post"
+	}).done(function(data){
+		if(data!=null && data!=""){
+			$(".dljm").find("a").attr("href","/home-page?docId="+data.id);
+			$(".dljm").show();
+		}
+	});
+}
+function dljm2(){
+	$.ajax({
+		url:'/dljm2',
+		method:"post"
+	}).done(function(data){
+		if(data!=null && data!=""){
+			$(".dljm2").find("a").attr("href","/common-page?docId="+data.id);
+			$(".dljm2").show();
+		}
+	});
+}
+function dljm3(){
+	$.ajax({
+		url:'/dljm3',
+		method:"post"
+	}).done(function(data){
+		if(data!=null && data!=""){
+			$(".dljm3").find("a").attr("href","/common-game-page?docId="+data.id);
+			$(".dljm3").show();
+		}
+	});
+}
+function dljm4(){
+	$.ajax({
+		url:'/dljm4',
+		method:"post"
+	}).done(function(data){
+		if(data!=null && data!=""){
+			$(".dljm4").find("a").attr("href","/common-issue-page?docId="+data.id);
+			$(".dljm4").show();
+		}
+	});
+}
+function addFavorite(sURL, sTitle) {
+	try	{
+		window.external.addFavorite(sURL, sTitle);
+	} catch (e) {
+		try	{
+			window.sidebar.addPanel(sTitle, sURL, "");
+		} catch (e) {
+			alert(lang.translate("加入收藏失败，请使用Ctrl+D进行添加"));
+		}
+	}
+}
+function setHome(obj,vrl){
+	try {
+		obj.style.behavior='url(#default#homepage)';
+		obj.setHomePage(vrl);
+		alert(lang.translate("设为首页成功！"));
+	} catch(e){
+		if(window.netscape) {
+			try {
+				netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+			} catch (e) {
+				alert("此操作被浏览器拒绝"+"！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]的值设置为'true',双击即可。");
+			}
+			var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+			prefs.setCharPref('browser.startup.homepage',vrl);
+		} else {
+			alert(lang.translate("您的浏览器不支持，请按照下面步骤操作：1.打开浏览器设置。2.点击设置网页。")+"3.输入："+vrl+"点击确定。");
+		}
+	}
+}
+function scrollToBottom(){
+	window.scrollTo(0,document.body.scrollHeight);
+}
+     
+function showDropDown() {
+    document.getElementById("langChanger").classList.toggle("show");
+	var storage_lang = null;
+	if(!window.localStorage){
+	  console.log("浏览器不支持localstorage");
+	}else{
+		storage_lang=window.localStorage;
+	}
+	if (storage_lang) {
+		var langlist = storage_lang.getItem("web_languages");
+		if (langlist) {
+    		var lg = storage_lang.getItem("web_languages").split(",");
+    		$.each(lg,function(i,lg){
+    			var lang_lg = 'lang_'+lg;
+	   			if (document.getElementById(lang_lg)) {
+					document.getElementById(lang_lg).style="display:block;";
+				}	    			
+    			if(!lg) return;
+    		});			
+		}
+	}	
+}
+     
+window.onclick = function(event) {
+  if (!event.target.matches('.lang-dropbtn')) {
+	var dropdowns = document.getElementsByClassName("lang-dropdown-content");
+	var i;
+	for (i = 0; i < dropdowns.length; i++) {
+	  var openDropdown = dropdowns[i];
+	  if (openDropdown.classList.contains('show')) {
+		openDropdown.classList.remove('show');
+	  }
+	}
+  }
+}
+function getDomain(domain) {
+	var result = domain;
+	var domains = domain.split(".");
+	//console.log('getDomain:'+result+':'+domains.length+':');
+	if (domains.length==2) {
+		result = "www."+domain;
+	}
+	return result;
+}
+</script>
+    
+
+
+
+
+
+
+<style type="text/css">
+.navi {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.navi > li {
+  position: relative;
+  display: block;
+  padding: 20px 0px;
+}
+.navi > li > a {
+  position: relative;
+  display: block;
+  padding: 5px 5px;
+}
+.navi > li > a:hover,
+.navi > li > a:focus {
+  text-decoration: none;
+}
+.img_en {
+	background:url(/static/img/en_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+.img_zh {
+	background:url(/static/img/zh_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+.img_vi {
+	background:url(/static/img/vn_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+.img_th {
+	background:url(/static/img/th_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+.img_in {
+	background:url(/static/img/in_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+.img_id {
+	background:url(/static/img/id_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+
+.img_pt {
+	background:url(/static/img/pt_icon.png) center no-repeat;
+	height:13px;
+	width:20px;
+}
+    
+.lang-dropbtn {
+  background-color: Transparent;
+  border: none;
+  cursor: pointer;
+  outline:none;
+}
+
+.lang-dropdown-content {
+  background-color: #333333;
+  display: none;
+  position: absolute;
+  right: 8px;
+  min-width: 65px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 99;
+  top: 60px;
+  line-height: 30px;
+  padding-left: 5px;
+}
+
+.lang-dropdown-content a {
+  display: block;
+  color: white;
+}
+
+.show {
+    display: block;
+}
+.lang-btn {
+	line-height: 30px;
+	color: white;
+	border-radius: 4px;
+	margin: 20px 3px 0px;
+	padding: 0px 10px;
+}
+.btn-margin {
+	margin: 0px 3px;
+}
+
+::placeholder {
+  color: #fff;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+ color: #fff;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+ color: #fff;
+}
+
+</style> 
+<link rel="stylesheet" href="https://hcmphattrien.com/static/js/artDialog/skins/opera.css?4.1.7"><script src="/static/js/artDialog/artDialog.js?skin=opera" type="text/javascript"></script>
+<div class="header">
+	<div class="container" style="display:flex;padding: 0px 100px;width:100%">
+		<div style="width: 50%">
+		<h1 class="logo" id="logo" style="background: url(../uploads/site_logo/VN00051/3a7e5759-cf2f-45a9-bcff-c69d5a8346ee.png) no-repeat"><a href="/index?gaiatoken="></a></h1>
+		</div>
+		<div style="width: 50%;display: flex;justify-content: right;align-items:center;">
+			
+				<form class="form-inline header-login ng-pristine ng-valid" id="loginForm">
+				
+				  <div class="form-group">
+					  <input type="text" class="form-control" lang="vi" placeholder="Tài khoản" onkeypress="keypress(event,'loginPwd');" name="username" value="" required="" autofocus="" style="padding-left:10px; background: #fff;">
+				  </div>
+				  <div class="form-group">
+				    <img id="togglePassword" src="/theme/img/eye-close.png" class="icon-eye" style="right: 50px;">
+					  <input id="loginPwd" type="password" class="form-control" lang="vi" placeholder="mật khẩu" onkeypress="keypress(event,'rmNum');" value="" name="password" autocomplete="off" required="" style="padding-left:10px; background: #fff;">
+					  <a style="position:absolute;" href="javascript:openForgetPassword('/member-center/my-account/form-forget-psd')" class="tip-forget openNewWindow" data-shorttxt="？" title="Bấm để lấy lại mật khẩu" data-longtxt="忘记密码？" lang="vi"><span lang="vi">Quên?</span></a>
+				  </div>
+				  <div class="form-group validCode" id="validCodeDiv" style="display:none;">
+					  <input type="text" lang="vi" class="form-control" id="rmNum" onkeypress="keypress(event,'');" onfocus="this.value==''?changeImg():''" name="validCode" placeholder="kiểm chứng" max="6" min="6" maxlength="6" required="" style="ime-mode: disabled;padding-left:10px; background: #fff;">
+					  <img id="securityCodeimg" src="/theme/img/validCode.png" onclick="changeImg(this);" style="cursor: pointer; height: 20px;margin-top: 3px; width: 60px;" class="index-code">
+					  <input type="hidden" name="isNeedValidCode" value="false">
+				  </div>
+				  <button type="button" onclick="login()" class="btn btn-blue"><span lang="vi">Đăng nhập</span></button>
+				  <a href="/memreg/register" class="btn btn-dark-blue"><span lang="vi">Đăng ký</span></a>
+				  <a href="#" onclick="dLogin()" class="btn btn-blue"><span lang="vi">Thử miễn phí</span></a>
+				
+				
+				 
+				</form>
+			
+		
+		
+		<div class="clearfix"></div>
+		</div>
+	</div>
+<script type="text/javascript">
+var defaultShortForm = 0;
+var currencySymbol = "₫";
+var storage_lang = null;
+if(!window.localStorage){
+  console.log("浏览器不支持localstorage");
+}else{
+	storage_lang=window.localStorage;
+}
+function intToStr(number,shortform) {
+	number = parseFloat((Math.round(number * 100) / 100));
+	/*
+	if ( number.toString().length > 3 && shortform == 1) {
+		var abs = Math.abs( number );
+		if ( abs >= Math.pow( 10, 15) ) {
+			// quadrillion
+			number = parseFloat(( number / Math.pow( 10, 15 ) ).toFixed( 2 )) + "Q";				
+		} else if ( abs < Math.pow( 10, 15 ) && abs >= Math.pow( 10, 12 ) ) {
+			// trillion
+			number = parseFloat(( number / Math.pow( 10, 12 ) ).toFixed( 2 )) + "T";
+		} else if ( abs < Math.pow( 10, 12 ) && abs >= Math.pow( 10, 9 ) ) {
+			// billion
+			number = parseFloat(( number / Math.pow( 10, 9 ) ).toFixed( 2 )) + "B";
+		} else if ( abs < Math.pow( 10, 9 ) && abs >= Math.pow( 10, 6 ) ) {
+			// million
+			number = parseFloat(( number / Math.pow( 10, 6 ) ).toFixed( 2 )) + "M";
+		} else if ( abs < Math.pow( 10, 6 ) && abs >= Math.pow( 10, 3 ) ) {
+			// thousand
+			number = parseFloat(( number / Math.pow( 10, 3 ) ).toFixed( 2 )) + "K";
+		}
+		return number;
+	} else {
+	*/	
+		number = (Math.round(number * 100) / 100).toFixed( 2 );
+	if(currencySymbol == "R$"){
+		var part = number.toString().split(".");
+		part[0] = part[0].replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+		return part.join(",");
+	}
+		var parts = number.toString().split(".");
+		parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+		return parts.join(".");
+	//}
+}
+
+$("#checkRecord").click(function(){
+	$.ajax({
+		url:'/getPoundageConfigFromCashUserGroup?gaiatoken='+gaiatoken,
+		dataType:"json",
+		method:"post"
+	}).done(function(data){
+		if(data.status){
+			//Get 取款稽核 选项, if is 2 -> 有效投注 为 取款稽核打码量，跳转去提现Page
+			if (data.poundageConfig == 2) {
+				parent.location.href = "/member-center/jump?path=/member-center/bank-trade/draw-record&gaiatoken=";
+			} else {
+				window.open("/member-center/bank-trade/check?gaiatoken=", 640, 320);//
+				return false;
+			}
+		}
+	});
+});
+function changeImg(){
+	$("#securityCodeimg").prop("src","/valid-code?t="+new Date().getTime());
+}
+function changepassword(){
+	$.ajax({
+		url:"/changepassword?gaiatoken=",
+		type:"post",
+		async:false,
+		dataType:"json",
+		data:$("#changepasswordForm").serialize()
+	}).done(function(da){
+		if(da.success){//安全重置成功		
+			if(!da.isBound) {
+				bootbox.confirm({size: "small",
+					message: da.msg+"！"+lang.translate("马上去完善取款信息")+"？",
+					callback: function(result){
+    					if(result)
+    						location.href="/member-center/jump?path=/member-center/my-account/bank-manage?gaiatoken=";
+   						else
+   		    				location.href = '/?gaiatoken=';
+					}
+				});
+			}else{
+				location.href = '/?gaiatoken=';
+			}
+		}else{//安全重置失败
+			$("#rmNum").val("");
+			$("#loginPwd").val("").focus();
+			alert(da.msg);
+
+			//$("#errorMsg").html(da.msg).slideDown("fast");
+		}
+	});
+}
+function login(){
+	//$("#errorMsg").slideUp("fast",function(){
+		$.ajax({
+			url:"/login",
+			type:"post",
+			async:false,
+			dataType:"json",
+			data:$("#loginForm").serialize()
+		}).done(function(da){
+			//console.log('login status:'+da.status+':'+da.isMigrateReset);
+			//console.log('reset to default lang1:'+lang.defaultLang);
+			//window.lang.change(lang.defaultLang);			
+			if(da.status){//登录成功
+				//window.lang.change(lang.defaultLang);
+				if(da.isMigrateReset) {
+					bootbox.confirm({size: "small",
+						message: lang.translate("亲爱的用户，为了保障您的安全，请先进行安全认证。"), 
+						callback: function(result){
+  							if(result) {
+  								location.href="/changepassword?rV="+da.rV+"&gaiatoken="+da.gaiatoken;
+  							} else {
+ 		    					location.href = '/?gaiatoken='+da.gaiatoken;
+  							}
+						 }
+					});
+				} else {
+					if(da.gaiatoken!= "" || da.gaiatoken!= null){
+						localStorage.setItem(da.username + "_gaiatoken", da.gaiatoken);
+					}
+					//if(!da.isBound) {
+	  					/*
+						art.dialog({
+	  					    content:  "登录成功！马上去完善取款信息？", 
+	  					    ok: function () {
+	  					    	location.href="/member-center/jump?path=/member-center/my-account/bank-manage";
+	  					    },
+	  					    cancelVal: '关闭',
+	  					    cancel: function(){
+	  					    	location.href = '/';
+	  					    }
+	  					}); */			
+	  				//}else{
+	  					if (da.game_tid!=null && da.game_tid!="") {
+	  						if(da.game_tid.includes('safe_')||da.game_tid.includes('safe')){
+	  							window.open("/third-login/"+da.game_tid+"?gaiatoken="+da.gaiatoken,"_blank");
+	  							location.href = "/?gaiatoken="+da.gaiatoken;
+	  			    		  }else{
+	  			    			  location.href = "/third-login/"+da.game_tid+"?gaiatoken="+da.gaiatoken;  
+	  			    		  }	
+						}else{
+							location.href = "/?gaiatoken="+da.gaiatoken;	
+						}
+	  				//}
+				}
+			}else{//登录失败
+				$("#validCodeDiv").show();
+				changeImg();
+				if(da.msg.indexOf("验证码")!=-1)
+					$("#rmNum").val("").focus();
+				else{
+					$("#rmNum").val("");
+					$("#loginPwd").val("").focus();
+				}
+				alert(da.msg);
+
+				//$("#errorMsg").html(da.msg).slideDown("fast");
+			}
+		});
+	//});
+}
+function keypress(e,inp){
+	e = window.event?window.event:e;
+	if(typeof(e)=='undefined'){
+
+	}else{
+		if(e.keyCode==13){
+			if($("#validCodeDiv").is(":hidden"))
+				login();
+			else{
+				if(inp==''){
+					login();
+				}else{
+					$("#"+inp).focus();
+				}	
+			}
+		}
+	}
+}
+
+	function dLogin(){
+		$.ajax({
+			url:'/demo-login',
+			method:"post"
+		}).done(function(data){
+			if(!data.status){
+				alert(data.msg);
+			}else{
+				if(data.gaiatoken!= "" || data.gaiatoken!= null){
+					localStorage.setItem(data.msg + "_gaiatoken", data.gaiatoken);
+				}
+				if (data.game_tid!=null && data.game_tid!="") {
+					if(data.game_tid.includes('safe_')||data.game_tid.includes('safe')){
+						window.open("/third-login/"+data.game_tid+"?gaiatoken="+data.gaiatoken,"_blank");
+						location.href = "/?gaiatoken="+data.gaiatoken;
+		    		  }else{
+		    			  location.href = "/third-login/"+data.game_tid+"?gaiatoken="+data.gaiatoken;  
+		    		  }							
+				} else {
+					location.href = "/?gaiatoken="+data.gaiatoken;	
+				}
+			}
+		});
+	} 	
+	
+	function toJionHeadThrid(){
+   		art.dialog({
+			title:lang.translate("友情提示"),	   			
+		    content:  lang.translate("您现在是试玩用户，请注册为正式用户再使用该功能！"), 
+		    okVal: lang.translate("马上注册"),
+		    id :'draw_deposit_header',
+		    ok: function () {
+		    	parent.location.href="/memreg/register";
+		    },
+		    cancelVal: lang.translate('我知道了'),
+		    cancel: function(){
+		    }
+		})
+		return false;
+   	}
+
+	function drawInfo(){
+		if(!ajaxboolean("/wap/member-center/is-pwd-sec?gaiatoken=")){
+			art.dialog({
+				title: lang.translate('提示'),			
+				content: lang.translate('请先到用户中心设置安全密码！'),
+				id: 'draw_info',
+				okVal:lang.translate("立即设置"),
+		    	ok: function () {
+		    		parent.location.href="/member-center/jump?path=/member-center/updatesafe&gaiatoken=";
+		    	},
+		    	cancelVal: lang.translate('暂时不去'),
+		    		cancel: function(){
+		    	}
+			})
+	  		e.preventDefault();
+			e.stopPropagation(); 
+	    	return false;
+		} else if(ajaxboolean("/wap/member-center/is-bank-sec?gaiatoken=")){
+			art.dialog({
+				title: lang.translate('提示'),						
+				content: lang.translate('请先绑定您的取款资料!'),
+				id: 'draw_info',
+				okVal:lang.translate("立即绑定"),
+			    ok: function () {
+			    	parent.location.href="/member-center/jump?path=/member-center/my-account/bank-manage&gaiatoken=";
+			    },
+			    cancelVal: lang.translate('暂时不去'),
+			    cancel: function(){
+			    }
+			})
+		  	return false;
+		}else{
+	    	parent.location.href="/member-center/jump?path=/member-center/bank-trade/draw-record&gaiatoken=";
+		}
+	}
+	function ajaxboolean(url){
+		var flag;
+		$.ajax({
+			url: url,
+			type:"get",
+			async:false
+		}).done(function(da){
+			flag = da;
+		});
+		return flag;
+	}
+	
+	function showDownBalance(obj){
+		var left = $(obj).offset().left+$(obj).width();
+		var top = $(obj).position().top;
+		var pstop = top;
+		var selector = $(".BalanceSelector1");
+		//var pstop = selector.height()+50;
+		$(".BalanceSelector1").unbind().mouseleave(function(){
+			$(this).hide();
+		});
+		
+		var apiArr ={};
+		try{
+		  
+		  apiArr = $.parseJSON('');
+		}catch(e){
+		  
+		}
+
+		  if (false && true){
+		      refreshhBalance(function(e) {
+		         var ul = $(".BalanceSelector1 ul");
+		         $('.apiBalance').remove();
+		         for (var api in apiArr) {
+		      	   var m_api = 0;
+		      	   var thrid = e.otherMoneyMap[api];
+		      	   if(thrid!=null){
+		      		   m_api = thrid.money;
+		      	   }
+		             ul.append('<li class="apiBalance"><div><span class="BalanceLabel">' + apiArr[api] +
+		             '：</span> <span class="WithdrawableValue">' + currencySymbol + ' ' + intToStr(m_api, defaultShortForm) + '</span></div></li>');
+		         }
+		      });
+		  }
+
+	$(".BalanceSelector1").show();
+
+}
+
+function refreshhBalance(callback) {
+  $.get('/member-center/bank-trade/update-session-money?api=1&gaiatoken=&_=' + new Date().getTime(), function(e) {	  
+      //if (e.status) {    	  
+              //$('#totalMoney').html((e.totalMoney || 0).toFixed(2));
+              $('#totalMoney').html(currencySymbol+" "+intToStr((e.totalMoney || 0), defaultShortForm));
+              callback && callback(e);
+      	//}
+      });
+}
+function refreshBalanceTestPlay(callback) {
+	$.get('/member-center/bank-trade/update-testplay-money?api=1&gaiatoken=&_=' + new Date().getTime() , function(e) {
+		if(e.status){
+			$('#totalMoney').html(currencySymbol+" "+intToStr((e.money || 0), defaultShortForm));
+			callback && callback(e);
+		}
+		else console.log(e.msg);
+	});
+}
+function getMsgCount() {
+    $.ajax({
+        url: '/member-center/notice/msg-count?gaiatoken=',
+        method: 'get',
+        cache: false
+    }).success(function (data) {
+    	if(data!=null){
+        	var count = parseInt(data.msgCount);
+        	if(count>=1 && count<=99	){
+	    		$(".badge1").attr('data-badge',data.msgCount);
+	    		$(".badge1[data-badge]").toggleClass('gtMessage');
+	    	}else if(count>99){
+	    		$(".badge1").attr('data-badge',"99+");
+	    		$(".badge1[data-badge]").toggleClass('gtMessage');
+		    }else{
+	    		$(".badge1").attr('data-badge',data.msgCount); 
+	    		$(".badge1[data-badge]").toggleClass('noMessage');
+	    	}
+    	}
+    	else{
+    		$(".badge1").attr('data-badge','0');
+    		$(".badge1[data-badge]").toggleClass('noMessage');
+    	}   	
+    });
+}
+
+function logout(){
+	localStorage.removeItem("_gaiatoken");
+    var removeInnerLocalStorageBase = ["BetMoney","TotalValidAmount","AwardMoney","RebateMoney","MemberDeposit","MemberDraw","TotalProfit",
+                                       "TransferAmount","ReceiveAmount","ReceiveRedpacket","SendRedpacket","RecoveryRedpacket"];
+    var dynamicPreInner = ["","yesterday","currentWeek","lastWeek","currentMonth","lastMonth"];
+    var removeInnerStr = "";
+    $.ajax({
+        url:'/login-out?gaiatoken=',
+        method:"get"
+    }).done(function(data){
+        if(!data.status){
+            for(var eachPre of dynamicPreInner){
+                localStorage.removeItem(eachPre + "Profit");
+                for(var i=0; i < removeInnerLocalStorageBase.length; i++){
+	                removeInnerStr = eachPre + removeInnerLocalStorageBase[i];
+	                localStorage.removeItem(removeInnerStr);
+                }
+            }
+            localStorage.removeItem("validInnerData");
+    		window.lang.change(lang.defaultLang);
+    		storage_lang.setItem("curr_lang", lang.defaultLang);
+            location.href = '/';    		
+        }else{
+            console.log("logout fail");
+        }
+    });
+}
+                   
+$(document).ready(function(){
+  if (false && true){	  
+	    refreshhBalance();
+	    getMsgCount();
+  }else if(false && false)
+		refreshBalanceTestPlay();
+  
+  var siteImg = '{"vi":"/uploads/site_logo/VN00051/3a7e5759-cf2f-45a9-bcff-c69d5a8346ee.png","th":"","pt":"","in":"","en":"","id":"","zh":"","es":""}';
+  if(siteImg!=null && siteImg!='' ){
+	  var jsonPic = jQuery.parseJSON(siteImg);
+	  if(jsonPic[lang.currentLang] != null && jsonPic[lang.currentLang] != '' ){
+		  $(".logo").attr("style","background: url(.."+ jsonPic[lang.currentLang] +") no-repeat");
+//	  }else{
+//		  $(".logo").attr("style","background: url()");
+	  }
+//  }else{
+//	  $(".logo").attr("style","background: url()");
+  }
+})
+
+function showDropDown() {
+    document.getElementById("langChanger").classList.toggle("show");
+	var storage_lang = null;
+	if(!window.localStorage){
+	  console.log("浏览器不支持localstorage");
+	}else{
+		storage_lang=window.localStorage;
+	}
+	if (storage_lang) {
+		var langlist = storage_lang.getItem("web_languages");
+		if (langlist) {
+    		var lg = storage_lang.getItem("web_languages").split(",");
+    		$.each(lg,function(i,lg){
+    			var lang_lg = 'lang_'+lg;
+	   			if (document.getElementById(lang_lg)) {
+					document.getElementById(lang_lg).style="display:block;";
+				}	    			
+    			if(!lg) return;
+    		});			
+		}
+	}	
+}
+
+const togglePassword = document.querySelector('#togglePassword');
+const password = document.querySelector('#loginPwd');
+if(togglePassword)
+togglePassword.addEventListener('click', function (e) {
+    // toggle the type attribute
+    const type = password.getAttribute('type') === 'password' ? 'text' : 'password';
+    password.setAttribute('type', type);
+    // toggle the eye slash icon
+		let imgSrc = togglePassword.getAttribute('src');
+		if(imgSrc.includes("close")){
+			imgSrc = imgSrc.replace("close", "open");
+		}else{
+			imgSrc = imgSrc.replace("open", "close");
+		}
+		togglePassword.setAttribute('src',imgSrc);
+});
+
+</script>
+    <div class="header-nav ">
+        
+
+
+
+
+
+
+
+<style type="text/css">
+.cs-pic {
+    background: url(../theme/img/cs.png) no-repeat;
+    width: 80px;
+    height: 50px;
+    display: inline-block;
+    margin: -15px -12px;
+    background-size: contain;
+}
+.cs-tooltip {
+	position: absolute;
+	top: -5px;
+	left: 10px;
+	color: #188b78;
+	background: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 6.5vw;
+	height: 2vw;
+	border-radius: 5px;
+}
+.cs {
+	background: url(../theme/img/cs.png) no-repeat;
+	height: 50px;
+	display: inline-block;
+	margin: -15px -28px;
+	background-size: contain;
+}
+</style>
+<div class="container" "="">
+	<ul class="nav nav-header">
+		<li class="menu-index active"><a href="/index"><span lang="vi">Trang chủ</span></a></li>
+		<li class="menu-lotterychatroom"><a href="/lotterychatroom"><span lang="vi">Danh sách</span></a></li>
+		<li style="display: none;" class="menu-thirdgame"><a href="/thirdgame"><span lang="vi">Arcades</span></a></li>
+		<li style="display: none;" class="menu-sport"><a href="/sportgame"><span lang="vi">Thể Thao</span></a></li>
+		<li style="display: none;" class="menu-agvd"><a href="/agvd"><span lang="vi">Trực tiếp</span></a></li>
+		<li class="menu-activity"><a href="/activity"><span lang="vi">HOẠT ĐỘNG</span></a></li>
+		<li class="phonecode" style="display: none;"><a href="/download-app"><span lang="vi">Di động</span></a></li>
+		<li class="menu-myaccount"><a href="/myaccount"><span lang="vi">TÀI KHOẢN</span></a></li>
+		
+		<li style="float:right"><a href="javascript:void(0);" onclick="openChatWin()"><i class="kf" id="kf" style="display: none;"></i><span lang="vi" id="otherlangPic" style="display: block; color: rgb(226, 58, 58); height: 0px; font-size: 11px; font-weight: 600; margin: 3px 0px -13px;">CSKH</span><i class="cs" id="cs" style="display: block;"></i></a></li>
+		
+	</ul>
+	</div>
+	
+<script type="text/javascript">
+	if (shownLang !== "zh"){
+		document.getElementById("cs").style.display = "block";
+		document.getElementById("otherlangPic").style.display = "block";
+		document.getElementById("kf").style.display = "none";
+	} else {
+		document.getElementById("cs").style.display = "none";
+		document.getElementById("otherlangPic").style.display = "none";
+		document.getElementById("kf").style.display = "block";
+	}
+    // if (shownLang !== "zh"){
+	// 	if (document.getElementById("cs") != null) {
+    //      document.getElementById("cs").style.display = "block";
+    //      document.getElementById("kf").style.display = "none";
+	// 	}
+    // } else {
+    //      if (document.getElementById("cs") != null) {
+	// 		 document.getElementById("cs").style.display = "none";
+	// 		 document.getElementById("kf").style.display = "block";
+    // 	}
+	// }
+    
+    if(isIndex == false){
+        queryLotteryList();
+    }
+    
+    function queryLotteryList(){
+        if(!window.localStorage){
+          consle.log("浏览器不支持localstorage");
+        }else{
+          storage=window.localStorage;
+        }
+        var lotterylist = [];
+
+        $.ajax({
+        type: "POST",
+        url:"/lottery-game-list?pcKey="+"home",
+        dataType:"json",
+        success: function(data){
+          lotterylist=data;
+          if(storage){
+            var storagelotterylist = storage.getItem("web_lotterylist");
+            if(storagelotterylist) {
+                if (!arrayEquals(JSON.stringify(lotterylist),storagelotterylist)){
+                    storage.setItem("web_lotterylist",JSON.stringify(lotterylist));
+                    //window.location.reload(true);
+                }
+             }
+          }
+        }
+        });
+    }
+    
+    function arrayEquals(a, b) {
+      if (a === b) return true;
+      if (a == null || b == null) return false;
+      if (a.length !== b.length) return false;
+
+      for (var i = 0; i < a.length; ++i) {
+        if (a[i] !== b[i]) return false;
+      }
+      return true;
+    }
+	
+	$(".nav-header").children().removeClass("active");
+    if(window.location.pathname == '/lotterychatroom'){
+		$(".menu-lotterychatroom").addClass("active");
+	}else if(window.location.pathname == '/thirdgame'){
+    	$(".menu-thirdgame").addClass("active");
+	}else if(window.location.pathname == '/sportgame'){
+    	$(".menu-sport").addClass("active");
+	}else if(window.location.pathname == '/agvd'){
+    	$(".menu-agvd").addClass("active");
+    }else if(window.location.pathname == '/activity'){
+    	$(".menu-activity").addClass("active");
+    }else if(window.location.pathname == '/myaccount'){
+    	$(".menu-myaccount").addClass("active");
+    }else if(window.location.pathname == '/download-app'){
+    	$(".phonecode").addClass("active");
+    }else{
+    	$(".menu-index").addClass("active");
+    }
+</script>
+    </div>
+
+    <div class="main">
+     
+     
+     
+        
+
+		<!-- 彩票游戏模块-->
+		
+		<main class="lqd-site-content">
+			<div class="container" id="lqd-contents-wrap" style="width:100%;padding:0 20px;">
+			<div data-elementor-type="wp-page" data-elementor-id="633" class="elementor elementor-633">
+				<div class="main-content">		
+					<!-- ngRepeat: lottery in navlist|limitTo:1 --><div class="container-left ng-scope" ng-repeat="lottery in navlist|limitTo:1" style="padding-left:20px;margin-right: 10px;overflow-y:auto;height:400px">				
+						<!-- ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_M5SGNFFC.png" class="game-img ng-scope" src="/static/img/game/en_safe_M5SGNFFC.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN PHÚC LỢI - XÃ HỘI</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_HN5D.png" class="game-img ng-scope" src="/static/img/game/en_safe_HN5D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN TRÁI TIM YÊU THƯƠNG</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_TPHCM6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_TPHCM6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN THIỆN TÂM</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_HP5D.png" class="game-img ng-scope" src="/static/img/game/en_safe_HP5D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN THẮP SÁNG TƯƠNG LAI</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_QN5D.png" class="game-img ng-scope" src="/static/img/game/en_safe_QN5D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN TẤM LÒNG VÀNG</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(172deg, rgb(228, 204, 247) 11.2%, rgb(245, 245, 245) 100%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_TB5D.png" class="game-img ng-scope" src="/static/img/game/en_safe_TB5D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN NUÔI DƯỠNG MẦM XANH</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_DA6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_DA6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN BẢO TRỢ TRẺ EM THÀNH PHỐ</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_DN6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_DN6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN THẮP SÁNG VÙNG CAO</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_AJ6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_AJ6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN ÁNH SÁNG NÚI RỪNG NUÔI EM</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_CN6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_CN6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN NỐI VÒNG TAY LỚN</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_QN6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_QN6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN CHẤP CÁNH ƯỚC MƠ</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(172deg, rgb(228, 204, 247) 11.2%, rgb(245, 245, 245) 100%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_BP6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_BP6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN GIỌT MÁU HỒNG</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_NT6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_NT6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN NGÔI NHÀ TÌNH THƯƠNG</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_VL6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_VL6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN KHUYẾN HỌC</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_CM6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_CM6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN VIỆT NAM XANH</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList --><div style="max-width: 95%; background: linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%); padding-left: 10px; margin-bottom: 10px; border-radius: 15px; height: 70px;" ng-repeat="game in lottery.gameList" ng-style="{'background': $index % 6 === 0 ? 'linear-gradient(172deg, rgb(247, 204, 204) 11.2%, rgb(245, 245, 245) 100%)' : 
+						$index % 6 ===1 ? 'linear-gradient(109.6deg, rgb(204, 228, 247) 11.2%, rgb(237, 246, 250) 100.2%)': 
+						$index % 6 ===2 ? 'linear-gradient(109.6deg, rgb(247, 220, 204) 11.2%, rgb(245, 245, 245) 100.2%)':
+						$index % 6 ===3 ? 'linear-gradient(109.6deg, rgb(224, 247, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						$index % 6 ===4 ? 'linear-gradient(109.6deg, rgb(247, 245, 204) 11.2%, rgb(245, 245, 245) 100.2%)': 
+						'linear-gradient(172deg, rgb(228 204 247) 11.2%, rgb(245, 245, 245) 100%)','padding-left':'10px','margin-bottom':'10px','border-radius':'15px','height':'70px'}" class="ng-scope">
+							<div style="height: 100%;">
+								<div style="align-items: center;display:flex;height:100%">
+									<figure class="image-box-img">
+										<a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)">
+										
+										
+		                                    <!-- ngIf: game.pcPictureMod == null --><img ng-if="game.pcPictureMod == null" ng-src="/static/img/game/en_safe_GL6D.png" class="game-img ng-scope" src="/static/img/game/en_safe_GL6D.png"><!-- end ngIf: game.pcPictureMod == null -->
+		                                    <!-- ngIf: game.pcPictureMod != null -->
+		                                 
+										</a></figure>
+								<div class="elementor-image-box-content">
+								<h5 class="elementor-image-box-title"><a href="javascript:void(0);" ng-click="jumpGame(game.gameKey)" style="font-size:20px;text-transform: uppercase;" class="ng-binding">DỰ ÁN GIEO MẦM HẠNH PHÚC</a></h5>
+								</div>
+								</div>		
+							</div>
+						</div><!-- end ngRepeat: game in lottery.gameList -->
+				
+					</div><!-- end ngRepeat: lottery in navlist|limitTo:1 -->
+					<div class="container-right">
+						<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+		                    <ol class="carousel-indicators">
+		                        
+		                            
+		                                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+		                            
+		                                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+		                            
+		                                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+		                            
+		                        
+		                        
+		                    </ol>
+		                    <div class="carousel-inner" role="listbox">
+		                        
+		                            
+		                                <div class="item active">
+		                                    <a href="/index?gaiatoken="><img ng-src="/uploads/images/VN00051/a91f8127-84dd-47ca-8a18-6eaf172bfca1.png" src="/uploads/images/VN00051/a91f8127-84dd-47ca-8a18-6eaf172bfca1.png"></a>
+		                                </div>
+		                            
+		                                <div class="item ">
+		                                    <a href="/index?gaiatoken="><img ng-src="/uploads/images/VN00051/17e0cad5-c896-4251-9543-d8745a1a0ec5.png" src="/uploads/images/VN00051/17e0cad5-c896-4251-9543-d8745a1a0ec5.png"></a>
+		                                </div>
+		                            
+		                                <div class="item ">
+		                                    <a href="/index?gaiatoken="><img ng-src="/uploads/images/VN00051/5d29d676-d80a-4d5f-9362-ef1d48a1881d.png" src="/uploads/images/VN00051/5d29d676-d80a-4d5f-9362-ef1d48a1881d.png"></a>
+		                                </div>
+		                            
+		                        
+		                        
+		                    </div>
+		                    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+							<span class="icon-prev" aria-hidden="true" style="font-size:60px;margin-top:-60px;"></span>
+							<span class="sr-only">Previous</span>
+							</a>
+							<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+							<span class="icon-next" aria-hidden="true" style="font-size:60px;margin-top:-60px;"></span>
+							<span class="sr-only">Next</span>
+							</a>
+		                </div>
+					</div>
+				</div>				
+			</div>
+			</div>
+		</main>
+		
+            
+
+
+<div class="footer">
+	<div class="container">
+		<div class="bottom-link">
+			<dl>
+				<dt><span lang="vi" class="gold-text">Quá trình xổ số</span></dt>
+				<dd>
+ 
+
+   	<ul class="nav">
+		<li><a href="/help-view#help-1"><span lang="vi" class="silver-text">Cách để đăng ký</span></a></li>
+		<li><a href="/help-view#help-6"><span lang="vi" class="silver-text">Cách nạp tiền</span></a></li>
+		<li><a href="/help-view#help-10"><span lang="vi" class="silver-text">Cách nhận giải thưởng</span></a></li>
+		<li><a href="/help-view#help-12"><span lang="vi" class="silver-text">Cách rút tiền</span></a></li>
+	</ul>
+					
+				</dd>
+			</dl>
+			<dl>
+				<dt><span lang="vi" class="gold-text">Hướng dẫn xổ số</span></dt>
+				<dd>
+ 
+
+   	<ul class="nav">
+		<li><a href="/help-view#help-47"><span lang="vi" class="silver-text">Dành cho Khách Hàng</span></a></li>
+		<li><a href="/games-rules"><span lang="vi" class="silver-text">Luật chơi</span></a></li>
+		<li><a href="/help-view#help-53"><span lang="vi" class="silver-text">Cách xem kết quả</span></a></li>
+	</ul>
+					
+				</dd>
+			</dl>
+			<dl>
+				<dt><span lang="vi" class="gold-text">Vấn đề thường gặp</span></dt>
+				<dd>
+ 
+
+ 	<ul class="nav">
+		<li><a href="/help-view#help-24"><span lang="vi" class="silver-text">Xác minh điện thoại</span></a></li>
+		<li><a href="/help-view#help-29"><span lang="vi" class="silver-text">Quên mật khẩu</span></a></li>
+		<li><a href="/help-view#help-15"><span lang="vi" class="silver-text">Lưu ý khi rút tiền</span></a></li>
+	</ul>
+ 				
+				</dd>
+			</dl>
+			<dl>
+				<dt><span lang="vi" class="gold-text">Về chúng tôi</span></dt>
+				<dd>
+					<ul class="nav" id="homepage">				
+ 
+<li><a href="/suggest"><span lang="vi" class="silver-text">Đề xuất</span></a></li>				
+					</ul>
+				</dd>
+			</dl>
+			<dl style="display: none;">
+				<dt><span lang="vi" class="gold-text" style="display: none;">Tải APP di động</span></dt>
+				<dd>
+					<div class="phone-code">
+						<div class="phone-code1"><div id="QrCode" style="display: none;" title="https://hcmphattrien.com/h5/#/download"><canvas width="256" height="256" style="display: none;"></canvas><img alt="Scan me!" src="data:image/png;base64,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" style="display: block;"></div></div>
+					</div>
+				</dd>
+			</dl>
+			<div class="clearfix"></div>
+		</div>
+		<div class="bottom-pic">
+			<ul class="foot_info" id="foot_info" style="display: none;">
+				<li class="foot_wljc"></li>
+				<li class="foot_wangan"></li>
+				<li class="foot_wsjy"></li>
+				<li class="foot_xylh"></li>
+				<li class="foot_kxwz"></li>
+			</ul>
+			<div class="clearfix"></div>
+		</div>
+		<hr class="footer-separator">
+		<div class="bottom-copy">
+			<div>1978-<span id="year">2024</span>©KIẾN THIẾT TP. HỒ CHÍ MINH   - <span lang="vi">Ích Nước Lợi Nhà / Hotline dịch vụ khách hàng</span>：0933934886</div>
+			<div>Website: <a href="https://xskttphcm.com" target="_blank1" style="color:blue">https://xskttphcm.com</a></div>
+			<div>©DỰ ÁN PHÚC LỢI - XÃ HỘI <span lang="vi">Mạng lưới</span>. <span lang="vi">Xổ số là bộ môn giải trí mang lại nhiều giá trị nhân văn và giải thưởng có ích cho xã hội.</span></div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+if(isybapiSite == 2){
+	chgLangObject(shownLang);	
+}
+if (shownLang !== "zh"){
+    document.getElementById("foot_info").style.display = "none";
+} else {
+    document.getElementById("foot_info").style.display = "block";
+}
+
+$(function(){
+	new QRCode(document.getElementById('QrCode'), document.location.protocol+"//"+document.location.host+"/h5/#/download");
+	new QRCode(document.getElementById('QrCodeFloatLeft'), document.location.protocol+"//"+document.location.host+"/h5/#/download");
+	new QRCode(document.getElementById('QrCodeFloatRight'), document.location.protocol+"//"+document.location.host+"/h5/#/download");
+//	getEdoc();
+});
+function getEdoc(){
+	$("#homepage").load("/get-doc?sectionType=edoc&page=edoc&gaiatoken=");
+	$("#commonpage").load("/get-doc?sectionType=gdoc&page=gdoc&gaiatoken=");
+	$("#commongamepage").load("/get-doc?sectionType=gcdoc&page=gcdoc&gaiatoken=");
+	$("#commonissuepage").load("/get-doc?sectionType=cjdoc&page=cjdoc&gaiatoken=");
+}
+document.getElementById("year").innerHTML = new Date().getFullYear();
+</script>
+
+
+
+
+
+
+
+<script src="/static/js/jquery-bootstrap-dialog.js" type="text/javascript"></script>
+<script type="text/javascript" src="/static/js/pg_utils.js"></script>
+
+
+<!-- Modal -->
+<div class="modal fade" id="dmicTokensModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="myModalLabel"><span lang="vi">Mật khẩu động</span></h4>
+      </div>
+      <div class="modal-body">
+     		 <form class="form-horizontal ng-pristine ng-valid" role="form">
+              <div class="form-group">
+                <label class="col-sm-4 control-label"><span lang="vi">Vui lòng nhập mật khẩu động</span></label>
+                <div class="col-sm-6">
+                   <input type="number" id="dmicTokensTxt" value="" class="form-control" placeholder="">
+                </div>
+              </div>
+              </form>
+      </div>
+      <div class="modal-footer">
+      	<button type="button" class="btn btn-primary" id="submitDmicTokensBtn" style="margin-top:0px;"><span lang="vi">Xác nhận</span></button>
+        <button type="button" class="btn btn-default" data-dismiss="modal"><span lang="vi">Hủy bỏ</span></button>
+      </div>
+    </div>
+  </div>
+</div>
+  
+<script type="text/javascript">
+var defaultShortForm = 0;
+var currencySymbol = "₫";	
+$(document).ready(function(){    
+	$("#cf").click(function(){
+		$(".float-left").hide();
+	});
+	$("#cr").click(function(){
+		$(".float-right").hide();
+	});
+	
+	var param = {
+	    text: window.location.host+"/theme/apk/android_game.apk",//二维码内容
+	    width: 84,
+	    height: 84,
+	    colorDark : "black",//指定二维码颜色
+	    colorLight : "#ffffff",
+	    correctLevel : QRCode.CorrectLevel.H//容错级别
+	}
+	
+  displayNoticeFrame('displayNotice');
+})
+    
+    if (shownLang !== "zh"){
+         document.getElementById("float-right").style.display = "none";
+    } else {
+    	if('0' == 1){
+			if (document.getElementById("float-right") != null) {
+				document.getElementById("float-right").style.display = "block";	
+			}
+    	}else{
+    		document.getElementById("float-right").style.display = "none";
+    	}        
+    }
+    
+	function cf(){
+		//alert('12');
+		//$(".close-"+v).hide();
+	}
+
+	(function(){
+	    if ("true"=="false" && true){
+               refreshhBalance();
+           }
+		$("#rmNum").keyup(function(){
+			$this = $(this);
+			$this.val($this.val().replace(/[^\w\/]/ig,'').toUpperCase());
+		});
+
+		$('#open-money-dropdown-menu').click(function(e) {
+			e.stopPropagation();
+			var menu = $('#money-dropdown-menu');
+			menu.toggle();
+		});
+
+		$('#money-dropdown-menu').click(function(e) {
+			e.stopPropagation();
+		});
+
+		$(document.body).click(function(e) {
+			$('#money-dropdown-menu').hide();
+		});
+
+		var showMoney = '';
+		// 如果已存在余额数据直接显示
+		if (showMoney) {
+			showMemberMoney($.parseJSON(showMoney));
+		}
+		// 如果没有添加点击事件, 让用户点击之后从服务端获取到
+		else {
+			$('#_memberMoney').click(function() {
+				this.innerHTML = lang.translate("获取中")+'...';
+				fetchMemberMoney();
+			});
+		}
+	})();
+	function getVCode(obj){
+   		var imgDM = $(obj).next();
+   		if(!imgDM.is(":visible")){
+   			imgDM.prop("src","/valid-code?t="+new Date().getTime());
+   			imgDM.show();
+   		}
+   	}
+	function changeImg(obj){
+		if(typeof(obj) == 'string'){
+			$("#"+obj).prop("src","/valid-code?t="+new Date().getTime()).show();
+		}else if(!obj){
+			$("#securityCodeimg").prop("src","/valid-code?t="+new Date().getTime()).show();	
+		}else{
+			$(obj).prop("src","/valid-code?t="+new Date().getTime()).show();
+		}
+	}
+	function login(dmicKey){
+		var userName = $("#loginForm").find('input[name="username"]').val().trim().trim();
+		var passwd = $("#loginForm").find('input[name="password"]').val().trim().trim();
+		var validCode = $("#loginForm").find('input[name="validCode"]').val();
+		var isNeedValidCode = $("#loginForm").find('input[name="isNeedValidCode"]').val();
+		if(isEmpty(userName) || userName.length < 6 || userName.length > 14 || /[^a-z0-9]/.test(userName)){
+			alert(lang.translate("帐号为6-14个字元的小写英文字母或数字！"));
+			return false;
+		} else if (passwd.length < 6 || passwd.length > 16 || !/^(?![0-9]+$)(?![a-z]+$)(?![A-Z]+$)[0-9A-Za-z]{6,16}$/.test(passwd)) {
+			alert(lang.translate("密码为6～16个英文字母与数字的组合！"));
+			return false;
+		} else {
+			$.ajax({
+				url:"/login",
+				type:"post",
+				async:false,
+				dataType:"json",
+				//data:$("#loginForm").serialize()
+				data: {username:userName, password:passwd, validCode:validCode, dmicTokens:dmicKey, isNeedValidCode:isNeedValidCode }
+			}).done(function(da){
+				//console.log('login:'+da.status);
+				if(da.username != "" || da.username!= null){
+					localStorage.setItem("currentUser", da.username);
+				}
+				if(da.loginAddress!= "" || da.loginAddress!= null){
+					localStorage.setItem(da.username + "lastLoginAddress", da.loginAddress);
+				}
+				if(da.loginTime!= "" || da.loginTime!= null){
+					localStorage.setItem(da.username + "lastLoginTime", da.loginTime);
+				}
+				if(da.loginIP!= "" || da.loginIP!= null){
+					localStorage.setItem(da.username + "lastLoginIP", da.loginIP);
+				}
+				if(da.gaiatoken!= "" || da.gaiatoken!= null){
+					localStorage.setItem(da.username + "_gaiatoken", da.gaiatoken);
+				}
+				if(da.isMigrateReset) {
+					bootbox.confirm({size: "small",
+						  message: lang.translate("亲爱的用户，为了保障您的安全，请先进行安全认证。"), 
+						  callback: function(result){
+    						if(result) {
+    							location.href="/changepassword?rV="+da.rV+"&gaiatoken="+da.gaiatoken;
+    						} else {
+   		    					location.href = "/?gaiatoken="+da.gaiatoken;
+    						}
+						  }
+ 						});
+				} else {			
+					if(da.status){//登录成功
+						if (da.sitetype == 3) {
+							if(da.game_tid.includes('safe_')||da.game_tid.includes('safe')){
+								window.open("/third-login/"+da.game_tid+"?gaiatoken="+da.gaiatoken,"_blank");
+								location.href = "/?gaiatoken="+da.gaiatoken;
+				    		  }else{
+				    			  location.href = "/third-login/"+da.game_tid+"?gaiatoken="+da.gaiatoken;  
+				    		  }
+						} else {
+							if (da.game_tid!=null && da.game_tid!="") {
+								if(da.game_tid.includes('safe_')||da.game_tid.includes('safe')){
+									window.open("/third-login/"+da.game_tid+"?gaiatoken="+da.gaiatoken,"_blank");
+									location.href = "/?gaiatoken="+da.gaiatoken;
+					    		  }else{
+					    			  location.href = "/third-login/"+da.game_tid+"?gaiatoken="+da.gaiatoken;  
+					    		  }	
+							}else{
+								location.href = "/?gaiatoken="+da.gaiatoken;	
+							}
+						}
+					} else {//登录失败
+						//console.log('msg:'+da.msg+':'+da.isNeedDmic+':');
+						if(da.isNeedDmic){
+							$("input[name='isNeedValidCode']").val(da.isNeedValidCode);
+							if (da.msg != '') {
+								alert(da.msg);
+								$("#dmicTokensModal").modal("hide"); 
+								$("#validCodeDiv").show();
+								changeImg();
+								if(da.msg.indexOf("验证码")!=-1)
+									$("#rmNum").val("").focus();
+								else{
+									$("#rmNum").val("");
+									$("#loginPwd").val("").focus();
+								}
+							} else {
+								 $("#dmicTokensTxt").val("");
+								 $("#dmicTokensModal").on("shown.bs.modal",function(e){
+									 $("#dmicTokensTxt").focus();
+								 });
+								 $("#dmicTokensModal").modal("show"); 
+							}
+						} else {
+							$("#dmicTokensModal").modal("hide"); 
+							$("#validCodeDiv").show();
+							$("input[name='isNeedValidCode']").val(da.isNeedValidCode);
+							changeImg();
+							if(da.msg.indexOf("验证码")!=-1)
+								$("#rmNum").val("").focus();
+							else{
+								$("#rmNum").val("");
+								$("#loginPwd").val("").focus();
+							}
+							alert(da.msg);
+						}
+					}
+				}
+			});
+		}
+	}
+	function keypress(e,inp){
+		e = window.event?window.event:e;
+		if(typeof(e)=='undefined'){
+
+		}else{
+			if(e.keyCode==13){
+				if($("#validCodeDiv").is(":hidden"))
+					login();
+				else{
+					if(inp==''){
+						login();
+					}else{
+						$("#"+inp).focus();
+					}	
+				}
+			}
+		}
+	}
+	
+		$("#submitDmicTokensBtn").click(function(){
+			var dmicTokens=document.getElementById("dmicTokensTxt").value;
+			//console.log('tokentext:'+dmicTokens);
+			if(dmicTokens==null||dmicTokens==""){
+				$.altDialog({title:lang.translate('提示'),content:lang.translate('请输入动态口令！'),yesText:lang.translate('确定')});
+				return false;
+			}
+			if(!/^[0-9]\d*$/.test(dmicTokens)||dmicTokens.length!=6){
+				$.altDialog({title:lang.translate('提示'),content:lang.translate('动态口令为6位的正整数！'),yesText:lang.translate('确定')});
+				return false;
+			}
+			login(dmicTokens);
+		});
+	$("#dmicTokensTxt").keydown(function(e){
+		var event = e || window.event;
+		if(event.keyCode == 13){
+			$("#submitDmicTokensBtn").click();
+			return false;
+		}
+	});		
+
+	//打开即时聊天窗口
+	function openChatWin() {
+		$.ajax({
+			url:"/olservice",
+			type:"post",
+			async:false
+		}).done(function(da){
+			if(da.res=='0'){
+				alert(lang.translate('客服繁忙，请联系上级'));
+			}else{
+				var isLocal =da.isLocal;
+				var isWindow = da.isWindow;
+				if (isWindow == '1') {
+					var params = 'height='
+							+ da.windowHeight
+							+ ',width='
+							+ da.windowWidth
+							+ ',top=0,left=0,toolbar=no,menubar=no,scrollbars='
+							+ scroll
+							+ ', resizable=yes,location=yes, status=yes';
+					window.open(da.url, lang.translate('即时聊天'), params);
+				} else {
+					if (isLocal == '0') {
+						window.location.href = da.url;
+					} else {
+						window.location.href = ctx + da.url;
+					}
+				}
+			}
+		});
+	}
+	
+	
+   function openForgetPassword(url) {
+   	   window.open(url,lang.translate('查询密码'),'height=250,width=400,top=200,left=350,toolbar=no,menubar=no,scrollbars=yes,resizable=yes,location=no,status=no');
+   }
+   
+   function showWx(sId)
+	{ 
+		//添加iframe
+	    var if_w = 400; sId
+	    var if_h = 450; 
+	    //allowTransparency='true' 设置背景透明
+	    $("<iframe width='" + if_w + "' height='" + if_h + "' id='YuFrame1' name='YuFrame1' style='position:absolute;z-index:99999999;background-color: azure;'  frameborder='no' marginheight='0' marginwidth='0' allowTransparency='true'></iframe>").prependTo('body');    
+	    var st=document.documentElement.scrollTop|| document.body.scrollTop;//滚动条距顶部的距离
+	    var sl=document.documentElement.scrollLeft|| document.body.scrollLeft;//滚动条距左边的距离
+	    var ch=document.documentElement.clientHeight;//屏幕的高度
+	    var cw=document.documentElement.clientWidth;//屏幕的宽度
+	    var objH=$("#YuFrame1").height();//浮动对象的高度
+	    var objW=$("#YuFrame1").width();//浮动对象的宽度
+	    var objT=Number(st)+(Number(ch)-Number(objH))/2;
+	    var objL=Number(sl)+(Number(cw)-Number(objW))/2;
+	    $("#YuFrame1").css('left',objL);
+	    $("#YuFrame1").css('top',objT+70);
+	 
+	    //console.log( document.URL);
+	    $("#YuFrame1").attr("src", "http:///weixin/loginjump?state="+sId+"&referer="+encodeURIComponent(document.URL)+"&appid=")
+	 
+	    //添加背景遮罩
+	    $("<div id='YuFrame1Bg' style='background-color: Gray;display:block;z-index:3;position:absolute;left:0px;top:0px;filter:Alpha(Opacity=30);/* IE */-moz-opacity:0.4;/* Moz + FF */opacity: 0.4; '/>").prependTo('body'); 
+	    var bgWidth = Math.max($("body").width(),cw);
+	    var bgHeight = Math.max($("body").height(),ch);
+	    $("#YuFrame1Bg").css({width:bgWidth,height:bgHeight});
+	 
+	    //点击背景遮罩移除iframe和背景
+	    $("#YuFrame1Bg").click(function() {
+	        $("#YuFrame1").remove();
+	        $("#YuFrame1Bg").remove();
+	    });
+	}
+
+   function demoLogin(){
+	    $.ajax({
+			url:'/demo-login',
+			method:"post"
+		}).done(function(data){
+			if(!data.status){
+				alert(data.msg);
+			}else{
+				if(data.gaiatoken!= "" || data.gaiatoken!= null){
+					localStorage.setItem(data.username + "_gaiatoken", data.gaiatoken);
+				}
+				if (data.game_tid!=null && data.game_tid!="") {
+					window.open("/third-login/"+data.game_tid+"?gaiatoken="+data.gaiatoken,"_blank");
+					location.href = "/?gaiatoken="+data.gaiatoken;
+				} else {
+					location.href = "/?gaiatoken="+data.gaiatoken;	
+				}				
+				//location.href = '/index?gaiatoken='+data.gaiatoken;
+				location.reload();	
+			}
+		});
+	}
+
+   	function toJionThrid(){
+   		art.dialog({
+			title:lang.translate("友情提示"),	   			
+		    content:  lang.translate("该游戏不对试玩账号开放，请注册正式账号再进入游戏！"), 
+		    okVal:"马上注册",
+		    ok: function () {
+		    	location.href="/memreg/register";
+		    },
+		    cancelVal: '我知道了',
+		    cancel: function(){
+		    }
+		});
+   	}
+   	
+   	function isNotEmpty(value){
+   		return value&&value!=null&&$.trim(value)!="";
+   	}
+   	
+   	function isEmpty(value){
+   		return !isNotEmpty(value);
+   	}
+    
+</script>
+<script src="/static/lotterychatroom/dist/js/bootstrap.min.js"></script>
+<script src="/static/lotterychatroom/dist/js/docs.min.js"></script>
+<script src="/static/lotterychatroom/dist/js/ie10-viewport-bug-workaround.js"></script>
+<script type="text/javascript">
+  var defaultShortForm = 0;
+  var currencySymbol = "₫";
+  var times = 5;
+  var isLogin = 0;
+  /*
+  $(document).ready(function () {
+    if (shownLang == "zh") {
+      document.getElementById("promoTopZH").style.display = "block";
+      document.getElementById("promoTopEN").style.display = "none";
+      document.getElementById("promoTopVI").style.display = "none";
+      document.getElementById("promoTopTH").style.display = "none";
+      document.getElementById("promoTopIN").style.display = "none";
+      document.getElementById("promoTopID").style.display = "none";
+      document.getElementById("promoTopPT").style.display = "none";      
+    } else if (shownLang == "en") {
+      document.getElementById("promoTopZH").style.display = "none";
+      document.getElementById("promoTopEN").style.display = "block";
+      document.getElementById("promoTopVI").style.display = "none";
+      document.getElementById("promoTopTH").style.display = "none";
+      document.getElementById("promoTopIN").style.display = "none";
+      document.getElementById("promoTopID").style.display = "none";
+      document.getElementById("promoTopPT").style.display = "none";        
+    } else if (shownLang == "vi") {
+      document.getElementById("promoTopZH").style.display = "none";
+      document.getElementById("promoTopEN").style.display = "none";
+      document.getElementById("promoTopVI").style.display = "block";
+      document.getElementById("promoTopTH").style.display = "none";
+      document.getElementById("promoTopIN").style.display = "none";
+      document.getElementById("promoTopID").style.display = "none";
+	  document.getElementById("promoTopPT").style.display = "none";         
+	  if(isLogin == 1){
+	      document.getElementById("pIcon").style.fontSize = "16px";
+	      document.getElementById("pIcon").style.marginTop = "-42px";
+	  }
+      document.getElementById("pTitle").style.fontSize = "18px";
+    } else if (shownLang == "th") {
+      document.getElementById("promoTopZH").style.display = "none";
+      document.getElementById("promoTopEN").style.display = "none";
+      document.getElementById("promoTopVI").style.display = "none";
+      document.getElementById("promoTopTH").style.display = "block";
+      document.getElementById("promoTopIN").style.display = "none";
+      document.getElementById("promoTopID").style.display = "none";
+      document.getElementById("promoTopPT").style.display = "none";        
+    } else if (shownLang == "in") {
+      document.getElementById("promoTopZH").style.display = "none";
+      document.getElementById("promoTopEN").style.display = "none";
+      document.getElementById("promoTopVI").style.display = "none";
+      document.getElementById("promoTopTH").style.display = "none";
+      document.getElementById("promoTopIN").style.display = "block";
+      document.getElementById("promoTopID").style.display = "none";
+      document.getElementById("promoTopPT").style.display = "none";        
+    } else if (shownLang == "id") {
+        document.getElementById("promoTopZH").style.display = "none";
+        document.getElementById("promoTopEN").style.display = "none";
+        document.getElementById("promoTopVI").style.display = "none";
+        document.getElementById("promoTopTH").style.display = "none";
+        document.getElementById("promoTopIN").style.display = "none";
+        document.getElementById("promoTopID").style.display = "block";
+        document.getElementById("promoTopPT").style.display = "none";       
+    } else if (shownLang == "pt") {
+        document.getElementById("promoTopZH").style.display = "none";
+        document.getElementById("promoTopEN").style.display = "none";
+        document.getElementById("promoTopVI").style.display = "none";
+        document.getElementById("promoTopTH").style.display = "none";
+        document.getElementById("promoTopIN").style.display = "none";
+        document.getElementById("promoTopID").style.display = "none";
+        document.getElementById("promoTopPT").style.display = "block";       
+    } else {
+      document.getElementById("promoTopZH").style.display = "block";
+      document.getElementById("promoTopEN").style.display = "none";
+      document.getElementById("promoTopVI").style.display = "none";
+      document.getElementById("promoTopTH").style.display = "none";
+      document.getElementById("promoTopIN").style.display = "none";
+      document.getElementById("promoTopID").style.display = "none";
+      document.getElementById("promoTopPT").style.display = "none";        
+    }
+	*/
+
+    //default open first promotion tab
+    var tabBtn = document.getElementsByClassName("tabBtn");
+    if (tabBtn.length > 0) {
+    	tabBtn[0].click();
+    }
+
+    // random background img for promotion tab
+    var classCycle = ['t1', 't1', 't3', 't4', 't5'];
+    var tabBackground = document.getElementsByClassName("promo-image");
+
+    for (i = 0; i < tabBackground.length; i++) {
+      var randomNumber = Math.floor(Math.random() * classCycle.length);
+      var classToAdd = classCycle[randomNumber];
+      tabBackground[i].classList.add(classToAdd);
+    }
+
+    /* var textDiv = document.getElementById("rollText");
+     var textList = textDiv.getElementsByTagName("dl");
+     var textDatH = 0;
+     if (textList.length >2) {
+         var textDat = textDiv.innerHTML;
+         var br = textDat.toLowerCase().indexOf("<dl", textDat.toLowerCase().indexOf("<dl") + 3);
+
+         textDiv.innerHTML = textDat + textDat + textDat.substr(0, br);
+         console.log(textDiv.innerHTML);
+         textDiv.style.cssText = "position:absolute; width:90%; top:0";
+
+         textDatH = textDiv.offsetHeight;
+         MaxRoll();
+     }
+     var minTime, maxTime, divTop, newTop = 0;
+     function MinRoll() {
+         newTop++;
+         if (newTop <= divTop + 211) {
+             textDiv.style.top = "-" + newTop + "px";
+         } else {
+             clearInterval(minTime);
+             maxTime = setTimeout(MaxRoll, 100);
+         }
+     }
+     function MaxRoll() {
+         divTop = Math.abs(parseInt(textDiv.style.top));
+         if (divTop >= 0 && divTop < textDatH - 211) {
+             minTime = setInterval(MinRoll, 80);
+         } else {
+             textDiv.style.top = 0;
+             divTop = 0;
+             newTop = 0;
+             MaxRoll();
+         }
+     } */
+    var callboarTimer;
+    var callboard = $('#rollText');
+
+    var liLen = callboard.find('dl').size();
+    var initHeight = callboard.find('dl:eq(0)').outerHeight(true) + 6.5;
+
+    function autoAnimation() {
+      if (liLen <= 1) return;
+
+      var callboardLiFirst = callboard.find('dl:eq(0)');
+      callboardLiFirst.animate({
+        marginTop: -initHeight
+      }, 1000, function () {
+        clearTimeout(callboarTimer);
+        callboardLiFirst.appendTo(callboard).css({marginTop: 0});
+        callboarTimer = setTimeout(autoAnimation, 10);
+      });
+    }
+
+    callboarTimer = setTimeout(autoAnimation, 80);
+    getSiteCurrency();
+    
+    renderEscapeHtml($('.promotionRender'));
+    
+    var list = "[]";
+    if (list!='[]') {
+    	document.getElementById("newDiagNotice").style.display = "block";
+    	openDialogNotice();
+    }    
+
+  function renderEscapeHtml(promotionRender){
+	$.each(promotionRender, function(index, value) {
+		var htmlTag = $(value);
+		if(typeof(htmlTag)!="undefined"){
+			promotionRender.eq(index).html(htmlTag.text());
+		}
+	});
+  }
+  
+  function toVoucher(t) {
+    $.ajax({
+      type: "POST",
+      url: '/clear-voucher?gaiatoken=',
+      dataType: "json",
+      cache: false,
+      success: function (result) {
+        $(".voucher-list").hide();
+        if (result.success && t == 1) {
+          window.location.href = "/member-center/jump?gaiatoken=&path=/member-center/welfare/voucher?effect=0";
+        }
+      }
+    });
+  }
+
+  function getSiteCurrency() {
+    //显示货币缩写
+    if (defaultShortForm == 1) {
+      var moneyValueElement = document.getElementsByClassName("moneyValue@curPageID");
+      for (var i = 0; i < moneyValueElement.length; i++) {
+        var currValue = moneyValueElement[i].textContent;
+        moneyValueElement[i].textContent = intToString(currValue, defaultShortForm);
+      }
+
+      var reachMoney = document.getElementsByClassName("reachMoney@curPageID");
+      for (var i = 0; i < reachMoney.length; i++) {
+        var num = reachMoney[i].textContent.split(/([0-9]+)/);
+        if (num) {
+          var valurStr = num[1] + num[2] + num[3];
+          reachMoney[i].textContent = num[0] + intToString(valurStr, defaultShortForm) + num[4];
+        }
+      }
+
+      var moneyValueElement2 = document.getElementsByClassName("moneyValue");
+      for (var i = 0; i < moneyValueElement2.length; i++) {
+        var currValue = moneyValueElement2[i].textContent;
+        moneyValueElement2[i].textContent = intToString(currValue, defaultShortForm);
+      }
+    }
+  }
+
+  function intToString(number, shortform) {
+    number = number.replace(",", "");
+    number = parseFloat((Math.round(number * 100) / 100));
+    if (number.toString().length > 3 && shortform == 1) {
+      var abs = Math.abs(number);
+      if (abs >= Math.pow(10, 15)) {
+        // quadrillion
+        number = parseFloat((number / Math.pow(10, 15)).toFixed(2)) + "Q";
+      } else if (abs < Math.pow(10, 15) && abs >= Math.pow(10, 12)) {
+        // trillion
+        number = parseFloat((number / Math.pow(10, 12)).toFixed(2)) + "T";
+      } else if (abs < Math.pow(10, 12) && abs >= Math.pow(10, 9)) {
+        // billion
+        number = parseFloat((number / Math.pow(10, 9)).toFixed(2)) + "B";
+      } else if (abs < Math.pow(10, 9) && abs >= Math.pow(10, 6)) {
+        // million
+        number = parseFloat((number / Math.pow(10, 6)).toFixed(2)) + "M";
+      } else if (abs < Math.pow(10, 6) && abs >= Math.pow(10, 3)) {
+        // thousand
+        number = parseFloat((number / Math.pow(10, 3)).toFixed(2)) + "K";
+      }
+      return number;
+    } else {
+    	if(currencySymbol == "R$"){
+    	      var part = number.toString().split(".");
+    	      part[0] = part[0].replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+    	      return part.join(",");
+    	    }
+    	var parts = number.toString().split(".");
+      parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+      return parts.join(".");
+    }
+  }
+
+  function intToStringMoney(number, shortform) {
+    number = parseFloat((Math.round(number * 100) / 100));
+    if (number.toString().length > 3 && shortform == 1) {
+      var abs = Math.abs(number);
+      if (abs >= Math.pow(10, 15)) {
+        // quadrillion
+        number = parseFloat((number / Math.pow(10, 15)).toFixed(2)) + "Q";
+      } else if (abs < Math.pow(10, 15) && abs >= Math.pow(10, 12)) {
+        // trillion
+        number = parseFloat((number / Math.pow(10, 12)).toFixed(2)) + "T";
+      } else if (abs < Math.pow(10, 12) && abs >= Math.pow(10, 9)) {
+        // billion
+        number = parseFloat((number / Math.pow(10, 9)).toFixed(2)) + "B";
+      } else if (abs < Math.pow(10, 9) && abs >= Math.pow(10, 6)) {
+        // million
+        number = parseFloat((number / Math.pow(10, 6)).toFixed(2)) + "M";
+      } else if (abs < Math.pow(10, 6) && abs >= Math.pow(10, 3)) {
+        // thousand
+        number = parseFloat((number / Math.pow(10, 3)).toFixed(2)) + "K";
+      }
+      return number;
+    } else {
+    	if(currencySymbol == "R$"){
+    	      var part = number.toString().split(".");
+    	      part[0] = part[0].replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+    	      return part.join(",");
+    	    }
+    	var parts = number.toString().split(".");
+      parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+      return parts.join(".");
+    }
+  }
+
+  function openNewPromotion() {
+    document.getElementById("newPromotion").style.display = "block";
+  }
+
+  function closePromotion() {
+    document.getElementById("newPromotion").style.display = "none";
+  }
+
+  // close if user click anywhere outside the modal
+  window.onclick = function (event) {
+    if (event.target == document.getElementById("newPromotion")) {
+      document.getElementById("newPromotion").style.display = "none";
+    }
+    if (event.target == document.getElementById("newDiagNotice")) {
+      document.getElementById("newDiagNotice").style.display = "none";
+    }    
+  }
+
+  var elmnt = document.getElementById("promotionIcon");
+  dragElement(elmnt);
+
+  function dragElement(elmnt) {
+    var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+    if (elmnt) {
+      if (document.getElementById(elmnt.id + "header")) {
+        /* if present, the header is where you move the DIV from:*/
+        document.getElementById(elmnt.id + "header").onmousedown = dragMouseDown;
+      } else {
+        /* otherwise, move the DIV from anywhere inside the DIV:*/
+        elmnt.onmousedown = dragMouseDown;
+      }
+    }
+  }
+
+  function dragMouseDown(e) {
+    e = e || window.event;
+    e.preventDefault();
+    // get the mouse cursor position at startup:
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    document.onmouseup = closeDragElement;
+    // call a function whenever the cursor moves:
+    document.onmousemove = elementDrag;
+  }
+
+  function elementDrag(e) {
+    e = e || window.event;
+    e.preventDefault();
+    // calculate the new cursor position:
+    pos1 = pos3 - e.clientX;
+    pos2 = pos4 - e.clientY;
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    // set the element's new position:
+    elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+    elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+  }
+
+  function closeDragElement() {
+    /* stop moving when mouse button is released:*/
+    document.onmouseup = null;
+    document.onmousemove = null;
+  }
+
+  function openPromo(evt, promoId, promotionType) {
+    getPointData(promoId, promotionType);
+    getRoulettePoints(promoId, promotionType);
+
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("pTabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      if (tabcontent[i].id == promoId) {
+        tabcontent[i].style.display = "block";
+      } else {
+        tabcontent[i].style.display = "none";
+      }
+    }
+
+    tablinks = document.getElementsByClassName("pTablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+      tablinks[i].style.background = "linear-gradient(to right, #bc88bc, #ca8abe, #d88bbe, #e68dbd, #f38fbb)";
+    }
+
+    document.getElementById(promoId).style.display = "block";
+    var element = document.getElementById("tabLinks" + promoId)
+    element.classList.add("active");
+    element.style.background = "linear-gradient(to right, #6a1c45, #801f4c, #962252, #ac2656, #c32b59)";
+  }
+
+  async function getPointData(promoId, promotionType) {
+    if (promotionType === 'POINTCOV') {
+      $.ajax({
+        type: "post",
+        cache: false,
+        async: true,
+        url: '/getAccountPoint/' + promoId+'?gaiatoken=',
+        dataType: "json",
+        success: function (data) {
+          if (data.status) {
+            $("#rate" + promoId).text(data.converRate);
+            $("#integral" + promoId).text(format_number(data.accountPoint));
+          }
+        }
+      });
+    }
+  }
+    
+  async function getRoulettePoints(promoId, promotionType) {
+    if (promotionType === 'ROULETTE') {
+      $.ajax({
+        type: "post",
+        cache: false,
+        async: true,
+        url: '/getRoulettePoints/' + promoId+'?gaiatoken=',
+        dataType: "json",
+        success: function (data) {
+          if (data.status) {
+            $("#accountPoint" + promoId).text(data.accountPoint);
+            $("#remainingTime" + promoId).text(format_number(data.remainingTime));
+            $("#roulettePoint" + promoId).val(data.roulettePoint);
+              
+            if(format_number(data.remainingTime) == 0){
+              var spin = document.getElementById("spin" + promoId);
+              if (spin) {
+              	spin.disabled = true;
+              }
+//              spin.classList.add("jfzh-btn2");
+            }
+          }
+        }
+      });
+    }
+
+    var styleColor=['#9F4FFF','#FF474F','#FF5F81','#FFAC46','#FFE546','#77BF53','#5ED3FE','#3561FE'];
+    var elmList = document.getElementsByClassName("conds" + promoId);
+    for (i = 0; i < elmList.length; i++) {
+        elmList[i].style.borderTopColor  = styleColor[i];
+    }
+  }
+  var inProcessOfSubmitParticipate = false;
+  function submitParticipate(id){
+    console.log("submitParticipate", id, ", inProcessOfSubmitParticipate", inProcessOfSubmitParticipate);
+    if(inProcessOfSubmitParticipate) return;
+    else{
+        inProcessOfSubmitParticipate = true;
+        var promoIdArr = id.split("-");
+        var promoId = promoIdArr[1];
+
+        $.ajax({
+          url: '/submitParticipate/' + promoId +'?gaiatoken=',
+          dateType: "json",
+          type: "post"
+        }).done(function (res) {
+          inProcessOfSubmitParticipate = false;
+          if (res.status)
+            $.altDialog({
+              title: lang.translate('提示'),
+              content: res.msg,
+              yesText: lang.translate('确定'),
+              done: function () {
+                  $('#' + id).hide();
+                  $('#btn-' + promoId).show();
+              }
+            });
+          else
+            $.altDialog({title: lang.translate('提示'), content: res.msg, yesText: lang.translate('确定')});
+        });
+    }
+  }
+  var inProcessOfSubmitPromo = false;
+  function submitPromo(id) {
+    console.log("submitPromo", id, ", inProcessOfSubmitPromo", inProcessOfSubmitPromo);
+
+    var pointsRoulette = 0;
+    var probabilityRoulette = 0;
+    var points = 0;
+    var promoId = id.split("-");
+
+    var promoName = document.getElementById("promoName" + promoId[1]).textContent;
+    var htmlStr = "<div><span lang='zh'>活动名称：</span>" + "<span>" + promoName + "</span></div>";
+    var condKey = document.getElementsByClassName("cond" + promoId[1]);
+    var condValue = document.getElementsByClassName("value" + promoId[1]);
+
+    for (i = 0; i < condKey.length; i++) {
+      htmlStr += "<div><span lang='zh'>" + condKey[i].innerHTML + "</span>";
+      for (j = 0; j < condValue.length; j++) {
+        if (j == i) {
+        if(condKey[i].hasAttribute("data-key")){
+        		var amount = parseFloat(condValue[j].innerHTML);
+        		htmlStr += "<span lang='zh'>" + (amount<0?0:amount) + "</span></div>";
+        	}else{
+        		htmlStr += "<span lang='zh'>" + condValue[j].innerHTML + "</span></div>";
+        	}
+        }
+      }
+    }
+
+    var applyStatus = document.getElementById("promoName" + promoId[1]).getAttribute("applyStatus");
+    if(applyStatus == 1){
+    	var balanceNum = document.getElementById("balanceNum" + promoId[1]);
+    	var currLv = $('input#currLv'+promoId[1]).val();
+    	if(currLv === "true"){
+    		htmlStr += "<div><span lang='zh'>等级</span>: ";
+       	    htmlStr += "<span lang='zh'>" + balanceNum.getAttribute("accountLevelName") + "</span></div>";
+    	}
+
+   	 	htmlStr += "<div><span lang='zh'>可获得彩金/积分</span>: ";
+   	 	htmlStr += "<span lang='zh'>" + balanceNum.getAttribute("rewardAmount") + "</span></div>";
+
+	    htmlStr += "<div><span lang='zh'>申请后剩余申请次数</span>: ";
+	    var newBalanceNum = parseInt(balanceNum.innerHTML)-1;
+	    htmlStr += "<span lang='zh'>" + newBalanceNum + "</span></div>";
+    } else {
+        var rewardNum = document.getElementById("rewardNum" + promoId[1]);
+        htmlStr += "<div><span lang='zh'>可获得彩金/积分</span>: ";
+        htmlStr += "<span lang='zh'>" + rewardNum.getAttribute("rewardAmount") + "</span></div>";
+    }
+    htmlStr += "<div lang='zh' style='margin-top:20px'>请在活动更新前提交申请，逾时不候。</div>";
+    if(inProcessOfSubmitPromo) return;
+    else{
+        inProcessOfSubmitPromo = true;
+
+        $.altDialog({
+          title: lang.translate("优惠活动申请"),
+          content: lang.translate(htmlStr),
+          yesText: lang.translate('确定'),
+          noText: lang.translate('取消'),
+          style: "confirm",
+          done: function () {
+            $.ajax({
+              url: '/submitPromo/' + promoId[1]+'?gaiatoken=',
+              dateType: "json",
+              data: {points: points, pointsRoulette:pointsRoulette, probabilityRoulette:probabilityRoulette},
+              type: "post"
+            }).done(function (res) {
+              inProcessOfSubmitPromo = false;
+              if (res.status)
+                $.altDialog({
+                  title: lang.translate('提示'),
+                  content: res.msg,
+                  yesText: lang.translate('确定'),
+                  done: function () {
+                    document.getElementById(id).innerHTML = lang.translate("-已提交申请-");
+                    document.getElementById(id).disabled = true;
+                  }
+                });
+              else
+                $.altDialog(
+                    {title: lang.translate('提示'), content: res.msg, yesText: lang.translate('确定')});
+            });
+          },
+          cancel: function () {
+            inProcessOfSubmitPromo = false;
+          },
+        });
+    }
+  }
+
+  function qianDao() {
+    var login = 0;
+    if (login == 1) {
+      window.location.href = "/member-center/jump?path=/member-center/my-account/sign&gaiatoken=";
+    } else {
+      window.location.href = "/login";
+    }
+  }
+
+  function reset(id) {
+    document.getElementById("points" + id).value = "";
+    document.getElementById("reward" + id).value = "";
+  }
+
+  function calculateReward(id) {
+    var points = document.getElementById("points" + id).value;
+    var rate = document.getElementById("rate" + id).textContent;
+
+    if (rate != null) {
+      document.getElementById("reward" + id).value = (points / rate);
+    }
+  }
+
+  function submitJfzh(id) {
+    //积分转换
+    var points = document.getElementById("points" + id).value;
+    var reward = document.getElementById("reward" + id).value;
+    var integral = document.getElementById("integral" + id).textContent;
+    var login = 0;
+    var pointsRoulette = 0;
+    var probabilityRoulette = 0;
+    var applyStatus = document.getElementById("points" + id).getAttribute("applyStatus");
+	var balanceNum = document.getElementById("points" + id).getAttribute("balanceNum");
+
+    if (login==0){
+         $.altDialog({
+          title: lang.translate('提示'),
+          content: lang.translate('请登录'),
+          yesText: lang.translate('确定')
+        });
+    } else if(points == null || points == 0){
+        $.altDialog({
+          title: lang.translate('提示'),
+          content: lang.translate('请输入积分值'),
+          yesText: lang.translate('确定')
+        });
+    } else if ((integral-points) < 0 ){
+        $.altDialog({
+          title: lang.translate('提示'),
+          content: lang.translate('可用积分不足'),
+          yesText: lang.translate('确定')
+        });
+    } else if(applyStatus == 1 && balanceNum < 1){
+   	 	$.altDialog({
+         title: lang.translate('提示'),
+         content: lang.translate('申请次数不足'),
+         yesText: lang.translate('确定')
+       });
+	} else {
+		var htmlStr = "<div><span lang='zh' style='float: left;margin-left: 25px;'>" + lang.translate("已转换积分")
+                    + "：</span><span style='float: right;margin-right: 25px;'>" + points + "</span><br/></div>";
+        htmlStr += "<div><span lang='zh' style='float: left;margin-left: 25px;'>" + lang.translate("剩余积分") 
+                    + "：</span><span style='float: right;margin-right: 25px;'>" + (integral-points) + "</span><br/></div>";
+        htmlStr += "<div><span lang='zh' style='float: left;margin-left: 25px;'>" + lang.translate("转换金额") 
+                    + "：</span><span style='float: right;margin-right: 25px;'>" + reward + "</span><br/></div>";
+
+        $.ajax({
+          url: '/submitPromo/' + id +'?gaiatoken=',
+          dateType: "json",
+          data: {points: points, pointsRoulette:pointsRoulette, probabilityRoulette:probabilityRoulette},
+          type: "post"
+        }).done(function (res) {
+          if (res.status){
+              document.getElementById("integral" + id).textContent = (integral-points);
+              document.getElementById("points" + id).value="";
+              document.getElementById("reward" + id).value="0.00";
+              
+              document.getElementById("promoPopUp").style.display = "block";
+              document.getElementById("pTitle").textContent = lang.translate("转换成功！");
+              document.getElementById("pContent").innerHTML = htmlStr;
+              
+              document.getElementById("submitJfzh" + id).disabled = true;
+              document.getElementById("jfzhReset" + id).disabled = true;
+              disabledScrolling(id);
+              
+          } else {
+              document.getElementById("promoPopUp").style.display = "block";
+              document.getElementById("pTitle").textContent = "";
+              document.getElementById("pContent").innerHTML = '<span style="margin-bottom:30px;display: block;" lang="zh">' + lang.translate(res.msg)+'</span>';
+              
+              document.getElementById("submitJfzh" + id).disabled = true;
+              document.getElementById("jfzhReset" + id).disabled = true;
+              disabledScrolling(id);
+          }
+        });
+    }
+  }
+
+  function format_number(n) {
+    return n.toFixed(0).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
+  }
+    
+  function spin(id){
+    var login = 0;
+    var currPoint = document.getElementById("accountPoint" + id).textContent;
+    var remainTime = document.getElementById("remainingTime" + id).textContent;
+    var pRoulette = $("input#roulettePoint"+id).val();
+    var applyStatus = document.getElementById("accountPoint" + id).getAttribute("applyStatus");
+	var balanceNum = document.getElementById("accountPoint" + id).getAttribute("balanceNum");
+      
+    if (login==0){
+         $.altDialog({
+          title: lang.translate('提示'),
+          content: lang.translate('请登录'),
+          yesText: lang.translate('确定')
+        });
+    } else if (currPoint <= 0 || remainTime <= 0 || (currPoint-pRoulette) < 0){
+        $.altDialog({
+          title: lang.translate('提示'),
+          content: lang.translate('可用积分不足'),
+          yesText: lang.translate('确定')
+        });       
+    } else if(applyStatus == 1 && balanceNum < 1){
+    	 $.altDialog({
+             title: lang.translate('提示'),
+             content: lang.translate('申请次数不足'),
+             yesText: lang.translate('确定')
+           });
+    } else {
+        var timer = 9000;
+        var spin = document.getElementById("spin" + id);
+        if (spin) {
+        	spin.disabled = true;
+        }
+//        spin.classList.add("jfzh-btn2");
+
+        var probability = document.getElementsByClassName("p" + id);
+        var probList = [];
+        for (i = 0; i < probability.length; i++) {
+            probList.push(probability[i].value);
+        }
+        //probList.sort(function(a, b){return b-a}); //sort desc order
+
+        var num1 = Math.floor((Math.random() * 100) + 1);
+        var num2 =0;
+        var total = 1;
+        for (i = 0;i <probList.length; i++ ) {
+            total = total + parseInt(probList[i]);
+            if (num1 < total) {
+                num2 = i;
+                break;
+            }
+        }
+        var index = num2;
+        /*
+        var pb = probability;
+        var index = 0;
+        for (j = 0; j < pb.length; j++) {
+            var pbval = pb[j].value;
+            if (pbval == probList[num2]){
+                index = j;
+                break;
+            }
+        }
+        */
+        var index2 = 0;
+        if (index == 0){
+            index2 = 8;
+        } else if (index == 1){
+            index2 = 7;
+        }else if (index == 2){
+            index2 = 6;
+        }else if (index == 3){
+            index2 = 5;
+        }else if (index == 4){
+            index2 = 4;
+        }else if (index == 5){
+            index2 = 3;
+        }else if (index == 6){
+            index2 = 2;
+        }else if (index == 7){
+            index2 = 1;
+        }
+        
+        var degree = (360*times) + (360/8)*index2;       
+        $(".plate").css("transition", "transform 10s cubic-bezier(0.3, 1, 0.7, 1),10s filter cubic-bezier(0.1, 1, 0.8, 1),10s -webkit-filter cubic-bezier(0.1, 1, 0.8, 1)");
+        $(".plate").css("transform", "rotateZ(" + degree+ "deg)");
+        console.log("zhong jiang:",document.getElementById("amount" + id + index).textContent);
+
+
+        setTimeout(function(){
+            if (spin) {
+            	spin.disabled = false;
+            }
+//            spin.classList.remove("jfzh-btn2");
+            
+            if(times == 5){
+                times = times*2;
+            } else {
+                times = times/2;
+            }
+            
+            var points = 0;
+            var accountPoint = document.getElementById("accountPoint" + id).textContent;
+            var pointsRoulette = $("input#roulettePoint"+id).val();
+            var probabilityRoulette = probList[num2];
+
+            var amount = document.getElementById("amount" + id + index).textContent;
+            var htmlStr = "<div style='text-align:center'><span>" + lang.translate('恭喜！您已赢取') + "</span><br/>" 
+                        + "<span style='color:#ff7410;font-size: 25px;'> " + amount + "</span></div>";
+                        
+            var rouletteRewardType = $('input#rouletteRewardType').val();
+            console.log("index rouletteRewardType", rouletteRewardType);
+			console.log("index rouletteRewardValue", amount);
+            console.log("probabilityRoulette",probabilityRoulette)
+            $.ajax({
+              url: '/submitPromo/' + id +'?gaiatoken=',
+              dateType: "json",
+              data: {points: points, pointsRoulette:pointsRoulette, probabilityRoulette:probabilityRoulette, rouletteRewardType:rouletteRewardType, rouletteRewardValue:amount},
+              type: "post"
+            }).done(function (res) {
+              if (res.status){
+                   document.getElementById("promoPopUp").style.display = "block";
+                   document.getElementById("pTitle").textContent = "";
+                   document.getElementById("pContent").innerHTML = htmlStr;
+                  
+                   var remainingTime = document.getElementById("remainingTime" + id).textContent;
+                   document.getElementById("remainingTime" + id).textContent = (remainingTime - 1);
+                   document.getElementById("accountPoint" + id).textContent = (accountPoint - pointsRoulette);
+                  
+                   document.getElementById("spin" + id).disabled = true;
+                   disabledScrolling(id);
+                
+              } else {
+                   document.getElementById("promoPopUp").style.display = "block";
+                   document.getElementById("pTitle").textContent = "";
+                   document.getElementById("pContent").innerHTML = '<span style="margin-bottom:30px;display: block;">'+lang.translate(res.msg) +'</span>';
+                  
+                   document.getElementById("spin" + id).disabled = true;
+                   disabledScrolling(id);
+              }
+            });
+        }, timer);
+    }
+  }
+    
+  function isNumber(evt) {
+    evt = (evt) ? evt : window.event;
+    var charCode = (evt.which) ? evt.which : evt.keyCode;
+    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+        return false;
+    }
+    return true;
+  }   
+    
+  function closePopUp(){
+    document.getElementById("promoPopUp").style.display="none";
+      
+    document.getElementById("promoCol4").style.overflowY = "auto";
+      
+    var frameList =  document.getElementsByClassName("frame");
+    for (i = 0; i < frameList.length; i++) {
+        frameList[i].style.overflowY = "auto";
+    }
+      
+    var spinList =  document.getElementsByClassName("spin");
+    for (i = 0; i < spinList.length; i++) {
+        var spinDisabled = spinList[i].disabled;
+        if(spinDisabled){
+            spinList[i].disabled = false;
+        }
+    }
+      
+    var tabBtn = document.getElementsByClassName("tabBtn");
+    for (i = 0; i < tabBtn.length; i++) {
+        tabBtn[i].disabled = false;
+    }
+      
+    var tablinks = document.getElementsByClassName("pTablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].style.width = "";
+    }
+    
+    var submitList =  document.getElementsByClassName("submitJfzh");
+    for (i = 0; i < submitList.length; i++) {
+        var subDisabled = submitList[i].disabled;
+        if(subDisabled){
+            submitList[i].disabled = false;
+        }
+    }
+      
+    var resetList =  document.getElementsByClassName("jfzhReset");
+    for (i = 0; i < resetList.length; i++) {
+        var resDisabled = resetList[i].disabled;
+        if(resDisabled){
+            resetList[i].disabled = false;
+        }
+    }
+  }
+
+ function disabledScrolling(id) {
+    document.getElementById("frame" + id).style.overflowY = "hidden";
+    document.getElementById("promoCol4").style.overflowY = "hidden";
+
+    var tabBtn = document.getElementsByClassName("tabBtn");
+    for (i = 0; i < tabBtn.length; i++) {
+        tabBtn[i].disabled = true;
+    }
+
+    var tablinks = document.getElementsByClassName("pTablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].style.width = "85%";
+    }
+ }
+ 
+ 	function openDialogNotice(noticeId) {
+	    var i, tabcontent, tablinks;
+	    tablinks = document.getElementsByClassName("nTablinks");
+	    for (i = 0; i < tablinks.length; i++) {
+	      tablinks[i].className = tablinks[i].className.replace(" active", "");
+	      //tablinks[i].style.background = "linear-gradient(to right, #bc88bc, #ca8abe, #d88bbe, #e68dbd, #f38fbb)";
+	      tablinks[i].style.background = "rgb(180,180,180)";
+	      tablinks[i].style.color = "black";
+	    }
+
+	    var element = document.getElementById("tabLinks" + noticeId)
+	    if (element) {
+		    element.classList.add("active");
+		    //element.style.background = "linear-gradient(to right, #6a1c45, #801f4c, #962252, #ac2656, #c32b59)";
+		    element.style.background = "#3A3A3A";
+		    element.style.color = "white";
+	    }
+
+	    tabcontent = document.getElementsByClassName("nTabcontent");
+	    for (i = 0; i < tabcontent.length; i++) {
+	      if (tabcontent[i].id == noticeId) {
+	        tabcontent[i].style.display = "block";
+	      } else {
+	        tabcontent[i].style.display = "none";
+	      }
+	    }
+	    if (noticeId) {
+		    document.getElementById(noticeId).style.display = "block";
+	    } else {
+	    	tabcontent[0].style.display = "block";
+		      tablinks[0].className = tablinks[0].className.replace("nTablinks", "nTablinks active");
+		      //tablinks[0].style.background = "linear-gradient(to right, #6a1c45, #801f4c, #962252, #ac2656, #c32b59)";
+		      tablinks[0].style.background = "#3A3A3A";
+		      tablinks[0].style.color = "white";
+	    }
+
+	}
+ 	
+	function closeDialogNotice() {
+	    document.getElementById("newDiagNotice").style.display = "none";
+	}
+	
+	app.controller('cp98Ctrl', ['$scope','$http',function($scope,$http) {
+		$scope.jumpGame = function (val){
+	      	var gaiaToken = "";
+	      	  if(gaiaToken==""){
+	      			top.location.href = "/third-login/"+val;
+	      		 	//window.open('/third-login/'+val, '_blank');
+	      	  }else{
+	      		  if(val.includes('safe_') || val.includes('safe')){
+	      			  window.open('/third-login/'+val+"?gaiatoken=", '_self');	  
+	      		  }else{
+	      			  top.location.href = "/third-login/"+val+"?gaiatoken=";  
+	      		  }
+	      	  }
+	      }
+	}]);
+
+
+</script>
+
+
+</div></div></div></body>

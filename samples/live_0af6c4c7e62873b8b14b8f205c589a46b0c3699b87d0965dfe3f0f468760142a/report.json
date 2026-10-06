@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_0af6c4c7e62873b8b14b8f205c589a46b0c3699b87d0965dfe3f0f468760142a",
+  "candidate_sha256": "fa12d02c4fbc5bc23239e539d03e51617d38c0b7f6018c7c10b99e9a15dea9db",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://mayxanhsaigon.com",
+  "requested_url": "https://mayxanhsaigon.com",
+  "browser_final_url": "https://mayxanhsaigon.com/",
+  "source_urls": [
+    "https://mayxanhsaigon.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 4677,
+      "source_url": "https://mayxanhsaigon.com",
+      "source_hostname": "mayxanhsaigon.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://mayxanhsaigon.com",
+      "final_hostname": "mayxanhsaigon.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 61074,
+      "elapsed_ms": 1130,
+      "checked_at": "2026-10-05T12:41:04.456283+00:00",
+      "error": null,
+      "normalized_source_url": "https://mayxanhsaigon.com/",
+      "normalized_final_url": "https://mayxanhsaigon.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_0af6c4c7e62873b8b14b8f205c589a46b0c3699b87d0965dfe3f0f468760142a",
+    "representative_source_index": 4677,
+    "representative_source_url": "https://mayxanhsaigon.com",
+    "representative_final_url": "https://mayxanhsaigon.com",
+    "normalized_final_url": "https://mayxanhsaigon.com/",
+    "source_hostname": "mayxanhsaigon.com",
+    "final_hostname": "mayxanhsaigon.com",
+    "source_urls": [
+      "https://mayxanhsaigon.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 4677,
+        "source_url": "https://mayxanhsaigon.com",
+        "source_hostname": "mayxanhsaigon.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://mayxanhsaigon.com",
+        "final_hostname": "mayxanhsaigon.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 61074,
+        "elapsed_ms": 1130,
+        "checked_at": "2026-10-05T12:41:04.456283+00:00",
+        "error": null,
+        "normalized_source_url": "https://mayxanhsaigon.com/",
+        "normalized_final_url": "https://mayxanhsaigon.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Điện Máy Sài Gòn - Sửa Chữa & Bảo Trì Máy Lạnh Chuyên Nghiệp",
+  "capture_timestamp": "2026-10-05T14:34:47.107433+00:00",
+  "dom_chars": 58623,
+  "screenshot_bytes": 991349,
+  "dom_sha256": "bc0839bad0bf8e141adaddb11a74b6544d647016d7fa1557533497b0a579e3de",
+  "screenshot_sha256": "27b87970fae91f84b4be7c7736c07146782d9afdfbfd7c849e74710167d5d36e",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://mayxanhsaigon.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://mayxanhsaigon.com",
+    "browser_final_url": "https://mayxanhsaigon.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5247
+}

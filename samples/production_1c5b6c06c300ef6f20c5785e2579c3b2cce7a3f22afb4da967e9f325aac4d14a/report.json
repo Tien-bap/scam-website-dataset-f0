@@ -1,0 +1,27 @@
+{
+  "original_url": "https://obloga.hr/",
+  "hostname": "obloga.hr",
+  "checked_at": "2026-10-04T14:26:08.142569+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fcd48-9380-7654-bf18-696b77da4c2d",
+  "match_kind": "exact_url",
+  "capture_timestamp": "2026-08-04T14:58:49.913Z",
+  "scan_original_url": "https://obloga.hr/",
+  "final_url": "https://obloga.hr/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3630,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.941,
+  "discovery": {
+    "batch_id": "2e28b8d35ae53976305e1f0f184ea4fa6d9a5e23e5e8c04f81aca52f5e184792",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

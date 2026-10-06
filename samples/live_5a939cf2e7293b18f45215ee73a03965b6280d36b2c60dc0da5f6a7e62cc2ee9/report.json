@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_5a939cf2e7293b18f45215ee73a03965b6280d36b2c60dc0da5f6a7e62cc2ee9",
+  "candidate_sha256": "7737831ead6a823ee171e206ac289f87297eabe66d55eea9a2b154d6691d9af7",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://www.elemporiolibros.com/Puy/no-no/",
+  "requested_url": "https://www.elemporiolibros.com/",
+  "browser_final_url": "https://www.elemporiolibros.com/",
+  "source_urls": [
+    "https://www.elemporiolibros.com/Puy/no-no/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 56247,
+      "source_url": "https://www.elemporiolibros.com/Puy/no-no/",
+      "source_hostname": "www.elemporiolibros.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.elemporiolibros.com/",
+      "final_hostname": "www.elemporiolibros.com",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1643,
+      "checked_at": "2026-10-05T12:54:13.199620+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.elemporiolibros.com/Puy/no-no/",
+      "normalized_final_url": "https://www.elemporiolibros.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_5a939cf2e7293b18f45215ee73a03965b6280d36b2c60dc0da5f6a7e62cc2ee9",
+    "representative_source_index": 56247,
+    "representative_source_url": "https://www.elemporiolibros.com/Puy/no-no/",
+    "representative_final_url": "https://www.elemporiolibros.com/",
+    "normalized_final_url": "https://www.elemporiolibros.com/",
+    "source_hostname": "www.elemporiolibros.com",
+    "final_hostname": "www.elemporiolibros.com",
+    "source_urls": [
+      "https://www.elemporiolibros.com/Puy/no-no/"
+    ],
+    "provenance": [
+      {
+        "source_index": 56247,
+        "source_url": "https://www.elemporiolibros.com/Puy/no-no/",
+        "source_hostname": "www.elemporiolibros.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.elemporiolibros.com/",
+        "final_hostname": "www.elemporiolibros.com",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1643,
+        "checked_at": "2026-10-05T12:54:13.199620+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.elemporiolibros.com/Puy/no-no/",
+        "normalized_final_url": "https://www.elemporiolibros.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Pemudatogel: Daftar Judi Togel Online, Login Togel Pemudatogel, Link Resmi Auto Gacor",
+  "capture_timestamp": "2026-10-05T14:43:40.362909+00:00",
+  "dom_chars": 99642,
+  "screenshot_bytes": 960942,
+  "dom_sha256": "f4c0c773331a298f7d330aaeb6c8ea8ad99cf7c8cf9fd7284819e637762e8fd4",
+  "screenshot_sha256": "1265a409b029db542878b7592b1d1318e1e2fc8112aaadaca4d26df4523e8895",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.elemporiolibros.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.elemporiolibros.com/",
+    "browser_final_url": "https://www.elemporiolibros.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4160
+}

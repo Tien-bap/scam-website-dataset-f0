@@ -1,0 +1,27 @@
+{
+  "original_url": "https://salesdriver.io/wp-admin/maint/Europeindex/march/",
+  "hostname": "salesdriver.io",
+  "checked_at": "2026-10-04T14:01:05.618442+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fa838-c7d2-73aa-bf3e-6712590279e1",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-28T10:15:31.042Z",
+  "scan_original_url": "https://meetitnow.com/",
+  "final_url": "https://salesdriver.io/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 12408,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.468,
+  "discovery": {
+    "batch_id": "766a52ca20ea927cfb1e2bdbbb1776232b4f8e709715e7bb409ddbab0fb840d0",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

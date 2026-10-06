@@ -1,0 +1,27 @@
+{
+  "original_url": "https://money-finance.net",
+  "hostname": "money-finance.net",
+  "checked_at": "2026-10-04T13:34:29.748331+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fd6cd-cf73-7301-b5cc-79caafe33d47",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-08-06T11:20:47.727Z",
+  "scan_original_url": "https://www.money-finance.net/",
+  "final_url": "https://money-finance.net/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5727,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.66,
+  "discovery": {
+    "batch_id": "ab09da604a5fe30cc151ef3e9478f2b69745c475a87269df6ccc2c63adb4941f",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

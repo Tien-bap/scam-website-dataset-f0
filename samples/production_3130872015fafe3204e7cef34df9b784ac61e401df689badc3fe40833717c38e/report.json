@@ -1,0 +1,27 @@
+{
+  "original_url": "http://pericena.github.io/",
+  "hostname": "pericena.github.io",
+  "checked_at": "2026-10-04T15:58:06.284019+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 11,
+  "candidates_checked": 2,
+  "selected_scan_uuid": "01a06921-8b15-7729-bd6e-9f3bfdca0137",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-03T21:16:47.287Z",
+  "scan_original_url": "http://pericena.github.io/RABooks.io",
+  "final_url": "https://pericena.github.io/RABooks.io/pokemon.html",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 160,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.624,
+  "discovery": {
+    "batch_id": "dba2251f0dde1352fa65611c0343543db782cb934962022b99f532ce7abe01c1",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.webfamily.com.br/simplific.com.br/.well-known/acme-challenge/recominicas.php",
+  "hostname": "www.webfamily.com.br",
+  "checked_at": "2026-10-04T14:22:04.352010+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fa306-6e06-73dc-bda5-9b6a5db019f0",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-27T10:02:42.994Z",
+  "scan_original_url": "http://www.webfamily.com.br/",
+  "final_url": "http://www.webfamily.com.br/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 727,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 1.533,
+  "discovery": {
+    "batch_id": "05676f413fbf3c7093dd041a84ec4be42a836cd1ad4f1566d56e63b4edb5aa29",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "original_url": "vpbank.uudaithe-hotro247-thang11.com.vn",
+  "hostname": "vpbank.uudaithe-hotro247-thang11.com.vn",
+  "checked_at": "2026-10-04T10:35:06.249489+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "8997a80a-e05c-4ddc-8202-e82d86e8f913",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2024-11-11T08:20:26.287Z",
+  "scan_original_url": "https://vpbank.uudaithe-hotro247-thang11.com.vn/",
+  "final_url": "https://vpbank.uudaithe-hotro247-thang11.com.vn/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 21575,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 7.449
+}

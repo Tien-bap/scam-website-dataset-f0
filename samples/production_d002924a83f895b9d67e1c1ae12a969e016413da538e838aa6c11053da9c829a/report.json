@@ -1,0 +1,27 @@
+{
+  "original_url": "https://lienhoavn.com",
+  "hostname": "lienhoavn.com",
+  "checked_at": "2026-10-04T13:34:23.908331+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a036a6-5f9b-728e-93b8-1d3b0dac082c",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-08-25T02:01:16.715Z",
+  "scan_original_url": "https://lienhoavn.com/",
+  "final_url": "https://lienhoavn.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 7124,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.244,
+  "discovery": {
+    "batch_id": "5bc7597fd93cc7fc645a8020b26664e9d9c03fb55b4305c175811c87daf04f07",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

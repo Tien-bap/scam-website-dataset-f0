@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_4ffd3ccdd6e967a6a6df8a0a60b2edfce5165c3a0743b20eaf705fd86156d990",
+  "candidate_sha256": "8ba93463258f8048180bea1807a1959f83cec01b068f6324c4b464e16d3150a0",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "vn-t.com",
+  "requested_url": "https://vn-t.com",
+  "browser_final_url": "https://vn-t.com/",
+  "source_urls": [
+    "vn-t.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 3111,
+      "source_url": "vn-t.com",
+      "source_hostname": "vn-t.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://vn-t.com",
+      "final_hostname": "vn-t.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1252,
+      "checked_at": "2026-10-05T12:40:48.480356+00:00",
+      "error": null,
+      "normalized_source_url": "https://vn-t.com/",
+      "normalized_final_url": "https://vn-t.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_4ffd3ccdd6e967a6a6df8a0a60b2edfce5165c3a0743b20eaf705fd86156d990",
+    "representative_source_index": 3111,
+    "representative_source_url": "vn-t.com",
+    "representative_final_url": "https://vn-t.com",
+    "normalized_final_url": "https://vn-t.com/",
+    "source_hostname": "vn-t.com",
+    "final_hostname": "vn-t.com",
+    "source_urls": [
+      "vn-t.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 3111,
+        "source_url": "vn-t.com",
+        "source_hostname": "vn-t.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://vn-t.com",
+        "final_hostname": "vn-t.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1252,
+        "checked_at": "2026-10-05T12:40:48.480356+00:00",
+        "error": null,
+        "normalized_source_url": "https://vn-t.com/",
+        "normalized_final_url": "https://vn-t.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "VNT | Diễn đàn công nghệ số",
+  "capture_timestamp": "2026-10-05T14:42:37.036611+00:00",
+  "dom_chars": 176403,
+  "screenshot_bytes": 589218,
+  "dom_sha256": "31318cc69d70885bdde5a958e7e891c723097ef720a8d71a4d2bb91a40e561e5",
+  "screenshot_sha256": "71063b676a0334b0fd246332cf6c13cc5756e6be2c0a0ba218150fd4ca08b742",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://vn-t.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://vn-t.com",
+    "browser_final_url": "https://vn-t.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 6,
+    "method": 6
+  },
+  "blocked_responses": 2,
+  "downloaded_files": 0,
+  "elapsed_ms": 3697
+}

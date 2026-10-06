@@ -1,0 +1,27 @@
+{
+  "original_url": "https://gorillatrekking.com/rrs/Office365/Login/",
+  "hostname": "gorillatrekking.com",
+  "checked_at": "2026-10-04T15:50:10.977275+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0af97-cfb9-77af-8ab6-a9793e307146",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-17T13:39:41.123Z",
+  "scan_original_url": "http://gorillatrekking.com/",
+  "final_url": "https://www.gorillatrekking.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 20360,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 53.163,
+  "discovery": {
+    "batch_id": "a74618dcd6cb949ab976e5cf214ffa7b1832caad6a31b787fbe1c3aaca6745a7",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

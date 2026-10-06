@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_91583c988200859947ac216f81f3c1b2228ee5318646cdaa1e9679204a3472ff",
+  "candidate_sha256": "fa2d1ab3e26d3b7b8f79cbd8483f551f290c8163b476ec73f759a081556b522a",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://www.jun88y.com",
+  "requested_url": "https://www.yeahwrite.co/",
+  "browser_final_url": "https://www.yeahwrite.co/",
+  "source_urls": [
+    "https://www.jun88y.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1085,
+      "source_url": "https://www.jun88y.com",
+      "source_hostname": "www.jun88y.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.yeahwrite.co/",
+      "final_hostname": "www.yeahwrite.co",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1830,
+      "checked_at": "2026-10-05T12:18:20.060188+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.jun88y.com/",
+      "normalized_final_url": "https://www.yeahwrite.co/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_91583c988200859947ac216f81f3c1b2228ee5318646cdaa1e9679204a3472ff",
+    "representative_source_index": 1085,
+    "representative_source_url": "https://www.jun88y.com",
+    "representative_final_url": "https://www.yeahwrite.co/",
+    "normalized_final_url": "https://www.yeahwrite.co/",
+    "source_hostname": "www.jun88y.com",
+    "final_hostname": "www.yeahwrite.co",
+    "source_urls": [
+      "https://www.jun88y.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 1085,
+        "source_url": "https://www.jun88y.com",
+        "source_hostname": "www.jun88y.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.yeahwrite.co/",
+        "final_hostname": "www.yeahwrite.co",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1830,
+        "checked_at": "2026-10-05T12:18:20.060188+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.jun88y.com/",
+        "normalized_final_url": "https://www.yeahwrite.co/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "FUN88 [yeahwrite] | Link Vào Trang Chủ FUN88.COM 2026",
+  "capture_timestamp": "2026-10-05T14:49:27.708891+00:00",
+  "dom_chars": 120136,
+  "screenshot_bytes": 697329,
+  "dom_sha256": "240ae74e5a1c68973d30608152c21c15a8cac54a4e68a88d11e55643b7c79e84",
+  "screenshot_sha256": "d4d546dd69c39c1814ae2b50085765210ebc58ff952d7d18c785d44175b1c84e",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.yeahwrite.co/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.yeahwrite.co/",
+    "browser_final_url": "https://www.yeahwrite.co/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4389
+}

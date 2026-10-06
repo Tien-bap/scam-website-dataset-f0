@@ -1,0 +1,282 @@
+{
+  "candidate_id": "live_1e64d044180e7833eb046b9a09f91f733bd8848537895d3c236f8fb40102dcd0",
+  "candidate_sha256": "ec7589535b37dcf6445936d7d3ea1bd8a4a541f3fc78ab3aa9bb46235fafcfca",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+  "requested_url": "https://sleepmaskz.co.uk/",
+  "browser_final_url": "https://sleepmaskz.co.uk/",
+  "source_urls": [
+    "http://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+    "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+    "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in/"
+  ],
+  "source_count": 3,
+  "provenance": [
+    {
+      "source_index": 16763,
+      "source_url": "http://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+      "source_hostname": "sleepmaskz.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sleepmaskz.co.uk/",
+      "final_hostname": "sleepmaskz.co.uk",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4503,
+      "checked_at": "2026-10-05T13:12:17.745782+00:00",
+      "error": null,
+      "normalized_source_url": "http://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+      "normalized_final_url": "https://sleepmaskz.co.uk/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 57909,
+      "source_url": "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in/",
+      "source_hostname": "sleepmaskz.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sleepmaskz.co.uk/",
+      "final_hostname": "sleepmaskz.co.uk",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4865,
+      "checked_at": "2026-10-05T13:17:08.554032+00:00",
+      "error": null,
+      "normalized_source_url": "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in/",
+      "normalized_final_url": "https://sleepmaskz.co.uk/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 65115,
+      "source_url": "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+      "source_hostname": "sleepmaskz.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://sleepmaskz.co.uk/",
+      "final_hostname": "sleepmaskz.co.uk",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4919,
+      "checked_at": "2026-10-05T13:18:01.290899+00:00",
+      "error": null,
+      "normalized_source_url": "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+      "normalized_final_url": "https://sleepmaskz.co.uk/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_1e64d044180e7833eb046b9a09f91f733bd8848537895d3c236f8fb40102dcd0",
+    "representative_source_index": 16763,
+    "representative_source_url": "http://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+    "representative_final_url": "https://sleepmaskz.co.uk/",
+    "normalized_final_url": "https://sleepmaskz.co.uk/",
+    "source_hostname": "sleepmaskz.com",
+    "final_hostname": "sleepmaskz.co.uk",
+    "source_urls": [
+      "http://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+      "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+      "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in/"
+    ],
+    "provenance": [
+      {
+        "source_index": 16763,
+        "source_url": "http://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+        "source_hostname": "sleepmaskz.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sleepmaskz.co.uk/",
+        "final_hostname": "sleepmaskz.co.uk",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4503,
+        "checked_at": "2026-10-05T13:12:17.745782+00:00",
+        "error": null,
+        "normalized_source_url": "http://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+        "normalized_final_url": "https://sleepmaskz.co.uk/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 57909,
+        "source_url": "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in/",
+        "source_hostname": "sleepmaskz.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sleepmaskz.co.uk/",
+        "final_hostname": "sleepmaskz.co.uk",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4865,
+        "checked_at": "2026-10-05T13:17:08.554032+00:00",
+        "error": null,
+        "normalized_source_url": "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in/",
+        "normalized_final_url": "https://sleepmaskz.co.uk/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 65115,
+        "source_url": "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+        "source_hostname": "sleepmaskz.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://sleepmaskz.co.uk/",
+        "final_hostname": "sleepmaskz.co.uk",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4919,
+        "checked_at": "2026-10-05T13:18:01.290899+00:00",
+        "error": null,
+        "normalized_source_url": "https://sleepmaskz.com/wp-admin/files-logs/logs/update-your-account-information/security-measure/log-in",
+        "normalized_final_url": "https://sleepmaskz.co.uk/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 3,
+    "unique_source_url_count": 3,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "SleepMaskz – Official Site | Advanced Sleep Technology",
+  "capture_timestamp": "2026-10-05T14:36:43.531679+00:00",
+  "dom_chars": 259037,
+  "screenshot_bytes": 326921,
+  "dom_sha256": "7b47fc09c9e1c144212958aa1a3cc603769a2d9601c2dbfe8790508daf37c469",
+  "screenshot_sha256": "fb69363572bdfbf2e4a293afaac1a84be10fb97a5fa65756473d0282bfd22d11",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://sleepmaskz.co.uk/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://sleepmaskz.co.uk/",
+    "browser_final_url": "https://sleepmaskz.co.uk/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 5,
+    "method": 23
+  },
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "elapsed_ms": 16573
+}

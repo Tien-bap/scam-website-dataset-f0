@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_348174d145f672e927115ed699ab8a8ef1359ef8192e596ed242de5765d5aba3",
+  "candidate_sha256": "2f885f36e61eb63f9a544527601405671a5428452e4a22039490fcc9acc1d898",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://qh88b.com",
+  "requested_url": "https://cau668.com/",
+  "browser_final_url": "https://cau668.com/",
+  "source_urls": [
+    "https://qh88b.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2974,
+      "source_url": "https://qh88b.com",
+      "source_hostname": "qh88b.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://cau668.com/",
+      "final_hostname": "cau668.com",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3251,
+      "checked_at": "2026-10-05T12:40:46.522010+00:00",
+      "error": null,
+      "normalized_source_url": "https://qh88b.com/",
+      "normalized_final_url": "https://cau668.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_348174d145f672e927115ed699ab8a8ef1359ef8192e596ed242de5765d5aba3",
+    "representative_source_index": 2974,
+    "representative_source_url": "https://qh88b.com",
+    "representative_final_url": "https://cau668.com/",
+    "normalized_final_url": "https://cau668.com/",
+    "source_hostname": "qh88b.com",
+    "final_hostname": "cau668.com",
+    "source_urls": [
+      "https://qh88b.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 2974,
+        "source_url": "https://qh88b.com",
+        "source_hostname": "qh88b.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://cau668.com/",
+        "final_hostname": "cau668.com",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3251,
+        "checked_at": "2026-10-05T12:40:46.522010+00:00",
+        "error": null,
+        "normalized_source_url": "https://qh88b.com/",
+        "normalized_final_url": "https://cau668.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 3,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "QH88 [cau668.com] – Trang Chủ QH88.Com Top #1 VN Tặng 888K",
+  "capture_timestamp": "2026-10-05T14:39:54.706141+00:00",
+  "dom_chars": 155871,
+  "screenshot_bytes": 854450,
+  "dom_sha256": "121e9848e3164c9a9bfdedb0bc57ca3f9bb5d52364df323f3da666cc4391ddff",
+  "screenshot_sha256": "d7956cc6f3a380702df7b59ada6de22550660155832b050ddfcd42e90755a2a9",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://cau668.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://cau668.com/",
+    "browser_final_url": "https://cau668.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 5,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 6435
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://dmbuild.bg/image/www.alibaba.com/ali/login.php",
+  "hostname": "dmbuild.bg",
+  "checked_at": "2026-10-04T15:47:03.000510+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e593-dbe7-72eb-9f41-b8908e9d66a6",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-28T01:14:39.747Z",
+  "scan_original_url": "http://dmbuild.bg/newsite/ali/login.php",
+  "final_url": "https://dmbuild.bg/index.php?_route_=newsite/ali/login.php",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4168,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.764,
+  "discovery": {
+    "batch_id": "f97c7ecf99131ee04d8802d530bd0638e23e3b02669361f07aa55a0486e21ab8",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

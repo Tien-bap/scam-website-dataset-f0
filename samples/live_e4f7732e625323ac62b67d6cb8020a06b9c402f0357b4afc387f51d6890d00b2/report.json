@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_e4f7732e625323ac62b67d6cb8020a06b9c402f0357b4afc387f51d6890d00b2",
+  "candidate_sha256": "abbe7476a5cd093dd5224f70b4886d74fd808a1555db6b18bad6e209ebb42d2d",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "ghjdfbb.com",
+  "requested_url": "https://ghjdfbb.com",
+  "browser_final_url": "https://ghjdfbb.com/",
+  "source_urls": [
+    "ghjdfbb.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11476,
+      "source_url": "ghjdfbb.com",
+      "source_hostname": "ghjdfbb.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://ghjdfbb.com",
+      "final_hostname": "ghjdfbb.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3163,
+      "checked_at": "2026-10-05T12:41:47.030357+00:00",
+      "error": null,
+      "normalized_source_url": "https://ghjdfbb.com/",
+      "normalized_final_url": "https://ghjdfbb.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_e4f7732e625323ac62b67d6cb8020a06b9c402f0357b4afc387f51d6890d00b2",
+    "representative_source_index": 11476,
+    "representative_source_url": "ghjdfbb.com",
+    "representative_final_url": "https://ghjdfbb.com",
+    "normalized_final_url": "https://ghjdfbb.com/",
+    "source_hostname": "ghjdfbb.com",
+    "final_hostname": "ghjdfbb.com",
+    "source_urls": [
+      "ghjdfbb.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 11476,
+        "source_url": "ghjdfbb.com",
+        "source_hostname": "ghjdfbb.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://ghjdfbb.com",
+        "final_hostname": "ghjdfbb.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3163,
+        "checked_at": "2026-10-05T12:41:47.030357+00:00",
+        "error": null,
+        "normalized_source_url": "https://ghjdfbb.com/",
+        "normalized_final_url": "https://ghjdfbb.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Ghjdfbb",
+  "capture_timestamp": "2026-10-05T14:59:12.608941+00:00",
+  "dom_chars": 76874,
+  "screenshot_bytes": 44984,
+  "dom_sha256": "033664236dadf1f0877d506289011ea97a85d0549fe15c14c17c543da86ec0bf",
+  "screenshot_sha256": "5ebfbec8a3a18e242053eb24bf89c450ebcb8dc34c72244962dfd6e52aaacca4",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://ghjdfbb.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://ghjdfbb.com",
+    "browser_final_url": "https://ghjdfbb.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 11859
+}

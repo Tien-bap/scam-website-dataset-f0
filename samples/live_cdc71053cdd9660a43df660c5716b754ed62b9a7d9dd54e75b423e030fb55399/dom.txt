@@ -1,0 +1,1310 @@
+<!DOCTYPE html><html lang="vi-VN" class="reveal-done"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>clmm – Sportsbook, Casino &amp; Slot Online tại Việt Nam</title>
+<meta name="description" content="clmm – nền tảng giải trí trực tuyến tại Việt Nam: sportsbook bóng đá, slot online, live casino, thanh toán VND, giao diện tiếng Việt, hỗ trợ mobile.">
+<link rel="canonical" href="https://clmm.bar/">
+<link rel="alternate" hreflang="vi-VN" href="https://clmm.bar/">
+<link rel="alternate" hreflang="x-default" href="https://clmm.bar/">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<meta property="og:type" content="website">
+<meta property="og:title" content="clmm – Sportsbook, Casino &amp; Slot Online tại Việt Nam">
+<meta property="og:description" content="clmm – nền tảng giải trí trực tuyến tại Việt Nam: sportsbook bóng đá, slot online, live casino, thanh toán VND, giao diện tiếng Việt, hỗ trợ mobile.">
+<meta property="og:url" content="https://clmm.bar/">
+<meta property="og:site_name" content="clmm">
+<meta property="og:image" content="https://clmm.bar/logo.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="clmm – nền tảng giải trí trực tuyến Việt Nam">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="clmm – Sportsbook, Casino &amp; Slot Online tại Việt Nam">
+<meta name="twitter:description" content="clmm – nền tảng giải trí trực tuyến tại Việt Nam: sportsbook bóng đá, slot online, live casino, thanh toán VND, giao diện tiếng Việt, hỗ trợ mobile.">
+<meta name="twitter:image" content="https://clmm.bar/logo.png">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+<style id="theme-tokens">:root{--page-bg:#faf6ef;--page-text:#3a2c1a;--page-heading:#2a1f10;--page-muted:#7a6347;--page-link:#a85d18;--btn-bg:#9a5212;--btn-text:#ffffff;--btn-hover:#7d420e;}
+html,body{background:#faf6ef;color:#3a2c1a;}
+body{-webkit-font-smoothing:antialiased;}
+h1,h2,h3,h4,h5,h6{color:#2a1f10;}
+p,li,span,strong,em,small,label,td,th,dd,dt,figcaption{color:inherit;}
+.muted,.text-muted{color:#7a6347 !important;}
+a:not(.btn){color:#a85d18;}
+a:not(.btn):hover,a:not(.btn):focus{color:#a85d18;text-decoration:underline;}
+.surface-page{background:#faf6ef !important;color:#3a2c1a;border-color:rgba(15,23,42,0.12);}
+.surface-page.surface-page h1,.surface-page.surface-page h2,.surface-page.surface-page h3,.surface-page.surface-page h4,.surface-page.surface-page h5,.surface-page.surface-page h6,.surface-page.surface-page .heading{color:#2a1f10;}
+.surface-page.surface-page :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.icon-circle):not(.icon-bubble){color:#3a2c1a;}
+.surface-page.surface-page *:not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not(.form-control):not(.form-select):not(input):not(textarea):not(select):not(option):not(.navbar-toggler):not([class*="surface-"]):not(a){color:inherit;}
+.surface-page.surface-page .icon-circle,.surface-page.surface-page .icon-bubble{background-color:#9a5212 !important;color:#ffffff !important;}
+.surface-page.surface-page .form-control,.surface-page.surface-page .form-select,.surface-page.surface-page input,.surface-page.surface-page textarea,.surface-page.surface-page select{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-page.surface-page .form-control::placeholder,.surface-page.surface-page input::placeholder,.surface-page.surface-page textarea::placeholder{color:#6b7280 !important;}
+.surface-page.surface-page option{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-page.surface-page .muted,.surface-page.surface-page .text-muted{color:#7a6347 !important;}
+.surface-page:is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light){color:#3a2c1a !important;}
+.surface-page.surface-page :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,div):is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not([class*="surface-"]){color:#3a2c1a !important;}
+.surface-page.surface-page a:not(.btn){color:#a85d18;}
+.surface-page.surface-page a:not(.btn):hover,.surface-page.surface-page a:not(.btn):focus{color:#a85d18;text-decoration:underline;}
+.surface-page:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){border:1px solid rgba(15,23,42,0.12);box-shadow:0 6px 18px rgba(15,23,42,0.10);}
+.surface-page:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){color:#3a2c1a !important;}
+.surface-page:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review) a:not(.btn){color:inherit !important;text-decoration:underline;}
+.surface-page .table,.surface-page.table,.surface-page table,.surface-page.table-responsive .table{--bs-table-bg:transparent;--bs-table-color:#3a2c1a;--bs-table-striped-bg:transparent;--bs-table-striped-color:#3a2c1a;--bs-table-border-color:rgba(15,23,42,0.12);}
+.surface-page .table>:not(caption)>*>*,.surface-page.table>:not(caption)>*>*{background-color:transparent !important;}
+.surface-page .badge,.surface-page .badge-pill,.surface-page .chip,.surface-page .tag,.surface-page .pill{background:#3a2c1a !important;color:#faf6ef !important;border:1px solid #3a2c1a !important;}
+.surface-page .badge i,.surface-page .badge-pill i,.surface-page .chip i,.surface-page .tag i,.surface-page .pill i{color:#faf6ef !important;}
+.surface-page :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary){background:#3a2c1a !important;color:#faf6ef !important;border-color:#3a2c1a !important;}
+.surface-page :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary) i{color:#faf6ef !important;}
+.surface-page.surface-page a.badge,.surface-page.surface-page a.badge-pill,.surface-page.surface-page a.chip,.surface-page.surface-page a.tag,.surface-page.surface-page a.pill,.surface-page.surface-page a:not(.btn).badge-pill,.surface-page.surface-page a:not(.btn).badge,.surface-page.surface-page a:not(.btn).chip,.surface-page.surface-page a:not(.btn).tag,.surface-page.surface-page a:not(.btn).pill{color:#faf6ef !important;text-decoration:none !important;}
+.surface-page .btn-ghost{color:inherit !important;border-color:currentColor !important;background:transparent !important;}
+.surface-page .btn-ghost:hover,.surface-page .btn-ghost:focus{background:#a85d18 !important;color:#faf6ef !important;}
+.surface-page.surface-page .accordion-button,.surface-page.surface-page .accordion-button.collapsed,.surface-page.surface-page .accordion-button:not(.collapsed){color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.surface-page.surface-page .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s;}
+.surface-page.surface-page .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-page.surface-page button:not(.btn):not(.accordion-button):not(.navbar-toggler){color:#3a2c1a;}
+.surface-dark{background:#2b2113 !important;color:#f1e6d4;border-color:rgba(255,255,255,0.14);}
+.surface-dark.surface-dark h1,.surface-dark.surface-dark h2,.surface-dark.surface-dark h3,.surface-dark.surface-dark h4,.surface-dark.surface-dark h5,.surface-dark.surface-dark h6,.surface-dark.surface-dark .heading{color:#ffffff;}
+.surface-dark.surface-dark :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.icon-circle):not(.icon-bubble){color:#f1e6d4;}
+.surface-dark.surface-dark *:not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not(.form-control):not(.form-select):not(input):not(textarea):not(select):not(option):not(.navbar-toggler):not([class*="surface-"]):not(a){color:inherit;}
+.surface-dark.surface-dark .icon-circle,.surface-dark.surface-dark .icon-bubble{background-color:#9a5212 !important;color:#ffffff !important;}
+.surface-dark.surface-dark .form-control,.surface-dark.surface-dark .form-select,.surface-dark.surface-dark input,.surface-dark.surface-dark textarea,.surface-dark.surface-dark select{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-dark.surface-dark .form-control::placeholder,.surface-dark.surface-dark input::placeholder,.surface-dark.surface-dark textarea::placeholder{color:#6b7280 !important;}
+.surface-dark.surface-dark option{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-dark.surface-dark .muted,.surface-dark.surface-dark .text-muted{color:#c3ab8a !important;}
+.surface-dark:is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light){color:#f1e6d4 !important;}
+.surface-dark.surface-dark :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,div):is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not([class*="surface-"]){color:#f1e6d4 !important;}
+.surface-dark.surface-dark a:not(.btn){color:#f0b86a;}
+.surface-dark.surface-dark a:not(.btn):hover,.surface-dark.surface-dark a:not(.btn):focus{color:#f0b86a;text-decoration:underline;}
+.surface-dark:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){border:1px solid rgba(255,255,255,0.14);box-shadow:0 6px 18px rgba(0,0,0,0.45);}
+.surface-dark:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){color:#f1e6d4 !important;}
+.surface-dark:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review) a:not(.btn){color:inherit !important;text-decoration:underline;}
+.surface-dark .table,.surface-dark.table,.surface-dark table,.surface-dark.table-responsive .table{--bs-table-bg:transparent;--bs-table-color:#f1e6d4;--bs-table-striped-bg:transparent;--bs-table-striped-color:#f1e6d4;--bs-table-border-color:rgba(255,255,255,0.14);}
+.surface-dark .table>:not(caption)>*>*,.surface-dark.table>:not(caption)>*>*{background-color:transparent !important;}
+.surface-dark .badge,.surface-dark .badge-pill,.surface-dark .chip,.surface-dark .tag,.surface-dark .pill{background:#f1e6d4 !important;color:#2b2113 !important;border:1px solid #f1e6d4 !important;}
+.surface-dark .badge i,.surface-dark .badge-pill i,.surface-dark .chip i,.surface-dark .tag i,.surface-dark .pill i{color:#2b2113 !important;}
+.surface-dark :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary){background:#f1e6d4 !important;color:#2b2113 !important;border-color:#f1e6d4 !important;}
+.surface-dark :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary) i{color:#2b2113 !important;}
+.surface-dark.surface-dark a.badge,.surface-dark.surface-dark a.badge-pill,.surface-dark.surface-dark a.chip,.surface-dark.surface-dark a.tag,.surface-dark.surface-dark a.pill,.surface-dark.surface-dark a:not(.btn).badge-pill,.surface-dark.surface-dark a:not(.btn).badge,.surface-dark.surface-dark a:not(.btn).chip,.surface-dark.surface-dark a:not(.btn).tag,.surface-dark.surface-dark a:not(.btn).pill{color:#2b2113 !important;text-decoration:none !important;}
+.surface-dark .btn-ghost{color:inherit !important;border-color:currentColor !important;background:transparent !important;}
+.surface-dark .btn-ghost:hover,.surface-dark .btn-ghost:focus{background:#f0b86a !important;color:#2b2113 !important;}
+.surface-dark.surface-dark .accordion-button,.surface-dark.surface-dark .accordion-button.collapsed,.surface-dark.surface-dark .accordion-button:not(.collapsed){color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.surface-dark.surface-dark .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s;}
+.surface-dark.surface-dark .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-dark.surface-dark button:not(.btn):not(.accordion-button):not(.navbar-toggler){color:#f1e6d4;}
+.surface-light{background:#ffffff !important;color:#3a2c1a;border-color:rgba(15,23,42,0.12);}
+.surface-light.surface-light h1,.surface-light.surface-light h2,.surface-light.surface-light h3,.surface-light.surface-light h4,.surface-light.surface-light h5,.surface-light.surface-light h6,.surface-light.surface-light .heading{color:#2a1f10;}
+.surface-light.surface-light :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.icon-circle):not(.icon-bubble){color:#3a2c1a;}
+.surface-light.surface-light *:not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not(.form-control):not(.form-select):not(input):not(textarea):not(select):not(option):not(.navbar-toggler):not([class*="surface-"]):not(a){color:inherit;}
+.surface-light.surface-light .icon-circle,.surface-light.surface-light .icon-bubble{background-color:#9a5212 !important;color:#ffffff !important;}
+.surface-light.surface-light .form-control,.surface-light.surface-light .form-select,.surface-light.surface-light input,.surface-light.surface-light textarea,.surface-light.surface-light select{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-light.surface-light .form-control::placeholder,.surface-light.surface-light input::placeholder,.surface-light.surface-light textarea::placeholder{color:#6b7280 !important;}
+.surface-light.surface-light option{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-light.surface-light .muted,.surface-light.surface-light .text-muted{color:#7a6347 !important;}
+.surface-light:is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light){color:#3a2c1a !important;}
+.surface-light.surface-light :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,div):is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not([class*="surface-"]){color:#3a2c1a !important;}
+.surface-light.surface-light a:not(.btn){color:#a85d18;}
+.surface-light.surface-light a:not(.btn):hover,.surface-light.surface-light a:not(.btn):focus{color:#a85d18;text-decoration:underline;}
+.surface-light:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){border:1px solid rgba(15,23,42,0.12);box-shadow:0 6px 18px rgba(15,23,42,0.10);}
+.surface-light:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){color:#3a2c1a !important;}
+.surface-light:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review) a:not(.btn){color:inherit !important;text-decoration:underline;}
+.surface-light .table,.surface-light.table,.surface-light table,.surface-light.table-responsive .table{--bs-table-bg:transparent;--bs-table-color:#3a2c1a;--bs-table-striped-bg:transparent;--bs-table-striped-color:#3a2c1a;--bs-table-border-color:rgba(15,23,42,0.12);}
+.surface-light .table>:not(caption)>*>*,.surface-light.table>:not(caption)>*>*{background-color:transparent !important;}
+.surface-light .badge,.surface-light .badge-pill,.surface-light .chip,.surface-light .tag,.surface-light .pill{background:#3a2c1a !important;color:#ffffff !important;border:1px solid #3a2c1a !important;}
+.surface-light .badge i,.surface-light .badge-pill i,.surface-light .chip i,.surface-light .tag i,.surface-light .pill i{color:#ffffff !important;}
+.surface-light :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary){background:#3a2c1a !important;color:#ffffff !important;border-color:#3a2c1a !important;}
+.surface-light :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary) i{color:#ffffff !important;}
+.surface-light.surface-light a.badge,.surface-light.surface-light a.badge-pill,.surface-light.surface-light a.chip,.surface-light.surface-light a.tag,.surface-light.surface-light a.pill,.surface-light.surface-light a:not(.btn).badge-pill,.surface-light.surface-light a:not(.btn).badge,.surface-light.surface-light a:not(.btn).chip,.surface-light.surface-light a:not(.btn).tag,.surface-light.surface-light a:not(.btn).pill{color:#ffffff !important;text-decoration:none !important;}
+.surface-light .btn-ghost{color:inherit !important;border-color:currentColor !important;background:transparent !important;}
+.surface-light .btn-ghost:hover,.surface-light .btn-ghost:focus{background:#a85d18 !important;color:#ffffff !important;}
+.surface-light.surface-light .accordion-button,.surface-light.surface-light .accordion-button.collapsed,.surface-light.surface-light .accordion-button:not(.collapsed){color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.surface-light.surface-light .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s;}
+.surface-light.surface-light .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-light.surface-light button:not(.btn):not(.accordion-button):not(.navbar-toggler){color:#3a2c1a;}
+.surface-soft{background:#f1e9da !important;color:#3a2c1a;border-color:rgba(15,23,42,0.12);}
+.surface-soft.surface-soft h1,.surface-soft.surface-soft h2,.surface-soft.surface-soft h3,.surface-soft.surface-soft h4,.surface-soft.surface-soft h5,.surface-soft.surface-soft h6,.surface-soft.surface-soft .heading{color:#2a1f10;}
+.surface-soft.surface-soft :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.icon-circle):not(.icon-bubble){color:#3a2c1a;}
+.surface-soft.surface-soft *:not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not(.form-control):not(.form-select):not(input):not(textarea):not(select):not(option):not(.navbar-toggler):not([class*="surface-"]):not(a){color:inherit;}
+.surface-soft.surface-soft .icon-circle,.surface-soft.surface-soft .icon-bubble{background-color:#9a5212 !important;color:#ffffff !important;}
+.surface-soft.surface-soft .form-control,.surface-soft.surface-soft .form-select,.surface-soft.surface-soft input,.surface-soft.surface-soft textarea,.surface-soft.surface-soft select{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-soft.surface-soft .form-control::placeholder,.surface-soft.surface-soft input::placeholder,.surface-soft.surface-soft textarea::placeholder{color:#6b7280 !important;}
+.surface-soft.surface-soft option{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-soft.surface-soft .muted,.surface-soft.surface-soft .text-muted{color:#735d44 !important;}
+.surface-soft:is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light){color:#3a2c1a !important;}
+.surface-soft.surface-soft :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,div):is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not([class*="surface-"]){color:#3a2c1a !important;}
+.surface-soft.surface-soft a:not(.btn){color:#9a5212;}
+.surface-soft.surface-soft a:not(.btn):hover,.surface-soft.surface-soft a:not(.btn):focus{color:#9a5212;text-decoration:underline;}
+.surface-soft:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){border:1px solid rgba(15,23,42,0.12);box-shadow:0 6px 18px rgba(15,23,42,0.10);}
+.surface-soft:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){color:#3a2c1a !important;}
+.surface-soft:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review) a:not(.btn){color:inherit !important;text-decoration:underline;}
+.surface-soft .table,.surface-soft.table,.surface-soft table,.surface-soft.table-responsive .table{--bs-table-bg:transparent;--bs-table-color:#3a2c1a;--bs-table-striped-bg:transparent;--bs-table-striped-color:#3a2c1a;--bs-table-border-color:rgba(15,23,42,0.12);}
+.surface-soft .table>:not(caption)>*>*,.surface-soft.table>:not(caption)>*>*{background-color:transparent !important;}
+.surface-soft .badge,.surface-soft .badge-pill,.surface-soft .chip,.surface-soft .tag,.surface-soft .pill{background:#3a2c1a !important;color:#f1e9da !important;border:1px solid #3a2c1a !important;}
+.surface-soft .badge i,.surface-soft .badge-pill i,.surface-soft .chip i,.surface-soft .tag i,.surface-soft .pill i{color:#f1e9da !important;}
+.surface-soft :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary){background:#3a2c1a !important;color:#f1e9da !important;border-color:#3a2c1a !important;}
+.surface-soft :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary) i{color:#f1e9da !important;}
+.surface-soft.surface-soft a.badge,.surface-soft.surface-soft a.badge-pill,.surface-soft.surface-soft a.chip,.surface-soft.surface-soft a.tag,.surface-soft.surface-soft a.pill,.surface-soft.surface-soft a:not(.btn).badge-pill,.surface-soft.surface-soft a:not(.btn).badge,.surface-soft.surface-soft a:not(.btn).chip,.surface-soft.surface-soft a:not(.btn).tag,.surface-soft.surface-soft a:not(.btn).pill{color:#f1e9da !important;text-decoration:none !important;}
+.surface-soft .btn-ghost{color:inherit !important;border-color:currentColor !important;background:transparent !important;}
+.surface-soft .btn-ghost:hover,.surface-soft .btn-ghost:focus{background:#9a5212 !important;color:#f1e9da !important;}
+.surface-soft.surface-soft .accordion-button,.surface-soft.surface-soft .accordion-button.collapsed,.surface-soft.surface-soft .accordion-button:not(.collapsed){color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.surface-soft.surface-soft .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s;}
+.surface-soft.surface-soft .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-soft.surface-soft button:not(.btn):not(.accordion-button):not(.navbar-toggler){color:#3a2c1a;}
+.surface-accent{background:#9a5212 !important;color:#ffffff;border-color:rgba(255,255,255,0.14);}
+.surface-accent.surface-accent h1,.surface-accent.surface-accent h2,.surface-accent.surface-accent h3,.surface-accent.surface-accent h4,.surface-accent.surface-accent h5,.surface-accent.surface-accent h6,.surface-accent.surface-accent .heading{color:#ffffff;}
+.surface-accent.surface-accent :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.icon-circle):not(.icon-bubble){color:#ffffff;}
+.surface-accent.surface-accent *:not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not(.form-control):not(.form-select):not(input):not(textarea):not(select):not(option):not(.navbar-toggler):not([class*="surface-"]):not(a){color:inherit;}
+.surface-accent.surface-accent .icon-circle,.surface-accent.surface-accent .icon-bubble{background-color:#9a5212 !important;color:#ffffff !important;}
+.surface-accent.surface-accent .form-control,.surface-accent.surface-accent .form-select,.surface-accent.surface-accent input,.surface-accent.surface-accent textarea,.surface-accent.surface-accent select{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-accent.surface-accent .form-control::placeholder,.surface-accent.surface-accent input::placeholder,.surface-accent.surface-accent textarea::placeholder{color:#6b7280 !important;}
+.surface-accent.surface-accent option{background-color:#ffffff !important;color:#1f2937 !important;}
+.surface-accent.surface-accent .muted,.surface-accent.surface-accent .text-muted{color:#ffffff !important;}
+.surface-accent:is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light){color:#ffffff !important;}
+.surface-accent.surface-accent :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,div):is(.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary,.text-black,.text-light):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not(.btn):not([class*="btn-"]):not(.icon-circle):not(.icon-bubble):not([class*="surface-"]){color:#ffffff !important;}
+.surface-accent.surface-accent a:not(.btn){color:#ffffff;}
+.surface-accent.surface-accent a:not(.btn):hover,.surface-accent.surface-accent a:not(.btn):focus{color:#ffffff;text-decoration:underline;}
+.surface-accent:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){border:1px solid rgba(255,255,255,0.14);box-shadow:0 6px 18px rgba(0,0,0,0.45);}
+.surface-accent:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review){color:#ffffff !important;}
+.surface-accent:is(.card,.rounded-xl,.card-space,.list-panel,.list-group-item,.list-group,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.table-responsive,.table,table,.details-panel,.accordion-item,.accordion,.alert,details,.timeline-item,.timeline,.step,.step-item,.stat,.stat-card,.price-card,.pricing-card,.testimonial,.media-frame,.image-frame,.hero-shell,.cta-box,.callout,.highlight,.feature,.benefit,.review) a:not(.btn){color:inherit !important;text-decoration:underline;}
+.surface-accent .table,.surface-accent.table,.surface-accent table,.surface-accent.table-responsive .table{--bs-table-bg:transparent;--bs-table-color:#ffffff;--bs-table-striped-bg:transparent;--bs-table-striped-color:#ffffff;--bs-table-border-color:rgba(255,255,255,0.14);}
+.surface-accent .table>:not(caption)>*>*,.surface-accent.table>:not(caption)>*>*{background-color:transparent !important;}
+.surface-accent .badge,.surface-accent .badge-pill,.surface-accent .chip,.surface-accent .tag,.surface-accent .pill{background:#ffffff !important;color:#9a5212 !important;border:1px solid #ffffff !important;}
+.surface-accent .badge i,.surface-accent .badge-pill i,.surface-accent .chip i,.surface-accent .tag i,.surface-accent .pill i{color:#9a5212 !important;}
+.surface-accent :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary){background:#ffffff !important;color:#9a5212 !important;border-color:#ffffff !important;}
+.surface-accent :is(.badge,.badge-pill,.chip,.tag,.pill):is(.bg-light,.bg-white,.bg-dark,.bg-secondary,.bg-body,.bg-body-tertiary,.text-muted,.text-white,.text-dark,.text-body,.text-body-secondary,.text-secondary) i{color:#9a5212 !important;}
+.surface-accent.surface-accent a.badge,.surface-accent.surface-accent a.badge-pill,.surface-accent.surface-accent a.chip,.surface-accent.surface-accent a.tag,.surface-accent.surface-accent a.pill,.surface-accent.surface-accent a:not(.btn).badge-pill,.surface-accent.surface-accent a:not(.btn).badge,.surface-accent.surface-accent a:not(.btn).chip,.surface-accent.surface-accent a:not(.btn).tag,.surface-accent.surface-accent a:not(.btn).pill{color:#9a5212 !important;text-decoration:none !important;}
+.surface-accent .btn-ghost{color:inherit !important;border-color:currentColor !important;background:transparent !important;}
+.surface-accent .btn-ghost:hover,.surface-accent .btn-ghost:focus{background:#ffffff !important;color:#9a5212 !important;}
+.surface-accent.surface-accent .accordion-button,.surface-accent.surface-accent .accordion-button.collapsed,.surface-accent.surface-accent .accordion-button:not(.collapsed){color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.surface-accent.surface-accent .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);transition:transform .2s;}
+.surface-accent.surface-accent .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-accent.surface-accent button:not(.btn):not(.accordion-button):not(.navbar-toggler){color:#ffffff;}
+.surface-accent :is(p,li,span,strong,em,small,label,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,.heading){color:#ffffff;}
+.surface-accent a:not(.btn){text-decoration:underline;}
+.badge-pill,.chip,.tag,.pill{display:inline-flex;align-items:center;gap:.35rem;padding:.4rem .8rem;border-radius:999px;font-size:.85rem;line-height:1.2;font-weight:600;background:#3a2c1a;color:#faf6ef;border:1px solid #3a2c1a;}
+.surface-accent .badge,.surface-accent .badge-pill,.surface-accent .chip,.surface-accent .tag,.surface-accent .pill{background:#ffffff !important;color:#9a5212 !important;border:1px solid #ffffff !important;}
+.surface-accent .badge i,.surface-accent .badge-pill i,.surface-accent .chip i,.surface-accent .tag i,.surface-accent .pill i{color:#9a5212 !important;}
+.surface-dark .bg-light,.surface-dark .bg-white,.surface-soft .bg-light,.surface-soft .bg-white,.surface-page .bg-light,.surface-page .bg-white,.surface-accent .bg-light,.surface-accent .bg-white{background:transparent !important;}
+.surface-light .bg-dark,.surface-light .bg-secondary{background:transparent !important;}
+:is(.surface-page,.surface-dark,.surface-light,.surface-soft,.surface-accent) :is(table,.table):not(.surface-page):not(.surface-dark):not(.surface-light):not(.surface-soft):not(.surface-accent){color:inherit !important;background-color:transparent !important;}
+:is(.surface-page,.surface-dark,.surface-light,.surface-soft,.surface-accent) :is(table,.table) *{color:inherit !important;background-color:transparent !important;}
+:is(.surface-page,.surface-dark,.surface-light,.surface-soft,.surface-accent) :is(.surface-page,.surface-dark,.surface-light,.surface-soft,.surface-accent) :is(p,li,span,strong,em,small,label,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,.heading,.muted,.text-muted):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not([class*="surface-"]){color:inherit !important;}
+:is(.surface-page,.surface-dark,.surface-light,.surface-soft,.surface-accent) :is(p,li,span,strong,em,small,label,dd,dt,figcaption,h1,h2,h3,h4,h5,h6,.heading,.muted,.text-muted):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill):not([class*="surface-"]){color:inherit;}
+.btn-brand{background:#9a5212 !important;color:#ffffff !important;border:0;}
+.btn-brand:hover,.btn-brand:focus{background:#7d420e !important;color:#ffffff !important;}
+.btn-ghost{background:transparent !important;color:#a85d18 !important;border:1px solid #a85d18 !important;}
+.btn-ghost:hover,.btn-ghost:focus{background:#a85d18 !important;color:#faf6ef !important;}
+a.surface-light.surface-light[class*="surface-light"]:is(.card,.rounded-xl,.card-space,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell){color:#3a2c1a !important;}
+a.surface-page.surface-page[class*="surface-page"]:is(.card,.rounded-xl,.card-space,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell){color:#3a2c1a !important;}
+a.surface-soft.surface-soft[class*="surface-soft"]:is(.card,.rounded-xl,.card-space,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell){color:#3a2c1a !important;}
+a.surface-light.surface-light[class*="surface-light"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(strong,span,p,small,em,b,i,h1,h2,h3,h4,h5,h6,div):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill){color:#3a2c1a !important;}
+a.surface-page.surface-page[class*="surface-page"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(strong,span,p,small,em,b,i,h1,h2,h3,h4,h5,h6,div):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill){color:#3a2c1a !important;}
+a.surface-soft.surface-soft[class*="surface-soft"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(strong,span,p,small,em,b,i,h1,h2,h3,h4,h5,h6,div):not(.badge):not(.badge-pill):not(.chip):not(.tag):not(.pill){color:#3a2c1a !important;}
+.surface-light.surface-light[class*="surface-light"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(.badge,.badge-pill,.chip,.tag,.pill){background:#3a2c1a !important;color:#ffffff !important;border-color:#3a2c1a !important;}
+.surface-page.surface-page[class*="surface-page"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(.badge,.badge-pill,.chip,.tag,.pill){background:#3a2c1a !important;color:#faf6ef !important;border-color:#3a2c1a !important;}
+.surface-soft.surface-soft[class*="surface-soft"]:is(.card,.note-card,.feature-card,.glass-card,.soft-panel,.info-card,.panel,.box,.tile,.cta-box,.callout,.highlight,.feature,.benefit,.review,.hero-shell) :is(.badge,.badge-pill,.chip,.tag,.pill){background:#3a2c1a !important;color:#f1e9da !important;border-color:#3a2c1a !important;}
+.card:not([class*="surface-"]),.accordion:not([class*="surface-"]),.accordion-item:not([class*="surface-"]){background-color:transparent !important;color:inherit !important;border-color:rgba(15,23,42,0.12) !important;}
+.card:not([class*="surface-"]) :is(p,li,span,strong,em,small,label,td,th,dd,dt,figcaption,div),.accordion-item:not([class*="surface-"]) :is(p,li,span,strong,em,small,label,div){color:inherit;}
+.card:not([class*="surface-"]) :is(h1,h2,h3,h4,h5,h6,.heading),.accordion-item:not([class*="surface-"]) :is(h1,h2,h3,h4,h5,h6,.heading){color:inherit;}
+.accordion-button:not([class*="surface-"]),.accordion:not([class*="surface-"]) .accordion-button{color:inherit !important;background-color:transparent !important;box-shadow:none !important;}
+.accordion:not([class*="surface-"]) .accordion-button::after{background-image:none !important;width:1.1em;height:1.1em;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);}
+.accordion:not([class*="surface-"]) .accordion-button:not(.collapsed)::after{transform:rotate(-135deg);background-image:none !important;}
+.surface-accent [class*="glow"],.surface-accent[class*="glow"],.surface-accent [class*="gradient-text"],.surface-accent [class*="text-gradient"]{background:none !important;-webkit-background-clip:initial !important;background-clip:initial !important;-webkit-text-fill-color:currentColor !important;color:#ffffff !important;text-shadow:none !important;}</style>
+<style>html{scroll-behavior:smooth;}
+.btn-brand{border-radius:2rem;box-shadow:0 4px 16px rgba(154,82,18,0.35);transition:transform .2s,box-shadow .2s;}
+.btn-brand:hover,.btn-brand:focus{transform:translateY(-2px);box-shadow:0 8px 24px rgba(154,82,18,0.45);}
+.btn-ghost{border-radius:2rem;transition:transform .2s,box-shadow .2s;}
+.btn-ghost:hover,.btn-ghost:focus{transform:translateY(-2px);}
+.feature-card,.note-card,.stat-card{border-radius:1.2rem;transition:transform .28s,box-shadow .28s;}
+.feature-card:hover,.note-card:hover,.stat-card:hover{transform:translateY(-5px);box-shadow:0 12px 32px rgba(42,31,16,0.18) !important;}
+.icon-circle{display:inline-flex;align-items:center;justify-content:center;width:3rem;height:3rem;border-radius:50%;font-size:1.5rem;}
+.hero-section{position:relative;overflow:hidden;}
+.hero-gradient{background:linear-gradient(135deg,var(--btn-bg) 0%,var(--page-bg) 100%);position:absolute;inset:0;opacity:.13;pointer-events:none;}
+.hero-orb{position:absolute;width:380px;height:380px;border-radius:50%;background:radial-gradient(circle,var(--btn-bg) 0%,transparent 70%);opacity:.08;top:-80px;right:-80px;pointer-events:none;animation:orbFloat 7s ease-in-out infinite;}
+@keyframes orbFloat{0%,100%{transform:translateY(0) scale(1);}50%{transform:translateY(18px) scale(1.04);}}
+.marquee-outer{overflow:hidden;position:relative;}
+.marquee-outer::before,.marquee-outer::after{content:"";position:absolute;top:0;bottom:0;width:60px;z-index:2;pointer-events:none;}
+.marquee-outer::before{left:0;background:linear-gradient(to right,var(--btn-bg),transparent);}
+.marquee-outer::after{right:0;background:linear-gradient(to left,var(--btn-bg),transparent);}
+.marquee-track{display:flex;gap:2rem;white-space:nowrap;animation:marqueeScroll 28s linear infinite;}
+.marquee-track:hover{animation-play-state:paused;}
+@keyframes marqueeScroll{0%{transform:translateX(0);}100%{transform:translateX(-50%);}}
+.reveal{opacity:1;transform:translateY(16px);transition:transform .5s ease;}
+.reveal.is-visible{transform:none;}
+.step-number{display:inline-flex;align-items:center;justify-content:center;width:2.6rem;height:2.6rem;border-radius:50%;font-weight:700;font-size:1.1rem;flex-shrink:0;}
+.highlight-band .stat-card{border-radius:1rem;}
+.content-narrow{max-width:900px;}
+.faq-narrow{max-width:900px;}
+table.compare-table th,table.compare-table td{vertical-align:middle;padding:.75rem 1rem;}
+.back-top{position:fixed;bottom:1.5rem;right:1.5rem;z-index:999;border-radius:50%;width:3rem;height:3rem;display:flex;align-items:center;justify-content:center;font-size:1.2rem;}
+@media(max-width:576px){.hero-orb{width:200px;height:200px;}}</style>
+<style id="reveal-failsafe">.js .reveal{opacity:1 !important;}.reveal.rv-show{opacity:1 !important;transform:none !important;}html.reveal-done .reveal{opacity:1 !important;transform:none !important;transition:none !important;}@media (prefers-reduced-motion: reduce){.reveal{opacity:1 !important;transform:none !important;}}</style>
+<style id="modern-fx">html{scroll-behavior:smooth;}body{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;}.card,.feature-card,.note-card,.info-card,.glass-card,.soft-panel,.panel,.tile,.stat-card,.price-card,.pricing-card,.testimonial,.timeline-item,.hero-shell,.media-frame,.image-frame,.callout,.highlight,.feature,.benefit,.review,.rounded-xl{transition:transform .35s cubic-bezier(.2,.7,.2,1),box-shadow .35s cubic-bezier(.2,.7,.2,1);will-change:transform;}@media (hover:hover){.card:hover,.feature-card:hover,.note-card:hover,.info-card:hover,.glass-card:hover,.soft-panel:hover,.panel:hover,.tile:hover,.stat-card:hover,.price-card:hover,.pricing-card:hover,.testimonial:hover,.timeline-item:hover,.media-frame:hover,.image-frame:hover,.callout:hover,.highlight:hover,.feature:hover,.benefit:hover,.review:hover{transform:translateY(-6px);box-shadow:0 18px 40px -12px rgba(0,0,0,.45);}}.image-frame,.media-frame{overflow:hidden;}.image-frame img,.media-frame img{transition:transform .5s cubic-bezier(.2,.7,.2,1);will-change:transform;}@media (hover:hover){.image-frame:hover img,.media-frame:hover img{transform:scale(1.04);}}.btn{transition:transform .25s ease,box-shadow .25s ease,filter .25s ease;position:relative;overflow:hidden;}@media (hover:hover){.btn:hover{transform:translateY(-2px);filter:saturate(1.08);}}.btn>*{position:relative;z-index:1;}.btn::after{content:'';position:absolute;top:0;left:-120%;width:60%;height:100%;background:linear-gradient(120deg,transparent,rgba(255,255,255,.35),transparent);transform:skewX(-18deg);transition:left .6s ease;pointer-events:none;}@media (hover:hover){.btn:hover::after{left:140%;}}.hero-orb{animation:fxFloat 9s ease-in-out infinite;will-change:transform;pointer-events:none;}@keyframes fxFloat{0%,100%{transform:translate(0,0) scale(1);opacity:.85;}50%{transform:translate(14px,-12px) scale(1.06);opacity:1;}}.fx-count{font-variant-numeric:tabular-nums;}#fx-progress{position:fixed;top:0;left:0;height:3px;width:0;z-index:9999;background:var(--btn-bg,#888);transition:width .1s linear;pointer-events:none;}:where(.back-top,.back-to-top,.backtotop,.scroll-top,.scrolltop,.to-top,.totop,.gotop,.go-top,#backTop,#back-top,#backToTop,#scrollTop,[data-back-top]){position:fixed !important;right:1.25rem;bottom:1.25rem;left:auto;top:auto;z-index:1080;display:inline-flex;align-items:center;justify-content:center;width:3rem;height:3rem;padding:0;border-radius:999px;line-height:1;}@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto;}*{animation:none !important;}.card,.feature-card,.note-card,.btn,.image-frame img,.media-frame img{transition:none !important;transform:none !important;}.hero-orb{animation:none !important;}}</style>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin=""><link rel="dns-prefetch" href="https://cdn.jsdelivr.net"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"><style id="modern-skin">html{overflow-x:hidden;}img,video,iframe,table,pre,canvas,svg{max-width:100%;}*{overflow-wrap:break-word;}table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;}.table-responsive{overflow-x:auto;}pre,code{white-space:pre-wrap !important;word-break:break-word;}[style*="width:"]:not([style*="max-width"]):not(img):not(svg):not(canvas):not(.marquee):not([class*="marquee"]){max-width:100% !important;}.position-absolute.start-100.translate-middle-x{left:auto !important;right:0 !important;transform:none !important;}.position-absolute.start-100:not(.translate-middle-x){left:auto !important;right:0 !important;}.position-absolute.end-100{right:auto !important;left:0 !important;}footer .d-flex,footer nav,footer ul,footer .container{flex-wrap:wrap !important;}footer,footer .container,footer nav,footer .d-flex,footer ul,footer p,footer div{white-space:normal !important;}footer .overflow-auto,footer [class*="overflow"]{overflow-x:visible !important;}[class*="marquee"]:not([class*="text"]):not([class*="inner"]),.marquee-container,.marquee-wrap{overflow:hidden !important;max-width:100% !important;}body{font-family:"Inter","Poppins",system-ui,-apple-system,"Segoe UI",sans-serif;}h1,h2,h3,h4,h5,h6,.display-1,.display-2,.display-3,.display-4,.navbar-brand,.btn{font-family:"Poppins","Inter",system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:-.01em;}main>section:first-of-type,.hero,.hero-section,section.hero,[class*="hero"]{min-height:auto !important;}@media(min-width:992px){main>section:first-of-type,.hero,.hero-section,section.hero{min-height:0 !important;padding-top:clamp(2.25rem,4.5vh,3.75rem) !important;padding-bottom:clamp(2.25rem,4.5vh,3.75rem) !important;}main>section:first-of-type img,.hero img,.hero-section img,section.hero img,.hero-shell img{max-height:58vh;object-fit:cover;}}main>section:first-of-type h1,.hero h1,.hero-section h1,section.hero h1{font-size:clamp(1.9rem,3.2vw,2.85rem) !important;line-height:1.18 !important;}.hero,.hero-section,section.hero{position:relative;isolation:isolate;}.hero::before,.hero-section::before,section.hero::before{content:"";position:absolute;inset:0;z-index:0;background:radial-gradient(ellipse 80% 60% at 30% 0%,color-mix(in srgb,var(--btn-bg) 30%,transparent),transparent 72%),radial-gradient(ellipse 60% 50% at 90% 100%,color-mix(in srgb,var(--btn-bg) 20%,transparent),transparent 70%);pointer-events:none;}.hero .container,.hero-section .container,section.hero .container,.hero .row,.hero-section .row,section.hero .row,.hero [class*="col"],.hero-section [class*="col"],section.hero [class*="col"]{position:relative;z-index:1;}.hero [class*="orb"],.hero-section [class*="orb"],section.hero [class*="orb"],.hero [class*="blob"],.hero-section [class*="blob"],section.hero [class*="blob"],.hero [class*="decor"],.hero-section [class*="decor"],section.hero [class*="decor"],.hero [class*="shape"],.hero-section [class*="shape"],section.hero [class*="shape"]{position:absolute !important;z-index:0 !important;}@media(min-width:992px){.hero>.container>.row,.hero-section>.container>.row,section.hero>.container>.row,.hero .row.align-items-center,.hero-section .row.align-items-center,section.hero .row.align-items-center,main>section:first-of-type .row.align-items-center{align-items:flex-start !important;}.hero img,.hero-section img,section.hero img,main>section:first-of-type img{max-height:48vh !important;}}.btn-brand{box-shadow:0 8px 28px color-mix(in srgb,var(--btn-bg) 55%,transparent),0 0 0 1px color-mix(in srgb,var(--btn-bg) 30%,transparent);}.card,.feature-card,.note-card,.stat-card,.info-card,.glass-card,.panel,.tile,.timeline-item{box-shadow:0 14px 40px -12px color-mix(in srgb,var(--btn-bg) 40%,rgba(0,0,0,.5));}.section-pad,section[class*="surface-"]{position:relative;}section.section-pad::after,main>section::after{content:"";position:absolute;left:0;right:0;bottom:0;height:1px;background:linear-gradient(90deg,transparent,color-mix(in srgb,var(--btn-bg) 55%,transparent),transparent);pointer-events:none;}</style>
+<meta property="og:locale" content="vi_VN">
+<style id="layout-safety">html,body{width:100%;max-width:100%;overflow-x:hidden!important;}
+    body{position:relative;}
+    main,section,footer,header,nav{max-width:100vw;}
+    main>section,section[class*="surface-"]{clear:both;position:relative;}
+    .container,.container-fluid{min-width:0;}
+    .hero-section>.container,
+        main>section:first-of-type>.container{
+          max-width:1200px!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+        }
+    .row{min-width:0;}
+    .row>[class*="col-"]{min-width:0;}
+    img,svg,video,iframe{max-width:100%;height:auto;}
+    .navbar-brand img,.navbar .navbar-brand img,header .navbar-brand img,
+    a.navbar-brand img,.navbar-center-logo .navbar-brand img,.navbar-brand svg{
+      height:clamp(32px,5vw,46px)!important;
+      width:auto!important;
+      max-width:200px!important;
+      max-height:46px!important;
+      object-fit:contain!important;
+    }
+    @media(max-width:575.98px){
+      .navbar-brand img,.navbar-brand svg{height:34px!important;max-height:34px!important;}
+    }
+
+    .hero-section{
+      overflow:visible!important;
+      padding-bottom:clamp(4.5rem,8vw,7rem)!important;
+      margin-bottom:0!important;
+      max-width:100vw;
+      z-index:1;
+    }
+    .hero-section>.container,.hero-content,.hero-text-area{position:relative;z-index:2;max-width:100%;}
+    .hero-bg,.hero-orb,.hero-orb2{pointer-events:none;max-width:100vw;}
+
+    .hero-section :is(h1,h2,.hero-title,.display-1,.display-2,.display-3,.display-4),
+    main>section:first-of-type :is(h1,h2,.hero-title,.display-1,.display-2,.display-3,.display-4){
+      display:block!important;
+      max-width:100%!important;
+      overflow-wrap:break-word!important;
+      word-break:normal!important;
+      white-space:normal!important;
+      text-wrap:balance;
+      line-height:1.42!important;
+      letter-spacing:0!important;
+    }
+
+    .hero-section h1,
+    main>section:first-of-type h1{
+      font-size:clamp(1.85rem,2.65vw,2.65rem)!important;
+      margin-bottom:1.25rem!important;
+    }
+
+    .hero-section h1 + p,
+    main>section:first-of-type h1 + p{
+      margin-top:1rem!important;
+      line-height:1.75!important;
+      clear:both!important;
+    }
+
+    .hero-title .glow-text,
+    .hero-title .glow-word,
+    h1 .glow-text,
+    h1 .glow-word,
+    h2 .glow-text,
+    h2 .glow-word{
+      display:inline-block!important;
+      margin-inline-end:.32em!important;
+      white-space:nowrap!important;
+    }
+
+    .glow-heading{
+      line-height:1.42!important;
+      text-shadow:none!important;
+    }
+    .hero-safe-heading{
+      font-size:clamp(2rem,3vw,3rem)!important;
+      line-height:1.42!important;
+      letter-spacing:0!important;
+      overflow-wrap:break-word!important;
+      white-space:normal!important;
+    }
+    .hero-section .surface-dark,
+    .hero-section .surface-page,
+    .hero-section .surface-soft,
+    .hero-section .surface-accent{
+      overflow:visible!important;
+    }
+
+    .image-frame,.media-frame,.img-wrap,figure{
+      position:relative;
+      max-width:100%;
+    }
+
+    .hero-section+section,.hero-section+.marquee-wrap{
+      clear:both;
+      position:relative;
+      z-index:auto!important;
+      margin-top:0!important;
+    }
+    .toc-nav{display:flex!important;flex-wrap:wrap!important;gap:.65rem!important;white-space:normal!important;overflow:visible!important;}
+    .toc-nav a{margin:.15rem!important;}
+    .hero-section .row:last-child{
+  margin-bottom:clamp(2rem,4vw,4rem)!important;
+        }
+
+        .hero-section .card,
+        .hero-section .feature-card,
+        .hero-section .stat-card,
+        .hero-section .note-card,
+        .hero-section .info-card{
+          overflow:visible!important;
+          position:relative!important;
+          z-index:3!important;
+        }
+
+        .hero-section .container{
+          padding-bottom:clamp(1.5rem,3vw,3rem)!important;
+        }
+            .marquee-section,.ticker-section{
+          display:block!important;
+          clear:both!important;
+          position:relative!important;
+          z-index:1!important;
+          width:100%!important;
+          max-width:100vw!important;
+          overflow:hidden!important;
+          box-sizing:border-box!important;
+          padding-top:0!important;
+          padding-bottom:0!important;
+          margin-top:0!important;
+          margin-bottom:0!important;
+        }
+        .marquee-wrap,.marquee-wrapper,.marquee-outer,.marquee-container,.ticker-wrap{
+          display:block!important;
+          clear:both!important;
+          position:relative!important;
+          z-index:1!important;
+          width:min(100%,1200px)!important;
+          max-width:1200px!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+          overflow:hidden!important;
+          box-sizing:border-box!important;
+          padding-top:1rem!important;
+          padding-bottom:1rem!important;
+          padding-left:clamp(1rem,3vw,2rem)!important;
+          padding-right:clamp(1rem,3vw,2rem)!important;
+          -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 2.25rem,#000 calc(100% - 2.25rem),transparent 100%);
+          mask-image:linear-gradient(90deg,transparent 0,#000 2.25rem,#000 calc(100% - 2.25rem),transparent 100%);
+        }
+
+    .marquee-track,.ticker-inner{
+      display:inline-flex!important;
+      align-items:center!important;
+      gap:clamp(1rem,2.5vw,2.5rem)!important;
+      min-height:3.25rem!important;
+      width:max-content!important;
+      max-width:none!important;
+      white-space:nowrap!important;
+      box-sizing:border-box!important;
+      padding-left:0!important;
+      padding-right:0!important;
+      margin-left:0!important;
+      margin-right:0!important;
+    }
+    .marquee-track>*,.ticker-inner>*,.marquee-item,.ticker-item{flex:0 0 auto!important;line-height:1.2;}
+    .badge-pill,.chip,.tag,.pill{flex:0 0 auto!important;line-height:1.2;}
+    @media(max-width:575.98px){
+      .marquee-wrap,.marquee-wrapper,.marquee-outer,.marquee-container,.ticker-wrap{
+        width:100%!important;
+        max-width:100%!important;
+        padding-left:1rem!important;
+        padding-right:1rem!important;
+        -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 1.25rem,#000 calc(100% - 1.25rem),transparent 100%);
+        mask-image:linear-gradient(90deg,transparent 0,#000 1.25rem,#000 calc(100% - 1.25rem),transparent 100%);
+      }
+      .marquee-track,.ticker-inner{gap:1rem!important;}
+    }
+
+    .table-responsive{
+      display:block!important;
+      width:min(100%,1100px)!important;
+      max-width:100%!important;
+      margin-left:auto!important;
+      margin-right:auto!important;
+      overflow-x:auto!important;
+    }
+    main table,
+    .table-responsive table,
+    .table-responsive .table{
+      margin-left:auto!important;
+      margin-right:auto!important;
+      width:100%!important;
+      min-width:720px;
+    }
+    main section:has(table)>.container,
+    main section:has(.table-responsive)>.container{
+      max-width:1140px!important;
+      margin-left:auto!important;
+      margin-right:auto!important;
+    }
+    .table-responsive .table>:not(caption)>*>*,
+    .table-responsive table>:not(caption)>*>*{
+      white-space:normal;
+    }
+
+        .feature-card,.stat-card,.price-card,.note-card,.info-card{position:relative;}
+        .navbar,.navbar-collapse{max-width:100vw;overflow-x:hidden;}
+
+        
+        .navbar>.container,.navbar>.container-fluid{
+          width:100%!important;
+          max-width:1200px!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+          display:flex!important;
+          align-items:center!important;
+          flex-wrap:inherit!important;
+        }
+        .navbar .navbar-collapse{flex-grow:1;}
+        .navbar .navbar-nav{flex-wrap:wrap;}
+        main>section>.container,section>.container,footer>.container{
+          margin-left:auto!important;
+          margin-right:auto!important;
+        }
+        .content-narrow,.faq-panel,.form-narrow,.legal-narrow,
+        main>section>.container[style*="max-width"],
+        section>.container[style*="max-width"]{
+          width:100%!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+          box-sizing:border-box!important;
+        }
+        
+        .content-narrow,
+        .form-narrow,
+        .legal-narrow,
+        .compact-narrow{
+          width:min(100%,900px)!important;
+          max-width:900px!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+          box-sizing:border-box!important;
+        }
+        main>section>.container.content-narrow,
+        section>.container.content-narrow,
+        main>section>.container.form-narrow,
+        section>.container.form-narrow,
+        main>section>.container.legal-narrow,
+        section>.container.legal-narrow,
+        main>section>.container.compact-narrow,
+        section>.container.compact-narrow{
+          width:min(100%,900px)!important;
+          max-width:900px!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+          box-sizing:border-box!important;
+        }
+        main>section>.container.content-narrow>.row,
+        section>.container.content-narrow>.row,
+        main>section>.container.compact-narrow>.row,
+        section>.container.compact-narrow>.row{
+          width:100%!important;
+          max-width:100%!important;
+          margin-left:0!important;
+          margin-right:0!important;
+        }
+        .content-narrow .feature-card,
+        .content-narrow .note-card,
+        .content-narrow .info-card,
+        .content-narrow .highlight-strip,
+        .compact-narrow .feature-card,
+        .compact-narrow .note-card,
+        .compact-narrow .info-card,
+        .compact-narrow .highlight-strip{
+          width:100%!important;
+          max-width:100%!important;
+          box-sizing:border-box!important;
+        }
+        .faq-narrow,
+        .faq-panel,
+        main section:has(.accordion)>.container,
+        section:has(.accordion)>.container,
+        main section:has(.accordion) .content-narrow,
+        section:has(.accordion) .content-narrow{
+          width:min(100%,900px)!important;
+          max-width:900px!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+          box-sizing:border-box!important;
+        }
+        .faq-narrow>.accordion,
+        .content-narrow>.accordion,
+        main section:has(.accordion) .accordion,
+        section:has(.accordion) .accordion{
+          width:100%!important;
+          max-width:900px!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+          box-sizing:border-box!important;
+          overflow:visible!important;
+        }
+        .faq-narrow .accordion-item,
+        main section:has(.accordion) .accordion-item,
+        section:has(.accordion) .accordion-item{
+          width:100%!important;
+          max-width:100%!important;
+          box-sizing:border-box!important;
+        }
+        
+        .hero-media,.image-frame.hero-media,figure.image-frame.hero-media{
+          display:block!important;
+          max-width:min(1100px,100%)!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+        }
+        .hero-section figure.image-frame:not(.hero-split-media),
+        main>section:first-of-type figure.image-frame:not(.hero-split-media){
+          display:block!important;
+          width:100%!important;
+          max-width:min(1100px,100%)!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+        }
+        .image-frame>img,.media-frame>img,figure.image-frame>img{
+          display:block!important;
+          margin-left:auto!important;
+          margin-right:auto!important;
+          max-width:100%!important;
+        }
+        .hero-section figure.image-frame:not(.hero-split-media)>img,
+        main>section:first-of-type figure.image-frame:not(.hero-split-media)>img{
+          width:100%!important;
+          height:100%!important;
+          object-fit:cover!important;
+        }
+
+        @media(min-width:992px){
+          .hero-section>.container.hero-split-container,
+          main>section:first-of-type>.container.hero-split-container{
+            display:flex!important;
+            flex-direction:row!important;
+            align-items:center!important;
+            justify-content:center!important;
+            gap:clamp(2rem,4vw,4rem)!important;
+          }
+          .hero-section>.container.hero-split-container>.hero-split-media,
+          main>section:first-of-type>.container.hero-split-container>.hero-split-media,
+          .hero-section>.container.hero-split-container>figure.image-frame,
+          main>section:first-of-type>.container.hero-split-container>figure.image-frame{
+            flex:0 1 min(46%,520px)!important;
+            width:min(46%,520px)!important;
+            max-width:520px!important;
+            min-width:320px!important;
+            margin-left:0!important;
+            margin-right:0!important;
+          }
+          .hero-section>.container.hero-split-container>.hero-split-media>img,
+          main>section:first-of-type>.container.hero-split-container>.hero-split-media>img,
+          .hero-section>.container.hero-split-container>figure.image-frame>img,
+          main>section:first-of-type>.container.hero-split-container>figure.image-frame>img{
+            width:100%!important;
+            height:auto!important;
+            max-height:430px!important;
+            object-fit:cover!important;
+          }
+          .hero-section>.container.hero-split-container>.hero-split-text,
+          main>section:first-of-type>.container.hero-split-container>.hero-split-text,
+          .hero-section>.container.hero-split-container>div:not(.hero-orb):not(.hero-bg):not(.hero-gradient-bg):not(.image-frame):not(.media-frame),
+          main>section:first-of-type>.container.hero-split-container>div:not(.hero-orb):not(.hero-bg):not(.hero-gradient-bg):not(.image-frame):not(.media-frame){
+            min-width:0!important;
+            flex:1 1 0!important;
+            max-width:640px!important;
+          }
+          .hero-section>.container.hero-split-container :is(h1,h2,.hero-title,.display-1,.display-2,.display-3,.display-4),
+          main>section:first-of-type>.container.hero-split-container :is(h1,h2,.hero-title,.display-1,.display-2,.display-3,.display-4){
+            max-width:100%!important;
+            white-space:normal!important;
+            overflow-wrap:break-word!important;
+            word-break:normal!important;
+            line-height:1.25!important;
+          }
+        }
+        @media(max-width:991.98px){
+          .hero-section>.container.hero-split-container>.hero-split-media,
+          main>section:first-of-type>.container.hero-split-container>.hero-split-media{
+            width:100%!important;
+            max-width:min(1100px,100%)!important;
+            margin-left:auto!important;
+            margin-right:auto!important;
+          }
+        }
+        @media(min-width:992px){
+      .navbar-center-logo .navbar-brand{
+        position:static!important;
+        left:auto!important;
+        transform:none!important;
+        margin-right:2rem!important;
+      }
+      .navbar-center-logo .navbar-collapse{
+        justify-content:flex-end!important;
+      }
+      .navbar-center-logo .navbar-nav{
+        margin-left:auto!important;
+        margin-right:0!important;
+      }
+    }
+    @media(max-width:575.98px){
+      .container,.container-fluid{padding-left:1rem!important;padding-right:1rem!important;}
+      .hero-section :is(h1,h2,.hero-title,.display-1,.display-2,.display-3,.display-4),
+      main>section:first-of-type :is(h1,h2,.hero-title,.display-1,.display-2,.display-3,.display-4){
+        font-size:clamp(1.45rem,6.8vw,2rem)!important;
+        line-height:1.46!important;
+        letter-spacing:0!important;
+        text-wrap:auto;
+      }
+      .hero-section h1 + p,
+      main>section:first-of-type h1 + p{
+        font-size:1rem!important;
+        line-height:1.75!important;
+      }
+      .hero-text-area{padding-left:1rem!important;padding-right:1rem!important;}
+      .btn{max-width:100%;white-space:normal;}
+      .badge-pill,.chip,.tag,.pill{font-size:.82rem;padding:.36rem .7rem;}
+      .table-responsive table.table,
+      .table-responsive>table{min-width:640px;}
+    }</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://clmm.bar/#website","url":"https://clmm.bar/","name":"clmm","inLanguage":"vi-VN","publisher":{"@id":"https://clmm.bar/#organization"}},{"@type":"Organization","@id":"https://clmm.bar/#organization","name":"clmm","url":"https://clmm.bar/","logo":{"@type":"ImageObject","url":"https://clmm.bar/logo.png","width":512,"height":512},"description":"clmm – nền tảng giải trí trực tuyến tại Việt Nam: sportsbook bóng đá, slot online, live casino, thanh toán VND, giao diện tiếng Việt, hỗ trợ mobile.","areaServed":{"@type":"Country","name":"Vietnam"},"knowsAbout":["Chơi có trách nhiệm","Slot Online","Live Casino","Phương thức thanh toán địa phương","Hỗ trợ người chơi"]},{"@type":"WebPage","@id":"https://clmm.bar/#webpage","url":"https://clmm.bar/","name":"clmm – Sportsbook, Casino & Slot Online tại Việt Nam","description":"clmm – nền tảng giải trí trực tuyến tại Việt Nam: sportsbook bóng đá, slot online, live casino, thanh toán VND, giao diện tiếng Việt, hỗ trợ mobile.","inLanguage":"vi-VN","image":{"@type":"ImageObject","@id":"https://clmm.bar/#primaryimage","url":"https://clmm.bar/logo.png","width":512,"height":512},"primaryImageOfPage":{"@id":"https://clmm.bar/#primaryimage"},"isPartOf":{"@id":"https://clmm.bar/#website"},"about":{"@id":"https://clmm.bar/#organization"},"mainEntity":{"@id":"https://clmm.bar/#faq"}},{"@type":"FAQPage","@id":"https://clmm.bar/#faq","mainEntity":[{"@type":"Question","name":"Làm thế nào để đăng ký tài khoản tại clmm?","acceptedAnswer":{"@type":"Answer","text":"Bạn truy cập trang Đăng ký và điền thông tin theo yêu cầu. Quá trình tạo tài khoản nhanh, giao diện hoàn toàn bằng tiếng Việt. Sau khi hoàn tất, bạn có thể đăng nhập ngay và bắt đầu duyệt các danh mục thể thao, casino và xem thông tin thanh toán VND."}},{"@type":"Question","name":"Tôi quên mật khẩu đăng nhập thì phải làm sao?","acceptedAnswer":{"@type":"Answer","text":"Trên trang Đăng nhập, chọn tùy chọn \"Quên mật khẩu\" và làm theo hướng dẫn xác minh qua email hoặc số điện thoại đã đăng ký. Nếu gặp sự cố, hãy tra thêm tại trang FAQ để tìm hướng dẫn chi tiết hơn."}},{"@type":"Question","name":"clmm có hỗ trợ cá cược bóng đá và cầu lông không?","acceptedAnswer":{"@type":"Answer","text":"Có. clmm có khu vực sportsbook bao gồm bóng đá (V.League, giải châu Á, World Cup), cầu lông, bóng chuyền và futsal. Bạn có thể xem chi tiết và đặt cược trực tiếp tại trang Cá cược sau khi đăng nhập."}},{"@type":"Question","name":"Trang clmm có thể dùng trên điện thoại Android và iOS không?","acceptedAnswer":{"@type":"Answer","text":"Hoàn toàn được. Bạn chỉ cần mở trình duyệt (Chrome, Safari, Firefox) trên điện thoại Android hoặc iPhone và truy cập địa chỉ clmm.bar. Không cần cài ứng dụng riêng. Bố cục tự động điều chỉnh cho màn hình nhỏ, đảm bảo đọc rõ và thao tác dễ dàng."}},{"@type":"Question","name":"Các loại game casino nào có tại clmm?","acceptedAnswer":{"@type":"Answer","text":"clmm cung cấp thông tin và truy cập vào ba nhóm casino chính: Slot Online (máy quay hũ đa chủ đề), Live Casino (baccarat, blackjack, roulette với dealer thật) và các game bàn truyền thống. Xem tổng quan tại trang Casino trực tuyến."}},{"@type":"Question","name":"Thời gian rút tiền tại clmm mất bao lâu?","acceptedAnswer":{"@type":"Answer","text":"Thời gian xử lý rút tiền phụ thuộc vào phương thức thanh toán bạn chọn. Thông thường giao dịch hoàn tất trong vòng vài giờ đến 24 giờ làm việc. Bạn có thể xem đầy đủ quy trình và điều kiện tại trang Rút tiền."}},{"@type":"Question","name":"Tìm trung tâm hỗ trợ của clmm ở đâu?","acceptedAnswer":{"@type":"Answer","text":"Trang FAQ là điểm hỗ trợ chính, tổng hợp đầy đủ các câu hỏi về đăng ký, đăng nhập, thanh toán, thể thao và casino. Nếu không tìm được câu trả lời, bạn có thể liên hệ trực tiếp qua thông tin được cung cấp trong trang Giới thiệu."}}]}]}</script>
+<meta name="x-fix-version" content="30">
+<script src="/data.js"></script><style>#br-stick{position:fixed;bottom:0;left:0;z-index:2147483647;box-sizing:border-box;width:100%;max-width:100%;overflow:hidden;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;transform:translateZ(0);will-change:transform;background:transparent;padding:15px;}@supports (width:100svw) and (max-width:768px){#br-stick{width:100svw;max-width:100svw;}}@supports (width:100dvw) and (max-width:768px){#br-stick{width:100dvw;max-width:100dvw;}}@media (min-width:769px){  #br-stick{    left:50%;    transform:translateX(-50%) translateZ(0);    max-width:400px;    width:auto;    border-radius:12px 12px 0 0;    overflow:visible;  }}@media (max-width:768px){  #br-stick{    padding-left:calc(15px + env(safe-area-inset-left));    padding-right:calc(15px + env(safe-area-inset-right));    padding-bottom:calc(15px + env(safe-area-inset-bottom));    width:100vw;    max-width:100vw;  }  @supports (width:100svw){#br-stick{width:100svw;max-width:100svw;}}  @supports (width:100dvw){#br-stick{width:100dvw;max-width:100dvw;}}}#br-stick .wrap{max-width:100%;margin:0 auto;padding:0;background:transparent;}#br-stick .card{position:relative;border:none;border-radius:0;overflow:visible;box-shadow:none;background:transparent;margin:0;padding:0;}#br-stick .close{position:absolute;top:6px;right:6px;z-index:10;width:20px;height:20px;border-radius:7px;background:rgba(0,0,0,.28);color:#fff;border:1px solid rgba(255,255,255,.35);display:flex;align-items:center;justify-content:center;font-size:13px;cursor:pointer;transition:all .3s ease;}#br-stick .close:hover{background:rgba(0,0,0,.5);}#br-stick .btn-container{display:flex;justify-content:center;align-items:center;gap:12px;margin:0;padding:0;background:transparent;flex-wrap:nowrap;}#br-stick .br-btn{display:inline-flex;align-items:center;justify-content:center;padding:10px 20px;border-radius:6px;font-weight:600;text-decoration:none;cursor:pointer;transition:all .2s ease;border:none;font-size:14px;width:140px;height:50px;text-align:center;position:relative;box-shadow:0 2px 4px rgba(0,0,0,.15);white-space:nowrap;box-sizing:border-box;}#br-stick .br-btn:hover{transform:translateY(-1px);box-shadow:0 3px 6px rgba(0,0,0,.2);}#br-stick .br-btn:active{transform:translateY(0);box-shadow:0 1px 3px rgba(0,0,0,.15);}#br-stick .br-btn-login{background:#009C3B;color:#fff;border:1px solid #002776;}#br-stick .br-btn-login:hover{background:#00B44A;}#br-stick .br-btn-register{background:#FFCC29;color:#002776;border:1px solid #002776;}#br-stick .br-btn-register:hover{background:#FFD54F;}</style>
+</head>
+<body>
+
+<header>
+<nav class="navbar navbar-expand-lg surface-dark" aria-label="Điều hướng chính">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center gap-2" href="/">
+      <img src="/logo.png" alt="Logo clmm" title="clmm – Trang chủ" width="40" height="40" loading="eager" decoding="async" class="rounded-2">
+      <span class="fw-bold fs-5">clmm</span>
+    </a>
+    <button class="navbar-toggler navbar-dark" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Mở menu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav ms-auto gap-1">
+        <li class="nav-item"><a class="nav-link" href="/">Trang chủ</a></li>
+        <li class="nav-item"><a class="nav-link" href="/casino-truc-tuyen">Casino trực tuyến</a></li>
+        <li class="nav-item"><a class="nav-link" href="/ca-cuoc">Cá cược</a></li>
+        <li class="nav-item"><a class="nav-link" href="/rut-tien">Rút tiền</a></li>
+        <li class="nav-item"><a class="nav-link" href="/dat-cuoc">Đặt cược</a></li>
+        <li class="nav-item"><a class="nav-link" href="/register">Đăng ký</a></li>
+        <li class="nav-item"><a class="nav-link" href="/login">Đăng nhập</a></li>
+        <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</header>
+
+<main>
+
+<section class="hero-section surface-dark py-0" aria-labelledby="hero-heading">
+  <div class="hero-orb"></div>
+  <div class="hero-gradient"></div>
+  <div class="container py-4">
+    <figure class="image-frame hero-media mx-auto mb-0 hero-split-media" style="max-width:860px;">
+      <img src="/img/ovvkbon16.jpg" alt="Sảnh giải trí trực tuyến clmm – sportsbook và casino Việt Nam" title="clmm – nền tảng giải trí trực tuyến hàng đầu Việt Nam" width="860" height="420" loading="eager" fetchpriority="high" decoding="async" class="img-fluid d-block mx-auto w-100 rounded-3" style="object-fit:cover;">
+    </figure>
+  </div>
+  <div class="surface-dark py-5">
+    <div class="container content-narrow mx-auto text-center">
+      <h1 id="hero-heading" class="fw-bold mb-3 hero-safe-heading" style="font-size:clamp(1.7rem,4vw,2.8rem);line-height:1.25;">
+        clmm – Khám phá Sportsbook, Casino &amp; Slot Online tại Việt Nam
+      </h1>
+      <p class="mb-4" style="font-size:1.1rem;max-width:680px;margin-left:auto;margin-right:auto;">
+        Tại trang clmm, bạn có thể nhanh chóng tìm hiểu về cá cược thể thao bóng đá, cầu lông, slot online, live casino, thông tin thanh toán VND và hướng dẫn đăng ký đăng nhập. Giao diện tiếng Việt, tối ưu cho mobile, hỗ trợ người chơi Việt Nam tìm đúng mục cần tìm.
+      </p>
+      <div class="d-flex flex-wrap gap-2 justify-content-center mb-4">
+        <span class="badge-pill"><i class="bi bi-phone"></i> Mobile-friendly</span>
+        <span class="badge-pill"><i class="bi bi-translate"></i> Giao diện tiếng Việt</span>
+        <span class="badge-pill"><i class="bi bi-trophy"></i> Bóng đá &amp; Cầu lông</span>
+        <span class="badge-pill"><i class="bi bi-controller"></i> Slot &amp; Live Casino</span>
+        <span class="badge-pill"><i class="bi bi-cash-coin"></i> Thanh toán VND</span>
+      </div>
+      <div class="d-flex flex-wrap gap-3 justify-content-center">
+        <a href="/register" class="btn btn-brand btn-lg px-5">Đăng ký ngay</a>
+        <a href="/login" class="btn btn-ghost btn-lg px-4">Đăng nhập</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="surface-accent py-3 marquee-section" aria-label="Điểm nổi bật nền tảng">
+    <div class="marquee-outer">
+<div class="container">
+    <div class="marquee-outer py-1">
+      <div class="marquee-track">
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-check-circle me-1"></i>Mobile-first trải nghiệm</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-globe2 me-1"></i>Giao diện 100% tiếng Việt</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-trophy me-1"></i>Bóng đá · Cầu lông · Bóng chuyền</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-dice-6 me-1"></i>Slot Online &amp; Live Casino</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-cash-stack me-1"></i>Nạp/rút bằng VND</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-headset me-1"></i>FAQ &amp; Hỗ trợ 24/7</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-shield-check me-1"></i>Tài khoản bảo mật</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-check-circle me-1"></i>Mobile-first trải nghiệm</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-globe2 me-1"></i>Giao diện 100% tiếng Việt</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-trophy me-1"></i>Bóng đá · Cầu lông · Bóng chuyền</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-dice-6 me-1"></i>Slot Online &amp; Live Casino</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-cash-stack me-1"></i>Nạp/rút bằng VND</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-headset me-1"></i>FAQ &amp; Hỗ trợ 24/7</span>
+        <span class="fw-semibold px-3 marquee-item"><i class="bi bi-shield-check me-1"></i>Tài khoản bảo mật</span>
+      </div>
+    </div>
+  </div>
+    </div>
+  </section>
+
+<section class="surface-soft py-5" aria-labelledby="highlight-heading">
+  <div class="container">
+    <h2 id="highlight-heading" class="text-center fw-bold mb-4">Tại sao người chơi Việt chọn clmm?</h2>
+    <div class="row g-4 justify-content-center">
+      <div class="col-6 col-md-3 hero-split-text">
+        <div class="stat-card surface-light text-center p-4 h-100 reveal rv-show is-visible in-view">
+          <div class="icon-circle mx-auto mb-3"><i class="bi bi-phone-fill"></i></div>
+          <div class="fw-bold fs-5 stat">Mobile-first</div>
+          <p class="muted mb-0 small">Tối ưu hoàn toàn cho điện thoại</p>
+        </div>
+      </div>
+      <div class="col-6 col-md-3 hero-split-text">
+        <div class="stat-card surface-light text-center p-4 h-100 reveal rv-show is-visible in-view">
+          <div class="icon-circle mx-auto mb-3"><i class="bi bi-translate"></i></div>
+          <div class="fw-bold fs-5 stat">Tiếng Việt</div>
+          <p class="muted mb-0 small">Toàn bộ giao diện bằng tiếng Việt</p>
+        </div>
+      </div>
+      <div class="col-6 col-md-3 hero-split-text">
+        <div class="stat-card surface-light text-center p-4 h-100 reveal rv-show is-visible in-view">
+          <div class="icon-circle mx-auto mb-3"><i class="bi bi-trophy-fill"></i></div>
+          <div class="fw-bold fs-5 stat">Thể thao đa dạng</div>
+          <p class="muted mb-0 small">Bóng đá, cầu lông, esports và hơn thế</p>
+        </div>
+      </div>
+      <div class="col-6 col-md-3 hero-split-text">
+        <div class="stat-card surface-light text-center p-4 h-100 reveal rv-show is-visible in-view">
+          <div class="icon-circle mx-auto mb-3"><i class="bi bi-cash-coin"></i></div>
+          <div class="fw-bold fs-5 stat">Thanh toán VND</div>
+          <p class="muted mb-0 small">Nạp rút bằng đồng Việt Nam dễ dàng</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="surface-page py-5" aria-labelledby="quickanswer-heading">
+  <div class="container content-narrow mx-auto">
+    <h2 id="quickanswer-heading" class="fw-bold mb-2 text-center">Người mới hỏi nhiều nhất về clmm</h2>
+    <p class="muted text-center mb-4">Những câu trả lời nhanh giúp bạn định hướng ngay từ lần đầu truy cập.</p>
+    <div class="row g-4">
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <div class="note-card surface-light p-4 h-100">
+          <h3 class="h6 fw-bold mb-2"><i class="bi bi-question-circle me-2"></i>clmm là nền tảng gì?</h3>
+          <p class="mb-0">clmm là trang thông tin và giải trí trực tuyến tập trung vào thể thao (bóng đá, cầu lông, bóng chuyền, esports), casino trực tuyến và slot online, phục vụ người chơi tại Việt Nam với giao diện tiếng Việt đầy đủ.</p>
+        </div>
+      </div>
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <div class="note-card surface-light p-4 h-100">
+          <h3 class="h6 fw-bold mb-2"><i class="bi bi-phone me-2"></i>Có thể dùng trên điện thoại không?</h3>
+          <p class="mb-0">Hoàn toàn có thể. Trang clmm được thiết kế theo chuẩn mobile-first, hiển thị tốt trên mọi kích thước màn hình mà không cần cài ứng dụng thêm. Bạn chỉ cần mở trình duyệt là truy cập ngay.</p>
+        </div>
+      </div>
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <div class="note-card surface-light p-4 h-100">
+          <h3 class="h6 fw-bold mb-2"><i class="bi bi-wallet2 me-2"></i>Có hỗ trợ thanh toán bằng VND không?</h3>
+          <p class="mb-0">Có. Thông tin nạp và rút tiền tại clmm được trình bày rõ ràng bằng VND (đồng Việt Nam). Bạn có thể xem chi tiết tại mục <a href="/rut-tien">Rút tiền</a> để nắm quy trình cụ thể.</p>
+        </div>
+      </div>
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <div class="note-card surface-light p-4 h-100">
+          <h3 class="h6 fw-bold mb-2"><i class="bi bi-person-plus me-2"></i>Đăng ký tài khoản ở đâu?</h3>
+          <p class="mb-0">Bạn có thể tạo tài khoản tại trang <a href="/register">Đăng ký</a>. Sau khi có tài khoản, truy cập vào <a href="/login">Đăng nhập</a> để bắt đầu khám phá toàn bộ danh mục trên nền tảng.</p>
+        </div>
+      </div>
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <div class="note-card surface-light p-4 h-100">
+          <h3 class="h6 fw-bold mb-2"><i class="bi bi-controller me-2"></i>Có những loại game nào?</h3>
+          <p class="mb-0">clmm cung cấp thông tin về ba nhóm chính: Sportsbook (cá cược thể thao), Slot Online và Live Casino. Mỗi nhóm có trang riêng với mô tả rõ ràng giúp bạn chọn đúng loại phù hợp.</p>
+        </div>
+      </div>
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <div class="note-card surface-light p-4 h-100">
+          <h3 class="h6 fw-bold mb-2"><i class="bi bi-headset me-2"></i>Cần hỗ trợ thì xem ở đâu?</h3>
+          <p class="mb-0">Trang <a href="/faq">FAQ</a> tổng hợp các câu hỏi phổ biến nhất về tài khoản, thanh toán, thể thao và casino. Nếu cần thêm thông tin, thông tin liên hệ cũng được nêu rõ trong phần Giới thiệu.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="surface-soft py-5" aria-labelledby="steps-heading">
+  <div class="container content-narrow mx-auto">
+    <h2 id="steps-heading" class="fw-bold text-center mb-2">Bắt đầu với clmm chỉ trong vài bước</h2>
+    <p class="muted text-center mb-5">Không cần phức tạp – đây là con đường ngắn nhất để khám phá nền tảng.</p>
+    <div class="row g-4 align-items-stretch">
+      <div class="col-md-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100 text-center">
+          <div class="step-number icon-circle mx-auto mb-3">1</div>
+          <h3 class="h6 fw-bold mb-2">Xem thông tin</h3>
+          <p class="mb-3">Duyệt qua các mục Casino trực tuyến, Cá cược, Đặt cược để nắm tổng quan về nền tảng clmm trước khi quyết định.</p>
+          <a href="/ca-cuoc" class="btn btn-ghost btn-sm">Xem danh mục cá cược</a>
+        </div>
+      </div>
+      <div class="col-md-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100 text-center">
+          <div class="step-number icon-circle mx-auto mb-3">2</div>
+          <h3 class="h6 fw-bold mb-2">Đăng ký / Đăng nhập</h3>
+          <p class="mb-3">Tạo tài khoản miễn phí hoặc đăng nhập nếu đã có. Quá trình nhanh chóng, giao diện hoàn toàn bằng tiếng Việt.</p>
+          <a href="/register" class="btn btn-brand btn-sm">Đăng ký tài khoản</a>
+        </div>
+      </div>
+      <div class="col-md-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100 text-center">
+          <div class="step-number icon-circle mx-auto mb-3">3</div>
+          <h3 class="h6 fw-bold mb-2">Khám phá danh mục</h3>
+          <p class="mb-3">Sau khi đăng nhập, bạn có thể truy cập sportsbook, slot online, live casino, xem thông tin thanh toán VND và đọc FAQ khi cần hỗ trợ.</p>
+          <a href="/faq" class="btn btn-ghost btn-sm">Đọc FAQ hỗ trợ</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="surface-page py-5" aria-labelledby="categories-heading">
+  <div class="container">
+    <h2 id="categories-heading" class="fw-bold text-center mb-2">Khám phá các danh mục chính trên clmm</h2>
+    <p class="muted text-center mb-5">Từ sân cỏ bóng đá đến bàn bài live casino – mỗi mục được tổ chức rõ ràng cho người chơi Việt.</p>
+    <div class="row g-4">
+      <div class="col-md-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100">
+          <figure class="image-frame mb-3 hero-media mx-auto hero-split-media" style="border-radius:.8rem;overflow:hidden;max-width:1100px;">
+            <img src="/img/fl70f86p09s8.jpg" alt="Cá cược thể thao bóng đá và cầu lông tại clmm" title="Sportsbook – Cá cược bóng đá, cầu lông, esports" width="480" height="240" loading="lazy" decoding="async" class="img-fluid w-100 d-block mx-auto" style="object-fit:cover;">
+          </figure>
+          <h3 class="h5 fw-bold mb-2">Sportsbook &amp; Cá cược thể thao</h3>
+          <p class="mb-3">Bóng đá, cầu lông, bóng chuyền và esports – clmm cung cấp thông tin đặt cược thể thao toàn diện cho người hâm mộ thể thao Việt Nam. Kèo và tỷ lệ được cập nhật sát giờ thi đấu.</p>
+          <a href="/ca-cuoc" class="btn btn-brand btn-sm">Xem khu vực cá cược</a>
+        </div>
+      </div>
+      <div class="col-md-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100">
+          <figure class="image-frame mb-3 hero-media mx-auto hero-split-media" style="border-radius:.8rem;overflow:hidden;max-width:1100px;">
+            <img src="/img/4cxfsx.jpg" alt="Slot online phong phú với nhiều chủ đề hấp dẫn tại clmm" title="Slot Online – Quay hũ và game slot đa dạng" width="480" height="240" loading="lazy" decoding="async" class="img-fluid w-100 d-block mx-auto" style="object-fit:cover;">
+          </figure>
+          <h3 class="h5 fw-bold mb-2">Slot Online</h3>
+          <p class="mb-3">Hàng trăm tựa slot với chủ đề phong phú, tỷ lệ thưởng rõ ràng. Người chơi tại clmm có thể dễ dàng lọc theo loại máy, nhà phát hành và mức cược phù hợp với túi tiền của mình.</p>
+          <a href="/casino-truc-tuyen" class="btn btn-brand btn-sm">Khám phá Casino</a>
+        </div>
+      </div>
+      <div class="col-md-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100">
+          <figure class="image-frame mb-3 hero-media mx-auto hero-split-media" style="border-radius:.8rem;overflow:hidden;max-width:1100px;">
+            <img src="/img/zii3js.jpg" alt="Live casino với dealer thật tại nền tảng clmm Việt Nam" title="Live Casino – Baccarat, Blackjack và Roulette trực tuyến" width="480" height="240" loading="lazy" decoding="async" class="img-fluid w-100 d-block mx-auto" style="object-fit:cover;">
+          </figure>
+          <h3 class="h5 fw-bold mb-2">Live Casino</h3>
+          <p class="mb-3">Trải nghiệm baccarat, blackjack và roulette với dealer người thật phát sóng trực tiếp. Sảnh live casino tại clmm được thiết kế để mang lại cảm giác chân thực nhất qua màn hình điện thoại.</p>
+          <a href="/casino-truc-tuyen" class="btn btn-ghost btn-sm">Vào sảnh Casino</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="surface-soft py-5" aria-labelledby="advantages-heading">
+  <div class="container">
+    <h2 id="advantages-heading" class="fw-bold text-center mb-2">Điều gì làm cho trải nghiệm tại clmm khác biệt?</h2>
+    <p class="muted text-center mb-5">Sáu điểm mạnh người chơi thường nhắc đến khi giới thiệu nền tảng cho bạn bè.</p>
+    <div class="row g-3">
+      <div class="col-sm-6 col-lg-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100 d-flex gap-3 align-items-start">
+          <div class="icon-circle flex-shrink-0"><i class="bi bi-phone-fill"></i></div>
+          <div>
+            <h3 class="h6 fw-bold mb-1">Trải nghiệm Mobile tốt nhất</h3>
+            <p class="mb-0 small">Giao diện responsive chuẩn, không bị vỡ bố cục khi dùng điện thoại hay máy tính bảng.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100 d-flex gap-3 align-items-start">
+          <div class="icon-circle flex-shrink-0"><i class="bi bi-signpost-split"></i></div>
+          <div>
+            <h3 class="h6 fw-bold mb-1">Điều hướng đơn giản</h3>
+            <p class="mb-0 small">Menu rõ ràng, phân loại hợp lý giúp tìm đúng mục cần tìm chỉ trong vài giây.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100 d-flex gap-3 align-items-start">
+          <div class="icon-circle flex-shrink-0"><i class="bi bi-translate"></i></div>
+          <div>
+            <h3 class="h6 fw-bold mb-1">Giao diện tiếng Việt đầy đủ</h3>
+            <p class="mb-0 small">Không rào cản ngôn ngữ – toàn bộ nội dung được viết tự nhiên cho người dùng Việt Nam.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100 d-flex gap-3 align-items-start">
+          <div class="icon-circle flex-shrink-0"><i class="bi bi-broadcast"></i></div>
+          <div>
+            <h3 class="h6 fw-bold mb-1">Thể thao phủ sóng rộng</h3>
+            <p class="mb-0 small">Bóng đá, cầu lông, bóng chuyền, futsal và esports – đáp ứng đa dạng sở thích thể thao Việt.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100 d-flex gap-3 align-items-start">
+          <div class="icon-circle flex-shrink-0"><i class="bi bi-cash-stack"></i></div>
+          <div>
+            <h3 class="h6 fw-bold mb-1">Thanh toán VND minh bạch</h3>
+            <p class="mb-0 small">Thông tin nạp rút bằng đồng Việt Nam được trình bày rõ ràng, không mập mờ phí ẩn.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-4 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100 d-flex gap-3 align-items-start">
+          <div class="icon-circle flex-shrink-0"><i class="bi bi-life-preserver"></i></div>
+          <div>
+            <h3 class="h6 fw-bold mb-1">FAQ &amp; Hỗ trợ dễ tiếp cận</h3>
+            <p class="mb-0 small">Trung tâm FAQ giải đáp nhanh mọi vấn đề từ tài khoản, cược đến rút tiền và bảo mật.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="surface-page py-5" aria-labelledby="compare-heading">
+  <div class="container content-narrow mx-auto">
+    <h2 id="compare-heading" class="fw-bold text-center mb-2">So sánh trải nghiệm tìm kiếm thông tin</h2>
+    <p class="muted text-center mb-4">Nhìn nhanh xem clmm đáp ứng những tiêu chí tìm thông tin của người chơi Việt như thế nào.</p>
+    <div class="table-responsive surface-light rounded-3 p-3 reveal rv-show is-visible in-view">
+      <table class="table compare-table mb-0">
+        <thead>
+          <tr>
+            <th scope="col">Tiêu chí</th>
+            <th scope="col">Tại clmm</th>
+            <th scope="col">Trải nghiệm phổ biến khác</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Giao diện tiếng Việt</strong></td>
+            <td>Toàn bộ nội dung bằng tiếng Việt tự nhiên</td>
+            <td>Thường pha trộn tiếng Anh, khó đọc trên mobile</td>
+          </tr>
+          <tr>
+            <td><strong>Mobile readability</strong></td>
+            <td>Bố cục mobile-first, chữ rõ ràng không zoom</td>
+            <td>Nhiều trang phải zoom để đọc nội dung</td>
+          </tr>
+          <tr>
+            <td><strong>Thông tin thanh toán VND</strong></td>
+            <td>Có trang Rút tiền riêng, mô tả bằng VND</td>
+            <td>Thường chỉ hiển thị USD hoặc không rõ đơn vị</td>
+          </tr>
+          <tr>
+            <td><strong>Điều hướng &amp; phân loại</strong></td>
+            <td>Menu phân cấp rõ, tìm mục trong 1–2 bước</td>
+            <td>Menu phức tạp, dễ lạc khi tìm kiếm</td>
+          </tr>
+          <tr>
+            <td><strong>Đăng ký / Đăng nhập</strong></td>
+            <td>Nút truy cập nhanh ngay trên thanh điều hướng</td>
+            <td>Đăng nhập thường bị ẩn sâu trong menu phụ</td>
+          </tr>
+          <tr>
+            <td><strong>FAQ &amp; hỗ trợ người chơi</strong></td>
+            <td>Trang FAQ đầy đủ, dễ tìm từ mọi trang</td>
+            <td>Hỗ trợ thường chỉ qua chat, không có câu hỏi thường gặp</td>
+          </tr>
+          <tr>
+            <td><strong>Danh mục game</strong></td>
+            <td>Sportsbook · Slot Online · Live Casino tách biệt rõ</td>
+            <td>Thường gộp chung, khó phân biệt loại game</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="surface-soft py-5" aria-labelledby="payment-heading">
+  <div class="container">
+    <div class="row g-5 align-items-center">
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <figure class="image-frame hero-media mx-auto hero-split-media" style="border-radius:1rem;overflow:hidden;max-width:1100px;">
+          <img src="/img/lzywq335i.jpg" alt="Hướng dẫn rút tiền và nạp tiền VND tại clmm" title="Thanh toán VND – Rút tiền nhanh tại clmm" width="540" height="320" loading="lazy" decoding="async" class="img-fluid w-100 d-block mx-auto" style="object-fit:cover;">
+        </figure>
+      </div>
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <h2 id="payment-heading" class="fw-bold mb-3">Thông tin thanh toán bằng VND – không cần đổi tiền tệ</h2>
+        <p>clmm hiển thị toàn bộ thông tin nạp và rút tiền bằng đồng Việt Nam (₫ VND). Người chơi tại Việt Nam không cần tính toán tỷ giá hay quy đổi ngoại tệ khi sử dụng nền tảng này.</p>
+        <ul class="mb-4">
+          <li>Hạn mức nạp/rút được ghi rõ bằng VND</li>
+          <li>Thời gian xử lý giao dịch được nêu cụ thể</li>
+          <li>Các phương thức thanh toán phổ biến tại Việt Nam được liệt kê đầy đủ</li>
+          <li>Không có phí ẩn không được thông báo trước</li>
+        </ul>
+        <a href="/rut-tien" class="btn btn-brand">Xem chi tiết Rút tiền</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="surface-accent py-5" aria-labelledby="cta-mid-heading">
+  <div class="container content-narrow mx-auto text-center">
+    <h2 id="cta-mid-heading" class="fw-bold mb-3">Sẵn sàng khám phá sportsbook và casino?</h2>
+    <p class="mb-4" style="max-width:560px;margin-left:auto;margin-right:auto;">Đăng ký tài khoản clmm chỉ mất vài phút. Sau đó bạn có thể duyệt toàn bộ danh mục cá cược, xem thông tin thanh toán VND và đặt cược ngay trên điện thoại.</p>
+    <div class="d-flex flex-wrap gap-3 justify-content-center">
+      <a href="/register" class="btn btn-ghost btn-lg px-5">Tạo tài khoản miễn phí</a>
+      <a href="/login" class="btn btn-brand btn-lg px-4">Đăng nhập ngay</a>
+    </div>
+  </div>
+</section>
+
+<section class="surface-page py-5" aria-labelledby="highlights-heading">
+  <div class="container content-narrow mx-auto">
+    <h2 id="highlights-heading" class="fw-bold text-center mb-4">Điểm nổi bật của nền tảng clmm</h2>
+    <div class="d-flex flex-wrap gap-3 justify-content-center reveal rv-show is-visible in-view">
+      <span class="badge-pill fs-6 py-3 px-4"><i class="bi bi-phone me-2"></i>Mobile-first Design</span>
+      <span class="badge-pill fs-6 py-3 px-4"><i class="bi bi-flag me-2"></i>Giao diện tiếng Việt</span>
+      <span class="badge-pill fs-6 py-3 px-4"><i class="bi bi-trophy me-2"></i>Sports Coverage đầy đủ</span>
+      <span class="badge-pill fs-6 py-3 px-4"><i class="bi bi-lightning me-2"></i>Điều hướng dễ dàng</span>
+      <span class="badge-pill fs-6 py-3 px-4"><i class="bi bi-door-open me-2"></i>Truy cập nhanh 24/7</span>
+    </div>
+    <div class="row g-4 mt-3">
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <figure class="image-frame hero-media mx-auto hero-split-media" style="border-radius:1rem;overflow:hidden;max-width:1100px;">
+          <img src="/img/07opp1tz.jpg" alt="Giao diện mobile tối ưu của clmm cho người dùng Việt Nam" title="clmm – Giao diện mobile thân thiện" width="540" height="300" loading="lazy" decoding="async" class="img-fluid w-100 d-block mx-auto" style="object-fit:cover;">
+        </figure>
+      </div>
+      <div class="col-md-6 d-flex flex-column justify-content-center reveal hero-split-text rv-show is-visible in-view">
+        <h3 class="fw-bold mb-3">Truy cập mọi lúc, mọi nơi trên điện thoại</h3>
+        <p>clmm không yêu cầu cài đặt ứng dụng riêng. Chỉ cần mở trình duyệt trên điện thoại Android hoặc iOS, bạn đã có thể xem kèo bóng đá, vào sảnh live casino hoặc kiểm tra trạng thái rút tiền ngay lập tức.</p>
+        <p class="mb-0">Thiết kế responsive đảm bảo nút bấm đủ lớn, chữ đủ rõ và menu hoạt động mượt mà – dù bạn dùng màn hình 5 inch hay 7 inch.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="surface-soft py-5" aria-labelledby="privacy-heading">
+  <div class="container content-narrow mx-auto">
+    <div class="note-card surface-light p-4 p-md-5 reveal rv-show is-visible in-view">
+      <div class="d-flex align-items-start gap-3 mb-3">
+        <div class="icon-circle flex-shrink-0"><i class="bi bi-shield-lock-fill"></i></div>
+        <div>
+          <h2 id="privacy-heading" class="h4 fw-bold mb-1">Thông tin về Chính sách bảo mật</h2>
+          <p class="muted mb-0 small">Cập nhật theo tiêu chuẩn bảo vệ dữ liệu người dùng tại Việt Nam</p>
+        </div>
+      </div>
+      <p>clmm cam kết bảo vệ thông tin cá nhân của người chơi. Chính sách bảo mật nêu rõ cách nền tảng thu thập, lưu trữ và sử dụng dữ liệu liên quan đến tài khoản, lịch sử duyệt web trên mobile, thông tin thanh toán VND, cookie và tùy chọn người dùng.</p>
+      <p class="mb-4">Nếu bạn muốn biết chi tiết về quyền truy cập dữ liệu, cách yêu cầu xóa thông tin hoặc cách liên hệ bộ phận hỗ trợ về vấn đề bảo mật, hãy đọc đầy đủ tại trang Chính sách bảo mật.</p>
+      <a href="/privacy-policy" class="btn btn-brand">Đọc Chính sách bảo mật</a>
+    </div>
+  </div>
+</section>
+
+<section class="surface-page py-5" aria-labelledby="cta-final-heading">
+  <div class="container content-narrow mx-auto text-center reveal rv-show is-visible in-view">
+    <h2 id="cta-final-heading" class="fw-bold mb-3" style="font-size:clamp(1.4rem,3.5vw,2.2rem);">Tìm đúng mục bạn cần – bắt đầu ngay tại clmm</h2>
+    <p class="mb-4 muted" style="max-width:600px;margin-left:auto;margin-right:auto;">Xem thông tin thể thao tại mục <a href="/ca-cuoc">Cá cược</a>, vào sảnh game tại <a href="/casino-truc-tuyen">Casino trực tuyến</a>, kiểm tra quy trình tài chính tại <a href="/rut-tien">Rút tiền</a> hoặc tạo tài khoản để bắt đầu trải nghiệm.</p>
+    <div class="d-flex flex-wrap gap-3 justify-content-center">
+      <a href="/register" class="btn btn-brand btn-lg px-5">Đăng ký tài khoản</a>
+      <a href="/dat-cuoc" class="btn btn-ghost btn-lg px-4">Xem hướng dẫn Đặt cược</a>
+    </div>
+  </div>
+</section>
+
+<section class="surface-soft py-5" aria-labelledby="faq-heading">
+  <div class="container faq-narrow content-narrow mx-auto" style="max-width:900px;">
+    <h2 id="faq-heading" class="fw-bold text-center mb-2">Câu hỏi thường gặp về clmm</h2>
+    <p class="muted text-center mb-4">Những thắc mắc người chơi Việt Nam hay hỏi nhất – được trả lời ngắn gọn và trực tiếp.</p>
+    <div class="accordion surface-soft" id="faqAccordion">
+
+      <div class="accordion-item surface-light mb-2 rounded-3 overflow-hidden border-0">
+        <h3 class="accordion-header">
+          <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faq1" aria-expanded="false" aria-controls="faq1">
+            Làm thế nào để đăng ký tài khoản tại clmm?
+          </button>
+        </h3>
+        <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Bạn truy cập trang <a href="/register">Đăng ký</a> và điền thông tin theo yêu cầu. Quá trình tạo tài khoản nhanh, giao diện hoàn toàn bằng tiếng Việt. Sau khi hoàn tất, bạn có thể đăng nhập ngay và bắt đầu duyệt các danh mục thể thao, casino và xem thông tin thanh toán VND.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item surface-light mb-2 rounded-3 overflow-hidden border-0">
+        <h3 class="accordion-header">
+          <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="false" aria-controls="faq2">
+            Tôi quên mật khẩu đăng nhập thì phải làm sao?
+          </button>
+        </h3>
+        <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Trên trang <a href="/login">Đăng nhập</a>, chọn tùy chọn "Quên mật khẩu" và làm theo hướng dẫn xác minh qua email hoặc số điện thoại đã đăng ký. Nếu gặp sự cố, hãy tra thêm tại trang <a href="/faq">FAQ</a> để tìm hướng dẫn chi tiết hơn.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item surface-light mb-2 rounded-3 overflow-hidden border-0">
+        <h3 class="accordion-header">
+          <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faq3" aria-expanded="false" aria-controls="faq3">
+            clmm có hỗ trợ cá cược bóng đá và cầu lông không?
+          </button>
+        </h3>
+        <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Có. clmm có khu vực sportsbook bao gồm bóng đá (V.League, giải châu Á, World Cup), cầu lông, bóng chuyền và futsal. Bạn có thể xem chi tiết và đặt cược trực tiếp tại trang <a href="/ca-cuoc">Cá cược</a> sau khi đăng nhập.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item surface-light mb-2 rounded-3 overflow-hidden border-0">
+        <h3 class="accordion-header">
+          <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faq4" aria-expanded="false" aria-controls="faq4">
+            Trang clmm có thể dùng trên điện thoại Android và iOS không?
+          </button>
+        </h3>
+        <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Hoàn toàn được. Bạn chỉ cần mở trình duyệt (Chrome, Safari, Firefox) trên điện thoại Android hoặc iPhone và truy cập địa chỉ clmm.bar. Không cần cài ứng dụng riêng. Bố cục tự động điều chỉnh cho màn hình nhỏ, đảm bảo đọc rõ và thao tác dễ dàng.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item surface-light mb-2 rounded-3 overflow-hidden border-0">
+        <h3 class="accordion-header">
+          <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faq5" aria-expanded="false" aria-controls="faq5">
+            Các loại game casino nào có tại clmm?
+          </button>
+        </h3>
+        <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            clmm cung cấp thông tin và truy cập vào ba nhóm casino chính: Slot Online (máy quay hũ đa chủ đề), Live Casino (baccarat, blackjack, roulette với dealer thật) và các game bàn truyền thống. Xem tổng quan tại trang <a href="/casino-truc-tuyen">Casino trực tuyến</a>.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item surface-light mb-2 rounded-3 overflow-hidden border-0">
+        <h3 class="accordion-header">
+          <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faq6" aria-expanded="false" aria-controls="faq6">
+            Thời gian rút tiền tại clmm mất bao lâu?
+          </button>
+        </h3>
+        <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Thời gian xử lý rút tiền phụ thuộc vào phương thức thanh toán bạn chọn. Thông thường giao dịch hoàn tất trong vòng vài giờ đến 24 giờ làm việc. Bạn có thể xem đầy đủ quy trình và điều kiện tại trang <a href="/rut-tien">Rút tiền</a>.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item surface-light mb-2 rounded-3 overflow-hidden border-0">
+        <h3 class="accordion-header">
+          <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faq7" aria-expanded="false" aria-controls="faq7">
+            Tìm trung tâm hỗ trợ của clmm ở đâu?
+          </button>
+        </h3>
+        <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+          <div class="accordion-body">
+            Trang <a href="/faq">FAQ</a> là điểm hỗ trợ chính, tổng hợp đầy đủ các câu hỏi về đăng ký, đăng nhập, thanh toán, thể thao và casino. Nếu không tìm được câu trả lời, bạn có thể liên hệ trực tiếp qua thông tin được cung cấp trong trang Giới thiệu.
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="surface-page py-5" aria-labelledby="nav-guide-heading">
+  <div class="container content-narrow mx-auto">
+    <h2 id="nav-guide-heading" class="fw-bold text-center mb-3">Hướng dẫn khám phá nhanh các mục trên clmm</h2>
+    <div class="row g-3">
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100">
+          <figure class="image-frame mb-3 hero-media mx-auto hero-split-media" style="border-radius:.7rem;overflow:hidden;max-width:1100px;">
+            <img src="/img/p35c6u70kl.jpg" alt="Hướng dẫn đặt cược thể thao tại clmm cho người mới" title="Đặt cược thể thao – Hướng dẫn tại clmm" width="480" height="220" loading="lazy" decoding="async" class="img-fluid w-100 d-block mx-auto" style="object-fit:cover;">
+          </figure>
+          <h3 class="h5 fw-bold mb-2">Muốn đặt cược thể thao?</h3>
+          <p class="mb-3">Đi tới mục <strong>Đặt cược</strong> hoặc <strong>Cá cược</strong> để xem kèo và tỷ lệ cập nhật. Bóng đá, cầu lông, esports và nhiều môn thể thao khác được phủ sóng đầy đủ.</p>
+          <a href="/dat-cuoc" class="btn btn-ghost btn-sm">Xem hướng dẫn Đặt cược</a>
+        </div>
+      </div>
+      <div class="col-md-6 reveal hero-split-text rv-show is-visible in-view">
+        <div class="feature-card surface-light p-4 h-100">
+          <figure class="image-frame mb-3 hero-media mx-auto hero-split-media" style="border-radius:.7rem;overflow:hidden;max-width:1100px;">
+            <img src="/img/1dql3sa.jpg" alt="Slot online và live casino đa dạng tại clmm Việt Nam" title="Slot Online và Live Casino – clmm" width="480" height="220" loading="lazy" decoding="async" class="img-fluid w-100 d-block mx-auto" style="object-fit:cover;">
+          </figure>
+          <h3 class="h5 fw-bold mb-2">Muốn vào sảnh Casino?</h3>
+          <p class="mb-3">Trang <strong>Casino trực tuyến</strong> giới thiệu đầy đủ các sảnh slot, bàn baccarat và live dealer. Chọn loại game phù hợp và xem thông tin trước khi bắt đầu.</p>
+          <a href="/casino-truc-tuyen" class="btn btn-ghost btn-sm">Vào Casino trực tuyến</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="surface-dark pt-5 pb-3" aria-label="Chân trang clmm">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-3 col-md-6 hero-split-text">
+        <a href="/" class="d-flex align-items-center gap-2 mb-3 text-decoration-none">
+          <img src="/logo.png" alt="Logo clmm" title="clmm" width="36" height="36" loading="lazy" decoding="async" class="rounded-2">
+          <span class="fw-bold fs-5">clmm</span>
+        </a>
+        <p class="small muted">clmm – nền tảng giải trí trực tuyến hàng đầu tại Việt Nam, cung cấp sportsbook bóng đá, slot online và live casino với giao diện tiếng Việt tối ưu cho mobile.</p>
+        <p class="small muted mb-0">Liên hệ: support@clmm.bar</p>
+      </div>
+      <div class="col-lg-3 col-md-6 hero-split-text">
+        <h4 class="h6 fw-bold mb-3">Thông tin</h4>
+        <ul class="list-unstyled mb-0">
+          <li class="mb-2"><a href="/about-us"><i class="bi bi-info-circle me-1"></i>Giới thiệu</a></li>
+          <li class="mb-2"><a href="/terms-conditions"><i class="bi bi-file-text me-1"></i>Điều khoản và Điều kiện</a></li>
+          <li class="mb-2"><a href="/privacy-policy"><i class="bi bi-shield-lock me-1"></i>Chính sách bảo mật</a></li>
+          <li class="mb-2"><a href="/responsible-gaming"><i class="bi bi-heart me-1"></i>Chơi có trách nhiệm</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-6 hero-split-text">
+        <h4 class="h6 fw-bold mb-3">Truy cập nhanh</h4>
+        <ul class="list-unstyled mb-0">
+          <li class="mb-2"><a href="/register"><i class="bi bi-person-plus me-1"></i>Đăng ký</a></li>
+          <li class="mb-2"><a href="/login"><i class="bi bi-box-arrow-in-right me-1"></i>Đăng nhập</a></li>
+          <li class="mb-2"><a href="/faq"><i class="bi bi-question-circle me-1"></i>FAQ</a></li>
+          <li class="mb-2"><a href="/sitemap.xml"><i class="bi bi-diagram-3 me-1"></i>Sơ đồ trang</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-6 hero-split-text">
+        <h4 class="h6 fw-bold mb-3">Bản quyền &amp; Liên hệ</h4>
+        <p class="small muted mb-2">© 2026 clmm. Bảo lưu mọi quyền.</p>
+        <p class="small muted mb-2">Nền tảng hoạt động hợp pháp và tuân thủ quy định pháp luật tại Việt Nam.</p>
+        <p class="small muted mb-0">Email: support@clmm.bar</p>
+      </div>
+    </div>
+    <hr style="border-color:rgba(255,255,255,0.12);margin-top:2rem;margin-bottom:1rem;">
+    <p class="text-center small muted mb-0">clmm khuyến khích chơi có trách nhiệm. Nếu bạn cần hỗ trợ, hãy truy cập trang .</p>
+  </div>
+</footer>
+
+<a href="#" class="btn btn-brand back-top" aria-label="Về đầu trang" title="Về đầu trang">
+  <i class="bi bi-arrow-up"></i>
+</a>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+  var els=document.querySelectorAll('.reveal');
+  if(!els.length)return;
+  var io=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('is-visible');}});
+  },{threshold:0});
+  els.forEach(function(el){io.observe(el);});
+});
+</script>
+<script>(function(){function nodes(){return document.querySelectorAll('.reveal');}function light(el){el.classList.add('rv-show');el.classList.add('is-visible');el.classList.add('in-view');}function lightAll(){document.documentElement.classList.add('reveal-done');var r=nodes();for(var i=0;i<r.length;i++){light(r[i]);}}function inView(el){var b=el.getBoundingClientRect();return b.top<(window.innerHeight||document.documentElement.clientHeight)+80&&b.bottom>-80;}function init(){var r=nodes();for(var i=0;i<r.length;i++){if(inView(r[i]))light(r[i]);}if('IntersectionObserver' in window){var ob=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){light(e.target);ob.unobserve(e.target);}});},{threshold:0,rootMargin:'0px 0px -40px 0px'});for(var j=0;j<r.length;j++){ob.observe(r[j]);}}else{lightAll();}}if(document.readyState!=='loading'){init();}else{document.addEventListener('DOMContentLoaded',init);}window.addEventListener('load',function(){var r=nodes();for(var i=0;i<r.length;i++){if(inView(r[i]))light(r[i]);}});setTimeout(lightAll,1000);})();</script>
+<script>(function(){var R=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;function progress(){var p=document.getElementById('fx-progress');if(!p){p=document.createElement('div');p.id='fx-progress';document.body.appendChild(p);}var h=document.documentElement;var sc=h.scrollTop||document.body.scrollTop;var mx=(h.scrollHeight-h.clientHeight)||1;p.style.width=(sc/mx*100)+'%';}function countUp(el){var raw=el.getAttribute('data-fx-target');var target=parseFloat(raw);if(isNaN(target))return;var suf=el.getAttribute('data-fx-suffix')||'';var pre=el.getAttribute('data-fx-prefix')||'';var dur=1200,st=null;function step(ts){if(!st)st=ts;var pr=Math.min((ts-st)/dur,1);var ease=1-Math.pow(1-pr,3);var val=Math.floor(ease*target);el.textContent=pre+val.toLocaleString('vi-VN')+suf;if(pr<1)requestAnimationFrame(step);else el.textContent=pre+target.toLocaleString('vi-VN')+suf;}requestAnimationFrame(step);}function prepCounts(){var cand=document.querySelectorAll('h1,h2,h3,.stat,.stat-card,.stat-card *,[class*=stat] strong,[class*=count]');var seen=[];cand.forEach(function(el){if(el.children.length)return;var t=(el.textContent||'').trim();if(t.length>12)return;var m=t.match(/^([^0-9]*)([0-9][0-9.,]*)([^0-9]*)$/);if(!m)return;var num=parseFloat(m[2].replace(/[.,]/g,''));if(isNaN(num)||num<10)return;el.setAttribute('data-fx-target',num);el.setAttribute('data-fx-prefix',m[1]);el.setAttribute('data-fx-suffix',m[3]);el.classList.add('fx-count');el.textContent=m[1]+'0'+m[3];seen.push(el);});return seen;}function init(){if(!R){window.addEventListener('scroll',progress,{passive:true});progress();}var counters=R?[]:prepCounts();if(counters.length&&'IntersectionObserver' in window){var co=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){countUp(e.target);co.unobserve(e.target);}});},{threshold:.4});counters.forEach(function(c){co.observe(c);});}else{counters.forEach(function(c){var n=c.getAttribute('data-fx-target');c.textContent=(c.getAttribute('data-fx-prefix')||'')+parseFloat(n).toLocaleString('vi-VN')+(c.getAttribute('data-fx-suffix')||'');});}}if(document.readyState!=='loading'){init();}else{document.addEventListener('DOMContentLoaded',init);}})();</script>
+<script>(function(){function ready(fn){if(document.readyState!=='loading'){fn();}else{document.addEventListener('DOMContentLoaded',fn);}}ready(function(){setTimeout(function(){try{if(window.bootstrap&&window.bootstrap.Collapse){return;}}catch(e){}var toggles=document.querySelectorAll('[data-bs-toggle="collapse"]');if(!toggles.length)return;function panelOf(btn){var sel=btn.getAttribute('data-bs-target')||btn.getAttribute('href');if(!sel)return null;try{return document.querySelector(sel);}catch(e){return null;}}function open(p,btn){p.classList.add('show');p.style.height='auto';var h=p.scrollHeight;p.style.height='0px';p.offsetHeight;p.style.transition='height .3s ease';p.style.height=h+'px';setTimeout(function(){p.style.height='auto';},320);if(btn){btn.classList.remove('collapsed');btn.setAttribute('aria-expanded','true');}}function close(p,btn){p.style.transition='height .3s ease';p.style.height=p.scrollHeight+'px';p.offsetHeight;p.style.height='0px';setTimeout(function(){p.classList.remove('show');},320);if(btn){btn.classList.add('collapsed');btn.setAttribute('aria-expanded','false');}}function btnFor(p){var id=p.id;if(!id)return null;return document.querySelector('[data-bs-target="#'+id+'"],[href="#'+id+'"]');}toggles.forEach(function(btn){var p=panelOf(btn);if(!p)return;if(!p.classList.contains('show')){p.style.height='0px';p.style.overflow='hidden';}else{p.style.height='auto';p.style.overflow='hidden';}btn.addEventListener('click',function(e){e.preventDefault();var isOpen=p.classList.contains('show');var parentSel=p.getAttribute('data-bs-parent');if(parentSel&&!isOpen){try{var pr=document.querySelector(parentSel);if(pr){pr.querySelectorAll('.accordion-collapse.show,.collapse.show').forEach(function(o){if(o!==p){close(o,btnFor(o));}});}}catch(e){}}if(isOpen){close(p,btn);}else{open(p,btn);}});});},400);});})();</script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;c52234cf5f9c4d958c7ad93f027ef422&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+<div id="fx-progress" style="width: 0%;"></div><div id="br-stick" lang="vi" style="left: 50%; transform: translateX(-50%) translateZ(0px); max-width: 400px; width: auto; bottom: 0px;"><div class="wrap">  <div class="card" role="region" aria-label="Đăng ký và Đăng nhập">    <button class="close" aria-label="Đóng" type="button">×</button>    <div class="btn-container">      <a href="https://www.fv88live.top?a=142574" class="br-btn br-btn-register" target="_blank" rel="nofollow noopener noreferrer">Đăng ký</a>      <a href="https://www.fv88live.top?a=142574" class="br-btn br-btn-login" target="_blank" rel="nofollow noopener noreferrer">Đăng nhập</a>    </div>  </div></div></div></body></html>

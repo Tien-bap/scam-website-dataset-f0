@@ -1,0 +1,27 @@
+{
+  "original_url": "bongdahomnay.live",
+  "hostname": "bongdahomnay.live",
+  "checked_at": "2026-10-04T13:37:48.447980+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0785c-4e7b-74d9-9091-b0a0ff1e1f2d",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-09-06T20:15:19.691Z",
+  "scan_original_url": "https://justnappies.io/",
+  "final_url": "https://bongdahomnay.live/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 14199,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.944,
+  "discovery": {
+    "batch_id": "ea2599a79f6dfdcb35d0942556efc897cb48bfc44f137576933bc03ae12ef9e8",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

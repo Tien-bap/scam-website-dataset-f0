@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_7b0b1c2bd999fea860b8d5ef1a599c317d4abc87886a22c4b9886fc37c214d0b",
+  "candidate_sha256": "13d3e36c51b67dfb264ad9c5f7eae6ff021444c79a6817b96ba1c0aeed34a0d5",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "minecoin.ai",
+  "requested_url": "https://minecoin.ai",
+  "browser_final_url": "https://minecoin.ai/",
+  "source_urls": [
+    "minecoin.ai"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11436,
+      "source_url": "minecoin.ai",
+      "source_hostname": "minecoin.ai",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://minecoin.ai",
+      "final_hostname": "minecoin.ai",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 16380,
+      "elapsed_ms": 1325,
+      "checked_at": "2026-10-05T12:41:46.210609+00:00",
+      "error": null,
+      "normalized_source_url": "https://minecoin.ai/",
+      "normalized_final_url": "https://minecoin.ai/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_7b0b1c2bd999fea860b8d5ef1a599c317d4abc87886a22c4b9886fc37c214d0b",
+    "representative_source_index": 11436,
+    "representative_source_url": "minecoin.ai",
+    "representative_final_url": "https://minecoin.ai",
+    "normalized_final_url": "https://minecoin.ai/",
+    "source_hostname": "minecoin.ai",
+    "final_hostname": "minecoin.ai",
+    "source_urls": [
+      "minecoin.ai"
+    ],
+    "provenance": [
+      {
+        "source_index": 11436,
+        "source_url": "minecoin.ai",
+        "source_hostname": "minecoin.ai",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://minecoin.ai",
+        "final_hostname": "minecoin.ai",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 16380,
+        "elapsed_ms": 1325,
+        "checked_at": "2026-10-05T12:41:46.210609+00:00",
+        "error": null,
+        "normalized_source_url": "https://minecoin.ai/",
+        "normalized_final_url": "https://minecoin.ai/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "MineCoin.AI - Mine Blocks. Earn Real Coins.",
+  "capture_timestamp": "2026-10-05T14:47:26.536704+00:00",
+  "dom_chars": 35400,
+  "screenshot_bytes": 763004,
+  "dom_sha256": "32b3149b7f9383fa156c99a4d14bae6408c98d3a6ada5a6aea4d5c68843efc59",
+  "screenshot_sha256": "1597d63414f6539ac2c8a6396c796c76ba10156284edf0540560d2d32d9d87c8",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://minecoin.ai/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://minecoin.ai",
+    "browser_final_url": "https://minecoin.ai/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5472
+}

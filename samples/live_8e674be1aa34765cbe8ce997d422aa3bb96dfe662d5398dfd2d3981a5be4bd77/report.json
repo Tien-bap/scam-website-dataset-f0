@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_8e674be1aa34765cbe8ce997d422aa3bb96dfe662d5398dfd2d3981a5be4bd77",
+  "candidate_sha256": "f6cf6573063ee04fc973094a6b07b19ba6144b688c42e04ff160475677069430",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://vn-security.com",
+  "requested_url": "https://vn-security.com/vi",
+  "browser_final_url": "https://vn-security.com/vi",
+  "source_urls": [
+    "https://vn-security.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 4023,
+      "source_url": "https://vn-security.com",
+      "source_hostname": "vn-security.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://vn-security.com/vi",
+      "final_hostname": "vn-security.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 404,
+      "checked_at": "2026-10-05T12:40:53.335745+00:00",
+      "error": null,
+      "normalized_source_url": "https://vn-security.com/",
+      "normalized_final_url": "https://vn-security.com/vi",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_8e674be1aa34765cbe8ce997d422aa3bb96dfe662d5398dfd2d3981a5be4bd77",
+    "representative_source_index": 4023,
+    "representative_source_url": "https://vn-security.com",
+    "representative_final_url": "https://vn-security.com/vi",
+    "normalized_final_url": "https://vn-security.com/vi",
+    "source_hostname": "vn-security.com",
+    "final_hostname": "vn-security.com",
+    "source_urls": [
+      "https://vn-security.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 4023,
+        "source_url": "https://vn-security.com",
+        "source_hostname": "vn-security.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://vn-security.com/vi",
+        "final_hostname": "vn-security.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 404,
+        "checked_at": "2026-10-05T12:40:53.335745+00:00",
+        "error": null,
+        "normalized_source_url": "https://vn-security.com/",
+        "normalized_final_url": "https://vn-security.com/vi",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "VN-SECURITY' 2026 - Triển lãm và Hội nghị Quốc tế về Công nghiệp An ninh | VN-SECURITY' 2026",
+  "capture_timestamp": "2026-10-05T14:49:14.253033+00:00",
+  "dom_chars": 130958,
+  "screenshot_bytes": 580422,
+  "dom_sha256": "9c3968562ae608bf02b26903152ad07d63ad2bb9ef43ad5dc3079a140d869a8b",
+  "screenshot_sha256": "941c4ab14c7387ca8ed3b793f00c7703dc1373555cd9c7cd84001153d7fca620",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://vn-security.com/vi",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://vn-security.com/vi",
+    "browser_final_url": "https://vn-security.com/vi",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2657
+}

@@ -1,0 +1,21 @@
+{
+  "original_url": "sp6708p.com",
+  "hostname": "sp6708p.com",
+  "checked_at": "2026-10-04T10:33:58.494791+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "a7853c7d-18d2-44b2-aa79-bd3426a7362d",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-02-22T15:52:10.481Z",
+  "scan_original_url": "http://sp6708p.com/",
+  "final_url": "https://sp6708p.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 8744,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.94
+}

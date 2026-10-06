@@ -1,0 +1,130 @@
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Summerville DREAM - Keep It Summerville</title><meta name="description" content="Summerville DREAM is a cohort of small businesses, specialty vendors and entrepreneurs supporting economic vitality, events and community in Historic Downtown Summerville."><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&amp;family=Figtree:wght@400;600;700;800;900&amp;family=Caveat:wght@600;700&amp;display=swap" rel="stylesheet"><link rel="stylesheet" href="https://dreamlayout.mnsithub.com/html/helpest/main-html/assets/css/bootstrap.min.css"><link rel="stylesheet" href="https://dreamlayout.mnsithub.com/html/helpest/main-html/assets/css/style.css"><link rel="stylesheet" href="https://dreamlayout.mnsithub.com/html/helpest/main-html/assets/css/responsive.css"><link rel="stylesheet" href="assets/css/dream-brand.css"></head><body><a class="skip-link" href="#content">Skip to content</a><header class="dream-header"><div class="dream-topbar"><div class="dream-container">100 S. Main St. Suite “H”, Summerville, SC 29483 · (843) 821-7260</div></div><nav class="dream-container dream-nav" aria-label="Primary"><a class="dream-logo" href="index.html"><img src="assets/images/summerville-dream-logo.png" alt="Summerville DREAM"></a><ul class="dream-menu"><li><a href="events.html">DREAM Events</a><ul class="dream-dropdown"><li><a href="third-thursday.html">Third Thursday</a></li><li><a href="sweet-tea-festival.html">Sweet Tea Festival</a></li><li><a href="christmas-parade.html">Summerville Christmas Parade</a></li></ul></li><li><a href="farmers-market.html">Farmers Market</a></li><li><a href="cultural-arts-district-committee.html">Cultural Arts District</a></li><li><a href="get-involved.html">Get Involved</a><ul class="dream-dropdown"><li><a href="join.html">Join</a></li></ul></li><li><a href="directory.html">Shop Summerville</a></li><li><a class="dream-pill" href="contact.html">Contact</a><ul class="dream-dropdown"><li><a href="contact.html">Contact Us</a></li><li><a href="https://business.summervilledream.org/MIC/login">Member Login</a></li></ul></li></ul></nav></header><main id="content">
+    <section class="dream-hero">
+      <div class="dream-container dream-hero-grid">
+        <div>
+          <div class="dream-eyebrow">Summerville DREAM</div>
+          <h1>Keep It Summerville</h1>
+          <p>DREAM is a cohort of small businesses, specialty vendors, and entrepreneurs working together to facilitate
+            improvements in economic vitality, direct to consumer marketing, merchant district landscapes,
+            entertainment, and community outreach.</p>
+          <a class="dream-btn" href="get-involved.html">Learn More</a>
+        </div>
+        <div class="dream-media"><video controls="" muted="" poster="assets/images/sign.jpg" src="https://summervilledream.org/wp-content/uploads/2025/08/Keep-It-Summerville-v5-nosound-optimize.mp4"></video>
+        </div>
+      </div>
+    </section>
+
+    <section class="dream-section">
+      <div class="dream-container">
+        <div class="dream-split">
+          <div class="dream-prose">
+            <p class="dream-eyebrow on-light">Shop local, together</p>
+            <h2>DREAM Mission</h2>
+            <p>Our work enhances the small business profile and associates a mindset that celebrates the shop local
+              approach and creates a competitive advantage over major retail stores and online shopping. DREAM Community
+              Partners are recognized as trusted advisors that embraces the “I am because we are” mindset where together
+              we all succeed.</p>
+            <a class="dream-btn" href="get-involved.html">Learn More</a>
+          </div>
+          <div class="dream-media"><img src="assets/images/partners3.jpg" alt="Two Summerville shop owners behind the counter of their downtown business"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="dream-section navy">
+      <div class="dream-container">
+        <div class="dream-band-center">
+          <img src="assets/images/keep-it-logo.png" alt="Keep It Summerville">
+          <p>Summerville DREAM supports local businesses, specialty vendors, entrepreneurs, events, public art, and the
+            community spirit that keeps Summerville special.</p>
+          <a class="dream-btn" href="directory.html">Shop Summerville</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="dream-section">
+      <div class="dream-container">
+        <h2>Events</h2>
+        <div class="dream-card-grid">
+          <article class="dream-card has-media">
+            <img src="assets/images/Thursday2.jpg" alt="Families gathered under string lights in Hutchinson Square on a Third Thursday evening">
+            <div class="dream-card-body">
+              <h3>Third Thursday</h3>
+              <p>Downtown Summerville’s monthly evening event.</p>
+              <a class="dream-btn" href="third-thursday.html">Learn More</a>
+            </div>
+          </article>
+          <article class="dream-card has-media">
+            <img src="assets/images/Sweet-Tea-Festival-2.jpg" alt="Visitors browse vendor tents at the Sweet Tea Festival">
+            <div class="dream-card-body">
+              <h3>Sweet Tea Festival</h3>
+              <p>A signature Summerville celebration.</p>
+              <a class="dream-btn" href="sweet-tea-festival.html">Learn More</a>
+            </div>
+          </article>
+          <article class="dream-card has-media">
+            <img src="assets/images/Christmas-11.jpg" alt="A wreath-decorated truck rolls down Main Street in the Summerville Christmas Parade">
+            <div class="dream-card-body">
+              <h3>Christmas Parade</h3>
+              <p>Summerville’s holiday parade tradition.</p>
+              <a class="dream-btn" href="christmas-parade.html">Learn More</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="dream-section alt">
+      <div class="dream-container">
+        <div class="dream-split">
+          <div class="dream-prose">
+            <p class="dream-eyebrow on-light">Envision 2047</p>
+            <h2>A Vision Built by the Community</h2>
+            <p>This plan reflects the input of residents, business leaders, educators, and stakeholders across the
+              region. Through surveys, listening sessions, and community briefings, ENVISION 2047 captures the
+              priorities, challenges, and aspirations of those who live and work here.</p>
+            <p>As we look toward 2047, the bicentennial of the Town of Summerville and 150 years since the founding of
+              Dorchester County, we are making decisions today that will define the next generation of opportunity.</p>
+            <a class="dream-btn" href="https://www.envision2047.com/" target="_blank" rel="noopener noreferrer">Envision 2047</a>
+          </div>
+          <figure class="dream-figure"><img src="assets/images/Envision-2047-LOGO-scaled.jpg" alt="Envision 2047 logo"></figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="dream-section forest">
+      <div class="dream-container">
+        <div class="dream-card-grid">
+          <article class="dream-card">
+            <h3>Community Partners</h3>
+            <p>DREAM Community Partners support the local business ecosystem and the shop-local mindset.</p>
+            <a class="dream-btn" href="get-involved.html">Learn More</a>
+          </article>
+          <article class="dream-card">
+            <h3>Get Involved</h3>
+            <p>Join DREAM or register as a vendor through the existing business portal.</p>
+            <a class="dream-btn" href="https://business.summervilledream.org/application">Learn More</a>
+          </article>
+          <article class="dream-card">
+            <h3>Farmers Market</h3>
+            <p>Connect with local makers, growers, and the downtown Summerville community.</p>
+            <a class="dream-btn" href="farmers-market.html">Learn More</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="dream-section">
+      <div class="dream-container">
+        <h2>DREAM Marquee Sponsors</h2>
+        <div class="dream-sponsors">
+          <a class="dream-sponsor" href="https://hometownroofingsc.com/"><img src="assets/images/hometown-roof-logo.png" alt="Hometown Roofing"></a>
+          <a class="dream-sponsor" href="https://fcbcarolinas.com/"><img src="assets/images/first-capital-bank.png" alt="First Capital Bank"></a>
+          <a class="dream-sponsor" href="https://www.levinerlawfirm.com/"><img src="assets/images/leviner-law-firm.png" alt="Leviner Law Firm"></a>
+          <a class="dream-sponsor" href="https://guerinspharmacy.com/"><img src="assets/images/guerins-pharmacy.png" alt="Guerin’s Pharmacy"></a>
+        </div>
+      </div>
+    </section>
+  </main><footer class="dream-footer"><div class="dream-container dream-footer-grid"><section><img src="assets/images/summerville-dream-logo-3.png" alt="Summerville DREAM"><p>Summerville DREAM supports local businesses, specialty vendors, entrepreneurs, events, public art, and the community spirit that keeps Summerville special.</p></section><section><h3>Office</h3><p>100 S. Main St. Suite “H”<br>Summerville, SC 29483</p><p><strong>Phone:</strong> <a href="tel:+18438217260">(843) 821-7260</a></p><a class="dream-btn" href="contact.html">Contact Us</a></section><section><h3>Follow DREAM</h3><p class="dream-social"><a aria-label="Facebook" href="https://www.facebook.com/SummervilleDream">f</a><a aria-label="YouTube" href="https://www.youtube.com/channel/UCCMa2PsAc0TIK44aytONt-g">▶</a><a aria-label="Instagram" href="https://www.instagram.com/summervilledream/">◎</a></p></section></div><div class="dream-container dream-footer-bottom">Copyright © <span class="js-year">2026</span> Summerville DREAM. All rights reserved.<br>Designed for the future by the <a href="https://larrycollett.com" target="_blank" rel="noopener noreferrer"><strong>Larry Collett Consulting Group</strong></a>, an exclusively AI-built digital experience driving Innovation through Intelligent Automation by <a href="https://automationcaptain.com" target="_blank" rel="noopener noreferrer"><strong>Automation Captain</strong></a>, and powered by <a href="https://membercommander.com" target="_blank" rel="noopener noreferrer"><strong>Member Commander</strong></a>.</div></footer><script>document.querySelectorAll(".js-year").forEach(function(el){el.textContent=new Date().getFullYear()});</script>
+
+</body>

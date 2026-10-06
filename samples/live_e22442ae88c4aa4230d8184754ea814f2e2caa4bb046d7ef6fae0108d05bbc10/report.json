@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_e22442ae88c4aa4230d8184754ea814f2e2caa4bb046d7ef6fae0108d05bbc10",
+  "candidate_sha256": "8391531ac19195dec26a678fbcdab27f692f4302ebd10549525944ff9e26b33d",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://jun88.black",
+  "requested_url": "https://vineetgeek.in/",
+  "browser_final_url": "https://vineetgeek.in/",
+  "source_urls": [
+    "https://jun88.black"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1526,
+      "source_url": "https://jun88.black",
+      "source_hostname": "jun88.black",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://vineetgeek.in/",
+      "final_hostname": "vineetgeek.in",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4547,
+      "checked_at": "2026-10-05T12:18:52.977685+00:00",
+      "error": null,
+      "normalized_source_url": "https://jun88.black/",
+      "normalized_final_url": "https://vineetgeek.in/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_e22442ae88c4aa4230d8184754ea814f2e2caa4bb046d7ef6fae0108d05bbc10",
+    "representative_source_index": 1526,
+    "representative_source_url": "https://jun88.black",
+    "representative_final_url": "https://vineetgeek.in/",
+    "normalized_final_url": "https://vineetgeek.in/",
+    "source_hostname": "jun88.black",
+    "final_hostname": "vineetgeek.in",
+    "source_urls": [
+      "https://jun88.black"
+    ],
+    "provenance": [
+      {
+        "source_index": 1526,
+        "source_url": "https://jun88.black",
+        "source_hostname": "jun88.black",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://vineetgeek.in/",
+        "final_hostname": "vineetgeek.in",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4547,
+        "checked_at": "2026-10-05T12:18:52.977685+00:00",
+        "error": null,
+        "normalized_source_url": "https://jun88.black/",
+        "normalized_final_url": "https://vineetgeek.in/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Jun88 vineetgeek ⭐️ Trang Chủ Jun88.com Chính Thức Tháng 10/2026",
+  "capture_timestamp": "2026-10-05T14:58:48.991872+00:00",
+  "dom_chars": 94984,
+  "screenshot_bytes": 675438,
+  "dom_sha256": "c601c46dce83bd687a6d152252b1f8219eba50d39e8c02d5f2ba3dae7e6f33e0",
+  "screenshot_sha256": "c69c7efcbb22eaa1ea6ec961b319b97c69e2e7821ae3b74bdc3307c49de00c85",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://vineetgeek.in/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://vineetgeek.in/",
+    "browser_final_url": "https://vineetgeek.in/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 9163
+}

@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_7d21467b9599624ec2fa69b0358d0a806c3db59ca583beb9316422605cc54dae",
+  "candidate_sha256": "b83d6e44d5dbe5fc9f4987dca8f78fdae5dec72d93a9fe71219371758f635fbe",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "vnairlines.net",
+  "requested_url": "https://vnairlines.net",
+  "browser_final_url": "https://vnairlines.net/",
+  "source_urls": [
+    "vnairlines.net"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 142,
+      "source_url": "vnairlines.net",
+      "source_hostname": "vnairlines.net",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://vnairlines.net",
+      "final_hostname": "vnairlines.net",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 374,
+      "checked_at": "2026-10-05T12:17:34.904584+00:00",
+      "error": null,
+      "normalized_source_url": "https://vnairlines.net/",
+      "normalized_final_url": "https://vnairlines.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_7d21467b9599624ec2fa69b0358d0a806c3db59ca583beb9316422605cc54dae",
+    "representative_source_index": 142,
+    "representative_source_url": "vnairlines.net",
+    "representative_final_url": "https://vnairlines.net",
+    "normalized_final_url": "https://vnairlines.net/",
+    "source_hostname": "vnairlines.net",
+    "final_hostname": "vnairlines.net",
+    "source_urls": [
+      "vnairlines.net"
+    ],
+    "provenance": [
+      {
+        "source_index": 142,
+        "source_url": "vnairlines.net",
+        "source_hostname": "vnairlines.net",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://vnairlines.net",
+        "final_hostname": "vnairlines.net",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 374,
+        "checked_at": "2026-10-05T12:17:34.904584+00:00",
+        "error": null,
+        "normalized_source_url": "https://vnairlines.net/",
+        "normalized_final_url": "https://vnairlines.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "VNAirlines - Vé máy bay giá rẻ nội địa và quốc tế, nhiều ưu đãi hấp dẫn",
+  "capture_timestamp": "2026-10-05T14:47:36.057659+00:00",
+  "dom_chars": 92886,
+  "screenshot_bytes": 484291,
+  "dom_sha256": "9aa42cb17d062f4c71e5d74477ce9d9edb1093cbb4d68850f7abce83bdea1fb4",
+  "screenshot_sha256": "686ee854366d0b864725dc0361f530709d829fc1e54e715cee65a69ee729928c",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://vnairlines.net/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://vnairlines.net",
+    "browser_final_url": "https://vnairlines.net/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2388
+}

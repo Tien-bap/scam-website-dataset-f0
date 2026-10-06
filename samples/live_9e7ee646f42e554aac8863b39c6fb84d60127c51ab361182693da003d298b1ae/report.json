@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_9e7ee646f42e554aac8863b39c6fb84d60127c51ab361182693da003d298b1ae",
+  "candidate_sha256": "efde1472658ab484eac59eb9fafeb2833cb0a1def001ecf4ee1a91d02b857f22",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://prosemec.cl/secure/signin/index.php",
+  "requested_url": "https://prosemec.cl/secure/signin/index.php",
+  "browser_final_url": "https://prosemec.cl/secure/signin/index.php",
+  "source_urls": [
+    "https://prosemec.cl/secure/signin/index.php"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 36149,
+      "source_url": "https://prosemec.cl/secure/signin/index.php",
+      "source_hostname": "prosemec.cl",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://prosemec.cl/secure/signin/index.php",
+      "final_hostname": "prosemec.cl",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 2399,
+      "elapsed_ms": 324,
+      "checked_at": "2026-10-05T13:13:44.337508+00:00",
+      "error": null,
+      "normalized_source_url": "https://prosemec.cl/secure/signin/index.php",
+      "normalized_final_url": "https://prosemec.cl/secure/signin/index.php",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_9e7ee646f42e554aac8863b39c6fb84d60127c51ab361182693da003d298b1ae",
+    "representative_source_index": 36149,
+    "representative_source_url": "https://prosemec.cl/secure/signin/index.php",
+    "representative_final_url": "https://prosemec.cl/secure/signin/index.php",
+    "normalized_final_url": "https://prosemec.cl/secure/signin/index.php",
+    "source_hostname": "prosemec.cl",
+    "final_hostname": "prosemec.cl",
+    "source_urls": [
+      "https://prosemec.cl/secure/signin/index.php"
+    ],
+    "provenance": [
+      {
+        "source_index": 36149,
+        "source_url": "https://prosemec.cl/secure/signin/index.php",
+        "source_hostname": "prosemec.cl",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://prosemec.cl/secure/signin/index.php",
+        "final_hostname": "prosemec.cl",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 2399,
+        "elapsed_ms": 324,
+        "checked_at": "2026-10-05T13:13:44.337508+00:00",
+        "error": null,
+        "normalized_source_url": "https://prosemec.cl/secure/signin/index.php",
+        "normalized_final_url": "https://prosemec.cl/secure/signin/index.php",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Prosemec — Pronto",
+  "capture_timestamp": "2026-10-05T14:50:48.445374+00:00",
+  "dom_chars": 2370,
+  "screenshot_bytes": 1318138,
+  "dom_sha256": "0a9bd1ee5133b80ac8bd8648bd105b0a05017829046ba49947075c113f454c6e",
+  "screenshot_sha256": "c691738bfa7bed34400d2c19382177f7dbf5def64fafb0eb09af3cc718cc48c9",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://prosemec.cl/secure/signin/index.php",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://prosemec.cl/secure/signin/index.php",
+    "browser_final_url": "https://prosemec.cl/secure/signin/index.php",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3312
+}

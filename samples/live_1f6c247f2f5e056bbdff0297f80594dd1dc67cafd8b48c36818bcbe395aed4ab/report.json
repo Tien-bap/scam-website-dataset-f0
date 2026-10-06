@@ -1,0 +1,158 @@
+{
+  "candidate_id": "live_1f6c247f2f5e056bbdff0297f80594dd1dc67cafd8b48c36818bcbe395aed4ab",
+  "candidate_sha256": "ed515d449c3a1a853c5aa7085e3d567d5a6741ec13b27d41661d7a209d0007c3",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://liftbreak.com/nz",
+  "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+  "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+  "source_urls": [
+    "http://liftbreak.com/nz"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 108502,
+      "source_url": "http://liftbreak.com/nz",
+      "source_hostname": "liftbreak.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 43786,
+      "elapsed_ms": 1526,
+      "checked_at": "2026-10-05T13:09:12.702587+00:00",
+      "error": null,
+      "normalized_source_url": "http://liftbreak.com/nz",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_1f6c247f2f5e056bbdff0297f80594dd1dc67cafd8b48c36818bcbe395aed4ab",
+    "representative_source_index": 108502,
+    "representative_source_url": "http://liftbreak.com/nz",
+    "representative_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+    "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+    "source_hostname": "liftbreak.com",
+    "final_hostname": "www.hugedomains.com",
+    "source_urls": [
+      "http://liftbreak.com/nz"
+    ],
+    "provenance": [
+      {
+        "source_index": 108502,
+        "source_url": "http://liftbreak.com/nz",
+        "source_hostname": "liftbreak.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 43786,
+        "elapsed_ms": 1526,
+        "checked_at": "2026-10-05T13:09:12.702587+00:00",
+        "error": null,
+        "normalized_source_url": "http://liftbreak.com/nz",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "LiftBreak.com is for sale | HugeDomains",
+  "capture_timestamp": "2026-10-05T16:34:33.485081+00:00",
+  "dom_chars": 82028,
+  "screenshot_bytes": 92292,
+  "dom_sha256": "000ec32a86ab7f8b291628bbe802c96f8738a350e6d22fab8094df93127498ba",
+  "screenshot_sha256": "22c56e851d19fae5a3a7c95c3c145229c09dbd9417db1db79d724320dfc87842",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_parking_page"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+    "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=liftbreak.com",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 5,
+    "resource": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 2799,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "timeout",
+    "original_capture_timestamp": "2026-10-05T14:36:48.005098+00:00",
+    "previous_report_sha256": "e0c4bec536ee90b070a9e18f169d07e8cf64c7e195a90314800f0ad03551f5c7",
+    "recovered_at": "2026-10-05T16:34:33.485081+00:00",
+    "result": "complete"
+  }
+}

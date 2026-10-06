@@ -1,0 +1,27 @@
+{
+  "original_url": "https://organicoslim.com/3973FHSDCA/",
+  "hostname": "organicoslim.com",
+  "checked_at": "2026-10-04T14:05:05.748850+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 7,
+  "candidates_checked": 2,
+  "selected_scan_uuid": "01a0ce3d-3cbe-736e-b160-951a1e66d519",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-23T12:28:47.728Z",
+  "scan_original_url": "http://www.organicoslim.com/",
+  "final_url": "https://organicoslim.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 20150,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 5.14,
+  "discovery": {
+    "batch_id": "08daee6cbfd95da822603b228364db3667a0a74c6f3236aef9960fc3876aceac",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

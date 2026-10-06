@@ -1,0 +1,27 @@
+{
+  "original_url": "https://raya-it.net/protected/main.html",
+  "hostname": "raya-it.net",
+  "checked_at": "2026-10-04T15:46:12.084966+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a082d5-3134-72f5-abfd-4b64dc38c693",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-08T21:03:59.174Z",
+  "scan_original_url": "http://www.rayaitconsulting.com/",
+  "final_url": "https://raya-it.net/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5163,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.982,
+  "discovery": {
+    "batch_id": "bfb31feaac0fb47a1838c32b79eb4f484e01d7ddd0747c58c98de72a34537fe0",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

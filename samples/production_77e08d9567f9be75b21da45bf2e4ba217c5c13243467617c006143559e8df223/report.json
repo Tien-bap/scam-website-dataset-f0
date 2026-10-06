@@ -1,0 +1,27 @@
+{
+  "original_url": "https://cakhiatv2.cc",
+  "hostname": "cakhiatv2.cc",
+  "checked_at": "2026-10-04T13:33:49.307516+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019ffbe6-43f3-72bf-b024-ce598e8a4b28",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-08-13T16:13:28.849Z",
+  "scan_original_url": "https://cakhiatv2.cc/",
+  "final_url": "https://cakhiatv2.cc/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 21020,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 5.872,
+  "discovery": {
+    "batch_id": "a2240b8250961b01aba1a3a4d25c129aee3e79ee91088063fb1d2b81f4e3745a",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

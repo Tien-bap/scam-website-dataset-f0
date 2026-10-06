@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_c51e8bf0c2594494d555a45db4176e65b986722310a64c242ea5801fc68043d0",
+  "candidate_sha256": "133bd3b1106e7c45398128f156dcf33efe1b5305866c6d3ddee939a10b43e4a1",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+  "requested_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+  "browser_final_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+  "source_urls": [
+    "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 102033,
+      "source_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+      "source_hostname": "www.it-notif.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+      "final_hostname": "www.it-notif.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 15003,
+      "elapsed_ms": 1804,
+      "checked_at": "2026-10-05T13:18:24.855853+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+      "normalized_final_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_c51e8bf0c2594494d555a45db4176e65b986722310a64c242ea5801fc68043d0",
+    "representative_source_index": 102033,
+    "representative_source_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+    "representative_final_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+    "normalized_final_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+    "source_hostname": "www.it-notif.com",
+    "final_hostname": "www.it-notif.com",
+    "source_urls": [
+      "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ"
+    ],
+    "provenance": [
+      {
+        "source_index": 102033,
+        "source_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+        "source_hostname": "www.it-notif.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+        "final_hostname": "www.it-notif.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 15003,
+        "elapsed_ms": 1804,
+        "checked_at": "2026-10-05T13:18:24.855853+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+        "normalized_final_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Outlook Web App",
+  "capture_timestamp": "2026-10-05T14:55:00.696733+00:00",
+  "dom_chars": 15036,
+  "screenshot_bytes": 24361,
+  "dom_sha256": "fcf4366b14dd9aa058ddee951832d3155685ad2782c59e76ec80ca31b775cef7",
+  "screenshot_sha256": "84310102e4b3d13efc5ed215efad16c517461f04a17904237e98322faf90cb44",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+    "browser_final_url": "https://www.it-notif.com/hr/4906008-8M9J6iCC4FRJOQ",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3413
+}

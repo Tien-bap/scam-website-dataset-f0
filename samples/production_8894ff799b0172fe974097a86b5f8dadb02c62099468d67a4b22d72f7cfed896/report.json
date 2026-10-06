@@ -1,0 +1,27 @@
+{
+  "original_url": "https://linkzip.me/vy7fF",
+  "hostname": "linkzip.me",
+  "checked_at": "2026-10-04T14:21:14.679537+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f5585-b008-74c7-b3a8-9b4a8d87a441",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-12T08:51:27.771Z",
+  "scan_original_url": "http://linkzip.me/",
+  "final_url": "https://linkzip.me/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2172,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.86,
+  "discovery": {
+    "batch_id": "f2e88a01fcd0cebd8e0f12ec5d712d376b2a516f39edc8fff3afa7be757c7a36",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

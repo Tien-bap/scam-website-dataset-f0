@@ -1,0 +1,3094 @@
+<!DOCTYPE html><html id="XF" lang="vi-VN" dir="LTR" data-app="public" data-template="EWRporta_articles_index" data-container-key="" data-content-key="" data-logged-in="false" data-cookie-prefix="xf_" data-csrf="1791211357,35a4a7dfb6793f518be3d573b55b545b" class="has-js template-EWRporta_articles_index has-no-touchevents has-passiveeventlisteners has-hiddenscroll has-overflowanchor has-no-displaymodestandalone has-flexgap has-os-linux has-browser-chrome"><head>
+<meta property="fb:app_id" content="522837667821047">
+<meta property="fb:admins" content="">
+<meta charset="utf-8">
+<title>VNT | Diễn đàn công nghệ số</title>
+<link rel="manifest" href="/webmanifest.php">
+<meta property="og:site_name" content="VNT - Diễn đàn công nghệ số">	
+<meta property="og:image:alt" content="Diễn đàn công nghệ số – Thông tin uy tín, chính xác">
+<meta property="og:description" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Diễn đàn công nghệ số là nơi chia sẻ, trao đổi kiến thức về công nghệ thông tin và các sản phẩm công nghệ mới">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#0f578a">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0a1c29">
+<meta name="apple-mobile-web-app-title" content="Diễn đàn công nghệ số">
+<link rel="apple-touch-icon" href="/data/assets/logo/Logosocial.png">
+<meta name="description" content="VNT - Diễn đàn công nghệ số là nơi chia sẻ, trao đổi kiến thức về công nghệ thông tin và các sản phẩm công nghệ mới">
+<meta property="og:description" content="VNT - Diễn đàn công nghệ số là nơi chia sẻ, trao đổi kiến thức về công nghệ thông tin và các sản phẩm công nghệ mới">
+<meta property="twitter:description" content="VNT - Diễn đàn công nghệ số là nơi chia sẻ, trao đổi kiến thức về công nghệ thông tin và các sản phẩm công nghệ mới">
+<link rel="alternate" type="application/rss+xml" title="RSS Feed For VNT" href="/ewr-porta/index.rss">
+<link rel="next" href="/ewr-porta/page-2">
+<meta property="og:site_name" content="Diễn đàn công nghệ số">
+<meta property="og:type" content="website">
+<meta property="og:title" content="VNT">
+<meta property="twitter:title" content="VNT">
+<meta property="og:url" content="https://vn-t.com/">
+<meta property="og:image" content="https://vn-t.com/data/assets/logo/Logosocial.png">
+<meta property="twitter:image" content="https://vn-t.com/data/assets/logo/Logosocial.png">
+<meta property="twitter:card" content="summary">
+<meta name="theme-color" content="hsla(var(--xf-metaThemeColor))">
+<link rel="stylesheet" href="/css.php?css=public%3Anormalize.css%2Cpublic%3Afa.css%2Cpublic%3Avariations.less%2Cpublic%3Acore.less%2Cpublic%3Aapp.less&amp;s=6&amp;l=2&amp;d=1790259922&amp;k=c1e59557120287fe5bc5abe8c8d30cd42370076a">
+<link rel="stylesheet" href="/css.php?css=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fswiper%4011%2Fswiper-bundle.min.css%2Cpublic%3ADC_Widgets_newThreads.less%2Cpublic%3AEWRporta.less%2Cpublic%3AEWRporta_articles.less%2Cpublic%3Acxf_facebook_widget.less%2Cpublic%3AdcTinhte_ajax_search.less%2Cpublic%3AdcTinhte_portal.less%2Cpublic%3Amessage.less%2Cpublic%3Anotice_custom.less%2Cpublic%3Anotices.less%2Cpublic%3AozzmodzDropTab.less%2Cpublic%3Asiropu_ads_manager_ad.less%2Cpublic%3Aswiper_bundle.css%2Cpublic%3Atts_widgets_threads.less%2Cpublic%3Av_widget_new_threads.less%2Cpublic%3Avnt_social_widget.less%2Cpublic%3Awidget_EWRporta_features.less%2Cpublic%3Awte_widget_default.less%2Cpublic%3Axv_css.less%2Cpublic%3Aextra.less&amp;s=6&amp;l=2&amp;d=1790259922&amp;k=76f49e7f9efdf5270f72370391fba793d9041261">
+<script src="/js/xf/preamble.min.js?_v=6b9c90b3"></script>
+<script data-cfasync="false">
+const XV = {};
+XV.xf23 = 1;
+XV.ajax_search = 0;
+XV.ajax_statistic = 0;
+XV.is_notice = 0;
+XV.refresh_time = 0;
+XV.cf_token = '&lt;!-- Cloudflare Web Analytics --&gt;&lt;script defer src=&#039;https://static.cloudflareinsights.com/beacon.min.js&#039; data-cf-beacon=&#039;{&quot;token&quot;: &quot;a4be4389201d48ac99884414596d2df8&quot;}&#039;&gt;&lt;/script&gt;&lt;!-- End Cloudflare Web Analytics --&gt;';
+XV.prevent_copy = 0;
+</script>
+<script src="/js/vendor/vendor-compiled.js?_v=6b9c90b3" defer=""></script>
+<script src="/js/xf/core-compiled.js?_v=6b9c90b3" defer=""></script>
+<script>
+XF.samViewCountMethod = "view";
+XF.samServerTime = 1791211357;
+XF.samItem = ".samItem";
+XF.samCodeUnit = ".samCodeUnit";
+XF.samBannerUnit = ".samBannerUnit";
+</script>
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+var bkp = document.querySelectorAll('div[data-ba]');
+if (bkp) {
+bkp.forEach(item => {
+var ad = item;
+if (ad.querySelector('ins.adsbygoogle').style.display == 'none') {
+XF.ajax('GET', XF.canonicalizeUrl('index.php?sam-item/' + ad.dataset.ba + '/get-backup'), {}, data => {
+if (data.backup) {
+ad.html(data.backup);
+}
+}, { skipDefault: true, global: false});
+}
+});
+}
+const advHere = document.querySelectorAll('.samAdvertiseHereLink');
+if (advHere) {
+advHere.forEach(item => {
+var unit = item.parentNode;
+if (unit.classList.contains('samCustomSize')) {
+unit.style.marginBottom = 20;
+}
+});
+}
+const ff = document.querySelectorAll('div[data-position="footer_fixed"] > div[data-cv="true"]');
+if (ff) {
+ff.forEach(item => {
+XF.trigger(item, 'adView');
+});
+}
+});
+</script>
+<script>
+XF.ready(() =>
+{
+XF.extendObject(true, XF.config, {
+// 
+dbtechSecurity: {
+excludeVideoCard: true,
+excludeFonts: true
+},
+userId: 0,
+enablePush: false,
+pushAppServerKey: '',
+url: {
+fullBase: 'https://vn-t.com/',
+basePath: '/',
+css: '/css.php?css=__SENTINEL__&s=6&l=2&d=1790259922',
+js: '/js/__SENTINEL__?_v=6b9c90b3',
+icon: '/data/local/icons/__VARIANT__.svg?v=1790259926#__NAME__',
+iconInline: '/styles/fa/__VARIANT__/__NAME__.svg?v=5.15.3',
+keepAlive: '/login/keep-alive'
+},
+cookie: {
+path: '/',
+domain: '',
+prefix: 'xf_',
+secure: true,
+consentMode: 'advanced',
+consented: []
+},
+cacheKey: 'f3ed7234243583f554e27d349fe769c5',
+csrf: '1791211357,35a4a7dfb6793f518be3d573b55b545b',
+js: {"\/js\/DC\/Tinhte\/portal.js?_v=6b9c90b3":true,"https:\/\/cdn.jsdelivr.net\/npm\/swiper@11\/swiper-bundle.min.js":true,"\/js\/8wayrun\/porta\/infinite.js?_v=6b9c90b3":true,"\/js\/8wayrun\/porta\/portal.js?_v=6b9c90b3":true,"\/js\/8wayrun\/porta\/portal.min.js?_v=6b9c90b3":true,"https:\/\/unpkg.com\/swiper\/swiper-bundle.min.js":true,"\/js\/XV\/optimal.min.js?_v=6b9c90b3":true,"\/js\/siropu\/am\/core.min.js?_v=6b9c90b3":true},
+fullJs: false,
+css: {"https:\/\/cdn.jsdelivr.net\/npm\/swiper@11\/swiper-bundle.min.css":true,"public:DC_Widgets_newThreads.less":true,"public:EWRporta.less":true,"public:EWRporta_articles.less":true,"public:cxf_facebook_widget.less":true,"public:dcTinhte_ajax_search.less":true,"public:dcTinhte_portal.less":true,"public:message.less":true,"public:notice_custom.less":true,"public:notices.less":true,"public:ozzmodzDropTab.less":true,"public:siropu_ads_manager_ad.less":true,"public:swiper_bundle.css":true,"public:tts_widgets_threads.less":true,"public:v_widget_new_threads.less":true,"public:vnt_social_widget.less":true,"public:widget_EWRporta_features.less":true,"public:wte_widget_default.less":true,"public:xv_css.less":true,"public:extra.less":true},
+time: {
+now: 1791211357,
+today: 1791133200,
+todayDow: 1,
+tomorrow: 1791219600,
+yesterday: 1791046800,
+week: 1790614800,
+month: 1790787600,
+year: 1767200400
+},
+style: {
+light: 'default',
+dark: 'alternate',
+defaultColorScheme: 'light'
+},
+borderSizeFeature: '3px',
+fontAwesomeWeight: 'r',
+enableRtnProtect: true,
+enableFormSubmitSticky: true,
+imageOptimization: 'optimize',
+imageOptimizationQuality: 0.85,
+uploadMaxFilesize: 26214400,
+uploadMaxWidth: 1600,
+uploadMaxHeight: 1600,
+allowedVideoExtensions: ["m4v","mov","mp4","mp4v","mpeg","mpg","ogv","webm"],
+allowedAudioExtensions: ["mp3","opus","ogg","wav"],
+shortcodeToEmoji: true,
+visitorCounts: {
+conversations_unread: '0',
+alerts_unviewed: '0',
+total_unread: '0',
+title_count: true,
+icon_indicator: true
+},
+jsMt: {"xf\/action.js":"76996bc8","xf\/embed.js":"76996bc8","xf\/form.js":"76996bc8","xf\/structure.js":"76996bc8","xf\/tooltip.js":"76996bc8"},
+jsState: {},
+publicMetadataLogoUrl: 'https://vn-t.com/data/assets/logo/Logosocial.png',
+publicPushBadgeUrl: 'https://vn-t.com/styles/default/xenforo/bell.png'
+})
+XF.extendObject(XF.phrases, {
+// 
+similar_threads: "Chủ đề liên quan",
+date_x_at_time_y:     "{date} lúc {time}",
+day_x_at_time_y:      "Lúc {time}, {day} ",
+yesterday_at_x:       "Lúc {time} Hôm qua",
+x_minutes_ago:        "{minutes} phút trước",
+one_minute_ago:       "1 phút trước",
+a_moment_ago:         "Vài giây trước",
+today_at_x:           "Lúc {time}",
+in_a_moment:          "In a moment",
+in_a_minute:          "In a minute",
+in_x_minutes:         "Trong {minutes} phút",
+later_today_at_x:     "Later today at {time}",
+tomorrow_at_x:        "Ngày mai lúc {time}",
+short_date_x_minutes: "{minutes}m",
+short_date_x_hours:   "{hours}h",
+short_date_x_days:    "{days}d",
+day0: "Chủ nhật",
+day1: "Thứ hai",
+day2: "Thứ ba",
+day3: "Thứ tư",
+day4: "Thứ năm",
+day5: "Thứ sáu",
+day6: "Thứ bảy",
+dayShort0: "CN",
+dayShort1: "T2",
+dayShort2: "T3",
+dayShort3: "T4",
+dayShort4: "T5",
+dayShort5: "T6",
+dayShort6: "T7",
+month0: "Tháng một",
+month1: "Tháng hai",
+month2: "Tháng ba",
+month3: "Tháng tư",
+month4: "Tháng năm",
+month5: "Tháng sáu",
+month6: "Tháng bảy",
+month7: "Tháng tám",
+month8: "Tháng chín",
+month9: "Tháng mười",
+month10: "Tháng mười một",
+month11: "Tháng mười hai",
+active_user_changed_reload_page: "Thành viên đang hoạt động đã thay đổi. Tải lại trang cho phiên bản mới nhất.",
+server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+oops_we_ran_into_some_problems: "Rất tiếc! Chúng tôi gặp phải một số vấn đề.",
+oops_we_ran_into_some_problems_more_details_console: "Rất tiếc! Chúng tôi gặp phải một số vấn đề. Vui lòng thử lại sau. Chi tiết lỗi c có thể có trong trình duyệt.",
+file_too_large_to_upload: "The file is too large to be uploaded.",
+uploaded_file_is_too_large_for_server_to_process: "The uploaded file is too large for the server to process.",
+files_being_uploaded_are_you_sure: "Files are still being uploaded. Are you sure you want to submit this form?",
+attach: "Đính kèm",
+rich_text_box: "Khung soạn thảo trù phú",
+close: "Đóng",
+link_copied_to_clipboard: "Link copied to clipboard.",
+text_copied_to_clipboard: "Text copied to clipboard.",
+loading: "Đang tải…",
+you_have_exceeded_maximum_number_of_selectable_items: "You have exceeded the maximum number of selectable items.",
+processing: "Đang thực hiện",
+'processing...': "Đang thực hiện…",
+showing_x_of_y_items: "Hiển thị {count} trong số {total} mục",
+showing_all_items: "Hiển thị tất cả",
+no_items_to_display: "No items to display",
+number_button_up: "Increase",
+number_button_down: "Decrease",
+push_enable_notification_title: "Push notifications enabled successfully at Diễn đàn công nghệ số",
+push_enable_notification_body: "Thank you for enabling push notifications!",
+pull_down_to_refresh: "Pull down to refresh",
+release_to_refresh: "Release to refresh",
+refreshing: "Refreshing…"
+})
+})
+</script>
+<script src="/js/DC/Tinhte/portal.js?_v=6b9c90b3" defer=""></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer=""></script>
+<script src="/js/8wayrun/porta/infinite.js?_v=6b9c90b3" defer=""></script>
+<script src="/js/8wayrun/porta/portal.js?_v=6b9c90b3" defer=""></script>
+<script src="/js/8wayrun/porta/portal.min.js?_v=6b9c90b3" defer=""></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js" defer=""></script>
+<script src="/js/XV/optimal.min.js?_v=6b9c90b3" defer=""></script>
+<script src="/js/siropu/am/core.min.js?_v=6b9c90b3" defer=""></script>
+<script>
+XF.ready(() =>
+{
+const mySwiper = new Swiper('.slideWide:not(.block)', {
+direction: 'horizontal',
+loop: false,
+slidesPerView: 'auto',
+spaceBetween: 10,
+pagination: {
+el: '.swiper-pagination',
+clickable: true,
+},
+});
+})
+</script>
+<script>
+XF.ready(() =>
+{
+const swiper_51 = new Swiper('.swiper-51', {
+slidesPerView: 2,
+freeMode: true,
+spaceBetween: 30,
+scrollbar: {
+el: '.swiper-scrollbar',
+hide: true,
+},
+breakpoints: {
+768: {
+slidesPerView: 3,
+spaceBetween: 20,
+}
+},
+navigation: {
+nextEl: '.swiper-button-next',
+prevEl: '.swiper-button-prev',
+}
+});
+})
+</script>
+<script>
+XF.ready(() =>
+{
+XF.phrases = XF.phrases || {};
+Object.assign(XF.phrases, {
+just_now: "Vừa xong",
+x_minutes_ago: "{minutes} phút trước",
+x_hours_ago: "{hours} giờ trước",
+one_day_ago: "Một ngày trước",
+x_days_ago: "{days} ngày trước",
+x_months_ago: "{monts} tháng trước",
+x_years_ago: "{years} năm trước",
+brms_category: "Chuyên mục",
+brms_download: "Tải về",
+brms_update: "Cập nhật",
+brms_review: "Đánh giá",
+brms_rating: "Bình chọn",
+brms_forum: "Diễn đàn",
+brms_views: "Lượt xem",
+brms_replies: "Trả lời",
+brms_likes: "Thích"
+});
+})
+</script>
+<script>
+XF.ready(() =>
+{
+(function () {
+const onReady = fn =>
+document.readyState === "loading"
+? document.addEventListener("DOMContentLoaded", fn)
+: fn();
+onReady(() => {
+const searchInput = document.querySelector(".searchInput");
+const form = document.querySelector(".ajaxSearchForm");
+const resultBox = document.querySelector(".ajaxSearchForm .searchResult");
+const content = document.querySelector(".searchResult-content");
+const titleInput = document.getElementById("quickSearchTitle");
+if (!searchInput || !form || !resultBox || !content || !titleInput) return;
+const url = "/quicksearch/";
+const token = (window.XF && XF.config && XF.config.csrf) || "";
+let debounceTimer = null;
+let controller = null;
+const closeSearch = () => {
+titleInput.value = "";
+content.innerHTML = "";
+};
+searchInput.addEventListener("click", () => {
+form.classList.add("is-active");
+resultBox.classList.add("is-active");
+});
+document.addEventListener("mouseup", e => {
+if (!form.contains(e.target)) {
+form.classList.remove("is-active");
+resultBox.classList.remove("is-active");
+closeSearch();
+}
+});
+async function doSearch(query) {
+if (!query) {
+return closeSearch();
+}
+if (controller) controller.abort();
+controller = new AbortController();
+try {
+const response = await fetch(url, {
+method: "POST",
+headers: { "Content-Type": "application/x-www-form-urlencoded" },
+body: new URLSearchParams({ title: query, _xfToken: token }),
+signal: controller.signal
+});
+if (!response.ok) throw new Error(`HTTP ${response.status}`);
+const text = await response.text();
+const doc = new DOMParser().parseFromString(text, "text/html");
+const wrappers = doc.querySelectorAll(".quicksearch-wrapper");
+if (!wrappers.length) {
+content.innerHTML = `<div class="searchItem"><span>Không tìm thấy kết quả</span></div>`;
+return;
+}
+content.innerHTML = Array.from(wrappers)
+.map(w => w.innerHTML)
+.join("");
+} catch (err) {
+if (err.name !== "AbortError") {
+console.error("❌ Lỗi tìm kiếm:", err);
+content.innerHTML = `<div class="searchItem"><span>Lỗi khi tải kết quả</span></div>`;
+}
+}
+}
+titleInput.addEventListener("keyup", () => {
+clearTimeout(debounceTimer);
+debounceTimer = setTimeout(() => {
+doSearch(titleInput.value.trim());
+}, 500);
+});
+titleInput.addEventListener("keydown", e => {
+if (e.key === "Enter") {
+e.preventDefault();
+doSearch(titleInput.value.trim());
+} else if (e.key === "Escape") {
+form.classList.remove("is-active");
+resultBox.classList.remove("is-active");
+closeSearch();
+}
+});
+});
+})();
+})
+</script>
+<link rel="icon" type="image/png" href="/favicon.ico" sizes="32x32">
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MNCCX3ENYN"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-MNCCX3ENYN');
+</script>
+<!-- Developed with XenVn.Com © 2026 -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
+<meta name="dmca-site-verification" content="Ykc0d2hKTjNuN3h0NUhuaUp5akJaZz090">
+<script data-ad-client="ca-pub-3740378183761831" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<style class="gtranslate_css">a.glink{text-decoration:none}a.glink.gt-current-lang{font-weight:bold}.gt_container-unisv1 a.glink span{margin-right:5px;font-size:15px;vertical-align:middle}a.glink img{vertical-align:middle;display:inline;border:0;padding:0;margin:0;opacity:0.8;height:auto}a.glink:hover img{opacity:1}.gt_black_overlay{display:none;position:fixed;top:0%;left:0%;width:100%;height:100%;background-color:black;z-index:10000;-moz-opacity:0.8;opacity:.80;filter:alpha(opacity=80)}.gt_white_content{display:none;position:fixed;top:50%;left:50%;width:980px;height:375px;margin:-187.5px 0 0 -490px;padding:6px 16px;background-color:white;color:black;z-index:19881205;overflow:auto;text-align:left}.gt_white_content a{display:block;padding:10px 0;border-bottom:1px solid #e7e7e7;white-space:nowrap;line-height:0;flex-basis:39px;box-sizing:border-box;}.gt_white_content .gt_languages{display:flex;flex-flow:column wrap;max-height:702px;overflow-x:hidden;}.gt_white_content::-webkit-scrollbar-track{background-color:#F5F5F5}.gt_white_content::-webkit-scrollbar{width:5px}.gt_white_content::-webkit-scrollbar-thumb{background-color:#888}div.skiptranslate,#google_translate_element2{display:none!important}body{top:0!important}font font{background-color:transparent!important;box-shadow:none!important;position:initial!important}</style><script src="/js/xf/form.min.js?_v=6b9c90b3_mt=undefined"></script><script src="/js/xf/structure.min.js?_v=6b9c90b3_mt=undefined"></script><script src="/js/xf/tooltip.min.js?_v=6b9c90b3_mt=undefined"></script></head>
+<body data-template="EWRporta_articles_index">
+<div id="fb-root"></div>
+<div class="p-pageWrapper" id="top">
+<header class="p-header" id="header">
+<div class="p-header-inner">
+<div class="p-header-content">
+<div class="p-header-logo p-header-logo--image">
+<a href="https://vn-t.com">
+<picture data-variations="{&quot;default&quot;:{&quot;1&quot;:&quot;\/data\/assets\/logo\/logovnt.png&quot;,&quot;2&quot;:null},&quot;alternate&quot;:{&quot;1&quot;:&quot;\/data\/assets\/logo\/logovnt.png&quot;,&quot;2&quot;:null}}">
+<img src="/data/assets/logo/logovnt.png" width="466" height="261" alt="Diễn đàn công nghệ số">
+</picture>
+</a>
+</div>
+</div>
+</div>
+</header>
+<div class="p-navSticky p-navSticky--primary" data-xf-init="sticky-header">
+<nav class="p-nav">
+<div class="p-nav-inner">
+<a class="p-nav-menuTrigger" data-xf-click="off-canvas" data-menu=".js-headerOffCanvasMenu" role="button" tabindex="0">
+<i aria-hidden="true"></i>
+<span class="p-nav-menuText">Menu</span>
+</a>
+<div class="p-nav-scroller hScroller" data-xf-init="h-scroller" data-auto-scroll=".p-navEl.is-selected">
+<div class="hScroller-scroll is-calculated">
+<ul class="p-nav-list js-offCanvasNavSource">
+<li>
+<div class="p-navEl" data-has-children="true">
+<a href="/forums/" class="p-navEl-link p-navEl-link--splitMenu" data-nav-id="forums">Diễn đàn</a>
+<a data-xf-key="1" data-xf-click="menu" data-menu-pos-ref="&lt; .p-navEl" class="p-navEl-splitTrigger" role="button" tabindex="0" aria-label="Toggle expanded" aria-expanded="false" aria-haspopup="true"></a>
+<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+<div class="menu-content">
+<a href="/tin-hoc-can-ban.f6/" class="menu-linkRow u-indentDepth0 js-offCanvasCopy nav-has-children" data-nav-id="tin_hoc">Tin học căn bản</a>
+<a href="/phan-mem.f7/" class="menu-linkRow u-indentDepth0 js-offCanvasCopy nav-has-children" data-nav-id="software">Phần mềm</a>
+<a href="/cong-dong-ho-tro-xenforo.f32/" class="menu-linkRow u-indentDepth0 js-offCanvasCopy nav-has-children" data-nav-id="support">Cộng đồng hỗ trợ Xenforo</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="p-navEl">
+<a href="/resources/" class="p-navEl-link" data-xf-key="2" data-nav-id="xfrm">Resources</a>
+</div>
+</li>
+<li>
+<div class="p-navEl">
+<a href="/dmca" class="p-navEl-link" data-xf-key="3" data-nav-id="DMCA">DMCA</a>
+</div>
+</li>
+</ul>
+</div><i class="hScroller-action hScroller-action--end" aria-hidden="true"></i><i class="hScroller-action hScroller-action--start" aria-hidden="true"></i>
+</div>
+<div class="p-nav-smallLogo">
+<a href="https://vn-t.com">
+<picture data-variations="{&quot;default&quot;:{&quot;1&quot;:&quot;\/data\/assets\/logo\/logovnt.png&quot;,&quot;2&quot;:null},&quot;alternate&quot;:{&quot;1&quot;:&quot;\/data\/assets\/logo\/logovnt.png&quot;,&quot;2&quot;:null}}">
+<img src="/data/assets/logo/logovnt.png" width="466" height="261" alt="Diễn đàn công nghệ số">
+</picture>
+</a>
+<div class="p-nav-smallSearch ajaxSearchForm">
+<div class="small-search collapsed">
+<div class="searchInput">
+<input type="text" name="quickSearchTitle" id="quickSearchTitle" placeholder="Bạn đang tìm gì vậy?" autocomplete="off" data-no-auto-focus="true">
+<div class="search-submit">
+<i class="fa--xf far fa-search"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/regular.svg?v=1790259926#search"></use></svg></i>
+</div>
+</div>
+<div class="searchResult">
+<div class="searchResult-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gtranslate_wrapper gt_container-unisv1"><!-- GTranslate: https://gtranslate.com --><a href="#" class="gt_switcher-popup glink nturl notranslate"><img src="https://cdn.gtranslate.net/flags/svg/vi.svg" height="24" width="24" alt="vi"> </a><div class="gt_black_overlay"></div><div class="gt_white_content notranslate"><div class="gt_languages"><a href="#" class="glink nturl gt-current-lang" data-gt-lang="vi"><img width="24" height="24" alt="vi" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/vi.svg"> <span>Vietnamese</span></a><a href="#" class="glink nturl" data-gt-lang="af"><img width="24" height="24" alt="af" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/af.svg"> <span>Afrikaans</span></a><a href="#" class="glink nturl" data-gt-lang="sq"><img width="24" height="24" alt="sq" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/sq.svg"> <span>Albanian</span></a><a href="#" class="glink nturl" data-gt-lang="am"><img width="24" height="24" alt="am" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/am.svg"> <span>Amharic</span></a><a href="#" class="glink nturl" data-gt-lang="ar"><img width="24" height="24" alt="ar" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ar.svg"> <span>Arabic</span></a><a href="#" class="glink nturl" data-gt-lang="hy"><img width="24" height="24" alt="hy" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/hy.svg"> <span>Armenian</span></a><a href="#" class="glink nturl" data-gt-lang="az"><img width="24" height="24" alt="az" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/az.svg"> <span>Azerbaijani</span></a><a href="#" class="glink nturl" data-gt-lang="eu"><img width="24" height="24" alt="eu" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/eu.svg"> <span>Basque</span></a><a href="#" class="glink nturl" data-gt-lang="be"><img width="24" height="24" alt="be" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/be.svg"> <span>Belarusian</span></a><a href="#" class="glink nturl" data-gt-lang="bn"><img width="24" height="24" alt="bn" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/bn.svg"> <span>Bengali</span></a><a href="#" class="glink nturl" data-gt-lang="bs"><img width="24" height="24" alt="bs" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/bs.svg"> <span>Bosnian</span></a><a href="#" class="glink nturl" data-gt-lang="bg"><img width="24" height="24" alt="bg" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/bg.svg"> <span>Bulgarian</span></a><a href="#" class="glink nturl" data-gt-lang="ca"><img width="24" height="24" alt="ca" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ca.svg"> <span>Catalan</span></a><a href="#" class="glink nturl" data-gt-lang="ceb"><img width="24" height="24" alt="ceb" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ceb.svg"> <span>Cebuano</span></a><a href="#" class="glink nturl" data-gt-lang="ny"><img width="24" height="24" alt="ny" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ny.svg"> <span>Chichewa</span></a><a href="#" class="glink nturl" data-gt-lang="zh-CN"><img width="24" height="24" alt="zh-CN" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/zh-CN.svg"> <span>Chinese (Simplified)</span></a><a href="#" class="glink nturl" data-gt-lang="zh-TW"><img width="24" height="24" alt="zh-TW" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/zh-TW.svg"> <span>Chinese (Traditional)</span></a><a href="#" class="glink nturl" data-gt-lang="co"><img width="24" height="24" alt="co" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/co.svg"> <span>Corsican</span></a><a href="#" class="glink nturl" data-gt-lang="hr"><img width="24" height="24" alt="hr" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/hr.svg"> <span>Croatian</span></a><a href="#" class="glink nturl" data-gt-lang="cs"><img width="24" height="24" alt="cs" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/cs.svg"> <span>Czech</span></a><a href="#" class="glink nturl" data-gt-lang="da"><img width="24" height="24" alt="da" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/da.svg"> <span>Danish</span></a><a href="#" class="glink nturl" data-gt-lang="nl"><img width="24" height="24" alt="nl" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/nl.svg"> <span>Dutch</span></a><a href="#" class="glink nturl" data-gt-lang="en"><img width="24" height="24" alt="en" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/en.svg"> <span>English</span></a><a href="#" class="glink nturl" data-gt-lang="eo"><img width="24" height="24" alt="eo" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/eo.svg"> <span>Esperanto</span></a><a href="#" class="glink nturl" data-gt-lang="et"><img width="24" height="24" alt="et" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/et.svg"> <span>Estonian</span></a><a href="#" class="glink nturl" data-gt-lang="tl"><img width="24" height="24" alt="tl" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/tl.svg"> <span>Filipino</span></a><a href="#" class="glink nturl" data-gt-lang="fi"><img width="24" height="24" alt="fi" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/fi.svg"> <span>Finnish</span></a><a href="#" class="glink nturl" data-gt-lang="fr"><img width="24" height="24" alt="fr" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/fr.svg"> <span>French</span></a><a href="#" class="glink nturl" data-gt-lang="fy"><img width="24" height="24" alt="fy" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/fy.svg"> <span>Frisian</span></a><a href="#" class="glink nturl" data-gt-lang="gl"><img width="24" height="24" alt="gl" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/gl.svg"> <span>Galician</span></a><a href="#" class="glink nturl" data-gt-lang="ka"><img width="24" height="24" alt="ka" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ka.svg"> <span>Georgian</span></a><a href="#" class="glink nturl" data-gt-lang="de"><img width="24" height="24" alt="de" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/de.svg"> <span>German</span></a><a href="#" class="glink nturl" data-gt-lang="el"><img width="24" height="24" alt="el" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/el.svg"> <span>Greek</span></a><a href="#" class="glink nturl" data-gt-lang="gu"><img width="24" height="24" alt="gu" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/gu.svg"> <span>Gujarati</span></a><a href="#" class="glink nturl" data-gt-lang="ht"><img width="24" height="24" alt="ht" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ht.svg"> <span>Haitian Creole</span></a><a href="#" class="glink nturl" data-gt-lang="ha"><img width="24" height="24" alt="ha" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ha.svg"> <span>Hausa</span></a><a href="#" class="glink nturl" data-gt-lang="haw"><img width="24" height="24" alt="haw" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/haw.svg"> <span>Hawaiian</span></a><a href="#" class="glink nturl" data-gt-lang="iw"><img width="24" height="24" alt="iw" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/iw.svg"> <span>Hebrew</span></a><a href="#" class="glink nturl" data-gt-lang="hi"><img width="24" height="24" alt="hi" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/hi.svg"> <span>Hindi</span></a><a href="#" class="glink nturl" data-gt-lang="hmn"><img width="24" height="24" alt="hmn" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/hmn.svg"> <span>Hmong</span></a><a href="#" class="glink nturl" data-gt-lang="hu"><img width="24" height="24" alt="hu" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/hu.svg"> <span>Hungarian</span></a><a href="#" class="glink nturl" data-gt-lang="is"><img width="24" height="24" alt="is" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/is.svg"> <span>Icelandic</span></a><a href="#" class="glink nturl" data-gt-lang="ig"><img width="24" height="24" alt="ig" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ig.svg"> <span>Igbo</span></a><a href="#" class="glink nturl" data-gt-lang="id"><img width="24" height="24" alt="id" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/id.svg"> <span>Indonesian</span></a><a href="#" class="glink nturl" data-gt-lang="ga"><img width="24" height="24" alt="ga" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ga.svg"> <span>Irish</span></a><a href="#" class="glink nturl" data-gt-lang="it"><img width="24" height="24" alt="it" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/it.svg"> <span>Italian</span></a><a href="#" class="glink nturl" data-gt-lang="ja"><img width="24" height="24" alt="ja" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ja.svg"> <span>Japanese</span></a><a href="#" class="glink nturl" data-gt-lang="jw"><img width="24" height="24" alt="jw" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/jw.svg"> <span>Javanese</span></a><a href="#" class="glink nturl" data-gt-lang="kn"><img width="24" height="24" alt="kn" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/kn.svg"> <span>Kannada</span></a><a href="#" class="glink nturl" data-gt-lang="kk"><img width="24" height="24" alt="kk" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/kk.svg"> <span>Kazakh</span></a><a href="#" class="glink nturl" data-gt-lang="km"><img width="24" height="24" alt="km" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/km.svg"> <span>Khmer</span></a><a href="#" class="glink nturl" data-gt-lang="ko"><img width="24" height="24" alt="ko" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ko.svg"> <span>Korean</span></a><a href="#" class="glink nturl" data-gt-lang="ku"><img width="24" height="24" alt="ku" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ku.svg"> <span>Kurdish (Kurmanji)</span></a><a href="#" class="glink nturl" data-gt-lang="ky"><img width="24" height="24" alt="ky" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ky.svg"> <span>Kyrgyz</span></a><a href="#" class="glink nturl" data-gt-lang="lo"><img width="24" height="24" alt="lo" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/lo.svg"> <span>Lao</span></a><a href="#" class="glink nturl" data-gt-lang="la"><img width="24" height="24" alt="la" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/la.svg"> <span>Latin</span></a><a href="#" class="glink nturl" data-gt-lang="lv"><img width="24" height="24" alt="lv" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/lv.svg"> <span>Latvian</span></a><a href="#" class="glink nturl" data-gt-lang="lt"><img width="24" height="24" alt="lt" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/lt.svg"> <span>Lithuanian</span></a><a href="#" class="glink nturl" data-gt-lang="lb"><img width="24" height="24" alt="lb" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/lb.svg"> <span>Luxembourgish</span></a><a href="#" class="glink nturl" data-gt-lang="mk"><img width="24" height="24" alt="mk" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/mk.svg"> <span>Macedonian</span></a><a href="#" class="glink nturl" data-gt-lang="mg"><img width="24" height="24" alt="mg" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/mg.svg"> <span>Malagasy</span></a><a href="#" class="glink nturl" data-gt-lang="ms"><img width="24" height="24" alt="ms" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ms.svg"> <span>Malay</span></a><a href="#" class="glink nturl" data-gt-lang="ml"><img width="24" height="24" alt="ml" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ml.svg"> <span>Malayalam</span></a><a href="#" class="glink nturl" data-gt-lang="mt"><img width="24" height="24" alt="mt" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/mt.svg"> <span>Maltese</span></a><a href="#" class="glink nturl" data-gt-lang="mi"><img width="24" height="24" alt="mi" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/mi.svg"> <span>Maori</span></a><a href="#" class="glink nturl" data-gt-lang="mr"><img width="24" height="24" alt="mr" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/mr.svg"> <span>Marathi</span></a><a href="#" class="glink nturl" data-gt-lang="mn"><img width="24" height="24" alt="mn" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/mn.svg"> <span>Mongolian</span></a><a href="#" class="glink nturl" data-gt-lang="my"><img width="24" height="24" alt="my" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/my.svg"> <span>Myanmar (Burmese)</span></a><a href="#" class="glink nturl" data-gt-lang="ne"><img width="24" height="24" alt="ne" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ne.svg"> <span>Nepali</span></a><a href="#" class="glink nturl" data-gt-lang="no"><img width="24" height="24" alt="no" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/no.svg"> <span>Norwegian</span></a><a href="#" class="glink nturl" data-gt-lang="ps"><img width="24" height="24" alt="ps" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ps.svg"> <span>Pashto</span></a><a href="#" class="glink nturl" data-gt-lang="fa"><img width="24" height="24" alt="fa" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/fa.svg"> <span>Persian</span></a><a href="#" class="glink nturl" data-gt-lang="pl"><img width="24" height="24" alt="pl" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/pl.svg"> <span>Polish</span></a><a href="#" class="glink nturl" data-gt-lang="pt"><img width="24" height="24" alt="pt" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/pt.svg"> <span>Portuguese</span></a><a href="#" class="glink nturl" data-gt-lang="pa"><img width="24" height="24" alt="pa" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/pa.svg"> <span>Punjabi</span></a><a href="#" class="glink nturl" data-gt-lang="ro"><img width="24" height="24" alt="ro" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ro.svg"> <span>Romanian</span></a><a href="#" class="glink nturl" data-gt-lang="ru"><img width="24" height="24" alt="ru" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ru.svg"> <span>Russian</span></a><a href="#" class="glink nturl" data-gt-lang="sm"><img width="24" height="24" alt="sm" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/sm.svg"> <span>Samoan</span></a><a href="#" class="glink nturl" data-gt-lang="gd"><img width="24" height="24" alt="gd" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/gd.svg"> <span>Scottish Gaelic</span></a><a href="#" class="glink nturl" data-gt-lang="sr"><img width="24" height="24" alt="sr" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/sr.svg"> <span>Serbian</span></a><a href="#" class="glink nturl" data-gt-lang="st"><img width="24" height="24" alt="st" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/st.svg"> <span>Sesotho</span></a><a href="#" class="glink nturl" data-gt-lang="sn"><img width="24" height="24" alt="sn" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/sn.svg"> <span>Shona</span></a><a href="#" class="glink nturl" data-gt-lang="sd"><img width="24" height="24" alt="sd" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/sd.svg"> <span>Sindhi</span></a><a href="#" class="glink nturl" data-gt-lang="si"><img width="24" height="24" alt="si" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/si.svg"> <span>Sinhala</span></a><a href="#" class="glink nturl" data-gt-lang="sk"><img width="24" height="24" alt="sk" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/sk.svg"> <span>Slovak</span></a><a href="#" class="glink nturl" data-gt-lang="sl"><img width="24" height="24" alt="sl" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/sl.svg"> <span>Slovenian</span></a><a href="#" class="glink nturl" data-gt-lang="so"><img width="24" height="24" alt="so" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/so.svg"> <span>Somali</span></a><a href="#" class="glink nturl" data-gt-lang="es"><img width="24" height="24" alt="es" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/es.svg"> <span>Spanish</span></a><a href="#" class="glink nturl" data-gt-lang="su"><img width="24" height="24" alt="su" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/su.svg"> <span>Sundanese</span></a><a href="#" class="glink nturl" data-gt-lang="sw"><img width="24" height="24" alt="sw" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/sw.svg"> <span>Swahili</span></a><a href="#" class="glink nturl" data-gt-lang="sv"><img width="24" height="24" alt="sv" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/sv.svg"> <span>Swedish</span></a><a href="#" class="glink nturl" data-gt-lang="tg"><img width="24" height="24" alt="tg" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/tg.svg"> <span>Tajik</span></a><a href="#" class="glink nturl" data-gt-lang="ta"><img width="24" height="24" alt="ta" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ta.svg"> <span>Tamil</span></a><a href="#" class="glink nturl" data-gt-lang="te"><img width="24" height="24" alt="te" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/te.svg"> <span>Telugu</span></a><a href="#" class="glink nturl" data-gt-lang="th"><img width="24" height="24" alt="th" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/th.svg"> <span>Thai</span></a><a href="#" class="glink nturl" data-gt-lang="tr"><img width="24" height="24" alt="tr" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/tr.svg"> <span>Turkish</span></a><a href="#" class="glink nturl" data-gt-lang="uk"><img width="24" height="24" alt="uk" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/uk.svg"> <span>Ukrainian</span></a><a href="#" class="glink nturl" data-gt-lang="ur"><img width="24" height="24" alt="ur" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/ur.svg"> <span>Urdu</span></a><a href="#" class="glink nturl" data-gt-lang="uz"><img width="24" height="24" alt="uz" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/uz.svg"> <span>Uzbek</span></a><a href="#" class="glink nturl" data-gt-lang="cy"><img width="24" height="24" alt="cy" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/cy.svg"> <span>Welsh</span></a><a href="#" class="glink nturl" data-gt-lang="xh"><img width="24" height="24" alt="xh" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/xh.svg"> <span>Xhosa</span></a><a href="#" class="glink nturl" data-gt-lang="yi"><img width="24" height="24" alt="yi" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/yi.svg"> <span>Yiddish</span></a><a href="#" class="glink nturl" data-gt-lang="yo"><img width="24" height="24" alt="yo" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/yo.svg"> <span>Yoruba</span></a><a href="#" class="glink nturl" data-gt-lang="zu"><img width="24" height="24" alt="zu" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/zu.svg"> <span>Zulu</span></a></div></div><div id="google_translate_element2"></div></div>
+<script>window.gtranslateSettings = {"default_language":"vi","wrapper_selector":".gtranslate_wrapper","flag_size":24}</script>
+<script src="/VNT/popup.js" defer=""></script>
+<div class="p-nav-opposite">
+<div class="p-navgroup p-account p-navgroup--guest">
+<a href="/login/" class="p-navgroup-link p-navgroup-mobile p-navgroup-link--textual p-navgroup-link--logIn" data-xf-click="overlay" data-follow-redirects="on">
+<span class="p-navgroup-linkText">Đăng nhập</span>
+</a>
+<a href="/register/" class="p-navgroup-link p-navgroup-link--textual p-navgroup-link--register" data-xf-click="overlay" data-follow-redirects="on">
+<span class="p-navgroup-linkText">Đăng ký</span>
+</a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="p-sectionLinks">
+<div class="p-sectionLinks-inner hScroller" data-xf-init="h-scroller">
+<div class="hScroller-scroll is-calculated">
+<ul class="p-sectionLinks-list">
+<li>
+<div class="p-navEl">
+<a href="/whats-new/latest-activity" class="p-navEl-link" data-xf-key="alt+1" data-nav-id="defaultLatestActivity">Hoạt động mới nhất</a>
+</div>
+</li>
+<li>
+<div class="p-navEl">
+<a href="/register/" class="p-navEl-link" data-xf-key="alt+2" data-nav-id="defaultRegister">Đăng ký</a>
+</div>
+</li>
+</ul>
+</div><i class="hScroller-action hScroller-action--end" aria-hidden="true"></i><i class="hScroller-action hScroller-action--start" aria-hidden="true"></i>
+</div>
+</div>
+<div class="offCanvasMenu offCanvasMenu--nav js-headerOffCanvasMenu" data-menu="menu" aria-hidden="true" data-ocm-builder="navigation">
+<div class="offCanvasMenu-backdrop" data-menu-close="true"></div>
+<div class="offCanvasMenu-content">
+<div class="offCanvasMenu-header">
+Menu
+<a class="offCanvasMenu-closer" data-menu-close="true" role="button" tabindex="0" aria-label="Đóng"></a>
+</div>
+<div class="p-offCanvasRegisterLink">
+<div class="offCanvasMenu-linkHolder">
+<a href="/login/" class="offCanvasMenu-link" data-xf-click="overlay" data-menu-close="true">
+Đăng nhập
+</a>
+</div>
+<hr class="offCanvasMenu-separator">
+<div class="offCanvasMenu-linkHolder">
+<a href="/register/" class="offCanvasMenu-link" data-xf-click="overlay" data-menu-close="true">
+Đăng ký
+</a>
+</div>
+<hr class="offCanvasMenu-separator">
+</div>
+<div class="js-offCanvasNavTarget"></div>
+<template class="js-installTemplateIOS">
+<div class="overlay-title">How to install the app on iOS</div>
+<div class="block-body">
+<div class="block-row">
+<p>
+Follow along with the video below to see how to install our site as a web app on your home screen.
+</p>
+<p style="text-align: center">
+<video src="/styles/default/xenforo/add_to_home.mp4" width="280" height="480" autoplay="" loop="" muted="" playsinline=""></video>
+</p>
+<p>
+<small><strong>Lưu ý:</strong> This feature may not be available in some browsers.</small>
+</p>
+</div>
+</div>
+</template>
+</div>
+</div>
+<div class="p-body">
+<div class="p-body-inner">
+<!--XF:EXTRA_OUTPUT-->
+<ul class="notices notices--block js-notices" data-xf-init="notices" data-type="block" data-scroll-interval="6">
+<li class="notice js-notice notice--primary" data-notice-id="13" data-delay-duration="0" data-display-duration="0" data-auto-dismiss="" data-visibility="">
+<div class="notice-content">
+<div class="vnt-corona">
+<div class="title">
+<span class="live">
+<span class="live-outer-dot">
+<span class="live-inner-dot"></span>
+</span>
+</span>
+Forum VNT &amp; ưu đãi sốc
+</div>
+<div class="detail">
+<marquee>
+<span style="margin-left :40px">Diễn đàn VNT ra mắt hệ thống thanh toán tự động PayOS với nhiều ưu đãi.	</span>
+<span style="margin-left :40px">|| Vui lòng ủng hộ để chúng tôi có thêm kinh phí duy trì diễn đàn, chuyển khoản vào stk 21610000541219 - BIDV - NGUYEN THANH TRUNG.	</span>
+<span style="margin-left :40px">|| Hỗ trợ kích hoạt bản quyền Windows, Office 365, 2021, 2019, 2016 miễn phí.	</span>
+<span style="margin-left :40px">Forum VNT nhận đặt textlink/banner giá rẻ, thông tin chi tiết vui lòng imbox cho @admin hoặc liên hệ Email: admin@vn-t.com để được hỗ trợ.
+</span>
+</marquee>
+</div>
+</div>
+</div>
+</li>
+</ul>
+
+
+<div class="p-body-header">
+<div class="p-title">
+<h1 class="p-title-value">VNT</h1>
+</div>
+</div>
+<div class="p-body-main p-body-main--withSidebar">
+<div class="p-body-content">
+<div class="p-body-pageContent">
+<div class="block tabs-header">
+<a href="https://vn-t.com" class="tabs-item is-active">Trang chủ</a>
+<a href="/groups/" class="tabs-item">
+Groups
+<span class="foru-new-badge">
+<span class="highlight red-highlight"></span>
+</span>
+</a>
+</div>
+<div class="porta-articles-above-full">
+<div class="portal-block portal-features porta-features-fix" data-widget-id="32" data-widget-key="Features" data-widget-definition="EWRporta_features">
+<div class="portal-features-container">
+<ol class="portal-features-list">
+<li class="feature-item item-1">
+<div class="feature-item-container">
+<a href="/chieu-tro-zombie-zip-lay-lan-ma-doc-qua-mat-98-phan-mem-diet-virus.t998/" title="Chiêu trò &quot;Zombie ZIP&quot; lây lan mã độc qua mặt 98% phần mềm diệt virus">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/data/features/998.jpg?1773731866)" alt="">
+</div>
+</div>
+</a>
+<div class="body">
+<div class="content">
+<div class="info">
+<span class="info-user">
+<a href="/ngoclinh.m6/" class="username" dir="auto" data-user-id="6" data-xf-init="member-tooltip" id="js-XFUniqueId1"><span class="username--style5 username--staff username--moderator username--admin">ngoclinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>ngoclinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2026-03-17T12:39:46+0700" data-timestamp="1773725986" data-date="17/03/2026" data-time="12:39" data-short="Thg 3 17" title="17/03/2026 lúc 12:39">17/03/2026</time>
+</span>
+</div>
+<a href="/chieu-tro-zombie-zip-lay-lan-ma-doc-qua-mat-98-phan-mem-diet-virus.t998/" title="Chiêu trò &quot;Zombie ZIP&quot; lây lan mã độc qua mặt 98% phần mềm diệt virus">
+<h3 class="title">
+Chiêu trò "Zombie ZIP" lây lan mã độc qua mặt 98% phần mềm diệt virus
+</h3>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class="feature-item item-2">
+<div class="feature-item-container">
+<a href="/truc-tiep-gala-tet-que-huong-2026-tet-an-vui.t996/" title="Trực tiếp “Gala Tết Quê Hương 2026 - Tết An Vui”">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/data/features/996.jpg?1773732019)" alt="">
+</div>
+</div>
+</a>
+<div class="body">
+<div class="content">
+<div class="info">
+<span class="info-user">
+<a href="/thahtrung06.m3/" class="username" dir="auto" data-user-id="3" data-xf-init="member-tooltip" id="js-XFUniqueId2"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2026-02-16T21:47:03+0700" data-timestamp="1771253223" data-date="16/02/2026" data-time="21:47" data-short="Thg 2 16" title="16/02/2026 lúc 21:47">16/02/2026</time>
+</span>
+</div>
+<a href="/truc-tiep-gala-tet-que-huong-2026-tet-an-vui.t996/" title="Trực tiếp “Gala Tết Quê Hương 2026 - Tết An Vui”">
+<h3 class="title">
+Trực tiếp “Gala Tết Quê Hương 2026 - Tết An Vui”
+</h3>
+</a>
+<a href="/truc-tiep-gala-tet-que-huong-2026-tet-an-vui.t996/" title="Trực tiếp “Gala Tết Quê Hương 2026 - Tết An Vui”">
+<div class="exceprt">
+“Gala Tết Quê Hương 2026 - Tết An Vui” là đêm nghệ thuật chào Xuân mới, tôn vinh giá trị truyền thống và tinh thần đoàn viên của dân tộc. 
+Với sự kết hợp hài hòa giữa âm nhạc, múa, trình diễn...
+</div>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class="feature-item item-3">
+<div class="feature-item-container">
+<a href="/cach-khac-phuc-gap-hai-lo-hong-nghiem-trong-tren-winrar.t918/" title="Cách khắc phục gấp hai lỗ hổng nghiêm trọng trên WinRAR">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/data/features/918.jpg?1758026107)" alt="">
+</div>
+</div>
+</a>
+<div class="body">
+<div class="content">
+<div class="info">
+<span class="info-user">
+<a href="/ngoclinh.m6/" class="username" dir="auto" data-user-id="6" data-xf-init="member-tooltip" id="js-XFUniqueId3"><span class="username--style5 username--staff username--moderator username--admin">ngoclinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>ngoclinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2025-09-14T09:19:17+0700" data-timestamp="1757816357" data-date="14/09/2025" data-time="09:19" data-short="Thg 10 '25" title="14/09/2025 lúc 09:19">14/09/2025</time>
+</span>
+</div>
+<a href="/cach-khac-phuc-gap-hai-lo-hong-nghiem-trong-tren-winrar.t918/" title="Cách khắc phục gấp hai lỗ hổng nghiêm trọng trên WinRAR">
+<h3 class="title">
+Cách khắc phục gấp hai lỗ hổng nghiêm trọng trên WinRAR
+</h3>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class="feature-item item-4">
+<div class="feature-item-container">
+<a href="/uu-dai-nang-cap-vip-voi-phuong-thuc-chuyen-khoan-ngan-hang.t911/" title="Ưu đãi nâng cấp VIP với phương thức chuyển khoản ngân hàng">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/data/features/911.jpg?1773732251)" alt="">
+</div>
+</div>
+</a>
+<div class="body">
+<div class="content">
+<div class="info">
+<span class="info-user">
+<a href="/thahtrung06.m3/" class="username" dir="auto" data-user-id="3" data-xf-init="member-tooltip" id="js-XFUniqueId4"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2025-07-01T12:44:28+0700" data-timestamp="1751348668" data-date="01/07/2025" data-time="12:44" data-short="Thg 7 '25" title="01/07/2025 lúc 12:44">01/07/2025</time>
+</span>
+</div>
+<a href="/uu-dai-nang-cap-vip-voi-phuong-thuc-chuyen-khoan-ngan-hang.t911/" title="Ưu đãi nâng cấp VIP với phương thức chuyển khoản ngân hàng">
+<h3 class="title">
+Ưu đãi nâng cấp VIP với phương thức chuyển khoản ngân hàng
+</h3>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class="feature-item item-5">
+<div class="feature-item-container">
+<a href="/phat-hien-cua-hau-moi-tren-windows-giup-tin-tac-de-dang-xam-nhap.t875/" title="Phát hiện cửa hậu mới trên Windows giúp tin tặc dễ dàng xâm nhập">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/data/features/875.jpg?1724379719)" alt="">
+</div>
+</div>
+</a>
+<div class="body">
+<div class="content">
+<div class="info">
+<span class="info-user">
+<a href="/thahtrung06.m3/" class="username" dir="auto" data-user-id="3" data-xf-init="member-tooltip" id="js-XFUniqueId5"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2024-08-23T09:20:28+0700" data-timestamp="1724379628" data-date="23/08/2024" data-time="09:20" data-short="Thg 8 '24" title="23/08/2024 lúc 09:20">23/08/2024</time>
+</span>
+</div>
+<a href="/phat-hien-cua-hau-moi-tren-windows-giup-tin-tac-de-dang-xam-nhap.t875/" title="Phát hiện cửa hậu mới trên Windows giúp tin tặc dễ dàng xâm nhập">
+<h3 class="title">
+Phát hiện cửa hậu mới trên Windows giúp tin tặc dễ dàng xâm nhập
+</h3>
+</a>
+</div>
+</div>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div class="block slide slideWide" data-widget-id="69" data-widget-key="random_threads" data-widget-definition="DC_Widgets_randomThreads">
+<div class="block-slidevnt">
+<div class="news-dbm--title">
+<a href="/whats-new/" rel="nofollow">Đừng bỏ lỡ</a>
+</div>
+<div class="block-container">
+<div class="block-body swiper-container slideWide swiper-initialized swiper-horizontal swiper-backface-hidden">
+<div class="swiper-wrapper" id="swiper-wrapper-38dcdbdb14ea5996" aria-live="polite">
+<div class="thread_item slide swiper-slide swiper-slide-active" id="item-860" role="group" aria-label="1 / 5" style="margin-right: 10px;">
+<a href="/huong-dan-xac-dinh-vi-tri-dau-doc-chip-nfc-tren-smartphone.t860/" title="Hướng dẫn xác định vị trí đầu đọc chip NFC trên smartphone" class="wrapper">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/cccd-1720081069173-jpg.a2204/);" alt="" loading="lazy"></div>
+</div>
+<div class="content">
+<div class="title">
+Hướng dẫn xác định vị trí đầu đọc chip NFC trên smartphone
+</div>
+<div class="info">
+<span class="forum">Tin công nghệ và đời sống</span> - <time class="u-dt" dir="auto" datetime="2024-07-07T21:36:17+0700" data-timestamp="1720362977" data-date="07/07/2024" data-time="21:36" data-short="Thg 7 '24" title="07/07/2024 lúc 21:36">07/07/2024</time>
+</div>
+</div>
+</a>
+</div>
+<div class="thread_item slide swiper-slide swiper-slide-next" id="item-44" role="group" aria-label="2 / 5" style="margin-right: 10px;">
+<a href="/tai-sao-moi-nguoi-van-thich-dung-windows-lau.t44/" title="Tại sao mọi người vẫn thích dùng Windows lậu?" class="wrapper">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/maxresdefault-jpg.a1041/);" alt="" loading="lazy"></div>
+</div>
+<div class="content">
+<div class="title">
+Tại sao mọi người vẫn thích dùng Windows lậu?
+</div>
+<div class="info">
+<span class="forum">Chuyện trò linh tinh</span> - <time class="u-dt" dir="auto" datetime="2019-12-29T21:11:02+0700" data-timestamp="1577628662" data-date="29/12/2019" data-time="21:11" data-short="Thg 12 '19" title="29/12/2019 lúc 21:11">29/12/2019</time>
+</div>
+</div>
+</a>
+</div>
+<div class="thread_item slide swiper-slide" id="item-828" role="group" aria-label="3 / 5" style="margin-right: 10px;">
+<a href="/bieu-cham-diem-thuc-hien-mo-hinh-chi-bo-bon-tot-cua-ducq.t828/" title="Biểu chấm điểm thực hiện mô hình &quot;Chi bộ bốn tốt&quot; của ĐUCQ" class="wrapper">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/chi-bo-bon-tot-png.a2115/);" alt="" loading="lazy"></div>
+</div>
+<div class="content">
+<div class="title">
+Biểu chấm điểm thực hiện mô hình "Chi bộ bốn tốt" của ĐUCQ
+</div>
+<div class="info">
+<span class="forum">Chuyện trò linh tinh</span> - <time class="u-dt" dir="auto" datetime="2023-12-06T10:49:06+0700" data-timestamp="1701834546" data-date="06/12/2023" data-time="10:49" data-short="Thg 12 '23" title="06/12/2023 lúc 10:49">06/12/2023</time>
+</div>
+</div>
+</a>
+</div>
+<div class="thread_item slide swiper-slide" id="item-488" role="group" aria-label="4 / 5" style="margin-right: 10px;">
+<a href="/san-ngoai-hoi-duoc-coi-la-lua-dao-hinh-thuc-rua-tien.t488/" title="Sàn Ngoại Hối Được Coi Là Lừa Đảo &amp; Hình Thức Rửa Tiền" class="wrapper">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/3_76de3f49453646bfb5d42fc3f57ef021-jpg.a1826/);" alt="" loading="lazy"></div>
+</div>
+<div class="content">
+<div class="title">
+Sàn Ngoại Hối Được Coi Là Lừa Đảo &amp; Hình Thức Rửa Tiền
+</div>
+<div class="info">
+<span class="forum">Tin công nghệ và đời sống</span> - <time class="u-dt" dir="auto" datetime="2021-06-23T22:20:53+0700" data-timestamp="1624461653" data-date="23/06/2021" data-time="22:20" data-short="Thg 6 '21" title="23/06/2021 lúc 22:20">23/06/2021</time>
+</div>
+</div>
+</a>
+</div>
+<div class="thread_item slide swiper-slide" id="item-271" role="group" aria-label="5 / 5" style="margin-right: 10px;">
+<a href="/lua-chon-ao-mua-cao-cap-va-ao-mua-sieu-nhe.t271/" title="Lựa chọn áo mưa cao cấp và áo mưa siêu nhẹ" class="wrapper">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/cho-2-non-cao-cap-rando1png-20180823135716-240x300-png.a1096/);" alt="" loading="lazy"></div>
+</div>
+<div class="content">
+<div class="title">
+Lựa chọn áo mưa cao cấp và áo mưa siêu nhẹ
+</div>
+<div class="info">
+<span class="forum">Chuyện trò linh tinh</span> - <time class="u-dt" dir="auto" datetime="2020-10-09T17:36:12+0700" data-timestamp="1602239772" data-date="09/10/2020" data-time="17:36" data-short="Thg 10 '20" title="09/10/2020 lúc 17:36">09/10/2020</time>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+</div>
+</div>
+</div>
+<div class="block" data-widget-id="74" data-widget-key="threads_enhancement" data-widget-definition="wte_thread_enhancement">
+<div class="block-container">
+<div class="block-header">
+<div class="block--hotThread">
+<h3>Tài nguyên Xenforo</h3>
+<div class="block-header--right">
+<a href="resources/categories/free.2/" title="Tài nguyên miễn phí">Free</a> • 
+<a href="resources/categories/vip.1/" title="Tài nguyên VIP">VIP</a> • 
+<a href="resources/categories/paid.5/" title="Tài nguyên trả phí">Paid</a>
+</div>
+</div>
+</div>
+<div class="block-body">
+<div class="structItemContainer">
+<div class="block block--hotThread" data-widget-id="74" data-widget-key="threads_enhancement" data-widget-definition="wte_thread_enhancement">
+<div class="block-container" data-xf-init="lightbox">
+<div class="block-body">
+<div class="structItem structItem--hotThread" data-author="Admin">
+<div class="structItem-cell--icon">
+<a href="/xenforo-2-3-released-upgrade-xenforo.t869/" class="cover" data-tp-primary="on" title="XenForo 2.3 Released Upgrade | Xenforo">
+<img src="https://vn-t.com/attachments/1722650120446-png.2233/" class="cover" alt="XenForo 2.3 Released Upgrade | Xenforo" itemprop="image">
+</a>
+</div>
+<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+<div class="structItem-title">
+<a href="/xenforo-2-3-released-upgrade-xenforo.r193/" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/xenforo-2-3-released-upgrade-xenforo.r193/brms-preview">XenForo 2.3 Released Upgrade | Xenforo</a>
+</div>
+</div>
+<div class="structItem-cell structItem-cell--fieldColumn">
+<dl class="pairs pairs--justified fieldContainer">
+<div class="vnt-fieldColumn">
+<div class="vnt-fieldColumn--before">			
+<dl class="fieldLabel--columns fieldLabel--cost">
+<dt>Giá</dt>
+<font color="red"><b>
+0đ
+</b></font>
+</dl>
+<dl class="fieldLabel--columns fieldLabel--version">
+<dt>Phiên bản</dt>
+<font color="green">
+<b>
+2.3.13
+</b>
+</font>
+</dl>				
+<dl class="fieldLabel--columns fieldLabel--update">
+<dt>Cập nhật</dt>
+<dd style="font-size:14px"><time class="u-dt" dir="auto" datetime="2026-09-10T21:35:00+0700" data-timestamp="1789050900" data-date="10/09/2026" data-time="21:35" data-short="25d" title="10/09/2026 lúc 21:35">10/09/2026</time></dd>
+</dl>
+</div>
+<div class="contentRow-minor">
+<ul class="listInline listInline--bullet">
+<li style="font-size:13px"><a href="/admin.m1/" class="username u-concealed" dir="auto" data-user-id="1" data-xf-init="member-tooltip" id="js-XFUniqueId6"><span class="username--moderator username--admin">Admin<i class="fa--xf fa-fw fas fa-star"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #f1c40f"><title>Admin là thành viên VIP</title><use href="/data/local/icons/solid.svg?v=1790259926#star"></use></svg></i></span></a></li>
+<li style="font-size:13px"><time class="u-dt" dir="auto" datetime="2024-08-03T08:55:47+0700" data-timestamp="1722650147" data-date="03/08/2024" data-time="08:55" data-short="Thg 8 '24" title="03/08/2024 lúc 08:55">03/08/2024</time></li>
+</ul>
+</div>
+</div>
+</dl>
+</div>
+</div>
+<div class="structItem structItem--hotThread" data-author="thahtrung06">
+<div class="structItem-cell--icon">
+<a href="/xenforo-2-3-released-full-xenforo.t845/" class="cover" data-tp-primary="on" title="XenForo 2.3 Released Full | XenForo">
+<img src="https://vn-t.com/attachments/xenforo-2-3-jpg.2158/" class="cover" alt="XenForo 2.3 Released Full | XenForo" itemprop="image">
+</a>
+</div>
+<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+<div class="structItem-title">
+<a href="/xenforo-2-3-released-full-xenforo.r184/" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/xenforo-2-3-released-full-xenforo.r184/brms-preview">XenForo 2.3 Released Full | XenForo</a>
+</div>
+</div>
+<div class="structItem-cell structItem-cell--fieldColumn">
+<dl class="pairs pairs--justified fieldContainer">
+<div class="vnt-fieldColumn">
+<div class="vnt-fieldColumn--before">			
+<dl class="fieldLabel--columns fieldLabel--cost">
+<dt>Giá</dt>
+<font color="red"><b>
+0đ
+</b></font>
+</dl>
+<dl class="fieldLabel--columns fieldLabel--version">
+<dt>Phiên bản</dt>
+<font color="green">
+<b>
+2.3.13
+</b>
+</font>
+</dl>				
+<dl class="fieldLabel--columns fieldLabel--update">
+<dt>Cập nhật</dt>
+<dd style="font-size:14px"><time class="u-dt" dir="auto" datetime="2026-09-10T21:21:00+0700" data-timestamp="1789050060" data-date="10/09/2026" data-time="21:21" data-short="25d" title="10/09/2026 lúc 21:21">10/09/2026</time></dd>
+</dl>
+</div>
+<div class="contentRow-minor">
+<ul class="listInline listInline--bullet">
+<li style="font-size:13px"><a href="/thahtrung06.m3/" class="username u-concealed" dir="auto" data-user-id="3" data-xf-init="member-tooltip" id="js-XFUniqueId7"><span class="username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a></li>
+<li style="font-size:13px"><time class="u-dt" dir="auto" datetime="2024-03-21T10:03:49+0700" data-timestamp="1710990229" data-date="21/03/2024" data-time="10:03" data-short="Thg 3 '24" title="21/03/2024 lúc 10:03">21/03/2024</time></li>
+</ul>
+</div>
+</div>
+</dl>
+</div>
+</div>
+<div class="structItem structItem--hotThread" data-author="thahtrung06">
+<div class="structItem-cell--icon">
+<a href="/vnt-acp-custom.t757/" class="cover" data-tp-primary="on" title="[VNT] ACP Custom">
+<img src="https://vn-t.com/attachments/acp-custom-login-jpg.1974/" class="cover" alt="[VNT] ACP Custom" itemprop="image">
+</a>
+</div>
+<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+<div class="structItem-title">
+<a href="/vnt-acp-custom.r178/" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/vnt-acp-custom.r178/brms-preview">[VNT] ACP Custom</a>
+</div>
+</div>
+<div class="structItem-cell structItem-cell--fieldColumn">
+<dl class="pairs pairs--justified fieldContainer">
+<div class="vnt-fieldColumn">
+<div class="vnt-fieldColumn--before">			
+<dl class="fieldLabel--columns fieldLabel--cost">
+<dt>Giá</dt>
+<font color="red"><b>
+300.000đ
+</b></font>
+</dl>
+<dl class="fieldLabel--columns fieldLabel--version">
+<dt>Phiên bản</dt>
+<font color="green">
+<b>
+3.0.1
+</b>
+</font>
+</dl>				
+<dl class="fieldLabel--columns fieldLabel--update">
+<dt>Cập nhật</dt>
+<dd style="font-size:14px"><time class="u-dt" dir="auto" datetime="2026-09-02T20:30:00+0700" data-timestamp="1788355800" data-date="02/09/2026" data-time="20:30" data-short="Thg 10 2" title="02/09/2026 lúc 20:30">02/09/2026</time></dd>
+</dl>
+</div>
+<div class="contentRow-minor">
+<ul class="listInline listInline--bullet">
+<li style="font-size:13px"><a href="/thahtrung06.m3/" class="username u-concealed" dir="auto" data-user-id="3" data-xf-init="member-tooltip" id="js-XFUniqueId8"><span class="username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a></li>
+<li style="font-size:13px"><time class="u-dt" dir="auto" datetime="2023-04-27T09:28:02+0700" data-timestamp="1682562482" data-date="27/04/2023" data-time="09:28" data-short="Thg 4 '23" title="27/04/2023 lúc 09:28">27/04/2023</time></li>
+</ul>
+</div>
+</div>
+</dl>
+</div>
+</div>
+<div class="structItem structItem--hotThread" data-author="thahtrung06">
+<div class="structItem-cell--icon">
+<a href="/xencentral-multisite-system-2.t1048/" class="cover" data-tp-primary="on" title="XenCentral Multisite System 2">
+<img src="/data/attachments/2/2839-660e91440be7e9a99efd8f6717cc7301.jpg?hash=yCBYlPBrUC" class="cover" alt="XenCentral Multisite System 2" itemprop="image">
+</a>
+</div>
+<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+<div class="structItem-title">
+<a href="/xencentral-multisite-system-2.r210/" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/xencentral-multisite-system-2.r210/brms-preview">XenCentral Multisite System 2</a>
+</div>
+</div>
+<div class="structItem-cell structItem-cell--fieldColumn">
+<dl class="pairs pairs--justified fieldContainer">
+<div class="vnt-fieldColumn">
+<div class="vnt-fieldColumn--before">			
+<dl class="fieldLabel--columns fieldLabel--cost">
+<dt>Giá</dt>
+<font color="red"><b>
+0đ
+</b></font>
+</dl>
+<dl class="fieldLabel--columns fieldLabel--version">
+<dt>Phiên bản</dt>
+<font color="green">
+<b>
+2.1.0 Release Candidate 2
+</b>
+</font>
+</dl>				
+<dl class="fieldLabel--columns fieldLabel--update">
+<dt>Cập nhật</dt>
+<dd style="font-size:14px"><time class="u-dt" dir="auto" datetime="2026-07-07T11:12:13+0700" data-timestamp="1783397533" data-date="07/07/2026" data-time="11:12" data-short="Thg 7 7" title="07/07/2026 lúc 11:12">07/07/2026</time></dd>
+</dl>
+</div>
+<div class="contentRow-minor">
+<ul class="listInline listInline--bullet">
+<li style="font-size:13px"><a href="/thahtrung06.m3/" class="username u-concealed" dir="auto" data-user-id="3" data-xf-init="member-tooltip" id="js-XFUniqueId9"><span class="username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a></li>
+<li style="font-size:13px"><time class="u-dt" dir="auto" datetime="2026-07-07T11:12:13+0700" data-timestamp="1783397533" data-date="07/07/2026" data-time="11:12" data-short="Thg 7 7" title="07/07/2026 lúc 11:12">07/07/2026</time></li>
+</ul>
+</div>
+</div>
+</dl>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-footer">
+<span class="block-footer-controls">
+<a href="resources/" class="button button--cta" rel="nofollow"><span class="button-text">Xem thêm</span></a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="porta-articles-above-split porta-widgets-split">
+</div>
+<div class="portal-block">
+<div class="block-separator"></div>
+</div>
+<div class="portal-block portal-main-stream">
+<div class="portal-block-container">
+<div class="portal-block-header">
+Tin nổi bật
+</div>
+<div class="portal-block-content">
+<div class="block porta-infinite" data-xf-init="porta-infinite" data-masonry="" data-click="1" data-after="0" data-history="0">
+<div class="porta-article-item">
+<div class="article-container">
+<a href="/nhung-tinh-nang-noi-bat-cua-addons-vnt-acp-custom.t1032/" title="Những tính năng nổi bật của addons [VNT] ACP Custom">
+<h3 class="title">
+Những tính năng nổi bật của addons [VNT] ACP Custom
+</h3>
+</a>
+<a href="/nhung-tinh-nang-noi-bat-cua-addons-vnt-acp-custom.t1032/" title="Những tính năng nổi bật của addons [VNT] ACP Custom">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/vnt-acp-custom-addons-webp.2846/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/nhung-tinh-nang-noi-bat-cua-addons-vnt-acp-custom.t1032/" title="Những tính năng nổi bật của addons [VNT] ACP Custom">
+<p class="excerpt">
+Addon [VNT] ACP Custom là một công cụ với nhiều tính năng hữu ích cho Xenforo 2, được viết bởi BQT diễn đàn VNT.
+Một số tính năng nổi bật: Cải thiện bảo mật đăng nhập và đăng ký tài khoản. Có thể...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/thahtrung06.m3/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="3" data-xf-init="member-tooltip" style="background-color: #ebadeb; color: #b82eb8" id="js-XFUniqueId10">
+<span class="avatar-u3-s" role="img" aria-label="thahtrung06">T</span> 
+</a>
+<a href="/thahtrung06.m3/" class="username" dir="auto" data-user-id="3" data-xf-init="member-tooltip" id="js-XFUniqueId11"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2026-05-18T08:53:00+0700" data-timestamp="1779069180" data-date="18/05/2026" data-time="08:53" data-short="Tháng 5 18" title="18/05/2026 lúc 08:53">18/05/2026</time>
+</span>
+<span class="info-cate">
+<a href="/cong-dong-ho-tro-xenforo.f32/">Cộng đồng hỗ trợ Xenforo</a>
+</span>
+</div>
+</div>
+</div>
+<div class="porta-article-item">
+<div class="article-container">
+<a href="/dieu-hoa-khong-mat-du-bat-lau-loi-khong-phai-ai-cung-biet.t1023/" title="Điều hòa không mát dù bật lâu: Lỗi không phải ai cũng biết">
+<h3 class="title">
+Điều hòa không mát dù bật lâu: Lỗi không phải ai cũng biết
+</h3>
+</a>
+<a href="/dieu-hoa-khong-mat-du-bat-lau-loi-khong-phai-ai-cung-biet.t1023/" title="Điều hòa không mát dù bật lâu: Lỗi không phải ai cũng biết">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/dieu-hoa-khong-mat-du-bat-lau-loi-khong-phai-ai-cung-biet-1-webp.2726/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/dieu-hoa-khong-mat-du-bat-lau-loi-khong-phai-ai-cung-biet.t1023/" title="Điều hòa không mát dù bật lâu: Lỗi không phải ai cũng biết">
+<p class="excerpt">
+Điều hòa chạy liên tục nhưng không đủ mát là tình trạng phổ biến trong mùa nóng, thường bắt nguồn từ nhiều nguyên nhân.
+Trong những ngày nắng nóng cao điểm, điều hòa trở thành thiết bị gần như...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/ngoclinh.m6/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="6" data-xf-init="member-tooltip" style="background-color: #cc8f33; color: #3d2b0f" id="js-XFUniqueId12">
+<span class="avatar-u6-s" role="img" aria-label="ngoclinh">N</span> 
+</a>
+<a href="/ngoclinh.m6/" class="username" dir="auto" data-user-id="6" data-xf-init="member-tooltip" id="js-XFUniqueId13"><span class="username--style5 username--staff username--moderator username--admin">ngoclinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>ngoclinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2026-04-13T16:31:00+0700" data-timestamp="1776072660" data-date="13/04/2026" data-time="16:31" data-short="Thg 4 13" title="13/04/2026 lúc 16:31">13/04/2026</time>
+</span>
+<span class="info-cate">
+<a href="/tin-cong-nghe-va-doi-song.f34/">Tin công nghệ và đời sống</a>
+</span>
+</div>
+</div>
+</div>
+<div class="porta-article-item">
+<div class="article-container">
+<a href="/ra-mat-he-thong-thanh-toan-vip-tu-dong-voi-payos.t1021/" title="Ra mắt hệ thống thanh toán VIP tự động với payOS">
+<h3 class="title">
+<span class="label label--notice" dir="auto">Thông báo</span>
+Ra mắt hệ thống thanh toán VIP tự động với payOS
+</h3>
+</a>
+<a href="/ra-mat-he-thong-thanh-toan-vip-tu-dong-voi-payos.t1021/" title="Ra mắt hệ thống thanh toán VIP tự động với payOS">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/tich-hop-thanh-toan-tu-dong-payos-webp.2719/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/ra-mat-he-thong-thanh-toan-vip-tu-dong-voi-payos.t1021/" title="Ra mắt hệ thống thanh toán VIP tự động với payOS">
+<p class="excerpt">
+Nhằm giúp thành viên có thể lên VIP một cách nhanh chóng và đơn giản nhất, diễn đàn VNT chính thức ra mắt hệ thống thanh toán tự động với PayOS, Sau khi thanh toán xong, hệ thống sẽ tự động xử lý...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/admin.m1/" class="avatar avatar--xxs" data-user-id="1" data-xf-init="member-tooltip" id="js-XFUniqueId14">
+<img src="/data/avatars/s/0/1.jpg?1574694565" alt="Admin" class="avatar-u1-s" width="48" height="48"> 
+</a>
+<a href="/admin.m1/" class="username" dir="auto" data-user-id="1" data-xf-init="member-tooltip" id="js-XFUniqueId15"><span class="username--style7 username--moderator username--admin">Admin<i class="fa--xf fa-fw fas fa-star"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #f1c40f"><title>Admin là thành viên VIP</title><use href="/data/local/icons/solid.svg?v=1790259926#star"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2026-04-10T20:31:00+0700" data-timestamp="1775827860" data-date="10/04/2026" data-time="20:31" data-short="Thg 4 10" title="10/04/2026 lúc 20:31">10/04/2026</time>
+</span>
+<span class="info-cate">
+<a href="/thong-bao-noi-quy.f16/">Thông báo - Nội quy</a>
+</span>
+</div>
+</div>
+</div>
+<div class="porta-article-item">
+<div class="article-container">
+<a href="/qua-phat-thu-an-duoc-khong-dung-an-neu-chua-biet-dieu-nay.t1019/" title="Quả phật thủ ăn được không? Đừng ăn nếu chưa biết điều này">
+<h3 class="title">
+<span class="label label--accent" dir="auto">Chia sẻ</span>
+Quả phật thủ ăn được không? Đừng ăn nếu chưa biết điều này
+</h3>
+</a>
+<a href="/qua-phat-thu-an-duoc-khong-dung-an-neu-chua-biet-dieu-nay.t1019/" title="Quả phật thủ ăn được không? Đừng ăn nếu chưa biết điều này">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/qua-phat-thu-an-duoc-khong-dung-an-neu-chua-biet-dieu-nay-1-webp.2716/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/qua-phat-thu-an-duoc-khong-dung-an-neu-chua-biet-dieu-nay.t1019/" title="Quả phật thủ ăn được không? Đừng ăn nếu chưa biết điều này">
+<p class="excerpt">
+Quả phật thủ ăn được không? Câu trả lời là CÓ, nhưng không phải ai cũng biết cách ăn đúng. Đây là loại quả không chỉ mang ý nghĩa tâm linh mà còn có giá trị dinh dưỡng và dược tính đáng chú ý nếu...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/hoaquadungha.m2658/" class="avatar avatar--xxs" data-user-id="2658" data-xf-init="member-tooltip" id="js-XFUniqueId16">
+<img src="/data/avatars/s/2/2658.jpg?1743139341" alt="hoaquadungha" class="avatar-u2658-s" width="48" height="48"> 
+</a>
+<a href="/hoaquadungha.m2658/" class="username" dir="auto" data-user-id="2658" data-xf-init="member-tooltip" id="js-XFUniqueId17">hoaquadungha</a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2026-04-10T18:59:00+0700" data-timestamp="1775822340" data-date="10/04/2026" data-time="18:59" data-short="Thg 4 10" title="10/04/2026 lúc 18:59">10/04/2026</time>
+</span>
+<span class="info-cate">
+<a href="/chuyen-tro-linh-tinh.f13/">Chuyện trò linh tinh</a>
+</span>
+</div>
+</div>
+</div>
+<div class="porta-article-item">
+<div class="article-container">
+<a href="/huong-dan-thay-doi-dia-chi-gmail.t1009/" title="Hướng dẫn thay đổi địa chỉ Gmail">
+<h3 class="title">
+Hướng dẫn thay đổi địa chỉ Gmail
+</h3>
+</a>
+<a href="/huong-dan-thay-doi-dia-chi-gmail.t1009/" title="Hướng dẫn thay đổi địa chỉ Gmail">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/1775116257921-webp.2702/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/huong-dan-thay-doi-dia-chi-gmail.t1009/" title="Hướng dẫn thay đổi địa chỉ Gmail">
+<p class="excerpt">
+Google vừa thông báo người dùng đã có thể thay đổi địa chỉ tài khoản email sử dụng cho Gmail, lịch Google, ảnh Google, Google Drive và nhiều dịch vụ khác của công ty.
+"Nếu địa chỉ email tài khoản...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/ngocdung.m989/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="989" data-xf-init="member-tooltip" style="background-color: #9999cc; color: #3c3c77" id="js-XFUniqueId18">
+<span class="avatar-u989-s" role="img" aria-label="ngocdung">N</span> 
+</a>
+<a href="/ngocdung.m989/" class="username" dir="auto" data-user-id="989" data-xf-init="member-tooltip" id="js-XFUniqueId19"><span class="username--style16 username--staff username--moderator">ngocdung</span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2026-04-02T14:52:00+0700" data-timestamp="1775116320" data-date="02/04/2026" data-time="14:52" data-short="Thg 4 2" title="02/04/2026 lúc 14:52">02/04/2026</time>
+</span>
+<span class="info-cate">
+<a href="/tin-cong-nghe-va-doi-song.f34/">Tin công nghệ và đời sống</a>
+</span>
+</div>
+</div>
+</div>
+<div class="portal-suggest-forums">
+<div class="suggest-forum">
+<div class="suggest-forum-container">
+<a href="/tim-hieu-ve-cac-phan-mem-cuu-ho-may-tinh.t13/" title="Tìm hiểu về các phần mềm cứu hộ máy tính">
+<div class="primary-thread">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/bo-cong-cu-cuu-ho-may-tinh-6-jpg.a1660/)">
+</div>
+<div class="headline">
+Tin học căn bản
+</div>
+<div class="mask mask-1"></div>
+</div>
+<h3 class="title">
+Tìm hiểu về các phần mềm cứu hộ máy tính
+</h3>
+</div>
+</a>
+<li class="other-thread">
+<a href="/active-idm-khong-can-phan-mem-thuoc-cap-nhat-ma-hex-moi.t33/" title="Active IDM không cần phần mềm thuốc, cập nhật mã Hex mới">
+Active IDM không cần phần mềm thuốc, cập nhật mã Hex mới
+</a>
+</li>
+<li class="other-thread">
+<a href="/nhung-cach-hack-facebook-pho-bien-nhat-ma-hacker-thuong-su-dung.t60/" title="Những cách hack facebook phổ biến nhất mà Hacker thường sử dụng">
+Những cách hack facebook phổ biến nhất mà Hacker thường sử dụng
+</a>
+</li>
+<li class="other-thread">
+<a href="/huong-dan-unlock-su-dung-facebook-beta-tren-pc-laptop.t64/" title="Hướng dẫn unlock sử dụng Facebook Beta trên PC/ Laptop">
+Hướng dẫn unlock sử dụng Facebook Beta trên PC/ Laptop
+</a>
+</li>
+</div>
+<a href="/tin-hoc-can-ban.f6/" title="Tin học căn bản">
+<div class="more-threads">
+Thêm chủ đề Tin học căn bản
+</div>
+</a>
+</div>
+<div class="suggest-forum">
+<div class="suggest-forum-container">
+<a href="/vnpay-tao-dot-pha-trong-phuong-thuc-thanh-toan-qr-o-viet-nam.t68/" title="VNPay tạo đột phá trong phương thức thanh toán QR ở Việt Nam">
+<div class="primary-thread">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/gr1-png.a1050/)">
+</div>
+<div class="headline">
+Tin công nghệ và đời sống
+</div>
+<div class="mask mask-2"></div>
+</div>
+<h3 class="title">
+VNPay tạo đột phá trong phương thức thanh toán QR ở Việt Nam
+</h3>
+</div>
+</a>
+<li class="other-thread">
+<a href="/may-loc-khong-khi-co-the-tieu-diet-duoc-virus-corona-hay-khong.t88/" title="Máy lọc không khí có thể tiêu diệt được virus Corona hay không?">
+Máy lọc không khí có thể tiêu diệt được virus Corona hay không?
+</a>
+</li>
+<li class="other-thread">
+<a href="/tiktok-tiet-lo-co-100-trieu-nguoi-dung-hang-thang-o-my-2-ty-luot-tai-tren-toan-the-gioi.t219/" title="TikTok tiết lộ có 100 triệu người dùng hàng tháng ở Mỹ, 2 tỷ lượt tải trên toàn thế giới">
+TikTok tiết lộ có 100 triệu người dùng hàng tháng ở Mỹ, 2 tỷ lượt tải trên toàn thế giới
+</a>
+</li>
+<li class="other-thread">
+<a href="/truc-tiep-su-kien-ra-mat-iphone-12-vao-dem-nay.t273/" title="Trực tiếp sự kiện ra mắt iPhone 12 vào đêm nay">
+Trực tiếp sự kiện ra mắt iPhone 12 vào đêm nay
+</a>
+</li>
+</div>
+<a href="/tin-cong-nghe-va-doi-song.f34/" title="Tin công nghệ và đời sống">
+<div class="more-threads">
+Thêm chủ đề Tin công nghệ và đời sống
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="block porta-article-status">
+<div class="porta-article-ellipse infinite-scroll-request">
+<span class="loader-ellipse-dot"></span>
+<span class="loader-ellipse-dot"></span>
+<span class="loader-ellipse-dot"></span>
+<span class="loader-ellipse-dot"></span>
+</div>
+</div>
+<div class="block porta-article-loader" style="display: block;">
+<button type="button" class="button porta-article-button button--cta"><span class="button-text">Tải thêm…</span></button>
+</div>
+<div class="block porta-article-pager" style="display: none;">
+<div class="block-outer block-outer--after">
+<div class="block-outer-main"><nav class="pageNavWrapper pageNavWrapper--mixed">
+<div class="pageNav pageNav--skipEnd">
+<ul class="pageNav-main">
+<li class="pageNav-page pageNav-page--current"><a href="/">1</a></li>
+<li class="pageNav-page pageNav-page--later"><a href="/ewr-porta/page-2">2</a></li>
+<li class="pageNav-page pageNav-page--later"><a href="/ewr-porta/page-3">3</a></li>
+<li class="pageNav-page pageNav-page--skip pageNav-page--skipEnd">
+<a data-xf-init="tooltip" data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true" data-original-title="Đi đến trang" aria-label="Đi đến trang" id="js-XFUniqueId20">…</a>
+<div class="menu menu--pageJump" data-menu="menu" aria-hidden="true">
+<div class="menu-content">
+<h4 class="menu-header">Đi đến trang</h4>
+<div class="menu-row" data-xf-init="page-jump" data-page-url="/ewr-porta/page-%page%">
+<div class="inputGroup inputGroup--numbers">
+<div class="inputGroup inputGroup--numbers inputNumber inputGroup--joined" data-xf-init="number-box"><input type="number" class="input input--number js-numberBoxTextInput input input--numberNarrow js-pageJumpPage" value="4" min="1" max="23" step="1" required="required" data-menu-autofocus="true"><button type="button" tabindex="-1" title="Increase" aria-label="Increase" data-dir="up" class="inputGroup-text inputNumber-button inputNumber-button--up js-up"></button><button type="button" tabindex="-1" title="Decrease" aria-label="Decrease" data-dir="down" class="inputGroup-text inputNumber-button inputNumber-button--down js-down"></button></div>
+<span class="inputGroup-text"><button type="button" class="button js-pageJumpGo"><span class="button-text">Tới</span></button></span>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="pageNav-page"><a href="/ewr-porta/page-23">23</a></li>
+</ul>
+<a href="/ewr-porta/page-2" class="pageNav-jump pageNav-jump--next">Tiếp</a>
+</div>
+<div class="pageNavSimple">
+<a class="pageNavSimple-el pageNavSimple-el--current" data-xf-init="tooltip" data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true" data-original-title="Đi đến trang" aria-label="Đi đến trang" id="js-XFUniqueId21">
+1 of 23
+</a>
+<div class="menu menu--pageJump" data-menu="menu" aria-hidden="true">
+<div class="menu-content">
+<h4 class="menu-header">Đi đến trang</h4>
+<div class="menu-row" data-xf-init="page-jump" data-page-url="/ewr-porta/page-%page%">
+<div class="inputGroup inputGroup--numbers">
+<div class="inputGroup inputGroup--numbers inputNumber inputGroup--joined" data-xf-init="number-box"><input type="number" class="input input--number js-numberBoxTextInput input input--numberNarrow js-pageJumpPage" value="1" min="1" max="23" step="1" required="required" data-menu-autofocus="true"><button type="button" tabindex="-1" title="Increase" aria-label="Increase" data-dir="up" class="inputGroup-text inputNumber-button inputNumber-button--up js-up"></button><button type="button" tabindex="-1" title="Decrease" aria-label="Decrease" data-dir="down" class="inputGroup-text inputNumber-button inputNumber-button--down js-down"></button></div>
+<span class="inputGroup-text"><button type="button" class="button js-pageJumpGo"><span class="button-text">Tới</span></button></span>
+</div>
+</div>
+</div>
+</div>
+<a href="/ewr-porta/page-2" class="pageNavSimple-el pageNavSimple-el--next">
+Tiếp <i aria-hidden="true"></i>
+</a>
+<a href="/ewr-porta/page-23" class="pageNavSimple-el pageNavSimple-el--last" data-xf-init="tooltip" data-original-title="Last" id="js-XFUniqueId22">
+<i aria-hidden="true"></i> <span class="u-srOnly">Last</span>
+</a>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="portal-block">
+<div class="block-separator"></div>
+</div>
+<div class="tls-block">
+<div id="widget-77" class="block" data-widget-id="77" data-widget-key="new_posts_tt" data-widget-definition="tts_widgets_threads">
+<div class="block-container tts-widget-container">
+<ul class="block-body tts-widget-list">
+<div class="tts-widget-list-item-left">
+<h2 class="tts-widget-list-title">
+Bài viết mới
+</h2>
+<li class="tts-widget-list-item tts-widget-list-item-1">
+<div class="tts-widget-list-item-wrapper">
+<a href="/acp-custom-3-0-2-tich-hop-he-thong-tai-ve-cap-phep-tu-dong.t1070/" class="tts-widget-list-item-cover">
+<img src="https://vn-t.com/tai-ve-vnt-acpcustom-webp.a2852/" alt="" loading="lazy">
+</a>
+<h3 class="tts-widget-list-item-title">
+<a href="/acp-custom-3-0-2-tich-hop-he-thong-tai-ve-cap-phep-tu-dong.t1070/">
+ACP Custom 3.0.2 - Tích hợp Hệ thống tải về &amp; cấp phép tự động
+</a>
+</h3>
+</div>
+</li>
+<li class="tts-widget-list-item tts-widget-list-item-2">
+<div class="tts-widget-list-item-wrapper">
+<h3 class="tts-widget-list-item-title">
+<a href="/vnt-acp-custom-3-0-2-cong-cu-check-auto-fix-hashes-json.t1069/">
+[VNT] ACP Custom 3.0.2 - Công cụ Check &amp; Auto-Fix hashes.json
+</a>
+</h3>
+</div>
+</li>
+<li class="tts-widget-list-item tts-widget-list-item-3">
+<div class="tts-widget-list-item-wrapper">
+<h3 class="tts-widget-list-item-title">
+<a href="/cach-ngam-ruou-la-he-dung-chuan-uong-la-thay-ro.t1024/">
+<span class="label label--accent" dir="auto">Chia sẻ</span>
+Cách ngâm rượu lá hẹ đúng chuẩn, uống là thấy rõ
+</a>
+</h3>
+</div>
+</li>
+<li class="tts-widget-list-item tts-widget-list-item-4">
+<div class="tts-widget-list-item-wrapper">
+<h3 class="tts-widget-list-item-title">
+<a href="/autolock-tu-dong-khoa-iphone-khi-bi-trom-dien-thoai.t1067/">
+AutoLock - Tự động khóa iPhone khi bị trộm điện thoại
+</a>
+</h3>
+</div>
+</li>
+</div>
+<div class="tts-widget-list-item-right">
+<li class="tts-widget-list-item tts-widget-list-item-5">
+<div class="tts-widget-list-item-wrapper">
+<h3 class="tts-widget-list-item-title">
+<a href="/dung-bo-qua-dia-chi-mua-qua-sake-tai-ha-noi-nay.t1064/">
+<span class="label label--accent" dir="auto">Chia sẻ</span>
+Đừng bỏ qua địa chỉ mua quả sake tại Hà Nội này
+</a>
+</h3>
+<a href="/dung-bo-qua-dia-chi-mua-qua-sake-tai-ha-noi-nay.t1064/" class="tts-widget-list-item-cover">
+<img src="https://vn-t.com/1788510256240-webp.a2836/" alt="" loading="lazy">
+</a>
+</div>
+</li>
+<li class="tts-widget-list-item tts-widget-list-item-6">
+<div class="tts-widget-list-item-wrapper">
+<h3 class="tts-widget-list-item-title">
+<a href="/lich-thi-dau-thong-minh-aff-cup-2026.t1063/">
+Lịch thi đấu thông minh AFF Cup 2026
+</a>
+</h3>
+<a href="/lich-thi-dau-thong-minh-aff-cup-2026.t1063/" class="tts-widget-list-item-cover">
+<img src="https://vn-t.com/lich-thi-dau-thong-minh-aff-cup-2026-webp.a2830/" alt="" loading="lazy">
+</a>
+</div>
+</li>
+<li class="tts-widget-list-item tts-widget-list-item-7">
+<div class="tts-widget-list-item-wrapper">
+<h3 class="tts-widget-list-item-title">
+<a href="/5-sai-lam-khi-bo-tri-khu-vuc-nau-an-khien-viec-su-dung-tro-nen-bat-tien.t1057/">
+5 sai lầm khi bố trí khu vực nấu ăn khiến việc sử dụng trở nên bất tiện
+</a>
+</h3>
+</div>
+</li>
+<li class="tts-widget-list-item tts-widget-list-item-8">
+<div class="tts-widget-list-item-wrapper">
+<h3 class="tts-widget-list-item-title">
+<a href="/mua-thiet-bi-nha-bep-thong-minh-dau-tu-dung-de-tiet-kiem.t1050/">
+<span class="label label--accent" dir="auto">Chia sẻ</span>
+Mua thiết bị nhà bếp thông minh: Đầu tư đúng để tiết kiệm
+</a>
+</h3>
+</div>
+</li>
+<li class="tts-widget-list-item tts-widget-list-item-9">
+<div class="tts-widget-list-item-wrapper">
+<h3 class="tts-widget-list-item-title">
+<a href="/user-password-reset-tool-for-xenforo-2.t1049/">
+User Password Reset Tool for Xenforo 2
+</a>
+</h3>
+</div>
+</li>
+<li class="tts-widget-list-item tts-widget-list-item-10">
+<div class="tts-widget-list-item-wrapper">
+<h3 class="tts-widget-list-item-title">
+<a href="/doi-bua-voi-mien-dong-mon-nao-cung-de-lam.t1047/">
+<span class="label label--accent" dir="auto">Chia sẻ</span>
+Đổi bữa với miến dong: Món nào cũng dễ làm
+</a>
+</h3>
+</div>
+</li>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="portal-block">
+<div class="block-separator"></div>
+</div>
+<div class="portal-block portal-trending">
+<div class="portal-block-container">
+<div class="jsx-870675565 header"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 0C7.157 0 0 7.156 0 16c0 8.843 7.156 16 16 16 8.843 0 16-7.156 16-16 0-8.843-7.156-16-16-16zm0 29.5C8.539 29.5 2.5 23.462 2.5 16 2.5 8.539 8.538 2.5 16 2.5c7.461 0 13.5 6.038 13.5 13.5 0 7.461-6.038 13.5-13.5 13.5zm11.25-12.083v-4.75c0-.676-.55-1.25-1.25-1.25h-4.75a1.25 1.25 0 1 0 0 2.5h1.732l-3.648 3.649-5.783-5.783a1.25 1.25 0 0 0-1.768 0L5.116 18.45a1.25 1.25 0 0 0 1.768 1.767l5.783-5.782 5.783 5.782a1.25 1.25 0 0 0 1.767 0l4.533-4.532v1.732a1.25 1.25 0 1 0 2.5 0z" fill="#0768EA"></path></svg>
+<div class="portal-block-header">
+Đang hot
+</div>
+</div>
+<div class="portal-block-content">
+<div class="trend">
+<a href="/acp-custom-3-0-2-tich-hop-he-thong-tai-ve-cap-phep-tu-dong.t1070/" title="ACP Custom 3.0.2 - Tích hợp Hệ thống tải về &amp; cấp phép tự động">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/tai-ve-vnt-acpcustom-webp.a2852/)">
+</div>
+</div>
+</a>
+<div class="content">
+<a href="/cong-dong-ho-tro-xenforo.f32/" title="Cộng đồng hỗ trợ Xenforo">
+<div class="title title-1">
+Cộng đồng hỗ trợ Xenforo
+</div>
+</a>
+<div class="list">
+<div class="item">
+<a href="/acp-custom-3-0-2-tich-hop-he-thong-tai-ve-cap-phep-tu-dong.t1070/" title="ACP Custom 3.0.2 - Tích hợp Hệ thống tải về &amp; cấp phép tự động">
+ACP Custom 3.0.2 - Tích hợp Hệ thống tải về &amp; cấp phép tự động
+</a>
+</div>
+<div class="item">
+<a href="/vnt-acp-custom-3-0-2-cong-cu-check-auto-fix-hashes-json.t1069/" title="[VNT] ACP Custom 3.0.2 - Công cụ Check &amp; Auto-Fix hashes.json">
+[VNT] ACP Custom 3.0.2 - Công cụ Check &amp; Auto-Fix hashes.json
+</a>
+</div>
+<div class="item">
+<a href="/user-password-reset-tool-for-xenforo-2.t1049/" title="User Password Reset Tool for Xenforo 2">
+User Password Reset Tool for Xenforo 2
+</a>
+</div>
+<div class="item">
+<a href="/kich-thanh-vien-trong-cuoc-tro-chuyen-tin-nhan-truc-tiep.t1042/" title="Kích thành viên trong cuộc trò chuyện/ tin nhắn trực tiếp">
+Kích thành viên trong cuộc trò chuyện/ tin nhắn trực tiếp
+</a>
+</div>
+<div class="item">
+<a href="/xoa-tin-nhan-trong-cuoc-tro-chuyen-tren-xenforo-2.t1039/" title="Xóa tin nhắn trong cuộc trò chuyện trên Xenforo 2">
+Xóa tin nhắn trong cuộc trò chuyện trên Xenforo 2
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="trend">
+<a href="/cach-ngam-ruou-la-he-dung-chuan-uong-la-thay-ro.t1024/" title="Cách ngâm rượu lá hẹ đúng chuẩn, uống là thấy rõ">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/cach-ngam-ruou-la-he-dung-chuan-uong-la-thay-ro-1-webp.a2729/)">
+</div>
+</div>
+</a>
+<div class="content">
+<a href="/chuyen-tro-linh-tinh.f13/" title="Chuyện trò linh tinh">
+<div class="title title-2">
+Chuyện trò linh tinh
+</div>
+</a>
+<div class="list">
+<div class="item">
+<a href="/cach-ngam-ruou-la-he-dung-chuan-uong-la-thay-ro.t1024/" title="Cách ngâm rượu lá hẹ đúng chuẩn, uống là thấy rõ">
+Cách ngâm rượu lá hẹ đúng chuẩn, uống là thấy rõ
+</a>
+</div>
+<div class="item">
+<a href="/dung-bo-qua-dia-chi-mua-qua-sake-tai-ha-noi-nay.t1064/" title="Đừng bỏ qua địa chỉ mua quả sake tại Hà Nội này">
+Đừng bỏ qua địa chỉ mua quả sake tại Hà Nội này
+</a>
+</div>
+<div class="item">
+<a href="/5-sai-lam-khi-bo-tri-khu-vuc-nau-an-khien-viec-su-dung-tro-nen-bat-tien.t1057/" title="5 sai lầm khi bố trí khu vực nấu ăn khiến việc sử dụng trở nên bất tiện">
+5 sai lầm khi bố trí khu vực nấu ăn khiến việc sử dụng trở nên bất tiện
+</a>
+</div>
+<div class="item">
+<a href="/mua-thiet-bi-nha-bep-thong-minh-dau-tu-dung-de-tiet-kiem.t1050/" title="Mua thiết bị nhà bếp thông minh: Đầu tư đúng để tiết kiệm">
+Mua thiết bị nhà bếp thông minh: Đầu tư đúng để tiết kiệm
+</a>
+</div>
+<div class="item">
+<a href="/doi-bua-voi-mien-dong-mon-nao-cung-de-lam.t1047/" title="Đổi bữa với miến dong: Món nào cũng dễ làm">
+Đổi bữa với miến dong: Món nào cũng dễ làm
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="portal-block">
+<div class="block-separator"></div>
+</div>
+<div class="portal-block portal-discussions">
+<div class="portal-block-container">
+<div class="jsx-1877159218 header"><svg width="36" height="36" viewBox="0 0 36 36" fill="none" color="#fff" xmlns="http://www.w3.org/2000/svg"><path d="M18 34c8.837 0 16-7.163 16-16S26.837 2 18 2 2 9.163 2 18s7.163 16 16 16z" stroke="#0768EA" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path><mask id="path-2-inside-1" fill="#fff"><path d="M17.5 26a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"></path></mask><path d="M17.5 26a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" fill="#0768EA"></path><path d="M16 24.5a1.5 1.5 0 0 1 1.5-1.5v6a4.5 4.5 0 0 0 4.5-4.5h-6zm1.5-1.5a1.5 1.5 0 0 1 1.5 1.5h-6a4.5 4.5 0 0 0 4.5 4.5v-6zm1.5 1.5a1.5 1.5 0 0 1-1.5 1.5v-6a4.5 4.5 0 0 0-4.5 4.5h6zM17.5 26a1.5 1.5 0 0 1-1.5-1.5h6a4.5 4.5 0 0 0-4.5-4.5v6z" fill="#0768EA" mask="url(#path-2-inside-1)"></path><path d="M15 10.962c1.588-1.433 5.03-1.408 5.705 1.058.883 3.203-3.205 3.217-3.205 7.98" stroke="#0768EA" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+<div class="portal-block-header">
+Câu hỏi cần bạn giúp
+</div>
+</div>
+<div class="portal-block-content">
+<div class="discussions-list">
+<div class="item">
+<a href="/posts/3133/" title="XenForo 2.3 Released Upgrade | Xenforo">
+<div class="main">
+<h3 class="title">
+XenForo 2.3 Released Upgrade | Xenforo
+</h3>
+<div class="content">
+<span class="avatar avatar--xxs" data-user-id="1" title="Admin">
+<img src="/data/avatars/s/0/1.jpg?1574694565" alt="Admin" class="avatar-u1-s" width="48" height="48"> 
+</span>
+<div class="body">
+<div class="author-info">
+<span class="username" dir="auto" data-user-id="1"><span class="username--style7 username--moderator username--admin">Admin<i class="fa--xf fa-fw fas fa-star"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #f1c40f"><title>Admin là thành viên VIP</title><use href="/data/local/icons/solid.svg?v=1790259926#star"></use></svg></i></span></span>
+<time class="u-dt" dir="auto" datetime="2026-09-10T21:35:00+0700" data-timestamp="1789050900" data-date="10/09/2026" data-time="21:35" data-short="25d" title="10/09/2026 lúc 21:35">10/09/2026</time>
+</div>
+<div class="exceprt">
+Admin đã cập nhật XenForo 2.3 Released Upgrade | Xenforo với một phiên bản tài nguyên mới:
+2.3.13
+Điểm nóng nhất của bản phát hành 2.3.13 chính là việc xử lý dứt điểm 14 lỗ hổng an ninh được báo...
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/posts/3139/" title="XenForo 2.3 Released Full | XenForo">
+<div class="main">
+<h3 class="title">
+XenForo 2.3 Released Full | XenForo
+</h3>
+<div class="content">
+<span class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="3" style="background-color: #ebadeb; color: #b82eb8" title="thahtrung06">
+<span class="avatar-u3-s" role="img" aria-label="thahtrung06">T</span> 
+</span>
+<div class="body">
+<div class="author-info">
+<span class="username" dir="auto" data-user-id="3"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+<time class="u-dt" dir="auto" datetime="2026-09-10T21:21:00+0700" data-timestamp="1789050060" data-date="10/09/2026" data-time="21:21" data-short="25d" title="10/09/2026 lúc 21:21">10/09/2026</time>
+</div>
+<div class="exceprt">
+thahtrung06 đã cập nhật XenForo 2.3 Released Full | XenForo với một phiên bản tài nguyên mới:
+2.3.13
+Điểm nóng nhất của bản phát hành 2.3.13 chính là việc xử lý dứt điểm 14 lỗ hổng an ninh được...
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/posts/3132/" title="Thủ thuật kích hoạt CCleaner Pro vĩnh viễn ko cần crack">
+<div class="main">
+<h3 class="title">
+Thủ thuật kích hoạt CCleaner Pro vĩnh viễn ko cần crack
+</h3>
+<div class="content">
+<span class="avatar avatar--xxs" data-user-id="2817" title="nguyenthevu">
+<img src="/data/avatars/s/2/2817.jpg?1788662829" alt="nguyenthevu" class="avatar-u2817-s" width="48" height="48"> 
+</span>
+<div class="body">
+<div class="author-info">
+<span class="username" dir="auto" data-user-id="2817">nguyenthevu</span>
+<time class="u-dt" dir="auto" datetime="2026-09-06T09:52:49+0700" data-timestamp="1788663169" data-date="06/09/2026" data-time="09:52" data-short="29d" title="06/09/2026 lúc 09:52">06/09/2026</time>
+</div>
+<div class="exceprt">
+qua hay
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/posts/3130/" title="[VNT] ACP Custom">
+<div class="main">
+<h3 class="title">
+[VNT] ACP Custom
+</h3>
+<div class="content">
+<span class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="3" style="background-color: #ebadeb; color: #b82eb8" title="thahtrung06">
+<span class="avatar-u3-s" role="img" aria-label="thahtrung06">T</span> 
+</span>
+<div class="body">
+<div class="author-info">
+<span class="username" dir="auto" data-user-id="3"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+<time class="u-dt" dir="auto" datetime="2026-09-02T20:30:00+0700" data-timestamp="1788355800" data-date="02/09/2026" data-time="20:30" data-short="Thg 10 2" title="02/09/2026 lúc 20:30">02/09/2026</time>
+</div>
+<div class="exceprt">
+thahtrung06 đã cập nhật [VNT] ACP Custom với một phiên bản tài nguyên mới:
+3.0.1
+Nâng cấp:
+Thay đổi server và hệ thống kích hoạt addons [VNT] ACP Custom: Bây giờ addons này sẽ kích hoạt bằng...
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="item">
+<a href="/posts/3127/" title="Lịch thi đấu thông minh AFF Cup 2026">
+<div class="main">
+<h3 class="title">
+Lịch thi đấu thông minh AFF Cup 2026
+</h3>
+<div class="content">
+<span class="avatar avatar--xxs" data-user-id="1" title="Admin">
+<img src="/data/avatars/s/0/1.jpg?1574694565" alt="Admin" class="avatar-u1-s" width="48" height="48"> 
+</span>
+<div class="body">
+<div class="author-info">
+<span class="username" dir="auto" data-user-id="1"><span class="username--style7 username--moderator username--admin">Admin<i class="fa--xf fa-fw fas fa-star"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #f1c40f"><title>Admin là thành viên VIP</title><use href="/data/local/icons/solid.svg?v=1790259926#star"></use></svg></i></span></span>
+<time class="u-dt" dir="auto" datetime="2026-08-11T08:28:55+0700" data-timestamp="1786411735" data-date="11/08/2026" data-time="08:28" data-short="Thg 8 11" title="11/08/2026 lúc 08:28">11/08/2026</time>
+</div>
+<div class="exceprt">
+Cập nhật kết quả, lịch thi đấu AFF Cup 2026 đến vòng bán kết.
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="portal-block portal-hightlights">
+<div class="portal-block-container">
+<div class="portal-block-content">
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+const slidesPerViewDesktop = 3;
+const slidesPerViewMobile = 2;
+let slidesPerGroup;
+let totalBullets;
+let swiper;
+function initSwiper() {
+const windowWidth = window.innerWidth;
+slidesPerGroup = windowWidth >= 768 ? slidesPerViewDesktop : slidesPerViewMobile;
+const totalSlides = document.querySelectorAll('.top-threads-slider .swiper-slide').length;
+totalBullets = Math.ceil(totalSlides / slidesPerGroup);
+swiper = new Swiper('.top-threads-slider', {
+slidesPerView: 2,
+spaceBetween: 10,
+slidesPerGroup: slidesPerGroup,
+loop: false,
+pagination: {
+el: '.pagination-dots',
+clickable: true,
+renderBullet: function (index, className) {
+if (index >= totalBullets) return '';
+return '<span class="' + className +'"></span>';
+},
+},
+breakpoints: {
+768: {
+slidesPerView: 3,
+}
+},
+});
+document.querySelectorAll('.pagination-dots span').forEach((bullet, index) => {
+bullet.onclick = () => {
+const slideIndex = index * slidesPerGroup;
+swiper.slideTo(slideIndex);
+};
+});
+}
+function updateSwiper() {
+if (swiper) {
+swiper.destroy(true, true);
+}
+initSwiper();
+}
+initSwiper();
+window.addEventListener('resize', () => {
+updateSwiper();
+});
+});
+</script>
+<div class="top-threads">
+<div class="top-threads-header">
+Chủ đề hàng đầu
+</div>
+<div class="top-threads-container">
+<div class="top-threads-slider swiper swiper-initialized swiper-horizontal">
+<div class="swiper-wrapper" id="swiper-wrapper-ce5d46c255c56680" aria-live="polite">
+<div class="swiper-slide top-thread swiper-slide-active" id="top-thread-33" role="group" aria-label="1 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/active-idm-khong-can-phan-mem-thuoc-cap-nhat-ma-hex-moi.t33/" title="Active IDM không cần phần mềm thuốc, cập nhật mã Hex mới" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/hex-jpg.a18/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Active IDM không cần phần mềm thuốc, cập nhật mã Hex mới
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="4"><span class="username--style3 username--staff username--moderator username--admin">tienlinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>tienlinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread swiper-slide-next" id="top-thread-51" role="group" aria-label="2 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/windows-10-activation-keys-all-editions.t51/" title="Windows 10 activation keys (all editions)" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/1582171556394-png.a95/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Windows 10 activation keys (all editions)
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="14"><span class="username--style14 username--staff username--moderator">Xinchao<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>Xinchao đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-35" role="group" aria-label="3 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/share-key-office-2019-2021.t35/" title="Share key Office 2019, 2021" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/key-office-2019-png.a123/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Share key Office 2019, 2021
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="14"><span class="username--style14 username--staff username--moderator">Xinchao<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>Xinchao đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-113" role="group" aria-label="4 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/cac-cong-cu-get-cid-key-retail-hieu-qua-de-kich-hoat-windows-office.t113/" title="Các công cụ get CID key Retail hiệu quả để kích hoạt Windows/ Office" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/1585197539783-png.a143/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Các công cụ get CID key Retail hiệu quả để kích hoạt Windows/ Office
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="3"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-222" role="group" aria-label="5 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/tl-post-reply.t222/" title="[tl] Post Reply" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://i.imgur.com/VOb6EjP.jpg)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+[tl] Post Reply
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="1"><span class="username--style7 username--moderator username--admin">Admin<i class="fa--xf fa-fw fas fa-star"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #f1c40f"><title>Admin là thành viên VIP</title><use href="/data/local/icons/solid.svg?v=1790259926#star"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-740" role="group" aria-label="6 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/huong-dan-nang-toc-do-bang-thong-mang-lan-tu-100-mbps-len-1-gbps.t740/" title="Hướng dẫn nâng tốc độ băng thông mạng Lan từ 100 Mbps lên 1 Gbps" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/mang-lan-jpg.a1923/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Hướng dẫn nâng tốc độ băng thông mạng Lan từ 100 Mbps lên 1 Gbps
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="1"><span class="username--style7 username--moderator username--admin">Admin<i class="fa--xf fa-fw fas fa-star"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #f1c40f"><title>Admin là thành viên VIP</title><use href="/data/local/icons/solid.svg?v=1790259926#star"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-30" role="group" aria-label="7 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/key-win-10-enterprises-ltsc-2019.t30/" title="Key Win 10 Enterprises LTSC 2019" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://i.imgur.com/VOb6EjP.jpg)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Key Win 10 Enterprises LTSC 2019
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="4"><span class="username--style3 username--staff username--moderator username--admin">tienlinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>tienlinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-11" role="group" aria-label="8 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/nhan-ho-tro-get-cid-kich-hoat-windows-7-11-va-office-2010-2021-qua-teamviewer.t11/" title="Nhận hỗ trợ get CID &amp; kích hoạt Windows 7-11 và Office 2010-2021 qua Teamviewer" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/microsoft-office-jpg.a7/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Nhận hỗ trợ get CID &amp; kích hoạt Windows 7-11 và Office 2010-2021 qua Teamviewer
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="3"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-38" role="group" aria-label="9 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/nhan-biet-windows-va-office-ban-quyen-hay-da-crack.t38/" title="Nhận biết Windows và Office bản quyền hay đã Crack" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/bq-1-jpg.a23/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Nhận biết Windows và Office bản quyền hay đã Crack
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="3"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-98" role="group" aria-label="10 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/huong-dan-root-android-khong-can-may-tinh.t98/" title="Hướng dẫn Root Android không cần máy tính" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/root-android-khong-can-may-tinh-jpg.a114/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Hướng dẫn Root Android không cần máy tính
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="6"><span class="username--style5 username--staff username--moderator username--admin">ngoclinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>ngoclinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-807" role="group" aria-label="11 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/top-10-ngoi-chua-o-mien-nam-noi-tieng-nhat.t807/" title="Top 10 ngôi chùa ở miền nam nổi tiếng nhất" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/1699536000407-png.a2097/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Top 10 ngôi chùa ở miền nam nổi tiếng nhất
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="1661">thanhnienmoi12</span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-629" role="group" aria-label="12 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/giai-phong-dung-luong-o-c-vi-zalo-pc-chiem-qua-nhieu.t629/" title="Giải phóng dung lượng ổ C vì Zalo PC chiếm quá nhiều" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/giai_phong_dung_luong_c-png.a1561/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Giải phóng dung lượng ổ C vì Zalo PC chiếm quá nhiều
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="6"><span class="username--style5 username--staff username--moderator username--admin">ngoclinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>ngoclinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-34" role="group" aria-label="13 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/key-office-2016-va-2013-pro-plus-vl-online-con-nghin-luot.t34/" title="Key Office 2016 và 2013 Pro Plus VL online còn nghìn lượt" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/office-2013-2016-jpg.a601/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Key Office 2016 và 2013 Pro Plus VL online còn nghìn lượt
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="6"><span class="username--style5 username--staff username--moderator username--admin">ngoclinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>ngoclinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-743" role="group" aria-label="14 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/nhan-biet-bill-chuyen-tien-gia-de-khong-bi-mac-bay-lua-dao.t743/" title="Nhận biết bill chuyển tiền giả để không bị mắc bẫy lừa đảo" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/photo-4-168074618157140596263-jpg.a1944/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Nhận biết bill chuyển tiền giả để không bị mắc bẫy lừa đảo
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="3"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide top-thread" id="top-thread-488" role="group" aria-label="15 / 15" style="width: 245.333px; margin-right: 10px;">
+<a href="/san-ngoai-hoi-duoc-coi-la-lua-dao-hinh-thuc-rua-tien.t488/" title="Sàn Ngoại Hối Được Coi Là Lừa Đảo &amp; Hình Thức Rửa Tiền" class="thread-container">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/3_76de3f49453646bfb5d42fc3f57ef021-jpg.a1826/)">
+</div>
+</div>
+<div class="content">
+<h3 class="title">
+Sàn Ngoại Hối Được Coi Là Lừa Đảo &amp; Hình Thức Rửa Tiền
+</h3>
+<div class="info">
+<span class="username" dir="auto" data-user-id="2"><span class="username--style19 username--staff username--moderator username--admin">Binzz</span></span>
+</div>
+</div>
+</a>
+</div>
+</div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+<div class="pagination-dots swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal" style="text-align: center; margin: 10px 0 4px"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0"></span><span class="swiper-pagination-bullet" tabindex="0"></span><span class="swiper-pagination-bullet" tabindex="0"></span><span class="swiper-pagination-bullet" tabindex="0"></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="portal-block">
+<div class="block-separator"></div>
+</div>
+<div class="portal-block portal-video">
+<div class="portal-block-container">
+<div class="portal-block-header">
+<i class="fa--xf fab fa-youtube"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/brands.svg?v=1790259926#youtube"></use></svg></i>
+Video tuyển chọn
+</div>
+<div class="portal-block-content">
+<div class="youtube-video-container">
+<div class="iframe">
+<div class="main">
+<div class="iframe-wrapper" data-current-id="EKNBFrZR6HE">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKNBFrZR6HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+</div>
+<div class="others">
+<li class="other-video">
+<div class="change-video is-active" data-xf-click="js-changeYoutubeVideo" data-video-id="EKNBFrZR6HE">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://img.youtube.com/vi/EKNBFrZR6HE/maxresdefault.jpg')" loading="lazy">
+</div>
+</div>
+</div>
+</li>
+<li class="other-video">
+<div class="change-video" data-xf-click="js-changeYoutubeVideo" data-video-id="WVu7xeebPNs">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://img.youtube.com/vi/WVu7xeebPNs/maxresdefault.jpg')" loading="lazy">
+</div>
+</div>
+</div>
+</li>
+<li class="other-video">
+<div class="change-video" data-xf-click="js-changeYoutubeVideo" data-video-id="pLdKgMfxCQ8">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://img.youtube.com/vi/pLdKgMfxCQ8/maxresdefault.jpg')" loading="lazy">
+</div>
+</div>
+</div>
+</li>
+<li class="other-video">
+<div class="change-video" data-xf-click="js-changeYoutubeVideo" data-video-id="uOUIUU9Bir0">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://img.youtube.com/vi/uOUIUU9Bir0/maxresdefault.jpg')" loading="lazy">
+</div>
+</div>
+</div>
+</li>
+<li class="other-video">
+<div class="change-video" data-xf-click="js-changeYoutubeVideo" data-video-id="BtRhKCZTQVg">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://img.youtube.com/vi/BtRhKCZTQVg/maxresdefault.jpg')" loading="lazy">
+</div>
+</div>
+</div>
+</li>
+<li class="other-video">
+<div class="change-video" data-xf-click="js-changeYoutubeVideo" data-video-id="VGoOhix6h_E">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://img.youtube.com/vi/VGoOhix6h_E/maxresdefault.jpg')" loading="lazy">
+</div>
+</div>
+</div>
+</li>
+<li class="other-video">
+<div class="change-video" data-xf-click="js-changeYoutubeVideo" data-video-id="064lgmqi3sc">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://img.youtube.com/vi/064lgmqi3sc/maxresdefault.jpg')" loading="lazy">
+</div>
+</div>
+</div>
+</li>
+<li class="other-video">
+<div class="change-video" data-xf-click="js-changeYoutubeVideo" data-video-id="-ZT5mC8uY5k">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://img.youtube.com/vi/-ZT5mC8uY5k/maxresdefault.jpg')" loading="lazy">
+</div>
+</div>
+</div>
+</li>
+</div>
+</div>
+</div>	
+</div>
+</div>
+</div>
+<div class="porta-articles-below-full">
+<div class="block">
+<div class="porta-articles-widget block-container">
+<ul class="block-body" data-widget-id="75" data-widget-key="article_tech" data-widget-definition="EWRporta_articles">
+<div class="porta-article-item">
+<div class="article-container">
+<a href="/canh-bao-trang-zalo-web-gia-mao-anh-em-can-than.t839/" title="Cảnh báo trang Zalo Web giả mạo anh em cẩn thận">
+<h3 class="title">
+Cảnh báo trang Zalo Web giả mạo anh em cẩn thận
+</h3>
+</a>
+<a href="/canh-bao-trang-zalo-web-gia-mao-anh-em-can-than.t839/" title="Cảnh báo trang Zalo Web giả mạo anh em cẩn thận">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/zalo-fake-1-png-png.2146/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/canh-bao-trang-zalo-web-gia-mao-anh-em-can-than.t839/" title="Cảnh báo trang Zalo Web giả mạo anh em cẩn thận">
+<p class="excerpt">
+Khi search Google chữ "zalo sẽ thu được kết quả rất nhiều trang liên quan tới Zalo, nhưng ở thời điểm hiện tại, Zalo PC chỉ có trang Zalo.me/pc, còn các trang như Zaloweb.me/zalo-pc, Zaloweb.vn...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/thahtrung06.m3/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="3" data-xf-init="member-tooltip" style="background-color: #ebadeb; color: #b82eb8" id="js-XFUniqueId23">
+<span class="avatar-u3-s" role="img" aria-label="thahtrung06">T</span> 
+</a>
+<a href="/thahtrung06.m3/" class="username" dir="auto" data-user-id="3" data-xf-init="member-tooltip" id="js-XFUniqueId24"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2024-02-11T19:19:00+0700" data-timestamp="1707653940" data-date="11/02/2024" data-time="19:19" data-short="Thg 2 '24" title="11/02/2024 lúc 19:19">11/02/2024</time>
+</span>
+<span class="info-cate">
+<a href="/tin-hoc-can-ban.f6/">Tin học căn bản</a>
+</span>
+</div>
+</div>
+</div><div class="porta-article-item">
+<div class="article-container">
+<a href="/loi-rufus-khong-the-tai-xuong-windows-iso-trong-qua-trinh-tao-boot.t682/" title="Lỗi Rufus không thể tải xuống Windows ISO trong quá trình tạo boot">
+<h3 class="title">
+Lỗi Rufus không thể tải xuống Windows ISO trong quá trình tạo boot
+</h3>
+</a>
+<a href="/loi-rufus-khong-the-tai-xuong-windows-iso-trong-qua-trinh-tao-boot.t682/" title="Lỗi Rufus không thể tải xuống Windows ISO trong quá trình tạo boot">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/1660545113464-png.1703/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/loi-rufus-khong-the-tai-xuong-windows-iso-trong-qua-trinh-tao-boot.t682/" title="Lỗi Rufus không thể tải xuống Windows ISO trong quá trình tạo boot">
+<p class="excerpt">
+Rufus là công cụ tạo ổ boot khởi động Windows miễn phí và dễ sử dụng, một trong những tính năng tiện lợi của công cụ này là có thể tải trực tiếp file ISO chính thức từ Microsoft. Thế nhưng mới...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/tienlinh.m4/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="4" data-xf-init="member-tooltip" style="background-color: #145252; color: #47d1d1" id="js-XFUniqueId25">
+<span class="avatar-u4-s" role="img" aria-label="tienlinh">T</span> 
+</a>
+<a href="/tienlinh.m4/" class="username" dir="auto" data-user-id="4" data-xf-init="member-tooltip" id="js-XFUniqueId26"><span class="username--style3 username--staff username--moderator username--admin">tienlinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>tienlinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2022-08-15T13:37:00+0700" data-timestamp="1660545420" data-date="15/08/2022" data-time="13:37" data-short="Thg 8 '22" title="15/08/2022 lúc 13:37">15/08/2022</time>
+</span>
+<span class="info-cate">
+<a href="/tin-cong-nghe-va-doi-song.f34/">Tin công nghệ và đời sống</a>
+</span>
+</div>
+</div>
+</div><div class="porta-article-item">
+<div class="article-container">
+<a href="/microsoft-da-tim-ra-nguyen-nhan-khien-cpu-bi-treo-tren-windows-11.t677/" title="Microsoft đã tìm ra nguyên nhân khiến CPU bị treo trên Windows 11">
+<h3 class="title">
+Microsoft đã tìm ra nguyên nhân khiến CPU bị treo trên Windows 11
+</h3>
+</a>
+<a href="/microsoft-da-tim-ra-nguyen-nhan-khien-cpu-bi-treo-tren-windows-11.t677/" title="Microsoft đã tìm ra nguyên nhân khiến CPU bị treo trên Windows 11">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/sihostexe-windows-11-png.1694/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/microsoft-da-tim-ra-nguyen-nhan-khien-cpu-bi-treo-tren-windows-11.t677/" title="Microsoft đã tìm ra nguyên nhân khiến CPU bị treo trên Windows 11">
+<p class="excerpt">
+Kể từ khi hệ điều hành Windows 11 được phát hành, bên cạnh những ý kiến tích cực khi sử dụng hệ điều hành mới này, cũng có nhiều phản hồi về việc CPU cao bất thường khiến hệ thống bị đơ gây khó...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/ngoclinh.m6/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="6" data-xf-init="member-tooltip" style="background-color: #cc8f33; color: #3d2b0f" id="js-XFUniqueId27">
+<span class="avatar-u6-s" role="img" aria-label="ngoclinh">N</span> 
+</a>
+<a href="/ngoclinh.m6/" class="username" dir="auto" data-user-id="6" data-xf-init="member-tooltip" id="js-XFUniqueId28"><span class="username--style5 username--staff username--moderator username--admin">ngoclinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>ngoclinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2022-08-08T09:44:00+0700" data-timestamp="1659926640" data-date="08/08/2022" data-time="09:44" data-short="Thg 8 '22" title="08/08/2022 lúc 09:44">08/08/2022</time>
+</span>
+<span class="info-cate">
+<a href="/windows-11.f39/">Windows 11</a>
+</span>
+</div>
+</div>
+</div><div class="porta-article-item">
+<div class="article-container">
+<a href="/cach-tao-thu-muc-tren-menu-start-windows-11-tien-loi-va-don-gian.t675/" title="Cách tạo thư mục trên menu Start Windows 11 tiện lợi và đơn giản">
+<h3 class="title">
+Cách tạo thư mục trên menu Start Windows 11 tiện lợi và đơn giản
+</h3>
+</a>
+<a href="/cach-tao-thu-muc-tren-menu-start-windows-11-tien-loi-va-don-gian.t675/" title="Cách tạo thư mục trên menu Start Windows 11 tiện lợi và đơn giản">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/tao-cac-thu-muc-trong-menu-start-cua-windows-11-1-jpg.1684/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/cach-tao-thu-muc-tren-menu-start-windows-11-tien-loi-va-don-gian.t675/" title="Cách tạo thư mục trên menu Start Windows 11 tiện lợi và đơn giản">
+<p class="excerpt">
+Windows 11 được ra mắt với nhiều cải tiến thú vị và hữu ích. Một trong những tính năng hay giúp người dùng quản lý ứng dụng của mình tốt nhất đó chính là tính năng tạo thư mục trên menu Start.
+Lợi...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/ngoclinh.m6/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="6" data-xf-init="member-tooltip" style="background-color: #cc8f33; color: #3d2b0f" id="js-XFUniqueId29">
+<span class="avatar-u6-s" role="img" aria-label="ngoclinh">N</span> 
+</a>
+<a href="/ngoclinh.m6/" class="username" dir="auto" data-user-id="6" data-xf-init="member-tooltip" id="js-XFUniqueId30"><span class="username--style5 username--staff username--moderator username--admin">ngoclinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>ngoclinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2022-08-04T14:03:00+0700" data-timestamp="1659596580" data-date="04/08/2022" data-time="14:03" data-short="Thg 8 '22" title="04/08/2022 lúc 14:03">04/08/2022</time>
+</span>
+<span class="info-cate">
+<a href="/windows-11.f39/">Windows 11</a>
+</span>
+</div>
+</div>
+</div><div class="porta-article-item">
+<div class="article-container">
+<a href="/tai-ghost-win-7-ultimate-full-soft-full-driver-v5-tot-nhat-2022.t671/" title="Tải Ghost Win 7 Ultimate Full Soft Full Driver v5 tốt nhất 2022">
+<h3 class="title">
+<span class="label label--accent" dir="auto">Chia sẻ</span>
+Tải Ghost Win 7 Ultimate Full Soft Full Driver v5 tốt nhất 2022
+</h3>
+</a>
+<a href="/tai-ghost-win-7-ultimate-full-soft-full-driver-v5-tot-nhat-2022.t671/" title="Tải Ghost Win 7 Ultimate Full Soft Full Driver v5 tốt nhất 2022">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/o03xuif-jpg.1674/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/tai-ghost-win-7-ultimate-full-soft-full-driver-v5-tot-nhat-2022.t671/" title="Tải Ghost Win 7 Ultimate Full Soft Full Driver v5 tốt nhất 2022">
+<p class="excerpt">
+Ghost Win 7 Ultimate Full Soft Full Driver là phiên bản Ghost tốt nhất hiện nay, tích hợp đầy đủ các phần mềm ứng dụng cần thiết, cộng với đó là Ghost Win 7 Ultimate sẽ tự động cài trọn bộ Driver...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/ngoclinh.m6/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="6" data-xf-init="member-tooltip" style="background-color: #cc8f33; color: #3d2b0f" id="js-XFUniqueId31">
+<span class="avatar-u6-s" role="img" aria-label="ngoclinh">N</span> 
+</a>
+<a href="/ngoclinh.m6/" class="username" dir="auto" data-user-id="6" data-xf-init="member-tooltip" id="js-XFUniqueId32"><span class="username--style5 username--staff username--moderator username--admin">ngoclinh<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>ngoclinh đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2022-07-28T12:05:00+0700" data-timestamp="1658984700" data-date="28/07/2022" data-time="12:05" data-short="Thg 7 '22" title="28/07/2022 lúc 12:05">28/07/2022</time>
+</span>
+<span class="info-cate">
+<a href="/he-dieu-hanh-windows.f9/">Hệ điều hành Windows</a>
+</span>
+</div>
+</div>
+</div>
+</ul>
+</div>
+</div>
+<div class="portal-block">
+<div id="widget--51" class="block is-noTitle" data-widget-id="51" data-widget-key="news_amusing" data-widget-definition="v_core_widget_new_threads">
+<div class="v-widget-container style-cardSlider swiper-container swiper-51 swiper-initialized swiper-horizontal swiper-free-mode swiper-backface-hidden">
+<h2 class="block-minorHeader">
+Tin tức - Giải trí
+</h2>
+<div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-disabled="true"><svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
+<div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide"><svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
+<ul class="block-body swiper-wrapper" id="swiper-wrapper-65d2e49e83905ef7" aria-live="polite">
+<li class="-item swiper-slide swiper-slide-active" role="group" aria-label="1 / 6" style="width: 240px; margin-right: 20px;">
+<a href="/cach-ngam-ruou-la-he-dung-chuan-uong-la-thay-ro.t1024/" class="--cover --slidePerView-3">
+<img src="https://vn-t.com/cach-ngam-ruou-la-he-dung-chuan-uong-la-thay-ro-1-webp.a2729/" alt="Cách ngâm rượu lá hẹ đúng chuẩn, uống là thấy rõ" loading="lazy">
+</a>
+<h3 class="--title">
+<a href="/cach-ngam-ruou-la-he-dung-chuan-uong-la-thay-ro.t1024/">
+Cách ngâm rượu lá hẹ đúng chuẩn, uống là thấy rõ</a>
+</h3>
+</li>
+<li class="-item swiper-slide swiper-slide-next" role="group" aria-label="2 / 6" style="width: 240px; margin-right: 20px;">
+<a href="/dung-bo-qua-dia-chi-mua-qua-sake-tai-ha-noi-nay.t1064/" class="--cover --slidePerView-3">
+<img src="https://vn-t.com/1788510256240-webp.a2836/" alt="Đừng bỏ qua địa chỉ mua quả sake tại Hà Nội này" loading="lazy">
+</a>
+<h3 class="--title">
+<a href="/dung-bo-qua-dia-chi-mua-qua-sake-tai-ha-noi-nay.t1064/">
+Đừng bỏ qua địa chỉ mua quả sake tại Hà Nội này</a>
+</h3>
+</li>
+<li class="-item swiper-slide" role="group" aria-label="3 / 6" style="width: 240px; margin-right: 20px;">
+<a href="/lich-thi-dau-thong-minh-aff-cup-2026.t1063/" class="--cover --slidePerView-3">
+<img src="https://vn-t.com/lich-thi-dau-thong-minh-aff-cup-2026-webp.a2830/" alt="Lịch thi đấu thông minh AFF Cup 2026" loading="lazy">
+</a>
+<h3 class="--title">
+<a href="/lich-thi-dau-thong-minh-aff-cup-2026.t1063/">
+Lịch thi đấu thông minh AFF Cup 2026</a>
+</h3>
+</li>
+<li class="-item swiper-slide" role="group" aria-label="4 / 6" style="width: 240px; margin-right: 20px;">
+<a href="/5-sai-lam-khi-bo-tri-khu-vuc-nau-an-khien-viec-su-dung-tro-nen-bat-tien.t1057/" class="--cover --slidePerView-3">
+<img src="https://vn-t.com/1783992885832-webp.a2820/" alt="5 sai lầm khi bố trí khu vực nấu ăn khiến việc sử dụng trở nên bất tiện" loading="lazy">
+</a>
+<h3 class="--title">
+<a href="/5-sai-lam-khi-bo-tri-khu-vuc-nau-an-khien-viec-su-dung-tro-nen-bat-tien.t1057/">
+5 sai lầm khi bố trí khu vực nấu ăn khiến việc sử dụng trở nên bất tiện</a>
+</h3>
+</li>
+<li class="-item swiper-slide" role="group" aria-label="5 / 6" style="width: 240px; margin-right: 20px;">
+<a href="/mua-thiet-bi-nha-bep-thong-minh-dau-tu-dung-de-tiet-kiem.t1050/" class="--cover --slidePerView-3">
+<img src="https://vn-t.com/images-webp.a2812/" alt="Mua thiết bị nhà bếp thông minh: Đầu tư đúng để tiết kiệm" loading="lazy">
+</a>
+<h3 class="--title">
+<a href="/mua-thiet-bi-nha-bep-thong-minh-dau-tu-dung-de-tiet-kiem.t1050/">
+Mua thiết bị nhà bếp thông minh: Đầu tư đúng để tiết kiệm</a>
+</h3>
+</li>
+<li class="-item swiper-slide" role="group" aria-label="6 / 6" style="width: 240px; margin-right: 20px;">
+<a href="/doi-bua-voi-mien-dong-mon-nao-cung-de-lam.t1047/" class="--cover --slidePerView-3">
+<img src="https://vn-t.com/1782956360132-webp.a2804/" alt="Đổi bữa với miến dong: Món nào cũng dễ làm" loading="lazy">
+</a>
+<h3 class="--title">
+<a href="/doi-bua-voi-mien-dong-mon-nao-cung-de-lam.t1047/">
+Đổi bữa với miến dong: Món nào cũng dễ làm</a>
+</h3>
+</li>
+</ul>
+<div class="swiper-scrollbar swiper-scrollbar-horizontal" style="opacity: 0; transition-duration: 400ms;"><div class="swiper-scrollbar-drag" style="width: 375.065px; transform: translate3d(0px, 0px, 0px);"></div></div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+</div>
+</div>
+<div class="block">
+<div class="porta-articles-widget block-container">
+<ul class="block-body" data-widget-id="53" data-widget-key="article_test" data-widget-definition="EWRporta_articles">
+<div class="porta-article-item">
+<div class="article-container">
+<a href="/microsoft-365-office-365-mien-phi-nang-cap-mail-ca-nhan-ban-quyen-1-nam.t752/" title="Microsoft 365 (Office 365): Miễn phí nâng cấp mail cá nhân bản quyền 1 năm">
+<h3 class="title">
+Microsoft 365 (Office 365): Miễn phí nâng cấp mail cá nhân bản quyền 1 năm
+</h3>
+</a>
+<a href="/microsoft-365-office-365-mien-phi-nang-cap-mail-ca-nhan-ban-quyen-1-nam.t752/" title="Microsoft 365 (Office 365): Miễn phí nâng cấp mail cá nhân bản quyền 1 năm">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/personal-png.1962/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/microsoft-365-office-365-mien-phi-nang-cap-mail-ca-nhan-ban-quyen-1-nam.t752/" title="Microsoft 365 (Office 365): Miễn phí nâng cấp mail cá nhân bản quyền 1 năm">
+<p class="excerpt">
+Mọi người hãy để lại bình luận tên mail muốn nâng cấp mình sẽ Nâng cấp lên Microsoft 365 miễn phí.
+Khi nâng cấp mọi người sẽ được những lợi ích sau đây:
+1. Gói nâng cấp Microsoft 365 với Mail...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/ms365vn.m2287/" class="avatar avatar--xxs" data-user-id="2287" data-xf-init="member-tooltip" id="js-XFUniqueId33">
+<img src="/data/avatars/s/2/2287.jpg?1675762202" alt="ms365vn" class="avatar-u2287-s" width="48" height="48"> 
+</a>
+<a href="/ms365vn.m2287/" class="username" dir="auto" data-user-id="2287" data-xf-init="member-tooltip" id="js-XFUniqueId34">ms365vn</a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2023-04-20T15:57:00+0700" data-timestamp="1681981020" data-date="20/04/2023" data-time="15:57" data-short="Thg 4 '23" title="20/04/2023 lúc 15:57">20/04/2023</time>
+</span>
+<span class="info-cate">
+<a href="/kich-hoat-windows-office-mien-phi.f10/">Kích hoạt Windows/ Office miễn phí</a>
+</span>
+</div>
+</div>
+</div><div class="porta-article-item">
+<div class="article-container">
+<a href="/tang-ngay-goi-vip-1-cho-thanh-vien-thu-2k-tren-forum-vnt.t692/" title="Tặng ngay gói VIP 1 cho thành viên thứ 2k trên forum VNT">
+<h3 class="title">
+Tặng ngay gói VIP 1 cho thành viên thứ 2k trên forum VNT
+</h3>
+</a>
+<a href="/tang-ngay-goi-vip-1-cho-thanh-vien-thu-2k-tren-forum-vnt.t692/" title="Tặng ngay gói VIP 1 cho thành viên thứ 2k trên forum VNT">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/tang-vip-1-jpg.1732/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/tang-ngay-goi-vip-1-cho-thanh-vien-thu-2k-tren-forum-vnt.t692/" title="Tặng ngay gói VIP 1 cho thành viên thứ 2k trên forum VNT">
+<p class="excerpt">
+Đến hôm nay, sau hơn 2 năm hoạt động và phát triển, forum VNT sắp đạt được cột mốc 2.000 thành viên. Đó là thành quả của sự nỗ lực và cố gắng lớn của các thành viên trong BQT diễn đàn VNT.
+Để...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/admin.m1/" class="avatar avatar--xxs" data-user-id="1" data-xf-init="member-tooltip" id="js-XFUniqueId35">
+<img src="/data/avatars/s/0/1.jpg?1574694565" alt="Admin" class="avatar-u1-s" width="48" height="48"> 
+</a>
+<a href="/admin.m1/" class="username" dir="auto" data-user-id="1" data-xf-init="member-tooltip" id="js-XFUniqueId36"><span class="username--style7 username--moderator username--admin">Admin<i class="fa--xf fa-fw fas fa-star"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #f1c40f"><title>Admin là thành viên VIP</title><use href="/data/local/icons/solid.svg?v=1790259926#star"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2022-09-15T15:46:00+0700" data-timestamp="1663231560" data-date="15/09/2022" data-time="15:46" data-short="Thg 10 '22" title="15/09/2022 lúc 15:46">15/09/2022</time>
+</span>
+<span class="info-cate">
+<a href="/thong-bao-noi-quy.f16/">Thông báo - Nội quy</a>
+</span>
+</div>
+</div>
+</div><div class="porta-article-item">
+<div class="article-container">
+<a href="/bi-an-bong-den-soi-dot-sang-lau-nhat-the-gioi-hon-100-nam-chua-hong.t689/" title="Bí ẩn bóng đèn sợi đốt sáng lâu nhất thế giới, hơn 100 năm chưa hỏng">
+<h3 class="title">
+Bí ẩn bóng đèn sợi đốt sáng lâu nhất thế giới, hơn 100 năm chưa hỏng
+</h3>
+</a>
+<a href="/bi-an-bong-den-soi-dot-sang-lau-nhat-the-gioi-hon-100-nam-chua-hong.t689/" title="Bí ẩn bóng đèn sợi đốt sáng lâu nhất thế giới, hơn 100 năm chưa hỏng">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/photo-1-1655864128210210434746-png.1722/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/bi-an-bong-den-soi-dot-sang-lau-nhat-the-gioi-hon-100-nam-chua-hong.t689/" title="Bí ẩn bóng đèn sợi đốt sáng lâu nhất thế giới, hơn 100 năm chưa hỏng">
+<p class="excerpt">
+Ra đời từ hơn 100 năm trước, bóng đèn sợi đốt này hầu như thắp sáng liên tục từ đó đến nay, chỉ được tắt đi trong một khoảng thời gian rất ngắn.
+Thông thường, các bóng đèn sợi đốt chỉ có tuổi thọ...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/ldtd.m1500/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="1500" data-xf-init="member-tooltip" style="background-color: #2985a3; color: #051114" id="js-XFUniqueId37">
+<span class="avatar-u1500-s" role="img" aria-label="LDTD">L</span> 
+</a>
+<a href="/ldtd.m1500/" class="username" dir="auto" data-user-id="1500" data-xf-init="member-tooltip" id="js-XFUniqueId38"><span class="username--style14">LDTD<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>LDTD đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2022-09-06T14:12:00+0700" data-timestamp="1662448320" data-date="06/09/2022" data-time="14:12" data-short="Thg 10 '22" title="06/09/2022 lúc 14:12">06/09/2022</time>
+</span>
+<span class="info-cate">
+<a href="/chuyen-tro-linh-tinh.f13/">Chuyện trò linh tinh</a>
+</span>
+</div>
+</div>
+</div><div class="porta-article-item">
+<div class="article-container">
+<a href="/top-4-dia-diem-du-lich-o-vung-tau-cho-cam-trai-chup-anh.t625/" title="Top 4 địa điểm du lịch ở Vũng Tàu cho cắm trại, chụp ảnh">
+<h3 class="title">
+<span class="label label--accent" dir="auto">Chia sẻ</span>
+Top 4 địa điểm du lịch ở Vũng Tàu cho cắm trại, chụp ảnh
+</h3>
+</a>
+<a href="/top-4-dia-diem-du-lich-o-vung-tau-cho-cam-trai-chup-anh.t625/" title="Top 4 địa điểm du lịch ở Vũng Tàu cho cắm trại, chụp ảnh">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/u-vung-tau-dia-diem-chup-hinh-chat-tung-centimet-4-jpg.1559/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/top-4-dia-diem-du-lich-o-vung-tau-cho-cam-trai-chup-anh.t625/" title="Top 4 địa điểm du lịch ở Vũng Tàu cho cắm trại, chụp ảnh">
+<p class="excerpt">
+Xin giới thiệu đến bạn top 4 địa điểm du lịch ở Vũng Tàu cho cắm trại, chụp ảnh được nhiều bạn trẻ yêu thích nhất. Trải nghiệm cắm trại qua đêm ở Vũng Tàu sẽ mang đến cho bạn nhiều điều thú vị...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/thanhnienmoihcm.m1792/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="1792" data-xf-init="member-tooltip" style="background-color: #5c7a1f; color: #b8db70" id="js-XFUniqueId39">
+<span class="avatar-u1792-s" role="img" aria-label="thanhnienmoihcm">T</span> 
+</a>
+<a href="/thanhnienmoihcm.m1792/" class="username" dir="auto" data-user-id="1792" data-xf-init="member-tooltip" id="js-XFUniqueId40">thanhnienmoihcm</a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2022-03-17T14:24:00+0700" data-timestamp="1647501840" data-date="17/03/2022" data-time="14:24" data-short="Thg 3 '22" title="17/03/2022 lúc 14:24">17/03/2022</time>
+</span>
+<span class="info-cate">
+<a href="/chuyen-tro-linh-tinh.f13/">Chuyện trò linh tinh</a>
+</span>
+</div>
+</div>
+</div><div class="porta-article-item">
+<div class="article-container">
+<a href="/f0-co-nen-uong-thuoc-khang-virus-de-nhanh-khoi-bac-si-giai-dap-chi-tiet.t618/" title="F0 có nên uống thuốc kháng virus để nhanh khỏi? Bác sĩ giải đáp chi tiết">
+<h3 class="title">
+<span class="label label--red" dir="auto">COVID-19</span>
+F0 có nên uống thuốc kháng virus để nhanh khỏi? Bác sĩ giải đáp chi tiết
+</h3>
+</a>
+<a href="/f0-co-nen-uong-thuoc-khang-virus-de-nhanh-khoi-bac-si-giai-dap-chi-tiet.t618/" title="F0 có nên uống thuốc kháng virus để nhanh khỏi? Bác sĩ giải đáp chi tiết">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url('https://vn-t.com/ewr-porta/attachments/286-16462115174311662392695-1646215310217236058804-jpg.1528/')" alt="" loading="lazy">
+</div>
+</div>
+</a>
+<a href="/f0-co-nen-uong-thuoc-khang-virus-de-nhanh-khoi-bac-si-giai-dap-chi-tiet.t618/" title="F0 có nên uống thuốc kháng virus để nhanh khỏi? Bác sĩ giải đáp chi tiết">
+<p class="excerpt">
+Đây là câu hỏi của rất nhiều F0 trong những ngày gần đây. Vậy thuốc kháng virus được dùng trong trường hợp nào?
+"Cả gia đình tôi 5 người bị mắc Covid-19. Khi biết tin gia đình tôi trở thành F0...
+</p>
+</a>
+<div class="info">
+<span class="info-user">
+<a href="/thahtrung06.m3/" class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="3" data-xf-init="member-tooltip" style="background-color: #ebadeb; color: #b82eb8" id="js-XFUniqueId41">
+<span class="avatar-u3-s" role="img" aria-label="thahtrung06">T</span> 
+</a>
+<a href="/thahtrung06.m3/" class="username" dir="auto" data-user-id="3" data-xf-init="member-tooltip" id="js-XFUniqueId42"><span class="username--style15 username--staff username--moderator username--admin">thahtrung06<i class="fa--xf fa-fw fas fa-check-circle"><svg xmlns="http://www.w3.org/2000/svg" role="img" style="color: #1877f2"><title>thahtrung06 đã được xác minh</title><use href="/data/local/icons/solid.svg?v=1790259926#check-circle"></use></svg></i></span></a>
+</span>
+<span class="info-date">
+<time class="u-dt" dir="auto" datetime="2022-03-03T08:27:00+0700" data-timestamp="1646270820" data-date="03/03/2022" data-time="08:27" data-short="Thg 3 '22" title="03/03/2022 lúc 08:27">03/03/2022</time>
+</span>
+<span class="info-cate">
+<a href="/phong-chong-virus-corona.f25/">Phòng, chống virus corona</a>
+</span>
+</div>
+</div>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="porta-articles-below-split porta-widgets-split">
+<div class="block" data-widget-id="76" data-widget-key="vnt_social_tt" data-widget-definition="social_widget">
+<div class="block-container">
+<h3 class="block-minorHeader">Mạng xã hội</h3>
+<div class="block-body block-row">
+<div class="pre-footer--content -social">
+<ul class="social__icon">
+<li class="social__icon"><a href="https://www.facebook.com/vnthongtin" class="-facebook"><i class="fa--xf fab fa-facebook-f"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/brands.svg?v=1790259926#facebook-f"></use></svg></i></a></li>
+<li class="social__icon"><a href="https://twitter.com/" class="-twitter"><i class="fa--xf fab fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/brands.svg?v=1790259926#twitter"></use></svg></i></a></li>
+<li class="social__icon"><a href="https://instagram.com/" class="-instagram"><i class="fa--xf fab fa-instagram"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/brands.svg?v=1790259926#instagram"></use></svg></i></a></li>
+<li class="social__icon"><a href="https://www.youtube.com/" class="-youtube"><i class="fa--xf fab fa-youtube"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/brands.svg?v=1790259926#youtube"></use></svg></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="block" data-widget-id="9" data-widget-key="forum_overview_forum_statistics" data-widget-definition="forum_statistics">
+<div class="block-container">
+<h3 class="block-minorHeader">Thống kê diễn đàn</h3>
+<div class="block-body block-row">
+<dl class="pairs pairs--justified count--threads">
+<dt>Chủ đề</dt>
+<dd>786</dd>
+</dl>
+<dl class="pairs pairs--justified count--messages">
+<dt>Bài viết</dt>
+<dd>2.753</dd>
+</dl>
+<dl class="pairs pairs--justified">
+<dt>Lượt xem</dt>
+<dd>1.420.545</dd>
+</dl>
+<dl class="pairs pairs--justified count--users">
+<dt>Thành viên</dt>
+<dd>2.665</dd>
+</dl>
+<dl class="pairs pairs--justified">
+<dt>Thành viên mới nhất</dt>
+<dd><a href="/oateiv.m2832/" class="username" dir="auto" data-user-id="2832" data-xf-init="member-tooltip" id="js-XFUniqueId43">oateiv</a></dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="p-body-sidebar">
+<div class="samBannerUnit" data-position="container_sidebar_above"> <div class="samItem" data-xf-init="sam-item" data-id="7" data-cv="true" data-cc="true" data-viewed="true"> <a href="https://vn-t.com/threads/cac-vi-tri-quang-cao-tren-dien-dan-xenforo.355/" target="_blank" rel="nofollow" data-multiple="true"> <img src="https://vn-t.com/data/siropu/am/user/163f85e8496cfa.jpg" alt=""> </a> </div> <div class="samItem"> <a href="https://www.dienmayxanh.com/may-lanh-lg?gclid=Cj0KCQjwgJyyBhCGARIsAK8LVLNOwPGVXvtVy27VLchhlKzZFjS-m_gUydkINsxeZCFxwr_CnFf3dV8aAiLfEALw_wcB" target="_blank" rel="nofollow"> <img src="https://vn-t.com/data/siropu/am/user/1664718697a20b.png" alt=""> </a> </div> </div> 
+<div class="block" data-widget-id="29" data-widget-key="xfrm_forum_overview_new_resources" data-widget-definition="xfrm_new_resources">
+<div class="block-container">
+<h3 class="block-minorHeader">
+<a href="/whats-new/resources/?skip=1" rel="nofollow">Tài nguyên mới nhất</a>
+</h3>
+<ul class="block-body">
+<li class="block-row">
+<div class="contentRow">
+<div class="contentRow-figure">
+<a href="/xenforo-2-3-released-upgrade-xenforo.r193/" class="avatar avatar--xxs"><img src="/data/resource_icons/0/193.jpg?1722650147" alt="XenForo 2.3 Released Upgrade | Xenforo" loading="lazy"></a>
+</div>
+<div class="contentRow-main contentRow-main--close">
+<a href="/xenforo-2-3-released-upgrade-xenforo.r193/"><span class="label label--red" dir="auto">Released 2x</span><span class="label-append">&nbsp;</span>XenForo 2.3 Released Upgrade | Xenforo</a>
+<div class="contentRow-lesser">Cập nhật phiên bản nâng cấp chính thức của Xenforo 2.3</div>
+<div class="contentRow-minor contentRow-minor--smaller">
+<ul class="listInline listInline--bullet">
+<li>Admin</li>
+<li>Cập nhật: <time class="u-dt" dir="auto" datetime="2026-09-10T21:35:00+0700" data-timestamp="1789050900" data-date="10/09/2026" data-time="21:35" data-short="25d" title="10/09/2026 lúc 21:35">10/09/2026</time></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="block-row">
+<div class="contentRow">
+<div class="contentRow-figure">
+<a href="/xenforo-2-3-released-full-xenforo.r184/" class="avatar avatar--xxs"><img src="/data/resource_icons/0/184.jpg?1730295800" alt="XenForo 2.3 Released Full | XenForo" loading="lazy"></a>
+</div>
+<div class="contentRow-main contentRow-main--close">
+<a href="/xenforo-2-3-released-full-xenforo.r184/"><span class="label label--red" dir="auto">Released 2x</span><span class="label-append">&nbsp;</span>XenForo 2.3 Released Full | XenForo</a>
+<div class="contentRow-lesser">Xenforo 2.3 đã chính thức phát hành, phiên bản mới nhất là 2.3.11</div>
+<div class="contentRow-minor contentRow-minor--smaller">
+<ul class="listInline listInline--bullet">
+<li>thahtrung06</li>
+<li>Cập nhật: <time class="u-dt" dir="auto" datetime="2026-09-10T21:21:00+0700" data-timestamp="1789050060" data-date="10/09/2026" data-time="21:21" data-short="25d" title="10/09/2026 lúc 21:21">10/09/2026</time></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="block-row">
+<div class="contentRow">
+<div class="contentRow-figure">
+<a href="/vnt-acp-custom.r178/" class="avatar avatar--xxs"><img src="/data/resource_icons/0/178.jpg?1723172614" alt="[VNT] ACP Custom" loading="lazy"></a>
+</div>
+<div class="contentRow-main contentRow-main--close">
+<a href="/vnt-acp-custom.r178/"><span class="label label--orange" dir="auto">Addon 2x</span><span class="label-append">&nbsp;</span>[VNT] ACP Custom</a>
+<div class="contentRow-lesser">Tùy chỉnh trang quản trị ACP cho Xenforo 2</div>
+<div class="contentRow-minor contentRow-minor--smaller">
+<ul class="listInline listInline--bullet">
+<li>thahtrung06</li>
+<li>Cập nhật: <time class="u-dt" dir="auto" datetime="2026-09-02T20:30:00+0700" data-timestamp="1788355800" data-date="02/09/2026" data-time="20:30" data-short="Thg 10 2" title="02/09/2026 lúc 20:30">02/09/2026</time></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="block-row">
+<div class="contentRow">
+<div class="contentRow-figure">
+<a href="/xencentral-multisite-system-2.r210/" class="avatar avatar--xxs"><img src="/data/resource_icons/0/210.jpg?1783397533" alt="XenCentral Multisite System 2" loading="lazy"></a>
+</div>
+<div class="contentRow-main contentRow-main--close">
+<a href="/xencentral-multisite-system-2.r210/"><span class="label label--orange" dir="auto">Addon 2x</span><span class="label-append">&nbsp;</span>XenCentral Multisite System 2</a>
+<div class="contentRow-lesser">Hệ thống đa trang XenCentral cho XenForo 2</div>
+<div class="contentRow-minor contentRow-minor--smaller">
+<ul class="listInline listInline--bullet">
+<li>thahtrung06</li>
+<li>Cập nhật: <time class="u-dt" dir="auto" datetime="2026-07-07T11:12:13+0700" data-timestamp="1783397533" data-date="07/07/2026" data-time="11:12" data-short="Thg 7 7" title="07/07/2026 lúc 11:12">07/07/2026</time></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="block-row">
+<div class="contentRow">
+<div class="contentRow-figure">
+<a href="/eae-add-ons-conversation-tools.r47/" class="avatar avatar--xxs"><img src="/data/resource_icons/0/47.jpg?1614327442" alt="[EAE Add-ons] Conversation Tools" loading="lazy"></a>
+</div>
+<div class="contentRow-main contentRow-main--close">
+<a href="/eae-add-ons-conversation-tools.r47/"><span class="label label--yellow" dir="auto">Addon 2x</span><span class="label-append">&nbsp;</span>[EAE Add-ons] Conversation Tools</a>
+<div class="contentRow-lesser">Conversation Tools - Cho phép xem và xóa cuộc trò chuyện</div>
+<div class="contentRow-minor contentRow-minor--smaller">
+<ul class="listInline listInline--bullet">
+<li>Admin</li>
+<li>Cập nhật: <time class="u-dt" dir="auto" datetime="2026-06-13T09:46:17+0700" data-timestamp="1781318777" data-date="13/06/2026" data-time="09:46" data-short="Thg 6 13" title="13/06/2026 lúc 09:46">13/06/2026</time></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="block">
+<div class="block-container" data-widget-id="81" data-widget-key="textlink" data-widget-definition="html">
+<h3 class="block-minorHeader">Textlink</h3>
+<div class="block-body block-row">
+<center>
+<div class="textlink">
+<a href="#">Liên hệ đặt Textlink</a>
+</div>
+<div class="textlink">
+<a href="#">Liên hệ đặt Textlink</a>
+</div>
+<div class="textlink">
+<a href="/conversations/add?to=admin">Liên hệ đặt Textlink</a>
+</div>
+<div class="textlink">
+<a href="/conversations/add?to=admin">Liên hệ đặt Textlink</a>
+</div>
+<div class="textlink">
+<a href="/conversations/add?to=admin">Liên hệ đặt Textlink</a>
+</div>
+</center>
+<style>
+.textlink {
+border: 1px solid #135788;
+border-radius: 50px;
+padding: 5px;
+margin: 10px 0;
+}
+.textlink:hover {
+cursor: pointer;
+background: #135788;
+}
+.textlink:hover a {
+color: #fff;
+}</style>
+</div>
+</div>
+</div>
+<div class="block narrow1" data-widget-id="68" data-widget-key="tech_threads" data-widget-definition="DC_Widgets_newThreads">
+<div class="block-container">
+<h3 class="block-minorHeader">
+<a href="/whats-new/" rel="nofollow">Tin công nghệ</a>
+</h3>
+<ul class="block-body">
+<div class="thread_item narrow1" id="item-1067">
+<a href="/autolock-tu-dong-khoa-iphone-khi-bi-trom-dien-thoai.t1067/" title="AutoLock - Tự động khóa iPhone khi bị trộm điện thoại" class="wrapper">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/autolock-webp.a2841/)" alt="" loading="lazy"></div>
+</div>
+<div class="content">
+<div class="title">
+AutoLock - Tự động khóa iPhone khi bị trộm điện thoại
+</div>
+<div class="info">
+<time class="u-dt" dir="auto" datetime="2026-09-23T11:32:12+0700" data-timestamp="1790137932" data-date="23/09/2026" data-time="11:32" data-short="12d" title="23/09/2026 lúc 11:32">23/09/2026</time>
+</div>
+</div>
+</a>
+</div>
+<div class="thread_item narrow1" id="item-1031">
+<a href="/tao-moi-tai-khoan-google-gmail-khong-con-15gb-mien-phi.t1031/" title="Tạo mới tài khoản Google, Gmail không còn 15GB miễn phí" class="wrapper">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/tao-moi-tai-khoan-google-gmail-khong-con-15gb-mien-phi-1-webp.a2761/)" alt="" loading="lazy"></div>
+</div>
+<div class="content">
+<div class="title">
+Tạo mới tài khoản Google, Gmail không còn 15GB miễn phí
+</div>
+<div class="info">
+<time class="u-dt" dir="auto" datetime="2026-05-15T12:21:14+0700" data-timestamp="1778822474" data-date="15/05/2026" data-time="12:21" data-short="Tháng 5 15" title="15/05/2026 lúc 12:21">15/05/2026</time>
+</div>
+</div>
+</a>
+</div>
+<div class="thread_item narrow1" id="item-1026">
+<a href="/huong-dan-cap-lai-cap-doi-the-can-cuoc-qua-vneid.t1026/" title="Hướng dẫn cấp lại, cấp đổi thẻ Căn cước qua VNeID" class="wrapper">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/huong-dan-cap-lai-cap-doi-the-can-cuoc-qua-vneid-1-webp.a2735/)" alt="" loading="lazy"></div>
+</div>
+<div class="content">
+<div class="title">
+Hướng dẫn cấp lại, cấp đổi thẻ Căn cước qua VNeID
+</div>
+<div class="info">
+<time class="u-dt" dir="auto" datetime="2026-04-24T10:20:17+0700" data-timestamp="1777000817" data-date="24/04/2026" data-time="10:20" data-short="Thg 4 24" title="24/04/2026 lúc 10:20">24/04/2026</time>
+</div>
+</div>
+</a>
+</div>
+<div class="thread_item narrow1" id="item-1023">
+<a href="/dieu-hoa-khong-mat-du-bat-lau-loi-khong-phai-ai-cung-biet.t1023/" title="Điều hòa không mát dù bật lâu: Lỗi không phải ai cũng biết" class="wrapper">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/dieu-hoa-khong-mat-du-bat-lau-loi-khong-phai-ai-cung-biet-1-webp.a2726/)" alt="" loading="lazy"></div>
+</div>
+<div class="content">
+<div class="title">
+Điều hòa không mát dù bật lâu: Lỗi không phải ai cũng biết
+</div>
+<div class="info">
+<time class="u-dt" dir="auto" datetime="2026-04-13T16:31:17+0700" data-timestamp="1776072677" data-date="13/04/2026" data-time="16:31" data-short="Thg 4 13" title="13/04/2026 lúc 16:31">13/04/2026</time>
+</div>
+</div>
+</a>
+</div>
+<div class="thread_item narrow1" id="item-1010">
+<a href="/hosting-mien-phi-1gb-tron-doi-toc-do-cao-va-cau-hinh-tot.t1010/" title="Hosting miễn phí 1GB trọn đời, tốc độ cao và cấu hình tốt" class="wrapper">
+<div class="thumb">
+<div class="thumbnail" style="background-image: url(https://vn-t.com/1775120684483-webp.a2703/)" alt="" loading="lazy"></div>
+</div>
+<div class="content">
+<div class="title">
+Hosting miễn phí 1GB trọn đời, tốc độ cao và cấu hình tốt
+</div>
+<div class="info">
+<time class="u-dt" dir="auto" datetime="2026-04-02T16:11:00+0700" data-timestamp="1775121060" data-date="02/04/2026" data-time="16:11" data-short="Thg 4 2" title="02/04/2026 lúc 16:11">02/04/2026</time>
+</div>
+</div>
+</a>
+</div>
+</ul>
+</div>
+</div>
+<div class="cxf-fw">
+<div class="block">
+<div class="block-container">
+<h3 class="block-minorHeader">Fanpage VNT</h3>
+<div class="block-body block-row">
+<div id="fb-page"></div>
+</div>
+</div>
+</div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+const placeholder = document.getElementById("fb-page");
+function loadFanpage() {
+placeholder.innerHTML = `
+<div class="fb-page" data-href="https://www.facebook.com/vnthongtin/" data-tabs="" data-height="500px" data-width="290px" data-small-header="false" data-hide-cover="false" data-hide-cta="" data-show-facepile="true" **data-adapt-container-width="true"**>
+<div class="fb-xfbml-parse-ignore">
+<blockquote cite="https://www.facebook.com/vnthongtin/">
+<a href="https://www.facebook.com/vnthongtin/">Fanpage</a>
+</blockquote>
+</div>
+</div>
+`;
+if (!window.FB) {
+const script = document.createElement("script");
+script.src = "https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.2";
+script.async = true;
+script.defer = true;
+script.onload = () => FB.XFBML.parse(placeholder);
+document.body.appendChild(script);
+} else {
+FB.XFBML.parse(placeholder);
+}
+}
+if ("IntersectionObserver" in window) {
+const observer = new IntersectionObserver(entries => {
+entries.forEach(entry => {
+if (entry.isIntersecting) {
+loadFanpage();
+observer.disconnect();
+}
+});
+});
+observer.observe(placeholder);
+} else {
+loadFanpage();
+}
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+<footer class="p-footer" id="footer">
+<div class="shortcuts">
+<div class="p-footer-inner">
+<div class="list-shortcuts">
+<li class="item"><a href="/misc/cookies" rel="nofollow" data-xf-init="tooltip" data-xf-click="cookie-consent-toggle" data-original-title="Cookie consent" id="js-XFUniqueId44">
+<i class="fa--xf far fa-cookie"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/regular.svg?v=1790259926#cookie"></use></svg></i> Cookies
+</a></li>
+<li class="item">
+<a href="/misc/style" data-xf-click="overlay" data-xf-init="tooltip" rel="nofollow" data-original-title="Chọn giao diện" id="js-XFUniqueId45">
+<i class="fa--xf fas fa-paint-brush"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/solid.svg?v=1790259926#paint-brush"></use></svg></i> Default style
+</a>
+</li>
+<li class="item">
+<a href="/misc/style-variation" rel="nofollow" class="js-styleVariationsLink" data-xf-init="tooltip" data-xf-click="menu" data-z-index-ref=".u-bottomFixer" role="button" aria-expanded="false" aria-haspopup="true" data-original-title="Phong cách giao diện" id="js-XFUniqueId46">
+<i class="fa--xf far fa-adjust"><svg xmlns="http://www.w3.org/2000/svg" role="img"><title>Phong cách giao diện</title><use href="/data/local/icons/regular.svg?v=1790259926#adjust"></use></svg></i>
+</a>
+<div class="menu" data-menu="menu" aria-hidden="true">
+<div class="menu-content js-styleVariationsMenu">
+<a href="/misc/style-variation?reset=1&amp;t=1791211357%2C35a4a7dfb6793f518be3d573b55b545b" class="menu-linkRow is-selected" rel="nofollow" data-xf-click="style-variation" data-variation="">
+<i class="fa--xf far fa-adjust"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/regular.svg?v=1790259926#adjust"></use></svg></i>
+System
+</a>
+<a href="/misc/style-variation?variation=default&amp;t=1791211357%2C35a4a7dfb6793f518be3d573b55b545b" class="menu-linkRow" rel="nofollow" data-xf-click="style-variation" data-variation="default">
+<i class="fa--xf far fa-sun"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/regular.svg?v=1790259926#sun"></use></svg></i>
+Light
+</a>
+<a href="/misc/style-variation?variation=alternate&amp;t=1791211357%2C35a4a7dfb6793f518be3d573b55b545b" class="menu-linkRow" rel="nofollow" data-xf-click="style-variation" data-variation="alternate">
+<i class="fa--xf far fa-moon"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/regular.svg?v=1790259926#moon"></use></svg></i>
+Dark
+</a>
+</div>
+</div>
+</li>
+<li class="item">
+<a href="/misc/language" data-xf-click="overlay" data-xf-init="tooltip" rel="nofollow" data-original-title="Chọn Ngôn ngữ" id="js-XFUniqueId47">
+<i class="fa--xf fas fa-globe"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/solid.svg?v=1790259926#globe"></use></svg></i> Tiếng Việt</a>
+</li>
+<li class="item"><a href="/misc/contact" data-xf-click="overlay">Liên hệ</a></li>
+<li class="item"><a href="/help/terms/">Quy định và Nội quy</a></li>
+<li class="item"><a href="/privacy/policy/">Chính sách bảo mật</a></li>
+<li class="item"><a href="/help/">Trợ giúp</a></li>
+<li class="item"><a href="/forums/-/index.rss" target="_blank" class="p-footer-rssLink" title="RSS"><span aria-hidden="true"><i class="fa--xf fas fa-rss"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/solid.svg?v=1790259926#rss"></use></svg></i><span class="u-srOnly">RSS</span></span></a></li>
+</div>
+</div>
+</div>
+<div class="links">
+<div class="p-footer-inner">
+<div class="link-item">
+<h3 class="heading">
+Đối tác
+</h3>
+<div class="link-content">
+<li class="item"><a href="https://xenforo.com/">Xenforo</a></li>
+<li class="item"><a href="https://vnxf.vn/">Cộng đồng VNXF</a></li>
+<li class="item"><a href="https://www.vbulletin.com/en/purchases">Cộng đồng vBulletin</a></li>
+<li class="item"><a href="https://www.dmca.com/Protection/Status.aspx?id=5a4bf1d4-48aa-459c-9095-23671cd8d837&amp;refurl=https://vn-t.com/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="/images/dmca_protected_sml_120l.png" alt="DMCA.com Protection Status"></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></li>
+</div>
+</div>
+<div class="link-item">
+<h3 class="heading">
+Liên kết
+</h3>
+<div class="link-content">
+<li class="item"><a href="https://payhip.com/vnthongtin" title="Textlink" target="_blank">Shop</a></li>
+<li class="item"><a href="https://vn-t.com/tags/vnt-addons/" title="Textlink" target="_blank">VNT Addons</a></li>
+<li class="item"><a href="https://dm.vn-t.com/" title="Textlink" target="_blank">Điện máy xanh</a></li>
+<li class="item"><a href="#" title="Textlink" target="_blank">Textlink</a></li>
+</div>
+</div>
+<div class="link-item">
+<h3 class="heading">
+Menu thành viên
+</h3>
+<div class="link-content">
+<li class="item"><a href="/login/">Đăng nhập</a></li>
+</div>
+</div>
+<div class="link-item">
+<h3 class="heading">
+Công cụ
+</h3>
+<div class="link-content">
+<li class="item"><a href="/speedtest" target="_blank">Speedtest</a></li>
+<li class="item"><a href="/keyboard/" target="_blank">Test bàn phím</a></li>
+<li class="item"><a href="/photoshop" target="_blank">Photoshop Online</a></li>
+<li class="item"><a href="/bios-pw/" target="_blank">Get password BIOS</a></li>
+</div>
+</div>
+<div class="link-item">
+<h3 class="heading">
+Follow us
+</h3>
+<div class="link-content">
+<li class="item">
+<a href="https://www.facebook.com/vnthongtin"><i class="fa--xf fab fa-facebook"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/brands.svg?v=1790259926#facebook"></use></svg></i> Facebook</a>
+</li>
+<li class="item">
+<a href="https://twitter.com/"><i class="fa--xf fab fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/brands.svg?v=1790259926#twitter"></use></svg></i> Twitter</a>
+</li>
+<li class="item">
+<a href="https://www.youtube.com/"><i class="fa--xf fab fa-youtube"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/brands.svg?v=1790259926#youtube"></use></svg></i> Youtube</a>
+</li>
+<li class="item">
+<a href="#"><i class="fa--xf fab fa-google-plus"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/brands.svg?v=1790259926#google-plus"></use></svg></i> Google+</a>
+</li>
+</div>
+</div>
+</div>
+</div>
+<div class="infos">
+<div class="p-footer-inner">
+<div class="p-footer-copyright">
+<a href="https://xenforo.com" class="u-concealed" dir="ltr" target="_blank" rel="sponsored noopener">Community platform by XenForo<sup>®</sup> <span class="copyright">© 2010-2026 XenForo Ltd.</span></a>
+</div>
+</div>
+</div>
+</footer>
+</div> <!-- closing p-pageWrapper -->
+<div class="u-bottomFixer js-bottomFixTarget">
+<ul class="notices notices--bottom_fixer js-notices" data-xf-init="notices" data-type="bottom_fixer" data-scroll-interval="6">
+<li class="notice js-notice notice--primary notice--cookieAdvanced" data-notice-id="-1" data-delay-duration="0" data-display-duration="0" data-auto-dismiss="0" data-visibility="">
+<div class="notice-content">
+<div class="u-pageCentered">
+<div class="cookies-main">
+<h2>Chúng tôi coi trọng quyền riêng tư của bạn</h2>
+<p>Chúng tôi sử dụng <a href="/help/cookies">cookie thiết yếu</a> để trang web này hoạt động, và cookie tùy chọn để nâng cao trải nghiệm của bạn.</p>
+<p><a href="#" data-xf-click="toggle" data-target="#cookieConsentConfig">Xem thêm thông tin và cấu hình tùy chọn của bạn</a></p>
+</div>
+<div class="cookies-buttons u-inputSpacer _u-alignCenter">
+<a href="/misc/cookies?update=1&amp;accept=1&amp;t=1791211357%2C35a4a7dfb6793f518be3d573b55b545b" class="button button--notice button--primary" rel="nofollow" data-xf-click="cookie-consent" xicon="confirm"><span class="button-text">
+Chấp nhận tất cả cookie
+</span></a>
+<a href="/misc/cookies?update=1&amp;reject=1&amp;t=1791211357%2C35a4a7dfb6793f518be3d573b55b545b" class="button button--link" rel="nofollow" data-xf-click="cookie-consent" xicon="cancel"><span class="button-text">
+Từ chối cookie tùy chọn
+</span></a>
+</div>
+<form action="/misc/cookies?update=1" method="post" class="" data-xf-init="cookie-consent-form ajax-submit" data-force-flash-message="true" id="cookieConsentConfig">
+<input type="hidden" name="_xfToken" value="1791211357,35a4a7dfb6793f518be3d573b55b545b">
+<div class="cookies-options">
+<dl class="formRow formRow--fullWidth">
+<dt>
+<div class="formRow-labelWrapper"></div>
+</dt>
+<dd>
+<ul class="inputChoices">
+<li class="inputChoices-choice"><label class="iconic iconic--toggle"><input type="checkbox" value="1" checked="checked" disabled="1"><i aria-hidden="true"></i><span class="iconic-label">Cookie thiết yếu</span></label></li>
+</ul>
+<div class="formRow-explain">Các cookie này là bắt buộc để kích hoạt các chức năng cốt lõi như bảo mật, quản lý mạng và khả năng truy cập. Bạn không thể từ chối các cookie này.</div>
+</dd>
+</dl>
+<dl class="formRow formRow--fullWidth">
+<dt>
+<div class="formRow-labelWrapper"></div>
+</dt>
+<dd>
+<ul class="inputChoices">
+<li class="inputChoices-choice"><label class="iconic iconic--toggle"><input type="checkbox" name="consent[optional]" value="1" class="js-consent_optional"><i aria-hidden="true"></i><span class="iconic-label">Cookie tùy chọn</span></label></li>
+</ul>
+<div class="formRow-explain">Chúng tôi cung cấp các chức năng nâng cao cho trải nghiệm duyệt web của bạn thông qua việc sử dụng các cookie này. Nếu bạn từ chối, các chức năng nâng cao sẽ không khả dụng.</div>
+</dd>
+</dl>
+<dl class="formRow formRow--fullWidth">
+<dt>
+<div class="formRow-labelWrapper"></div>
+</dt>
+<dd>
+<ul class="inputChoices">
+<li class="inputChoices-choice"><label class="iconic iconic--toggle"><input type="checkbox" name="consent[_third_party]" value="1" class="js-consent__third_party"><i aria-hidden="true"></i><span class="iconic-label">Cookie của bên thứ ba</span></label></li>
+</ul>
+<div class="formRow-explain">Các cookie do bên thứ ba thiết lập có thể cần thiết để vận hành các chức năng phối hợp với nhiều nhà cung cấp dịch vụ khác nhau, phục vụ cho mục đích bảo mật, phân tích, hiệu suất hoặc quảng cáo.</div>
+</dd>
+</dl>
+<dl class="formRow formRow--fullWidth">
+<dt>
+<div class="formRow-labelWrapper"></div>
+</dt>
+<dd>
+<ul class="listInline listInline--bullet">
+<li><a href="/help/cookies">Chi tiết việc sử dụng cookie</a></li>
+<li><a href="/privacy/policy/">Chính sách bảo mật</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+<button type="submit" class="button button--notice"><span class="button-text">Lưu tùy chọn cookie</span></button>
+</form>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="u-navButtons js-navButtons" data-trigger-type="up">
+<a href="javascript:" class="button button--scroll"><span class="button-text"><i class="fa--xf far fa-arrow-left"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/regular.svg?v=1790259926#arrow-left"></use></svg></i><span class="u-srOnly">Back</span></span></a>
+</div>
+<div class="u-scrollButtons js-scrollButtons" data-trigger-type="up">
+<a href="#top" class="button button--scroll" data-xf-click="scroll-to"><span class="button-text"><i class="fa--xf far fa-arrow-up"><svg xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true"><use href="/data/local/icons/regular.svg?v=1790259926#arrow-up"></use></svg></i><span class="u-srOnly">Top</span></span></a>
+</div>
+<form style="display:none" hidden="hidden">
+<input type="text" name="_xfClientLoadTime" value="" id="_xfClientLoadTime" title="_xfClientLoadTime" tabindex="-1">
+</form>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "WebSite",
+"url": "https://vn-t.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": {
+"@type": "EntryPoint",
+"urlTemplate": "https://vn-t.com/search/search?keywords={search_keywords}"
+},
+"query-input": "required name=search_keywords"
+}
+}
+</script>
+<script type="text/template" id="xfReactTooltipTemplate">
+<div class="tooltip-content-inner">
+<div class="reactTooltip">
+<a href="#" class="reaction reaction--1" data-reaction-id="1"><i aria-hidden="true"></i><img src="https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f44d.png" loading="lazy" width="64" height="64" class="reaction-image reaction-image--emoji js-reaction" alt="Like" title="Like" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+<a href="#" class="reaction reaction--7" data-reaction-id="7"><i aria-hidden="true"></i><img src="https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f44e.png" loading="lazy" width="64" height="64" class="reaction-image reaction-image--emoji js-reaction" alt="Dislike" title="Dislike" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+<a href="#" class="reaction reaction--2" data-reaction-id="2"><i aria-hidden="true"></i><img src="https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f60d.png" loading="lazy" width="64" height="64" class="reaction-image reaction-image--emoji js-reaction" alt="Love" title="Love" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+<a href="#" class="reaction reaction--3" data-reaction-id="3"><i aria-hidden="true"></i><img src="https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f923.png" loading="lazy" width="64" height="64" class="reaction-image reaction-image--emoji js-reaction" alt="Haha" title="Haha" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+<a href="#" class="reaction reaction--4" data-reaction-id="4"><i aria-hidden="true"></i><img src="https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f632.png" loading="lazy" width="64" height="64" class="reaction-image reaction-image--emoji js-reaction" alt="Wow" title="Wow" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+<a href="#" class="reaction reaction--5" data-reaction-id="5"><i aria-hidden="true"></i><img src="https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f641.png" loading="lazy" width="64" height="64" class="reaction-image reaction-image--emoji js-reaction" alt="Sad" title="Sad" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+<a href="#" class="reaction reaction--6" data-reaction-id="6"><i aria-hidden="true"></i><img src="https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f621.png" loading="lazy" width="64" height="64" class="reaction-image reaction-image--emoji js-reaction" alt="Angry" title="Angry" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+</div>
+</div>
+</script>
+
+
+</body></html>

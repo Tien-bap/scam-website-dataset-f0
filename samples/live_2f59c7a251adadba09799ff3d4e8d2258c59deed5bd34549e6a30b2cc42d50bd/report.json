@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_2f59c7a251adadba09799ff3d4e8d2258c59deed5bd34549e6a30b2cc42d50bd",
+  "candidate_sha256": "761fce5628b37cff4bd9cc946dfa5cc586b1bf801f02caa9a24e764d34b78f98",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://officehome.northeurope.cloudapp.azure.com/",
+  "requested_url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+  "browser_final_url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+  "source_urls": [
+    "https://officehome.northeurope.cloudapp.azure.com/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 102411,
+      "source_url": "https://officehome.northeurope.cloudapp.azure.com/",
+      "source_hostname": "officehome.northeurope.cloudapp.azure.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+      "final_hostname": "officehome.northeurope.cloudapp.azure.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2888,
+      "checked_at": "2026-10-05T13:17:27.092354+00:00",
+      "error": null,
+      "normalized_source_url": "https://officehome.northeurope.cloudapp.azure.com/",
+      "normalized_final_url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_2f59c7a251adadba09799ff3d4e8d2258c59deed5bd34549e6a30b2cc42d50bd",
+    "representative_source_index": 102411,
+    "representative_source_url": "https://officehome.northeurope.cloudapp.azure.com/",
+    "representative_final_url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+    "normalized_final_url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+    "source_hostname": "officehome.northeurope.cloudapp.azure.com",
+    "final_hostname": "officehome.northeurope.cloudapp.azure.com",
+    "source_urls": [
+      "https://officehome.northeurope.cloudapp.azure.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 102411,
+        "source_url": "https://officehome.northeurope.cloudapp.azure.com/",
+        "source_hostname": "officehome.northeurope.cloudapp.azure.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+        "final_hostname": "officehome.northeurope.cloudapp.azure.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2888,
+        "checked_at": "2026-10-05T13:17:27.092354+00:00",
+        "error": null,
+        "normalized_source_url": "https://officehome.northeurope.cloudapp.azure.com/",
+        "normalized_final_url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Login | Microsoft 365",
+  "capture_timestamp": "2026-10-05T14:39:07.846035+00:00",
+  "dom_chars": 414307,
+  "screenshot_bytes": 260555,
+  "dom_sha256": "2220262e7d1b6ac3b0b61447f8ceb806c2c821d5f34820585cb6d9002c3f73b6",
+  "screenshot_sha256": "9e008c2eba8c0ca6295a742bcbb384ce407a5853e1747ded468b7f26605635df",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+    "browser_final_url": "https://officehome.northeurope.cloudapp.azure.com/?from=NG",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4328
+}

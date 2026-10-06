@@ -1,0 +1,27 @@
+{
+  "original_url": "https://kaurmigration.com.au/opg",
+  "hostname": "kaurmigration.com.au",
+  "checked_at": "2026-10-04T14:06:15.379980+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a08fe6-bf0e-7110-bd8f-f75c2380c8ed",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-11T09:57:47.670Z",
+  "scan_original_url": "http://kaurmigration.com.au/",
+  "final_url": "https://kaurmigration.com.au/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1422,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.101,
+  "discovery": {
+    "batch_id": "87e4d3da35b7571be49669981ea752db89d35f8610b7a68a1c34ad82e57fd405",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

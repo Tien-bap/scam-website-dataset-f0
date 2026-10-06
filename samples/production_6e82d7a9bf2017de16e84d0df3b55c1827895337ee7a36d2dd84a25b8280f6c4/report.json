@@ -1,0 +1,21 @@
+{
+  "original_url": "dienmay-xanh24h.online",
+  "hostname": "dienmay-xanh24h.online",
+  "checked_at": "2026-10-04T10:34:34.655252+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 8,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019598a5-b3b2-7000-ad23-5fa03dbc1e60",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-15T07:12:41.640Z",
+  "scan_original_url": "http://dienmay-xanh24h.online/",
+  "final_url": "https://dienmay-xanh24h.online/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 6669,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 9.615
+}

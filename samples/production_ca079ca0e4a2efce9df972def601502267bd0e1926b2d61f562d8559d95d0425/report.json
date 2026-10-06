@@ -1,0 +1,27 @@
+{
+  "original_url": "https://ffm.to/qksdfvmavo",
+  "hostname": "ffm.to",
+  "checked_at": "2026-10-04T15:58:09.414619+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 119,
+  "candidates_checked": 6,
+  "selected_scan_uuid": "01a0e6ae-7dd1-77dd-ac67-60d9004be182",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-28T06:23:28.450Z",
+  "scan_original_url": "https://ffm.to/brl",
+  "final_url": "https://ffm.to/brl",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1649,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 115.709,
+  "discovery": {
+    "batch_id": "cc99640ab41bd9e4acd2ed4255586d29331b5bd7f39b2241688af4efc3b099f4",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "original_url": "thtruemilk-suahanam.com",
+  "hostname": "thtruemilk-suahanam.com",
+  "checked_at": "2026-10-04T10:35:00.099395+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019581c6-2285-7000-aae7-fcf4a0f3ad6a",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-10T20:36:50.672Z",
+  "scan_original_url": "http://thtruemilk-suahanam.com/",
+  "final_url": "https://thtruemilk-suahanam.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 68,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.782
+}

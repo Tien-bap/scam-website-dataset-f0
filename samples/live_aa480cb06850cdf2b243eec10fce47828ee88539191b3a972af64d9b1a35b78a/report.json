@@ -1,0 +1,241 @@
+{
+  "candidate_id": "live_aa480cb06850cdf2b243eec10fce47828ee88539191b3a972af64d9b1a35b78a",
+  "candidate_sha256": "b484c0028108f1219f7a7bc16127737a1cff7245091c29adcbae86f2509a7936",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://betsyweich.com/",
+  "requested_url": "https://www.betsyweich.com/",
+  "browser_final_url": "https://www.betsyweich.com/",
+  "source_urls": [
+    "https://betsyweich.com/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 29381,
+      "source_url": "https://betsyweich.com/",
+      "source_hostname": "betsyweich.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.betsyweich.com/",
+      "final_hostname": "www.betsyweich.com",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 61924,
+      "elapsed_ms": 1830,
+      "checked_at": "2026-10-05T12:46:02.606426+00:00",
+      "error": null,
+      "normalized_source_url": "https://betsyweich.com/",
+      "normalized_final_url": "https://www.betsyweich.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_aa480cb06850cdf2b243eec10fce47828ee88539191b3a972af64d9b1a35b78a",
+    "representative_source_index": 29381,
+    "representative_source_url": "https://betsyweich.com/",
+    "representative_final_url": "https://www.betsyweich.com/",
+    "normalized_final_url": "https://www.betsyweich.com/",
+    "source_hostname": "betsyweich.com",
+    "final_hostname": "www.betsyweich.com",
+    "source_urls": [
+      "https://betsyweich.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 29381,
+        "source_url": "https://betsyweich.com/",
+        "source_hostname": "betsyweich.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.betsyweich.com/",
+        "final_hostname": "www.betsyweich.com",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 61924,
+        "elapsed_ms": 1830,
+        "checked_at": "2026-10-05T12:46:02.606426+00:00",
+        "error": null,
+        "normalized_source_url": "https://betsyweich.com/",
+        "normalized_final_url": "https://www.betsyweich.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "commit_salvaged",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Betsy Weich",
+  "capture_timestamp": "2026-10-06T02:42:51.974685+00:00",
+  "dom_chars": 82675,
+  "screenshot_bytes": 760490,
+  "dom_sha256": "71868681db1a48faebeda52e4bd9333fed5c507c42673adddb9a99816afdd278",
+  "screenshot_sha256": "4f3b6ab19ca2471333c75f414d7d96e004bffb99ed5f59c7938c3d934cd1846c",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://www.betsyweich.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.betsyweich.com/",
+    "browser_final_url": "https://www.betsyweich.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "dom_source": "rendered",
+  "recovery_strategy": "commit_fallback",
+  "timeline": [
+    {
+      "event": "context created",
+      "timestamp": "2026-10-06T02:42:51.979365+00:00",
+      "elapsed_ms": 8
+    },
+    {
+      "event": "goto(commit) start",
+      "timestamp": "2026-10-06T02:42:52.032168+00:00",
+      "elapsed_ms": 61
+    },
+    {
+      "event": "HTTP response: 200 https://www.betsyweich.com/",
+      "timestamp": "2026-10-06T02:42:52.858821+00:00",
+      "elapsed_ms": 887
+    },
+    {
+      "event": "response committed",
+      "timestamp": "2026-10-06T02:42:52.863523+00:00",
+      "elapsed_ms": 892
+    },
+    {
+      "event": "goto end: commit_failed",
+      "timestamp": "2026-10-06T02:42:52.863548+00:00",
+      "elapsed_ms": 892
+    },
+    {
+      "event": "settle start",
+      "timestamp": "2026-10-06T02:42:52.863560+00:00",
+      "elapsed_ms": 892
+    },
+    {
+      "event": "settle end",
+      "timestamp": "2026-10-06T02:42:56.864152+00:00",
+      "elapsed_ms": 4893
+    },
+    {
+      "event": "page.url: https://www.betsyweich.com/ HTTP: 200",
+      "timestamp": "2026-10-06T02:42:56.865581+00:00",
+      "elapsed_ms": 4894
+    },
+    {
+      "event": "title start",
+      "timestamp": "2026-10-06T02:42:56.865597+00:00",
+      "elapsed_ms": 4894
+    },
+    {
+      "event": "title end",
+      "timestamp": "2026-10-06T02:42:56.869504+00:00",
+      "elapsed_ms": 4898
+    },
+    {
+      "event": "content start",
+      "timestamp": "2026-10-06T02:42:56.869521+00:00",
+      "elapsed_ms": 4898
+    },
+    {
+      "event": "content end",
+      "timestamp": "2026-10-06T02:42:56.878400+00:00",
+      "elapsed_ms": 4907
+    },
+    {
+      "event": "screenshot start",
+      "timestamp": "2026-10-06T02:42:56.878421+00:00",
+      "elapsed_ms": 4907
+    },
+    {
+      "event": "screenshot end",
+      "timestamp": "2026-10-06T02:42:57.074593+00:00",
+      "elapsed_ms": 5103
+    },
+    {
+      "event": "context close start",
+      "timestamp": "2026-10-06T02:42:57.110121+00:00",
+      "elapsed_ms": 5139
+    },
+    {
+      "event": "context close end",
+      "timestamp": "2026-10-06T02:42:57.115980+00:00",
+      "elapsed_ms": 5145
+    }
+  ],
+  "artifact_errors": [],
+  "elapsed_ms": 5145,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T16:46:47.139044+00:00",
+    "previous_report_sha256": "7fb030cb5f56502d896d380d5bb665b6ceb674f358e15d5cb8cabc534448c9f8",
+    "recovered_at": "2026-10-06T02:42:51.974685+00:00",
+    "result": "commit_salvaged"
+  }
+}

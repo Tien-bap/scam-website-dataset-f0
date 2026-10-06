@@ -1,0 +1,33 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    
+
+    <!-- prefetch api -->
+    <link rel="dns-prefetch" href="//api.marquiz.ru">
+    <link rel="dns-prefetch" href="//api.marquiz.io">
+    <!-- prefetch static files -->
+    <link rel="dns-prefetch" href="//static.marquiz.ru">
+    <link rel="dns-prefetch" href="//static.marquiz.io">
+    <!-- prefetch images -->
+    <link rel="dns-prefetch" href="//cdn.media.marquiz.ru">
+    <link rel="dns-prefetch" href="//cdn.media.marquiz.io">
+    <link rel="dns-prefetch" href="//images.unsplash.com">
+    <!-- prefetch fonts -->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <script type="module" crossorigin="" src="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/index-m52jQ1VW.js"></script>
+    <link rel="modulepreload" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/vue-vendor-Xfy94FTg.js">
+    <link rel="modulepreload" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/marquiz-vendor-PavHacfk.js">
+    <link rel="modulepreload" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/maps-vendor-Dlg3yHsN.js">
+    <link rel="modulepreload" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/crypto-vendor-Dd6irVKJ.js">
+    <link rel="modulepreload" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/buefy-vendor-DC1Zg5MD.js">
+    <link rel="stylesheet" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/maps-vendor-idVO1THo.css">
+    <link rel="stylesheet" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/buefy-vendor-BNCx9VBM.css">
+    <link rel="stylesheet" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/index-lQQTFeFR.css">
+  <link rel="modulepreload" as="script" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/Main-CVLpZgv1.js"><link rel="stylesheet" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/Main-CXYNHj4M.css"><title>Marquiz</title><link rel="modulepreload" as="script" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/Welcome-Bne9Po8I.js"><link rel="stylesheet" crossorigin="" href="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/assets/Welcome-OxDFu__5.css"></head><body style="background-color: rgb(255, 255, 255);">
+    <div id="app" data-v-app=""><div class="app-wrapper light" style="--color-bg-base-100: #ffffff; --color-bg-base-00: #363636; --color-bg-base-03: #f7f7f7; --color-bg-base-07: #ededed; --color-bg-base-10: #e6e6e6; --color-bg-base-15: #d9d9d9; --color-bg-base-20: #cccccc; --color-bg-base-30: #b3b3b3; --color-bg-base-35: #a6a6a6; --color-bg-base-40: #999999; --color-bg-base-50: #808080; --color-bg-base-55: #737373; --color-primary: #d34085; --color-primary-dark-20: #8d2053; --color-primary-dark-10: #b72a6b; --color-primary-light-10: #dd699f; --color-primary-light-20: #e693ba; --color-primary-light-35: #f5d1e2; --color-primary-alpha-07: rgba(211, 64, 133, 0.05); --color-primary-alpha-10: rgba(211, 64, 133, 0.1); --color-primary-alpha-20: rgba(211, 64, 133, 0.2); --color-primary-alpha-50: rgba(211, 64, 133, 0.5); --color-primary-alpha-80: rgba(211, 64, 133, 0.8); --color-primary-text: #ffffff; --color-text-base-100: #363636; --color-text-title-100: #363636; --color-text-alpha-05: rgba(54, 54, 54, 0.05); --color-text-alpha-10: rgba(54, 54, 54, 0.1); --color-text-alpha-20: rgba(54, 54, 54, 0.2); --color-text-alpha-30: rgba(54, 54, 54, 0.3); --color-text-alpha-50: rgba(54, 54, 54, 0.5); --color-text-alpha-70: rgba(54, 54, 54, 0.7); --color-bg-alpha-0: rgba(255, 255, 255, 0); --color-bg-alpha-55: rgba(255, 255, 255, 0.55); --color-bg-alpha-70: rgba(255, 255, 255, 0.7); --color-bg-alpha-80: rgba(255, 255, 255, 0.8); --font: 'Gilroy'; --font-title: 'Gilroy'; --input-border-radius: 0.25rem; --input-padding: 1.25rem; --button-border-radius: 0.25rem; --field-height-l: 3.5rem; --field-height-s: 3rem; --field-font-size-l: 1.125rem; --field-font-size-s: 1rem; --field-line-height: 1.5rem;"><div id="app" class="app"><div data-v-f866a61f="" class="welcome" style="--background: url('https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/static/bg.jpg');"><div data-v-f866a61f="" class="hero is-fullheight"><div data-v-f866a61f="" class="hero-body"><div data-v-f866a61f="" class="columns"><div data-v-f866a61f="" class="welcome__info column is-6"><div data-v-f866a61f=""><h1 data-v-f866a61f="" class="title">Create an online quiz in 10 minutes</h1><!----><div data-v-f866a61f="" class="welcome__text"><!----><p data-v-f866a61f="">Get registrations and learn more about your audience through your website and social media — all without the help of designers or programmers</p></div><div data-v-f866a61f="" class="welcome__buttons"><a data-v-f866a61f="" href="https://app.marquiz.io/signup" target="_blank" class="button is-primary">Try for free</a><!----></div></div></div><div data-v-f866a61f="" class="welcome__image column"><img data-v-f866a61f="" src="https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2/static/mrqz-image-en.png" alt="Welcome image"></div></div></div></div></div><div id="modals" class="modals"></div></div></div></div>
+    <script>window.__MARQUIZ_DEPLOYMENT_CONTEXT__ = {"environment":"prod","region":"ru","assetsPath":"https://cdn.marquiz.ru/quiz/1019c75c3a70f50d5e9533ef26d0a200bfaf92a2"}</script>
+  
+
+</body>

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://vnpt24h.vn",
+  "hostname": "vnpt24h.vn",
+  "checked_at": "2026-10-04T13:37:50.667927+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f5ffb-58b2-762b-b151-c6781b82bf72",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-14T09:35:46.382Z",
+  "scan_original_url": "http://vnpt24h.vn/",
+  "final_url": "https://vnpt24h.vn/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 8630,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.476,
+  "discovery": {
+    "batch_id": "ea2599a79f6dfdcb35d0942556efc897cb48bfc44f137576933bc03ae12ef9e8",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

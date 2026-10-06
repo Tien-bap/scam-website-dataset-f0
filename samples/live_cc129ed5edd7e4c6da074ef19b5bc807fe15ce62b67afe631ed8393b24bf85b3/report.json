@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_cc129ed5edd7e4c6da074ef19b5bc807fe15ce62b67afe631ed8393b24bf85b3",
+  "candidate_sha256": "c096ef8e248e46253836ccf783c6e73f26f476200b2e8c6f87b3dcb6ccb279ab",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://applemapssearch.com/?e=ZXZoZWxwZGVza0Bldi1jb25zdWx0ZWNoLmNvbQ==&ls=eXA2",
+  "requested_url": "https://amregistrations.com",
+  "browser_final_url": "https://amregistrations.com/",
+  "source_urls": [
+    "https://applemapssearch.com/?e=ZXZoZWxwZGVza0Bldi1jb25zdWx0ZWNoLmNvbQ==&ls=eXA2"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 60764,
+      "source_url": "https://applemapssearch.com/?e=ZXZoZWxwZGVza0Bldi1jb25zdWx0ZWNoLmNvbQ==&ls=eXA2",
+      "source_hostname": "applemapssearch.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://amregistrations.com",
+      "final_hostname": "amregistrations.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 45571,
+      "elapsed_ms": 2583,
+      "checked_at": "2026-10-05T13:17:37.528897+00:00",
+      "error": null,
+      "normalized_source_url": "https://applemapssearch.com/?e=ZXZoZWxwZGVza0Bldi1jb25zdWx0ZWNoLmNvbQ==&ls=eXA2",
+      "normalized_final_url": "https://amregistrations.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_cc129ed5edd7e4c6da074ef19b5bc807fe15ce62b67afe631ed8393b24bf85b3",
+    "representative_source_index": 60764,
+    "representative_source_url": "https://applemapssearch.com/?e=ZXZoZWxwZGVza0Bldi1jb25zdWx0ZWNoLmNvbQ==&ls=eXA2",
+    "representative_final_url": "https://amregistrations.com",
+    "normalized_final_url": "https://amregistrations.com/",
+    "source_hostname": "applemapssearch.com",
+    "final_hostname": "amregistrations.com",
+    "source_urls": [
+      "https://applemapssearch.com/?e=ZXZoZWxwZGVza0Bldi1jb25zdWx0ZWNoLmNvbQ==&ls=eXA2"
+    ],
+    "provenance": [
+      {
+        "source_index": 60764,
+        "source_url": "https://applemapssearch.com/?e=ZXZoZWxwZGVza0Bldi1jb25zdWx0ZWNoLmNvbQ==&ls=eXA2",
+        "source_hostname": "applemapssearch.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://amregistrations.com",
+        "final_hostname": "amregistrations.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 45571,
+        "elapsed_ms": 2583,
+        "checked_at": "2026-10-05T13:17:37.528897+00:00",
+        "error": null,
+        "normalized_source_url": "https://applemapssearch.com/?e=ZXZoZWxwZGVza0Bldi1jb25zdWx0ZWNoLmNvbQ==&ls=eXA2",
+        "normalized_final_url": "https://amregistrations.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "AMR — Get found by Siri.",
+  "capture_timestamp": "2026-10-05T14:55:49.363664+00:00",
+  "dom_chars": 45525,
+  "screenshot_bytes": 115773,
+  "dom_sha256": "3c31329a00d7a992eeaf3f1d274f4612bf3ec452da579ca751ef6e283971ec57",
+  "screenshot_sha256": "61c8b7abfee36429894aafb544c545de7d31ca1ba26a204f657aacbe76574dbc",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://amregistrations.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://amregistrations.com",
+    "browser_final_url": "https://amregistrations.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3809
+}

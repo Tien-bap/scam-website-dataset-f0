@@ -1,0 +1,265 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tropigas Natural</title>
+    <!--<link href="https://tropigasnatural.com/wp-content/themes/gasnatural/css/uikit.min.css" rel="stylesheet">-->
+    <link href="https://tropigasnatural.com/wp-content/themes/gasnatural/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://tropigasnatural.com/wp-content/themes/gasnatural/css/style.css" rel="stylesheet">
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-57251566-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+     <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <meta name="robots" content="max-image-preview:large">
+<style id="wp-img-auto-sizes-contain-inline-css" type="text/css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css" type="text/css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel="https://api.w.org/" href="https://tropigasnatural.com/index.php?rest_route=/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tropigasnatural.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.9.4">
+  </head><body id="error-page">
+
+    <img src="https://tropigasnatural.com/wp-content/themes/gasnatural/img/logoes2.jpg" alt="Instalaciones Fundacion Tropigas" class="img-responsive container">
+       <!-- Navigation Menu-->
+    <div class="navbar static-menu container no-padding menu-home" role="navigation" id="menu-header">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+       <a class="brand navbar-left" href="#inicio" rel="home" data-uk-smooth-scroll="">
+        <img id="logo" src="https://tropigasnatural.com/wp-content/themes/gasnatural/img/logo.png" class="img-responsive"></a>  
+        <div class="collapse navbar-collapse">
+          <ul class="navbar-nav navbar-right">
+            <li><a href="#inicio" data-uk-smooth-scroll="{offset: 100}">Inicio</a></li>
+            <li><a href="#nosotros" data-uk-smooth-scroll="{offset: 100}">Información<br>Corporativa</a></li>
+            <li><a href="#ventajas" data-uk-smooth-scroll="{offset: 100}">Ventajas</a></li>
+            <li><a href="#instalaciones" data-uk-smooth-scroll="{offset: 100}">Instalaciones</a></li>
+		      	<li><a href="#faqs" data-uk-smooth-scroll="{offset: 100}">Preguntas</a></li>
+            <li><a href="#empleos" data-uk-smooth-scroll="{offset: 100}">Empleos</a></li>
+            <li><a href="#contacto" data-uk-smooth-scroll="{offset: 100}">Contacto</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    
+    <!-- Navigation Menu-->  
+  <!--Content -->
+  <div class="container" id="content-container">
+    <div class="row inicio" id="inicio">
+            <div class="col-md-9">
+                      
+
+        <div class="col-md-6 no-padding" data-uk-scrollspy="{cls:'uk-animation-slide-right', delay: 50}">
+         <a href="https://tropigasnatural.com/?p=26">   
+            <div class="col-md-6">
+              <img width="186" height="186" src="https://tropigasnatural.com/wp-content/uploads/2014/07/1.png" class="img-responsive fotos-inicio wp-post-image" alt="" decoding="async" srcset="https://tropigasnatural.com/wp-content/uploads/2014/07/1.png 186w, https://tropigasnatural.com/wp-content/uploads/2014/07/1-150x150.png 150w" sizes="(max-width: 186px) 100vw, 186px">            </div>
+    				<div class="col-md-6">
+    					<h4 class="inicio-post-title">Instalaciones <span>Industriales</span></h4>
+    					<p></p><p>A través de un análisis de las necesidades energéticas de los clientes Tropigas Natural desarrolla una solución ideal para suplir sus necesidades. Con más de cincuenta años en la construcción de gaseoductos, instalaciones industriales para el manejo de combustible donde Nuestro departamento de I+D+i trabaja constantemente para ofrecer diseños e instalaciones de última generación, estudiando, […]</p>
+<p></p>
+    				</div> 
+			   </a>			
+        </div>
+              
+
+        <div class="col-md-6 no-padding" data-uk-scrollspy="{cls:'uk-animation-slide-right', delay: 50}">
+         <a href="https://tropigasnatural.com/?p=29">   
+            <div class="col-md-6">
+              <img width="197" height="197" src="https://tropigasnatural.com/wp-content/uploads/2014/07/seguridad.png" class="img-responsive fotos-inicio wp-post-image" alt="" decoding="async" srcset="https://tropigasnatural.com/wp-content/uploads/2014/07/seguridad.png 197w, https://tropigasnatural.com/wp-content/uploads/2014/07/seguridad-150x150.png 150w" sizes="(max-width: 197px) 100vw, 197px">            </div>
+    				<div class="col-md-6">
+    					<h4 class="inicio-post-title">Seguridad</h4>
+    					<p></p><p>A través del cumplimiento de las Normativas internacionales, NFPA 59ª y de la UNE 60210 garantizamos instalaciones de estándar internacional que cumplen con los más rigurosos estándares de seguridad. Preservando así la infraestructura de nuestros clientes así como garantizando una operación de suministro segura para el personal que la opera. La NFPA de carácter estadounidense […]</p>
+<p></p>
+    				</div> 
+			   </a>			
+        </div>
+          <div class="clearfix"></div>    
+
+        <div class="col-md-6 no-padding" data-uk-scrollspy="{cls:'uk-animation-slide-right', delay: 50}">
+         <a href="https://tropigasnatural.com/?p=32">   
+            <div class="col-md-6">
+              <img width="187" height="124" src="https://tropigasnatural.com/wp-content/uploads/2014/07/estaciongnv.jpg" class="img-responsive fotos-inicio wp-post-image" alt="" decoding="async">            </div>
+    				<div class="col-md-6">
+    					<h4 class="inicio-post-title">Estaciones de Servicio <span>GNV</span></h4>
+    					<p></p><p>Nuestras estaciones están estratégicamente ubicadas y poseen un gran número de dispensadores para que su abastecimiento de combustible sea rápido y seguro. Con la aplicación de las últimas tecnologías de compresión y siempre manteniendo la dualidad de sistemas, Tropigas Natural GNV puede garantizar que nuestros clientes reciban la mayor presión del mercado, optimizando su almacenamiento. […]</p>
+<p></p>
+    				</div> 
+			   </a>			
+        </div>
+              
+
+        <div class="col-md-6 no-padding" data-uk-scrollspy="{cls:'uk-animation-slide-right', delay: 50}">
+         <a href="https://tropigasnatural.com/?p=35">   
+            <div class="col-md-6">
+              <img width="187" height="187" src="https://tropigasnatural.com/wp-content/uploads/2014/07/transporte-gnl.png" class="img-responsive fotos-inicio wp-post-image" alt="" decoding="async" srcset="https://tropigasnatural.com/wp-content/uploads/2014/07/transporte-gnl.png 187w, https://tropigasnatural.com/wp-content/uploads/2014/07/transporte-gnl-150x150.png 150w" sizes="(max-width: 187px) 100vw, 187px">            </div>
+    				<div class="col-md-6">
+    					<h4 class="inicio-post-title">Transporte de <span>GNL</span></h4>
+    					<p></p><p>La mayor flota de transporte de GNL por carretera de la República Dominicana. Tropigas Natural ha invertido grande recursos para habilitar la mayor flota de camiones de Gas Natural utilizado equipos con la última tecnología de transporte de GNL por carretera con colas de aislado al Vacío lo cual permite el transporte del combustible con […]</p>
+<p></p>
+    				</div> 
+			   </a>			
+        </div>
+                        </div>
+      <div class="col-md-3" data-uk-scrollspy="{cls:'uk-animation-slide-right', delay: 50}">
+        <div style="background: #528D3F;background-size: cover;padding-top: 10px;padding-bottom: 10px;" class="row small-radius">
+        <h2 class="text-center" style="color:white">Precios de Combustibles al Día de Hoy</h2>
+                
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="robots" content="max-image-preview:large, noindex, follow">
+	<title>WordPress › Error</title>
+	<style type="text/css">
+		html {
+			background: #f1f1f1;
+		}
+		body {
+			background: #fff;
+			border: 1px solid #ccd0d4;
+			color: #444;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+			margin: 2em auto;
+			padding: 1em 2em;
+			max-width: 700px;
+			-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+			box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+		}
+		h1 {
+			border-bottom: 1px solid #dadada;
+			clear: both;
+			color: #666;
+			font-size: 24px;
+			margin: 30px 0 0 0;
+			padding: 0;
+			padding-bottom: 7px;
+		}
+		#error-page {
+			margin-top: 50px;
+		}
+		#error-page p,
+		#error-page .wp-die-message {
+			font-size: 14px;
+			line-height: 1.5;
+			margin: 25px 0 20px;
+		}
+		#error-page code {
+			font-family: Consolas, Monaco, monospace;
+		}
+		ul li {
+			margin-bottom: 10px;
+			font-size: 14px ;
+		}
+		a {
+			color: #2271b1;
+		}
+		a:hover,
+		a:active {
+			color: #135e96;
+		}
+		a:focus {
+			color: #043959;
+			box-shadow: 0 0 0 2px #2271b1;
+			outline: 2px solid transparent;
+		}
+		.button {
+			background: #f3f5f6;
+			border: 1px solid #016087;
+			color: #016087;
+			display: inline-block;
+			text-decoration: none;
+			font-size: 13px;
+			line-height: 2;
+			height: 28px;
+			margin: 0;
+			padding: 0 10px 1px;
+			cursor: pointer;
+			-webkit-border-radius: 3px;
+			-webkit-appearance: none;
+			border-radius: 3px;
+			white-space: nowrap;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing:    border-box;
+			box-sizing:         border-box;
+
+			vertical-align: top;
+		}
+
+		.button.button-large {
+			line-height: 2.30769231;
+			min-height: 32px;
+			padding: 0 12px;
+		}
+
+		.button:hover,
+		.button:focus {
+			background: #f1f1f1;
+		}
+
+		.button:focus {
+			background: #f3f5f6;
+			border-color: #007cba;
+			-webkit-box-shadow: 0 0 0 1px #007cba;
+			box-shadow: 0 0 0 1px #007cba;
+			color: #016087;
+			outline: 2px solid transparent;
+			outline-offset: 0;
+		}
+
+		.button:active {
+			background: #f3f5f6;
+			border-color: #7e8993;
+			-webkit-box-shadow: none;
+			box-shadow: none;
+		}
+
+			</style>
+
+
+	<div class="wp-die-message"><p>There has been a critical error on this website.</p><p><a href="https://wordpress.org/documentation/article/faq-troubleshooting/">Learn more about troubleshooting WordPress.</a></p></div>
+
+	</div></div></div></div></body>

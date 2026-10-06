@@ -1,0 +1,467 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Africa's Leading Auto Electrical Specialists | STRALT Industries</title>
+  <meta name="description" content="OEM Spec Starters &amp; Alternators, expertly remanufactured in house and backed by a Full Quality Guarantee for Maximum Industrial Performance across South Africa and beyond.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.stralt.co.za/">
+  <link rel="icon" href="/assets/images/straltroundlogo.png" type="image/png">
+  <link rel="apple-touch-icon" href="/assets/images/straltroundlogo.png">
+  <meta property="og:title" content="Africa's Leading Auto Electrical Specialists | STRALT Industries">
+  <meta property="og:description" content="OEM Spec Starters &amp; Alternators, expertly remanufactured in house and backed by a Full Quality Guarantee for Maximum Industrial Performance across South Africa and beyond.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.stralt.co.za/">
+  <meta property="og:image" content="https://www.stralt.co.za/assets/images/industries-bg-desktop.jpg">
+  <meta property="og:site_name" content="STRALT Industries">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Africa's Leading Auto Electrical Specialists | STRALT Industries">
+  <meta name="twitter:description" content="OEM Spec Starters &amp; Alternators, expertly remanufactured in house and backed by a Full Quality Guarantee for Maximum Industrial Performance across South Africa and beyond.">
+  <meta name="twitter:image" content="https://www.stralt.co.za/assets/images/industries-bg-desktop.jpg">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "STRALT Industries",
+    "legalName": "STRALT Industries",
+    "url": "https://www.stralt.co.za/",
+    "logo": "https://www.stralt.co.za/assets/logo/stralt_industries.png",
+    "image": "https://www.stralt.co.za/assets/images/industries-bg-desktop.jpg",
+    "email": "info@stralt.co.za",
+    "telephone": "+27-87-821-3310",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Unit 2, 3 and 13, 10 Covora Street, Jet Park",
+      "addressLocality": "Boksburg",
+      "addressRegion": "Gauteng",
+      "postalCode": "1459",
+      "addressCountry": "ZA"
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "17:00"
+      }
+    ],
+    "areaServed": [
+      { "@type": "Country", "name": "South Africa" },
+      { "@type": "Place", "name": "Africa" }
+    ],
+    "sameAs": [
+      "https://www.facebook.com/straltindustries",
+      "https://www.linkedin.com/company/stralt-industries/"
+    ],
+    "parentOrganization": {
+      "@type": "Organization",
+      "name": "STRALT Holdings",
+      "url": "https://www.stralt.co.za/"
+    }
+  }
+  </script>
+<link rel="stylesheet" href="css/styles.css?v=20260918">
+</head><body>
+
+  <div id="site-header">
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="index.html" class="logo">
+          <img src="assets/logo/stralt_industries.png?v=20260918f" alt="STRALT Industries" width="260" height="72" fetchpriority="high">
+        </a>
+        <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+        <nav class="main-nav" id="main-nav">
+          
+            <a href="index.html" class="active">Home</a>
+          
+            <a href="about.html" class="">Who We Are</a>
+          
+            <a href="products/index.html" class="">Industries</a>
+          
+            <a href="technologies.html" class="">Technologies</a>
+          
+            <a href="sectors.html" class="">Sectors</a>
+          
+            <a href="news.html" class="">News</a>
+          
+            <a href="contact.html" class="">Contact</a>
+          
+        </nav>
+      </div>
+    </header>
+  </div>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-carousel-bg" id="hero-carousel" aria-label="Product showcase">
+      <div class="hero-slide">
+        <picture>
+          <source type="image/webp" media="(max-width: 768px)" srcset="assets/images/service-starters-alternators-01-mobile.webp?v=20260901">
+          <source type="image/webp" srcset="assets/images/service-starters-alternators-01-desktop.webp?v=20260901">
+          <source media="(max-width: 768px)" srcset="assets/images/service-starters-alternators-01-mobile.jpg?v=20260901">
+          <img src="assets/images/service-starters-alternators-01-desktop.jpg?v=20260901" alt="">
+        </picture>
+      </div>
+      <div class="hero-slide">
+        <picture>
+          <source type="image/webp" media="(max-width: 768px)" srcset="assets/images/service-starters-alternators-02-mobile.webp?v=20260901">
+          <source type="image/webp" srcset="assets/images/service-starters-alternators-02-desktop.webp?v=20260901">
+          <source media="(max-width: 768px)" srcset="assets/images/service-starters-alternators-02-mobile.jpg?v=20260901">
+          <img src="assets/images/service-starters-alternators-02-desktop.jpg?v=20260901" alt="">
+        </picture>
+      </div>
+      <div class="hero-slide is-active">
+        <picture>
+          <source type="image/webp" media="(max-width: 768px)" srcset="assets/images/service-starters-alternators-04-mobile.webp?v=20260901">
+          <source type="image/webp" srcset="assets/images/service-starters-alternators-04-desktop.webp?v=20260901">
+          <source media="(max-width: 768px)" srcset="assets/images/service-starters-alternators-04-mobile.jpg?v=20260901">
+          <img src="assets/images/service-starters-alternators-04-desktop.jpg?v=20260901" alt="">
+        </picture>
+      </div>
+      <div class="hero-slide">
+        <picture>
+          <source type="image/webp" media="(max-width: 768px)" srcset="assets/images/home-hero-02-mobile.webp?v=20260901">
+          <source type="image/webp" srcset="assets/images/home-hero-02-desktop.webp?v=20260901">
+          <source media="(max-width: 768px)" srcset="assets/images/home-hero-02-mobile.jpg?v=20260901">
+          <img src="assets/images/home-hero-02-desktop.jpg?v=20260901" alt="">
+        </picture>
+      </div>
+      <div class="hero-slide">
+        <picture>
+          <source type="image/webp" media="(max-width: 768px)" srcset="assets/images/service-flame-proof-alternators-01-mobile.webp?v=20260901">
+          <source type="image/webp" srcset="assets/images/service-flame-proof-alternators-01-desktop.webp?v=20260901">
+          <source media="(max-width: 768px)" srcset="assets/images/service-flame-proof-alternators-01-mobile.jpg?v=20260901">
+          <img src="assets/images/service-flame-proof-alternators-01-desktop.jpg?v=20260901" alt="">
+        </picture>
+      </div>
+      <div class="hero-slide">
+        <picture>
+          <source type="image/webp" media="(max-width: 768px)" srcset="assets/images/service-air-hydraulic-starters-01-mobile.webp?v=20260901">
+          <source type="image/webp" srcset="assets/images/service-air-hydraulic-starters-01-desktop.webp?v=20260901">
+          <source media="(max-width: 768px)" srcset="assets/images/service-air-hydraulic-starters-01-mobile.jpg?v=20260901">
+          <img src="assets/images/service-air-hydraulic-starters-01-desktop.jpg?v=20260901" alt="">
+        </picture>
+      </div>
+      <div class="hero-slide">
+        <picture>
+          <source type="image/webp" media="(max-width: 768px)" srcset="assets/images/service-harness-manufacturing-01-mobile.webp?v=20260901">
+          <source type="image/webp" srcset="assets/images/service-harness-manufacturing-01-desktop.webp?v=20260901">
+          <source media="(max-width: 768px)" srcset="assets/images/service-harness-manufacturing-01-mobile.jpg?v=20260901">
+          <img src="assets/images/service-harness-manufacturing-01-desktop.jpg?v=20260901" alt="">
+        </picture>
+      </div>
+      <div class="hero-slide">
+        <picture>
+          <source type="image/webp" media="(max-width: 768px)" srcset="assets/images/service-auto-electrical-parts-08-mobile.webp?v=20260901">
+          <source type="image/webp" srcset="assets/images/service-auto-electrical-parts-08-desktop.webp?v=20260901">
+          <source media="(max-width: 768px)" srcset="assets/images/service-auto-electrical-parts-08-mobile.jpg?v=20260901">
+          <img src="assets/images/service-auto-electrical-parts-08-desktop.jpg?v=20260901" alt="">
+        </picture>
+      </div>
+      <div class="hero-slide">
+        <picture>
+          <source type="image/webp" media="(max-width: 768px)" srcset="assets/images/service-oe-spec-batteries-01-mobile.webp?v=20260901">
+          <source type="image/webp" srcset="assets/images/service-oe-spec-batteries-01-desktop.webp?v=20260901">
+          <source media="(max-width: 768px)" srcset="assets/images/service-oe-spec-batteries-01-mobile.jpg?v=20260901">
+          <img src="assets/images/service-oe-spec-batteries-01-desktop.jpg?v=20260901" alt="">
+        </picture>
+      </div>
+      <div class="hero-slide">
+        <picture>
+          <source type="image/webp" media="(max-width: 768px)" srcset="assets/images/service-led-worklights-01-mobile.webp?v=20260901">
+          <source type="image/webp" srcset="assets/images/service-led-worklights-01-desktop.webp?v=20260901">
+          <source media="(max-width: 768px)" srcset="assets/images/service-led-worklights-01-mobile.jpg?v=20260901">
+          <img src="assets/images/service-led-worklights-01-desktop.jpg?v=20260901" alt="">
+        </picture>
+      </div>
+    </div>
+    <div class="container hero-container">
+      <div class="hero-content">
+        <h1>Africa's Leading <span>Auto Electrical</span> Specialists</h1>
+        <p>OEM Spec Starters &amp; Alternators, expertly remanufactured in house and backed by a Full Quality Guarantee for Maximum Industrial Performance across South Africa and beyond.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Trust bar -->
+  <div class="trust-bar">
+    <div class="container">
+      <div class="trust-grid">
+        <div class="trust-item">
+          <div class="trust-media">
+            <picture><source type="image/webp" srcset="assets/images/trust-in-house.webp?v=20260901"><img src="assets/images/trust-in-house.png?v=20260901" alt="In House Engineering icon"></picture>
+          </div>
+          <strong>In House Engineering</strong>
+          <span>Full Design &amp; Remanufacturing Capability</span>
+        </div>
+        <div class="trust-item">
+          <div class="trust-media">
+            <picture><source type="image/webp" srcset="assets/images/trust-mine-spec.webp?v=20260901"><img src="assets/images/trust-mine-spec.png?v=20260901" alt="Mine Spec Installations icon"></picture>
+          </div>
+          <strong>Mine Spec Installations</strong>
+          <span>Surface &amp; Underground Mining</span>
+        </div>
+        <div class="trust-item">
+          <div class="trust-media">
+            <picture><source type="image/webp" srcset="assets/images/trust-oem-quality.webp?v=20260901"><img src="assets/images/trust-oem-quality.png?v=20260901" alt="OEM Quality icon"></picture>
+          </div>
+          <strong>OEM Quality</strong>
+          <span>Competing within the OEM Market</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Services & Technologies -->
+  <div class="home-services-page">
+    <section class="bg-stralt-grey">
+      <div class="container">
+        <div class="section-header services-header">
+          <h2 class="section-tag">What We Do</h2>
+          <p>Comprehensive Auto Electrical Solutions for Mining, Construction, Agriculture and Fleet Operations.</p>
+        </div>
+        
+    <div class="services-grid">
+      
+        <a href="products/starters-alternators.html" class="service-card">
+          <div class="service-card-img service-card-carousel" data-carousel-interval="2000"><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-starters-alternators-01-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-starters-alternators-01-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-starters-alternators-02-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-starters-alternators-02-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide is-active" style="background-image: image-set(url('assets/images/service-starters-alternators-03-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-starters-alternators-03-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-starters-alternators-04-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-starters-alternators-04-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-starters-alternators-05-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-starters-alternators-05-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-starters-alternators-06-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-starters-alternators-06-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-starters-alternators-07-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-starters-alternators-07-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-starters-alternators-08-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-starters-alternators-08-desktop.jpg?v=20260918f') type('image/jpeg'));"></span></div>
+          <div class="service-card-body">
+            <h3>Starters &amp; Alternators</h3>
+            <p>OEM Quality Remanufacturing of Starters and Alternators with Rigorous in house Testing.</p>
+            <span class="service-card-link">Learn more →</span>
+          </div>
+        </a>
+        <a href="products/air-hydraulic-starters.html" class="service-card">
+          <div class="service-card-img service-card-carousel" data-carousel-interval="2000"><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-air-hydraulic-starters-01-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-air-hydraulic-starters-01-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-air-hydraulic-starters-02-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-air-hydraulic-starters-02-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide is-active" style="background-image: image-set(url('assets/images/service-air-hydraulic-starters-03-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-air-hydraulic-starters-03-desktop.jpg?v=20260918f') type('image/jpeg'));"></span></div>
+          <div class="service-card-body">
+            <h3>Air &amp; Hydraulic Starters</h3>
+            <p>Air and Hydraulic Starting Systems for Heavy Duty Equipment.</p>
+            <span class="service-card-link">Learn more →</span>
+          </div>
+        </a>
+        <a href="products/flame-proof-alternators.html" class="service-card">
+          <div class="service-card-img service-card-carousel" data-carousel-interval="2000"><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-flame-proof-alternators-01-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-flame-proof-alternators-01-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-flame-proof-alternators-02-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-flame-proof-alternators-02-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide is-active" style="background-image: image-set(url('assets/images/service-flame-proof-alternators-03-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-flame-proof-alternators-03-desktop.jpg?v=20260918f') type('image/jpeg'));"></span></div>
+          <div class="service-card-body">
+            <h3>Flame Proof Alternators</h3>
+            <p>Flame Proof Alternators for Hazardous Mining Environments.</p>
+            <span class="service-card-link">Learn more →</span>
+          </div>
+        </a>
+        <a href="products/auto-electrical-parts.html" class="service-card">
+          <div class="service-card-img service-card-carousel" data-carousel-interval="2000"><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-auto-electrical-parts-01-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-auto-electrical-parts-01-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-auto-electrical-parts-02-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-auto-electrical-parts-02-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide is-active" style="background-image: image-set(url('assets/images/service-auto-electrical-parts-03-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-auto-electrical-parts-03-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-auto-electrical-parts-04-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-auto-electrical-parts-04-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-auto-electrical-parts-05-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-auto-electrical-parts-05-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-auto-electrical-parts-06-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-auto-electrical-parts-06-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-auto-electrical-parts-07-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-auto-electrical-parts-07-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-auto-electrical-parts-08-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-auto-electrical-parts-08-desktop.jpg?v=20260918f') type('image/jpeg'));"></span></div>
+          <div class="service-card-body">
+            <h3>Auto Electrical Parts</h3>
+            <p>Wide Variety of Auto Electrical Parts and Solutions including Large Volume Electrical Wire Stock.</p>
+            <span class="service-card-link">Learn more →</span>
+          </div>
+        </a>
+        <a href="products/harness-manufacturing.html" class="service-card">
+          <div class="service-card-img service-card-carousel" data-carousel-interval="2000"><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-harness-manufacturing-01-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-harness-manufacturing-01-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-harness-manufacturing-02-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-harness-manufacturing-02-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide is-active" style="background-image: image-set(url('assets/images/service-harness-manufacturing-03-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-harness-manufacturing-03-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-harness-manufacturing-04-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-harness-manufacturing-04-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-harness-manufacturing-05-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-harness-manufacturing-05-desktop.jpg?v=20260918f') type('image/jpeg'));"></span></div>
+          <div class="service-card-body">
+            <h3>Harness &amp; PDU Manufacturing</h3>
+            <p>Light to Heavy Duty Harnessing for all Auto Electrical Sectors.</p>
+            <span class="service-card-link">Learn more →</span>
+          </div>
+        </a>
+        <a href="products/connectors.html" class="service-card">
+          <div class="service-card-img service-card-carousel" data-carousel-interval="2000"><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-connectors-01-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-connectors-01-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-connectors-02-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-connectors-02-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide is-active" style="background-image: image-set(url('assets/images/service-connectors-03-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-connectors-03-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-connectors-04-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-connectors-04-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-connectors-05-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-connectors-05-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-connectors-06-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-connectors-06-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-connectors-07-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-connectors-07-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-connectors-08-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-connectors-08-desktop.jpg?v=20260918f') type('image/jpeg'));"></span></div>
+          <div class="service-card-body">
+            <h3>Connectors</h3>
+            <p>Comprehensive Range of Automotive Electrical Connectors for all Industrial Sectors. Over 1 Million In Stock.</p>
+            <span class="service-card-link">Learn more →</span>
+          </div>
+        </a>
+        <a href="products/led-worklights.html" class="service-card">
+          <div class="service-card-img service-card-carousel" data-carousel-interval="2000"><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-led-worklights-01-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-led-worklights-01-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-led-worklights-02-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-led-worklights-02-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide is-active" style="background-image: image-set(url('assets/images/service-led-worklights-03-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-led-worklights-03-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-led-worklights-04-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-led-worklights-04-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-led-worklights-05-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-led-worklights-05-desktop.jpg?v=20260918f') type('image/jpeg'));"></span></div>
+          <div class="service-card-body">
+            <h3>LED Worklights</h3>
+            <p>Heavy Duty LED Working Lighting for Mining and Industrial Vehicles.</p>
+            <span class="service-card-link">Learn more →</span>
+          </div>
+        </a>
+        <a href="products/oe-spec-batteries.html" class="service-card">
+          <div class="service-card-img service-card-carousel" data-carousel-interval="2000"><span class="service-card-slide is-active" style="background-image: image-set(url('assets/images/service-oe-spec-batteries-01-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-oe-spec-batteries-01-desktop.jpg?v=20260918f') type('image/jpeg'));"></span><span class="service-card-slide" style="background-image: image-set(url('assets/images/service-oe-spec-batteries-02-desktop.webp?v=20260918f') type('image/webp'), url('assets/images/service-oe-spec-batteries-02-desktop.jpg?v=20260918f') type('image/jpeg'));"></span></div>
+          <div class="service-card-body">
+            <h3>OE Spec Batteries</h3>
+            <p>Original Equipement Specification Batteries for Reliable Power.</p>
+            <span class="service-card-link">Learn more →</span>
+          </div>
+        </a>
+    </div>
+  
+        <div style="text-align:center;margin-top:40px;">
+          <a href="products/index.html" class="btn btn-white">View All Industries</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-band sister-cta-band">
+      <div class="container">
+        <div class="sister-banner">
+          <div class="sister-banner-content">
+            <div class="sister-banner-logo">
+              <img src="assets/logo/stralt_technologies.png?v=20260901" alt="Stralt Technologies">
+            </div>
+            <h3>STRALT Technologies</h3>
+            <p>OEM Specialists in Custom Wiring Harness Solutions, Braiding, PDU Boxes and Electrical Repairs. Ethically Built, Trusted by Industry Leaders.</p>
+            <a href="https://www.straltech.com" data-sister-site-link="" target="_blank" rel="noopener noreferrer" class="btn btn-outline">Visit straltech.com</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Industries -->
+  <section>
+    <div class="container">
+      <div class="section-header sectors-header">
+        <span class="section-tag">Sectors</span>
+        <h2>We Serve</h2>
+        <p>Trusted across South Africa and Cross Border Operations.</p>
+      </div>
+      <div class="industries-grid">
+        <a href="sectors.html#mining" class="industry-card">
+          <picture><source type="image/webp" srcset="assets/images/sector-mining-surface.webp?v=20260901"><img class="industry-card-bg" src="assets/images/sector-mining-surface.jpg?v=20260901" alt="Mining surface vehicle"></picture>
+          <h3><span>Mining — Surface</span></h3>
+        </a>
+        <a href="sectors.html#mining" class="industry-card">
+          <picture><source type="image/webp" srcset="assets/images/sector-mining-underground.webp?v=20260901"><img class="industry-card-bg" src="assets/images/sector-mining-underground.jpg?v=20260901" alt="Mining underground vehicle"></picture>
+          <h3><span>Mining — Underground</span></h3>
+        </a>
+        <a href="sectors.html#construction" class="industry-card">
+          <picture><source type="image/webp" srcset="assets/images/sector-construction.webp?v=20260901"><img class="industry-card-bg" src="assets/images/sector-construction.jpg?v=20260901" alt="Construction vehicle"></picture>
+          <h3><span>Construction</span></h3>
+        </a>
+        <a href="sectors.html#agriculture" class="industry-card">
+          <picture><source type="image/webp" srcset="assets/images/sector-agriculture.webp?v=20260901"><img class="industry-card-bg" src="assets/images/sector-agriculture.jpg?v=20260901" alt="Agriculture vehicle"></picture>
+          <h3><span>Agriculture</span></h3>
+        </a>
+        <a href="sectors.html#fleet-transport" class="industry-card">
+          <picture><source type="image/webp" srcset="assets/images/sector-fleet-transport.webp?v=20260901"><img class="industry-card-bg" src="assets/images/sector-fleet-transport.jpg?v=20260901" alt="Fleet and transport vehicle"></picture>
+          <h3><span>Fleet &amp; Transport</span></h3>
+        </a>
+        <a href="sectors.html#marine" class="industry-card">
+          <picture><source type="image/webp" srcset="assets/images/sector-marine.webp?v=20260901"><img class="industry-card-bg" src="assets/images/sector-marine.jpg?v=20260901" alt="Marine vessel"></picture>
+          <h3><span>Marine</span></h3>
+        </a>
+        <a href="sectors.html#bus" class="industry-card">
+          <picture><source type="image/webp" srcset="assets/images/sector-bus.webp?v=20260901"><img class="industry-card-bg" src="assets/images/sector-bus.jpg?v=20260901" alt="Bus and public transport"></picture>
+          <h3><span>Bus</span></h3>
+        </a>
+        <a href="sectors.html#military" class="industry-card">
+          <picture><source type="image/webp" srcset="assets/images/sector-military.webp?v=20260901"><img class="industry-card-bg" src="assets/images/sector-military.jpg?v=20260901" alt="Military vehicle"></picture>
+          <h3><span>Military</span></h3>
+        </a>
+        <a href="sectors.html#rail" class="industry-card">
+          <picture><source type="image/webp" srcset="assets/images/sector-rail.webp?v=20260901"><img class="industry-card-bg" src="assets/images/sector-rail.jpg?v=20260901" alt="Rail and locomotive"></picture>
+          <h3><span>Rail</span></h3>
+        </a>
+        <a href="sectors.html#energy" class="industry-card">
+          <picture><source type="image/webp" srcset="assets/images/sector-energy.webp?v=20260901"><img class="industry-card-bg" src="assets/images/sector-energy.jpg?v=20260901" alt="Energy and power generation"></picture>
+          <h3><span>Energy</span></h3>
+        </a>
+      </div>
+      <div style="text-align:center;margin-top:32px;">
+        <a href="sectors.html" class="btn btn-primary btn-sm">Explore Sectors</a>
+      </div>
+    </div>
+  </section>
+
+  <div id="site-footer">
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-grid">
+          <div class="footer-brand">
+            <a href="index.html" class="footer-brand-logo" aria-label="STRALT Industries home">
+              <img src="assets/logo/stralt_industries.png?v=20260918f" alt="STRALT Industries" width="280" height="80">
+            </a>
+            <p>An Industry Leading Enterprise Delivering OEM Quality Rotating Electrical Solutions alongside precision OEM Spec Harness and Braiding Systems to Global Industrial Markets</p>
+            <div class="footer-social">
+              <a href="https://www.linkedin.com/company/stralt-industries/" class="footer-social-link footer-social-linkedin" target="_blank" rel="noopener" aria-label="LinkedIn">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"></path></svg>
+              </a>
+              <a href="https://www.facebook.com/straltindustries" class="footer-social-link footer-social-facebook" target="_blank" rel="noopener" aria-label="Facebook">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"></path></svg>
+              </a>
+            </div>
+          </div>
+          <div class="footer-col">
+            <h4>Industries</h4>
+            <ul><li><a href="products/starters-alternators.html">Starters &amp; Alternators</a></li><li><a href="products/air-hydraulic-starters.html">Air &amp; Hydraulic Starters</a></li><li><a href="products/flame-proof-alternators.html">Flame Proof Alternators</a></li><li><a href="products/auto-electrical-parts.html">Auto Electrical Parts</a></li><li><a href="products/harness-manufacturing.html">Harness &amp; PDU Manufacturing</a></li><li><a href="products/connectors.html">Connectors</a></li><li><a href="products/led-worklights.html">LED Worklights</a></li><li><a href="products/oe-spec-batteries.html">OE Spec Batteries</a></li></ul>
+          </div>
+          <div class="footer-col">
+            <h4>Company</h4>
+            <ul>
+              <li><a href="about.html">Who We Are</a></li>
+              <li><a href="products/index.html">Industries</a></li>
+              <li><a href="technologies.html">Technologies</a></li>
+              <li><a href="sectors.html">Sectors</a></li>
+              <li><a href="news.html">News</a></li>
+              <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>Contact</h4>
+            <ul>
+              <li><a href="tel:27878213310">+27 87 821 3310</a></li>
+              <li><a href="https://wa.me/27639580180?text=Hi%20STRALT%2C%20I'd%20like%20help%20with%3A%20" target="_blank" rel="noopener noreferrer">+27 63 958 0180<br>(WhatsApp 24/7)</a></li>
+              <li><a href="mailto:info@stralt.co.za">info@stralt.co.za</a></li>
+              <li class="footer-address">Unit 2, 3 and 13<br>10 Covora Street,<br>Jet Park, Boksburg<br>Gauteng</li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <span>© 2026 STRALT Industries. All rights reserved.</span>
+          <a href="privacy.html">Privacy Policy</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+  <script src="js/main.js?v=20260918f"></script>
+
+
+<button type="button" class="whatsapp-float" aria-label="Chat with us on WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.435 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"></path></svg></button><div id="whatsapp-modal" class="wa-modal" hidden="" role="dialog" aria-modal="true" aria-labelledby="wa-modal-title">
+    <div class="wa-modal__backdrop" data-wa-close=""></div>
+    <div class="wa-modal__panel">
+      <button type="button" class="wa-modal__close" data-wa-close="" aria-label="Close WhatsApp form">×</button>
+      <div class="wa-modal__header">
+        <span class="wa-modal__icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.435 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"></path></svg></span>
+        <div>
+          <h2 id="wa-modal-title">Message us on WhatsApp</h2>
+          <p>Tell us briefly how we can help, then continue to WhatsApp.</p>
+        </div>
+      </div>
+      <form id="whatsapp-form" class="wa-form" novalidate="">
+        <div class="form-row">
+          <div class="form-group">
+            <label for="wa-name">Name *</label>
+            <input type="text" id="wa-name" name="name" autocomplete="given-name" required="">
+            <span class="wa-field-error" data-error-for="name" hidden=""></span>
+          </div>
+          <div class="form-group">
+            <label for="wa-surname">Surname *</label>
+            <input type="text" id="wa-surname" name="surname" autocomplete="family-name" required="">
+            <span class="wa-field-error" data-error-for="surname" hidden=""></span>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="wa-company">Company</label>
+          <input type="text" id="wa-company" name="company" autocomplete="organization">
+        </div>
+        <div class="form-group">
+          <label for="wa-message">How can we help you? *</label>
+          <textarea id="wa-message" name="message" maxlength="200" rows="4" required=""></textarea>
+          <div class="wa-message-meta">
+            <span class="wa-field-error" data-error-for="message" hidden=""></span>
+            <span class="wa-char-count" aria-live="polite">0 / 200 characters</span>
+          </div>
+        </div>
+        <button type="submit" class="btn wa-submit">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.435 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"></path></svg>
+          <span>Submit to WhatsApp</span>
+        </button>
+      </form>
+    </div>
+  </div></body>

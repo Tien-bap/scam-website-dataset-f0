@@ -1,0 +1,27 @@
+{
+  "original_url": "https://ahpweb.org/wrn/excelz/bizmail.php?email=cmVkYWN0ZWRAdGhyZWF0d2F2ZS5jb20=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1",
+  "hostname": "ahpweb.org",
+  "checked_at": "2026-10-04T15:48:10.262971+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a062c8-6ab9-731b-8457-3523cadf0f8e",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-02T15:41:58.273Z",
+  "scan_original_url": "http://ahpweb.org/",
+  "final_url": "https://ahpweb.org/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3871,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.7,
+  "discovery": {
+    "batch_id": "7a88e496ff714c142bbcdbce1807653e23a5804adde47f6e09f6d8b5917f9c34",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

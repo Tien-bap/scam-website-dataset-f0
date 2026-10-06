@@ -1,0 +1,27 @@
+{
+  "original_url": "https://asso-avsfr.com/wp-content/plugins/mmek/excel/excel/index.php",
+  "hostname": "asso-avsfr.com",
+  "checked_at": "2026-10-04T14:12:04.858611+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a02063-02fd-778d-88c8-005a3a90d428",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-20T18:16:05.408Z",
+  "scan_original_url": "https://www.asso-avsfr.com/",
+  "final_url": "https://asso-avsfr.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5383,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.108,
+  "discovery": {
+    "batch_id": "651df28fc790220512884d99c5061abd8da93dcd397ea6eeefc958db84fe669d",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

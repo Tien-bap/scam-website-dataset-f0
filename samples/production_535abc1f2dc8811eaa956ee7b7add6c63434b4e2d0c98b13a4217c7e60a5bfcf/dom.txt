@@ -1,0 +1,214 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live News World RSS Feed  - station.info </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin: 2rem 0;
+        }
+
+        .news-item {
+            background-color: white;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+        }
+
+        .news-item h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .news-item a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+
+        .news-item a:hover {
+            text-decoration: underline;
+        }
+
+        .news-item p {
+            font-size: 1rem;
+            margin-bottom: 0;
+        }
+
+    </style>
+</head><body>
+<div class="container">
+    <h1>Live News World RSS Feed</h1>
+    <a href="/">Back to the main page</a>
+    <br>
+    <h6 id="msg">This link is not allowed to be clicked! /5_15472_557_114_143178_134308_1_0_38_64267.</h6>
+    <hr>
+    <div id="news-items">
+        
+    <div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/crazy-flydubai-landing-explained-israeli-pilot-offers-steps-prevent-future-crises" target="_blank">'Crazy' FlyDubai landing explained by Israeli pilot, who offers steps to prevent future crises</a></h2>
+            <p>Eliran Almog, a former Israeli pilot and aviation cybersecurity CEO, explains why FlyDubai flight 1073's emergency landing was nearly impossible.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/flydubai-co-pilot-accused-stabbing-captain-identified-29-year-old-omani-national" target="_blank">FlyDubai co-pilot accused of stabbing captain identified as 29-year-old Omani national</a></h2>
+            <p>Hamam al-Hammami, the 29-year-old FlyDubai co-pilot accused of stabbing the captain on a Tel Aviv-bound flight, was previously grounded by Oman Air in 2024.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/flydubai-copilot-accused-cockpit-attack-grounded-oman-air-joining-airline-report" target="_blank">FlyDubai co-pilot accused of cockpit attack was grounded by Oman Air before joining airline: report</a></h2>
+            <p>The FlyDubai co-pilot was reportedly grounded by Oman Air in 2024 over visits to radical Islamic websites before being hired without a background check.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/uk-man-accused-planning-terrorism-acts-against-nigel-farage-also-charged-murder-another-politician" target="_blank">UK man accused of planning terrorism acts against Nigel Farage also charged in murder of another politician</a></h2>
+            <p>British prosecutors charged Ann Widdecombe murder suspect Joshua Kerry with preparing terrorist acts allegedly targeting Reform UK leader Nigel Farage.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/frances-teen-riots-take-explosive-new-turn-government-points-finger-hard-left" target="_blank">France’s teen riots take explosive new turn as government points finger at hard left</a></h2>
+            <p>Riot police clashed with teenagers across France as roughly 400 high schools closed and some 2,000 people were arrested amid escalating student unrest.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/hero-flydubai-pilot-fighting-life-plane-plunged-copilot-attack" target="_blank">Hero FlyDubai pilot says he was 'fighting for my life' as plane plunged after copilot attack</a></h2>
+            <p>Capt. Smit Machchhar told PM Narenda Modi he felt the FlyDubai plane plunging as he lay wounded and made one last push to open the cockpit door.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/trumps-iran-crackdown-collides-nato-ally-seeking-access-americas-prized-fighter-jet" target="_blank">Trump’s Iran crackdown collides with NATO ally seeking access to America’s prized fighter jet</a></h2>
+            <p>U.S.-sanctioned Iranian airlines made at least 83 flights into Turkey after a key Treasury deadline, the Foundation for Defense of Democracies says.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/doe-employee-charged-trying-aid-iran-backed-houthis-feds-say" target="_blank">DOE employee charged with trying to aid Iran-backed Houthis, feds say</a></h2>
+            <p>Ashton Hamed Ellaboudy allegedly used his electrical engineering expertise in an attempt to aid Houthi communications, drones and homemade explosives production.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/france-rocked-student-riots-hundreds-arrested-violence-spreads-nationwide" target="_blank">France rocked by student riots as hundreds arrested, violence spreads nationwide</a></h2>
+            <p>Violent student protests continue to spread across France, with school blockades, clashes with police and officials warning of outside agitators.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/exclusive-trumps-new-security-alliance-faces-first-real-world-test-deep-south-america-troops-deploy" target="_blank">EXCLUSIVE: Trump’s new security alliance faces first real-world test deep in South America as troops deploy</a></h2>
+            <p>Donald Trump's Shield of the Americas faces its first real test as Bolivia deploys forces to strategic routes amid renewed blockade and unrest fears.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/hezbollah-received-157m-weapons-2024-mostly-1-nation-report-says" target="_blank">Hezbollah received $157M in weapons in 2024, mostly from 1 nation, report says</a></h2>
+            <p>The Israeli Center for Research of Terror Financing found Iran gave Hezbollah $129 million in rockets, missiles, drones and anti-tank missiles in 2024.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/flydubai-pilot-showed-world-highest-form-courage-indias-pm-says" target="_blank">FlyDubai pilot showed world 'the highest form of courage,' India's PM says</a></h2>
+            <p>India Prime Minister Narendra Modi said India is saluting Smit Machchhar for his heroics onboard a FlyDubai plane that made an emergency landing.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/billion-dollar-power-link-connecting-israel-europe-hits-roadblock-bitter-regional-feud" target="_blank">Billion-dollar power link connecting Israel to Europe hits roadblock in bitter regional feud</a></h2>
+            <p>Cyprus accuses Recep Tayyip Erdoğan of blocking the Great Sea Interconnector energy project linking Israel, Cyprus and Greece amid maritime disputes.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/moscow-threatens-nuclear-response-over-tiny-fortress-wedged-between-us-allies-clash-fears-grow" target="_blank">Moscow threatens nuclear response over tiny fortress wedged between US allies as clash fears grow</a></h2>
+            <p>Russia's nuclear threat over Kaliningrad raises alarm as experts warn the Baltic exclave is already a hub for hybrid warfare against NATO allies.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/irish-pm-says-ireland-not-overrun-immigrants-legal-migration-tied-economic-success" target="_blank">Irish PM says Ireland ‘not overrun’ by immigrants, legal migration tied to economic success</a></h2>
+            <p>Micheál Martin addresses Ireland's demographic change as nearly one in four in Ireland are born abroad as the government moves to tighten asylum, citizenship and immigration rules.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/evangelical-leader-slams-palestinian-officials-bible-claims-contemptible" target="_blank">Evangelical leader slams Palestinian official’s Bible claims as ‘contemptible’</a></h2>
+            <p>Influential Pastor John Hagee slams Palestinian Ambassador Husam Zomlot's claim that the Bible is a "Palestinian book," calling it an attempt to erase Jewish history.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/taiwan-analysts-say-trump-xi-summit-produced-no-policy-shift-real-test-lies-ahead" target="_blank">Taiwan analysts say Trump-Xi summit produced no policy shift but real test lies ahead</a></h2>
+            <p>Taiwan analysts assess whether Xi Jinping secured private concessions from Trump, with arms sales and senior U.S. official visits as key tests ahead.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/us-ends-operation-inherent-resolve-mission-iraq-final-forces-leave-erbil" target="_blank">US military completes withdrawal of troops from Iraq after 12-year mission</a></h2>
+            <p>The U.S. military completed its withdrawal from Erbil Air Base, ending Operation Inherent Resolve in Iraq while relocating its headquarters to Jordan.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/flydubai-pilots-reportedly-fight-cockpit-triggering-hijacking-fears-israeli-fighter-jet-response" target="_blank">FlyDubai passenger says co-pilot stabbed captain before terrifying plunge, emergency landing</a></h2>
+            <p>A passenger says a FlyDubai co-pilot stabbed the captain before the Israel-bound flight plunged, triggering hijacking fears and an emergency diversion.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/motorcycle-patrols-swarm-iranian-cities-checkpoints-rise-regime-braces-unrest" target="_blank">Motorcycle patrols swarm Iranian cities, checkpoints rise as regime braces for unrest</a></h2>
+            <p>Sources told Fox News Digital that IRGC, Basij and police have flooded Tehran with checkpoints and patrols as student protests over compulsory hijab grow.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/hero-armed-cop-stopped-synagogue-massacre-canada-jewish-group-calls-armed-guards" target="_blank">Hero cop stopped synagogue massacre in Canada as Jewish group calls for armed guards</a></h2>
+            <p>The Yom Kippur attack outside Sons of Jacob Synagogue in Belleville has intensified demands for armed security at Jewish institutions across Canada.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/least-40-rescued-2-dead-boat-capsizes-machete-fight-near-puerto-rico" target="_blank">At least 40 rescued, 2 dead as boat capsizes after machete fight near Puerto Rico</a></h2>
+            <p>A machete fight aboard a makeshift migrant boat near Mona Island caused it to capsize, leaving survivors stranded in open waters for over 12 hours.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/us-visa-clash-exposes-sudans-forgotten-war-foreign-powers-compete-strategic-foothold" target="_blank">US visa clash exposes Sudan’s forgotten war as foreign powers compete for strategic foothold</a></h2>
+            <p>Abdel Fattah al-Burhan struck a defiant tone after Washington withheld his visa amid a dispute over a proposed 90-day humanitarian truce in Sudan.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/iran-under-scrutiny-after-plot-foiled-near-uk-base-used-us-military" target="_blank">Iran under scrutiny after plot foiled near UK base used by US military</a></h2>
+            <p>Experts suspect an Iran link after five were allegedly arrested with explosives near a U.K. U.S. military base. Russia and Islamic terrorists are also under scrutiny.</p>
+            <div>No content available.</div>
+        </div><div class="news-item">
+            <h2><a href="https://www.foxnews.com/world/uk-airbase-terror-suspects-released-bail-iran-denies-connection" target="_blank">UK airbase terror suspects being released on bail as Iran denies connection</a></h2>
+            <p>Five RAF Fairford terror suspects were released on bail as counter terrorism policing probes possible foreign state involvement in the plot.</p>
+            <div>No content available.</div>
+        </div></div>
+</div>
+<script>
+
+    const fetchRSSFeed = async (url) => {
+        const response = await fetch(url);
+        const text = await response.text();
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, "application/xml");
+        return xml;
+    };
+
+    const displayNewsItems = (xml) => {
+        const newsItemsContainer = document.getElementById("news-items");
+
+        const items = xml.querySelectorAll("item");
+
+        items.forEach((item) => {
+            const titleElement = item.querySelector("title");
+            const guidElement = item.querySelector("guid");
+            const descriptionElement = item.querySelector("description");
+            const contentElement = item.querySelector("content\\:encoded");
+
+            const title = titleElement ? titleElement.textContent : "Untitled";
+            const guid = guidElement ? guidElement.textContent : "#";
+            const description = descriptionElement ? descriptionElement.textContent : "No description available.";
+            const content = contentElement ? contentElement.textContent : "No content available.";
+
+            const newsItem = document.createElement("div");
+            newsItem.classList.add("news-item");
+
+            newsItem.innerHTML = `
+            <h2><a href="${guid}" target="_blank">${title}</a></h2>
+            <p>${description}</p>
+            <div>${content}</div>
+        `;
+
+            newsItemsContainer.appendChild(newsItem);
+        });
+    };
+
+    (async () => {
+        const foxNewsWorldRSSFeed = "https://feeds.foxnews.com/foxnews/world";
+        const xml = await fetchRSSFeed(foxNewsWorldRSSFeed);
+        displayNewsItems(xml);
+
+        document.getElementById("msg").textContent = new URLSearchParams(window.location.search).get("q");
+
+    })();
+
+
+</script>
+
+
+</body>

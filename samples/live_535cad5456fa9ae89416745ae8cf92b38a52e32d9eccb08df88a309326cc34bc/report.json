@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_535cad5456fa9ae89416745ae8cf92b38a52e32d9eccb08df88a309326cc34bc",
+  "candidate_sha256": "32d94a349873404f4f15186b86b3af4ddcc5f554a2764019d41e489a61594809",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://abraz.com.br/index-home.html",
+  "requested_url": "https://dr.net.br/",
+  "browser_final_url": "https://dr.net.br/",
+  "source_urls": [
+    "https://abraz.com.br/index-home.html"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 93245,
+      "source_url": "https://abraz.com.br/index-home.html",
+      "source_hostname": "abraz.com.br",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://dr.net.br/",
+      "final_hostname": "dr.net.br",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1110,
+      "checked_at": "2026-10-05T12:12:17.835215+00:00",
+      "error": null,
+      "normalized_source_url": "https://abraz.com.br/index-home.html",
+      "normalized_final_url": "https://dr.net.br/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_535cad5456fa9ae89416745ae8cf92b38a52e32d9eccb08df88a309326cc34bc",
+    "representative_source_index": 93245,
+    "representative_source_url": "https://abraz.com.br/index-home.html",
+    "representative_final_url": "https://dr.net.br/",
+    "normalized_final_url": "https://dr.net.br/",
+    "source_hostname": "abraz.com.br",
+    "final_hostname": "dr.net.br",
+    "source_urls": [
+      "https://abraz.com.br/index-home.html"
+    ],
+    "provenance": [
+      {
+        "source_index": 93245,
+        "source_url": "https://abraz.com.br/index-home.html",
+        "source_hostname": "abraz.com.br",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://dr.net.br/",
+        "final_hostname": "dr.net.br",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1110,
+        "checked_at": "2026-10-05T12:12:17.835215+00:00",
+        "error": null,
+        "normalized_source_url": "https://abraz.com.br/index-home.html",
+        "normalized_final_url": "https://dr.net.br/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Dr.net.br",
+  "capture_timestamp": "2026-10-05T14:42:54.417194+00:00",
+  "dom_chars": 110278,
+  "screenshot_bytes": 337015,
+  "dom_sha256": "85179bef4f1c2c08b58107d9ec5f8b2d4a2be86ea6e7f3bbe24804ee20b6c181",
+  "screenshot_sha256": "df5f722fd4ea8474a62f27498849b27efc669e8efcb8e985d9f3bcf0f2fc180c",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://dr.net.br/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://dr.net.br/",
+    "browser_final_url": "https://dr.net.br/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 6,
+  "downloaded_files": 0,
+  "elapsed_ms": 3112
+}

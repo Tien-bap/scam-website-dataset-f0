@@ -1,0 +1,27 @@
+{
+  "original_url": "https://affiliate.priceza.com/wp-content/upgrade/cvc",
+  "hostname": "affiliate.priceza.com",
+  "checked_at": "2026-10-04T15:55:06.764633+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a02c66-8eb8-7538-8c5d-2ebea41fb5e8",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-23T02:15:28.850Z",
+  "scan_original_url": "http://affiliate.priceza.com/",
+  "final_url": "https://affiliate.priceza.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3313,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.45,
+  "discovery": {
+    "batch_id": "3d7e6cb7afcf259c7727e2ec6ce15141a139f3ae215222129b83c58a4c4e7f13",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

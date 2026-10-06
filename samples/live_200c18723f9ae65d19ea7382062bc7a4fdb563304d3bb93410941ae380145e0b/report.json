@@ -1,0 +1,155 @@
+{
+  "candidate_id": "live_200c18723f9ae65d19ea7382062bc7a4fdb563304d3bb93410941ae380145e0b",
+  "candidate_sha256": "242fe5d173e63805b646d0198f6c9ae265cc0c8f705743cff1038beebdb2f6f5",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://gosalair.com/wp-admin/office/ddl/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f&session=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f",
+  "requested_url": "https://gosalair.com/",
+  "browser_final_url": "https://gosalair.com/",
+  "source_urls": [
+    "http://gosalair.com/wp-admin/office/ddl/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f&session=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 112981,
+      "source_url": "http://gosalair.com/wp-admin/office/ddl/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f&session=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f",
+      "source_hostname": "gosalair.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://gosalair.com/",
+      "final_hostname": "gosalair.com",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3922,
+      "checked_at": "2026-10-05T13:10:21.483254+00:00",
+      "error": null,
+      "normalized_source_url": "http://gosalair.com/wp-admin/office/ddl/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f&session=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f",
+      "normalized_final_url": "https://gosalair.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_200c18723f9ae65d19ea7382062bc7a4fdb563304d3bb93410941ae380145e0b",
+    "representative_source_index": 112981,
+    "representative_source_url": "http://gosalair.com/wp-admin/office/ddl/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f&session=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f",
+    "representative_final_url": "https://gosalair.com/",
+    "normalized_final_url": "https://gosalair.com/",
+    "source_hostname": "gosalair.com",
+    "final_hostname": "gosalair.com",
+    "source_urls": [
+      "http://gosalair.com/wp-admin/office/ddl/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f&session=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f"
+    ],
+    "provenance": [
+      {
+        "source_index": 112981,
+        "source_url": "http://gosalair.com/wp-admin/office/ddl/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f&session=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f",
+        "source_hostname": "gosalair.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://gosalair.com/",
+        "final_hostname": "gosalair.com",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3922,
+        "checked_at": "2026-10-05T13:10:21.483254+00:00",
+        "error": null,
+        "normalized_source_url": "http://gosalair.com/wp-admin/office/ddl/0nfile/0nfile/oneddrive/login-option.php?cmd=login_submit&id=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f&session=3c4c8342c9c6dc933abdab94cbcee98f3c4c8342c9c6dc933abdab94cbcee98f",
+        "normalized_final_url": "https://gosalair.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 3,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "HVAC Union City | Heating & Air Conditioning Near Me",
+  "capture_timestamp": "2026-10-05T16:34:39.414889+00:00",
+  "dom_chars": 202971,
+  "screenshot_bytes": 548329,
+  "dom_sha256": "63e3742b09d2a14a9185e1dc03f22da9d6be5dfe4e1eb745245cd97fdb55cb45",
+  "screenshot_sha256": "e5740c37ae0e9888964dee9e966059f324fe1b64ff12386f278fc202d86219ee",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://gosalair.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://gosalair.com/",
+    "browser_final_url": "https://gosalair.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 9203,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:36:53.157202+00:00",
+    "previous_report_sha256": "4a50eccade5688c278b2022bd4879f859febbad49038bd5af19daccbdfab6943",
+    "recovered_at": "2026-10-05T16:34:39.414889+00:00",
+    "result": "complete"
+  }
+}

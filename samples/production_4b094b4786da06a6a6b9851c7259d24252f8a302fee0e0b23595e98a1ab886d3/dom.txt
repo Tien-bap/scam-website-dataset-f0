@@ -1,0 +1,1198 @@
+<head><style class="vjs-styles-defaults">
+      .video-js {
+        width: 300px;
+        height: 150px;
+      }
+
+      .vjs-fluid:not(.vjs-audio-only-mode) {
+        padding-top: 56.25%
+      }
+    </style>
+  <meta charset="utf-8">
+  <!-- v27622 -->
+    <!-- guide_search/semantic_search_enabled = true -->
+
+  <!-- guide_search/articles_index = help_center_articles_v40 -->
+  <!-- guide_search/sections_index = sections_v4 -->
+  <!-- guide_search/community_posts_index = help_center_community_posts_v32 -->
+  <!-- guide_search/community_users_index = help_center_community_users_v5 -->
+  <!-- guide_search/external_content_index = external_content_records_v23 -->
+
+  <title>Kết quả tìm kiếm – Exness Copy Trading</title>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="">
+
+  
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-9728c5319eba0423daea7e82ae8a1641.css" media="all" id="stylesheet">
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" href="//static.zdassets.com/hc/assets/theming_v1_support-e05586b61178dcde2a13a3d323525a18.css" media="all">
+  <link rel="stylesheet" type="text/css" href="/hc/theming_assets/2304147/360001699031/style.css?digest=28469280181916">
+
+  <link rel="icon" type="image/x-icon" href="/hc/theming_assets/01HZYAF6JQ5SBAGW042DC0N47R">
+
+    <script type="text/javascript" integrity="sha384-/0TwwrtcW24WTSkTOAyqNadM2uYq9GfvNCTEJPJ7ElED/ypy6q+nwXGSShAnrW8M" crossorigin="anonymous" async="" src="https://cdn.amplitude.com/libs/analytics-browser-gtm-2.42.2-min.js.gz"></script><script type="text/javascript" async="" src="https://cdn.amplitude.com/libs/analytics-browser-gtm-wrapper-2.42.2.min.js.br"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-834FPN2800&amp;cx=c&amp;gtm=4e6781"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-M71C3QBXSG&amp;cx=c&amp;gtm=4e6781"></script><script src="https://connect.facebook.net/signals/config/315694619812272?v=2.9.349&amp;r=stable&amp;domain=social-trading.exness.help&amp;hme=f29d86973612db0f0627890a64bdc8c47b471189050b33f2680b7d76997afc9a&amp;ex_m=107%2C208%2C158%2C22%2C73%2C74%2C149%2C69%2C68%2C11%2C167%2C93%2C16%2C141%2C130%2C39%2C76%2C81%2C137%2C163%2C169%2C8%2C4%2C5%2C7%2C6%2C3%2C94%2C104%2C170%2C175%2C222%2C30%2C75%2C234%2C233%2C232%2C23%2C33%2C55%2C106%2C61%2C10%2C64%2C100%2C101%2C102%2C108%2C133%2C31%2C29%2C135%2C136%2C132%2C131%2C159%2C77%2C162%2C160%2C161%2C50%2C60%2C126%2C15%2C166%2C45%2C279%2C280%2C278%2C26%2C27%2C28%2C48%2C150%2C78%2C115%2C18%2C20%2C44%2C40%2C42%2C41%2C86%2C95%2C99%2C113%2C148%2C151%2C46%2C114%2C24%2C21%2C122%2C70%2C36%2C153%2C152%2C154%2C145%2C143%2C25%2C35%2C59%2C112%2C165%2C71%2C17%2C156%2C117%2C84%2C67%2C19%2C88%2C89%2C119%2C87%2C139%2C138%2C142%2C164%2C34%2C293%2C309%2C215%2C204%2C62%2C205%2C203%2C312%2C303%2C52%2C216%2C110%2C134%2C83%2C124%2C54%2C47%2C49%2C116%2C123%2C129%2C128%2C58%2C65%2C63%2C155%2C79%2C80%2C118%2C37%2C32%2C53%2C56%2C103%2C168%2C1%2C127%2C14%2C125%2C12%2C2%2C57%2C96%2C66%2C121%2C92%2C91%2C171%2C172%2C97%2C98%2C9%2C105%2C51%2C146%2C90%2C82%2C72%2C120%2C109%2C43%2C147%2C0%2C85%2C140%2C144%2C157%2C38%2C111%2C13%2C173" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=DC-11608044&amp;cx=c&amp;gtm=4e6781"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M94SM2"></script><script src="//static.zdassets.com/hc/assets/jquery-ed472032c65bb4295993684c673d706a.js"></script>
+    
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+
+<meta property="og:site_name" content="">
+
+
+  <script type="text/javascript" src="/hc/theming_assets/2304147/360001699031/script.js?digest=28469280181916"></script>
+<style>/*!
+ * Copyright Zendesk, Inc.
+ *
+ * Use of this source code is governed under the Apache License, Version 2.0
+ * found at http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY{
+  position:relative;
+  border:1px solid #d8dcde;
+  border-radius:4px;
+  background-color:#fff;
+  padding:20px 40px;
+  line-height:1.42857;
+  color:#68737d;
+  font-size:14px;
+}
+
+.oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  display:block;
+  margin:0;
+  color:#2f3941;
+  font-weight:600;
+}
+
+.j4PjRpHW7lSNqzFUVkdiwquA5yhyJevI{
+  margin:10px 0 0;
+}
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS{
+  direction:rtl;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL{
+  display:block;
+  position:absolute;
+  top:4px;
+  right:4px;
+  transition:background-color .1s ease-in-out;
+  border:none;
+  border-radius:50%;
+  background-color:transparent;
+  cursor:pointer;
+  width:28px;
+  height:28px;
+  overflow:hidden;
+  text-decoration:none;
+  font-size:0;
+  -webkit-user-select:none;
+     -moz-user-select:none;
+          user-select:none;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  display:block;
+  position:absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  transition:opacity .25s ease-in-out;
+  background-repeat:no-repeat;
+  background-position:50%;
+  background-size:12px;
+  content:"";
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  opacity:1;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%2368737d%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  opacity:0;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%232f3941%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta:before,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Qt6yLNXIu6VkEq6Q8Cb7w8fVqEvVWQzq:before,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus:before,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:hover:before{
+  opacity:0;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Qt6yLNXIu6VkEq6Q8Cb7w8fVqEvVWQzq:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus:after,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:hover:after{
+  opacity:1;
+}
+
+.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  outline:none;
+  background-color:color-mod(#68737d alpha(15%));
+}
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL{
+  right:auto;
+  left:4px;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23d93f4c%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23681219%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23228f67%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%230b3b29%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:before{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23ad5918%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:after{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2712%27 height=%2712%27 color=%27%23703815%27%3E%3Cpath stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27m3 9 6-6m0 6L3 3%27/%3E%3C/svg%3E");
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.FhX7nbqWv2hn1LUryjQwcA562pfet9cN:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  background-color:color-mod(#cc3340 alpha(15%));
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.X7J83wFig6JDZULO8MWowIxp6uStzirj:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  background-color:color-mod(#038153 alpha(15%));
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta,.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm:not(.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq) .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus{
+  background-color:color-mod(#ad5918 alpha(15%));
+}
+
+.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL.Gm7fuq8AqgoCjbkP6i5Vgq0LBz5aQUta:active,.hjkkBUi48PQ20mlsqeQtBQzu9Uioa_BY .RcaEiGX0A3kyCVPSSydgAyOGGRc5MylL:focus:active{
+  background-color:transparent;
+}
+
+.zuqb1_E1eW6vR2QIOcifg43IL35dkVtW{
+  background-color:#f8f9f9;
+}
+
+.A7206VdtAqwtFIm3sAvVw_FSKzfgZ6no{
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%2368737d%27%3E%3Cg stroke=%27currentColor%27%3E%3Ccircle cx=%277.5%27 cy=%278.5%27 r=%277%27 fill=%27none%27/%3E%3Cpath stroke-linecap=%27round%27 d=%27M7.5 12.5V8%27/%3E%3C/g%3E%3Ccircle cx=%277.5%27 cy=%275%27 r=%271%27 fill=%27currentColor%27/%3E%3C/svg%3E");
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN{
+  border-color:#f5b5ba;
+  background-color:#fff0f1;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%23cc3340%27%3E%3Cg fill=%27none%27 stroke=%27currentColor%27%3E%3Ccircle cx=%277.5%27 cy=%278.5%27 r=%277%27/%3E%3Cpath stroke-linecap=%27round%27 d=%27M7.5 4.5V9%27/%3E%3C/g%3E%3Ccircle cx=%277.5%27 cy=%2712%27 r=%271%27 fill=%27currentColor%27/%3E%3C/svg%3E");
+  color:#8c232c;
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj{
+  border-color:#aecfc2;
+  background-color:#edf8f4;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%23038153%27%3E%3Cg fill=%27none%27 stroke=%27currentColor%27%3E%3Cpath stroke-linecap=%27round%27 stroke-linejoin=%27round%27 d=%27m4 9 2.5 2.5 5-5%27/%3E%3Ccircle cx=%277.5%27 cy=%278.5%27 r=%277%27/%3E%3C/g%3E%3C/svg%3E");
+  color:#186146;
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm{
+  border-color:#fed6a8;
+  background-color:#fff7ed;
+  background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2716%27 height=%2716%27 color=%27%23ad5918%27%3E%3Cpath fill=%27none%27 stroke=%27currentColor%27 stroke-linecap=%27round%27 d=%27M.88 13.77 7.06 1.86c.19-.36.7-.36.89 0l6.18 11.91c.17.33-.07.73-.44.73H1.32c-.37 0-.61-.4-.44-.73zM7.5 6v3.5%27/%3E%3Ccircle cx=%277.5%27 cy=%2712%27 r=%271%27 fill=%27currentColor%27/%3E%3C/svg%3E");
+  color:#ad5918;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN,.A7206VdtAqwtFIm3sAvVw_FSKzfgZ6no,.X7J83wFig6JDZULO8MWowIxp6uStzirj,.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm{
+  background-repeat:no-repeat;
+  background-position:24px 22px;
+  padding-left:50px;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq{
+  box-shadow:0 20px 28px 0 color-mod(#17494d alpha(15%));
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.FhX7nbqWv2hn1LUryjQwcA562pfet9cN,.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.X7J83wFig6JDZULO8MWowIxp6uStzirj,.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm{
+  border-color:#d8dcde;
+  background-color:#fff;
+  color:#49545c;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#681219;
+}
+
+.X7J83wFig6JDZULO8MWowIxp6uStzirj .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#0b3b29;
+}
+
+.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#703815;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.FhX7nbqWv2hn1LUryjQwcA562pfet9cN .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#cc3340;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.X7J83wFig6JDZULO8MWowIxp6uStzirj .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#038153;
+}
+
+.FMYCmvXtsS6N5SRs_pF88gAhOnLqIHYq.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm .oPikK3G2Tkv7yYgW_phm8QoqS9GeopSy{
+  color:#ad5918;
+}
+
+.FhX7nbqWv2hn1LUryjQwcA562pfet9cN.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS,.A7206VdtAqwtFIm3sAvVw_FSKzfgZ6no.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS,.X7J83wFig6JDZULO8MWowIxp6uStzirj.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS,.XnWwn1n9xSK69XEGcYZlQltSvmMvsbCm.j_jUk6npo7qBPZXKDV16gVpuK7l9oIHS{
+  background-position:calc(100% - 24px) 22px;
+  padding-right:50px;
+  padding-left:40px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL25vZGVfbW9kdWxlcy9AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7O0VBS0U7O0FBRUY7RUFDRSxpQkFBaUI7RUFDakIsd0JBQXdCO0VBQ3hCLGlCQUFpQjtFQUNqQixxQkFBcUI7RUFDckIsaUJBQWlCO0VBQ2pCLG1CQUFtQjtFQUNuQixhQUFhO0VBQ2IsY0FBYztBQUNoQjs7QUFFQTtFQUNFLGFBQWE7RUFDYixRQUFRO0VBQ1IsYUFBYTtFQUNiLGVBQWU7QUFDakI7O0FBRUE7RUFDRSxlQUFlO0FBQ2pCOztBQUVBO0VBQ0UsYUFBYTtBQUNmOztBQUVBO0VBQ0UsYUFBYTtFQUNiLGlCQUFpQjtFQUNqQixPQUFPO0VBQ1AsU0FBUztFQUNULDJDQUEyQztFQUMzQyxXQUFXO0VBQ1gsaUJBQWlCO0VBQ2pCLDRCQUE0QjtFQUM1QixjQUFjO0VBQ2QsVUFBVTtFQUNWLFdBQVc7RUFDWCxlQUFlO0VBQ2Ysb0JBQW9CO0VBQ3BCLFdBQVc7RUFDWCx3QkFBd0I7S0FDckIscUJBQXFCO1VBQ2hCLGdCQUFnQjtBQUMxQjs7QUFFQTtFQUNFLGFBQWE7RUFDYixpQkFBaUI7RUFDakIsS0FBSztFQUNMLE9BQU87RUFDUCxRQUFRO0VBQ1IsTUFBTTtFQUNOLG1DQUFtQztFQUNuQywyQkFBMkI7RUFDM0IsdUJBQXVCO0VBQ3ZCLG9CQUFvQjtFQUNwQixVQUFVO0FBQ1o7O0FBRUE7RUFDRSxTQUFTO0VBQ1Qsd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0UsU0FBUztFQUNULHdEQUFxTztBQUN2Tzs7QUFFQTtFQUNFLFNBQVM7QUFDWDs7QUFFQTtFQUNFLFNBQVM7QUFDWDs7QUFFQTtFQUNFLFlBQVk7RUFDWiw4Q0FBOEM7QUFDaEQ7O0FBRUE7RUFDRSxVQUFVO0VBQ1YsUUFBUTtBQUNWOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0Usd0RBQXFPO0FBQ3ZPOztBQUVBO0VBQ0UsOENBQThDO0FBQ2hEOztBQUVBO0VBQ0UsOENBQThDO0FBQ2hEOztBQUVBO0VBQ0UsOENBQThDO0FBQ2hEOztBQUVBO0VBQ0UsNEJBQTRCO0FBQzlCOztBQUVBO0VBQ0Usd0JBQXdCO0FBQzFCOztBQUVBO0VBQ0Usd0RBQXVWO0FBQ3pWOztBQUVBO0VBQ0Usb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4Qix3REFBdVY7RUFDdlYsYUFBYTtBQUNmOztBQUVBO0VBQ0Usb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4Qix5REFBNlQ7RUFDN1QsYUFBYTtBQUNmOztBQUVBO0VBQ0Usb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4Qix5REFBc1k7RUFDdFksYUFBYTtBQUNmOztBQUVBO0VBQ0UsMkJBQTJCO0VBQzNCLDZCQUE2QjtFQUM3QixpQkFBaUI7QUFDbkI7O0FBRUE7RUFDRSxzREFBc0Q7QUFDeEQ7O0FBRUE7RUFDRSxvQkFBb0I7RUFDcEIscUJBQXFCO0VBQ3JCLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLGFBQWE7QUFDZjs7QUFFQTtFQUNFLDBDQUEwQztFQUMxQyxrQkFBa0I7RUFDbEIsaUJBQWlCO0FBQ25CIiwic291cmNlc0NvbnRlbnQiOlsiLyohXG4gKiBDb3B5cmlnaHQgWmVuZGVzaywgSW5jLlxuICpcbiAqIFVzZSBvZiB0aGlzIHNvdXJjZSBjb2RlIGlzIGdvdmVybmVkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjBcbiAqIGZvdW5kIGF0IGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC5cbiAqL1xuXG4uYy1jYWxsb3V0e1xuICBwb3NpdGlvbjpyZWxhdGl2ZTtcbiAgYm9yZGVyOjFweCBzb2xpZCAjZDhkY2RlO1xuICBib3JkZXItcmFkaXVzOjRweDtcbiAgYmFja2dyb3VuZC1jb2xvcjojZmZmO1xuICBwYWRkaW5nOjIwcHggNDBweDtcbiAgbGluZS1oZWlnaHQ6MS40Mjg1NztcbiAgY29sb3I6IzY4NzM3ZDtcbiAgZm9udC1zaXplOjE0cHg7XG59XG5cbi5jLWNhbGxvdXRfX3RpdGxle1xuICBkaXNwbGF5OmJsb2NrO1xuICBtYXJnaW46MDtcbiAgY29sb3I6IzJmMzk0MTtcbiAgZm9udC13ZWlnaHQ6NjAwO1xufVxuXG4uYy1jYWxsb3V0X19wYXJhZ3JhcGh7XG4gIG1hcmdpbjoxMHB4IDAgMDtcbn1cblxuLmMtY2FsbG91dC5pcy1ydGx7XG4gIGRpcmVjdGlvbjpydGw7XG59XG5cbi5jLWNhbGxvdXRfX2Nsb3Nle1xuICBkaXNwbGF5OmJsb2NrO1xuICBwb3NpdGlvbjphYnNvbHV0ZTtcbiAgdG9wOjRweDtcbiAgcmlnaHQ6NHB4O1xuICB0cmFuc2l0aW9uOmJhY2tncm91bmQtY29sb3IgLjFzIGVhc2UtaW4tb3V0O1xuICBib3JkZXI6bm9uZTtcbiAgYm9yZGVyLXJhZGl1czo1MCU7XG4gIGJhY2tncm91bmQtY29sb3I6dHJhbnNwYXJlbnQ7XG4gIGN1cnNvcjpwb2ludGVyO1xuICB3aWR0aDoyOHB4O1xuICBoZWlnaHQ6MjhweDtcbiAgb3ZlcmZsb3c6aGlkZGVuO1xuICB0ZXh0LWRlY29yYXRpb246bm9uZTtcbiAgZm9udC1zaXplOjA7XG4gIC13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTtcbiAgICAgLW1vei11c2VyLXNlbGVjdDpub25lO1xuICAgICAgICAgIHVzZXItc2VsZWN0Om5vbmU7XG59XG5cbi5jLWNhbGxvdXRfX2Nsb3NlOmFmdGVyLC5jLWNhbGxvdXRfX2Nsb3NlOmJlZm9yZXtcbiAgZGlzcGxheTpibG9jaztcbiAgcG9zaXRpb246YWJzb2x1dGU7XG4gIHRvcDowO1xuICByaWdodDowO1xuICBib3R0b206MDtcbiAgbGVmdDowO1xuICB0cmFuc2l0aW9uOm9wYWNpdHkgLjI1cyBlYXNlLWluLW91dDtcbiAgYmFja2dyb3VuZC1yZXBlYXQ6bm8tcmVwZWF0O1xuICBiYWNrZ3JvdW5kLXBvc2l0aW9uOjUwJTtcbiAgYmFja2dyb3VuZC1zaXplOjEycHg7XG4gIGNvbnRlbnQ6XCJcIjtcbn1cblxuLmMtY2FsbG91dF9fY2xvc2U6YmVmb3Jle1xuICBvcGFjaXR5OjE7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzEyJyBoZWlnaHQ9JzEyJyBjb2xvcj0nJTIzNjg3MzdkJyUzRSUzQ3BhdGggc3Ryb2tlPSdjdXJyZW50Q29sb3InIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgZD0nbTMgOSA2LTZtMCA2TDMgMycvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dF9fY2xvc2U6YWZ0ZXJ7XG4gIG9wYWNpdHk6MDtcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTInIGhlaWdodD0nMTInIGNvbG9yPSclMjMyZjM5NDEnJTNFJTNDcGF0aCBzdHJva2U9J2N1cnJlbnRDb2xvcicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdtMyA5IDYtNm0wIDZMMyAzJy8lM0UlM0Mvc3ZnJTNFXCIpO1xufVxuXG4uYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkOmJlZm9yZSwuYy1jYWxsb3V0X19jbG9zZS5pcy1ob3ZlcmVkOmJlZm9yZSwuYy1jYWxsb3V0X19jbG9zZTpmb2N1czpiZWZvcmUsLmMtY2FsbG91dF9fY2xvc2U6aG92ZXI6YmVmb3Jle1xuICBvcGFjaXR5OjA7XG59XG5cbi5jLWNhbGxvdXRfX2Nsb3NlLmlzLWZvY3VzZWQ6YWZ0ZXIsLmMtY2FsbG91dF9fY2xvc2UuaXMtaG92ZXJlZDphZnRlciwuYy1jYWxsb3V0X19jbG9zZTpmb2N1czphZnRlciwuYy1jYWxsb3V0X19jbG9zZTpob3ZlcjphZnRlcntcbiAgb3BhY2l0eToxO1xufVxuXG4uYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkLC5jLWNhbGxvdXRfX2Nsb3NlOmZvY3Vze1xuICBvdXRsaW5lOm5vbmU7XG4gIGJhY2tncm91bmQtY29sb3I6Y29sb3ItbW9kKCM2ODczN2QgYWxwaGEoMTUlKSk7XG59XG5cbi5jLWNhbGxvdXQuaXMtcnRsIC5jLWNhbGxvdXRfX2Nsb3Nle1xuICByaWdodDphdXRvO1xuICBsZWZ0OjRweDtcbn1cblxuLmMtY2FsbG91dC0tZXJyb3I6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6YmVmb3Jle1xuICBiYWNrZ3JvdW5kLWltYWdlOnVybChcImRhdGE6aW1hZ2Uvc3ZnK3htbDtjaGFyc2V0PXV0Zi04LCUzQ3N2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgY29sb3I9JyUyM2Q5M2Y0YyclM0UlM0NwYXRoIHN0cm9rZT0nY3VycmVudENvbG9yJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIGQ9J20zIDkgNi02bTAgNkwzIDMnLyUzRSUzQy9zdmclM0VcIik7XG59XG5cbi5jLWNhbGxvdXQtLWVycm9yOm5vdCguYy1jYWxsb3V0LS1kaWFsb2cpIC5jLWNhbGxvdXRfX2Nsb3NlOmFmdGVye1xuICBiYWNrZ3JvdW5kLWltYWdlOnVybChcImRhdGE6aW1hZ2Uvc3ZnK3htbDtjaGFyc2V0PXV0Zi04LCUzQ3N2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgY29sb3I9JyUyMzY4MTIxOSclM0UlM0NwYXRoIHN0cm9rZT0nY3VycmVudENvbG9yJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIGQ9J20zIDkgNi02bTAgNkwzIDMnLyUzRSUzQy9zdmclM0VcIik7XG59XG5cbi5jLWNhbGxvdXQtLXN1Y2Nlc3M6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6YmVmb3Jle1xuICBiYWNrZ3JvdW5kLWltYWdlOnVybChcImRhdGE6aW1hZ2Uvc3ZnK3htbDtjaGFyc2V0PXV0Zi04LCUzQ3N2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgY29sb3I9JyUyMzIyOGY2NyclM0UlM0NwYXRoIHN0cm9rZT0nY3VycmVudENvbG9yJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIGQ9J20zIDkgNi02bTAgNkwzIDMnLyUzRSUzQy9zdmclM0VcIik7XG59XG5cbi5jLWNhbGxvdXQtLXN1Y2Nlc3M6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6YWZ0ZXJ7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzEyJyBoZWlnaHQ9JzEyJyBjb2xvcj0nJTIzMGIzYjI5JyUzRSUzQ3BhdGggc3Ryb2tlPSdjdXJyZW50Q29sb3InIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgZD0nbTMgOSA2LTZtMCA2TDMgMycvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZzpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZTpiZWZvcmV7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzEyJyBoZWlnaHQ9JzEyJyBjb2xvcj0nJTIzYWQ1OTE4JyUzRSUzQ3BhdGggc3Ryb2tlPSdjdXJyZW50Q29sb3InIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgZD0nbTMgOSA2LTZtMCA2TDMgMycvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZzpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZTphZnRlcntcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTInIGhlaWdodD0nMTInIGNvbG9yPSclMjM3MDM4MTUnJTNFJTNDcGF0aCBzdHJva2U9J2N1cnJlbnRDb2xvcicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdtMyA5IDYtNm0wIDZMMyAzJy8lM0UlM0Mvc3ZnJTNFXCIpO1xufVxuXG4uYy1jYWxsb3V0LS1lcnJvcjpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkLC5jLWNhbGxvdXQtLWVycm9yOm5vdCguYy1jYWxsb3V0LS1kaWFsb2cpIC5jLWNhbGxvdXRfX2Nsb3NlOmZvY3Vze1xuICBiYWNrZ3JvdW5kLWNvbG9yOmNvbG9yLW1vZCgjY2MzMzQwIGFscGhhKDE1JSkpO1xufVxuXG4uYy1jYWxsb3V0LS1zdWNjZXNzOm5vdCguYy1jYWxsb3V0LS1kaWFsb2cpIC5jLWNhbGxvdXRfX2Nsb3NlLmlzLWZvY3VzZWQsLmMtY2FsbG91dC0tc3VjY2Vzczpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZTpmb2N1c3tcbiAgYmFja2dyb3VuZC1jb2xvcjpjb2xvci1tb2QoIzAzODE1MyBhbHBoYSgxNSUpKTtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZzpub3QoLmMtY2FsbG91dC0tZGlhbG9nKSAuYy1jYWxsb3V0X19jbG9zZS5pcy1mb2N1c2VkLC5jLWNhbGxvdXQtLXdhcm5pbmc6bm90KC5jLWNhbGxvdXQtLWRpYWxvZykgLmMtY2FsbG91dF9fY2xvc2U6Zm9jdXN7XG4gIGJhY2tncm91bmQtY29sb3I6Y29sb3ItbW9kKCNhZDU5MTggYWxwaGEoMTUlKSk7XG59XG5cbi5jLWNhbGxvdXQgLmMtY2FsbG91dF9fY2xvc2UuaXMtZm9jdXNlZDphY3RpdmUsLmMtY2FsbG91dCAuYy1jYWxsb3V0X19jbG9zZTpmb2N1czphY3RpdmV7XG4gIGJhY2tncm91bmQtY29sb3I6dHJhbnNwYXJlbnQ7XG59XG5cbi5jLWNhbGxvdXQtLXJlY2Vzc2Vke1xuICBiYWNrZ3JvdW5kLWNvbG9yOiNmOGY5Zjk7XG59XG5cbi5jLWNhbGxvdXQtLWluZm97XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzE2JyBoZWlnaHQ9JzE2JyBjb2xvcj0nJTIzNjg3MzdkJyUzRSUzQ2cgc3Ryb2tlPSdjdXJyZW50Q29sb3InJTNFJTNDY2lyY2xlIGN4PSc3LjUnIGN5PSc4LjUnIHI9JzcnIGZpbGw9J25vbmUnLyUzRSUzQ3BhdGggc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdNNy41IDEyLjVWOCcvJTNFJTNDL2clM0UlM0NjaXJjbGUgY3g9JzcuNScgY3k9JzUnIHI9JzEnIGZpbGw9J2N1cnJlbnRDb2xvcicvJTNFJTNDL3N2ZyUzRVwiKTtcbn1cblxuLmMtY2FsbG91dC0tZXJyb3J7XG4gIGJvcmRlci1jb2xvcjojZjViNWJhO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiNmZmYwZjE7XG4gIGJhY2tncm91bmQtaW1hZ2U6dXJsKFwiZGF0YTppbWFnZS9zdmcreG1sO2NoYXJzZXQ9dXRmLTgsJTNDc3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgd2lkdGg9JzE2JyBoZWlnaHQ9JzE2JyBjb2xvcj0nJTIzY2MzMzQwJyUzRSUzQ2cgZmlsbD0nbm9uZScgc3Ryb2tlPSdjdXJyZW50Q29sb3InJTNFJTNDY2lyY2xlIGN4PSc3LjUnIGN5PSc4LjUnIHI9JzcnLyUzRSUzQ3BhdGggc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdNNy41IDQuNVY5Jy8lM0UlM0MvZyUzRSUzQ2NpcmNsZSBjeD0nNy41JyBjeT0nMTInIHI9JzEnIGZpbGw9J2N1cnJlbnRDb2xvcicvJTNFJTNDL3N2ZyUzRVwiKTtcbiAgY29sb3I6IzhjMjMyYztcbn1cblxuLmMtY2FsbG91dC0tc3VjY2Vzc3tcbiAgYm9yZGVyLWNvbG9yOiNhZWNmYzI7XG4gIGJhY2tncm91bmQtY29sb3I6I2VkZjhmNDtcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTYnIGhlaWdodD0nMTYnIGNvbG9yPSclMjMwMzgxNTMnJTNFJTNDZyBmaWxsPSdub25lJyBzdHJva2U9J2N1cnJlbnRDb2xvciclM0UlM0NwYXRoIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcgZD0nbTQgOSAyLjUgMi41IDUtNScvJTNFJTNDY2lyY2xlIGN4PSc3LjUnIGN5PSc4LjUnIHI9JzcnLyUzRSUzQy9nJTNFJTNDL3N2ZyUzRVwiKTtcbiAgY29sb3I6IzE4NjE0Njtcbn1cblxuLmMtY2FsbG91dC0td2FybmluZ3tcbiAgYm9yZGVyLWNvbG9yOiNmZWQ2YTg7XG4gIGJhY2tncm91bmQtY29sb3I6I2ZmZjdlZDtcbiAgYmFja2dyb3VuZC1pbWFnZTp1cmwoXCJkYXRhOmltYWdlL3N2Zyt4bWw7Y2hhcnNldD11dGYtOCwlM0NzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMTYnIGhlaWdodD0nMTYnIGNvbG9yPSclMjNhZDU5MTgnJTNFJTNDcGF0aCBmaWxsPSdub25lJyBzdHJva2U9J2N1cnJlbnRDb2xvcicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBkPSdNLjg4IDEzLjc3IDcuMDYgMS44NmMuMTktLjM2LjctLjM2Ljg5IDBsNi4xOCAxMS45MWMuMTcuMzMtLjA3LjczLS40NC43M0gxLjMyYy0uMzcgMC0uNjEtLjQtLjQ0LS43M3pNNy41IDZ2My41Jy8lM0UlM0NjaXJjbGUgY3g9JzcuNScgY3k9JzEyJyByPScxJyBmaWxsPSdjdXJyZW50Q29sb3InLyUzRSUzQy9zdmclM0VcIik7XG4gIGNvbG9yOiNhZDU5MTg7XG59XG5cbi5jLWNhbGxvdXQtLWVycm9yLC5jLWNhbGxvdXQtLWluZm8sLmMtY2FsbG91dC0tc3VjY2VzcywuYy1jYWxsb3V0LS13YXJuaW5ne1xuICBiYWNrZ3JvdW5kLXJlcGVhdDpuby1yZXBlYXQ7XG4gIGJhY2tncm91bmQtcG9zaXRpb246MjRweCAyMnB4O1xuICBwYWRkaW5nLWxlZnQ6NTBweDtcbn1cblxuLmMtY2FsbG91dC0tZGlhbG9ne1xuICBib3gtc2hhZG93OjAgMjBweCAyOHB4IDAgY29sb3ItbW9kKCMxNzQ5NGQgYWxwaGEoMTUlKSk7XG59XG5cbi5jLWNhbGxvdXQtLWRpYWxvZy5jLWNhbGxvdXQtLWVycm9yLC5jLWNhbGxvdXQtLWRpYWxvZy5jLWNhbGxvdXQtLXN1Y2Nlc3MsLmMtY2FsbG91dC0tZGlhbG9nLmMtY2FsbG91dC0td2FybmluZ3tcbiAgYm9yZGVyLWNvbG9yOiNkOGRjZGU7XG4gIGJhY2tncm91bmQtY29sb3I6I2ZmZjtcbiAgY29sb3I6IzQ5NTQ1Yztcbn1cblxuLmMtY2FsbG91dC0tZXJyb3IgLmMtY2FsbG91dF9fdGl0bGV7XG4gIGNvbG9yOiM2ODEyMTk7XG59XG5cbi5jLWNhbGxvdXQtLXN1Y2Nlc3MgLmMtY2FsbG91dF9fdGl0bGV7XG4gIGNvbG9yOiMwYjNiMjk7XG59XG5cbi5jLWNhbGxvdXQtLXdhcm5pbmcgLmMtY2FsbG91dF9fdGl0bGV7XG4gIGNvbG9yOiM3MDM4MTU7XG59XG5cbi5jLWNhbGxvdXQtLWRpYWxvZy5jLWNhbGxvdXQtLWVycm9yIC5jLWNhbGxvdXRfX3RpdGxle1xuICBjb2xvcjojY2MzMzQwO1xufVxuXG4uYy1jYWxsb3V0LS1kaWFsb2cuYy1jYWxsb3V0LS1zdWNjZXNzIC5jLWNhbGxvdXRfX3RpdGxle1xuICBjb2xvcjojMDM4MTUzO1xufVxuXG4uYy1jYWxsb3V0LS1kaWFsb2cuYy1jYWxsb3V0LS13YXJuaW5nIC5jLWNhbGxvdXRfX3RpdGxle1xuICBjb2xvcjojYWQ1OTE4O1xufVxuXG4uYy1jYWxsb3V0LS1lcnJvci5pcy1ydGwsLmMtY2FsbG91dC0taW5mby5pcy1ydGwsLmMtY2FsbG91dC0tc3VjY2Vzcy5pcy1ydGwsLmMtY2FsbG91dC0td2FybmluZy5pcy1ydGx7XG4gIGJhY2tncm91bmQtcG9zaXRpb246Y2FsYygxMDAlIC0gMjRweCkgMjJweDtcbiAgcGFkZGluZy1yaWdodDo1MHB4O1xuICBwYWRkaW5nLWxlZnQ6NDBweDtcbn1cbiJdLCJzb3VyY2VSb290IjoiIn0= */</style><style>/**
+ * Copyright Zendesk, Inc.
+ *
+ * Use of this source code is governed under the Apache License, Version 2.0
+ * found at http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+:root {
+  --zd-color-black: #000;
+  --zd-color-green-100: #edf8f4;
+  --zd-color-green-200: #d1e8df;
+  --zd-color-green-300: #aecfc2;
+  --zd-color-green-400: #5eae91;
+  --zd-color-green-500: #228f67;
+  --zd-color-green-600: #038153;
+  --zd-color-green-700: #186146;
+  --zd-color-green-800: #0b3b29;
+  --zd-color-grey-100: #f8f9f9;
+  --zd-color-grey-200: #e9ebed;
+  --zd-color-grey-300: #d8dcde;
+  --zd-color-grey-400: #c2c8cc;
+  --zd-color-grey-500: #87929d;
+  --zd-color-grey-600: #68737d;
+  --zd-color-grey-700: #49545c;
+  --zd-color-grey-800: #2f3941;
+  --zd-color-blue-100: #edf7ff;
+  --zd-color-blue-200: #cee2f2;
+  --zd-color-blue-300: #adcce4;
+  --zd-color-blue-400: #5293c7;
+  --zd-color-blue-500: #337fbd;
+  --zd-color-blue-600: #1f73b7;
+  --zd-color-blue-700: #144a75;
+  --zd-color-blue-800: #0f3554;
+  --zd-color-kale-100: #f5fcfc;
+  --zd-color-kale-200: #daeded;
+  --zd-color-kale-300: #bdd9d7;
+  --zd-color-kale-400: #90bbbb;
+  --zd-color-kale-500: #498283;
+  --zd-color-kale-600: #17494d;
+  --zd-color-kale-700: #03363d;
+  --zd-color-kale-800: #012b30;
+  --zd-color-red-100: #fff0f1;
+  --zd-color-red-200: #f5d5d8;
+  --zd-color-red-300: #f5b5ba;
+  --zd-color-red-400: #e35b66;
+  --zd-color-red-500: #d93f4c;
+  --zd-color-red-600: #cc3340;
+  --zd-color-red-700: #8c232c;
+  --zd-color-red-800: #681219;
+  --zd-color-yellow-100: #fff7ed;
+  --zd-color-yellow-200: #ffeedb;
+  --zd-color-yellow-300: #fed6a8;
+  --zd-color-yellow-400: #ffb057;
+  --zd-color-yellow-500: #f79a3e;
+  --zd-color-yellow-600: #ed8f1c;
+  --zd-color-yellow-700: #ad5918;
+  --zd-color-yellow-800: #703815;
+  --zd-color-white: #fff;
+  --zd-color-secondary-azure-400: #3091ec;
+  --zd-color-secondary-azure-600: #1371d6;
+  --zd-color-secondary-crimson-400: #e34f32;
+  --zd-color-secondary-crimson-600: #c72a1c;
+  --zd-color-secondary-fuschia-400: #d653c2;
+  --zd-color-secondary-fuschia-600: #a81897;
+  --zd-color-secondary-lemon-400: #ffd424;
+  --zd-color-secondary-lemon-600: #ffbb10;
+  --zd-color-secondary-lime-400: #43b324;
+  --zd-color-secondary-lime-600: #2e8200;
+  --zd-color-secondary-mint-400: #00a656;
+  --zd-color-secondary-mint-600: #058541;
+  --zd-color-secondary-orange-400: #de701d;
+  --zd-color-secondary-orange-600: #bf5000;
+  --zd-color-secondary-pink-400: #ec4d63;
+  --zd-color-secondary-pink-600: #d42054;
+  --zd-color-secondary-purple-400: #b552e2;
+  --zd-color-secondary-purple-600: #6a27b8;
+  --zd-color-secondary-royal-400: #5d7df5;
+  --zd-color-secondary-royal-600: #3353e2;
+  --zd-color-secondary-teal-400: #02a191;
+  --zd-color-secondary-teal-600: #028079;
+  --zd-color-secondary-azure-M400: #5f8dcf;
+  --zd-color-secondary-azure-M600: #3a70b2;
+  --zd-color-secondary-crimson-M400: #cc6c5b;
+  --zd-color-secondary-crimson-M600: #b24a3c;
+  --zd-color-secondary-fuschia-M400: #cf62a8;
+  --zd-color-secondary-fuschia-M600: #a8458c;
+  --zd-color-secondary-lemon-M400: #e7a500;
+  --zd-color-secondary-lemon-M600: #c38f00;
+  --zd-color-secondary-lime-M400: #519e2d;
+  --zd-color-secondary-lime-M600: #47782c;
+  --zd-color-secondary-mint-M400: #299c66;
+  --zd-color-secondary-mint-M600: #2e8057;
+  --zd-color-secondary-orange-M400: #d4772c;
+  --zd-color-secondary-orange-M600: #b35827;
+  --zd-color-secondary-pink-M400: #d57287;
+  --zd-color-secondary-pink-M600: #b23a5d;
+  --zd-color-secondary-purple-M400: #b072cc;
+  --zd-color-secondary-purple-M600: #9358b0;
+  --zd-color-secondary-royal-M400: #7986d8;
+  --zd-color-secondary-royal-M600: #4b61c3;
+  --zd-color-secondary-teal-M400: #2d9e8f;
+  --zd-color-secondary-teal-M600: #3c7873;
+  --zd-color-chat-orange: #f79a3e;
+  --zd-color-connect-red: #ff6224;
+  --zd-color-explore-blue: #30aabc;
+  --zd-color-gather-pink: #f6c8be;
+  --zd-color-guide-pink: #eb4962;
+  --zd-color-message-green: #37b8af;
+  --zd-color-sell-gold: #c38f00;
+  --zd-color-support-green: #00a656;
+  --zd-color-talk-yellow: #efc93d;
+  --zd-font-family-monospace: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  --zd-font-family-system: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
+  --zd-font-size-xs: 10px;
+  --zd-font-size-sm: 12px;
+  --zd-font-size-md: 14px;
+  --zd-font-size-lg: 18px;
+  --zd-font-size-xl: 22px;
+  --zd-font-size-xxl: 26px;
+  --zd-font-size-xxxl: 36px;
+  --zd-font-size-sm-monospace: 11px;
+  --zd-font-size-md-monospace: 13px;
+  --zd-font-size-lg-monospace: 17px;
+  --zd-font-weight-thin: 100;
+  --zd-font-weight-extralight: 200;
+  --zd-font-weight-light: 300;
+  --zd-font-weight-regular: 400;
+  --zd-font-weight-medium: 500;
+  --zd-font-weight-semibold: 600;
+  --zd-font-weight-bold: 700;
+  --zd-font-weight-extrabold: 800;
+  --zd-font-weight-black: 900;
+  --zd-font-weight-ultralight: 200;
+  --zd-font-weight-ultrabold: 800;
+  --zd-font-weight-heavy: 900;
+  --zd-line-height-sm: 16px;
+  --zd-line-height-md: 20px;
+  --zd-line-height-lg: 24px;
+  --zd-line-height-xl: 28px;
+  --zd-line-height-xxl: 32px;
+  --zd-line-height-xxxl: 44px;
+  --zd-spacing-xxs: 4px;
+  --zd-spacing-xs: 8px;
+  --zd-spacing-sm: 12px;
+  --zd-spacing: 20px;
+  --zd-spacing-lg: 32px;
+  --zd-spacing-xl: 40px;
+  --zd-spacing-xxl: 48px;
+}
+
+.f9BqAlsIZvx7sACM4xRFqwHmcyIhbjt6 {
+}
+
+.kzYITkxJWL_02DpPXe0gWyN2swJRVitJ {
+}
+
+.wINJoVYRvGy8raLsj56fUQ_Rtxf8SXNp {
+}
+
+.QNIPdWgxsnPIjnQQzFMoMgcPDAOOsPrm {
+}
+
+._HdHwJNOTFG9Mij4WmL1AlvKwno7GrCd {
+  background-color: #f8f9f9;
+}
+
+.yXw8lmZs7Tg0Y73sa9aaAZs1ahSKzGnp {
+  background-color: transparent !important;
+  padding: 0;
+}
+
+.yXw8lmZs7Tg0Y73sa9aaAZs1ahSKzGnp.h4cMXsHyKKZf7DHHkpaaFwuvtZd3B4HJ {
+  outline: 1px solid #2f3941;
+  outline: 1px solid var(--zd-color-grey-800);
+}
+
+.yXw8lmZs7Tg0Y73sa9aaAZs1ahSKzGnp:focus-visible {
+  outline: 1px solid #2f3941;
+  outline: 1px solid var(--zd-color-grey-800);
+}
+
+.QN1ves1hk0MUeUx70asdhg7VPFdkXeNa {
+}
+
+.XJXUPzr7Dx0szbQn8wH5AZY581GZ1SmI {
+}
+
+.sPA0enxuGX2pj2jkRfN0ZArNVD80pacY {
+}
+
+/* Reset styles for links within notifications */
+
+.qQF1ABBg7opWaOeLFI1g1Ax8igXoLRdR a {
+  animation: none 0s ease 0s 1 normal none running;
+  -webkit-backface-visibility: visible;
+          backface-visibility: visible;
+  background: transparent none repeat 0 0 / auto auto padding-box border-box scroll;
+  border: medium none currentColor;
+  border-collapse: separate;
+  -o-border-image: none;
+     border-image: none;
+  border-radius: 0;
+  border-spacing: 0;
+  bottom: auto;
+  box-shadow: none;
+  box-sizing: content-box;
+  caption-side: top;
+  clear: none;
+  clip: auto;
+  color: #000;
+  -moz-columns: auto;
+       columns: auto;
+  -moz-column-count: auto;
+       column-count: auto;
+  -moz-column-fill: balance;
+       column-fill: balance;
+  grid-column-gap: normal;
+  -moz-column-gap: normal;
+       column-gap: normal;
+  -moz-column-rule: medium none currentColor;
+       column-rule: medium none currentColor;
+  -moz-column-span: 1;
+       column-span: 1;
+  -moz-column-width: auto;
+       column-width: auto;
+  content: normal;
+  counter-increment: none;
+  counter-reset: none;
+  cursor: auto;
+  direction: ltr;
+  display: inline;
+  empty-cells: show;
+  float: none;
+  font-family: serif;
+  font-size: medium;
+  font-style: normal;
+  font-feature-settings: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  height: auto;
+  -webkit-hyphens: none;
+          hyphens: none;
+  left: auto;
+  letter-spacing: normal;
+  list-style: disc outside none;
+  margin: 0;
+  max-height: none;
+  max-width: none;
+  min-height: 0;
+  min-width: 0;
+  opacity: 1;
+  orphans: 2;
+  outline: medium none invert;
+  overflow: visible;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding: 0;
+  page-break-after: auto;
+  page-break-before: auto;
+  page-break-inside: auto;
+  perspective: none;
+  perspective-origin: 50% 50%;
+  position: static;
+  right: auto;
+  -moz-tab-size: 8;
+    -o-tab-size: 8;
+       tab-size: 8;
+  table-layout: auto;
+  text-align: left;
+  -moz-text-align-last: auto;
+       text-align-last: auto;
+  text-decoration: none;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  top: auto;
+  transform: none;
+  transform-origin: 50% 50% 0;
+  transform-style: flat;
+  transition: none 0s ease 0s;
+  unicode-bidi: normal;
+  vertical-align: baseline;
+  visibility: visible;
+  white-space: normal;
+  widows: 2;
+  width: auto;
+  word-spacing: normal;
+  z-index: auto;
+  all: initial;
+  font-size: inherit;
+  font-family: inherit;
+  color: #0072ef;
+  cursor: pointer;
+}
+
+.qQF1ABBg7opWaOeLFI1g1Ax8igXoLRdR a:hover,
+.qQF1ABBg7opWaOeLFI1g1Ax8igXoLRdR a:focus {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL25vZGVfbW9kdWxlcy9AemVuZGVza2dhcmRlbi9jc3MtdmFyaWFibGVzL2Rpc3QvaW5kZXguY3NzIiwid2VicGFjazovLy4vdWkvY29tcG9uZW50cy9Ob3RpZmljYXRpb24vaW5kZXguY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7OztFQUtFOztBQUVGO0VBQ0Usc0JBQXNCO0VBQ3RCLDZCQUE2QjtFQUM3Qiw2QkFBNkI7RUFDN0IsNkJBQTZCO0VBQzdCLDZCQUE2QjtFQUM3Qiw2QkFBNkI7RUFDN0IsNkJBQTZCO0VBQzdCLDZCQUE2QjtFQUM3Qiw2QkFBNkI7RUFDN0IsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsNEJBQTRCO0VBQzVCLDRCQUE0QjtFQUM1Qiw0QkFBNEI7RUFDNUIsMkJBQTJCO0VBQzNCLDJCQUEyQjtFQUMzQiwyQkFBMkI7RUFDM0IsMkJBQTJCO0VBQzNCLDJCQUEyQjtFQUMzQiwyQkFBMkI7RUFDM0IsMkJBQTJCO0VBQzNCLDJCQUEyQjtFQUMzQiw4QkFBOEI7RUFDOUIsOEJBQThCO0VBQzlCLDhCQUE4QjtFQUM5Qiw4QkFBOEI7RUFDOUIsOEJBQThCO0VBQzlCLDhCQUE4QjtFQUM5Qiw4QkFBOEI7RUFDOUIsOEJBQThCO0VBQzlCLHNCQUFzQjtFQUN0Qix1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHlDQUF5QztFQUN6Qyx5Q0FBeUM7RUFDekMseUNBQXlDO0VBQ3pDLHlDQUF5QztFQUN6Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHNDQUFzQztFQUN0QyxzQ0FBc0M7RUFDdEMsc0NBQXNDO0VBQ3RDLHNDQUFzQztFQUN0Qyx3Q0FBd0M7RUFDeEMsd0NBQXdDO0VBQ3hDLHNDQUFzQztFQUN0QyxzQ0FBc0M7RUFDdEMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHNDQUFzQztFQUN0QyxzQ0FBc0M7RUFDdEMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4QywwQ0FBMEM7RUFDMUMsMENBQTBDO0VBQzFDLDBDQUEwQztFQUMxQywwQ0FBMEM7RUFDMUMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHVDQUF1QztFQUN2Qyx1Q0FBdUM7RUFDdkMseUNBQXlDO0VBQ3pDLHlDQUF5QztFQUN6Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLHlDQUF5QztFQUN6Qyx5Q0FBeUM7RUFDekMsd0NBQXdDO0VBQ3hDLHdDQUF3QztFQUN4Qyx1Q0FBdUM7RUFDdkMsdUNBQXVDO0VBQ3ZDLCtCQUErQjtFQUMvQiwrQkFBK0I7RUFDL0IsZ0NBQWdDO0VBQ2hDLCtCQUErQjtFQUMvQiw4QkFBOEI7RUFDOUIsaUNBQWlDO0VBQ2pDLDZCQUE2QjtFQUM3QixpQ0FBaUM7RUFDakMsK0JBQStCO0VBQy9CLGtHQUFrRztFQUNsRywwTkFBOEo7RUFDOUosdUJBQXVCO0VBQ3ZCLHVCQUF1QjtFQUN2Qix1QkFBdUI7RUFDdkIsdUJBQXVCO0VBQ3ZCLHVCQUF1QjtFQUN2Qix3QkFBd0I7RUFDeEIseUJBQXlCO0VBQ3pCLGlDQUFpQztFQUNqQyxpQ0FBaUM7RUFDakMsaUNBQWlDO0VBQ2pDLDBCQUEwQjtFQUMxQixnQ0FBZ0M7RUFDaEMsMkJBQTJCO0VBQzNCLDZCQUE2QjtFQUM3Qiw0QkFBNEI7RUFDNUIsOEJBQThCO0VBQzlCLDBCQUEwQjtFQUMxQiwrQkFBK0I7RUFDL0IsMkJBQTJCO0VBQzNCLGdDQUFnQztFQUNoQywrQkFBK0I7RUFDL0IsMkJBQTJCO0VBQzNCLHlCQUF5QjtFQUN6Qix5QkFBeUI7RUFDekIseUJBQXlCO0VBQ3pCLHlCQUF5QjtFQUN6QiwwQkFBMEI7RUFDMUIsMkJBQTJCO0VBQzNCLHFCQUFxQjtFQUNyQixvQkFBb0I7RUFDcEIscUJBQXFCO0VBQ3JCLGtCQUFrQjtFQUNsQixxQkFBcUI7RUFDckIscUJBQXFCO0VBQ3JCLHNCQUFzQjtBQUN4Qjs7QUNsSkE7QUFFQTs7QUFFQTtBQUVBOztBQUVBO0FBRUE7O0FBRUE7QUFFQTs7QUFFQTtFQUVFLHlCQUF5QjtBQUMzQjs7QUFFQTtFQUNFLHdDQUF3QztFQUV4QyxVQUFVO0FBQ1o7O0FBRUE7RUFDRSwwQkFBMkM7RUFBM0MsMkNBQTJDO0FBQzdDOztBQUZBO0VBQ0UsMEJBQTJDO0VBQTNDLDJDQUEyQztBQUM3Qzs7QUFFQTtBQUVBOztBQUVBO0FBRUE7O0FBRUE7QUFFQTs7QUFFQSxnREFBZ0Q7O0FBQ2hEO0VBQ0UsZ0RBQVk7RUFBWixvQ0FBWTtVQUFaLDRCQUFZO0VBQVosaUZBQVk7RUFBWixnQ0FBWTtFQUFaLHlCQUFZO0VBQVoscUJBQVk7S0FBWixrQkFBWTtFQUFaLGdCQUFZO0VBQVosaUJBQVk7RUFBWixZQUFZO0VBQVosZ0JBQVk7RUFBWix1QkFBWTtFQUFaLGlCQUFZO0VBQVosV0FBWTtFQUFaLFVBQVk7RUFBWixXQUFZO0VBQVosa0JBQVk7T0FBWixhQUFZO0VBQVosdUJBQVk7T0FBWixrQkFBWTtFQUFaLHlCQUFZO09BQVosb0JBQVk7RUFBWix1QkFBWTtFQUFaLHVCQUFZO09BQVosa0JBQVk7RUFBWiwwQ0FBWTtPQUFaLHFDQUFZO0VBQVosbUJBQVk7T0FBWixjQUFZO0VBQVosdUJBQVk7T0FBWixrQkFBWTtFQUFaLGVBQVk7RUFBWix1QkFBWTtFQUFaLG1CQUFZO0VBQVosWUFBWTtFQUFaLGNBQVk7RUFBWixlQUFZO0VBQVosaUJBQVk7RUFBWixXQUFZO0VBQVosa0JBQVk7RUFBWixpQkFBWTtFQUFaLGtCQUFZO0VBQVosNkJBQVk7RUFBWixvQkFBWTtFQUFaLG1CQUFZO0VBQVosb0JBQVk7RUFBWixtQkFBWTtFQUFaLFlBQVk7RUFBWixxQkFBWTtVQUFaLGFBQVk7RUFBWixVQUFZO0VBQVosc0JBQVk7RUFBWiw2QkFBWTtFQUFaLFNBQVk7RUFBWixnQkFBWTtFQUFaLGVBQVk7RUFBWixhQUFZO0VBQVosWUFBWTtFQUFaLFVBQVk7RUFBWixVQUFZO0VBQVosMkJBQVk7RUFBWixpQkFBWTtFQUFaLG1CQUFZO0VBQVosbUJBQVk7RUFBWixVQUFZO0VBQVosc0JBQVk7RUFBWix1QkFBWTtFQUFaLHVCQUFZO0VBQVosaUJBQVk7RUFBWiwyQkFBWTtFQUFaLGdCQUFZO0VBQVosV0FBWTtFQUFaLGdCQUFZO0lBQVosY0FBWTtPQUFaLFdBQVk7RUFBWixrQkFBWTtFQUFaLGdCQUFZO0VBQVosMEJBQVk7T0FBWixxQkFBWTtFQUFaLHFCQUFZO0VBQVosY0FBWTtFQUFaLGlCQUFZO0VBQVosb0JBQVk7RUFBWixTQUFZO0VBQVosZUFBWTtFQUFaLDJCQUFZO0VBQVoscUJBQVk7RUFBWiwyQkFBWTtFQUFaLG9CQUFZO0VBQVosd0JBQVk7RUFBWixtQkFBWTtFQUFaLG1CQUFZO0VBQVosU0FBWTtFQUFaLFdBQVk7RUFBWixvQkFBWTtFQUFaLGFBQVk7RUFBWixZQUFZO0VBQ1osa0JBQWtCO0VBQ2xCLG9CQUFvQjtFQUNwQixjQUFjO0VBQ2QsZUFBZTtBQUNqQjs7QUFDQTs7RUFFRSwwQkFBMEI7QUFDNUIiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIENvcHlyaWdodCBaZW5kZXNrLCBJbmMuXG4gKlxuICogVXNlIG9mIHRoaXMgc291cmNlIGNvZGUgaXMgZ292ZXJuZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMFxuICogZm91bmQgYXQgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wLlxuICovXG5cbjpyb290IHtcbiAgLS16ZC1jb2xvci1ibGFjazogIzAwMDtcbiAgLS16ZC1jb2xvci1ncmVlbi0xMDA6ICNlZGY4ZjQ7XG4gIC0temQtY29sb3ItZ3JlZW4tMjAwOiAjZDFlOGRmO1xuICAtLXpkLWNvbG9yLWdyZWVuLTMwMDogI2FlY2ZjMjtcbiAgLS16ZC1jb2xvci1ncmVlbi00MDA6ICM1ZWFlOTE7XG4gIC0temQtY29sb3ItZ3JlZW4tNTAwOiAjMjI4ZjY3O1xuICAtLXpkLWNvbG9yLWdyZWVuLTYwMDogIzAzODE1MztcbiAgLS16ZC1jb2xvci1ncmVlbi03MDA6ICMxODYxNDY7XG4gIC0temQtY29sb3ItZ3JlZW4tODAwOiAjMGIzYjI5O1xuICAtLXpkLWNvbG9yLWdyZXktMTAwOiAjZjhmOWY5O1xuICAtLXpkLWNvbG9yLWdyZXktMjAwOiAjZTllYmVkO1xuICAtLXpkLWNvbG9yLWdyZXktMzAwOiAjZDhkY2RlO1xuICAtLXpkLWNvbG9yLWdyZXktNDAwOiAjYzJjOGNjO1xuICAtLXpkLWNvbG9yLWdyZXktNTAwOiAjODc5MjlkO1xuICAtLXpkLWNvbG9yLWdyZXktNjAwOiAjNjg3MzdkO1xuICAtLXpkLWNvbG9yLWdyZXktNzAwOiAjNDk1NDVjO1xuICAtLXpkLWNvbG9yLWdyZXktODAwOiAjMmYzOTQxO1xuICAtLXpkLWNvbG9yLWJsdWUtMTAwOiAjZWRmN2ZmO1xuICAtLXpkLWNvbG9yLWJsdWUtMjAwOiAjY2VlMmYyO1xuICAtLXpkLWNvbG9yLWJsdWUtMzAwOiAjYWRjY2U0O1xuICAtLXpkLWNvbG9yLWJsdWUtNDAwOiAjNTI5M2M3O1xuICAtLXpkLWNvbG9yLWJsdWUtNTAwOiAjMzM3ZmJkO1xuICAtLXpkLWNvbG9yLWJsdWUtNjAwOiAjMWY3M2I3O1xuICAtLXpkLWNvbG9yLWJsdWUtNzAwOiAjMTQ0YTc1O1xuICAtLXpkLWNvbG9yLWJsdWUtODAwOiAjMGYzNTU0O1xuICAtLXpkLWNvbG9yLWthbGUtMTAwOiAjZjVmY2ZjO1xuICAtLXpkLWNvbG9yLWthbGUtMjAwOiAjZGFlZGVkO1xuICAtLXpkLWNvbG9yLWthbGUtMzAwOiAjYmRkOWQ3O1xuICAtLXpkLWNvbG9yLWthbGUtNDAwOiAjOTBiYmJiO1xuICAtLXpkLWNvbG9yLWthbGUtNTAwOiAjNDk4MjgzO1xuICAtLXpkLWNvbG9yLWthbGUtNjAwOiAjMTc0OTRkO1xuICAtLXpkLWNvbG9yLWthbGUtNzAwOiAjMDMzNjNkO1xuICAtLXpkLWNvbG9yLWthbGUtODAwOiAjMDEyYjMwO1xuICAtLXpkLWNvbG9yLXJlZC0xMDA6ICNmZmYwZjE7XG4gIC0temQtY29sb3ItcmVkLTIwMDogI2Y1ZDVkODtcbiAgLS16ZC1jb2xvci1yZWQtMzAwOiAjZjViNWJhO1xuICAtLXpkLWNvbG9yLXJlZC00MDA6ICNlMzViNjY7XG4gIC0temQtY29sb3ItcmVkLTUwMDogI2Q5M2Y0YztcbiAgLS16ZC1jb2xvci1yZWQtNjAwOiAjY2MzMzQwO1xuICAtLXpkLWNvbG9yLXJlZC03MDA6ICM4YzIzMmM7XG4gIC0temQtY29sb3ItcmVkLTgwMDogIzY4MTIxOTtcbiAgLS16ZC1jb2xvci15ZWxsb3ctMTAwOiAjZmZmN2VkO1xuICAtLXpkLWNvbG9yLXllbGxvdy0yMDA6ICNmZmVlZGI7XG4gIC0temQtY29sb3IteWVsbG93LTMwMDogI2ZlZDZhODtcbiAgLS16ZC1jb2xvci15ZWxsb3ctNDAwOiAjZmZiMDU3O1xuICAtLXpkLWNvbG9yLXllbGxvdy01MDA6ICNmNzlhM2U7XG4gIC0temQtY29sb3IteWVsbG93LTYwMDogI2VkOGYxYztcbiAgLS16ZC1jb2xvci15ZWxsb3ctNzAwOiAjYWQ1OTE4O1xuICAtLXpkLWNvbG9yLXllbGxvdy04MDA6ICM3MDM4MTU7XG4gIC0temQtY29sb3Itd2hpdGU6ICNmZmY7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWF6dXJlLTQwMDogIzMwOTFlYztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktYXp1cmUtNjAwOiAjMTM3MWQ2O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1jcmltc29uLTQwMDogI2UzNGYzMjtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktY3JpbXNvbi02MDA6ICNjNzJhMWM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWZ1c2NoaWEtNDAwOiAjZDY1M2MyO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1mdXNjaGlhLTYwMDogI2E4MTg5NztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbGVtb24tNDAwOiAjZmZkNDI0O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1sZW1vbi02MDA6ICNmZmJiMTA7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWxpbWUtNDAwOiAjNDNiMzI0O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1saW1lLTYwMDogIzJlODIwMDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbWludC00MDA6ICMwMGE2NTY7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LW1pbnQtNjAwOiAjMDU4NTQxO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1vcmFuZ2UtNDAwOiAjZGU3MDFkO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1vcmFuZ2UtNjAwOiAjYmY1MDAwO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1waW5rLTQwMDogI2VjNGQ2MztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktcGluay02MDA6ICNkNDIwNTQ7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXB1cnBsZS00MDA6ICNiNTUyZTI7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXB1cnBsZS02MDA6ICM2YTI3Yjg7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXJveWFsLTQwMDogIzVkN2RmNTtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktcm95YWwtNjAwOiAjMzM1M2UyO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS10ZWFsLTQwMDogIzAyYTE5MTtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktdGVhbC02MDA6ICMwMjgwNzk7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWF6dXJlLU00MDA6ICM1ZjhkY2Y7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWF6dXJlLU02MDA6ICMzYTcwYjI7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWNyaW1zb24tTTQwMDogI2NjNmM1YjtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktY3JpbXNvbi1NNjAwOiAjYjI0YTNjO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1mdXNjaGlhLU00MDA6ICNjZjYyYTg7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LWZ1c2NoaWEtTTYwMDogI2E4NDU4YztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbGVtb24tTTQwMDogI2U3YTUwMDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbGVtb24tTTYwMDogI2MzOGYwMDtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbGltZS1NNDAwOiAjNTE5ZTJkO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1saW1lLU02MDA6ICM0Nzc4MmM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LW1pbnQtTTQwMDogIzI5OWM2NjtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktbWludC1NNjAwOiAjMmU4MDU3O1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1vcmFuZ2UtTTQwMDogI2Q0NzcyYztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktb3JhbmdlLU02MDA6ICNiMzU4Mjc7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXBpbmstTTQwMDogI2Q1NzI4NztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktcGluay1NNjAwOiAjYjIzYTVkO1xuICAtLXpkLWNvbG9yLXNlY29uZGFyeS1wdXJwbGUtTTQwMDogI2IwNzJjYztcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktcHVycGxlLU02MDA6ICM5MzU4YjA7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXJveWFsLU00MDA6ICM3OTg2ZDg7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXJveWFsLU02MDA6ICM0YjYxYzM7XG4gIC0temQtY29sb3Itc2Vjb25kYXJ5LXRlYWwtTTQwMDogIzJkOWU4ZjtcbiAgLS16ZC1jb2xvci1zZWNvbmRhcnktdGVhbC1NNjAwOiAjM2M3ODczO1xuICAtLXpkLWNvbG9yLWNoYXQtb3JhbmdlOiAjZjc5YTNlO1xuICAtLXpkLWNvbG9yLWNvbm5lY3QtcmVkOiAjZmY2MjI0O1xuICAtLXpkLWNvbG9yLWV4cGxvcmUtYmx1ZTogIzMwYWFiYztcbiAgLS16ZC1jb2xvci1nYXRoZXItcGluazogI2Y2YzhiZTtcbiAgLS16ZC1jb2xvci1ndWlkZS1waW5rOiAjZWI0OTYyO1xuICAtLXpkLWNvbG9yLW1lc3NhZ2UtZ3JlZW46ICMzN2I4YWY7XG4gIC0temQtY29sb3Itc2VsbC1nb2xkOiAjYzM4ZjAwO1xuICAtLXpkLWNvbG9yLXN1cHBvcnQtZ3JlZW46ICMwMGE2NTY7XG4gIC0temQtY29sb3ItdGFsay15ZWxsb3c6ICNlZmM5M2Q7XG4gIC0temQtZm9udC1mYW1pbHktbW9ub3NwYWNlOiBTRk1vbm8tUmVndWxhciwgQ29uc29sYXMsICdMaWJlcmF0aW9uIE1vbm8nLCBNZW5sbywgQ291cmllciwgbW9ub3NwYWNlO1xuICAtLXpkLWZvbnQtZmFtaWx5LXN5c3RlbTogc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsICdTZWdvZSBVSScsIFJvYm90bywgT3h5Z2VuLVNhbnMsIFVidW50dSwgQ2FudGFyZWxsLCAnSGVsdmV0aWNhIE5ldWUnLCBBcmlhbCwgc2Fucy1zZXJpZjtcbiAgLS16ZC1mb250LXNpemUteHM6IDEwcHg7XG4gIC0temQtZm9udC1zaXplLXNtOiAxMnB4O1xuICAtLXpkLWZvbnQtc2l6ZS1tZDogMTRweDtcbiAgLS16ZC1mb250LXNpemUtbGc6IDE4cHg7XG4gIC0temQtZm9udC1zaXplLXhsOiAyMnB4O1xuICAtLXpkLWZvbnQtc2l6ZS14eGw6IDI2cHg7XG4gIC0temQtZm9udC1zaXplLXh4eGw6IDM2cHg7XG4gIC0temQtZm9udC1zaXplLXNtLW1vbm9zcGFjZTogMTFweDtcbiAgLS16ZC1mb250LXNpemUtbWQtbW9ub3NwYWNlOiAxM3B4O1xuICAtLXpkLWZvbnQtc2l6ZS1sZy1tb25vc3BhY2U6IDE3cHg7XG4gIC0temQtZm9udC13ZWlnaHQtdGhpbjogMTAwO1xuICAtLXpkLWZvbnQtd2VpZ2h0LWV4dHJhbGlnaHQ6IDIwMDtcbiAgLS16ZC1mb250LXdlaWdodC1saWdodDogMzAwO1xuICAtLXpkLWZvbnQtd2VpZ2h0LXJlZ3VsYXI6IDQwMDtcbiAgLS16ZC1mb250LXdlaWdodC1tZWRpdW06IDUwMDtcbiAgLS16ZC1mb250LXdlaWdodC1zZW1pYm9sZDogNjAwO1xuICAtLXpkLWZvbnQtd2VpZ2h0LWJvbGQ6IDcwMDtcbiAgLS16ZC1mb250LXdlaWdodC1leHRyYWJvbGQ6IDgwMDtcbiAgLS16ZC1mb250LXdlaWdodC1ibGFjazogOTAwO1xuICAtLXpkLWZvbnQtd2VpZ2h0LXVsdHJhbGlnaHQ6IDIwMDtcbiAgLS16ZC1mb250LXdlaWdodC11bHRyYWJvbGQ6IDgwMDtcbiAgLS16ZC1mb250LXdlaWdodC1oZWF2eTogOTAwO1xuICAtLXpkLWxpbmUtaGVpZ2h0LXNtOiAxNnB4O1xuICAtLXpkLWxpbmUtaGVpZ2h0LW1kOiAyMHB4O1xuICAtLXpkLWxpbmUtaGVpZ2h0LWxnOiAyNHB4O1xuICAtLXpkLWxpbmUtaGVpZ2h0LXhsOiAyOHB4O1xuICAtLXpkLWxpbmUtaGVpZ2h0LXh4bDogMzJweDtcbiAgLS16ZC1saW5lLWhlaWdodC14eHhsOiA0NHB4O1xuICAtLXpkLXNwYWNpbmcteHhzOiA0cHg7XG4gIC0temQtc3BhY2luZy14czogOHB4O1xuICAtLXpkLXNwYWNpbmctc206IDEycHg7XG4gIC0temQtc3BhY2luZzogMjBweDtcbiAgLS16ZC1zcGFjaW5nLWxnOiAzMnB4O1xuICAtLXpkLXNwYWNpbmcteGw6IDQwcHg7XG4gIC0temQtc3BhY2luZy14eGw6IDQ4cHg7XG59XG4iLCJAaW1wb3J0IFwiQHplbmRlc2tnYXJkZW4vY3NzLXZhcmlhYmxlc1wiO1xuXG4uZGVmYXVsdCB7XG4gIGNvbXBvc2VzOiBjLWNhbGxvdXQgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbn1cblxuLnN1Y2Nlc3Mge1xuICBjb21wb3NlczogYy1jYWxsb3V0IGMtY2FsbG91dC0tc3VjY2VzcyBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xufVxuXG4ud2FybmluZyB7XG4gIGNvbXBvc2VzOiBjLWNhbGxvdXQgYy1jYWxsb3V0LS13YXJuaW5nIGZyb20gXCJ+QHplbmRlc2tnYXJkZW4vY3NzLWNhbGxvdXRzL2Rpc3QvaW5kZXguY3NzXCI7XG59XG5cbi5lcnJvciB7XG4gIGNvbXBvc2VzOiBjLWNhbGxvdXQgYy1jYWxsb3V0LS1lcnJvciBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xufVxuXG4uaW5mbyB7XG4gIGNvbXBvc2VzOiBjLWNhbGxvdXQgYy1jYWxsb3V0LS1pbmZvIGZyb20gXCJ+QHplbmRlc2tnYXJkZW4vY3NzLWNhbGxvdXRzL2Rpc3QvaW5kZXguY3NzXCI7XG4gIGJhY2tncm91bmQtY29sb3I6ICNmOGY5Zjk7XG59XG5cbi5yZW1vdmUge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudCAhaW1wb3J0YW50O1xuICBjb21wb3NlczogYy1jYWxsb3V0X19jbG9zZSBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xuICBwYWRkaW5nOiAwO1xufVxuXG4ucmVtb3ZlOmZvY3VzLXZpc2libGUge1xuICBvdXRsaW5lOiAxcHggc29saWQgdmFyKC0temQtY29sb3ItZ3JleS04MDApO1xufVxuXG4udGl0bGUge1xuICBjb21wb3NlczogYy1jYWxsb3V0X190aXRsZSBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xufVxuXG4ucnRsIHtcbiAgY29tcG9zZXM6IGlzLXJ0bCBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xufVxuXG4uZmxvYXRpbmcge1xuICBjb21wb3NlczogYy1jYWxsb3V0LS1kaWFsb2cgZnJvbSBcIn5AemVuZGVza2dhcmRlbi9jc3MtY2FsbG91dHMvZGlzdC9pbmRleC5jc3NcIjtcbn1cblxuLyogUmVzZXQgc3R5bGVzIGZvciBsaW5rcyB3aXRoaW4gbm90aWZpY2F0aW9ucyAqL1xuLm5vdGlmaWNhdGlvbiBhIHtcbiAgYWxsOiBpbml0aWFsO1xuICBmb250LXNpemU6IGluaGVyaXQ7XG4gIGZvbnQtZmFtaWx5OiBpbmhlcml0O1xuICBjb2xvcjogIzAwNzJlZjtcbiAgY3Vyc29yOiBwb2ludGVyO1xufVxuLm5vdGlmaWNhdGlvbiBhOmhvdmVyLFxuLm5vdGlmaWNhdGlvbiBhOmZvY3VzIHtcbiAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7XG59XG4iXSwic291cmNlUm9vdCI6IiJ9 */</style><style>.gG1SKx_8sRWXWUqBql1Ygd7tnyV_z43E {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  width: 360px;
+  z-index: 2147483647; /* needs to be higher than the z-index of the navbar and modal backdrop */
+}
+
+[dir="rtl"] .gG1SKx_8sRWXWUqBql1Ygd7tnyV_z43E {
+  right: 0;
+  left: 16px;
+}
+
+.gG1SKx_8sRWXWUqBql1Ygd7tnyV_z43E > * {
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3VpL2NvbXBvbmVudHMvTm90aWZpY2F0aW9ucy9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZUFBZTtFQUNmLFNBQVM7RUFDVCxXQUFXO0VBQ1gsWUFBWTtFQUNaLG1CQUFtQixFQUFFLHlFQUF5RTtBQUNoRzs7QUFFQTtFQUNFLFFBQVE7RUFDUixVQUFVO0FBQ1o7O0FBRUE7RUFDRSxtQkFBbUI7QUFDckIiLCJzb3VyY2VzQ29udGVudCI6WyIubm90aWZpY2F0aW9ucyB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgdG9wOiAxNnB4O1xuICByaWdodDogMTZweDtcbiAgd2lkdGg6IDM2MHB4O1xuICB6LWluZGV4OiAyMTQ3NDgzNjQ3OyAvKiBuZWVkcyB0byBiZSBoaWdoZXIgdGhhbiB0aGUgei1pbmRleCBvZiB0aGUgbmF2YmFyIGFuZCBtb2RhbCBiYWNrZHJvcCAqL1xufVxuXG5bZGlyPVwicnRsXCJdIC5ub3RpZmljYXRpb25zIHtcbiAgcmlnaHQ6IDA7XG4gIGxlZnQ6IDE2cHg7XG59XG5cbi5ub3RpZmljYXRpb25zID4gKiB7XG4gIG1hcmdpbi1ib3R0b206IDEwcHg7XG59Il0sInNvdXJjZVJvb3QiOiIifQ== */</style><style>.NjHrlmSUIMtSlY7gtg7w7dtpuhz62MEa {
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3VpL2phdmFzY3JpcHRzL2VuZHVzZXIvbW9kdWxlcy9zZXR1cE5vdGlmaWNhdGlvbnMvaW5kZXguY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBRUEiLCJzb3VyY2VzQ29udGVudCI6WyIubm90aWZpY2F0aW9uQm9keSB7XG4gIGNvbXBvc2VzOiBjLWNhbGxvdXRfX3BhcmFncmFwaCBmcm9tIFwifkB6ZW5kZXNrZ2FyZGVuL2Nzcy1jYWxsb3V0cy9kaXN0L2luZGV4LmNzc1wiO1xufVxuIl0sInNvdXJjZVJvb3QiOiIifQ== */</style><script src="https://api.intelligent-assistant.io/cb/widget/loader.js" type="text/javascript" async=""></script><style data-emotion="muiltr" data-s=""></style></head><body class="" style=""><div></div>
+  
+  
+  
+
+  <link rel="icon" href="/hc/theming_assets/01HZYAF6JQ5SBAGW042DC0N47R">
+
+<script src="/hc/theming_assets/01KVZ3GYRKSA93Q7YSQZM4JRXX"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M94SM2');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M94SM2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({
+'event': 'domainInfo', // Custom event name for triggering GTM tags
+'domainType': 'Help Center',
+'domainSubtype': 'ST' // Replace  with your actual domain subtype
+});
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100;200;300;400;500;600;700;800;900&amp;family=Noto+Sans+Bengali:wght@100;200;300;400;500;600;700;800;900&amp;family=Noto+Sans+JP:wght@100;200;300;400;500;600;700;800;900&amp;family=Noto+Sans+KR:wght@300;400;500;600;700;800;900&amp;family=Noto+Sans+SC:wght@100;200;300;400;500;600;700;800;900&amp;family=Noto+Sans+Thai:wght@100;200;300;400;500;600;700;800;900&amp;family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link href="https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">  
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+<script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script> 
+
+<header class="header">
+  <div class="logo">
+   <a href="https://affiliate-test.zendesk.com/hc">
+<!--    <img src="/hc/theming_assets/01HZYAF2D5ZQMRBQ7E46KQMSXK" alt="Biểu tượng">  -->
+    </a>
+  </div>
+  	<div class="header-side">
+      <div class="other-helpcenters-banner">
+       <li class="item"><a href="help.exness-trader.market/hc/vi" target="_blank">Trung tâm Hỗ trợ Exness</a><i class="fa-solid fa-arrow-up"></i> </li> <li class="item"><a href="https://get.exness-affiliates.help/hc/" target="_blank">Trung tâm hỗ trợ Đối tác</a><i class="fa-solid fa-arrow-up"></i> </li><li class="item"> <a href="https://portfolio-management.exness.help/hc/" target="_blank" style="display: none;">Trung tâm hỗ trợ Quản lý danh mục đầu tư</a><i class="fa-solid fa-arrow-up" style="display: none;"></i> </li>
+    	</div>
+    	<div class="header-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="language-dropdown-toggle dropdown-toggle">
+<!--               Tiếng Việt -->
+              <img src="/hc/theming_assets/01HZYAF6E86GZSGCXCJM9W0C0V">
+            </a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/ar?return_to=%2Fhc%2Far%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="rtl" rel="nofollow" role="menuitem">
+                  
+									العربية
+                  
+                </a>
+              
+                <a href="/hc/change_language/bn?return_to=%2Fhc%2Fbn%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem">
+                  
+									বাংলা
+                  
+                </a>
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem">
+                  
+									English (United States)
+                  
+                </a>
+              
+                <a href="/hc/change_language/es?return_to=%2Fhc%2Fes%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem">
+                  
+									Español
+                  
+                </a>
+              
+                <a href="/hc/change_language/fr?return_to=%2Fhc%2Ffr%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem">
+                  
+									Français
+                  
+                </a>
+              
+                <a href="/hc/change_language/hi?return_to=%2Fhc%2Fhi%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem" style="display: none;">
+                  
+									हिंदी
+                  
+                </a>
+              
+                <a href="/hc/change_language/id?return_to=%2Fhc%2Fid%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem">
+                  
+									Bahasa Indonesia
+                  
+                </a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem" style="display: none;">
+                  
+									日本語
+                  
+                </a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem" style="display: none;">
+                  
+									한국어
+                  
+                </a>
+              
+                <a href="/hc/change_language/pt-br?return_to=%2Fhc%2Fpt-br%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem">
+                  
+                  Português
+                  
+                </a>
+              
+                <a href="/hc/change_language/th?return_to=%2Fhc%2Fth%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem">
+                  
+									ไทย
+                  
+                </a>
+              
+                <a href="/hc/change_language/ur?return_to=%2Fhc%2Fur%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="rtl" rel="nofollow" role="menuitem">
+                  
+									اردو
+                  
+                </a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro" dir="ltr" rel="nofollow" role="menuitem">
+                  
+									简体中文
+                  
+                </a>
+              
+            </span>
+          </div>
+        
+      </div>
+  
+  <div class="nav-wrapper-mobile dropdown">
+    <button class="menu-button-mobile" aria-controls="user-nav-mobile" aria-expanded="false" aria-label="Bật tắt menu điều hướng">
+          <img src="/hc/theming_assets/01HZYAF1VEPMWF4KAZAT88NC3Q" class="icon-menu" style="display: none;">
+    </button>
+    <nav class="menu-list-mobile dropdown-menu" id="user-nav-mobile" aria-expanded="false">
+      <ul class="menu-list-mobile-items">
+       <li class="item"><a href="help.exness-trader.market/hc/vi" target="_blank">Trung tâm Hỗ trợ Exness</a><i class="fa-solid fa-arrow-up"></i> </li> <li class="item"><a href="https://get.exness-affiliates.help/hc/" target="_blank">Trung tâm hỗ trợ Đối tác</a><i class="fa-solid fa-arrow-up"></i> </li><li class="item" style="display: none;"> <a href="https://portfolio-management.exness.help/hc/" target="_blank">Trung tâm hỗ trợ Quản lý danh mục đầu tư</a><i class="fa-solid fa-arrow-up"></i> </li>
+      </ul>
+    </nav>
+    
+      </div>
+</div></header>
+
+
+
+  <main role="main">
+    <script>
+  window.dataLayer = window.dataLayer || [];
+	dataLayer.push({
+    'pageType': 'search page'
+	});
+</script>
+<div class="container other_pages">
+  <nav class="search-result-page sub-nav">
+<!--     <ol class="breadcrumbs">
+  
+    <li title="Exness Copy Trading">
+      
+        <a href="/hc/vi">Exness Copy Trading</a>
+      
+    </li>
+  
+    <li title="Kết quả tìm kiếm">
+      
+        Kết quả tìm kiếm
+      
+    </li>
+  
+</ol>
+ -->
+    <form role="search" class="search" data-search="" action="/hc/vi/search" accept-charset="UTF-8" method="get"><input type="hidden" name="utf8" value="✓" autocomplete="off"><input type="search" name="query" id="query" value="điểm rủi ro" placeholder="Tìm kiếm" aria-label="Tìm kiếm"></form>
+  </nav>
+
+  <header class="page-header">
+<!--     <h1>Kết quả tìm kiếm</h1> -->
+    <h6>Bộ lọc</h6> 
+    <p class="page-header-description">10 kết quả cho "điểm rủi ro"</p>
+  </header>
+  
+  <div class="container-divider"></div> 
+
+
+  <div class="search-results">
+    <section class="search-results-sidebar">
+<!--       -->
+      
+        <section class="filters-in-section collapsible-sidebar">
+          
+            <h3 class="collapsible-sidebar-title sidenav-title">Theo nhóm</h3>
+          
+          
+          <ul>
+            
+              <li>
+                <a href="/hc/vi/search?filter_by=knowledge_base&amp;query=%C4%91i%E1%BB%83m+r%E1%BB%A7i+ro&amp;utf8=%E2%9C%93" class="sidenav-item" aria-selected="true"><input type="checkbox" aria-selected="true"><span>Tất cả các nhóm</span></a>
+              </li>
+            
+              <li>
+                <a href="/hc/vi/search?category=360001157431&amp;filter_by=knowledge_base&amp;query=%C4%91i%E1%BB%83m+r%E1%BB%A7i+ro&amp;utf8=%E2%9C%93" class="sidenav-item" aria-selected="false"><input type="checkbox" aria-selected="false"><span>Thông Tin Chung</span></a>
+              </li>
+            
+              <li>
+                <a href="/hc/vi/search?category=360002486919&amp;filter_by=knowledge_base&amp;query=%C4%91i%E1%BB%83m+r%E1%BB%A7i+ro&amp;utf8=%E2%9C%93" class="sidenav-item" aria-selected="false"><input type="checkbox" aria-selected="false"><span>Nhà cung cấp chiến lược</span></a>
+              </li>
+            
+          </ul>
+        </section>
+      
+    </section>
+    
+    
+    <section class="search-results-column">
+      <h3 class="search-results-subheading">
+        Thư viện Thông tin
+      </h3>
+    
+        <ul class="search-results-list">
+          
+            <li class="search-result-list-item result-article">
+              <h2 class="search-result-title">
+                <a href="/hc/vi/search/click?data=BAh7DjoHaWRsKwjni3nSUwA6D2FjY291bnRfaWRpA5MoIzoJdHlwZUkiDGFydGljbGUGOgZFVDoIdXJsSSIBjWh0dHBzOi8vc29jaWFsLXRyYWRpbmcuZXhuZXNzLmhlbHAvaGMvdmkvYXJ0aWNsZXMvMzYwMDEzNDY2NTk5LUIlRTElQkElQTNuZy10cmEtYyVFMSVCQiVBOXUtdGh1JUUxJUJBJUFEdC1uZyVFMSVCQiVBRi12JUUxJUJCJTgxLUNvcHktVHJhZGluZwY7CFQ6DnNlYXJjaF9pZEkiKTA3NGZlMTgzLWUyY2UtNDdkYi04OWU0LTg5YzYyY2NhMTQ3NAY7CEY6CXJhbmtpBjoLbG9jYWxlSSIHdmkGOwhUOgpxdWVyeUkiFcSRaeG7g20gcuG7p2kgcm8GOwhUOhJyZXN1bHRzX2NvdW50aQ8%3D--e4fd3cfe37b3254834bec312508d3c188726b31d" class="results-list-item-link">Bảng tra cứu thuật ngữ về Copy Trading</a>
+              </h2>
+              <article>
+                <div class="search-result-icons">
+<!--                   
+                    <span class="search-result-votes">164</span>
+                  
+                   -->
+                </div>
+                <div class="search-results-description">...tạo một chiến lược. <em>Điểm rủi ro</em> Đây là thang <em>điểm</em> từ 1 đến 10 để đánh giá mức độ <em>rủi ro</em> của một chiến lược dựa trên</div>
+                      <ul class="meta-group">
+                  <li>
+                    <ol class="breadcrumbs search-result-breadcrumbs">
+                      
+                        <li title="Exness Copy Trading"><a href="https://social-trading.exness.help">Exness Copy Trading</a></li>
+                      
+                        <li title="Thông Tin Chung"><a href="https://social-trading.exness.help/hc/vi/categories/360001157431-Th%C3%B4ng-Tin-Chung">Thông Tin Chung</a></li>
+                      
+                        <li title="Câu hỏi thường gặp"><a href="https://social-trading.exness.help/hc/vi/sections/360002799691-C%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p">Câu hỏi thường gặp</a></li>
+                      
+                    </ol>
+                  </li>
+<!--                   <li class="meta-data">Asma S</li> -->
+<!--                   <li class="meta-data"><time datetime="2025-11-20T04:13:18Z" title="2025-11-20T04:13:18Z" data-datetime="calendar">04:13 Ngày 20 tháng 11 năm 2025</time></li> -->
+                </ul>
+              </article>
+            </li>
+          
+            <li class="search-result-list-item result-article">
+              <h2 class="search-result-title">
+                <a href="/hc/vi/search/click?data=BAh7DjoHaWRsKwhzTHPSUwA6D2FjY291bnRfaWRpA5MoIzoJdHlwZUkiDGFydGljbGUGOgZFVDoIdXJsSSIB0Wh0dHBzOi8vc29jaWFsLXRyYWRpbmcuZXhuZXNzLmhlbHAvaGMvdmkvYXJ0aWNsZXMvMzYwMDEzMDU3MTM5LUglQzYlQjAlRTElQkIlOUJuZy1kJUUxJUJBJUFCbi1jJUM2JUExLWIlRTElQkElQTNuLXYlRTElQkIlODEtQ29weS1UcmFkaW5nLWQlQzMlQTBuaC1jaG8tTmglQzMlQTAtY3VuZy1jJUUxJUJBJUE1cC1DaGklRTElQkElQkZuLWwlQzYlQjAlRTElQkIlQTNjBjsIVDoOc2VhcmNoX2lkSSIpMDc0ZmUxODMtZTJjZS00N2RiLTg5ZTQtODljNjJjY2ExNDc0BjsIRjoJcmFua2kHOgtsb2NhbGVJIgd2aQY7CFQ6CnF1ZXJ5SSIVxJFp4buDbSBy4bunaSBybwY7CFQ6EnJlc3VsdHNfY291bnRpDw%3D%3D--d4ef940ec43da9e9cf14f90920cb33a8b089d6bc" class="results-list-item-link">Hướng dẫn cơ bản về Copy Trading dành cho Nhà cung cấp Chiến lược</a>
+              </h2>
+              <article>
+                <div class="search-result-icons">
+<!--                   
+                    <span class="search-result-votes">520</span>
+                  
+                   -->
+                </div>
+                <div class="search-results-description">...gia Lợi nhuận từ khi bắt đầu Mức sụt giảm tối đa và <em>điểm rủi ro</em> Mô tả chiến lược và các biểu tượng giao dịch Loại tài</div>
+                      <ul class="meta-group">
+                  <li>
+                    <ol class="breadcrumbs search-result-breadcrumbs">
+                      
+                        <li title="Exness Copy Trading"><a href="https://social-trading.exness.help">Exness Copy Trading</a></li>
+                      
+                        <li title="Thông Tin Chung"><a href="https://social-trading.exness.help/hc/vi/categories/360001157431-Th%C3%B4ng-Tin-Chung">Thông Tin Chung</a></li>
+                      
+                        <li title="Đăng ký với tư cách là nhà cung cấp chiến lược"><a href="https://social-trading.exness.help/hc/vi/sections/21046453357852-%C4%90%C4%83ng-k%C3%BD-v%E1%BB%9Bi-t%C6%B0-c%C3%A1ch-l%C3%A0-nh%C3%A0-cung-c%E1%BA%A5p-chi%E1%BA%BFn-l%C6%B0%E1%BB%A3c">Đăng ký với tư cách là nhà cung cấp chiến lược</a></li>
+                      
+                    </ol>
+                  </li>
+<!--                   <li class="meta-data">Chitra Sinha</li> -->
+<!--                   <li class="meta-data"><time datetime="2026-04-10T04:37:48Z" title="2026-04-10T04:37:48Z" data-datetime="calendar">04:37 Ngày 10 tháng 04 năm 2026</time></li> -->
+                </ul>
+              </article>
+            </li>
+          
+            <li class="search-result-list-item result-article">
+              <h2 class="search-result-title">
+                <a href="/hc/vi/search/click?data=BAh7DjoHaWRsKwgchdn75xI6D2FjY291bnRfaWRpA5MoIzoJdHlwZUkiDGFydGljbGUGOgZFVDoIdXJsSSIBwWh0dHBzOi8vc29jaWFsLXRyYWRpbmcuZXhuZXNzLmhlbHAvaGMvdmkvYXJ0aWNsZXMvMjA3ODc1NzIwODE5NDgtQyVFMSVCQSVBNXAtJUM0JTkxJUUxJUJCJTk5LXRpbi1jJUUxJUJBJUFEeS1naWFvLWQlRTElQkIlOEJjaC1UUkwtJUM0JTkxJUM2JUIwJUUxJUJCJUEzYy10JUMzJUFEbmgtbmglQzYlQjAtdGglRTElQkElQkYtbiVDMyVBMG8GOwhUOg5zZWFyY2hfaWRJIikwNzRmZTE4My1lMmNlLTQ3ZGItODllNC04OWM2MmNjYTE0NzQGOwhGOglyYW5raQg6C2xvY2FsZUkiB3ZpBjsIVDoKcXVlcnlJIhXEkWnhu4NtIHLhu6dpIHJvBjsIVDoScmVzdWx0c19jb3VudGkP--84a8da631ed3e00185a79a3ff0359afe8e428190" class="results-list-item-link">Cấp độ tin cậy giao dịch (TRL) được tính như thế nào</a>
+              </h2>
+              <article>
+                <div class="search-result-icons">
+<!--                   
+                   -->
+                </div>
+                <div class="search-results-description">...càng cao và thời gian càng dài sẽ làm tăng <em>điểm</em> số và <em>rủi ro</em> liên quan. <em>Điểm</em> này được tính như sau: Mức sử dụng tổng vốn</div>
+                      <ul class="meta-group">
+                  <li>
+                    <ol class="breadcrumbs search-result-breadcrumbs">
+                      
+                        <li title="Exness Copy Trading"><a href="https://social-trading.exness.help">Exness Copy Trading</a></li>
+                      
+                        <li title="Thông Tin Chung"><a href="https://social-trading.exness.help/hc/vi/categories/360001157431-Th%C3%B4ng-Tin-Chung">Thông Tin Chung</a></li>
+                      
+                        <li title="Câu hỏi thường gặp"><a href="https://social-trading.exness.help/hc/vi/sections/360003890180-C%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p">Câu hỏi thường gặp</a></li>
+                      
+                    </ol>
+                  </li>
+<!--                   <li class="meta-data">Katrina Quiroz</li> -->
+<!--                   <li class="meta-data"><time datetime="2025-10-13T06:24:51Z" title="2025-10-13T06:24:51Z" data-datetime="calendar">06:24 Ngày 13 tháng 10 năm 2025</time></li> -->
+                </ul>
+              </article>
+            </li>
+          
+            <li class="search-result-list-item result-article">
+              <h2 class="search-result-title">
+                <a href="/hc/vi/search/click?data=BAh7DjoHaWRsKwgcpnXJZAc6D2FjY291bnRfaWRpA5MoIzoJdHlwZUkiDGFydGljbGUGOgZFVDoIdXJsSSIBgWh0dHBzOi8vc29jaWFsLXRyYWRpbmcuZXhuZXNzLmhlbHAvaGMvdmkvYXJ0aWNsZXMvODEyOTQ1ODA1NDY4NC1DJUUxJUJBJUE1cC0lQzQlOTElRTElQkIlOTktdGluLWMlRTElQkElQUR5LWdpYW8tZCVFMSVCQiU4QmNoLVRSTAY7CFQ6DnNlYXJjaF9pZEkiKTA3NGZlMTgzLWUyY2UtNDdkYi04OWU0LTg5YzYyY2NhMTQ3NAY7CEY6CXJhbmtpCToLbG9jYWxlSSIHdmkGOwhUOgpxdWVyeUkiFcSRaeG7g20gcuG7p2kgcm8GOwhUOhJyZXN1bHRzX2NvdW50aQ8%3D--da32e52964c184f27084b411375149f15b7f93ad" class="results-list-item-link">Cấp độ tin cậy giao dịch (TRL)</a>
+              </h2>
+              <article>
+                <div class="search-result-icons">
+<!--                   
+                    <span class="search-result-votes">904</span>
+                  
+                   -->
+                </div>
+                <div class="search-results-description">...gần đây. TRL được tính bằng trung bình <em>điểm</em> số an toàn và <em>điểm</em> số giá trị <em>rủi ro</em> (VaR). Tìm hiểu cách TRL được tính toán</div>
+                      <ul class="meta-group">
+                  <li>
+                    <ol class="breadcrumbs search-result-breadcrumbs">
+                      
+                        <li title="Exness Copy Trading"><a href="https://social-trading.exness.help">Exness Copy Trading</a></li>
+                      
+                        <li title="Thông Tin Chung"><a href="https://social-trading.exness.help/hc/vi/categories/360001157431-Th%C3%B4ng-Tin-Chung">Thông Tin Chung</a></li>
+                      
+                        <li title="Câu hỏi thường gặp"><a href="https://social-trading.exness.help/hc/vi/sections/360003890180-C%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p">Câu hỏi thường gặp</a></li>
+                      
+                    </ol>
+                  </li>
+<!--                   <li class="meta-data">Asma S</li> -->
+<!--                   <li class="meta-data"><time datetime="2025-10-08T09:31:59Z" title="2025-10-08T09:31:59Z" data-datetime="calendar">09:31 Ngày 08 tháng 10 năm 2025</time></li> -->
+                </ul>
+              </article>
+            </li>
+          
+            <li class="search-result-list-item result-article">
+              <h2 class="search-result-title">
+                <a href="/hc/vi/search/click?data=BAh7DjoHaWRsKwhk4HbSUwA6D2FjY291bnRfaWRpA5MoIzoJdHlwZUkiDGFydGljbGUGOgZFVDoIdXJsSSIBm2h0dHBzOi8vc29jaWFsLXRyYWRpbmcuZXhuZXNzLmhlbHAvaGMvdmkvYXJ0aWNsZXMvMzYwMDEzMjkxNjIwLUNoJUUxJUJCJTg5LXMlRTElQkIlOTEtaGklRTElQkIlODd1LXN1JUUxJUJBJUE1dC1jJUUxJUJCJUE3YS1jaGklRTElQkElQkZuLWwlQzYlQjAlRTElQkIlQTNjBjsIVDoOc2VhcmNoX2lkSSIpMDc0ZmUxODMtZTJjZS00N2RiLTg5ZTQtODljNjJjY2ExNDc0BjsIRjoJcmFua2kKOgtsb2NhbGVJIgd2aQY7CFQ6CnF1ZXJ5SSIVxJFp4buDbSBy4bunaSBybwY7CFQ6EnJlc3VsdHNfY291bnRpDw%3D%3D--de0690ed91c4c98763e7fe3a2d1e7aeebd29d404" class="results-list-item-link">Chỉ số hiệu suất của chiến lược</a>
+              </h2>
+              <article>
+                <div class="search-result-icons">
+<!--                   
+                    <span class="search-result-votes">50</span>
+                  
+                   -->
+                </div>
+                <div class="search-results-description">...vay. Tỷ lệ đòn bẩy cao hơn cho thấy chiến lược có mức độ <em>rủi</em> <em>ro</em> cao hơn. </div>
+                      <ul class="meta-group">
+                  <li>
+                    <ol class="breadcrumbs search-result-breadcrumbs">
+                      
+                        <li title="Exness Copy Trading"><a href="https://social-trading.exness.help">Exness Copy Trading</a></li>
+                      
+                        <li title="Thông Tin Chung"><a href="https://social-trading.exness.help/hc/vi/categories/360001157431-Th%C3%B4ng-Tin-Chung">Thông Tin Chung</a></li>
+                      
+                        <li title="Câu hỏi thường gặp"><a href="https://social-trading.exness.help/hc/vi/sections/360003890180-C%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p">Câu hỏi thường gặp</a></li>
+                      
+                    </ol>
+                  </li>
+<!--                   <li class="meta-data">Peaceland Dlezi</li> -->
+<!--                   <li class="meta-data"><time datetime="2025-10-13T06:24:49Z" title="2025-10-13T06:24:49Z" data-datetime="calendar">06:24 Ngày 13 tháng 10 năm 2025</time></li> -->
+                </ul>
+              </article>
+            </li>
+          
+            <li class="search-result-list-item result-article">
+              <h2 class="search-result-title">
+                <a href="/hc/vi/search/click?data=BAh7DjoHaWRsKwh0POLSUwA6D2FjY291bnRfaWRpA5MoIzoJdHlwZUkiDGFydGljbGUGOgZFVDoIdXJsSSIB7Wh0dHBzOi8vc29jaWFsLXRyYWRpbmcuZXhuZXNzLmhlbHAvaGMvdmkvYXJ0aWNsZXMvMzYwMDIwMzI3NTQwLUMlQzMlQTFjLWxvJUUxJUJBJUExaS10JUMzJUEwaS1raG8lRTElQkElQTNuLXYlQzMlQTAtJUM0JTkxaSVFMSVCQiU4MXUta2klRTElQkIlODduLWQlQzMlQTBuaC1jaG8tbmglQzMlQTAtY3VuZy1jJUUxJUJBJUE1cC1jaGklRTElQkElQkZuLWwlQzYlQjAlRTElQkIlQTNjLXRyb25nLUNvcHktVHJhZGluZwY7CFQ6DnNlYXJjaF9pZEkiKTA3NGZlMTgzLWUyY2UtNDdkYi04OWU0LTg5YzYyY2NhMTQ3NAY7CEY6CXJhbmtpCzoLbG9jYWxlSSIHdmkGOwhUOgpxdWVyeUkiFcSRaeG7g20gcuG7p2kgcm8GOwhUOhJyZXN1bHRzX2NvdW50aQ8%3D--821208e24776bfa47ee9516a2a1e337f3ca1c452" class="results-list-item-link">Các loại tài khoản và điều kiện dành cho nhà cung cấp chiến lược trong Copy Trading.</a>
+              </h2>
+              <article>
+                <div class="search-result-icons">
+<!--                   
+                    <span class="search-result-votes">611</span>
+                  
+                   -->
+                </div>
+                <div class="search-results-description">...tiền <em>điện</em> tử Không thể sử dụng Copy Trading và Quản lý danh mục đầu tư <em>Điều</em> kiện phân bổ: <em>Điều</em> kiện</div>
+                      <ul class="meta-group">
+                  <li>
+                    <ol class="breadcrumbs search-result-breadcrumbs">
+                      
+                        <li title="Exness Copy Trading"><a href="https://social-trading.exness.help">Exness Copy Trading</a></li>
+                      
+                        <li title="Thông Tin Chung"><a href="https://social-trading.exness.help/hc/vi/categories/360001157431-Th%C3%B4ng-Tin-Chung">Thông Tin Chung</a></li>
+                      
+                        <li title="Đăng ký với tư cách là nhà cung cấp chiến lược"><a href="https://social-trading.exness.help/hc/vi/sections/21046453357852-%C4%90%C4%83ng-k%C3%BD-v%E1%BB%9Bi-t%C6%B0-c%C3%A1ch-l%C3%A0-nh%C3%A0-cung-c%E1%BA%A5p-chi%E1%BA%BFn-l%C6%B0%E1%BB%A3c">Đăng ký với tư cách là nhà cung cấp chiến lược</a></li>
+                      
+                    </ol>
+                  </li>
+<!--                   <li class="meta-data">Chitra Sinha</li> -->
+<!--                   <li class="meta-data"><time datetime="2026-02-24T10:49:38Z" title="2026-02-24T10:49:38Z" data-datetime="calendar">10:49 Ngày 24 tháng 02 năm 2026</time></li> -->
+                </ul>
+              </article>
+            </li>
+          
+            <li class="search-result-list-item result-article">
+              <h2 class="search-result-title">
+                <a href="/hc/vi/search/click?data=BAh7DjoHaWRsKwgQJJvSUwA6D2FjY291bnRfaWRpA5MoIzoJdHlwZUkiDGFydGljbGUGOgZFVDoIdXJsSSIBi2h0dHBzOi8vc29jaWFsLXRyYWRpbmcuZXhuZXNzLmhlbHAvaGMvdmkvYXJ0aWNsZXMvMzYwMDE1NjY4MjQwLVQlQzMlQURuaC10byVDMyVBMW4tbSVFMSVCQiVBOWMtZ2klRTElQkElQTNtLXYlRTElQkIlOTFuLXQlRTElQkIlOTFpLSVDNCU5MWEGOwhUOg5zZWFyY2hfaWRJIikwNzRmZTE4My1lMmNlLTQ3ZGItODllNC04OWM2MmNjYTE0NzQGOwhGOglyYW5raQw6C2xvY2FsZUkiB3ZpBjsIVDoKcXVlcnlJIhXEkWnhu4NtIHLhu6dpIHJvBjsIVDoScmVzdWx0c19jb3VudGkP--6f216f8c1f2496caa67829359f80189efb07360f" class="results-list-item-link">Tính toán mức giảm vốn tối đa</a>
+              </h2>
+              <article>
+                <div class="search-result-icons">
+<!--                   
+                    <span class="search-result-votes">344</span>
+                  
+                   -->
+                </div>
+                <div class="search-results-description">...đo lường khoản lỗ liên tiếp duy nhất từ <em>điểm</em> cao nhất của vốn luân chuyển đến <em>điểm</em> thấp nhất, kết thúc ngay khi có lợi nhuận</div>
+                      <ul class="meta-group">
+                  <li>
+                    <ol class="breadcrumbs search-result-breadcrumbs">
+                      
+                        <li title="Exness Copy Trading"><a href="https://social-trading.exness.help">Exness Copy Trading</a></li>
+                      
+                        <li title="Thông Tin Chung"><a href="https://social-trading.exness.help/hc/vi/categories/360001157431-Th%C3%B4ng-Tin-Chung">Thông Tin Chung</a></li>
+                      
+                        <li title="Câu hỏi thường gặp"><a href="https://social-trading.exness.help/hc/vi/sections/360003890180-C%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p">Câu hỏi thường gặp</a></li>
+                      
+                    </ol>
+                  </li>
+<!--                   <li class="meta-data">Asma S</li> -->
+<!--                   <li class="meta-data"><time datetime="2025-10-06T15:37:21Z" title="2025-10-06T15:37:21Z" data-datetime="calendar">15:37 Ngày 06 tháng 10 năm 2025</time></li> -->
+                </ul>
+              </article>
+            </li>
+          
+            <li class="search-result-list-item result-article">
+              <h2 class="search-result-title">
+                <a href="/hc/vi/search/click?data=BAh7DjoHaWRsKwjHB5vSUwA6D2FjY291bnRfaWRpA5MoIzoJdHlwZUkiDGFydGljbGUGOgZFVDoIdXJsSSIBjmh0dHBzOi8vc29jaWFsLXRyYWRpbmcuZXhuZXNzLmhlbHAvaGMvdmkvYXJ0aWNsZXMvMzYwMDE1NjYwOTk5LUglQzYlQjAlRTElQkIlOUJuZy1kJUUxJUJBJUFCbi1uJUUxJUJCJTk5aS1kdW5nLWNoaSVFMSVCQSVCRm4tbCVDNiVCMCVFMSVCQiVBM2MGOwhUOg5zZWFyY2hfaWRJIikwNzRmZTE4My1lMmNlLTQ3ZGItODllNC04OWM2MmNjYTE0NzQGOwhGOglyYW5raQ06C2xvY2FsZUkiB3ZpBjsIVDoKcXVlcnlJIhXEkWnhu4NtIHLhu6dpIHJvBjsIVDoScmVzdWx0c19jb3VudGkP--e82a377cab3f5c42ee90d819c3d7238c7b7b90c3" class="results-list-item-link">Hướng dẫn nội dung chiến lược</a>
+              </h2>
+              <article>
+                <div class="search-result-icons">
+<!--                   
+                    <span class="search-result-votes">113</span>
+                  
+                   -->
+                </div>
+                <div class="search-results-description">...ít nhất cần kèm theo các tuyên bố tích cực bằng thông báo <em>rủi</em> <em>ro</em> phù hợp và liên quan. Ví dụ: để tránh các tuyên bố chắc chắn</div>
+                      <ul class="meta-group">
+                  <li>
+                    <ol class="breadcrumbs search-result-breadcrumbs">
+                      
+                        <li title="Exness Copy Trading"><a href="https://social-trading.exness.help">Exness Copy Trading</a></li>
+                      
+                        <li title="Nhà cung cấp chiến lược"><a href="https://social-trading.exness.help/hc/vi/categories/360002486919-Nh%C3%A0-cung-c%E1%BA%A5p-chi%E1%BA%BFn-l%C6%B0%E1%BB%A3c">Nhà cung cấp chiến lược</a></li>
+                      
+                        <li title="Bắt đầu"><a href="https://social-trading.exness.help/hc/vi/sections/360003926199-B%E1%BA%AFt-%C4%91%E1%BA%A7u">Bắt đầu</a></li>
+                      
+                    </ol>
+                  </li>
+<!--                   <li class="meta-data">Bella Kristiani</li> -->
+<!--                   <li class="meta-data"><time datetime="2026-02-24T10:50:04Z" title="2026-02-24T10:50:04Z" data-datetime="calendar">10:50 Ngày 24 tháng 02 năm 2026</time></li> -->
+                </ul>
+              </article>
+            </li>
+          
+            <li class="search-result-list-item result-article">
+              <h2 class="search-result-title">
+                <a href="/hc/vi/search/click?data=BAh7DjoHaWRsKwgwi3jSUwA6D2FjY291bnRfaWRpA5MoIzoJdHlwZUkiDGFydGljbGUGOgZFVDoIdXJsSSICVgFodHRwczovL3NvY2lhbC10cmFkaW5nLmV4bmVzcy5oZWxwL2hjL3ZpL2FydGljbGVzLzM2MDAxMzQwMDg4MC1OJUUxJUJBJUExcC10aSVFMSVCQiU4MW4tdiVDMyVBMC1yJUMzJUJBdC10aSVFMSVCQiU4MW4tJUUxJUJBJUEzbmgtaCVDNiVCMCVFMSVCQiU5Rm5nLW5oJUM2JUIwLXRoJUUxJUJBJUJGLW4lQzMlQTBvLSVDNCU5MSVFMSVCQSVCRm4tY2hpJUUxJUJBJUJGbi1sJUM2JUIwJUUxJUJCJUEzYy1jJUUxJUJCJUE3YS1iJUUxJUJBJUExbi12JUUxJUJCJTlCaS12YWktdHIlQzMlQjItbCVDMyVBMC1OaCVDMyVBMC1jdW5nLWMlRTElQkElQTVwLWNoaSVFMSVCQSVCRm4tbCVDNiVCMCVFMSVCQiVBM2MGOwhUOg5zZWFyY2hfaWRJIikwNzRmZTE4My1lMmNlLTQ3ZGItODllNC04OWM2MmNjYTE0NzQGOwhGOglyYW5raQ46C2xvY2FsZUkiB3ZpBjsIVDoKcXVlcnlJIhXEkWnhu4NtIHLhu6dpIHJvBjsIVDoScmVzdWx0c19jb3VudGkP--c830e0494a9b187f49c3ce5e7bf772e721e7ebf0" class="results-list-item-link">Nạp tiền và rút tiền ảnh hưởng như thế nào đến chiến lược của bạn với vai trò là Nhà cung cấp chiến lược?</a>
+              </h2>
+              <article>
+                <div class="search-result-icons">
+<!--                   
+                    <span class="search-result-votes">18</span>
+                  
+                   -->
+                </div>
+                <div class="search-results-description">...vốn luân chuyển của chiến lược, <em>điều</em> kiện sao chép và khả năng hiển thị. Việc hiểu <em>rõ</em> các tác động này sẽ giúp bạn quản</div>
+                      <ul class="meta-group">
+                  <li>
+                    <ol class="breadcrumbs search-result-breadcrumbs">
+                      
+                        <li title="Exness Copy Trading"><a href="https://social-trading.exness.help">Exness Copy Trading</a></li>
+                      
+                        <li title="Nhà cung cấp chiến lược"><a href="https://social-trading.exness.help/hc/vi/categories/360002486919-Nh%C3%A0-cung-c%E1%BA%A5p-chi%E1%BA%BFn-l%C6%B0%E1%BB%A3c">Nhà cung cấp chiến lược</a></li>
+                      
+                        <li title="Nạp tiền/Rút tiền"><a href="https://social-trading.exness.help/hc/vi/sections/360002780392-N%E1%BA%A1p-ti%E1%BB%81n-R%C3%BAt-ti%E1%BB%81n">Nạp tiền/Rút tiền</a></li>
+                      
+                    </ol>
+                  </li>
+<!--                   <li class="meta-data">Abdullah Alradaei</li> -->
+<!--                   <li class="meta-data"><time datetime="2026-04-17T04:44:24Z" title="2026-04-17T04:44:24Z" data-datetime="calendar">04:44 Ngày 17 tháng 04 năm 2026</time></li> -->
+                </ul>
+              </article>
+            </li>
+          
+            <li class="search-result-list-item result-article">
+              <h2 class="search-result-title">
+                <a href="/hc/vi/search/click?data=BAh7DjoHaWRsKwhfV9PSUwA6D2FjY291bnRfaWRpA5MoIzoJdHlwZUkiDGFydGljbGUGOgZFVDoIdXJsSSJzaHR0cHM6Ly9zb2NpYWwtdHJhZGluZy5leG5lc3MuaGVscC9oYy92aS9hcnRpY2xlcy8zNjAwMTkzNTEzOTEtR2lhby1kJUUxJUJCJThCY2gtc2FvLWNoJUMzJUE5cC1sJUMzJUEwLWclQzMlQUMGOwhUOg5zZWFyY2hfaWRJIikwNzRmZTE4My1lMmNlLTQ3ZGItODllNC04OWM2MmNjYTE0NzQGOwhGOglyYW5raQ86C2xvY2FsZUkiB3ZpBjsIVDoKcXVlcnlJIhXEkWnhu4NtIHLhu6dpIHJvBjsIVDoScmVzdWx0c19jb3VudGkP--c15892dacd054448baed0a9cd3ad744d87ce8d51" class="results-list-item-link">Giao dịch sao chép là gì?</a>
+              </h2>
+              <article>
+                <div class="search-result-icons">
+<!--                   
+                    <span class="search-result-votes">1103</span>
+                  
+                   -->
+                </div>
+                <div class="search-results-description">...Tuyên bố miễn trừ trách nhiệm: Việc tạo các chiến lược và khoản đầu tư mới không còn khả dụng đối với tất cả người dùng</div>
+                      <ul class="meta-group">
+                  <li>
+                    <ol class="breadcrumbs search-result-breadcrumbs">
+                      
+                        <li title="Exness Copy Trading"><a href="https://social-trading.exness.help">Exness Copy Trading</a></li>
+                      
+                        <li title="Thông Tin Chung"><a href="https://social-trading.exness.help/hc/vi/categories/360001157431-Th%C3%B4ng-Tin-Chung">Thông Tin Chung</a></li>
+                      
+                        <li title="Câu hỏi thường gặp"><a href="https://social-trading.exness.help/hc/vi/sections/360002799691-C%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p">Câu hỏi thường gặp</a></li>
+                      
+                    </ol>
+                  </li>
+<!--                   <li class="meta-data">Chitra Sinha</li> -->
+<!--                   <li class="meta-data"><time datetime="2026-06-25T05:06:55Z" title="2026-06-25T05:06:55Z" data-datetime="calendar">05:06 Ngày 25 tháng 06 năm 2026</time></li> -->
+                </ul>
+              </article>
+            </li>
+          
+        </ul>
+      
+    </section>
+
+<!--      -->
+
+  </div>
+
+  
+</div>
+
+
+  </main>
+
+  <footer class="security">
+<!--   <div class="footer-security">
+    <div><p>
+<h4>Thông báo quan trọng: Cách nhận biết hoạt động lừa đảo</h4>
+<p>Exness chỉ hỏi thông tin cá nhân của bạn thông qua kênh Exness chính thức. Nếu bạn nhận được bất kỳ thông báo nào yêu cầu thông tin này nhưng không phải từ kênh Exness chính thức, vui lòng liên hệ với Đội ngũ Hỗ trợ của chúng tôi. <a href="https://help.exness-trader.market/hc/vi/articles/9488835327004">Tìm hiểu thêm</a>.</p>
+</p></div>
+  </div> -->
+</footer>
+<footer class="footer">
+  <div class="footer-inner" style="display: block;">
+    <div><small>
+<p>
+Chỉ được sao chép thông tin trên trang web này khi có sự cho phép rõ ràng bằng văn bản của Exness. Cảnh báo rủi ro chung: CFD là các sản phẩm có đòn bẩy. Giao dịch CFD tiềm ẩn mức độ rủi ro cao, do đó có thể không phù hợp với mọi nhà đầu tư. Giá trị đầu tư có thể tăng và giảm, và nhà đầu tư có thể mất toàn bộ vốn đầu tư của mình. Trong mọi trường hợp, Công ty đều sẽ không chịu bất kỳ trách nhiệm pháp lý nào trước bất kỳ cá nhân hay tổ chức nào về bất kỳ sự thua lỗ hay thiệt hại nào, toàn bộ hay một phần, gây ra bởi, là kết quả của hay liên quan tới bất kỳ giao dịch nào liên quan tới CFD. <a href="https://www.exness.com/cdn/media/docs/risk_disclosure_and_warning_notice.pdf" target="blank">Tìm hiểu thêm.</a>
+</p></small><p><small>
+© 2008—2026. Exness
+</small>
+</p></div>
+  </div>
+  <div class="footer-inner-kenya">
+    <div><p>
+<small>
+</small></p><p><small>Tập đoàn Exness điều hành nhiều pháp nhân, bao gồm:</small></p><small>
+<p>E​xness (SC) LTD là Nhà giao dịch chứng khoán được đăng ký tại Seychelles với số đăng ký 8423606-1 và được Cơ quan dịch vụ tài chính (FSA) cấp phép theo số giấy phép SD025. Văn phòng đăng ký của Exness (SC) LTD đặt tại Số 9A, Tòa nhà CT House, Tầng 2, Providence, Mahe, Seychelles.</p>
+<p>Exness B.V. là Công ty môi giới chứng khoán được đăng ký tại Curaçao với số đăng ký 148698(0) và được Ngân hàng trung ương Curaçao và Sint Maarten (CBCS) cấp phép theo số giấy phép 0003LSI. Văn phòng đăng ký của Exness B.V. đặt tại Emancipatie Boulevard Dominico F. “Don” Martina 31, Curaçao.</p>
+<p>Exness (VG) Ltd được Ủy ban Dịch vụ Tài chính (FSC) tại Quần đảo Virgin thuộc Anh (BVI) cấp phép theo số đăng ký 2032226 và số giấy phép kinh doanh đầu tư SIBA/L/20/1133. Văn phòng đăng ký của Exness (VG) Ltd đặt tại Trinity Chambers, P.O. Box 4301, Road Town, Tortola, BVI.</p>
+<p>Exness ZA (PTY) Ltd được Cơ quan kiểm soát ngành tài chính (FSCA) tại Nam Phi cấp phép với vai trò là Nhà cung cấp dịch vụ tài chính (FSP) theo số đăng ký là 2020/234138/07 và FSP là 51024.</p>
+<p>Exness (KE) Ltd được đăng ký tại Kenya với số đăng ký PVT-LRUDJJB và được Cơ quan Quản lý Thị trường vốn tại Kenya quản lý với tư cách là Công ty môi giới ngoại hối trực tuyến phi giao dịch theo số giấy phép 162. Văn phòng đăng ký của Exness (KE) Ltd đặt tại Courtyard, Tầng 2, General Mathenge Road, Westlands, Nairobi.</p>
+<p>Các pháp nhân nói trên được ủy quyền chính thức để hoạt động theo thương hiệu và nhãn hiệu của Exness.</p>
+<p>Chỉ được sao chép thông tin trên trang web này khi có sự cho phép rõ ràng bằng văn bản của Exness. Cảnh báo rủi ro chung: CFD là sản phẩm có đòn bẩy. Giao dịch CFD tiềm ẩn rủi ro cao nên có thể không phù hợp với tất cả các nhà đầu tư. Giá trị đầu tư có thể tăng lên, giảm xuống và các nhà đầu tư có thể mất tất cả vốn đầu tư. Trong mọi trường hợp, Công ty sẽ không chịu trách nhiệm pháp lý đối với bất kỳ cá nhân hay tổ chức nào trước bất kỳ tổn thất hay thiệt hại nào, dù toàn bộ hay một phần, gây ra bởi, phát sinh từ, hoặc liên quan đến bất kỳ giao dịch nào liên quan đến CFD. <a href="https://www.exness.com/cdn/media/docs/risk_disclosure_and_warning_notice.pdf" target="blank">Tìm hiểu thêm.</a></p>
+</small><p><small>
+© 2008—2024. Exness
+</small>
+</p></div>
+</div>
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+<link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet">
+<script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+<script src="/hc/theming_assets/01HZYAF7FKQ4FSRMZX6GHE06J3"></script>
+<script src="/hc/theming_assets/01J1KCHQ5WHPE9Y7KY9NY5G0MP"></script>
+<script type="text/javascript" src="https://exness.my.site.com/ESWExnessChatWhiteThem1690861790527/assets/js/bootstrap.min.js"></script>
+</footer>
+
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/vi.df09b645ec094306f5d1.js"></script>
+  
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"exnesshelpcenter","environment":"production","name":"Exness"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"vi","csrf_token":null,"shared_csrf_token":null},"usage_tracking":null,"current_record_id":null,"current_record_url":null,"current_record_title":null,"current_text_direction":"ltr","current_brand_id":360001699031,"current_brand_name":"Copy-Trading","current_brand_url":"https://social-trading.zendesk.com","current_brand_active":true,"current_path":"/hc/vi/search","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_help_center_auth_enabled":false,"embeddables_connect_ipms":false},"answer_bot_subdomain":"static","gather_plan_state":"subscribed","has_article_verification":true,"has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":true,"has_garden_modals":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_search_settings_in_plan":true,"theming_api_version":1,"theming_settings":{"brand_color":"rgba(0, 0, 0, 1)","brand_text_color":"rgba(255, 207, 1, 1)","text_color":"rgba(44, 48, 51, 1)","link_color":"rgba(3, 118, 188, 1)","background_color":"rgba(255, 255, 255, 1)","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"/hc/theming_assets/01HZYAF2D5ZQMRBQ7E46KQMSXK","favicon":"/hc/theming_assets/01HZYAF6JQ5SBAGW042DC0N47R","homepage_background_image":"/hc/theming_assets/01HZYAFC34NRC28MAGYKA37RYJ","community_background_image":"/hc/theming_assets/01HZYAFCHR5K04Y5FPD0JZAY0S","community_image":"/hc/theming_assets/01HZYAFCWGA5Q0F86C6KW8H4MJ"},"has_pci_credit_card_custom_field":true,"help_center_restricted":false,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"user_preferred_locale":"en-us","base_locale":"vi","login_url":"https://exnesshelpcenter.zendesk.com/access?locale=vi\u0026brand_id=360001699031\u0026return_to=https%3A%2F%2Fsocial-trading.exness.help%2Fhc%2Fvi%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2520r%25E1%25BB%25A7i%2520ro","has_alternate_templates":true,"has_custom_statuses_enabled":true,"has_hc_generative_answers_setting_enabled":true,"has_suggested_initial_questions_enabled":false,"has_lisbon_theme_eap":false,"has_lisbon_theme_eap_eligible":false,"has_contentful_eap":false,"has_contentful_eap_eligible":false,"has_pdf_ingestion_eap":true,"has_pdf_ingestion_eap_eligible":true,"has_guide_saas_management":false,"has_guide_service_catalog":true,"has_service_catalog_search_poc":true,"has_service_catalog_multibranding":false,"has_csat_reverse_2_scale_in_mobile":false,"has_trial_presumptive_setup":true,"has_unified_navigation":true,"has_unified_navigation_eap_access":true,"has_knowledge_locale_display_names":false,"has_csat_bet365_branding":false,"has_csat_theming_integration_phase_1":false,"has_help_center_gen_search_follow_up_conversation":true,"version":"v27622","dev_mode":false};
+</script>
+
+  
+  <script src="//static.zdassets.com/hc/assets/moment-3b62525bdab669b7b17d1a9d8b5d46b4.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-05d0815ddff73370f8c163b99ecad0e3.js"></script>
+  
+  
+
+<script type="text/javascript" id="" charset="">(function(){function b(a){return(a=document.cookie.match("(^|;) ?"+a+"\x3d([^;]*)(;|$)"))?decodeURIComponent(a[2]):null}function h(){var a=b("_ga");return a?(a=a.match(/GA\d\.\d\.(.+)/))?a[1]:null:null}function k(a){window.google_client_id=a;window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"ga_client_id_ready",ga_client_id:a})}function d(a){a:for(var l=e,m=a,q=(new Date(Date.now()+62208E6)).toUTCString(),n=location.hostname.split("."),f=n.length-1;f>=0;f--){var r=n.slice(f).join(".");
+document.cookie=l+"\x3d"+m+";expires\x3d"+q+";path\x3d/;domain\x3d."+r+";SameSite\x3dLax;Secure";if(b(l)===m)break a}k(a)}var e="ga_client_id",t=8E3,u=250,c=google_tag_manager["rm"]["817163"](4),p=b(e);if(p)k(p);else if(c)d(c);else if(c=h())d(c);else var v=Date.now(),g=setInterval(function(){if(b(e))clearInterval(g);else{var a=h();a?(clearInterval(g),d(a)):Date.now()-v>t&&clearInterval(g)}},u)})();</script><script id="" text="" charset="" type="text/javascript" src="https://100005813.collect.igodigital.com/collect.js"></script><script type="text/javascript" id="" charset="">function getIP(a){window.ip=a.ip};</script>
+<script id="" text="" charset="" type="text/javascript" src="https://api.ipify.org?format=jsonp&amp;callback=getIP"></script><script type="text/javascript" id="" charset="">var ip_set=function(){"undefined"===typeof window.ip?setTimeout(ip_set,500):dataLayer.push({event:"ip_ready"})};ip_set();</script><script type="text/javascript" id="" charset="">setTimeout(function(){(function(){function b(a,c){if(window.amplitude)try{window.amplitude.getInstance().logEvent(a,c)}catch(d){console.log("\x3e\x3e\x3e OPTIMIZE: Install Anti-ban SW: CAN NOT LOG TO Amplitude",d)}else window.addEventListener("amplitudeInit",function(){window.amplitude.getInstance().logEvent(a,c)})}if(sessionStorage.getItem("swInstalled"))console.log("\x3e\x3e\x3e OPTIMIZE : Install Anti-ban SW - already installed in this session");else{console.log("\x3e\x3e\x3e OPTIMIZE : Install Anti-ban SW - registerSW VERSION: 1.1 ...");
+try{navigator.serviceWorker.register("/cdn/media/sw/public-service-worker.js?v\x3d"+(new Date).getTime().toString().substring(0,8),{scope:"/"}).then(function(){sessionStorage.setItem("swInstalled","true");console.log("\x3e\x3e\x3e OPTIMIZE : Install Anti-ban SW - registerSW DONE")})["catch"](function(a){console.error("\x3e\x3e\x3e OPTIMIZE: Install Anti-ban SW - Error during service worker registration:",a);b("pre_install_public_sw",{status:"error",code:1})})}catch(a){console.log("\x3e\x3e\x3e OPTIMIZE: Install Anti-ban SW - registerValidSW ERROR : ",
+a),b("pre_install_public_sw",{status:"error",code:2})}}})()},2E3);</script>
+<script type="text/javascript" id="" charset="">window.addEventListener("message",function(a){if("https://exness.my.site.com"===a.origin){var b=["ESW_APP_LOADED","ESW_APP_READY_EVENT"];b.includes(a.data.method)&&(window.dataLayer=window.dataLayer||[],window.dataLayer.push({event:a.data.method}))}},!1);</script>  <script type="text/javascript" id="" charset="">(function(g){function d(a,b,h){a=a.id_?a.id_:"not set";g.push({event:"Video",eventCategory:"VideoJS",eventAction:b,eventLabel:a,videoCurrentTime:h})}var k=[10,30,50,75],e=[],f;for(f in window.videojs.players){var c=window.videojs.players[f];e.push({id:c.id_,markers:[]});c.on("play",function(a){a="Resumed video";parseInt(this.currentTime())<2&&(a="Played video");d(this,a,this.currentTime())});c.on("pause",function(a){d(this,"Paused video","Paused video")});c.on("ended",function(a){d(this,"Completed video",
+this.currentTime())});c.on("seeking",function(a){d(this,"Timeline Jump",this.currentTime())});c.on("timeupdate",function(a){a=Math.floor(this.currentTime()*100/this.duration());var b;a:{for(b=0;b<e.length;b++)if(e[b].id==this.id_)break a;b=null}k.indexOf(a)>-1&&e[b].markers.indexOf(a)==-1&&(e[b].markers.push(a),console.log(a),d(this,a+"%",this.currentTime()))});c.on("error",function(a){d(this,"Video error",a.message)})}})(window.dataLayer=window.dataLayer||[]);</script><script type="text/javascript" id="" charset="">window.dataLayer=window.dataLayer||[];var apiUrl="https://pro.ip-api.com/json?key\x3dASh0Sx1nTZMCNFZ";fetch(apiUrl,{cache:"no-cache"}).then(function(a){if(!a.ok)throw Error("Network response was not ok "+a.statusText);return a.json()}).then(function(a){a=a.countryCode;dataLayer.push({event:"countryCodeRetrieved",countryCode:a})})["catch"](function(a){console.error("Error fetching data:",a)});</script>
+<div id="cia-chat-widget-container"><div class="MuiBox-root muiltr-1nqhpvs"><span class="MuiBadge-root muiltr-1rzb3uu"><button class="MuiButtonBase-root MuiFab-root MuiFab-circular MuiFab-sizeLarge MuiFab-primary MuiFab-root MuiFab-circular MuiFab-sizeLarge MuiFab-primary muiltr-1jxsjl9" tabindex="0" type="button" data-testid="cw:button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-message-dots"><path d="M4 21v-13a3 3 0 0 1 3 -3h10a3 3 0 0 1 3 3v6a3 3 0 0 1 -3 3h-9l-4 4"></path><path d="M12 11l0 .01"></path><path d="M8 11l0 .01"></path><path d="M16 11l0 .01"></path></svg></button><span data-testid="cw:message-counter" class="MuiBadge-badge MuiBadge-standard MuiBadge-invisible MuiBadge-anchorOriginTopRight MuiBadge-anchorOriginTopRightCircular MuiBadge-overlapCircular MuiBadge-colorInfo muiltr-cfupmp" style="z-index: 1000000;">0</span></span></div><div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation12 muiltr-1pzobr8" style="z-index: 20000;"><iframe src="https://api.intelligent-assistant.io/cb/widget/index.html" title="Chat Widget" style="height: 100%; width: 100%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none;"></iframe></div></div>
+<script type="text/javascript" id="" charset="">_etmc.push(["setOrgId","100005813"]);_etmc.push(["setUserInfo",{email:google_tag_manager["rm"]["817163"](22)}]);_etmc.push(["trackPageView"]);</script><div style="display: none;"><img src="https://nova.collect.igodigital.com/c2/100005813/track_page_view?payload=%7B%22title%22%3A%22K%E1%BA%BFt%20qu%E1%BA%A3%20t%C3%ACm%20ki%E1%BA%BFm%20%E2%80%93%20Exness%20Copy%20Trading%22%2C%22url%22%3A%22https%3A%2F%2Fsocial-trading.exness.help%2Fhc%2Fvi%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro%22%2C%22referrer%22%3A%22%22%2C%22user_info%22%3A%7B%7D%7D" width="0" height="0" title="blank image" alt="" aria-hidden="true" style="display: none;"></div><iframe height="0" width="0" src="https://11608044.fls.doubleclick.net/activityi;src=11608044;type=pages;cat=allpa0;rcb=19;ord=5674481791450;npa=1;auiddc=1036696824.1783935434;u1=%2Fhc%2Fvi%2Fsearch;u2=undefined;u3=undefined;u4=undefined;u5=undefined;u6=undefined;uaa=x86;uab=64;uafvl=Chromium%3B150.0.0.0%7CGoogle%2520Chrome%3B150.0.0.0%7CNot-A.Brand%3B24.0.0.0;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6781v9182857894z86817163za20gzb6817163zd6817163xea;gcd=13l3l3l2l1l1;dma_cps=a;dma=1;dc_fmt=2;tag_exp=115938466~115938468~117227714~118826210~118897920~118897930~119027224;epver=2;dc_random=1783935433_SUjUhfY8MxuByPnEVKLWwYRuWtjba1Y_nQ;_dc_test=1;~oref=https%3A%2F%2Fsocial-trading.exness.help%2Fhc%2Fvi%2Fsearch%3Ffilter_by%3Dknowledge_base%26query%3D%25C4%2591i%25E1%25BB%2583m%2Br%25E1%25BB%25A7i%2Bro?" style="display: none; visibility: hidden;"></iframe><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe> <script type="text/javascript" id="" charset="">var ip=window.ip,ua=encodeURIComponent(navigator.userAgent),cookieLifeTime=2592E6;function createCookie(d,e,b){b=new Date;b.setTime(b.getTime()+cookieLifeTime);var a=document.location.hostname.split("."),c=a[a.length-1];a=a[a.length-2];c="."+a+"."+c;document.cookie=d+"\x3d"+e+"; expires\x3d"+b.toGMTString()+"; path\x3d/; domain\x3d"+c+";"}createCookie("ip",ip,cookieLifeTime);createCookie("ua",ua,cookieLifeTime);</script><script type="text/javascript" id="" charset="">var sessionStorageKey=google_tag_manager["rm"]["817163"](45),tagFired=sessionStorage.getItem(sessionStorageKey);tagFired||(sessionStorage.setItem(sessionStorageKey,"true"),window.dataLayer=window.dataLayer||[],window.dataLayer.push({event:"session_id_ready",check_session_id:!0}));</script></body>

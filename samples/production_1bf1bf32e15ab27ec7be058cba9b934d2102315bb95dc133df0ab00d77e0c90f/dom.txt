@@ -1,0 +1,143 @@
+<head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Shorten your long URLs with our simple and easy to use URL shortener. With features such as custom URL shortening, stats, and instant shortened URLs, Plu.sh has all your URL shortening needs covered.">
+	<meta name="keywords" content="URL, URLs, Shortener, Shorten, Plush, Cute, Simple">
+    <title>Plush | URL Shortener</title>
+    <link rel="shortcut icon" href="heart.ico" type="image/x-icon">
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-V5JE732EYW&amp;cx=c&amp;gtm=4e69f3"></script><script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202609140101/show_ads_impl_fy2021.js" fetchpriority="high"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/zqB-6Xpbd3lCIvi7Tr2D0pob/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-zKvX1tZtoUZjakAq6NG+v14XLO6jHaCtSniDaDnvzrORQB0ysw4QsbpTR9k0YMmj"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/zqB-6Xpbd3lCIvi7Tr2D0pob/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-zKvX1tZtoUZjakAq6NG+v14XLO6jHaCtSniDaDnvzrORQB0ysw4QsbpTR9k0YMmj"></script><script src="//www.google.com/recaptcha/api.js"></script>
+	
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-106844229-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments)};
+	  gtag('js', new Date());
+	
+	  gtag('config', 'UA-106844229-1');
+	</script>
+<script data-ad-client="ca-pub-1100529592576992" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" data-checked-head="true"></script>
+<meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"></head><body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0"><div>
+        <nav class="navbar navbar-default navigation-clean-button">
+            <div class="container">
+                <div class="navbar-header"><a class="navbar-brand navbar-link" href="/" style="color:#eca0ac;">Plu.sh </a>
+                    <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+                </div>
+                <div class="collapse navbar-collapse" id="navcol-1">
+                    <ul class="nav navbar-nav">
+                        <li role="presentation"><a href="about.html">About </a></li>
+                        <li role="presentation"><a href="contact.html">Contact </a></li>
+                    </ul>
+                   <!-- <p class="navbar-text navbar-right actions"><a class="navbar-link login" href="#">Log In</a> <a class="btn btn-default action-button" role="button" href="#" style="background-color:#eca0ac;">Sign Up</a></p> -->
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div></div>
+    <div data-bs-parallax-bg="true" style="height: 500px; background: transparent; position: relative; overflow: hidden;">
+        <div class="container" style="padding-top:10%;">
+            <div class="intro" style="background-color:rgba(66,142,231,0);">
+            <h1 class="text-center aos-init aos-animate" data-aos="fade-up" style="background-color:rgba(255,255,255,0);color:rgb(255,255,255);letter-spacing:0.025em;font-size:3em;">Plush URL Shortener</h1>
+                <!-- <h2 class="text-center" data-aos="fade-up" style="background-color:rgba(255,255,255,0);color:rgb(255,255,255);letter-spacing:0.025em;font-size:3em;">"Simplicity is the ultimate sophistication"</h2> -->
+                <h2><p class="text-center" style="font-family:'Raleway';color:rgb(200,200,200);font-size:15px">Create short and cute URLs</p></h2>
+            </div>
+        </div>
+		
+		
+		<form method="post" action="">
+        <input type="text" placeholder="enter your URL to shorten here" class="text" name="url" style="width:40%;margin-left:26.5%;/*margin-right:25%;*/height:35px;text-indent:10px;">
+        <button class="btn btn-default" type="submit" value="Shorten">shorten </button>
+		<br>
+		<p style="color:rgb(200,200,200);padding-left:26.5%"> 
+		plu.sh/ 
+		<input type="text" data-mini="true" placeholder="OptionalCustomURL" class="text" name="keyword" pattern=".{0}|.{4,50}" minlength="4" maxlength="50" style="width:15%;margin-top:7px;height:25px;text-indent:10px;color:rgb(80,80,80);">		
+		<br>
+		Custom URLs require a minimum of 4 characters.
+		</p><div style="padding-left:26.5%"> <script src="https://www.google.com/recaptcha/api.js"></script><div class="g-recaptcha" data-sitekey="6LdYJiUUAAAAAGWyklblgYND0eFx1zxGqYY4qTDL"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-llpyvjtvpqwc" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdYJiUUAAAAAGWyklblgYND0eFx1zxGqYY4qTDL&amp;co=aHR0cHM6Ly9wbHUuc2g6NDQz&amp;hl=en&amp;v=zqB-6Xpbd3lCIvi7Tr2D0pob&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=wf3y41av8nt"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div><input type="hidden" id="spb_recaptcha_captchatype" name="spb_recaptcha_captchatype" value="recaptcha">		</div>
+		</form>	
+
+	<div style="background-image: url(&quot;https://plu.sh/assets/img/plushdarkbg.jpg&quot;); background-size: cover; background-position: center center; position: absolute; height: 200%; width: 100%; top: 0px; left: 0px; z-index: -100; transform: translate3d(0px, -16.7647%, 0px);"></div></div>
+
+		
+    
+	
+    <div class="features-boxed">
+        <div class="container">
+		
+            <div class="intro">
+                <h2 class="text-center">What's special about this URL shortener?</h2>
+                <!-- <p class="text-center">What's so special about this URL shortener?</p> -->
+            </div>
+			
+			<!-- Features -->
+            <div class="row features">
+                <div class="col-md-4 col-sm-6 item">
+                    <div class="box"><i class="fa fa-link icon aos-init aos-animate" data-aos="fade-up" style="color:rgb(236,160,172);"></i>
+                        <h3 class="name">Customise your URLs</h3>
+                        <p class="description">Create your own personalised URL instantly with no sign up required!</p> <!--<a href="#" class="learn-more">Learn more »</a> --></div>
+                </div>
+                <div class="col-md-4 col-sm-6 item">
+                    <div class="box"><i class="glyphicon glyphicon-stats icon aos-init aos-animate" data-aos="fade-up" style="color:rgb(236,160,172);"></i>
+                        <h3 class="name">Monitor your URLs</h3>
+                        <p class="description">Track the amount of people who view your URL (coming soon). <!--</p><a href="#" class="learn-more">Learn more »</a> -->
+                        </p></div>
+                </div>
+                <div class="col-md-4 col-sm-6 item">
+                    <div class="box"><i class="glyphicon glyphicon-heart icon aos-init aos-animate" data-aos="fade-up" style="color:rgb(236,160,172);"></i>
+                        <h3 class="name">Free URL Shortening forever</h3>
+                        <p class="description">Hey, that's pretty good.</p>
+                       <div> 
+
+			<br>
+					</div> 
+					<!-- <a href="#" class="learn-more">Learn more »</a> --> 
+					</div>
+                </div>
+            </div>
+        </div>
+	    <div class="footer-basic">
+        <h1 class="text-center" style="padding-bottom:0.5em;">Follow us on social media!</h1>
+        <footer>
+            <div class="social" :=""><a href="https://www.facebook.com/Plush-URL-Shortener-492600377771719/" style="border: 0"><i class="icon ion-social-facebook"></i></a><a href="https://twitter.com/PlushURL" style="border: 0"><i class="icon ion-social-twitter"></i></a></div>
+        </footer>
+    </div>
+	<div id="terms" style="color:#000;padding-left:1%;font-size:12px;">Terms and conditions: Our URL shortening services will not be used for any illegal/malicious/spam activities. Any shortened URLs that violate these terms (or deemed suspicious by us) may be removed and reported to authorities.
+	<br>
+	Plush is not liable for any problems that may occur from using our services eg due to server downtime.
+    </div>
+	<br>
+
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya+Sans">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/user.css">
+    <link rel="stylesheet" href="assets/css/Contact-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Features-Blue.css">
+    <link rel="stylesheet" href="assets/css/Features-Boxed.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="assets/css/Navigation-with-Button1.css">
+    <link rel="stylesheet" href="assets/css/Navigation-with-Search1.css">
+    <link rel="stylesheet" href="js/jquery.zclip.min.js">
+    <link rel="stylesheet" href="js/share.js">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Basic.css">
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/bs-animation.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-106844229-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</div><ins class="adsbygoogle adsbygoogle-noablate" data-ad-hi="true" data-adsbygoogle-status="done" style="display: none !important;" data-ad-status="unfilled"><div id="aswift_0_host" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"><iframe id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;min-height:auto;max-height:none;min-width:auto;max-width:none;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-1100529592576992&amp;output=html&amp;adk=1812271804&amp;adf=3025194257&amp;abgtt=1&amp;lmt=1789635747&amp;plat=9%3A134250504%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&amp;format=0x0&amp;url=https%3A%2F%2Fplu.sh%2F&amp;pra=5&amp;asro=0&amp;itsi=-1&amp;aimartd=4&amp;aieuf=1&amp;aicrs=1&amp;uach=WyJMaW51eCIsIiIsIng4NiIsIiIsIjE1My4wLjgwMTAuNDciLG51bGwsMCxudWxsLCI2NCIsW1siQ2hyb21pdW0iLCIxNTMuMC44MDEwLjM2Il0sWyJHb29nbGUgQ2hyb21lIiwiMTUzLjAuODAxMC4zNiJdLFsiTm90X0EgQnJhbmQiLCI4LjAuMC4wIl1dLDBd&amp;dt=1789635747300&amp;bpp=3&amp;bdt=361&amp;idt=155&amp;shv=r20260915&amp;mjsv=m202609140101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;eoidce=1&amp;nras=1&amp;correlator=7747276817379&amp;frm=20&amp;pv=2&amp;u_tz=120&amp;u_his=2&amp;u_h=1200&amp;u_w=1600&amp;u_ah=1200&amp;u_aw=1600&amp;u_cd=24&amp;u_sd=1&amp;dmc=32&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1600&amp;bih=1200&amp;scr_x=0&amp;scr_y=0&amp;eid=95401792%2C95403098%2C42533293&amp;oid=2&amp;pvsid=4425424064259200&amp;tmod=1716506235&amp;uas=0&amp;nvt=1&amp;fsapi=1&amp;fc=1920&amp;brdim=1570%2C1170%2C1570%2C1170%2C1600%2C0%2C1600%2C1285%2C1600%2C1200&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=32768&amp;bc=31&amp;plas=212x675_l%7C212x675_r&amp;bz=1&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=173" data-google-container-id="a!1" tabindex="0" title="Advertisement" aria-label="Advertisement" data-load-complete="true"></iframe></div></ins><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-llpyvjtvpqwc" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=zqB-6Xpbd3lCIvi7Tr2D0pob&amp;k=6LdYJiUUAAAAAGWyklblgYND0eFx1zxGqYY4qTDL&amp;bft=0dAFcWeA434d170JfpLPYpuUZ1_PDkuBxJcUB9T_ZFAzt9LrfKVsy4mZhJc_AQpiU_oKBg3Oz5eYUNGxBzxo06fr14OCTFOXP1XQ" style="width: 100%; height: 100%;"></iframe></div></div></body>

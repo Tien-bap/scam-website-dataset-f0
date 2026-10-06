@@ -1,0 +1,155 @@
+{
+  "candidate_id": "live_3bcaddcb624244a6f33fb4ca153e0a8c7b575f795b8d668c336d5c0e42dce42d",
+  "candidate_sha256": "c5906d38e2e151c4e68b0bb7935cd40192e4e7fd2974bf66116ba5e45107721f",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://www.ssvnshop.com",
+  "requested_url": "https://www.ssvnshop.com",
+  "browser_final_url": "https://www.ssvnshop.com/",
+  "source_urls": [
+    "https://www.ssvnshop.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1155,
+      "source_url": "https://www.ssvnshop.com",
+      "source_hostname": "www.ssvnshop.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.ssvnshop.com",
+      "final_hostname": "www.ssvnshop.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2958,
+      "checked_at": "2026-10-05T12:18:28.317877+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.ssvnshop.com/",
+      "normalized_final_url": "https://www.ssvnshop.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_3bcaddcb624244a6f33fb4ca153e0a8c7b575f795b8d668c336d5c0e42dce42d",
+    "representative_source_index": 1155,
+    "representative_source_url": "https://www.ssvnshop.com",
+    "representative_final_url": "https://www.ssvnshop.com",
+    "normalized_final_url": "https://www.ssvnshop.com/",
+    "source_hostname": "www.ssvnshop.com",
+    "final_hostname": "www.ssvnshop.com",
+    "source_urls": [
+      "https://www.ssvnshop.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 1155,
+        "source_url": "https://www.ssvnshop.com",
+        "source_hostname": "www.ssvnshop.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.ssvnshop.com",
+        "final_hostname": "www.ssvnshop.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2958,
+        "checked_at": "2026-10-05T12:18:28.317877+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.ssvnshop.com/",
+        "normalized_final_url": "https://www.ssvnshop.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Hoki138 ~ Main Slot Online Olympus Super Scatter Tanpa Modal dan Tanpa Unduh",
+  "capture_timestamp": "2026-10-05T16:37:15.151712+00:00",
+  "dom_chars": 390264,
+  "screenshot_bytes": 302185,
+  "dom_sha256": "a4258611a5a50bce91153af30bef424ad2fd73cc7109b20730b89cefb68287e6",
+  "screenshot_sha256": "c345189d232abd1a7e951738e64a0eb08e8d553f25dbac6b28b4f7ab4ac381b4",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://www.ssvnshop.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.ssvnshop.com",
+    "browser_final_url": "https://www.ssvnshop.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 4610,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:40:39.489137+00:00",
+    "previous_report_sha256": "acfa4b5adc4c700b18a3f290affa51e8ff364938ee58f1b4ea5b3cc9ba65e4ff",
+    "recovered_at": "2026-10-05T16:37:15.151712+00:00",
+    "result": "complete"
+  }
+}

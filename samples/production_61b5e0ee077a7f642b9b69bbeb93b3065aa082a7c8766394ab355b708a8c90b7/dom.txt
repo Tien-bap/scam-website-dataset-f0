@@ -1,0 +1,1349 @@
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>index</title>
+    <link type="text/css" href="css/style.css" rel="stylesheet">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/html2canvas.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/html-to-image@1.11.8/dist/html-to-image.min.js"></script>
+
+</head><body>
+    <section>
+        <div class="container">
+            <!-- <div class="chat-L" style="background-color:transparent;padding:0;width:230px;">
+
+            </div>
+            <div class="chat-L"
+                style="background-color:transparent;padding:0;width:230px;position:absolute;left:-180px;">
+
+
+                </p>
+                </p>
+
+            </div> -->
+            <div class="chat-L" style="position: relative;">
+                <div class="Chat-J" style="display:flex;align-items : center; ">
+                    <input type="text" class="Dian" value="30%">
+                    <label>WIFI<input type="checkbox" value="" class="id-che"></label>
+                    <button class="but3" style=" background:#F00; width:100px; border-radius:15px;">Xoá tất cả</button>
+                </div>
+                <div class="Chat-J" id="chatbox1">
+                    <h3>Người nhắn đến</h3>
+                    <textarea id="text1"></textarea>
+                    <div class="tp"><img src="" id="img-box"></div>
+                    <input type="text" id="time1" placeholder="00:00">
+                    <input type="file" id="img-info" style=" display:none;" onchange="imgChange1(this)">
+                    <input type="button" id="img-file" value="Chọn ảnh">
+                    <button class="msg_rec" style="margin-right:5px;">Gửi</button>
+                    <button class="voice_rec">Ghiâm</button>
+                    <button class="wd_rec" style="width:100px;margin-right:5px;">Gọi nhỡ </button>
+                    <button class="dl_rec" style="width:100px;margin-right:5px;">Gọi đến</button>
+                    <button class="dl_rec2" style="width:100px;margin-right:5px;">video đến</button>
+                    <button class="ws_rec" style="width:100px;">Video nhỡ</button>
+                    <input type="file" name="titlepicfile" id="titlepicfile" style="display:none;" size="45" onchange="imgChange3(this)">
+                    <div class="user-img" style="clear:left;margin-top: 15px;">
+                        <img src="img/ico3.png" id="imgs">
+                    </div>
+                </div>
+                <div class="Chat-J">
+                    <button class="but8" style="width:120px;margin-right:5px;">Cảm xúc tin nhắn</button>
+                    <button class="but10" style="width:120px;">Mặt cảm xúc </button>
+                </div>
+                <div class="Chat-J" id="chatbox2">
+                    <h3>Người nhắn đi</h3>
+                    <div class="tp"><img src="" id="img-box2"></div>
+                    <textarea id="text2"></textarea>
+                    <input type="text" id="time2" placeholder="00:00">
+                    <input type="file" id="img-info2" style=" display:none;" onchange="imgChange2(this)">
+                    <input type="button" id="img-file2" value="Chọn ảnh">
+                    <button class="msg_send" style="margin-right:5px;">Gửi</button>
+                    <button class="voice_send">Ghiâm</button>
+                    <button class="wd_send" style="width:100px;margin-right:5px;">Từ chối</button>
+                    <button class="dl_send" style="width:100px;margin-right:5px;">Gọi đi</button>
+                    <button class="ws_send" style="width:100px;margin-right:5px;">video đi</button>
+                    <button class="ws_send2" style="width:150px;margin-right:5px;">Từ chối video</button>
+                </div>
+                <div class="Chat-J">
+                    <button class="but9" style="width:120px;margin-right:5px;">Cảm xúc tin</button>
+                    <button class="but11" style="width:120px;">Mặt cảm xúc</button>
+                </div>
+                <div class="Chat-J">
+                    <input type="text" value="13:54 Hôm nay" id="time-box3" style="width:160px; padding: 0.5px;">
+                    <button class="time_send" style="width:120px; padding: 1.5px;">Gửi</button>
+                </div>
+                <div class="Chat-J">
+                    <input type="text" value="13:54" id="time-box4" style="width:160px; padding: 0.5px;">
+                    <button class="time_send2" style="width:120px; padding: 1.5px;">Gửi Trái</button>
+                </div>
+                                <div class="Chat-J">
+                    <input type="text" value="13:54" id="time-box4" style="width:160px; padding: 0.5px;">
+                    <button class="time_send4" style="width:120px; padding: 1.5px;">Cuộc gọi</button>
+                </div>
+                <div class="Chat-J">
+                    <input type="text" value="13:55" id="time-box5" style="width:160px; padding: 0.5px;">
+                    <button class="time_send3" style="width:120px; padding: 1.5px;">Gửi Phải</button>
+                </div>
+                <div class="Chat-J">
+                    <div style="float: left;margin-left: 10px;">
+                        <input type="checkbox" id="xs5" style="float: left;margin-left: 5px;">
+                        <input type="text" value="13:54" id="time-box5" style="width:160px; padding: 0.5px;">
+                    </div>
+                    <button class="msg_send_time" style="margin-right:5px;">Gửi</button>
+                </div>
+                <input type="file" name="titlepicfile2" id="titlepicfile2" style="display:none;" size="45" onchange="imgChange4(this)">
+                <!-- <div class="Chat-J" style="clear:left;">
+                    <h3>Ảnh nền</h3>
+                    <div class="bg-img" style="display: block; background-image:url(img/bg.jpg); margin-bottom:20px;">
+                        <img src="img/zalobeijing.jpg" style="opacity:0;" id="imgs2" />
+                    </div>
+                </div> -->
+                <div class="Chat-J">
+                </div>
+                <div class="faceWrap">
+                    <div class="faceBox">
+                        <a id="1" href="javascript:;"><img src="img/emoji/1.png"></a>
+                        <a id="2" href="javascript:;"><img src="img/emoji/2.png"></a>
+                        <a id="3" href="javascript:;"><img src="img/emoji/3.png"></a>
+                        <a id="4" href="javascript:;"><img src="img/emoji/4.png"></a>
+                        <a id="5" href="javascript:;"><img src="img/emoji/5.png"></a>
+                        <a id="6" href="javascript:;"><img src="img/emoji/6.png"></a>
+                        <a id="7" href="javascript:;"><img src="img/emoji/7.png"></a>
+                        <a id="8" href="javascript:;"><img src="img/emoji/8.png"></a>
+                        <a id="9" href="javascript:;"><img src="img/emoji/9.png"></a>
+                        <a id="10" href="javascript:;"><img src="img/emoji/10.png"></a>
+                        <a id="11" href="javascript:;"><img src="img/emoji/11.png"></a>
+                        <a id="12" href="javascript:;"><img src="img/emoji/12.png"></a>
+                        <a id="13" href="javascript:;"><img src="img/emoji/13.png"></a>
+                        <a id="14" href="javascript:;"><img src="img/emoji/14.png"></a>
+                        <a id="15" href="javascript:;"><img src="img/emoji/15.png"></a>
+                        <a id="16" href="javascript:;"><img src="img/emoji/16.png"></a>
+                        <a id="17" href="javascript:;"><img src="img/emoji/17.png"></a>
+                        <a id="18" href="javascript:;"><img src="img/emoji/18.png"></a>
+                        <a id="19" href="javascript:;"><img src="img/emoji/19.png"></a>
+                        <a id="20" href="javascript:;"><img src="img/emoji/20.png"></a>
+                        <a id="21" href="javascript:;"><img src="img/emoji/21.png"></a>
+                        <a id="22" href="javascript:;"><img src="img/emoji/22.png"></a>
+                        <a id="23" href="javascript:;"><img src="img/emoji/23.png"></a>
+                        <a id="24" href="javascript:;"><img src="img/emoji/24.png"></a>
+                        <a id="25" href="javascript:;"><img src="img/emoji/25.png"></a>
+                        <a id="26" href="javascript:;"><img src="img/emoji/26.png"></a>
+                        <a id="27" href="javascript:;"><img src="img/emoji/27.png"></a>
+                        <a id="28" href="javascript:;"><img src="img/emoji/28.png"></a>
+                        <a id="29" href="javascript:;"><img src="img/emoji/29.png"></a>
+                        <a id="30" href="javascript:;"><img src="img/emoji/30.png"></a>
+                        <a id="31" href="javascript:;"><img src="img/emoji/31.png"></a>
+                        <a id="32" href="javascript:;"><img src="img/emoji/32.png"></a>
+                        <a id="33" href="javascript:;"><img src="img/emoji/33.png"></a>
+                        <a id="34" href="javascript:;"><img src="img/emoji/34.png"></a>
+                        <a id="35" href="javascript:;"><img src="img/emoji/35.png"></a>
+                        <a id="36" href="javascript:;"><img src="img/emoji/36.png"></a>
+                        <a id="37" href="javascript:;"><img src="img/emoji/37.png"></a>
+                        <a id="38" href="javascript:;"><img src="img/emoji/38.png"></a>
+                        <a id="39" href="javascript:;"><img src="img/emoji/39.png"></a>
+                        <a id="40" href="javascript:;"><img src="img/emoji/40.png"></a>
+                        <a id="41" href="javascript:;"><img src="img/emoji/41.png"></a>
+                        <a id="42" href="javascript:;"><img src="img/emoji/42.png"></a>
+                        <a id="43" href="javascript:;"><img src="img/emoji/43.png"></a>
+                        <a id="44" href="javascript:;"><img src="img/emoji/44.png"></a>
+                        <a id="45" href="javascript:;"><img src="img/emoji/45.png"></a>
+                        <a id="46" href="javascript:;"><img src="img/emoji/46.png"></a>
+                        <a id="47" href="javascript:;"><img src="img/emoji/47.png"></a>
+                        <a id="48" href="javascript:;"><img src="img/emoji/48.png"></a>
+                        <a id="49" href="javascript:;"><img src="img/emoji/49.png"></a>
+                        <a id="50" href="javascript:;"><img src="img/emoji/50.png"></a>
+                        <a id="51" href="javascript:;"><img src="img/emoji/51.png"></a>
+                        <a id="52" href="javascript:;"><img src="img/emoji/52.png"></a>
+                        <a id="53" href="javascript:;"><img src="img/emoji/53.png"></a>
+                        <a id="54" href="javascript:;"><img src="img/emoji/54.png"></a>
+                        <a id="55" href="javascript:;"><img src="img/emoji/55.png"></a>
+                        <a id="56" href="javascript:;"><img src="img/emoji/56.png"></a>
+                        <a id="57" href="javascript:;"><img src="img/emoji/57.png"></a>
+                        <a id="58" href="javascript:;"><img src="img/emoji/58.png"></a>
+                        <a id="59" href="javascript:;"><img src="img/emoji/59.png"></a>
+                        <a id="60" href="javascript:;"><img src="img/emoji/60.png"></a>
+                        <a id="61" href="javascript:;"><img src="img/emoji/61.png"></a>
+                        <a id="62" href="javascript:;"><img src="img/emoji/62.png"></a>
+                        <a id="63" href="javascript:;"><img src="img/emoji/63.png"></a>
+                        <a id="64" href="javascript:;"><img src="img/emoji/64.png"></a>
+                        <a id="65" href="javascript:;"><img src="img/emoji/65.png"></a>
+                        <a id="66" href="javascript:;"><img src="img/emoji/66.png"></a>
+                        <a id="67" href="javascript:;"><img src="img/emoji/67.png"></a>
+                        <a id="68" href="javascript:;"><img src="img/emoji/68.png"></a>
+                        <a id="69" href="javascript:;"><img src="img/emoji/69.png"></a>
+                        <a id="70" href="javascript:;"><img src="img/emoji/70.png"></a>
+                        <a id="71" href="javascript:;"><img src="img/emoji/71.png"></a>
+                        <a id="72" href="javascript:;"><img src="img/emoji/72.png"></a>
+                        <a id="73" href="javascript:;"><img src="img/emoji/73.png"></a>
+                        <a id="74" href="javascript:;"><img src="img/emoji/74.png"></a>
+                        <a id="75" href="javascript:;"><img src="img/emoji/75.png"></a>
+                        <a id="76" href="javascript:;"><img src="img/emoji/76.png"></a>
+                        <a id="77" href="javascript:;"><img src="img/emoji/77.png"></a>
+                        <a id="78" href="javascript:;"><img src="img/emoji/78.png"></a>
+                    </div>
+                </div>
+                <div class="faceWrap2">
+                    <div class="faceBox2">
+                        <a id="1" href="javascript:;"><img src="img/emoji/1.png"></a>
+                        <a id="2" href="javascript:;"><img src="img/emoji/2.png"></a>
+                        <a id="3" href="javascript:;"><img src="img/emoji/3.png"></a>
+                        <a id="4" href="javascript:;"><img src="img/emoji/4.png"></a>
+                        <a id="5" href="javascript:;"><img src="img/emoji/5.png"></a>
+                        <a id="6" href="javascript:;"><img src="img/emoji/6.png"></a>
+                        <a id="7" href="javascript:;"><img src="img/emoji/7.png"></a>
+                        <a id="8" href="javascript:;"><img src="img/emoji/8.png"></a>
+                        <a id="9" href="javascript:;"><img src="img/emoji/9.png"></a>
+                        <a id="10" href="javascript:;"><img src="img/emoji/10.png"></a>
+                        <a id="11" href="javascript:;"><img src="img/emoji/11.png"></a>
+                        <a id="12" href="javascript:;"><img src="img/emoji/12.png"></a>
+                        <a id="13" href="javascript:;"><img src="img/emoji/13.png"></a>
+                        <a id="14" href="javascript:;"><img src="img/emoji/14.png"></a>
+                        <a id="15" href="javascript:;"><img src="img/emoji/15.png"></a>
+                        <a id="16" href="javascript:;"><img src="img/emoji/16.png"></a>
+                        <a id="17" href="javascript:;"><img src="img/emoji/17.png"></a>
+                        <a id="18" href="javascript:;"><img src="img/emoji/18.png"></a>
+                        <a id="19" href="javascript:;"><img src="img/emoji/19.png"></a>
+                        <a id="20" href="javascript:;"><img src="img/emoji/20.png"></a>
+                        <a id="21" href="javascript:;"><img src="img/emoji/21.png"></a>
+                        <a id="22" href="javascript:;"><img src="img/emoji/22.png"></a>
+                        <a id="23" href="javascript:;"><img src="img/emoji/23.png"></a>
+                        <a id="24" href="javascript:;"><img src="img/emoji/24.png"></a>
+                        <a id="25" href="javascript:;"><img src="img/emoji/25.png"></a>
+                        <a id="26" href="javascript:;"><img src="img/emoji/26.png"></a>
+                        <a id="27" href="javascript:;"><img src="img/emoji2/27.png"></a>
+                        <a id="28" href="javascript:;"><img src="img/emoji2/28.png"></a>
+                        <a id="29" href="javascript:;"><img src="img/emoji2/29.png"></a>
+                        <a id="30" href="javascript:;"><img src="img/emoji2/30.png"></a>
+                        <a id="31" href="javascript:;"><img src="img/emoji2/31.png"></a>
+                        <a id="32" href="javascript:;"><img src="img/emoji2/32.png"></a>
+                        <a id="33" href="javascript:;"><img src="img/emoji2/33.png"></a>
+                        <a id="34" href="javascript:;"><img src="img/emoji2/34.png"></a>
+                        <a id="35" href="javascript:;"><img src="img/emoji2/35.png"></a>
+                        <a id="36" href="javascript:;"><img src="img/emoji2/36.png"></a>
+                        <a id="37" href="javascript:;"><img src="img/emoji2/37.png"></a>
+                        <a id="38" href="javascript:;"><img src="img/emoji2/38.png"></a>
+                        <a id="39" href="javascript:;"><img src="img/emoji2/39.png"></a>
+                        <a id="40" href="javascript:;"><img src="img/emoji2/40.png"></a>
+                        <a id="41" href="javascript:;"><img src="img/emoji2/41.png"></a>
+                        <a id="42" href="javascript:;"><img src="img/emoji2/42.png"></a>
+                        <a id="43" href="javascript:;"><img src="img/emoji2/43.png"></a>
+                        <a id="44" href="javascript:;"><img src="img/emoji2/44.png"></a>
+                        <a id="45" href="javascript:;"><img src="img/emoji2/45.png"></a>
+                        <a id="46" href="javascript:;"><img src="img/emoji2/46.png"></a>
+                        <a id="47" href="javascript:;"><img src="img/emoji2/47.png"></a>
+                        <a id="48" href="javascript:;"><img src="img/emoji2/48.png"></a>
+                        <a id="49" href="javascript:;"><img src="img/emoji2/49.png"></a>
+                        <a id="50" href="javascript:;"><img src="img/emoji2/50.png"></a>
+                        <a id="51" href="javascript:;"><img src="img/emoji2/51.png"></a>
+                        <a id="52" href="javascript:;"><img src="img/emoji2/52.png"></a>
+                        <a id="53" href="javascript:;"><img src="img/emoji2/53.png"></a>
+                        <a id="54" href="javascript:;"><img src="img/emoji2/54.png"></a>
+                        <a id="55" href="javascript:;"><img src="img/emoji2/55.png"></a>
+                        <a id="56" href="javascript:;"><img src="img/emoji2/56.png"></a>
+                        <a id="57" href="javascript:;"><img src="img/emoji2/57.png"></a>
+                        <a id="58" href="javascript:;"><img src="img/emoji2/58.png"></a>
+                        <a id="59" href="javascript:;"><img src="img/emoji2/59.png"></a>
+                        <a id="60" href="javascript:;"><img src="img/emoji2/60.png"></a>
+                    </div>
+                    <div class="faceBox2">
+                        <a id="1" href="javascript:;"><img src="img/emoji2/1.png"></a>
+                        <a id="2" href="javascript:;"><img src="img/emoji2/2.png"></a>
+                        <a id="3" href="javascript:;"><img src="img/emoji2/3.png"></a>
+                        <a id="4" href="javascript:;"><img src="img/emoji2/4.png"></a>
+                        <a id="5" href="javascript:;"><img src="img/emoji2/5.png"></a>
+                        <a id="6" href="javascript:;"><img src="img/emoji2/6.png"></a>
+                        <a id="7" href="javascript:;"><img src="img/emoji2/7.png"></a>
+                        <a id="8" href="javascript:;"><img src="img/emoji2/8.png"></a>
+                        <a id="9" href="javascript:;"><img src="img/emoji2/9.png"></a>
+                        <a id="10" href="javascript:;"><img src="img/emoji2/10.png"></a>
+                        <a id="11" href="javascript:;"><img src="img/emoji2/11.png"></a>
+                        <a id="12" href="javascript:;"><img src="img/emoji2/12.png"></a>
+                        <a id="13" href="javascript:;"><img src="img/emoji2/13.png"></a>
+                        <a id="14" href="javascript:;"><img src="img/emoji2/14.png"></a>
+                        <a id="15" href="javascript:;"><img src="img/emoji2/15.png"></a>
+                        <a id="16" href="javascript:;"><img src="img/emoji2/16.png"></a>
+                        <a id="17" href="javascript:;"><img src="img/emoji2/17.png"></a>
+                        <a id="18" href="javascript:;"><img src="img/emoji2/18.png"></a>
+                        <a id="19" href="javascript:;"><img src="img/emoji2/19.png"></a>
+                        <a id="20" href="javascript:;"><img src="img/emoji2/20.png"></a>
+                        <a id="21" href="javascript:;"><img src="img/emoji2/21.png"></a>
+                        <a id="22" href="javascript:;"><img src="img/emoji2/22.png"></a>
+                        <a id="23" href="javascript:;"><img src="img/emoji2/23.png"></a>
+                        <a id="24" href="javascript:;"><img src="img/emoji2/24.png"></a>
+                        <a id="25" href="javascript:;"><img src="img/emoji2/25.png"></a>
+                        <a id="26" href="javascript:;"><img src="img/emoji2/26.png"></a>
+                        <a id="27" href="javascript:;"><img src="img/emoji2/27.png"></a>
+                        <a id="28" href="javascript:;"><img src="img/emoji2/28.png"></a>
+                        <a id="29" href="javascript:;"><img src="img/emoji2/29.png"></a>
+                        <a id="30" href="javascript:;"><img src="img/emoji2/30.png"></a>
+                        <a id="31" href="javascript:;"><img src="img/emoji2/31.png"></a>
+                        <a id="32" href="javascript:;"><img src="img/emoji2/32.png"></a>
+                        <a id="33" href="javascript:;"><img src="img/emoji2/33.png"></a>
+                        <a id="34" href="javascript:;"><img src="img/emoji2/34.png"></a>
+                        <a id="35" href="javascript:;"><img src="img/emoji2/35.png"></a>
+                        <a id="36" href="javascript:;"><img src="img/emoji2/36.png"></a>
+                        <a id="37" href="javascript:;"><img src="img/emoji2/37.png"></a>
+                        <a id="38" href="javascript:;"><img src="img/emoji2/38.png"></a>
+                        <a id="39" href="javascript:;"><img src="img/emoji2/39.png"></a>
+                        <a id="40" href="javascript:;"><img src="img/emoji2/40.png"></a>
+                        <a id="41" href="javascript:;"><img src="img/emoji2/41.png"></a>
+                        <a id="42" href="javascript:;"><img src="img/emoji2/42.png"></a>
+                        <a id="43" href="javascript:;"><img src="img/emoji2/43.png"></a>
+                        <a id="44" href="javascript:;"><img src="img/emoji2/44.png"></a>
+                        <a id="45" href="javascript:;"><img src="img/emoji2/45.png"></a>
+                        <a id="46" href="javascript:;"><img src="img/emoji2/46.png"></a>
+                        <a id="47" href="javascript:;"><img src="img/emoji2/47.png"></a>
+                        <a id="48" href="javascript:;"><img src="img/emoji2/48.png"></a>
+                        <a id="49" href="javascript:;"><img src="img/emoji2/49.png"></a>
+                        <a id="50" href="javascript:;"><img src="img/emoji2/50.png"></a>
+                        <a id="51" href="javascript:;"><img src="img/emoji2/51.png"></a>
+                        <a id="52" href="javascript:;"><img src="img/emoji2/52.png"></a>
+                        <a id="53" href="javascript:;"><img src="img/emoji2/53.png"></a>
+                        <a id="54" href="javascript:;"><img src="img/emoji2/54.png"></a>
+                        <a id="55" href="javascript:;"><img src="img/emoji2/55.png"></a>
+                        <a id="56" href="javascript:;"><img src="img/emoji2/56.png"></a>
+                        <a id="57" href="javascript:;"><img src="img/emoji2/57.png"></a>
+                        <a id="58" href="javascript:;"><img src="img/emoji2/58.png"></a>
+                        <a id="59" href="javascript:;"><img src="img/emoji2/59.png"></a>
+                        <a id="60" href="javascript:;"><img src="img/emoji2/60.png"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="chat-box" id="chatBox" style="background-image: url(&quot;img/zalobeijing.jpg&quot;);">
+                <div class="top-img">
+                    <div class="dc">
+                        <img src="img/battery.png">
+                        <div class="wrap">
+                            <div></div>
+                        </div>
+                    </div>
+                    <div class="signal"><img src="img/ico11.png"></div>
+                    <div class="wifi" style="display:none;"><img src="img/ico10.png"></div>
+                    <h2 contenteditable="true">4G</h2>
+                    <h4 contenteditable="true">16:23</h4>
+                    <div class="hn" contenteditable="true">Tên người dùng</div>
+                    <div class="zs" contenteditable="true">Thời gian Online </div>
+                    <img style="display: block;width: 100%;" src="img/ico7.png">
+                </div>
+                <div class="chat-lst-all" style="padding-top: 40px;">
+                    <div class="chat-lst"></div>
+                </div>
+                <img src="img/rj.png" class="rj">
+                <img src="img/ico4.png" class="foot-chat" width="100%">
+                <input type="file" id="replace-img" style=" display:none;" onchange="imgReplace(this)">
+            </div>
+            <div id="editool" class="_hidden">
+                <div class="btn-up hidden">Lên</div>
+                <div class="btn-down hidden">Xuống</div>
+                <button id="capture-chatbox" style="width: 50px; height: 50px; bottom: 10px;clear: both;">Tải</button>
+                <button id="edit-chatbox" class="hidden" style="width: 50px; height: 50px;  bottom: 10px;clear: both; ">Sửa</button>
+            </div>
+            <div class="chat-L">
+                <h3>Danh thiếp</h3>
+                <div class="Chat-J">
+                    <textarea id="text3"></textarea>
+                    <input type="file" name="titlepicfile" id="titlepicfile3" style="display:none;" size="45" onchange="imgChange5(this)">
+                    <div class="user-img2" style="clear:left;margin-top: 15px;margin-bottom: 10px;">
+                        <img src="img/ico3.png" id="imgs3">
+                    </div>
+                    <button class="mp_rec" style="width:80px;margin-right:5px;">Gửi đến</button>
+                    <button class="mp_send" style="width:80px;">Gửi đi</button>
+                </div>
+
+                <h3>Chế độ gửi nhiều ảnh</h3>
+                <div class="Chat-J">
+                    <ul class="fp">
+                        <li style="margin-left: 0;"><img id="fp" src="img/t1.png"></li>
+                        <input type="file" name="ft" id="ft" style="display:none;" size="45" onchange="fpChange(this)">
+                        <li><img id="fp2" src="img/t2.png"></li>
+                        <input type="file" name="ft2" id="ft2" style="display:none;" size="45" onchange="fpChange2(this)">
+                    </ul>
+                    <input type="text" id="time3" placeholder="00:00">
+                    <button class="dp_rec" style="width:80px;margin-right:5px;">Gửi đến</button>
+                    <button class="dp_send" style="width:80px;">Gửi đi</button>
+                </div>
+                <div class="Chat-J">
+                    <div>
+                        <div class="Chat-J" style="clear:left;">
+                            <h3>Ảnh nền</h3>
+                            <div class="bg-img" style="display: block; background-image:url(img/bg.jpg); margin-bottom:20px;">
+                                <img src="img/zalobeijing.jpg" style="opacity:0;" id="imgs2">
+                            </div>
+                            <!-- <div style="float: left;margin-top: 15px;"><input type="checkbox" id="xt"
+                                    style="float: left;margin-right: 5px;">Ảnh đại diện</div>
+                            <div style="float: left;margin-left: 10px;margin-top: 15px;"><input type="checkbox" id="xs"
+                                    style="float: left;margin-right: 5px;">Thời gian gửi</div>
+                            <div style="float: left;margin-left: 10px;margin-top: 15px;"><input type="checkbox"
+                                    id="xssend" style="float: left;margin-right: 5px;">Time gửi </div>
+                            <div style="float: left;margin-left: 10px;margin-top: 15px;font-family: arial;"><input type="checkbox" id="xs1"
+                                    style="float: left;margin-right: 5px;">Time nhận </div>
+                            <div style="clear:left;overflow: hidden;">
+                                <div style="float: left;margin-top: 15px;"><input type="checkbox" id="xx"
+                                        style="float: left;margin-right: 5px;">Trái tim rỗng</div>
+                                <div style="float: left;margin-left: 10px;margin-top: 15px;"><input type="checkbox"
+                                        id="xx2" style="float: left;margin-right: 5px;">Trái tim không hiện số</div>
+                                <div style="float: left;margin-left: 10px;margin-top: 15px;"><input type="checkbox"
+                                        id="cxx" style="float: left;margin-right: 5px;">Trái tim hiện số</div>
+                                <div style="float: left;margin-top: 15px;"><input type="checkbox" id="xh"
+                                        style="float: left;margin-right: 5px;">Ảnh HD</div>
+                                <div style="float: left;margin-left: 10px;margin-top: 15px;"><input type="checkbox"
+                                        id="xl" style="float: left;margin-right: 5px;">Chữ màu xanh da trời</div>
+                            </div>
+                            <div style="clear:left;overflow: hidden;margin-bottom: 20px;">
+                                <div style="float: left;margin-top: 15px;"><input type="checkbox" id="check3"
+                                        style="float: left;margin-right: 5px;">Mũi tên kéo xuống</div>
+                            </div> -->
+                            <div class="checkbox-container">
+                                <div class="checkbox-item">
+                                  <input type="checkbox" id="xt">
+                                  <label for="xt">Ảnh đại diện</label>
+                                </div>
+                                <div class="checkbox-item">
+                                  <input type="checkbox" id="xs">
+                                  <label for="xs">Thời gian gửi</label>
+                                </div>
+                                <div class="checkbox-item">
+                                  <input type="checkbox" id="xssend">
+                                  <label for="xssend">Time gửi</label>
+                                </div>
+                                <div class="checkbox-item">
+                                  <input type="checkbox" id="xs2">
+                                  <label for="xs2">Time nhận</label>
+                                </div>
+                                <div class="checkbox-item">
+                                  <input type="checkbox" id="xx">
+                                  <label for="xx">Trái tim rỗng</label>
+                                </div>
+                                <div class="checkbox-item">
+                                  <input type="checkbox" id="xx2">
+                                  <label for="xx2">Trái tim không hiện số</label>
+                                </div>
+                                <div class="checkbox-item">
+                                  <input type="checkbox" id="cxx">
+                                  <label for="cxx">Trái tim hiện số</label>
+                                </div>
+                                <div class="checkbox-item">
+                                  <input type="checkbox" id="xh">
+                                  <label for="xh">Ảnh HD</label>
+                                </div>
+                                <div class="checkbox-item">
+                                  <input type="checkbox" id="xl">
+                                  <label for="xl">Chữ màu xanh da trời</label>
+                                </div>
+                                <div class="checkbox-item">
+                                  <input type="checkbox" id="check3">
+                                  <label for="check3">Mũi tên kéo xuống</label>
+                                </div>
+                            </div>
+                            <button class="export" style="width:80px;margin-right:5px;">Xuất file</button>
+                            <input type="file" accept=".zalo" id="import" style=" display:none;" onchange="dr(this)">
+                            <button class="import" style="width:80px;">Nhập file</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="labelText" style="font-family: &quot;pf&quot;; white-space: nowrap; display: none; font-size: 20px;">
+                </div>
+                <!--<button id="capture-chatbox-start"
+                    style="width: 50px; height: 50px; position: absolute; bottom: 10px; right: 10px;">Chụp</button>-->
+    </div></div></section>
+
+    <script type="text/javascript">
+        function tx() {
+            if ($("#xt").prop("checked")) {
+                return '<img class="tx imgAva" src="' + $("#imgs").attr("src") + '">';
+            } else {
+                return "";
+            }
+        }
+
+        function sj(t, p) {
+            if ($("#xs").prop("checked")) {
+                if ("") {
+                    return '<div class="tt" contenteditable="true">' + '12:12' + '</div>';
+                } else {
+                    return '<div class="mt" contenteditable="true">' + '12:12' + '</div>';
+                }
+            } else {
+                return "";
+            }
+        }
+
+        function sjTime(t, p) {
+            if ($("#xs5").prop("checked")) {
+                const timeValue = $("#time-box5").val();
+                if ("") {
+                    return `<div class="ttTime" contenteditable="true">${timeValue}</div>`;
+                } else {
+                    return `<div class="mtTime" contenteditable="true">${timeValue}</div>`;
+                }
+            } else {
+                return "";
+            }
+        }
+
+        function rec() {
+            if ($("#xr").prop("checked")) {
+                if ($("#xx").prop("checked") || $("#xx2").prop("checked") || $("#cxx").prop("checked"))
+                    return '<img class="rec rb2" src="img/rec.png">';
+                else
+                    return '<img class="rec rb" src="img/rec.png">';
+            } else {
+                return "";
+            }
+        }
+
+        function xx() {
+            if ($("#xx").prop("checked")) {
+                return '<img class="xin" src="img/xin.png">';
+            } else if ($("#xx2").prop("checked")) {
+                return '<img class="xin" src="img/xin2.png">';
+            } else {
+                return "";
+            }
+        }
+
+        function hd() {
+            if ($("#xh").prop("checked")) {
+                return '<img class="hd" src="img/hd.png">';
+            } else {
+                return "";
+            }
+        }
+
+        function reset() {
+            $("#xt").prop("checked", false);
+            $("#xs").prop("checked", false);
+            $("#xs5").prop("checked", false);
+            $("#xr").prop("checked", false);
+            $("#xx").prop("checked", false);
+            $("#xx2").prop("checked", false);
+            $("#xh").prop("checked", false);
+            $("#xl").prop("checked", false);
+        }
+
+        function mb(p) {
+            if (p) {
+                if (($("#xx").prop("checked") || $("#xx2").prop("checked") || $("#cxx").prop("checked")) && $("#xr").prop("checked")) {
+                    return "mb4";
+                } else if ($("#xs").prop("checked") || $("#xr").prop("checked")) {
+                    return "mb3";
+                } else if ($("#xx").prop("checked") || $("#xx2").prop("checked") || $("#cxx").prop("checked")) {
+                    return "mb2";
+                } else {
+                    return "mb";
+                }
+            } else {
+                if ($("#xx").prop("checked") || $("#xx2").prop("checked") || $("#cxx").prop("checked")) {
+                    return "mb2";
+                } else {
+                    return "mb";
+                }
+            }
+        }
+
+        function hs(url, d) {
+            var img = new Image();
+            img.src = url;
+            if (d) {
+                if (img.width >= img.height) {
+                    return "hk";
+                } else {
+                    return "ck";
+                }
+            } else {
+                if (img.width >= img.height) {
+                    return "ht";
+                } else {
+                    return "ct";
+                }
+            }
+        }
+
+        function ls(t) {
+            if ($("#xl").prop("checked")) {
+                return ' style="color:#4391f6;"';
+            } else {
+                return "";
+            }
+        }
+
+        function cxx() {
+            if ($("#cxx").prop("checked")) {
+                return '<div class="cxx"><p contenteditable="true">1</p></div>';
+            } else {
+                return "";
+            }
+        }
+
+        function imgChange1(input) {
+            console.log('input', input);
+
+            if (input.files && input.files[0]) {
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    $('#img-box').attr('src', e.target.result);
+                    $(".Chat-J .tp").fadeIn(); // Hiển thị ảnh đã chọn
+                };
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+
+        function imgChange2(img) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $("#chatbox2 .tp").find("img").attr("src", reader.result);
+                $("#chatbox2").find("div").fadeIn();
+            }
+            reader.readAsDataURL(img.files[0])
+        }
+        function imgChange3(img) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $("#imgs").attr("src", reader.result);
+                $(".tx").attr("src", reader.result);
+            }
+            reader.readAsDataURL(img.files[0])
+        }
+        function imgChange4(img) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $(".bg-img").css("background-image", "url(" + reader.result + ")");
+                $("#imgs2").attr("src", reader.result);
+                $(".chat-box").css("background-image", "url(" + reader.result + ")");
+            }
+            reader.readAsDataURL(img.files[0])
+        }
+        function imgChange5(img) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $("#imgs3").attr("src", reader.result);
+            }
+            reader.readAsDataURL(img.files[0])
+        }
+
+        function fpChange(img) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $("#fp").attr("src", reader.result);
+            }
+            reader.readAsDataURL(img.files[0])
+        }
+        function fpChange2(img) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $("#fp2").attr("src", reader.result);
+            }
+            reader.readAsDataURL(img.files[0])
+        }
+        (function ($) {
+            $.fn.extend({
+                insertAtCaret: function (myValue) {
+                    var $t = $(this)[0];
+                    if (document.selection) {
+                        this.focus();
+                        sel = document.selection.createRange();
+                        sel.text = myValue;
+                        this.focus();
+                    }
+                    else
+                        if ($t.selectionStart || $t.selectionStart == '0') {
+                            var startPos = $t.selectionStart;
+                            var endPos = $t.selectionEnd;
+                            var scrollTop = $t.scrollTop;
+                            $t.value = $t.value.substring(0, startPos) + myValue + $t.value.substring(endPos, $t.value.length);
+                            this.focus();
+                            $t.selectionStart = startPos + myValue.length;
+                            $t.selectionEnd = startPos + myValue.length;
+                            $t.scrollTop = scrollTop;
+                        }
+                        else {
+                            this.value += myValue;
+                            this.focus();
+                        }
+                }
+            })
+        })(jQuery);
+        $(function () {
+            var s = 3;
+            $(".signal img").click(function () {
+                if (s == 4) {
+                    $(this).attr("src", "img/ico11.png")
+                    s = 3;
+                } else if (s == 3) {
+                    $(this).attr("src", "img/ico12.png")
+                    s = 2;
+                } else if (s == 2) {
+                    $(this).attr("src", "img/ico13.png")
+                    s = 1;
+                } else if (s == 1) {
+                    $(this).attr("src", "img/ico14.png")
+                    s = 4;
+                }
+            })
+            $(".id-che").click(function () {
+
+                if ($(this).is(":checked") == true) {
+                    $(".top-img h2").fadeOut()
+                    $(".wifi").fadeIn()
+                } else {
+                    $(".top-img h2").fadeIn()
+                    $(".wifi").fadeOut()
+                }
+            })
+
+
+
+            $(".Dian").blur(function () {
+
+                $(".dc .wrap div").width($(this).val())
+            });
+            $("#img-file").click(function () {
+
+                $("#img-info").click()
+            })
+
+
+            $("#img-file2").click(function () {
+
+                $("#img-info2").click()
+            })
+
+
+
+
+
+            var bg2 = $("#imgs2").attr("src")
+
+            $(".chat-box").css("background-image", "url(" + bg2 + ")");
+
+
+            $(".user-img").click(function () {
+                $("#titlepicfile").click()
+
+            });
+
+            $(".bg-img").click(function () {
+                $("#titlepicfile2").click()
+
+            });
+
+            $(".user-img2").click(function () {
+                $("#titlepicfile3").click()
+
+            });
+
+            $("#fp").click(function () {
+                $("#ft").click();
+            });
+            $("#fp2").click(function () {
+                $("#ft2").click();
+            });
+
+
+            var isSrcAvaPrinted = true;
+            $(".msg_rec").click(function () {
+                if ($("#text1").val() != "" || $("#img-box").attr("src")) {
+                    if ($("#img-box").attr("src") != "") {
+                        var src = $("#img-box").attr("src");
+                        var time = $("#time1").val();
+                        var html2 = '<div class="sr"><div class="msg left ' + hs(src, false) + ' ' + mb(true) + '"><img class="img" src="' + src + '">' + tx() + sj(time, true) + xx() + cxx() + hd() + '<img class="tj" src="img/jt.png"><div class="ref">REP</div></div></div>';
+                        var html = $(".chat-lst").html()
+                        $(".chat-lst").html("")
+                        $("#text1").val("");
+                        reset();
+                        $(".chat-lst").append(html + html2)
+                        $(".Chat-J .tp").fadeOut()
+                        $("#img-box").attr("src", "")
+                    } else if ($("#text1").val() != "") {
+                        var srcAva = $("#imgs").attr("src");
+                        var textarea = $("#text1").val();
+                        textarea = textarea.replace(/{#/g, '<img class="em" src="img/ico3');
+                        textarea = textarea.replace(/#}/g, '.png">');
+                        var time1 = $("#time1").val();
+
+                        // if (isSrcAvaPrinted) {
+                        //     var srcAva = $("#imgs").attr("src");
+                        //     html2 = '<div class="sr messPerson"><img class="imgAva" src="' + srcAva + '"><div class="msg left ' + mb(false) + '"><p' + ls(textarea) + ' contenteditable="true">' + textarea + '</p>' + sj(time1, false) + tx() + xx() + cxx() + '<div class="ref">REP</div></div></div>';
+                        //     isSrcAvaPrinted = false;
+                        // } else {
+                            // html2 = '<div class="sr messPerson notImgAva"><div class="msg left ' + mb(false) + '"><p' + ls(textarea) + ' contenteditable="true">' + textarea + '</p>' + sj(time1, false) + tx() + xx() + cxx() + '<div class="ref">REP</div></div></div>';
+                        //}
+                        html2 = '<div class="sr messPerson notImgAva"><div class="msg left ' + mb(false) + '"><p' + ls(textarea) + ' contenteditable="true">' + textarea + '</p>' + sj(time1, false) + tx() + xx() + cxx() + '<div class="ref">REP</div></div></div>';
+
+                        // var html2 = '<div class="sr"><img class="imgAva" src="' + srcAva + '"><div class="msg left ' + mb(false) + '"><p' + ls(textarea) + ' contenteditable="true">' + textarea + '</p>' + sj(time1, false) + tx() + xx() + cxx() + '<div class="ref">REP</div></div></div>';
+                        var html = $(".chat-lst").html()
+                        $(".chat-lst").html("")
+                        $("#text1").val("");
+                        reset();
+                        $(".chat-lst").append(html + html2);
+                        $(".Chat-J .tp").fadeOut();
+                    }
+
+                } else {
+
+                    alert("Nhập tối thiểu 1 ký tự")
+                    $("#text1").focus()
+                }
+            })
+
+            $(".but3").click(function () {
+                $(".left").remove();
+                $(".right").remove();
+                $(".dt").remove();
+                $(".messPerson").remove();
+                isSrcAvaPrinted = true;
+            })
+            $(".msg_send").click(function () {
+                if ($("#text2").val() != "" || $("#img-box2").attr("src")) {
+                    isSrcAvaPrinted = true;
+                    if ($("#img-box2").attr("src") != "") {
+                        var time = $("#time2").val();
+                        var src = $("#img-box2").attr("src");
+                        var html2 = '<div class="sr"><div class="msg right ' + hs(src, false) + ' ' + mb(true) + '"><img class="img" src="' + src + '">' + sj(time, true) + xx() + cxx() + hd() + rec() + '<img class="tj" src="img/jt.png"></div></div>';
+                        var html = $(".chat-lst").html();
+                        $(".chat-lst").html("");
+                        $("#text2").val("");
+                        reset();
+                        $(".chat-lst").append(html + html2);
+
+                        $(".Chat-J .tp").fadeOut();
+                        $("#img-box2").attr("src", "");
+                    } else if ($("#text2").val() != "") {
+                        var textarea = $("#text2").val();
+                        textarea = textarea.replace(/{#/g, '<img class="em" src="img/emoji/');
+                        textarea = textarea.replace(/#}/g, '.png">');
+                        var time = $("#time2").val();
+                        var html2 = '<div class="sr"><div class="msg right ' + mb(false) + '"><p' + ls(textarea) + ' contenteditable="true">' + textarea + '</p>' + sj(time, false) + xx() + cxx();
+                        var html = $(".chat-lst").html();
+                        console.log('chat-lst', html + html2);
+                        $(".chat-lst").html("");
+                        $("#text2").val("");
+                        reset();
+                        $(".chat-lst").append(html + html2);
+                        $(".Chat-J .tp").fadeOut();
+                    }
+
+
+
+                } else {
+                    alert("Nhập tối thiểu 1 ký tự")
+                    $("#text2").focus()
+                }
+            });
+
+            $(".msg_send_time").click(function () {
+                if ($("#text2").val() != "" || $("#img-box2").attr("src")) {
+                    isSrcAvaPrinted = true;
+                    if ($("#img-box2").attr("src") != "") {
+                        var time = $("#time2").val();
+                        var src = $("#img-box2").attr("src");
+                        var html2 = '<div class="sr"><div class="msg right ' + hs(src, false) + ' ' + mb(true) + '"><img class="img" src="' + src + '">' + sj(time, true) + xx() + cxx() + hd() + rec() + '<img class="tj" src="img/jt.png"></div></div>';
+                        var html = $(".chat-lst").html();
+                        $(".chat-lst").html("");
+                        $("#text2").val("");
+                        reset();
+                        $(".chat-lst").append(html2);
+
+                        $(".Chat-J .tp").fadeOut();
+                        $("#img-box2").attr("src", "");
+                    } else if ($("#text2").val() != "") {
+                        var textarea = $("#text2").val();
+                        textarea = textarea.replace(/{#/g, '<img class="em" src="img/emoji/');
+                        textarea = textarea.replace(/#}/g, '.png">');
+                        var time = $("#time2").val();
+                        var html2 = '<div class="sr"><div class="right-time ' + mb(false) + '"><p class="textTime' + ls(textarea) + ' contenteditable="true">' + textarea + '</p>' + sjTime(time, false) + xx() + cxx();
+                        var html = $(".chat-lst").html();
+                        console.log('chat-lst', html + html2);
+                        $(".chat-lst").html("");
+                        $("#text2").val("");
+                        reset();
+                        $(".chat-lst").append(html + html2);
+                        $(".Chat-J .tp").fadeOut();
+                    }
+
+
+
+                } else {
+                    alert("Nhập tối thiểu 1 ký tự")
+                    $("#text2").focus()
+                }
+            });
+
+            // $(".time_send").click(function () {
+            //     if ($("#time-box3").val() != "") {
+            //         var html2 = '<div style="text-align: center;"><padding = 0,5px><div class="dt" contenteditable="true">' + $("#time-box3").val() + '</div></div>';
+            //         var html = $(".chat-lst").html()
+            //         $(".chat-lst").html("")
+            //         $(".chat-lst").append(html + html2)
+
+            //     } else {
+            //         alert("填写时间")
+            //     }
+
+            // });
+            $(".time_send").click(function () {
+                const timeValue = $("#time-box3").val();
+
+                if (timeValue.trim() !== "") {
+                    const html2 = `
+                        <div class="sr" style="text-align: center; padding: 0.5px;">
+                            <div class="dt" contenteditable="true">${timeValue}</div>
+                        </div>`;
+
+                    $(".chat-lst").append(html2);
+                } else {
+                    alert("填写时间");
+                }
+            });
+
+            $(".time_send2").click(function () {
+                const timeValue = $("#time-box4").val();
+
+                if (timeValue.trim() !== "") {
+                    const html2 = `
+                        <div class="sr" style="text-align: center; padding: 0.5px; margin-top: -50px">
+                            <div class="dt2" contenteditable="true">${timeValue}</div>
+                        </div>`;
+
+                    $(".chat-lst").append(html2);
+                } else {
+                    alert("填写时间");
+                }
+            });
+                        $(".time_send4").click(function () {
+                const timeValue = $("#time-box4").val();
+
+                if (timeValue.trim() !== "") {
+                    const html2 = `
+                        <div class="sr" style="text-align: center; padding: 0.5px; margin-top: 0px">
+                            <div class="dt2" contenteditable="true">${timeValue}</div>
+                        </div>`;
+
+                    $(".chat-lst").append(html2);
+                } else {
+                    alert("填写时间");
+                }
+            });
+            $(".time_send3").click(function () {
+                const timeValue = $("#time-box4").val();
+
+                if (timeValue.trim() !== "") {
+                    const html2 = `
+                        <div class="sr" style="text-align: center; padding-right: 40px">
+                            <div class="dt3" contenteditable="true">${timeValue}</div>
+                        </div>`;
+
+                    $(".chat-lst").append(html2);
+                } else {
+                    alert("填写时间");
+                }
+            });
+
+        })
+        $("body").bind("contextmenu", function () {
+            return false;
+        })
+        /*$(".chat-lst").on("mouseup",".left",function(e){
+            if(3 == e.which) {$(this).remove();}
+        });
+        $(".chat-lst").on("mouseup",".right",function(e){
+            if(3 == e.which) {$(this).remove();}
+        });
+        $(".chat-lst").on("mouseup",".dt",function(e){
+            if(3 == e.which) {$(this).remove();}
+        });*/
+        var cd;
+        $(".chat-lst").on("mouseup", ".sr", function (e) {
+            if (3 == e.which) {
+                $(".rightMenu").remove();
+                cd = $(this);
+                var prev = $(this).prev(".sr").length;
+                var next = $(this).next(".sr").length;
+                var html = '<ul class="rightMenu" style="top:' + e.clientY + 'px;left:' + e.clientX + 'px;">';
+                if (prev > 0) html += '<li class="up">Lên</li>';
+                if (next > 0) html += '<li class="down">Xuống</li>';
+                html += '<li class="remove">Xoá</li></ul>';
+                $("body").append(html);
+            }
+        });
+        $("body").on("click", ".rightMenu .remove", function () {
+            $(".rightMenu").remove();
+            cd.remove();
+        });
+        $("body").on("click", ".rightMenu .up", function () {
+            $(".rightMenu").remove();
+            cd.prev().before(cd.clone());
+            cd.remove();
+        });
+        $("body").on("click", ".rightMenu .down", function () {
+            $(".rightMenu").remove();
+            cd.next().after(cd.clone());
+            cd.remove();
+        });
+        $("body").click(function (e) {
+            con = $(".rightMenu");
+            if (!con.is(e.target) && con.has(e.target).length === 0) {
+                con.remove();
+            }
+        });
+        $(".save").click(function () {
+            html2canvas(document.querySelector('.chat-box')).then(function (canvas) {
+                var timers = new Date();
+                var fullYear = timers.getFullYear();
+                var month = timers.getMonth() + 1;
+                var date = timers.getDate();
+                var randoms = Math.random() + '';
+                var numberFileName = fullYear + '' + month + date + randoms.slice(3, 10);
+                var imgData = canvas.toDataURL();
+                var save_link = document.createElementNS('http://www.w3.org/1999/xhtml', 'a');
+                save_link.href = imgData;
+                save_link.download = numberFileName + '.png';
+                var event = document.createEvent('MouseEvents');
+                event.initMouseEvent('click', true, false, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+                save_link.dispatchEvent(event);
+            });
+        });
+
+        $(".mp_rec").click(function () {
+            if ($("#text3").val() != "") {
+                var text = $("#text3").val();
+                var html = '<div class="sr"><div class="msg left mp ' + mb(false) + '"><div class="bg-danhthiep"><img class="pt" src="' + $("#imgs3").attr("src") + '"><div class="pn" contenteditable="true">' + text + '</div></div><div class="ms" contenteditable="true">Gọi điện</div><div class="ms2" contenteditable="true">Nhắn tin</div>' + tx() + '</div></div>';
+                $(".chat-lst").append(html);
+                $("#text3").val("");
+                reset();
+            } else {
+                alert("Nhập tên danh thiếp ");
+            }
+        });
+        $(".mp_send").click(function () {
+            if ($("#text3").val() != "") {
+                var text = $("#text3").val();
+                var html = '<div class="sr"><div class="msg right mp ' + mb(false) + '"><div class="bg-danhthiep"><img class="pt" src="' + $("#imgs3").attr("src") + '"><div class="pn" contenteditable="true">' + text + '</div></div><div class="ms" contenteditable="true">Gọi điện</div><div class="ms2" contenteditable="true">Nhắn tin</div>' + tx() + '</div></div>';
+                $(".chat-lst").append(html);
+                $("#text3").val("");
+                reset();
+            } else {
+                alert("Nhập tên danh thiếp");
+            }
+        });
+        $(".dp_rec").click(function () {
+            var html = '<div class="sr"><div class="msg left dp ' + hs($("#fp").attr("src"), true) + ' ' + mb(true) + '"><div class="wl"><img class="lt" src="' + $("#fp").attr("src") + '">' + hd() + '</div><div class="wr"><img class="rt" src="' + $("#fp2").attr("src") + '">' + hd() + '</div>' + tx() + xx() + cxx() + sj($("#time3").val(), true) + '<img class="tj" src="img/jt2.png"></div>';
+            $(".chat-lst").append(html);
+            reset();
+        });
+        $(".dp_send").click(function () {
+            var html = '<div class="sr"><div class="msg right dp ' + hs($("#fp").attr("src"), true) + ' ' + mb(true) + '"><div class="wl"><img class="lt" src="' + $("#fp").attr("src") + '">' + hd() + '</div><div class="wr"><img class="rt" src="' + $("#fp2").attr("src") + '">' + hd() + '</div>' + rec() + xx() + cxx() + sj($("#time3").val(), true) + '<img class="tj" src="img/jt2.png"></div>';
+            $(".chat-lst").append(html);
+            reset();
+        });
+        $("#check3").click(function () {
+            if ($(this).prop("checked")) {
+                $(".rj").show();
+            } else {
+                $(".rj").hide();
+            }
+        });
+        $(".export").click(function () {
+            var content = $(".chat-lst").html();
+            var ele = document.createElement("a");
+            blob = new Blob([content]);
+            var timers = new Date();
+            var fullYear = timers.getFullYear();
+            var month = timers.getMonth() + 1;
+            var date = timers.getDate();
+            var randoms = Math.random() + '';
+            var fileName = fullYear + '' + month + date + randoms.slice(3, 10);
+            ele.download = fileName + '.zalo';
+            ele.href = URL.createObjectURL(blob);
+            ele.click();
+        });
+        $(".import").click(function () {
+            $("#import").click();
+        });
+        function dr(file) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $(".chat-lst").html(reader.result);
+            }
+            reader.readAsText(file.files[0])
+        }
+        var ct;
+        var db;
+        $(".but8").click(function (e) {
+            e.stopPropagation();
+            ct = $("#text1");
+            $(".faceWrap").show();
+        });
+        $(".but9").click(function (e) {
+            e.stopPropagation();
+            ct = $("#text2");
+            $(".faceWrap").show();
+        });
+        $(".but10").click(function (e) {
+            e.stopPropagation();
+            db = 0;
+            $(".faceWrap2").show();
+        });
+        $(".but11").click(function (e) {
+            e.stopPropagation();
+            db = 1;
+            $(".faceWrap2").show();
+        });
+        $("body").click(function (e) {
+            var con = $(".faceWrap");
+            if (!con.is(e.target) && con.has(e.target).length === 0) {
+                con.hide();
+            }
+            con = $(".faceWrap2");
+            if (!con.is(e.target) && con.has(e.target).length === 0) {
+                con.hide();
+            }
+        });
+        $(".faceBox a").click(function () {
+            ct.insertAtCaret("{#" + $(this).attr("id") + "#}");
+            $(".faceWrap").hide();
+        });
+        $(".faceBox2 a").click(function () {
+            var html;
+            var img = $(this).find("img").attr("src");
+            if (db == 0) {
+                html = '<div class="sr"><div style="background-color:transparent;border:0;padding:0;" class="msg left ' + mb(false) + '"><img class="db" src="' + img + '">' + sj($("#time1").val(), true) + tx() + '</div></div>';
+            } else {
+                html = '<div class="sr"><div style="background-color:transparent;border:0;padding:0;" class="msg right ' + mb(false) + '"><img class="db" src="' + img + '">' + sj($("#time2").val(), true) + tx() + '</div></div>';
+            }
+            $(".chat-lst").append(html);
+            reset();
+            $(".faceWrap2").hide();
+        });
+        var isSrcAvaPrinted = true;
+        $(".voice_rec").click(function () {
+            if ($("#text1").val() != '') {
+                var html = '<div class="sr"><div class="msg left voice ' + mb(true) + '"><img class="yl" src="img/yl.png"><p contenteditable="true">' + $("#text1").val() + '</p>' + sj($("#time1").val(), true) + tx() + xx() + cxx() + '</div>';
+
+                // if (isSrcAvaPrinted) {
+                //     var srcAva = $("#imgs").attr("src");
+                //     html2 = '<div class="sr messPerson"><img class="imgAva" src="' + srcAva + '"><div class="msg left ' + mb(false) + '"><p' + ls(textarea) + ' contenteditable="true">' + textarea + '</p>' + sj(time1, false) + tx() + xx() + cxx() + '<div class="ref">REP</div></div></div>';
+                //     isSrcAvaPrinted = false;
+                // } else {
+                //     html2 = '<div class="sr messPerson notImgAva"><div class="msg left ' + mb(false) + '"><p' + ls(textarea) + ' contenteditable="true">' + textarea + '</p>' + sj(time1, false) + tx() + xx() + cxx() + '<div class="ref">REP</div></div></div>';
+                // }
+                $(".chat-lst").append(html);
+                reset();
+                $("#text1").val("");
+            } else {
+                alert("Nhập thời gian ghi âm gồm phút và giây")
+                $("#text1").focus()
+            }
+        });
+        $(".voice_send").click(function () {
+            if ($("#text2").val() != '') {
+                var html = '<div class="sr"><div class="msg right voice ' + mb(true) + '"><img class="yl" src="img/yl.png"><p contenteditable="true">' + $("#text2").val() + '</p>' + sj($("#time2").val(), true) + xx() + cxx() + '</div></div>';
+                $(".chat-lst").append(html);
+                reset();
+                $("#text2").val("");
+            } else {
+                alert("Nhập thời gian ghi âm gồm phút và giây")
+                $("#text1").focus()
+            }
+        });
+        $("#xx").click(function () {
+            if ($("#xx").prop("checked")) {
+                $("#xx2").prop("checked", false);
+            }
+        });
+        $("#xx2").click(function () {
+            if ($("#xx2").prop("checked")) {
+                $("#xx").prop("checked", false);
+            }
+        });
+        $(".wd_rec").click(function () {
+            var html = '<div class="sr"><div class="msg left ld ' + mb(true) + '"style="width: 488px; margin-left: 136px"><div class="p1"style="color: #f0616b;"contenteditable="true">Bạn bị nhỡ</div><div class="p2"><img src="img/h1.png"><span contenteditable="true">Cuộc gọi thoại</span></div><div class="ck">GỌI LẠI</div>' + tx() + sj($("#time1").val(), true) + '</div></div>';
+            $(".chat-lst").append(html);
+            reset();
+        });
+        $(".wd_send").click(function () {
+            var html = '<div class="sr"><div class="msg right ld ' + mb(true) + '"style="width: 488px;"><div class="p1"contenteditable="true">Người nhận từ chối</div><div class="p2"><img src="img/h2.png"><span contenteditable="true">Cuộc gọi thoại</span></div><div class="ck">GỌI LẠI</div>' + sj($("#time2").val(), true) + '</div></div>';
+            $(".chat-lst").append(html);
+            reset();
+        });
+        $(".dl_rec").click(function () {
+            var html = '<div class="sr"><div class="msg left ld ' + mb(true) + '" style="width: 488px; margin-left: 136px"><div class="p1"contenteditable="true">Cuộc gọi thoại đến</div><div class="p2"><img src="img/h3.png"><span contenteditable="true">0 phút 28 giây</span></div><div class="ck">GỌI LẠI</div>' + tx() + sj($("#time1").val(), true) + '</div></div>';
+            $(".chat-lst").append(html);
+            reset();
+        });
+        $(".dl_send").click(function () {
+            var html = '<div class="sr"><div class="msg right ld ' + mb(true) + '" style="width: 488px;"><div class="p1"contenteditable="true">Cuộc gọi thoại đi</div><div class="p2"><img src="img/h4.png"><span contenteditable="true">0 phút 28 giây</span></div><div class="ck">GỌI LẠI</div>' + tx() + sj($("#time1").val(), true) + '</div></div>';
+            $(".chat-lst").append(html);
+            reset();
+        });
+        $(".ws_rec").click(function () {
+            var html = '<div class="sr"><div class="msg left ld ' + mb(true) + '"style="width: 488px; margin-left: 136px"><div class="p1"style="color: #f0616b;"contenteditable="true">Bạn bị nhỡ</div><div class="p2"><img src="img/h5.png"><span contenteditable="true">Cuộc gọi video</span></div><div class="ck">GỌI LẠI</div>' + tx() + sj($("#time1").val(), true) + '</div></div>';
+            $(".chat-lst").append(html);
+            reset();
+        });
+        $(".ws_send").click(function () {
+            var html = '<div class="sr"><div class="msg right ld ' + mb(true) + '"style="width: 488px;"><div class="p1"contenteditable="true">Cuộc gọi video đi</div><div class="p2"><img src="img/h6.png"contenteditable="true"><span contenteditable="true">Cuộc gọi video</span></div><div class="ck">GỌI LẠI</div>' + sj($("#time1").val(), true) + '</div></div>';
+            $(".chat-lst").append(html);
+            reset();
+        });
+        $(".ws_send2").click(function () {
+            var html = '<div class="sr"><div class="msg right ld ' + mb(true) + '"style="width: 488px;"><div class="p1"contenteditable="true">Người nhận từ chối</div><div class="p2"><img src="img/h8.png"contenteditable="true"><span contenteditable="true">Cuộc gọi video</span></div><div class="ck">GỌI LẠI</div>' + sj($("#time1").val(), true) + '</div></div>';
+            $(".chat-lst").append(html);
+            reset();
+        });
+        $(".dl_rec2").click(function () {
+            var html = '<div class="sr"><div class="msg left ld ' + mb(true) + '" style="width: 488px;margin-left: 136px"><div class="p1"contenteditable="true">Cuộc gọi video đến</div><div class="p2"><img src="img/h7.png"><span contenteditable="true">0 phút 28 giây</span></div><div class="ck">GỌI LẠI</div>' + tx() + sj($("#time1").val(), true) + '</div></div>';
+            $(".chat-lst").append(html);
+            reset();
+        });
+        $(".chat-lst").on("click", ".img", function () {
+            $(this).addClass("change_img");
+            $("#replace-img").click();
+        });
+        function imgReplace(img) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $(".change_img").attr("src", reader.result);
+                $(".change_img").removeClass("change_img");
+            }
+            reader.readAsDataURL(img.files[0])
+        }
+        $(".chat-lst").on("mouseenter", ".sr", function () {
+            $(this).find(".ref").show();
+        });
+        $(".chat-lst").on("mouseleave", ".sr", function () {
+            $(this).find(".ref").hide();
+        });
+        $(".chat-lst").on("click", ".ref", function () {
+            var img = $(this).siblings(".img");
+            var p = $(this).siblings("p");
+            var yi = '';
+            var c;
+            if (img.length > 0) {
+                yi = '<div class="yi"><img src="' + img.attr("src") + '"></div>';
+                c = '[Photo]';
+            }
+            if (p.length > 0) {
+                c = p.html();
+            }
+            var html = '<div class="sr"><div class="msg right ym ' + mb(true) + '"><div class="yt">' + yi + '<div style="float: left;"><div class="y1">' + $(".hn").text() + '</div><p class="y2">' + c + '</p></div></div><p contenteditable="true">REP</p>' + sj($("#time2").val(), true) + xx() + cxx() + '</div></div>';
+            $(".chat-lst").append(html);
+            reset();
+            $(this).hide();
+        });
+
+        document.getElementById('capture-chatbox').addEventListener('click', function () {
+            const node = document.getElementById('chatBox');
+            const chatLst = node.querySelector('.chat-lst');
+            const chatLstAll = node.querySelector('.chat-lst-all');
+            const width = node.offsetWidth;
+            const height = node.offsetHeight;
+
+            const scrollTop = chatLst.scrollTop;
+            /*var distance = chatLst.scrollHeight-chatLst.clientHeight-document.querySelector('.top-img').clientHeight*2.5;
+            distance = node.clientHeight-chatLst.scrollHeight-document.querySelector('.top-img').clientHeight;
+            //-${scrollTop}px
+            chatLst.style.transform = `translateY(${distance}px)`;//chatLst.clientHeight
+            */
+            fix_capture();
+            const captureOptions = {
+                style: {
+                    transform: 'scale(2.5)',
+                    transformOrigin: 'top left',
+                }
+            };
+
+            htmlToImage.toJpeg(node, captureOptions)
+                .then((dataUrl) => {
+                    // Reset the scroll position (restore translateY)
+                    /*if(1&& h>bodyItemsHeight) setTimeout(()=>{
+                        chatLst.style.transform = '';
+                        chatLstAll.classList.remove('forcapture');
+                        chatLstAll.style.height='98%';
+                    },3000);*/
+                    
+                    const link = document.createElement('a');
+                    link.href = dataUrl;
+                    link.download = `chatbox_capture_${Date.now()}.jpg`;
+                    document.body.appendChild(link);
+                    link.click();
+                    document.body.removeChild(link);
+                })
+                .catch((error) => {
+                    console.error('Failed to capture screenshot:', error);
+                    alert('Failed to capture screenshot. Please try again.');
+                });
+        });
+        function fix_capture() {
+            if(fix_capture.init) return;
+            fix_capture.init=1;
+            const node = document.getElementById('chatBox');
+            const chatLst = node.querySelector('.chat-lst');
+            const chatLstAll = node.querySelector('.chat-lst-all');
+
+            //document.querySelector('#editool').classList.remove('hidden');
+            //document.getElementById('capture-chatbox-start').classList.add('hidden');
+            document.querySelector('#editool .btn-up').classList.remove('hidden');
+            document.querySelector('#editool .btn-down').classList.remove('hidden');
+            document.querySelector('button#edit-chatbox').classList.remove('hidden');
+            //set height to chatlist container
+            var h=0;
+            chatLst.querySelectorAll('.sr').forEach(e=>h+=e.clientHeight);
+            //check if content can scroll
+            var bodyItemsHeight = node.clientHeight-document.querySelector('.top-img').clientHeight-document.querySelector('.foot-chat').clientHeight;
+            if(1&& h>bodyItemsHeight) {
+                chatLstAll.scrollTop=0;
+                chatLstAll.style.height=(h+60)+'px';
+                chatLstAll.classList.add('forcapture');
+                chatLstAll.style.bottom='250px';
+            }
+        }
+        if(0)document.getElementById('capture-chatbox-start').addEventListener('click', function () {
+            fix_capture()
+        });
+        document.querySelector('button#edit-chatbox').addEventListener('click',function(){
+            const chatLstAll = document.querySelector('#chatBox .chat-lst-all');
+            chatLstAll.classList.remove('forcapture');
+            chatLstAll.style.height='98%';
+            fix_capture.init=0;
+            //document.querySelector('#editool').classList.add('hidden');
+            //document.getElementById('capture-chatbox-start').classList.remove('hidden');
+            document.querySelector('#editool .btn-up').classList.add('hidden');
+            document.querySelector('#editool .btn-down').classList.add('hidden');
+            document.querySelector('button#edit-chatbox').classList.add('hidden');
+        });
+        var holding_up=0,holding_down=0, tm_up,tm_down;
+        function scrollUp() {
+            if(!holding_up) return;
+            const chatLstAll = document.querySelector('#chatBox .chat-lst-all');
+            var x=parseFloat(chatLstAll.style.bottom.replace('px',''));
+            chatLstAll.style.bottom = (x-5)+'px';
+        }
+        function scrollDown() {
+            if(!holding_down) return;
+            const chatLstAll = document.querySelector('#chatBox .chat-lst-all');
+            var x=parseFloat(chatLstAll.style.bottom.replace('px',''));
+            chatLstAll.style.bottom = (x+5)+'px';
+        }
+        document.querySelector('.btn-up').addEventListener('click',scrollUp);
+        document.querySelector('.btn-up').addEventListener('mousedown',(e)=>{
+            holding_up=1;
+            tm_up=setInterval(scrollUp,50);            
+        });
+        document.querySelector('.btn-up').addEventListener('mouseup',(e)=>{
+            holding_up=0;
+            clearInterval(tm_up);
+        });
+        document.querySelector('.btn-down').addEventListener('click',scrollDown);
+        document.querySelector('.btn-down').addEventListener('mousedown',(e)=>{
+            holding_down=1;
+            tm_down=setInterval(scrollDown,50); 
+        });
+        document.querySelector('.btn-down').addEventListener('mouseup',(e)=>{
+            holding_down=0;
+            clearInterval(tm_down);
+        });
+    </script>
+
+
+</body>

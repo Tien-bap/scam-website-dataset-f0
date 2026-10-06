@@ -1,0 +1,27 @@
+{
+  "original_url": "https://ibet888.vip",
+  "hostname": "ibet888.vip",
+  "checked_at": "2026-10-04T13:34:15.469152+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f9e0d-0449-764c-9384-7e15fb2279c8",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-26T10:51:45.324Z",
+  "scan_original_url": "https://ibet888.vip/",
+  "final_url": "https://ibet888.vip/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 41,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.725,
+  "discovery": {
+    "batch_id": "6346688cd9394e570d09b97f0a444e2654b2925b45735134fdb2825abec9fbbe",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

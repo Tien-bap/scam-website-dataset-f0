@@ -1,0 +1,27 @@
+{
+  "original_url": "http://currentriver.net/slogs-int/new",
+  "hostname": "currentriver.net",
+  "checked_at": "2026-10-04T15:46:16.611816+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019faecf-15de-738f-b9d7-f15d368e368b",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-29T16:57:24.042Z",
+  "scan_original_url": "https://currentriver.net/",
+  "final_url": "https://currentriver.net/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4584,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 48.363,
+  "discovery": {
+    "batch_id": "1c2c48fa8442a670c3f433f7a352ffb0de2f880854d49d78422e02960b95502e",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

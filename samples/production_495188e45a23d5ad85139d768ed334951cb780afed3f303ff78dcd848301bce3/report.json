@@ -1,0 +1,27 @@
+{
+  "original_url": "http://fundraisingforcheer.com/cccccc/index.php",
+  "hostname": "fundraisingforcheer.com",
+  "checked_at": "2026-10-04T15:40:11.102264+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b5f4-e6ac-705a-b3d8-bb24c91088fd",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-18T19:18:50.655Z",
+  "scan_original_url": "http://fundraisingforcheer.com/",
+  "final_url": "https://www.fundraisingforcheer.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 16351,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.333,
+  "discovery": {
+    "batch_id": "7f2033f20962a0409a432c81829b96d94516e41e9574c4cf358fa229affce7ad",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

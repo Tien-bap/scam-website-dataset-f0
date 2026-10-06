@@ -1,0 +1,640 @@
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Service Contábil | Contabilidade Online em Aparecida de Goiânia</title>
+<meta name="description" content="Contabilidade Online em Aparecida de Goiânia. Serviços contábeis especializados, contabilidade online e atendimento personalizado. Conheça a Service Contábil e garanta o sucesso do seu negócio.">
+<meta name="theme-color" content="#0D5CC3">
+<link rel="canonical" href="https://www.servicecontabil.com.br/">
+<link rel="icon" href="imagens/marca/favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="apple-touch-icon" href="imagens/marca/apple-touch-icon.png">
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Service Contábil">
+<meta property="og:title" content="Service Contábil | Contabilidade Online em Aparecida de Goiânia">
+<meta property="og:description" content="Serviços contábeis especializados, contabilidade online e atendimento personalizado. Atendimento em todo o Brasil.">
+<meta property="og:image" content="imagens/compartilhamento.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+<script>document.documentElement.className += " js";</script>
+<link rel="stylesheet" href="css/style.css">
+</head><body>
+
+<a class="skip-link" href="#conteudo">Ir para o conteúdo</a>
+
+<!-- ============ ÍCONES (sprite) ============ -->
+<svg class="sprite" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="i-chart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 3v16a2 2 0 0 0 2 2h16"></path><path d="M7 15v3"></path><path d="M12 11v7"></path><path d="M17 8v10"></path><path d="M6 10l4.5-4.5L14 9l5-5"></path><path d="M15.5 4H19v3.5"></path>
+  </symbol>
+  <symbol id="i-users" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="9" cy="8" r="3.2"></circle><path d="M2.8 20c.4-3.3 3-5.5 6.2-5.5s5.8 2.2 6.2 5.5"></path><path d="M16.2 5.2a3.2 3.2 0 0 1 0 6.1"></path><path d="M17.6 14.9c2.1.6 3.5 2.4 3.7 5.1"></path>
+  </symbol>
+  <symbol id="i-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="9.2"></circle><path d="M12 6.8V12l3.4 2.2"></path>
+  </symbol>
+  <symbol id="i-building" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3.5 21h17"></path><path d="M5.5 21V5.2A1.7 1.7 0 0 1 7.2 3.5h6.1a1.7 1.7 0 0 1 1.7 1.7V21"></path><path d="M15 9.5h2.8a1.7 1.7 0 0 1 1.7 1.7V21"></path><path d="M8.6 7.2h2.6M8.6 11h2.6M8.6 14.8h2.6"></path><path d="M10 21v-3.2h-.1"></path>
+  </symbol>
+  <symbol id="i-badge-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 2.6l2.4 1.8 3-.2.9 2.9 2.4 1.8-1.1 2.8 1.1 2.8-2.4 1.8-.9 2.9-3-.2L12 21l-2.4-1.8-3 .2-.9-2.9L3.3 14.7l1.1-2.8-1.1-2.8L5.7 7.3l.9-2.9 3 .2L12 2.6Z"></path><path d="m9.2 12.1 2 2 3.6-3.9"></path>
+  </symbol>
+  <symbol id="i-calc" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4.2" y="2.8" width="15.6" height="18.4" rx="2.4"></rect><path d="M8 6.6h8v3H8z"></path><path d="M8.4 13.4h.01M12 13.4h.01M15.6 13.4h.01M8.4 17.2h.01M12 17.2h.01M15.6 17.2h.01"></path>
+  </symbol>
+  <symbol id="i-receipt" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5.2 2.8h13.6v18.4l-2.3-1.6-2.2 1.6-2.3-1.6-2.3 1.6-2.2-1.6-2.3 1.6V2.8Z"></path><path d="M9 8h6M9 12h6M9 16h3.5"></path>
+  </symbol>
+  <symbol id="i-target" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="8.8"></circle><circle cx="12" cy="12" r="5"></circle><circle cx="12" cy="12" r="1.3"></circle><path d="M12 3.2V.9M12 23.1v-2.3M3.2 12H.9M23.1 12h-2.3"></path>
+  </symbol>
+  <symbol id="i-wallet" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 7.4A2.6 2.6 0 0 1 5.6 4.8h11.6a2 2 0 0 1 2 2v1.4"></path><path d="M3 7.4v9.8a2.6 2.6 0 0 0 2.6 2.6h12.8a2.6 2.6 0 0 0 2.6-2.6v-1.6"></path><path d="M21 15.6h-4a2.1 2.1 0 0 1 0-4.2h4a.9.9 0 0 1 .9.9v2.4a.9.9 0 0 1-.9.9Z"></path>
+  </symbol>
+  <symbol id="i-monitor" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2.6" y="3.4" width="18.8" height="13" rx="2.2"></rect><path d="M8.4 20.6h7.2M12 16.4v4.2"></path><path d="m7 11.4 2.8-3 2.4 2.2 4.6-4.4"></path>
+  </symbol>
+  <symbol id="i-smartphone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6.2" y="2.6" width="11.6" height="18.8" rx="2.4"></rect><path d="M10.6 18.2h2.8"></path><path d="m9 12.4 1.9-1.9 1.6 1.4 2.5-2.6"></path>
+  </symbol>
+  <symbol id="i-lock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4.4" y="10.2" width="15.2" height="10.6" rx="2.4"></rect><path d="M8.2 10.2V7.4a3.8 3.8 0 0 1 7.6 0v2.8"></path><path d="M12 14.4v2.3"></path>
+  </symbol>
+  <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m4.8 12.6 4.6 4.6 9.8-10.4"></path>
+  </symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4.6 12h14.2"></path><path d="m13.2 6.2 5.8 5.8-5.8 5.8"></path>
+  </symbol>
+  <symbol id="i-star" viewBox="0 0 24 24" fill="currentColor">
+    <path d="m12 2.6 2.9 5.9 6.5.9-4.7 4.6 1.1 6.5-5.8-3-5.8 3 1.1-6.5L2.6 9.4l6.5-.9L12 2.6Z"></path>
+  </symbol>
+  <symbol id="i-quote" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M9.4 5.6c-3.3 1.3-5.3 4-5.3 7.6v4.8h6.6v-6.6H7.5c0-2 .9-3.3 2.8-4.1l-.9-1.7Zm10 0c-3.3 1.3-5.3 4-5.3 7.6v4.8h6.6v-6.6h-3.2c0-2 .9-3.3 2.8-4.1l-.9-1.7Z"></path>
+  </symbol>
+  <symbol id="i-whatsapp" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M12.04 2c-5.5 0-9.96 4.46-9.96 9.96 0 1.76.46 3.48 1.34 5L2 22l5.2-1.36a9.9 9.9 0 0 0 4.84 1.24h.01c5.5 0 9.96-4.46 9.96-9.96A9.9 9.9 0 0 0 19.1 4.9 9.9 9.9 0 0 0 12.04 2Zm0 18.13h-.01a8.27 8.27 0 0 1-4.21-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.24 8.24 0 0 1-1.26-4.4c0-4.56 3.71-8.27 8.28-8.27a8.23 8.23 0 0 1 8.26 8.28c0 4.56-3.71 8.25-8.27 8.25Zm4.53-6.18c-.25-.13-1.47-.72-1.69-.81-.23-.08-.39-.12-.56.13-.16.24-.64.8-.78.97-.14.16-.29.18-.53.06-.25-.13-1.05-.39-1.99-1.23-.74-.66-1.23-1.47-1.38-1.72-.14-.25-.01-.38.11-.5.11-.11.25-.29.37-.43.13-.15.17-.25.25-.41.08-.17.04-.31-.02-.43-.06-.13-.56-1.35-.77-1.84-.2-.49-.4-.42-.56-.43h-.47c-.17 0-.43.06-.66.31-.23.25-.86.85-.86 2.07 0 1.21.89 2.39 1.01 2.55.12.17 1.74 2.66 4.22 3.73.59.25 1.05.4 1.41.52.59.19 1.13.16 1.56.1.47-.07 1.47-.6 1.67-1.18.21-.58.21-1.07.15-1.18-.06-.11-.23-.17-.47-.29Z"></path>
+  </symbol>
+  <symbol id="i-phone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6.3 3.4h3.1l1.6 3.9-2 1.2a11.4 11.4 0 0 0 5 5l1.2-2 3.9 1.6v3.1a2 2 0 0 1-2.2 2A16.8 16.8 0 0 1 4.3 5.6a2 2 0 0 1 2-2.2Z"></path>
+  </symbol>
+  <symbol id="i-mail" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2.6" y="4.8" width="18.8" height="14.4" rx="2.4"></rect><path d="m3.4 7.4 7.4 5.2a2.1 2.1 0 0 0 2.4 0l7.4-5.2"></path>
+  </symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 21.4s7-5.6 7-11.1a7 7 0 1 0-14 0c0 5.5 7 11.1 7 11.1Z"></path><circle cx="12" cy="10.1" r="2.7"></circle>
+  </symbol>
+  <symbol id="i-instagram" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="3" width="18" height="18" rx="5.2"></rect><circle cx="12" cy="12" r="4.1"></circle><path d="M17.2 6.9h.01"></path>
+  </symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round">
+    <path d="M4 7h16M4 12h16M4 17h16"></path>
+  </symbol>
+  <symbol id="i-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round">
+    <path d="M6 6l12 12M18 6 6 18"></path>
+  </symbol>
+  <symbol id="i-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m6 9 6 6 6-6"></path>
+  </symbol>
+</svg>
+
+<!-- ============ HEADER ============ -->
+<header class="site-header" id="topo">
+  <div class="container site-header__inner">
+    <a class="brand" href="#topo" aria-label="Service Contábil, página inicial">
+      <!-- no celular a logo empilhada cabe no centro, entre o menu e os contatos -->
+      <picture>
+        <source media="(max-width: 900px)" srcset="imagens/marca/logo-mobile.png" width="307" height="216">
+        <img src="imagens/marca/logo.png" alt="Service Contábil" width="640" height="203">
+      </picture>
+    </a>
+
+    <nav class="nav" id="nav-principal" aria-label="Navegação principal">
+      <ul class="nav__list">
+        <li><a class="nav__link" href="#atendimento">Atendimento</a></li>
+        <li><a class="nav__link" href="#avaliacoes">Avaliações</a></li>
+        <li><a class="nav__link" href="#contato">Contato</a></li>
+      </ul>
+      <div class="nav__actions">
+        <a class="nav__phone" href="tel:+556284224991" aria-label="Ligar para (62) 8422-4991">
+          <svg class="icon" aria-hidden="true"><use href="#i-phone"></use></svg>
+          (62) 8422-4991
+        </a>
+        <a class="btn btn--primary nav__cta" href="https://wa.me/556284224991?text=Ol%C3%A1%21%20Gostaria%20de%20falar%20com%20a%20Service%20Cont%C3%A1bil." target="_blank" rel="noopener">
+          Fale conosco <svg class="icon" aria-hidden="true"><use href="#i-arrow"></use></svg>
+        </a>
+      </div>
+    </nav>
+
+    <button class="nav-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="nav-principal">
+      <svg class="icon nav-toggle__open" aria-hidden="true"><use href="#i-menu"></use></svg>
+      <svg class="icon nav-toggle__close" aria-hidden="true"><use href="#i-close"></use></svg>
+    </button>
+
+    <!-- atalhos do celular: ficam à direita da logo -->
+    <div class="header-quick">
+      <a class="header-quick__link" href="tel:+556284224991" aria-label="Ligar para (62) 8422-4991">
+        <svg class="icon" aria-hidden="true"><use href="#i-phone"></use></svg>
+      </a>
+      <a class="header-quick__link" href="https://wa.me/556284224991?text=Ol%C3%A1%21%20Gostaria%20de%20falar%20com%20a%20Service%20Cont%C3%A1bil." target="_blank" rel="noopener" aria-label="Falar no WhatsApp">
+        <svg class="icon" aria-hidden="true"><use href="#i-whatsapp"></use></svg>
+      </a>
+    </div>
+  </div>
+</header>
+<div class="nav-scrim" hidden=""></div>
+
+<main id="conteudo">
+
+  <!-- ============ HERO ============ -->
+  <section class="hero">
+    <!-- fundo do banner: a foto é dessaturada e recolorida com o azul da marca -->
+    <div class="hero__bg" aria-hidden="true">
+      <img src="imagens/fotos/hero-fundo-1920.webp" srcset="imagens/fotos/hero-fundo-1280.webp 1280w, imagens/fotos/hero-fundo-1920.webp 1920w" sizes="100vw" alt="" width="1920" height="1282" fetchpriority="high">
+    </div>
+    <div class="hero__glow" aria-hidden="true"></div>
+
+    <div class="container hero__inner">
+      <div class="hero__copy">
+        <h1 class="hero__title">
+          <span class="hero__full">
+            Contabilidade que<br>
+            impulsiona o seu<br>
+            <span class="text-brand">crescimento.</span>
+          </span>
+          <span class="hero__short">
+            Contabilidade que<br>
+            <span class="text-brand">impulsiona você.</span>
+          </span>
+        </h1>
+        <p class="hero__lead">
+          <span class="hero__full">
+            Contabilidade online e atendimento personalizado, de Aparecida
+            de Goiânia para todo o Brasil.
+          </span>
+          <span class="hero__short">
+            Online, com <strong>atendimento personalizado</strong> para todo o Brasil.
+          </span>
+        </p>
+      </div>
+
+      <div class="hero__visual">
+        <img class="hero__person" src="imagens/fotos/hero-consultora-1024.webp" srcset="imagens/fotos/hero-consultora-512.webp 512w,
+                     imagens/fotos/hero-consultora-768.webp 768w,
+                     imagens/fotos/hero-consultora-1024.webp 1024w" sizes="(max-width: 640px) min(calc(100vw - 32px), 440px), (max-width: 900px) 336px, 412px" alt="Consultora da Service Contábil com o crachá da empresa" width="1024" height="1536" fetchpriority="high">
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ ATALHOS ============ -->
+  <section class="quick" aria-label="Por onde começar">
+    <div class="container">
+      <ul class="cards cards--quick">
+        <li class="card card--action reveal is-visible">
+          <span class="card__mark" aria-hidden="true"></span>
+          <h2 class="card__title">Abertura de empresa</h2>
+          <p class="card__text">Do tipo de empresa ao CNPJ ativo. Também alteração de dados e encerramento sem pendência.</p>
+          <a class="btn btn--primary card__cta" href="https://wa.me/556284224991?text=Ol%C3%A1%21%20Quero%20abrir%20minha%20empresa." target="_blank" rel="noopener">
+            Abrir minha empresa <svg class="icon" aria-hidden="true"><use href="#i-arrow"></use></svg>
+          </a>
+        </li>
+        <li class="card card--action reveal is-visible" style="--d:70ms">
+          <span class="card__mark" aria-hidden="true"></span>
+          <h2 class="card__title">Regularização de CNPJ</h2>
+          <p class="card__text">Pendência na Receita Federal ou na Prefeitura? A origem é explicada e resolvida.</p>
+          <a class="btn btn--primary card__cta" href="https://wa.me/556284224991?text=Ol%C3%A1%21%20Preciso%20regularizar%20meu%20CNPJ." target="_blank" rel="noopener">
+            Regularizar meu CNPJ <svg class="icon" aria-hidden="true"><use href="#i-arrow"></use></svg>
+          </a>
+        </li>
+        <li class="card card--action reveal is-visible" style="--d:140ms">
+          <span class="card__mark" aria-hidden="true"></span>
+          <h2 class="card__title">Fiscal e contábil</h2>
+          <p class="card__text">Impostos apurados, guias no prazo e demonstrativos em dia, sem multa por atraso.</p>
+          <a class="btn btn--primary card__cta" href="https://wa.me/556284224991?text=Ol%C3%A1%21%20Quero%20organizar%20os%20impostos%20da%20minha%20empresa." target="_blank" rel="noopener">
+            Organizar impostos <svg class="icon" aria-hidden="true"><use href="#i-arrow"></use></svg>
+          </a>
+        </li>
+        <li class="card card--action reveal is-visible" style="--d:210ms">
+          <span class="card__mark" aria-hidden="true"></span>
+          <h2 class="card__title">Departamento pessoal</h2>
+          <p class="card__text">Admissão, folha de pagamento, férias e rescisão da sua equipe, com encargos em dia.</p>
+          <a class="btn btn--primary card__cta" href="https://wa.me/556284224991?text=Ol%C3%A1%21%20Preciso%20de%20ajuda%20com%20o%20departamento%20pessoal." target="_blank" rel="noopener">
+            Cuidar da minha equipe <svg class="icon" aria-hidden="true"><use href="#i-arrow"></use></svg>
+          </a>
+        </li>
+      </ul>
+      <!-- bolinhas do carrossel dos atalhos, só aparecem no celular -->
+      <div class="quick__dots" aria-hidden="true"><span class="is-active"></span><span></span><span></span><span></span></div>
+    </div>
+  </section>
+
+  <!-- ============ ATENDIMENTO ============ -->
+  <section class="section section--support" id="atendimento">
+    <div class="container">
+      <div class="support reveal is-visible">
+        <figure class="support__photo">
+          <img src="imagens/fotos/atendimento-atendente-1536.webp" srcset="imagens/fotos/atendimento-atendente-768.webp 768w,
+                       imagens/fotos/atendimento-atendente-1152.webp 1152w,
+                       imagens/fotos/atendimento-atendente-1536.webp 1536w" sizes="(max-width: 900px) 100vw, 780px" alt="Atendente da Service Contábil com headset, pronta para atender" width="1536" height="1024" loading="lazy" decoding="async">
+        </figure>
+
+        <div class="support__panel">
+          <div class="support__copy">
+            <h2 class="h2 h2--light support__title">
+              Atendimento<br><span>sem fila e sem robô.</span>
+            </h2>
+            <p class="support__lead">
+              <span class="support__full">
+                Aqui você fala direto com o contador que cuida da sua empresa.
+                Dúvidas sobre impostos, folha e obrigações são respondidas de segunda
+                a sexta, presencialmente em Goiás ou online, de onde você estiver.
+              </span>
+              <span class="support__short">
+                Fale direto com o contador da sua empresa, de segunda a sexta,
+                presencialmente em Goiás ou online.
+              </span>
+            </p>
+            <a class="btn btn--light support__cta" href="https://wa.me/556284224991?text=Ol%C3%A1%21%20Quero%20falar%20com%20um%20contador%20da%20Service%20Cont%C3%A1bil." target="_blank" rel="noopener">
+              Falar com um contador <svg class="icon" aria-hidden="true"><use href="#i-arrow"></use></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CONTABILIDADE ONLINE (faixa escura) ============ -->
+  <section class="band" id="online">
+    <svg class="wave wave--band-top" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true">
+      <path class="wave__l1" d="M0,64 C200,16 440,104 740,72 C1020,42 1250,4 1440,36 L1440,0 L0,0 Z"></path>
+      <path class="wave__l3" d="M0,36 C240,0 470,72 760,44 C1030,18 1260,-14 1440,10 L1440,0 L0,0 Z"></path>
+    </svg>
+
+    <div class="container band__inner">
+      <div class="band__copy reveal">
+        <p class="eyebrow eyebrow--light eyebrow--mark">Contabilidade online</p>
+        <h2 class="h2 h2--light band__title">Sua contabilidade<br><span>na palma da mão.</span></h2>
+        <p class="band__lead">
+          <span class="band__full">
+            Guias, notas e relatórios <strong>a um toque no celular</strong>. E um contador
+            de verdade para explicar cada número, <strong>sem juridiquês</strong>.
+          </span>
+          <span class="band__short">
+            Guias, notas e relatórios <strong>a um toque</strong>, com um contador
+            que explica cada número <strong>sem juridiquês</strong>.
+          </span>
+        </p>
+
+        <ul class="band-stats">
+          <li class="band-stat">
+            <span class="band-stat__icon" aria-hidden="true">
+              <svg class="icon icon--lg"><use href="#i-smartphone"></use></svg>
+            </span>
+            <span class="band-stat__body">
+              <strong>Tudo no celular</strong>
+              <span>Consulte quando quiser, de onde você estiver.</span>
+            </span>
+          </li>
+          <li class="band-stat">
+            <span class="band-stat__icon" aria-hidden="true">
+              <svg class="icon icon--lg"><use href="#i-lock"></use></svg>
+            </span>
+            <span class="band-stat__body">
+              <strong>Seus dados protegidos</strong>
+              <span>Envio seguro e acesso só de quem você autoriza.</span>
+            </span>
+          </li>
+          <li class="band-stat band-stat--wide">
+            <span class="band-stat__icon" aria-hidden="true">
+              <svg class="icon icon--lg"><use href="#i-whatsapp"></use></svg>
+            </span>
+            <span class="band-stat__body">
+              <strong>Um contador de verdade no seu WhatsApp</strong>
+              <span>Respostas de segunda a sexta e um aviso antes de cada vencimento.</span>
+            </span>
+          </li>
+        </ul>
+      </div>
+
+      <div class="band__media reveal" style="--d:120ms">
+        <div class="band__halo" aria-hidden="true"></div>
+        <img src="imagens/fotos/online-contadora-1024.webp" srcset="imagens/fotos/online-contadora-512.webp 512w,
+                     imagens/fotos/online-contadora-768.webp 768w,
+                     imagens/fotos/online-contadora-1024.webp 1024w" sizes="(max-width: 640px) min(76vw, 310px), (max-width: 900px) 420px, 600px" alt="Contadora da Service Contábil de braços cruzados, pronta para atender" width="1024" height="1536" loading="lazy" decoding="async">
+      </div>
+    </div>
+
+    <svg class="wave wave--band-bottom" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true">
+      <path class="wave__l1" d="M0,56 C200,8 440,96 740,64 C1020,34 1250,-4 1440,28 L1440,120 L0,120 Z"></path>
+      <path class="wave__l3" d="M0,92 C240,56 470,120 760,92 C1030,66 1260,34 1440,58 L1440,120 L0,120 Z"></path>
+    </svg>
+  </section>
+
+  <!-- ============ PARCERIA ============ -->
+  <section class="section section--partner" id="parceria">
+    <div class="container">
+      <div class="support support--partner reveal">
+        <figure class="support__photo">
+          <img src="imagens/fotos/parceria-aperto-de-mao-1536.webp" srcset="imagens/fotos/parceria-aperto-de-mao-768.webp 768w,
+                       imagens/fotos/parceria-aperto-de-mao-1152.webp 1152w,
+                       imagens/fotos/parceria-aperto-de-mao-1536.webp 1536w" sizes="(max-width: 640px) calc(100vw - 32px), (max-width: 900px) 100vw, 840px" alt="Contadora da Service Contábil apertando a mão de um cliente" width="1536" height="1024" loading="lazy" decoding="async">
+        </figure>
+
+        <div class="support__panel">
+          <div class="support__copy">
+            <h2 class="h2 h2--light support__title">
+              <span class="support__full">Mais que contabilidade,<br><span>uma parceria de verdade.</span></span>
+              <span class="support__short">Mais que contabilidade,<br><span>parceria.</span></span>
+            </h2>
+            <p class="support__lead">
+              <span class="support__full">
+                Abertura de empresa, enquadramento no Simples Nacional, impostos, folha e
+                obrigações mensais: tudo entregue no prazo, sem surpresa com o Fisco.
+                Você cuida do seu negócio. A burocracia fica com a gente.
+              </span>
+              <span class="support__short">
+                Impostos, folha e obrigações entregues no prazo.
+                Você cuida do negócio, a burocracia fica com a gente.
+              </span>
+            </p>
+            <a class="btn btn--light support__cta" href="https://wa.me/556284224991?text=Ol%C3%A1%21%20Quero%20a%20Service%20Cont%C3%A1bil%20como%20parceira%20da%20minha%20empresa." target="_blank" rel="noopener">
+              Quero essa parceria <svg class="icon" aria-hidden="true"><use href="#i-arrow"></use></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ AVALIAÇÕES ============ -->
+  <section class="section section--reviews" id="avaliacoes">
+    <div class="container">
+      <header class="section-head section-head--center reveal">
+        <h2 class="h2">O Que Nossos Clientes<br><span class="text-brand">Dizem Sobre Nós</span></h2>
+        <p class="section-head__sub">Nossas avaliações mais recentes</p>
+      </header>
+
+      <div class="carousel reveal" data-carousel="">
+        <div class="carousel__viewport">
+          <ul class="reviews" data-carousel-track="" tabindex="0" aria-label="Avaliações de clientes">
+            <li class="review">
+              <svg class="review__mark icon" aria-hidden="true"><use href="#i-quote"></use></svg>
+              <div class="stars" role="img" aria-label="5 de 5 estrelas">
+                <svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg>
+              </div>
+              <blockquote class="review__text">
+                Foi e está sendo uma experiência maravilhosa. Passei muita raiva com contador
+                até encontrar a Soraia. Sou muito grato pelo belíssimo trabalho que ela vem
+                desenvolvendo à frente da minha empresa!
+              </blockquote>
+              <figcaption class="review__author"><span class="avatar" aria-hidden="true">C</span> Cliente Service Contábil</figcaption>
+            </li>
+
+            <li class="review">
+              <svg class="review__mark icon" aria-hidden="true"><use href="#i-quote"></use></svg>
+              <div class="stars" role="img" aria-label="5 de 5 estrelas">
+                <svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg>
+              </div>
+              <blockquote class="review__text">
+                Excelente trabalho prestado. Orientação clara sobre os processos, agilidade e
+                muito profissionalismo. Recomendo a Soraia e a Marina.
+              </blockquote>
+              <figcaption class="review__author"><span class="avatar" aria-hidden="true">D</span> Daiane Ferreira</figcaption>
+            </li>
+
+            <li class="review">
+              <svg class="review__mark icon" aria-hidden="true"><use href="#i-quote"></use></svg>
+              <div class="stars" role="img" aria-label="5 de 5 estrelas">
+                <svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg>
+              </div>
+              <blockquote class="review__text">
+                Eu particularmente recomendo estas profissionais. Muito dedicadas, honestas,
+                prestativas e competentes. Falo com conhecimento dos serviços prestados.
+              </blockquote>
+              <figcaption class="review__author"><span class="avatar" aria-hidden="true">E</span> Elizete Lino Zampieri</figcaption>
+            </li>
+
+            <li class="review">
+              <svg class="review__mark icon" aria-hidden="true"><use href="#i-quote"></use></svg>
+              <div class="stars" role="img" aria-label="5 de 5 estrelas">
+                <svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg>
+              </div>
+              <blockquote class="review__text">
+                Profissionais competentes e comprometidos com seus clientes. Prestam um
+                excelente trabalho, orientando e dando solução aos problemas.
+              </blockquote>
+              <figcaption class="review__author"><span class="avatar" aria-hidden="true">R</span> Reijane Lino</figcaption>
+            </li>
+
+            <li class="review">
+              <svg class="review__mark icon" aria-hidden="true"><use href="#i-quote"></use></svg>
+              <div class="stars" role="img" aria-label="5 de 5 estrelas">
+                <svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg>
+              </div>
+              <blockquote class="review__text">
+                Experiência maravilhosa com a empresa. Sou fisioterapeuta e fui atendida com um
+                suporte excelente e profissional.
+              </blockquote>
+              <figcaption class="review__author"><span class="avatar" aria-hidden="true">B</span> Brunna Micheli</figcaption>
+            </li>
+
+            <li class="review">
+              <svg class="review__mark icon" aria-hidden="true"><use href="#i-quote"></use></svg>
+              <div class="stars" role="img" aria-label="5 de 5 estrelas">
+                <svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg><svg class="icon" aria-hidden="true"><use href="#i-star"></use></svg>
+              </div>
+              <blockquote class="review__text">
+                Profissionais qualificadas e qualidade nos serviços prestados. Super indico.
+              </blockquote>
+              <figcaption class="review__author"><span class="avatar" aria-hidden="true">R</span> Renata Lopes</figcaption>
+            </li>
+          </ul>
+        </div>
+
+        <div class="carousel__controls">
+          <button class="carousel__nav carousel__nav--prev" type="button" data-carousel-prev="" aria-label="Ver avaliação anterior" disabled="">
+            <svg class="icon" aria-hidden="true"><use href="#i-arrow"></use></svg>
+          </button>
+          <button class="carousel__nav carousel__nav--next" type="button" data-carousel-next="" aria-label="Ver próxima avaliação">
+            <svg class="icon" aria-hidden="true"><use href="#i-arrow"></use></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CONTATO ============ -->
+  <section class="section section--contact" id="contato">
+    <div class="container">
+      <div class="talk">
+        <div class="talk__photo">
+          <img src="imagens/fotos/contato-consultora.webp" alt="Consultora da Service Contábil apontando para o formulário de contato" width="1024" height="1536" loading="lazy" decoding="async">
+        </div>
+
+        <div class="talk__panel reveal">
+          <h2 class="h2">O primeiro passo<br><span class="text-brand">é uma conversa.</span></h2>
+          <p class="talk__lead">Diga a sua situação e envie pelo WhatsApp. A gente explica o caminho antes de você contratar.</p>
+
+          <form class="form" id="form-contato" novalidate="">
+            <div class="form__row">
+              <p class="field">
+                <label class="field__label" for="f-nome">Nome</label>
+                <input class="field__input" id="f-nome" name="nome" type="text" placeholder="Nome e sobrenome" autocomplete="name" required="">
+              </p>
+              <p class="field">
+                <label class="field__label" for="f-zap">WhatsApp</label>
+                <input class="field__input" id="f-zap" name="whatsapp" type="tel" inputmode="tel" placeholder="(62) 90000-0000" autocomplete="tel" maxlength="16" required="">
+              </p>
+            </div>
+
+            <p class="field">
+              <label class="field__label" for="f-servico">Serviço</label>
+              <span class="field__select">
+                <select class="field__input" id="f-servico" name="servico" required="">
+                  <option value="" selected="">Selecione o serviço</option>
+                  <option>Abertura de empresa</option>
+                  <option>Regularização de CNPJ</option>
+                  <option>Alteração ou encerramento</option>
+                  <option>Fiscal e contábil</option>
+                  <option>Departamento pessoal</option>
+                  <option>Imposto de Renda</option>
+                  <option>Planejamento tributário</option>
+                  <option>Outro assunto</option>
+                </select>
+                <svg class="icon field__caret" aria-hidden="true"><use href="#i-chevron"></use></svg>
+              </span>
+            </p>
+
+            <p class="field">
+              <label class="field__label" for="f-msg">O que a sua empresa precisa <span class="field__opt">(opcional)</span></label>
+              <textarea class="field__input field__input--area" id="f-msg" name="mensagem" rows="3" placeholder="Conte a situação da empresa, a pendência ou a dúvida que você quer resolver."></textarea>
+            </p>
+
+            <p class="form__feedback" id="form-feedback" role="status" hidden=""></p>
+
+            <button class="btn btn--primary btn--block btn--lg" type="submit">
+              <svg class="icon" aria-hidden="true"><use href="#i-whatsapp"></use></svg> Enviar pelo WhatsApp
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<!-- ============ RODAPÉ ============ -->
+<footer class="footer">
+  <svg class="wave wave--footer" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true">
+    <path class="wave__l1" d="M0,64 C200,16 440,104 740,72 C1020,42 1250,4 1440,36 L1440,0 L0,0 Z"></path>
+    <path class="wave__l3" d="M0,36 C240,0 470,72 760,44 C1030,18 1260,-14 1440,10 L1440,0 L0,0 Z"></path>
+  </svg>
+
+  <div class="container footer__inner">
+    <div class="footer__brand">
+      <img class="footer__logo" src="imagens/marca/logo-rodape.png" alt="Service Contábil" width="600" height="300" loading="lazy">
+      <p class="footer__tagline">Contabilidade com propósito<br>para o seu crescimento.</p>
+      <ul class="social">
+        <li><a href="https://www.instagram.com/servcontabil1/" target="_blank" rel="noopener" aria-label="Instagram da Service Contábil"><svg class="icon" aria-hidden="true"><use href="#i-instagram"></use></svg></a></li>
+        <li><a href="https://wa.me/556284224991" target="_blank" rel="noopener" aria-label="WhatsApp da Service Contábil"><svg class="icon" aria-hidden="true"><use href="#i-whatsapp"></use></svg></a></li>
+        <li><a href="mailto:contato@servicecontabil.com.br" aria-label="E-mail da Service Contábil"><svg class="icon" aria-hidden="true"><use href="#i-mail"></use></svg></a></li>
+        <li><a href="tel:+556284224991" aria-label="Telefone da Service Contábil"><svg class="icon" aria-hidden="true"><use href="#i-phone"></use></svg></a></li>
+      </ul>
+    </div>
+
+    <nav class="footer__col" aria-label="Serviços">
+      <h3 class="footer__title">Serviços</h3>
+      <ul class="footer__links">
+        <li><a href="#contato">Abertura de Empresa</a></li>
+        <li><a href="#contato">Regularização de CNPJ</a></li>
+        <li><a href="#contato">Contabilidade Mensal</a></li>
+        <li><a href="#contato">Imposto de Renda</a></li>
+        <li><a href="#contato">Planejamento Tributário</a></li>
+        <li><a href="#contato">Folha de Pagamento</a></li>
+      </ul>
+    </nav>
+
+    <nav class="footer__col" aria-label="Institucional">
+      <h3 class="footer__title">Institucional</h3>
+      <ul class="footer__links">
+        <li><a href="#atendimento">Atendimento</a></li>
+        <li><a href="#online">Contabilidade online</a></li>
+        <li><a href="#parceria">Parceria</a></li>
+        <li><a href="#avaliacoes">Avaliações</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+
+    <div class="footer__col">
+      <h3 class="footer__title">Atendimento</h3>
+      <ul class="footer__contact">
+        <li><svg class="icon" aria-hidden="true"><use href="#i-phone"></use></svg><a href="tel:+556284224991">(62) 8422-4991</a></li>
+        <li><svg class="icon" aria-hidden="true"><use href="#i-mail"></use></svg><a href="mailto:contato@servicecontabil.com.br">contato@servicecontabil.com.br</a></li>
+        <li><svg class="icon" aria-hidden="true"><use href="#i-pin"></use></svg><span>Av. São Paulo, Qd. 05, Lt. 01, Sala 4F<br>Vila Brasília, Aparecida de Goiânia - GO</span></li>
+        <li><svg class="icon" aria-hidden="true"><use href="#i-clock"></use></svg><span>Segunda a sexta, 08:00 às 18:00</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="container footer__bottom">
+    <p>© <span id="ano">2026</span> Service Contábil &nbsp;·&nbsp; CNPJ 53.381.693/0001-76 &nbsp;·&nbsp; Todos os direitos reservados.</p>
+    <p>Aparecida de Goiânia - GO &nbsp;·&nbsp; Atendimento em todo o Brasil</p>
+  </div>
+</footer>
+
+<a class="whatsapp-float" href="https://wa.me/556284224991?text=Ol%C3%A1%21%20Gostaria%20de%20falar%20com%20a%20Service%20Cont%C3%A1bil." target="_blank" rel="noopener" aria-label="Falar no WhatsApp">
+  <svg class="icon" aria-hidden="true"><use href="#i-whatsapp"></use></svg>
+  <span class="whatsapp-float__label">Fale conosco</span>
+</a>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AccountingService",
+  "name": "Service Contábil",
+  "alternateName": "Service Contábil Contabilidade Online",
+  "description": "Contabilidade online em Aparecida de Goiânia. Serviços contábeis especializados, contabilidade online e atendimento personalizado, com atendimento em nível nacional.",
+  "image": "imagens/marca/logo.png",
+  "logo": "imagens/marca/logo.png",
+  "telephone": "+55 62 8422-4991",
+  "email": "contato@servicecontabil.com.br",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Comp. C - Av. São Paulo, Qd. 05, Lt. 01, Sala 4F",
+    "addressLocality": "Aparecida de Goiânia",
+    "addressRegion": "GO",
+    "postalCode": "74905-770",
+    "addressCountry": "BR"
+  },
+  "areaServed": { "@type": "Country", "name": "Brasil" },
+  "sameAs": ["https://www.instagram.com/servcontabil1/"],
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "opens": "08:00",
+    "closes": "18:00"
+  }],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Serviços contábeis",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Abertura de Empresa" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Regularização de CNPJ" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Contabilidade Mensal" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Imposto de Renda" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Planejamento Tributário" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Folha de Pagamento" } }
+    ]
+  }
+}
+</script>
+
+<script src="js/main.js" defer=""></script>
+
+
+</body>

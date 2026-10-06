@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_c7d01656a58e14764428b2f710a27e7addc0e7d5bb64eb95af8a6b74aef11122",
+  "candidate_sha256": "40e15f09d523add7df747bdb3ce73ca1e83b34fad56476f91b00a9ca7562f074",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://facebook.phishingdemo.cloudns.cl/?_fb_noscript=1",
+  "requested_url": "https://www.cloudns.cl/",
+  "browser_final_url": "https://www.cloudns.cl/",
+  "source_urls": [
+    "http://facebook.phishingdemo.cloudns.cl/?_fb_noscript=1"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 115574,
+      "source_url": "http://facebook.phishingdemo.cloudns.cl/?_fb_noscript=1",
+      "source_hostname": "facebook.phishingdemo.cloudns.cl",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.cloudns.cl/",
+      "final_hostname": "www.cloudns.cl",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 21735,
+      "elapsed_ms": 1942,
+      "checked_at": "2026-10-05T13:16:59.038171+00:00",
+      "error": null,
+      "normalized_source_url": "http://facebook.phishingdemo.cloudns.cl/?_fb_noscript=1",
+      "normalized_final_url": "https://www.cloudns.cl/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_c7d01656a58e14764428b2f710a27e7addc0e7d5bb64eb95af8a6b74aef11122",
+    "representative_source_index": 115574,
+    "representative_source_url": "http://facebook.phishingdemo.cloudns.cl/?_fb_noscript=1",
+    "representative_final_url": "https://www.cloudns.cl/",
+    "normalized_final_url": "https://www.cloudns.cl/",
+    "source_hostname": "facebook.phishingdemo.cloudns.cl",
+    "final_hostname": "www.cloudns.cl",
+    "source_urls": [
+      "http://facebook.phishingdemo.cloudns.cl/?_fb_noscript=1"
+    ],
+    "provenance": [
+      {
+        "source_index": 115574,
+        "source_url": "http://facebook.phishingdemo.cloudns.cl/?_fb_noscript=1",
+        "source_hostname": "facebook.phishingdemo.cloudns.cl",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.cloudns.cl/",
+        "final_hostname": "www.cloudns.cl",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 21735,
+        "elapsed_ms": 1942,
+        "checked_at": "2026-10-05T13:16:59.038171+00:00",
+        "error": null,
+        "normalized_source_url": "http://facebook.phishingdemo.cloudns.cl/?_fb_noscript=1",
+        "normalized_final_url": "https://www.cloudns.cl/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "cloudns.cl is used for Dynamic DNS configuration by ClouDNS | Forever Free Dynamic DNS | ClouDNS",
+  "capture_timestamp": "2026-10-05T14:55:24.473548+00:00",
+  "dom_chars": 21729,
+  "screenshot_bytes": 136883,
+  "dom_sha256": "c42e2183e094f7752b8d592f3efdbb0ee491acd83f61774d76500e7f92b11844",
+  "screenshot_sha256": "68281b2006b7f84f68f7c12441706f75074b7387120b82c7fa26e7c2af80790a",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.cloudns.cl/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.cloudns.cl/",
+    "browser_final_url": "https://www.cloudns.cl/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3959
+}

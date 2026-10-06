@@ -1,0 +1,1172 @@
+<!DOCTYPE html><html lang="vi"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="https://mayxanhsaigon.com/storages/settings/600/favicon.png">
+    <link rel="alternate" href="" hreflang="vi-vn">
+    <meta name="robots" content="index,follow">
+    <title>Điện Máy Sài Gòn - Sửa Chữa &amp; Bảo Trì Máy Lạnh Chuyên Nghiệp</title>
+    <link rel="canonical" href="">
+    <meta name="csrf-token" content="9rsf5qtaQX6eleWlnZjuzsNRoMyLeFPnBLf4u4iD">
+    <meta name="author" content="Điện máy Sài Gòn">
+    <meta name="description" content="Điện Máy Sài Gòn cung cấp dịch vụ sửa chữa, bảo trì, vệ sinh máy lạnh nhanh chóng, giá minh bạch. Kỹ thuật viên giàu kinh nghiệm, hỗ trợ tận nơi, uy tín.">
+    <meta name="keywords" content="Điện Máy Sài Gòn">
+    <meta name="DC.title" content="Điện Máy Sài Gòn - Sửa Chữa &amp; Bảo Trì Máy Lạnh Chuyên Nghiệp">
+    <meta name="COPYRIGHT" content="Copyright (C) 2026 lacoviet.com">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="vi_VN">
+    <meta property="og:title" content="Điện Máy Sài Gòn - Sửa Chữa &amp; Bảo Trì Máy Lạnh Chuyên Nghiệp">
+    <meta property="og:description" content="Điện Máy Sài Gòn cung cấp dịch vụ sửa chữa, bảo trì, vệ sinh máy lạnh nhanh chóng, giá minh bạch. Kỹ thuật viên giàu kinh nghiệm, hỗ trợ tận nơi, uy tín.">
+    <meta property="og:image" content="https://mayxanhsaigon.com/storages/settings/600/dien-may-sai-gon-sua-chua-bao-tri-may-lanh-chuyen-nghiep.webp">
+    <meta property="og:site_name" content="www.mayxanhsaigon.com">
+    <meta property="og:url" content="">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="338">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="www.mayxanhsaigon.com">
+    <meta name="twitter:creator" content="Điện máy Sài Gòn">
+    <meta name="twitter:title" content="Điện Máy Sài Gòn - Sửa Chữa &amp; Bảo Trì Máy Lạnh Chuyên Nghiệp">
+    <meta name="twitter:description" content="Điện Máy Sài Gòn cung cấp dịch vụ sửa chữa, bảo trì, vệ sinh máy lạnh nhanh chóng, giá minh bạch. Kỹ thuật viên giàu kinh nghiệm, hỗ trợ tận nơi, uy tín.">
+    <meta name="twitter:image" content="https://mayxanhsaigon.com/storages/settings/600/dien-may-sai-gon-sua-chua-bao-tri-may-lanh-chuyen-nghiep.webp">
+    <meta name="twitter:image:alt" content="Điện Máy Sài Gòn">
+
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --blue:   #2a83e9;
+            --blue-d: #1a6fd4;
+            --blue-l: #eaf3fd;
+            --yellow: #fff350;
+            --red:    #e53935;
+            --red-d:  #c62828;
+            --black:  #111111;
+            --white:  #ffffff;
+            --gray:   #555555;
+            --line:   #e4e4e4;
+            --bg:     #f6f8fb;
+        }
+
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Be Vietnam Pro', sans-serif;
+            background: var(--white);
+            color: var(--black);
+            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        img { display: block; max-width: 100%; }
+        a { text-decoration: none; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 16px; }
+
+        /* ── TOPBAR ── */
+        .topbar {
+            background: var(--blue-d);
+            padding: 7px 0;
+            font-size: 12.5px;
+            color: rgba(255,255,255,.82);
+        }
+        .topbar .row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+        }
+        .topbar a { color: rgba(255,255,255,.9); }
+        .topbar .hl { color: var(--yellow); font-weight: 700; }
+
+        /* ── HEADER ── */
+        header {
+            background: var(--blue);
+            padding: 10px 0;
+            position: sticky;
+            top: 0;
+            z-index: 600;
+            box-shadow: 0 2px 10px rgba(42,131,233,.3);
+        }
+        .h-row {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+        .logo { flex-shrink: 0; display: flex; align-items: center; }
+        .logo img { height: 50px; width: auto; }
+
+        .search {
+            flex: 1;
+            display: flex;
+            background: var(--white);
+            border-radius: 7px;
+            overflow: hidden;
+            border: 2px solid var(--yellow);
+            min-width: 0;
+        }
+        .search input {
+            flex: 1; min-width: 0;
+            padding: 9px 14px;
+            border: none; outline: none;
+            font-family: inherit; font-size: 14px; color: var(--black);
+        }
+        .search button {
+            flex-shrink: 0;
+            background: var(--yellow);
+            border: none; padding: 9px 16px;
+            color: var(--black); font-weight: 700; font-size: 13px;
+            cursor: pointer; transition: background .15s;
+        }
+        .search button:hover { background: #f0e42a; }
+
+        .h-contact { flex-shrink: 0; text-align: right; color: var(--white); }
+        .h-contact .lbl { font-size: 11px; opacity: .8; white-space: nowrap; }
+        .h-contact .ph {
+            font-size: 18px; font-weight: 900; color: var(--yellow);
+            display: flex; align-items: center; gap: 6px; white-space: nowrap;
+        }
+        .h-contact .ph svg { width: 17px; height: 17px; fill: var(--yellow); }
+
+        /* ── HAMBURGER BUTTON ── */
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            justify-content: center;
+            gap: 5px;
+            width: 38px; height: 38px;
+            background: rgba(255,255,255,.15);
+            border: none; border-radius: 8px;
+            cursor: pointer; padding: 8px;
+            flex-shrink: 0;
+            transition: background .2s;
+        }
+        .hamburger:hover { background: rgba(255,255,255,.25); }
+        .hamburger span {
+            display: block;
+            width: 100%; height: 2px;
+            background: var(--white);
+            border-radius: 2px;
+            transition: all .25s;
+        }
+        .hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+        .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+        .hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+        /* ── NAV DESKTOP ── */
+        nav {
+            background: var(--blue-d);
+            position: relative;
+            z-index: 590;
+        }
+        .nav-row {
+            display: flex;
+            overflow-x: auto;
+            scrollbar-width: none;
+        }
+        .nav-row::-webkit-scrollbar { display: none; }
+        nav a {
+            color: var(--white);
+            padding: 11px 16px;
+            font-size: 13px; font-weight: 600;
+            white-space: nowrap;
+            border-right: 1px solid rgba(255,255,255,.08);
+            transition: background .18s, color .18s;
+            display: flex; align-items: center; gap: 6px;
+            flex-shrink: 0;
+        }
+        nav a svg { width: 14px; height: 14px; fill: currentColor; opacity: .8; }
+        nav a:hover, nav a.active { background: var(--blue); color: var(--yellow); }
+
+        /* ── MOBILE DRAWER ── */
+        .mobile-menu {
+            position: fixed;
+            inset: 0;
+            z-index: 9000;
+            pointer-events: none;
+            visibility: hidden;
+        }
+        .mobile-menu.open {
+            pointer-events: auto;
+            visibility: visible;
+        }
+        .mm-overlay {
+            position: absolute;
+            inset: 0;
+            background: rgba(0,0,0,.55);
+            opacity: 0;
+            transition: opacity .3s ease;
+        }
+        .mobile-menu.open .mm-overlay { opacity: 1; }
+        .mm-panel {
+            position: absolute;
+            top: 0; right: 0;
+            width: min(300px, 85vw);
+            height: 100%;
+            background: var(--white);
+            box-shadow: -6px 0 32px rgba(0,0,0,.22);
+            display: flex; flex-direction: column;
+            transform: translateX(100%);
+            transition: transform .32s cubic-bezier(.4,0,.2,1);
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+        .mobile-menu.open .mm-panel { transform: translateX(0); }
+
+        .mm-head {
+            background: var(--blue);
+            padding: 16px 20px;
+            display: flex; align-items: center; justify-content: space-between;
+        }
+        .mm-head .mm-logo img { height: 40px; }
+        .mm-close {
+            width: 34px; height: 34px; border-radius: 7px;
+            background: rgba(255,255,255,.15); border: none;
+            display: flex; align-items: center; justify-content: center;
+            cursor: pointer;
+        }
+        .mm-close svg { width: 18px; height: 18px; fill: var(--white); }
+
+        .mm-nav { flex: 1; padding: 8px 0; }
+        .mm-nav a {
+            display: flex; align-items: center; gap: 12px;
+            padding: 13px 20px;
+            font-size: 14px; font-weight: 600; color: var(--black);
+            border-bottom: 1px solid var(--line);
+            transition: background .15s, color .15s;
+        }
+        .mm-nav a svg { width: 18px; height: 18px; fill: var(--blue); flex-shrink: 0; }
+        .mm-nav a:hover, .mm-nav a.active {
+            background: var(--blue-l);
+            color: var(--blue);
+        }
+        .mm-nav a.active { border-left: 3px solid var(--blue); }
+
+        .mm-footer {
+            padding: 20px;
+            background: var(--bg);
+            border-top: 1px solid var(--line);
+        }
+        .mm-call {
+            display: flex; align-items: center; justify-content: center; gap: 10px;
+            background: var(--red); color: var(--white);
+            padding: 13px 20px; border-radius: 10px;
+            font-weight: 800; font-size: 16px;
+            box-shadow: 0 4px 14px rgba(229,57,53,.35);
+            transition: background .18s;
+        }
+        .mm-call svg { width: 20px; height: 20px; fill: var(--white); }
+        .mm-call:hover { background: var(--red-d); }
+
+        /* ── BANNER ── */
+        .banner { background: var(--bg); }
+        .banner img { width: 100%; height: auto; }
+
+        /* ── SECTIONS ── */
+        .sec { padding: 48px 0; }
+        .sec.alt { background: var(--bg); }
+
+        .sec-head { display: flex; align-items: center; gap: 14px; margin-bottom: 28px; }
+        .sec-head h2 { font-size: 22px; font-weight: 900; white-space: nowrap; }
+        .sec-head .ln { flex: 1; height: 2px; background: var(--line); border-radius: 2px; }
+        .sec-head .tg {
+            background: var(--blue); color: var(--white);
+            padding: 3px 12px; border-radius: 20px; font-size: 11.5px; font-weight: 700;
+        }
+
+        /* ── SERVICE CARDS ── */
+        .cards { display: grid; grid-template-columns: repeat(3,1fr); gap: 18px; }
+
+        .scard {
+            background: var(--white);
+            border: 1.5px solid var(--line);
+            border-radius: 12px; overflow: hidden;
+            transition: border-color .25s, box-shadow .25s, transform .25s;
+        }
+        .scard:hover {
+            border-color: var(--blue);
+            box-shadow: 0 8px 28px rgba(42,131,233,.13);
+            transform: translateY(-4px);
+        }
+        .scard.hl { border-color: var(--yellow); }
+        .scard.hl:hover { border-color: var(--blue-d); }
+
+        .scard-img { position: relative; background: var(--blue-l); }
+        .scard-img img { width: 100%; height: 200px; object-fit: cover; }
+        .scard-badge {
+            position: absolute; top: 10px; right: 10px;
+            background: var(--blue); color: var(--white);
+            padding: 3px 10px; border-radius: 5px;
+            font-size: 11px; font-weight: 700;
+        }
+        .scard-badge.yl { background: var(--yellow); color: var(--black); }
+        .scard-badge.dk { background: var(--black); color: var(--yellow); }
+
+        .scard-body { padding: 18px; }
+        .scard-body h3 { font-size: 15.5px; font-weight: 800; margin-bottom: 7px; }
+        .scard-body p { font-size: 13px; color: var(--gray); line-height: 1.65; margin-bottom: 12px; }
+        .scard-price { font-size: 18px; font-weight: 900; color: var(--blue); }
+        .scard-note { font-size: 11.5px; color: #999; margin-bottom: 14px; }
+        .scard-btn {
+            display: block; text-align: center;
+            background: var(--blue); color: var(--white);
+            padding: 10px; border-radius: 7px;
+            font-weight: 700; font-size: 13.5px;
+            transition: background .18s;
+        }
+        .scard-btn:hover { background: var(--blue-d); }
+        .scard-btn.yl { background: var(--yellow); color: var(--black); }
+        .scard-btn.yl:hover { background: #f0e42a; }
+
+        /* ── PROCESS ── */
+        .proc-wrap { background: var(--blue); padding: 48px 0; }
+        .proc-wrap .sec-head h2 { color: var(--white); }
+        .proc-wrap .ln { background: rgba(255,255,255,.2); }
+
+        .proc-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 20px; }
+        .pstep { text-align: center; color: var(--white); position: relative; }
+        .pstep + .pstep::before {
+            content: '';
+            position: absolute; left: -12px; top: 28px;
+            width: 24px; height: 2px;
+            background: rgba(255,255,255,.3);
+        }
+        .pnum {
+            width: 56px; height: 56px; border-radius: 50%;
+            background: var(--yellow); color: var(--black);
+            font-size: 20px; font-weight: 900;
+            display: flex; align-items: center; justify-content: center;
+            margin: 0 auto 12px;
+            box-shadow: 0 3px 12px rgba(255,243,80,.3);
+        }
+        .picon {
+            width: 40px; height: 40px; margin: 0 auto 10px;
+            background: rgba(255,255,255,.12); border-radius: 10px;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .picon svg { width: 22px; height: 22px; fill: var(--white); }
+        .pstep h4 { font-size: 14px; font-weight: 800; margin-bottom: 5px; }
+        .pstep p { font-size: 12.5px; opacity: .82; line-height: 1.55; }
+
+        /* ── WHY ── */
+        .why-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 16px; }
+        .wcard {
+            background: var(--white);
+            border: 1.5px solid var(--line);
+            border-top: 4px solid var(--blue);
+            border-radius: 12px; padding: 22px 16px; text-align: center;
+            transition: transform .2s, box-shadow .2s;
+        }
+        .wcard:hover { transform: translateY(-3px); box-shadow: 0 6px 18px rgba(0,0,0,.07); }
+        .wicon {
+            width: 48px; height: 48px; margin: 0 auto 12px;
+            background: var(--blue-l); border-radius: 12px;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .wicon svg { width: 26px; height: 26px; fill: var(--blue); }
+        .wcard h4 { font-size: 14px; font-weight: 800; margin-bottom: 7px; }
+        .wcard p { font-size: 12.5px; color: var(--gray); line-height: 1.6; }
+
+        /* ── TESTIMONIALS ── */
+        .tgrid { display: grid; grid-template-columns: repeat(3,1fr); gap: 18px; }
+        .tcard {
+            background: var(--white);
+            border: 1.5px solid var(--line);
+            border-left: 4px solid var(--blue);
+            border-radius: 12px; padding: 20px;
+        }
+        .tstars { display: flex; gap: 3px; margin-bottom: 10px; }
+        .tstars svg { width: 16px; height: 16px; fill: #f0c000; }
+        .ttext { font-size: 13.5px; color: #333; line-height: 1.7; margin-bottom: 14px; font-style: italic; }
+        .tauthor { display: flex; align-items: center; gap: 10px; }
+        .tavatar {
+            width: 38px; height: 38px; border-radius: 50%;
+            background: var(--blue-l); border: 2px solid var(--blue);
+            display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+        }
+        .tavatar svg { width: 20px; height: 20px; fill: var(--blue); }
+        .tname { font-weight: 700; font-size: 13.5px; }
+        .tarea { font-size: 11.5px; color: #888; }
+
+        /* ── CTA ── */
+        .cta { background: var(--blue); padding: 56px 0; text-align: center; color: var(--white); }
+        .cta h2 { font-size: 30px; font-weight: 900; margin-bottom: 10px; }
+        .cta h2 em { font-style: normal; color: var(--yellow); }
+        .cta p { font-size: 14.5px; opacity: .86; margin-bottom: 26px; }
+        .cta-ph {
+            display: inline-flex; align-items: center; gap: 10px;
+            font-size: 38px; font-weight: 900; color: var(--yellow);
+            margin-bottom: 24px;
+            animation: pulse 2s infinite;
+        }
+        .cta-ph svg { width: 36px; height: 36px; fill: var(--yellow); }
+        @keyframes pulse { 0%,100%{transform:scale(1)} 50%{transform:scale(1.04)} }
+        .cta-btns { display: flex; justify-content: center; gap: 14px; flex-wrap: wrap; }
+        .btn-y {
+            background: var(--yellow); color: var(--black);
+            padding: 12px 26px; border-radius: 8px;
+            font-weight: 800; font-size: 14px;
+            display: inline-flex; align-items: center; gap: 8px;
+            transition: background .18s, transform .18s;
+            box-shadow: 0 3px 12px rgba(255,243,80,.28);
+        }
+        .btn-y:hover { background: #f0e42a; transform: translateY(-2px); }
+        .btn-y svg { width: 18px; height: 18px; fill: var(--black); }
+        .btn-ghost {
+            background: transparent; color: var(--white);
+            border: 2px solid rgba(255,255,255,.5);
+            padding: 11px 22px; border-radius: 8px;
+            font-weight: 600; font-size: 14px;
+            display: inline-flex; align-items: center; gap: 8px;
+            transition: border-color .18s, color .18s;
+        }
+        .btn-ghost:hover { border-color: var(--yellow); color: var(--yellow); }
+        .btn-ghost svg { width: 18px; height: 18px; fill: currentColor; }
+
+        /* ── CONTENT BLOCK ── */
+        .content_dmx { margin: 40px auto; padding: 0 20px; line-height: 1.8; color: var(--black); }
+        .content_dmx h1 {
+            font-size: 28px; font-weight: 900; color: var(--blue-d);
+            margin-bottom: 24px; text-align: center; text-transform: uppercase;
+            position: relative; padding-bottom: 15px;
+        }
+        .content_dmx h1::after {
+            content: ''; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);
+            width: 80px; height: 4px; background: var(--yellow); border-radius: 2px;
+        }
+        .content_dmx h2 {
+            font-size: 20px; font-weight: 800; color: var(--blue);
+            margin: 35px 0 15px; display: flex; align-items: center; gap: 10px;
+        }
+        .content_dmx h2::before {
+            content: ''; display: inline-block; width: 4px; height: 20px;
+            background: var(--yellow); border-radius: 2px; flex-shrink: 0;
+        }
+        .content_dmx p { margin-bottom: 15px; font-size: 15px; color: var(--gray); }
+        .content_dmx strong { color: var(--black); font-weight: 700; }
+        .content_dmx a { color: var(--blue-d); font-weight: 700; text-decoration: underline; }
+        .content_dmx a:hover { color: var(--blue); text-decoration: none; }
+        .content_dmx ul {
+            list-style: none; margin-bottom: 20px;
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(250px,1fr)); gap: 10px;
+        }
+        .content_dmx ul li {
+            position: relative; padding-left: 28px;
+            font-size: 14.5px; color: var(--black);
+        }
+        .content_dmx ul li::before {
+            content: '✓'; position: absolute; left: 0;
+            color: var(--blue); font-weight: 900;
+            background: var(--blue-l); width: 20px; height: 20px;
+            display: flex; align-items: center; justify-content: center;
+            border-radius: 50%; font-size: 12px;
+        }
+
+        .content_dmx ol {
+            margin-bottom: 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 10px;
+
+            list-style: decimal;   /* bật lại số */
+            padding-left: 20px;    /* tạo khoảng cho số */
+        }
+
+        .content_dmx ol li {
+            position: relative;
+            padding-left: 8px;
+            font-size: 14.5px;
+            color: var(--black);
+        }
+
+        /* bỏ hoàn toàn cái custom check */
+        .content_dmx ol li::before {
+            content: none;
+        }
+        .content_dmx img {
+            display: block; width: 100%; max-width: 800px; height: auto;
+            margin: 25px auto; border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,.08);
+            border: 1px solid var(--line); transition: transform .3s;
+        }
+        .content_dmx img:hover { transform: scale(1.02); border-color: var(--blue); }
+        .content_dmx .img-caption {
+            text-align: center; font-size: 13px; color: var(--gray);
+            font-style: italic; margin-top: -15px; margin-bottom: 25px; display: block;
+        }
+        @media (max-width: 680px) {
+            .content_dmx { margin: 20px auto;padding: 0 5px; }
+            .content_dmx h1 { font-size: 20px; }
+            .content_dmx h2 { font-size: 18px; }
+        }
+
+        /* ── FOOTER ── */
+        footer { background: #08172c; color: rgba(255,255,255,.7); padding: 48px 0 0; }
+        .ft-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 36px; margin-bottom: 36px; }
+        .ft-brand .logo img { height: 46px; width: auto; }
+        .ft-brand p { font-size: 13px; line-height: 1.75; margin: 12px 0 16px; }
+        .ft-soc { display: flex; gap: 8px; }
+        .soc-btn {
+            width: 36px; height: 36px; border-radius: 7px;
+            background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.1);
+            display: flex; align-items: center; justify-content: center; transition: background .18s;
+        }
+        .soc-btn svg { width: 17px; height: 17px; fill: rgba(255,255,255,.7); }
+        .soc-btn:hover { background: var(--blue); }
+        .soc-btn:hover svg { fill: var(--white); }
+        .ft-col h4 { color: var(--white); font-size: 14px; font-weight: 700; margin-bottom: 14px; }
+        .ft-col ul { list-style: none; }
+        .ft-col ul li { margin-bottom: 8px; }
+        .ft-col ul li a { color: rgba(255,255,255,.62); font-size: 13px; transition: color .18s; }
+        .ft-col ul li a:hover { color: var(--yellow); }
+        .fci { display: flex; gap: 9px; margin-bottom: 10px; font-size: 13px; align-items: flex-start; }
+        .fci svg { width: 16px; height: 16px; fill: var(--blue); flex-shrink: 0; margin-top: 2px; }
+        .ft-bottom {
+            border-top: 1px solid rgba(255,255,255,.08);
+            padding: 16px 0;
+            display: flex; justify-content: space-between; align-items: center;
+            flex-wrap: wrap; gap: 10px; font-size: 12px;
+        }
+        .ft-bottom .copy { color: rgba(255,255,255,.4); }
+        .cbadges { display: flex; gap: 7px; flex-wrap: wrap; }
+        .cbadge {
+            background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.1);
+            border-radius: 5px; padding: 3px 9px; font-size: 11px; color: rgba(255,255,255,.5);
+        }
+
+        /* ── FADE IN ── */
+        .fi { opacity: 0; transform: translateY(16px); transition: opacity .45s, transform .45s; }
+        .fi.on { opacity: 1; transform: translateY(0); }
+
+        /* ════════════════════════════════════════
+           FLOATING CALL BUTTON — ĐỎ, HIỆN ĐẠI
+        ════════════════════════════════════════ */
+        .fab-call {
+            position: fixed;
+            bottom: 28px;
+            right: 24px;
+            z-index: 9999;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: var(--red);
+            color: var(--white);
+            padding: 13px 22px;
+            border-radius: 50px;
+            font-family: 'Be Vietnam Pro', sans-serif;
+            font-weight: 800;
+            font-size: 15px;
+            text-decoration: none;
+            box-shadow: 0 6px 20px rgba(229,57,53,.45);
+            transition: background .2s, transform .2s, box-shadow .2s;
+            white-space: nowrap;
+            /* Đảm bảo luôn hiển thị */
+            visibility: visible !important;
+            opacity: 1 !important;
+            pointer-events: auto !important;
+        }
+        .fab-call:hover {
+            background: var(--red-d);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 28px rgba(229,57,53,.5);
+        }
+
+        /* Icon rung */
+        .fab-call .fab-icon {
+            width: 22px; height: 22px; fill: var(--white);
+            animation: ring 2.5s infinite;
+            flex-shrink: 0;
+        }
+        @keyframes ring {
+            0%,100%  { transform: rotate(0); }
+            8%       { transform: rotate(-18deg); }
+            16%      { transform: rotate(18deg); }
+            24%      { transform: rotate(-14deg); }
+            32%      { transform: rotate(14deg); }
+            40%      { transform: rotate(0); }
+        }
+
+        /* Sóng lan toả */
+        .fab-call::before,
+        .fab-call::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border-radius: 50px;
+            background: var(--red);
+            z-index: -1;
+            animation: ripple 2.5s infinite;
+        }
+        .fab-call::after { animation-delay: .8s; }
+        @keyframes ripple {
+            0%   { transform: scale(1); opacity: .6; }
+            100% { transform: scale(1.55); opacity: 0; }
+        }
+
+        /* Mobile: thu nhỏ, vẫn giữ text */
+        @media (max-width: 680px) {
+            .fab-call {
+                bottom: 20px;
+                right: 16px;
+                padding: 11px 18px;
+                font-size: 14px;
+            }
+            .fab-call .fab-icon { width: 19px; height: 19px; }
+        }
+
+        /* ── RESPONSIVE ── */
+        @media (max-width: 960px) {
+            .cards     { grid-template-columns: 1fr 1fr; }
+            .proc-grid { grid-template-columns: 1fr 1fr; }
+            .why-grid  { grid-template-columns: 1fr 1fr; }
+            .tgrid     { grid-template-columns: 1fr; }
+            .ft-grid   { grid-template-columns: 1fr 1fr; }
+            .cta h2    { font-size: 24px; }
+            .cta-ph    { font-size: 30px; }
+        }
+
+        @media (max-width: 768px) {
+            /* Header: ẩn search + contact, hiện hamburger */
+            .search    { display: none; }
+            .h-contact { display: none; }
+            .hamburger { display: flex; margin-left: 25%;}
+
+            /* Nav desktop ẩn hẳn */
+            .des-nav { display: none; }
+
+            .logo img { height: 42px; }
+            .sec-head h2 { font-size: 18px; }
+
+            .cards    { grid-template-columns: 1fr; }
+            .why-grid { grid-template-columns: 1fr 1fr; }
+            .proc-grid { grid-template-columns: 1fr 1fr; }
+            .pstep + .pstep::before { display: none; }
+            .ft-grid  { grid-template-columns: 1fr; }
+            .tgrid    { grid-template-columns: 1fr; }
+
+            .cta h2   { font-size: 22px; }
+            .cta-ph   { font-size: 26px; }
+
+            .topbar .row > span:first-child { display: none; }
+        }
+
+        @media (max-width: 440px) {
+            .proc-grid { grid-template-columns: 1fr; }
+            .why-grid  { grid-template-columns: 1fr; }
+        }
+
+        .nav-row{
+            margin-left: 9%;
+        }
+
+        /* ── PRICE TABLE ── */
+        .price-table-wrap {
+            width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            border-radius: 12px;
+            border: 1.5px solid var(--line);
+            margin: 24px 0;
+        }
+        .price-table {
+            width: 100%;
+            /*min-width: 480px;  */         /* đủ để đọc được, cuộn ngang khi cần */
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+        .price-table thead tr {
+            background: var(--blue);
+            color: var(--white);
+        }
+        .price-table thead th {
+            padding: 14px 16px;
+            text-align: left;
+            font-weight: 700;
+            font-size: 13.5px;
+            border: none;
+            white-space: nowrap;
+        }
+        .price-table thead th:nth-child(2) {
+            text-align: center;
+        }
+        .price-table tbody tr {
+            border-bottom: 1px solid var(--line);
+            transition: background .18s;
+        }
+        .price-table tbody tr:last-child {
+            border-bottom: none;
+        }
+        .price-table tbody tr:nth-child(even) {
+            background: var(--bg);
+        }
+        .price-table tbody tr:hover {
+            background: var(--blue-l);
+        }
+        .price-table tbody td {
+            padding: 13px 16px;
+            vertical-align: middle;
+            border: none;
+            color: var(--black);
+        }
+        .price-table tbody td:nth-child(2) {
+            text-align: center;
+            font-weight: 800;
+            color: var(--blue);
+            font-size: 14.5px;
+            white-space: nowrap;
+        }
+        .price-table tbody td:nth-child(3) {
+            color: var(--gray);
+            font-size: 13px;
+        }
+        .price-table tbody tr:last-child td:nth-child(2) {
+            color: var(--red);
+        }
+
+        .ft-col ul li{
+            font-size: 13px;
+        }
+    </style>
+    
+
+    
+
+</head>
+<body>
+
+<!-- TOPBAR -->
+<div class="topbar">
+    <div class="container row">
+        <span>Phục vụ toàn TP và các tỉnh lân cận &nbsp;·&nbsp; 7 ngày/tuần 7:00–21:00</span>
+        <span>Hotline: <span class="hl">0779801298</span></span>
+    </div>
+</div>
+
+<!-- HEADER -->
+<header>
+    <div class="container h-row">
+        <a href="/" class="logo">
+            <img src="https://mayxanhsaigon.com/storages/settings/600/dien-may-sai-gon.png" alt="Logo">
+        </a>
+        <div class="search">
+            <input type="text" placeholder="Tìm dịch vụ: vệ sinh, sửa chữa, bơm gas...">
+            <button>Tìm kiếm</button>
+        </div>
+        <div class="h-contact">
+            <div class="lbl">Gọi ngay — tư vấn miễn phí</div>
+            <a href="tel:0779801298" class="ph">
+                <svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"></path></svg>
+                0779801298
+            </a>
+        </div>
+        <!-- Hamburger chỉ hiện mobile -->
+        <button class="hamburger" id="hamburger" aria-label="Mở menu">
+            <span></span><span></span><span></span>
+        </button>
+    </div>
+</header>
+
+<!-- NAV DESKTOP -->
+<nav class="des-nav">
+    <div class="nav-row">
+        <a href="/" class="active">
+            <svg viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"></path></svg>
+            Trang chủ
+        </a>
+        <a href="/sua-may-lanh">Sửa máy lạnh</a>
+        <a href="/ve-sinh-may-lanh">Vệ sinh máy lạnh</a>
+        <a href="/sua-tivi">Sửa tivi</a>
+        <a href="/sua-tu-lanh">Sửa tủ lạnh</a>
+        <a href="/sua-may-giat">Sửa máy giặt</a>
+        <a href="/sua-lo-vi-song">Sửa lò vi sóng</a>
+        <a href="/sua-may-nuoc-nong">Sửa máy nước nóng</a>
+        <a href="/sua-may-rua-bat">Sửa máy rửa bát</a>
+    </div>
+</nav>
+
+<!-- MOBILE DRAWER -->
+<div class="mobile-menu" id="mobileMenu">
+    <div class="mm-overlay" id="mmOverlay"></div>
+    <div class="mm-panel">
+        <div class="mm-head">
+            <a href="/" class="mm-logo"><img src="https://mayxanhsaigon.com/storages/settings/600/dien-may-sai-gon.png" alt="Logo"></a>
+            <button class="mm-close" id="mmClose">
+                <svg viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+            </button>
+        </div>
+        <nav class="mm-nav">
+            <a href="/" class="active" data-close="">
+                <svg viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"></path></svg>
+                Trang chủ
+            </a>
+            <a href="/sua-may-lanh" data-close="">
+                <svg viewBox="0 0 24 24"><path d="M13.78 15.3 19.78 21.3 21.89 19.14 15.89 13.14 13.78 15.3M17.5 10C19.43 10 21 8.43 21 6.5C21 5.93 20.85 5.38 20.59 4.91L17.5 8L16 6.5L19.09 3.41C18.62 3.15 18.07 3 17.5 3C15.57 3 14 4.57 14 6.5C14 6.71 14.04 6.9 14.07 7.1L3.12 16C2.45 16.55 2.4 17.56 3 18.2L4.8 20C5.4 20.6 6.41 20.55 6.96 19.88L16 8.94C16.2 8.97 16.39 9 16.6 9C17.13 9 17.5 10 17.5 10Z"></path></svg>
+                Sửa máy lạnh
+            </a>
+            <a href="/ve-sinh-may-lanh" data-close="">
+                <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg>
+                Vệ sinh máy lạnh
+            </a>
+            <a href="/sua-tivi" data-close="">
+                <svg viewBox="0 0 24 24"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99z"></path></svg>
+                Sửa tivi
+            </a>
+            <a href="/sua-tu-lanh" data-close="">
+                <svg viewBox="0 0 24 24"><path d="M19.5 3.5L18 2l-1.5 1.5L15 2l-1.5 1.5L12 2l-1.5 1.5L9 2 7.5 3.5 6 2 4.5 3.5 3 2v20l1.5-1.5L6 22l1.5-1.5L9 22l1.5-1.5L12 22l1.5-1.5L15 22l1.5-1.5L18 22l1.5-1.5L21 22V2l-1.5 1.5zM19 19.09H5V4.91h14v14.18z"></path></svg>
+                Sửa tủ lạnh
+            </a>
+            <a href="/sua-may-giat" data-close="">
+                <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"></path></svg>
+                Sửa máy giặt
+            </a>
+            <a href="/sua-lo-vi-song" data-close="">
+                <svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"></path></svg>
+                Sửa lò vi sóng
+            </a>
+            <a href="/sua-may-nuoc-nong" data-close="">
+                <svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"></path></svg>
+                Sửa máy nước nóng
+            </a>
+            <a href="/sua-may-rua-bat" data-close="">
+                <svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"></path></svg>
+                Sửa máy rửa bát
+            </a>
+        </nav>
+
+    </div>
+</div>
+    <!-- BANNER -->
+    <div class="banner">
+        <img src="https://mayxanhsaigon.com/storages/settings/600/dich-vu-dien-lanh.png" alt="dịch vụ máy lạnh">
+    </div>
+
+    <!-- CONTENT -->
+    <div class="content_dmx">
+        <div class="container">
+
+            <h1>Trung tâm bảo hành &amp; sửa chữa điện máy tại nhà</h1>
+
+            <p>Chúng tôi chuyên cung cấp <strong>dịch vụ sửa chữa &amp; bảo hành điện máy – điện lạnh tại nhà</strong>, nhận xử lý nhanh chóng tất cả các sự cố của <strong>máy lạnh, máy giặt, tủ lạnh, tivi, máy nước nóng, bếp từ, lò vi sóng...</strong> cho hộ gia đình, căn hộ, văn phòng, công ty, nhà xưởng.</p>
+
+            <p>Với đội ngũ kỹ thuật viên nhiều năm kinh nghiệm, được đào tạo bài bản, chúng tôi cam kết <strong>kiểm tra đúng lỗi – báo giá minh bạch – sửa chữa triệt để</strong>. Hỗ trợ tận nơi nhanh chóng tại <strong>TP.HCM, Bình Dương, Đồng Nai</strong>, có mặt chỉ sau 30 phút kể từ khi tiếp nhận yêu cầu.</p>
+
+            <p>Chúng tôi đã xử lý hàng nghìn sự cố từ đơn giản đến phức tạp, từ các dòng máy dân dụng đến hệ thống điện lạnh công nghiệp, đảm bảo mang lại hiệu quả sử dụng lâu dài và ổn định cho khách hàng.</p>
+
+            <p><strong>Hotline hỗ trợ 24/7:</strong> <a href="tel:0779801298">0779801298</a></p>
+
+            <h2>Vệ sinh máy lạnh – bảo dưỡng điều hòa</h2>
+            <p>Máy lạnh sau một thời gian sử dụng sẽ bị bám bụi, vi khuẩn và nấm mốc, gây <strong>giảm hiệu suất làm lạnh, hao điện và ảnh hưởng đến sức khỏe</strong>. Nếu không vệ sinh định kỳ, máy dễ bị nghẹt gió, chảy nước, thậm chí hư hỏng nặng.</p>
+            <p>Dịch vụ vệ sinh máy lạnh giúp thiết bị hoạt động ổn định, làm lạnh nhanh hơn, tiết kiệm điện và tăng tuổi thọ.</p>
+            <ul>
+                <li>Vệ sinh máy lạnh treo tường, âm trần, tủ đứng, áp trần, VRV/VRF</li>
+                <li>Làm sạch dàn lạnh, dàn nóng, quạt lồng sóc, máng nước, lưới lọc</li>
+                <li>Xịt rửa bằng máy áp lực cao, không làm ảnh hưởng linh kiện</li>
+                <li>Kiểm tra gas, đo áp suất, phát hiện rò rỉ</li>
+                <li>Khử mùi, diệt khuẩn, loại bỏ nấm mốc gây hại</li>
+                <li>Nhận vệ sinh số lượng lớn cho nhà xưởng, văn phòng, showroom</li>
+            </ul>
+
+            <img src="https://mayxanhsaigon.com/storages/images/600/dmx-1777279131.webp">
+            <span class="img-caption">Kỹ thuật viện Điện máy Sài Gòn đang vệ sinh máy lạnh </span>
+
+            <h2>Sửa máy lạnh tại nhà</h2>
+            <p>Chuyên sửa chữa máy lạnh tận nơi, xử lý triệt để tất cả các lỗi từ đơn giản đến phức tạp, giúp máy hoạt động ổn định và tiết kiệm điện.</p>
+            <ul>
+                <li>Máy lạnh không lạnh, kém lạnh, lạnh yếu hoặc không đều</li>
+                <li>Máy bị chảy nước, đóng tuyết, nghẹt ống thoát nước</li>
+                <li>Lỗi chớp đèn, lỗi board mạch, không nhận tín hiệu remote</li>
+                <li>Cục nóng không chạy, quạt không quay, kêu to bất thường</li>
+                <li>Xì gas, thiếu gas, cần bơm gas hoặc nạp gas định kỳ</li>
+                <li>Máy lạnh chạy hao điện, hoạt động không ổn định</li>
+            </ul>
+            <p>Nhận sửa máy lạnh cho <strong>nhà dân, căn hộ, văn phòng, quán cafe, nhà hàng, khách sạn, nhà xưởng</strong> với tất cả các dòng máy và công suất khác nhau.</p>
+
+            <img src="https://mayxanhsaigon.com/storages/images/600/dmx-1777279141.webp">
+            <span class="img-caption">Kỹ thuật viện Điện máy Sài Gòn đang sửa máy lạnh tại nhà</span>
+
+            <h2>Bơm gas máy lạnh – nạp gas điều hòa</h2>
+            <p>Máy lạnh thiếu gas là nguyên nhân chính gây <strong>làm lạnh yếu, lâu lạnh, tiêu hao điện năng</strong>. Chúng tôi cung cấp dịch vụ bơm gas – nạp gas đúng chuẩn kỹ thuật.</p>
+            <ul>
+                <li>Kiểm tra áp suất gas, xác định tình trạng thiếu gas</li>
+                <li>Phát hiện và xử lý rò rỉ trước khi nạp gas</li>
+                <li>Nạp gas R22, R32, R410A đúng tiêu chuẩn</li>
+                <li>Đảm bảo đủ gas, lạnh sâu, hoạt động ổn định</li>
+            </ul>
+
+            <img src="https://mayxanhsaigon.com/storages/images/600/dmx-1777279151.webp">
+            <span class="img-caption">Kỹ thuật viện Điện máy Sài Gòn đang nạp gas điều hòa</span>
+
+            <h2>Sửa tủ lạnh tại nhà</h2>
+            <p>Dịch vụ sửa tủ lạnh tận nơi giúp khắc phục nhanh các sự cố, tránh làm hỏng thực phẩm và gián đoạn sinh hoạt.</p>
+            <ul>
+                <li>Tủ lạnh không lạnh, kém lạnh, không đông đá</li>
+                <li>Mất nguồn, hư block (máy nén), quạt không chạy</li>
+                <li>Tủ bị chảy nước, đóng tuyết, kêu to bất thường</li>
+                <li>Ron cửa bị hở, không kín hơi, gây hao điện</li>
+                <li>Ngăn mát không lạnh, ngăn đá hoạt động yếu</li>
+            </ul>
+            <p>Hỗ trợ tất cả các dòng: <strong>tủ lạnh inverter, side by side, multi door, tủ đông, tủ mát, tủ mini</strong> của các hãng phổ biến.</p>
+
+            <h2>Sửa máy giặt tại nhà</h2>
+            <p>Máy giặt gặp sự cố sẽ ảnh hưởng trực tiếp đến sinh hoạt. Chúng tôi nhận sửa chữa nhanh, đúng bệnh, tiết kiệm chi phí:</p>
+            <ul>
+                <li>Máy giặt không lên nguồn, không vắt, không cấp nước</li>
+                <li>Lỗi bảng mạch, báo lỗi chương trình giặt</li>
+                <li>Lồng giặt không quay, rung lắc mạnh, giặt không sạch</li>
+                <li>Máy bị chảy nước, kêu to, liệt phím</li>
+                <li>Máy giặt tự ngắt, hoạt động không ổn định</li>
+            </ul>
+            <p>Nhận sửa <strong>máy giặt cửa trên, cửa trước, inverter</strong> của tất cả các hãng.</p>
+
+
+            <h2>Sửa tivi tại nhà</h2>
+            <p>Dịch vụ sửa tivi tại nhà giúp tiết kiệm thời gian, không cần vận chuyển cồng kềnh.</p>
+            <ul>
+                <li>Tivi không lên nguồn, không vào điện</li>
+                <li>Có tiếng không có hình, sọc ngang/dọc màn hình</li>
+                <li>Hình ảnh bị mờ, nhòe, nhấp nháy</li>
+                <li>Không kết nối wifi, lỗi phần mềm</li>
+                <li>Hư màn hình, cần thay thế linh kiện</li>
+            </ul>
+            <p>Sửa tất cả các dòng <strong>Smart TV, LED, OLED, QLED, 4K, 8K</strong> của các hãng phổ biến.</p>
+
+            <img src="https://mayxanhsaigon.com/storages/images/600/sua-tivi-1777295395.webp">
+            <span class="img-caption">Kỹ thuật viện Điện máy Sài Gòn đang sửa tivi tại nhà</span>
+
+            <h2>Sửa máy nước nóng – lò vi sóng – bếp từ</h2>
+            <p>Chúng tôi nhận sửa chữa đa dạng thiết bị điện gia dụng tại nhà, hỗ trợ nhanh chóng:</p>
+            <ul>
+                <li>Máy nước nóng không hoạt động, rò điện, nước không nóng</li>
+                <li>Lò vi sóng không nóng, không quay, lỗi bảng điều khiển</li>
+                <li>Bếp từ, bếp hồng ngoại không nhận nồi, không lên nguồn</li>
+                <li>Thiết bị hoạt động chập chờn, kêu to, mất an toàn</li>
+            </ul>
+
+            <img src="https://mayxanhsaigon.com/storages/images/600/dmx-1777210601.webp">
+            <span class="img-caption">Kỹ thuật viện Điện máy Sài Gòn</span>
+
+            <h2>Khu vực phục vụ</h2>
+            <p>Chúng tôi nhận sửa chữa tận nơi tại:</p>
+
+            <ul>
+                <li><strong>TP.HCM:</strong></li>
+            </ul>
+
+            <div class="area-list">
+                <p>
+                    Quận 1, Quận 2, Quận 3, Quận 4, Quận 5, Quận 6, Quận 7, Quận 8, Quận 9,
+                    Quận 10, Quận 11, Quận 12, Quận Bình Thạnh, Quận Bình Tân, Quận Tân Bình,
+                    Quận Tân Phú, Quận Gò Vấp, Quận Phú Nhuận, TP. Thủ Đức,
+                    Huyện Bình Chánh, Huyện Hóc Môn, Huyện Củ Chi, Huyện Nhà Bè, Huyện Cần Giờ
+                </p>
+            </div>
+
+            <ul>
+                <li><strong>Khu vực lân cận:</strong></li>
+            </ul>
+            <div class="area-list">
+                <p>Bình Dương, Đồng Nai, Long An</p>
+            </div>
+
+            <p>Chỉ cần một cuộc gọi, kỹ thuật viên sẽ có mặt nhanh chóng để hỗ trợ bạn kịp thời.</p>
+
+            <p><strong>Gọi ngay:</strong> <a href="tel:0779801298">0779801298</a> để được tư vấn và đặt lịch sửa chữa ngay hôm nay!</p>
+
+        </div>
+    </div>
+
+
+<!-- PROCESS -->
+<div class="proc-wrap">
+    <div class="container">
+        <div class="sec-head fi">
+            <h2>Quy Trình Làm Việc</h2>
+            <div class="ln"></div>
+        </div>
+        <div class="proc-grid">
+            <div class="pstep fi">
+                <div class="pnum">1</div>
+                <h4>Liên hệ đặt lịch</h4>
+                <p>Gọi hotline hoặc nhắn Zalo. Tư vấn ngay và xác nhận lịch hẹn trong 5 phút.</p>
+            </div>
+            <div class="pstep fi">
+                <div class="pnum">2</div>
+                <h4>Kỹ thuật viên đến nhà</h4>
+                <p>Có mặt đúng giờ, trong vòng 60 phút sau khi đặt lịch (nội thành).</p>
+            </div>
+            <div class="pstep fi">
+                <div class="pnum">3</div>
+                <h4>Kiểm tra &amp; báo giá</h4>
+                <p>Chẩn đoán miễn phí, báo giá rõ ràng trước khi thi công. Không phát sinh chi phí ẩn.</p>
+            </div>
+            <div class="pstep fi">
+                <div class="pnum">4</div>
+                <h4>Thi công &amp; bảo hành</h4>
+                <p>Hoàn thành đúng tiến độ, nghiệm thu cùng khách hàng và bàn giao bảo hành đầy đủ.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- WHY US -->
+<div class="sec alt">
+    <div class="container">
+        <div class="sec-head fi"><h2>Tại Sao Chọn Chúng Tôi?</h2><div class="ln"></div></div>
+        <div class="why-grid">
+            <div class="wcard fi"><div class="wicon"><svg viewBox="0 0 24 24"><path d="M12 12c2.7 0 5-2.3 5-5s-2.3-5-5-5-5 2.3-5 5 2.3 5 5 5zm0 2c-3.3 0-10 1.7-10 5v2h20v-2c0-3.3-6.7-5-10-5z"></path></svg></div><h4>Thợ Lành Nghề Được Chứng Nhận</h4><p>Kỹ thuật viên đào tạo bài bản, có chứng chỉ nghề và kinh nghiệm 5–15 năm trong ngành.</p></div>
+            <div class="wcard fi"><div class="wicon"><svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"></path></svg></div><h4>Phụ Kiện Chính Hãng</h4><p>Chỉ sử dụng phụ kiện chính hãng từ nhà phân phối uy tín. Có hóa đơn xuất xứ rõ ràng.</p></div>
+            <div class="wcard fi"><div class="wicon"><svg viewBox="0 0 24 24"><path d="M19.5 3.5L18 2l-1.5 1.5L15 2l-1.5 1.5L12 2l-1.5 1.5L9 2 7.5 3.5 6 2 4.5 3.5 3 2v20l1.5-1.5L6 22l1.5-1.5L9 22l1.5-1.5L12 22l1.5-1.5L15 22l1.5-1.5L18 22l1.5-1.5L21 22V2l-1.5 1.5zM19 19.09H5V4.91h14v14.18zM6 15h12v2H6zm0-4h12v2H6zm0-4h12v2H6z"></path></svg></div><h4>Báo Giá Minh Bạch</h4><p>Bảng giá niêm yết công khai. Báo giá trước khi làm. Tuyệt đối không phát sinh chi phí ngoài.</p></div>
+            <div class="wcard fi"><div class="wicon"><svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-9 12l-3-3 1.4-1.4 1.6 1.6 4.6-4.6L17 8l-6 6z"></path></svg></div><h4>Bảo Hành Dài Hạn</h4><p>Bảo hành linh kiện 6–12 tháng, công tác 3 tháng. Hỗ trợ bảo hành tận nhà trong 24 giờ.</p></div>
+        </div>
+    </div>
+</div>
+
+<!-- TESTIMONIALS -->
+<div class="sec">
+    <div class="container">
+        <div class="sec-head fi"><h2>Khách Hàng Nói Gì?</h2><div class="ln"></div></div>
+        <div class="tgrid">
+            <div class="tcard fi">
+                <div class="tstars"><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg></div>
+                <p class="ttext">"Thợ đến đúng giờ, làm nhanh và sạch sẽ. Máy lạnh nhà tôi mát hẳn sau khi vệ sinh. Rất hài lòng với dịch vụ!"</p>
+                <div class="tauthor"><div class="tavatar"><svg viewBox="0 0 24 24"><path d="M12 12c2.7 0 5-2.3 5-5s-2.3-5-5-5-5 2.3-5 5 2.3 5 5 5zm0 2c-3.3 0-10 1.7-10 5v2h20v-2c0-3.3-6.7-5-10-5z"></path></svg></div><div><div class="tname">Chị Thanh Hà</div><div class="tarea">Quận Bình Thạnh, TP.HCM</div></div></div>
+            </div>
+            <div class="tcard fi">
+                <div class="tstars"><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg></div>
+                <p class="ttext">"Gọi tối hôm trước, sáng hôm sau đã có thợ tới. Máy bị hở gas được sửa xong trong buổi sáng. Giá hợp lý, thợ nhiệt tình."</p>
+                <div class="tauthor"><div class="tavatar"><svg viewBox="0 0 24 24"><path d="M12 12c2.7 0 5-2.3 5-5s-2.3-5-5-5-5 2.3-5 5 2.3 5 5 5zm0 2c-3.3 0-10 1.7-10 5v2h20v-2c0-3.3-6.7-5-10-5z"></path></svg></div><div><div class="tname">Anh Minh Tuấn</div><div class="tarea">Quận 7, TP.HCM</div></div></div>
+            </div>
+            <div class="tcard fi">
+                <div class="tstars"><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg><svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg></div>
+                <p class="ttext">"Di dời máy lạnh từ nhà cũ sang nhà mới. Thợ làm cẩn thận, không trầy xước tường. Máy chạy ổn định sau khi lắp. Rất chuyên nghiệp!"</p>
+                <div class="tauthor"><div class="tavatar"><svg viewBox="0 0 24 24"><path d="M12 12c2.7 0 5-2.3 5-5s-2.3-5-5-5-5 2.3-5 5 2.3 5 5 5zm0 2c-3.3 0-10 1.7-10 5v2h20v-2c0-3.3-6.7-5-10-5z"></path></svg></div><div><div class="tname">Chị Ngọc Lan</div><div class="tarea">Thủ Đức, TP.HCM</div></div></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- CTA -->
+<div class="cta" id="contact">
+    <div class="container">
+        <h2>Cần Hỗ Trợ <em>Ngay Bây Giờ?</em></h2>
+        <p>Kỹ thuật viên sẵn sàng 7 ngày/tuần &nbsp;·&nbsp; Có mặt trong 60 phút &nbsp;·&nbsp; Tư vấn miễn phí</p>
+        <a href="tel:0779801298" class="cta-ph">
+            <svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"></path></svg>
+            0779801298
+        </a>
+        <div class="cta-btns">
+            <a href="https://zalo.me/0779801298" class="btn-y"><svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"></path></svg>Gọi Ngay Miễn Phí</a>
+            <a href="https://zalo.me/0779801298" class="btn-ghost"><svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z"></path></svg>Nhắn Zalo</a>
+        </div>
+    </div>
+</div>
+
+<!-- FOOTER -->
+<footer>
+    <div class="container">
+        <div class="ft-grid">
+            <div class="ft-brand">
+                <a href="/" class="logo"><img src="https://mayxanhsaigon.com/storages/settings/600/dien-may-sai-gon.png" alt="Logo"></a>
+                <p>Đơn vị cung cấp dịch vụ vệ sinh, sửa chữa và bảo dưỡng máy lạnh hàng đầu. Hơn 15 năm kinh nghiệm và 15.000+ khách hàng tin tưởng.</p>
+                <div class="ft-soc">
+                    <a href="#" class="soc-btn"><svg viewBox="0 0 24 24"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path></svg></a>
+                    <a href="#" class="soc-btn"><svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="5"></rect><path fill="none" stroke="rgba(255,255,255,.7)" stroke-width="2" d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5" stroke="rgba(255,255,255,.7)" stroke-width="2" stroke-linecap="round"></line></svg></a>
+                    <a href="#" class="soc-btn"><svg viewBox="0 0 24 24"><path d="M22.54 6.42a2.78 2.78 0 00-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46A2.78 2.78 0 001.46 6.42 29 29 0 001 12a29 29 0 00.46 5.58 2.78 2.78 0 001.95 1.96C5.12 20 12 20 12 20s6.88 0 8.59-.46a2.78 2.78 0 001.95-1.96A29 29 0 0023 12a29 29 0 00-.46-5.58z"></path><polygon fill="#08172c" points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02"></polygon></svg></a>
+                    <a href="#" class="soc-btn"><svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"></path></svg></a>
+                </div>
+            </div>
+            <div class="ft-col">
+                <h4>Dịch Vụ</h4>
+                <ul>
+                    <li><a href="/sua-may-lanh">Sửa máy lạnh</a></li>
+                    <li><a href="/ve-sinh-may-lanh">Vệ sinh máy lạnh</a></li>
+                    <li><a href="/sua-tivi">Sửa tivi</a></li>
+                    <li><a href="/sua-tu-lanh">Sửa tủ lạnh</a></li>
+                    <li><a href="/sua-may-giat">Sửa máy giặt</a></li>
+                    <li><a href="/sua-lo-vi-song">Sửa lò vi sóng</a></li>
+                    <li><a href="/sua-may-nuoc-nong">Sửa máy nước nóng</a></li>
+                    <li><a href="/sua-may-rua-bat">Sửa máy rửa bát</a></li>
+
+                </ul>
+            </div>
+
+            <div class="ft-col">
+                <h4>Liên Hệ</h4>
+                <div class="fci"><svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"></path></svg><div>Hotline: <strong style="color:#fff;">0779801298</strong><br><small>(Miễn phí, 7:00–21:00)</small></div></div>
+                <div class="fci"><svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"></path></svg><div>Zalo: 0779801298</div></div>
+                <div class="fci"><svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"></path></svg><div>cskh@mayxanhsaigon.com</div></div>
+                <div class="fci"><svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"></path></svg><div>123 Nguyễn Thị Minh Khai, Q.1, TP.HCM</div></div>
+            </div>
+            <div class="ft-col">
+                <h4>Chi Nhánh</h4>
+                <ul>
+                    <li>152 Nguyễn Thái Bình, Quận 1, TP.HCM</li>
+                    <li>89 Trần Não, Quận 2, TP.HCM</li>
+                    <li>214 Võ Thị Sáu, Quận 3, TP.HCM</li>
+                    <li>365 Hoàng Diệu, Quận 4, TP.HCM</li>
+                    <li>128 Nguyễn Trãi, Quận 5, TP.HCM</li>
+                    <li>502 Hậu Giang, Quận 6, TP.HCM</li>
+                </ul>
+            </div>
+        </div>
+        <div class="ft-bottom">
+            <div class="copy">© 2026 Điện lạnh Sài Gòn. Bảo lưu mọi quyền.</div>
+        </div>
+    </div>
+</footer>
+
+<!-- ════ FLOATING CALL BUTTON ════ -->
+<a href="tel:0779801298" class="fab-call" id="fabCall">
+    <svg class="fab-icon" viewBox="0 0 24 24">
+        <path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"></path>
+    </svg>
+    <span>0779801298</span>
+</a><script>
+    /* ── Scroll fade-in ── */
+    const obs = new IntersectionObserver(entries => {
+        entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('on'); });
+    }, { threshold: 0.08 });
+    document.querySelectorAll('.fi').forEach(el => obs.observe(el));
+
+    /* ── Smooth scroll ── */
+    document.querySelectorAll('a[href^="#"]').forEach(a => {
+        a.addEventListener('click', e => {
+            const t = document.querySelector(a.getAttribute('href'));
+            if (t) { e.preventDefault(); t.scrollIntoView({ behavior: 'smooth' }); }
+        });
+    });
+
+    /* ── Hamburger & Mobile Drawer ── */
+    const hamburger  = document.getElementById('hamburger');
+    const mobileMenu = document.getElementById('mobileMenu');
+    const mmClose    = document.getElementById('mmClose');
+    const mmOverlay  = document.getElementById('mmOverlay');
+
+    function openMenu() {
+        mobileMenu.classList.add('open');
+        hamburger.classList.add('open');
+        document.body.style.overflow = 'hidden';
+    }
+
+    function closeMenu() {
+        mobileMenu.classList.remove('open');
+        hamburger.classList.remove('open');
+        document.body.style.overflow = '';
+    }
+
+    hamburger.addEventListener('click', openMenu);
+    mmClose.addEventListener('click', closeMenu);
+    mmOverlay.addEventListener('click', closeMenu);
+
+    /* Đóng drawer khi click link bên trong */
+    document.querySelectorAll('.mm-nav a[data-close]').forEach(a => {
+        a.addEventListener('click', closeMenu);
+    });
+
+    /* Đóng bằng phím Escape */
+    document.addEventListener('keydown', e => {
+        if (e.key === 'Escape') closeMenu();
+    });
+</script>
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;fb82244863ba43f7b223f6e3ee100f67&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+</body></html>

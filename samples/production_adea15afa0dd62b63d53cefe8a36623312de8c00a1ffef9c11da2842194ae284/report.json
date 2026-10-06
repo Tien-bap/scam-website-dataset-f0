@@ -1,0 +1,27 @@
+{
+  "original_url": "https://yamnaya.es/toggle/office/index.php?rdr=[[-Email-]]&io=[[-Domain-]]",
+  "hostname": "yamnaya.es",
+  "checked_at": "2026-10-04T15:54:02.601994+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a00fb7-dbe6-740b-a0ab-7e53abb2b435",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-17T12:35:17.873Z",
+  "scan_original_url": "https://yamnaya.es/",
+  "final_url": "https://yamnaya.es/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 11943,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.011,
+  "discovery": {
+    "batch_id": "a9a074be8630b010ecfd18938564743601423997b7ffeb5b1a05e3bd2b4650cf",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://toanhoc247.edu.vn/backend/web/assets/99d5dbd2/canadiane-compte.php",
+  "hostname": "toanhoc247.edu.vn",
+  "checked_at": "2026-10-04T14:08:10.693573+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e268-bb86-731a-b679-3f91b6bc16c6",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-27T10:28:39.312Z",
+  "scan_original_url": "http://www.toanhoc247.edu.vn/",
+  "final_url": "https://toanhoc247.edu.vn/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1120,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.618,
+  "discovery": {
+    "batch_id": "e3f54a1ee9a26e0f99aa87f741903cfc238f324ff0163403401dc1286b2251b7",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

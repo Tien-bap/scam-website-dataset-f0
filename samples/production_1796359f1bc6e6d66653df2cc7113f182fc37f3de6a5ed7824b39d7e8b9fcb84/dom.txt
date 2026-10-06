@@ -1,0 +1,1779 @@
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width,height=device-height, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0,shrink-to-fit=no">
+  <meta name="format-detection" content="telephone=no">
+  <title>VINGROUP</title>
+  <script type="text/javascript" src="js/20.js"></script>
+  <link type="text/css" rel="stylesheet" href="/Public/xin_mobile/css/25.css">
+  <link type="text/css" rel="stylesheet" href="/Public/xin_mobile/css/26.css">
+</head><body class="mui-android  mui-android-5 mui-android-5-0" style="min-height: 1200px;">
+  <div class="hm_banner">
+    <style>
+      html {
+        /*width: 100% !important;*/
+        /*max-width: 750px;*/
+      }
+
+      @keyframes fadein {
+
+        0% {
+          opacity: 0;
+
+        }
+
+        100% {
+
+          opacity: 1;
+
+
+
+        }
+
+      }
+
+      /*.input_btn2{*/
+      /*    		float:left;*/
+      /*    		display: block;*/
+      /*			background-color: #3582b3;*/
+      /*			text-align: center;*/
+      /*			height: .7rem;*/
+      /*			line-height: .7rem;*/
+      /*			font-size: .3rem;*/
+      /*			border-radius: 5px;*/
+      /*			width: 2rem;*/
+      /*			color: #fff;*/
+      /*			border: 1px solid #3582b3;*/
+      /*			margin: .3rem auto;*/
+      /*			margin-left:10px;*/
+      /*			float: left;*/
+      /*    	}*/
+
+      .input_btn2 {
+        display: block;
+        background-color: #3582b3;
+        text-align: center;
+        height: .7rem;
+        line-height: .7rem;
+        font-size: .3rem;
+        border-radius: 5px;
+        width: 2rem;
+        color: #fff;
+        border: 1px solid #3582b3;
+      }
+
+      @-webkit-keyframes fadein {
+
+        0% {
+          opacity: 0;
+
+        }
+
+        100% {
+
+          opacity: 1;
+
+
+
+        }
+
+      }
+
+      @-moz-keyframes fadein {
+
+        0% {
+          opacity: 0;
+
+        }
+
+        100% {
+
+          opacity: 1;
+
+
+
+        }
+
+      }
+
+      @-o-keyframes fadein {
+
+        0% {
+          opacity: 0;
+
+        }
+
+        100% {
+
+          opacity: 1;
+
+
+
+        }
+
+      }
+
+      @-ms-keyframes fadein {
+
+        0% {
+          opacity: 0;
+
+        }
+
+        100% {
+
+          opacity: 1;
+
+
+
+        }
+
+      }
+
+      body {
+
+        animation: fadein 0.1s linear 1;
+
+        -webkit-animation: fadein 0.3s linear 1;
+
+        -moz-animation: fadein 0.3s linear 1;
+
+        -o-animation: fadein 0.3s linear 1;
+
+        -ms-animation: fadein 0.3s linear 1;
+
+      }
+    </style>
+    <style>
+      .transition {
+
+        transition: all 0.8s;
+
+        -moz-transition: all 0.8s;
+        /* Firefox 4 */
+
+        -webkit-transition: all 0.8s;
+        /* Safari 和 Chrome */
+
+        -o-transition: all 0.8s;
+        /* Opera */
+
+      }
+
+      .huodong {
+
+        position: fixed;
+
+        width: 100%;
+
+        height: 100%;
+
+        left: 0;
+
+        top: 0;
+
+        z-index: 9999;
+
+        opacity: 0.8;
+
+
+
+
+
+      }
+
+      .huodong .mask {
+
+        background: rgba(0, 0, 0, 0.7);
+
+        width: 100%;
+
+        height: 100%;
+
+        opacity: 0;
+
+      }
+
+      .huodong .content {
+
+        width: 100%;
+
+        left: 0;
+
+        margin: 0 auto;
+
+        position: absolute;
+
+        height: 100%;
+
+        top: -100%;
+
+      }
+
+
+
+
+
+      .huodong.active {
+
+        opacity: 1;
+
+      }
+
+      .huodong.active .mask {
+
+        opacity: 1;
+
+      }
+
+      .huodong.active .content {
+
+        top: 2rem;
+
+
+
+
+
+      }
+
+
+
+
+
+      .huodong .content img {
+
+        width: 100%;
+
+      }
+
+      .huodong .close {
+
+        width: 10%;
+
+        float: right;
+
+        position: absolute;
+
+        /*top: 0;*/
+
+        right: 45%;
+
+      }
+
+      .huodong .btn {
+
+        position: absolute;
+
+        width: 100%;
+
+        height: 1.1rem;
+
+        bottom: 0;
+
+      }
+
+      #xiazai {
+
+        position: fixed;
+
+        top: 0px;
+
+        left: 0px;
+
+        right: 0px;
+
+        bottom: 0px;
+        width: 100%;
+        height: 15%;
+        background-color: #ccc;
+        z-index: 99;
+
+      }
+
+      /*轮播图*/
+      /*重置*/
+      .hm_banner_1 {
+        height: auto;
+      }
+
+      .public_slider {
+        position: static;
+        left: 0;
+        right: 0;
+        top: 0;
+        margin-top: 0.2rem;
+      }
+
+      /*导航栏*/
+      .hm_nav {
+        margin-top: 0.3rem;
+      }
+    </style>
+
+        <!--轮播图-->
+    <!-- <div class="hm_banner"> -->
+    <!--  <div class="swiper-container public_slider"> -->
+    <!--   <div class="swiper-wrapper"> -->
+
+    <!---->
+
+
+    <!--<div class="swiper-slide"> -->
+
+    <!--		   -->
+
+    <!--			<a style='display:block;width: 80%;text-overflow:ellipsis;white-space: nowrap;overflow: hidden;' href="/about/details/id/41.html" > 	GOODNE WSNOTIFICATION</a> -->
+    <!--			-->
+
+    <!--    </div>-->
+    <!---->
+
+
+    <!--   </div> -->
+    <!--   <div class="swiper-pagination" style="display: none;"></div> -->
+    <!--  </div> -->
+
+
+
+
+    <!--  <div class="swiper-container" id="banner"> -->
+    <!--   <div class="swiper-wrapper"> -->
+    <!--    -->
+    <!--     <div class="swiper-slide"> -->
+    <!--      <img src="/Public/uploads/slide/20231024102529.JPG" alt="" /> -->
+    <!--     </div> -->
+    <!---->
+    <!--     <div class="swiper-slide"> -->
+    <!--      <img src="/Public/uploads/slide/20231024145652.JPG" alt="" /> -->
+    <!--     </div> -->
+    <!---->
+    <!--     <div class="swiper-slide"> -->
+    <!--      <img src="/Public/uploads/slide/20231024102616.JPG" alt="" /> -->
+    <!--     </div> -->
+    <!---->
+    <!--     <div class="swiper-slide"> -->
+    <!--      <img src="/Public/uploads/slide/20231024102800.JPG" alt="" /> -->
+    <!--     </div> -->
+    <!---->
+    <!--     <div class="swiper-slide"> -->
+    <!--      <img src="/Public/uploads/slide/20231024102520.JPG" alt="" /> -->
+    <!--     </div> -->
+    <!-- -->
+    <!--div class="mod_01"><a href=""><img src="/Public/uploads/slide/20231024102520.jpg" ></a></div-->
+    <!--   </div> -->
+    <!--  </div> -->
+    <!-- </div>-->
+
+    <!--轮播图-->
+    <div class="banner_bg">
+      <div class="bg_warp"></div>
+      <div class="hm_banner_1">
+        <div class="swiper-container swiper-container-horizontal" id="banner">
+          <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+            <div class="swiper-slide swiper-slide-active" style="width: 710px;">
+                <img src="/Public/uploads/slide/20231024102529.jpg" alt="">
+              </div><div class="swiper-slide swiper-slide-next" style="width: 710px;">
+                <img src="/Public/uploads/slide/20231024145652.jpg" alt="">
+              </div><div class="swiper-slide" style="width: 710px;">
+                <img src="/Public/uploads/slide/20231024102616.jpg" alt="">
+              </div><div class="swiper-slide" style="width: 710px;">
+                <img src="/Public/uploads/slide/20231024102800.jpg" alt="">
+              </div><div class="swiper-slide" style="width: 710px;">
+                <img src="/Public/uploads/slide/20231024102520.jpg" alt="">
+              </div>            <!--div class="mod_01"><a href=""><img src="/Public/uploads/slide/20231024102520.jpg" ></a></div-->
+          </div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        <!--轮播文字-->
+        <!-- <div class="swiper-container public_slider">
+        <div class="swiper-wrapper">
+
+          <div class="swiper-slide">
+
+              <a style='display:block;width: 80%;text-overflow:ellipsis;white-space: nowrap;overflow: hidden;'
+                  href="/about/details/id/41.html"> GOODNE WSNOTIFICATION</a>
+                
+            </div>
+
+        </div>
+        <div class="swiper-pagination" style="display: none;"></div>
+      </div> -->
+      </div>
+    </div>
+
+    <!-- <div class="hm_nav"> -->
+    <!--  -->
+
+    <!---->
+
+    <!--<a href="https://chatlink.mstatik.com/widget/standalone.html?eid=f83da9d08efccb93f2707f4ce76c9c38&amp;language=vi"> -->
+    <!---->
+    <!--       <img src="/Public/uploads/item/20230209110952.PNG" alt="" /> <span>Tôi muốn nạp tiền</span> </a> -->
+    <!---->
+
+    <!---->
+
+    <!--<a href="https://chatlink.mstatik.com/widget/standalone.html?eid=f83da9d08efccb93f2707f4ce76c9c38&amp;language=vi"> -->
+    <!---->
+    <!--       <img src="/Public/uploads/item/20230209111051.PNG" alt="" /> <span>Dịch vụ khách hàng trực tuyến</span> </a> -->
+    <!---->
+
+    <!---->
+
+    <!--<a href="/about/details/id/51.html"> -->
+    <!---->
+    <!--       <img src="/Public/uploads/item/20230209110905.PNG" alt="" /> <span>Giới thiệu về chúng tôi</span> </a> -->
+    <!---->
+
+    <!---->
+
+    <!--<a href="/Mobile/lists.html"> -->
+    <!---->
+    <!--       <img src="/Public/uploads/item/20230209110854.PNG" alt="" /> <span>Hạng mục</span> </a> -->
+    <!---->
+
+    <!---->
+
+    <!--<a href="/mobile/reg.html"> -->
+    <!---->
+    <!--       <img src="/Public/uploads/item/20230209111026.PNG" alt="" /> <span>Đăng ký miễn phí</span> </a> -->
+    <!---->
+
+    <!---->
+
+    <!--<a href="/user/cash.html"> -->
+    <!---->
+    <!--       <img src="/Public/uploads/item/20230209111004.PNG" alt="" /> <span>Tôi muốn rút tiền</span> </a> -->
+    <!---->
+
+    <!---->
+
+    <!--<a href="/user/person.html"> -->
+    <!---->
+    <!--       <img src="/Public/uploads/item/20230209110938.PNG" alt="" /> <span>Đăng ký hàng ngày</span> </a> -->
+    <!---->
+
+    <!---->
+
+    <!--<a href="/user/person.html"> -->
+    <!---->
+    <!--       <img src="/Public/uploads/item/20230209110925.PNG" alt="" /> <span>Số dư tài khoản</span> </a> -->
+    <!---->
+
+    <!--  <div class="clear"></div> -->
+    <!--  </div> -->
+
+    <!--导航栏-->
+    <!--<div class="hm_nav">-->
+    <!--  -->
+
+    <!--    -->
+
+    <!--      <a href="/mobile/jump/id/52.html">-->
+    <!--        -->
+    <!--    <img src="/Public/uploads/item/20230209110854.png" alt="" /> <span>Hạng mục</span> </a>-->
+    <!---->
+
+    <!--    -->
+
+    <!--      <a href="/mobile/jump/id/51.html">-->
+    <!--        -->
+    <!--    <img src="/Public/uploads/item/20230209110905.png" alt="" /> <span>Giới thiệu về chúng tôi</span> </a>-->
+    <!---->
+
+    <!--    -->
+
+    <!--      <a href="/mobile/jump/id/50.html">-->
+    <!--        -->
+    <!--    <img src="/Public/uploads/item/20230209110925.png" alt="" /> <span>Số dư tài khoản</span> </a>-->
+    <!---->
+
+    <!--    -->
+
+    <!--      <a href="/mobile/jump/id/49.html">-->
+    <!--        -->
+    <!--    <img src="/Public/uploads/item/20230209110938.png" alt="" /> <span>Đăng ký hàng ngày</span> </a>-->
+    <!---->
+
+    <!--    -->
+
+    <!--      <a href="/mobile/jump/id/48.html">-->
+    <!--        -->
+    <!--    <img src="/Public/uploads/item/20230209110952.png" alt="" /> <span>Tôi muốn nạp tiền</span> </a>-->
+    <!---->
+
+    <!--    -->
+
+    <!--      <a href="/mobile/jump/id/47.html">-->
+    <!--        -->
+    <!--    <img src="/Public/uploads/item/20230209111004.png" alt="" /> <span>Tôi muốn rút tiền</span> </a>-->
+    <!---->
+
+    <!--    -->
+
+    <!--      <a href="/mobile/jump/id/46.html">-->
+    <!--        -->
+    <!--    <img src="/Public/uploads/item/20230209111026.png" alt="" /> <span>Đăng ký miễn phí</span> </a>-->
+    <!---->
+
+    <!--    -->
+
+    <!--      <a href="/mobile/jump/id/29.html">-->
+    <!--        -->
+    <!--    <img src="/Public/uploads/item/20230209111051.png" alt="" /> <span>Dịch vụ khách hàng trực tuyến</span> </a>-->
+    <!---->
+
+    <!--  <div class="clear"></div>-->
+    <!--</div>-->
+    <div class="banner_bg">
+        <img src="/Public/uploads/sb.jpg">
+    </div>
+    <div class="mt16 vip-open-notice" style="background: #e22825; color: rgb(255, 255, 255);">
+      <div class="flex alcenter space">
+        <div class="flex alcenter">
+          <div class="uni-image">
+            <div style="background-image: url(&quot;data:image/png;base64,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&quot;); background-position: 0% 0%; background-size: 100% 100%; background-repeat: no-repeat;">
+            </div>
+            <!---->
+          </div>
+          <span class="ft14 cl-w ml10 chuwai"><span>
+              <marquee scrollamount="3">chào mừng quý khách đến với quỹ dự án của tập đoàn Quỹ VinGroup</marquee>
+            </span></span>
+        </div>
+        <span class="iconfont icon-more ft18 cl-w"><span></span></span>
+      </div>
+    </div>
+
+    <style>
+      .hm_nav {
+
+        margin-bottom: 0;
+
+      }
+
+      .hm_recharge {
+
+        border-top: 8px solid #eee;
+
+        background: #fff;
+
+        margin-bottom: 0.24rem;
+
+        font-size: 14px;
+
+      }
+
+      .hm_recharge marquee {
+
+        width: 100%;
+
+        margin-top: 2px;
+
+      }
+
+      /*列表*/
+      .head {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .head .hm111_nav {
+        position: static;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+      }
+
+      .head .hm111_nav img {
+        position: static;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+      }
+
+      .wrapper {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      /*下载浮窗*/
+    </style>
+    <!--   <div class="hm_recharge">
+
+  <!--  <marquee behavior="behavior"  width="200">-->
+
+    <!--    恭喜 wr***19 在2019年04月18日21:35成功充值300.00元！ &nbsp;恭喜 AAA****46 在2019年04月18日21:16成功充值1400.00元！ &nbsp;恭喜 AAA****46 在2019年04月18日21:09成功充值3000.00元！ &nbsp;恭喜 XD***Z9 在2019年04月18日20:56成功充值7400.00元！ &nbsp;恭喜 lia*****ng 在2019年04月18日20:45成功充值3000.00元！ &nbsp;恭喜 F**3 在2019年04月18日20:43成功充值35700.00元！ &nbsp;恭喜 ta****66 在2019年04月18日20:17成功充值200.00元！ &nbsp;恭喜 XY***9 在2019年04月18日20:15成功充值500.00元！ &nbsp;恭喜 XY***9 在2019年04月18日20:10成功充值500.00元！ &nbsp;恭喜 lia*****ng 在2019年04月18日20:09成功充值3000.00元！ &nbsp;恭喜 XY***9 在2019年04月18日20:08成功充值3000.00元！ &nbsp;恭喜 XY***9 在2019年04月18日20:08成功充值3000.00元！ &nbsp;恭喜 XY***9 在2019年04月18日20:07成功充值3000.00元！ &nbsp;恭喜 LXS****52 在2019年04月18日20:00成功充值1000.00元！ &nbsp;恭喜 zs***Ni 在2019年04月18日19:35成功充值2400.00元！ &nbsp;恭喜 zy***8 在2019年04月18日19:18成功充值1800.00元！ &nbsp;恭喜 jyq****43 在2019年04月18日19:16成功充值1000.00元！ &nbsp;恭喜 FF***4 在2019年04月18日19:12成功充值3000.00元！ &nbsp;恭喜 FF***4 在2019年04月18日19:09成功充值1800.00元！ &nbsp;恭喜 lf***3 在2019年04月18日19:09成功充值1000.00元！ &nbsp;恭喜 FF***4 在2019年04月18日19:07成功充值3000.00元！ &nbsp;恭喜 laj****01 在2019年04月18日19:01成功充值10000.00元！ &nbsp;恭喜 RB**T 在2019年04月18日18:52成功充值27000.00元！ &nbsp;恭喜 qq1****67 在2019年04月18日18:35成功充值100000.00元！ &nbsp;恭喜 ab****18 在2019年04月18日18:32成功充值1000.00元！ &nbsp;恭喜 jj****56 在2019年04月18日18:31成功充值1000.00元！ &nbsp;恭喜 kI***sS 在2019年04月18日18:30成功充值4300.00元！ &nbsp;恭喜 jj****56 在2019年04月18日18:19成功充值1000.00元！ &nbsp;恭喜 Hhp****39 在2019年04月18日18:19成功充值2000.00元！ &nbsp;恭喜 Hhp****39 在2019年04月18日18:18成功充值3000.00元！ &nbsp;恭喜 Hhp****39 在2019年04月18日18:16成功充值1700.00元！ &nbsp;恭喜 Hhp****39 在2019年04月18日18:12成功充值3000.00元！ &nbsp;恭喜 aa1****67 在2019年04月18日18:03成功充值1100.00元！ &nbsp;恭喜 xq***13 在2019年04月18日17:59成功充值1500.00元！ &nbsp;恭喜 wan*****ng 在2019年04月18日17:56成功充值1000.00元！ &nbsp;恭喜 xq***13 在2019年04月18日17:56成功充值3000.00元！ &nbsp;恭喜 hV**D 在2019年04月18日17:42成功充值28300.00元！ &nbsp;恭喜 Ad**Q 在2019年04月18日17:29成功充值68000.00元！ &nbsp;恭喜 gz***0 在2019年04月18日17:15成功充值3000.00元！ &nbsp;恭喜 gz***0 在2019年04月18日17:11成功充值3000.00元！ &nbsp;恭喜 Hg***bw 在2019年04月18日17:10成功充值57400.00元！ &nbsp;恭喜 ae***Rz 在2019年04月18日16:50成功充值46100.00元！ &nbsp;恭喜 ye****3W 在2019年04月18日16:21成功充值46700.00元！ &nbsp;恭喜 pl**T 在2019年04月18日16:00成功充值69500.00元！ &nbsp;恭喜 YUJ*****92 在2019年04月18日15:47成功充值500.00元！ &nbsp;恭喜 zc***6 在2019年04月18日15:46成功充值2500.00元！ &nbsp;恭喜 zc***6 在2019年04月18日15:45成功充值3000.00元！ &nbsp;恭喜 kn**p 在2019年04月18日15:43成功充值48500.00元！ &nbsp;恭喜 zha*****78 在2019年04月18日15:23成功充值500.00元！ &nbsp;恭喜 HY****28 在2019年04月18日15:22成功充值1000.00元！ &nbsp;恭喜 HY****28 在2019年04月18日15:19成功充值3000.00元！ &nbsp;恭喜 HY****28 在2019年04月18日15:19成功充值3000.00元！ &nbsp;恭喜 HY****28 在2019年04月18日15:15成功充值3000.00元！ &nbsp;恭喜 D**Z 在2019年04月18日15:02成功充值87300.00元！ &nbsp;恭喜 LXS****52 在2019年04月18日14:31成功充值1000.00元！ &nbsp;恭喜 7u***sf 在2019年04月18日14:05成功充值52100.00元！ &nbsp;恭喜 LXS****52 在2019年04月18日13:51成功充值500.00元！ &nbsp;恭喜 8g***4 在2019年04月18日13:34成功充值69300.00元！ &nbsp;恭喜 clm****00 在2019年04月18日13:21成功充值1200.00元！ &nbsp;恭喜 clm****00 在2019年04月18日13:16成功充值2000.00元！ &nbsp;恭喜 zc***6 在2019年04月18日12:58成功充值100.00元！ &nbsp;恭喜 Jg**L 在2019年04月18日12:52成功充值22200.00元！ &nbsp;恭喜 OR**7 在2019年04月18日12:39成功充值32600.00元！ &nbsp;恭喜 h4***m 在2019年04月18日12:29成功充值18600.00元！ &nbsp;恭喜 jyq****43 在2019年04月18日11:59成功充值100.00元！ &nbsp;恭喜 eD***BO 在2019年04月18日11:53成功充值40600.00元！ &nbsp;恭喜 zsq****88 在2019年04月18日11:42成功充值1000.00元！ &nbsp;恭喜 zsq****88 在2019年04月18日11:42成功充值3000.00元！ &nbsp;恭喜 zsq****88 在2019年04月18日11:41成功充值3000.00元！ &nbsp;恭喜 zsq****88 在2019年04月18日11:40成功充值3000.00元！ &nbsp;恭喜 lia*****ng 在2019年04月18日11:08成功充值3000.00元！ &nbsp;恭喜 lia*****ng 在2019年04月18日11:03成功充值3000.00元！ &nbsp;恭喜 xt****99 在2019年04月18日11:00成功充值1500.00元！ &nbsp;恭喜 XY***9 在2019年04月18日10:58成功充值2000.00元！ &nbsp;恭喜 XY***9 在2019年04月18日10:57成功充值3000.00元！ &nbsp;恭喜 Liq*****89 在2019年04月18日10:57成功充值1940.00元！ &nbsp;恭喜 XY***9 在2019年04月18日10:57成功充值3000.00元！ &nbsp;恭喜 XY***9 在2019年04月18日10:56成功充值3000.00元！ &nbsp;恭喜 XY***9 在2019年04月18日10:56成功充值3000.00元！ &nbsp;恭喜 laj****01 在2019年04月18日10:49成功充值3000.00元！ &nbsp;恭喜 Liq*****89 在2019年04月18日10:40成功充值3000.00元！ &nbsp;恭喜 lqx*****ui 在2019年04月18日10:36成功充值990.00元！ &nbsp;恭喜 Zbx*****hz 在2019年04月18日10:34成功充值620.00元！ &nbsp;恭喜 zx***9 在2019年04月18日10:30成功充值1000.00元！ &nbsp;恭喜 clm****00 在2019年04月18日10:28成功充值800.00元！ &nbsp;恭喜 jj****56 在2019年04月18日10:23成功充值1000.00元！ &nbsp;恭喜 wj***7 在2019年04月18日10:18成功充值2000.00元！ &nbsp;恭喜 yan*****27 在2019年04月18日10:15成功充值400.00元！ &nbsp;恭喜 jh***3 在2019年04月18日10:15成功充值5000.00元！ &nbsp;恭喜 ab****18 在2019年04月18日10:14成功充值1000.00元！ &nbsp;恭喜 zh****89 在2019年04月18日10:13成功充值2000.00元！ &nbsp;恭喜 yan*****27 在2019年04月18日10:13成功充值600.00元！ &nbsp;恭喜 zh****89 在2019年04月18日10:13成功充值3000.00元！ &nbsp;恭喜 yan*****27 在2019年04月18日10:09成功充值510.00元！ &nbsp;恭喜 Hcp****56 在2019年04月18日10:09成功充值3000.00元！ &nbsp;恭喜 zh****89 在2019年04月18日10:06成功充值2000.00元！ &nbsp;恭喜 jyk*****50 在2019年04月18日10:04成功充值100.00元！ &nbsp;恭喜 sun*****9s 在2019年04月18日10:03成功充值900.00元！ &nbsp;恭喜 sun*****9s 在2019年04月18日10:00成功充值3000.00元！ &nbsp;恭喜 W0***23 在2019年04月18日09:59成功充值1000.00元！ &nbsp;  </marquee>-->
+
+    <!--</div> -->
+    <div class="hm_lc">
+      <!---->
+      <!-- <div class="head"> -->
+      <!--  <div class="tit" > -->
+      <!--   <i></i>QUỹ DịCH Vụ CôNG NGHệ -->
+      <!--  </div> -->
+      <!--  <a href="/mobile/project/id/3.html" class="more">Nhiều hơn &gt;</a> -->
+      <!-- </div> -->
+      <!-- <div class="hm111_nav"> -->
+      <!--    <img src="/Public/uploads/item/20220302160217.JPG" alt="">-->
+      <!-- </div> -->
+      <!-- -->
+      <!--  <div class="lc_item"> -->
+      <!--  <div>QUỹ PHáT TRIểN GIáO DụC LIêN CấP </div>-->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>15</font> ngày-->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Thời hạn đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl class="ct"> -->
+      <!--    <dt>-->
+      <!--      1.32 -->
+      <!--     <span>%</span> -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Lợi nhuận-->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>2000000</font>VND -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Số tiền đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <div class="clear"></div> -->
+      <!--    -->
+      <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+      <!--    <a href="/mobile/details/id/2.html" class="btn">Đầu tư ngay lập tức</a> -->
+      <!-- -->
+      <!--   <div class="clear"></div>  -->
+      <!--  </div> -->
+      <!---->
+      <!--  <div class="lc_item"> -->
+      <!--  <div>QUỹ PHáT TRIểN THươNG MẠI DịCH Vụ </div>-->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>15</font> ngày-->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Thời hạn đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl class="ct"> -->
+      <!--    <dt>-->
+      <!--      3.12 -->
+      <!--     <span>%</span> -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Lợi nhuận-->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>30000000</font>VND -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Số tiền đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <div class="clear"></div> -->
+      <!--    -->
+      <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+      <!--    <a href="/mobile/details/id/3.html" class="btn">Đầu tư ngay lập tức</a> -->
+      <!-- -->
+      <!--   <div class="clear"></div>  -->
+      <!--  </div> -->
+      <!---->
+      <!--  <div class="lc_item"> -->
+      <!--  <div>QUỹ  PHáT TRIểN Y Tế CHăM SóC SứC KHỏE </div>-->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>30</font> ngày-->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Thời hạn đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl class="ct"> -->
+      <!--    <dt>-->
+      <!--      4.23 -->
+      <!--     <span>%</span> -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Lợi nhuận-->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>100000000</font>VND -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Số tiền đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <div class="clear"></div> -->
+      <!--    -->
+      <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+      <!--    <a href="/mobile/details/id/4.html" class="btn">Đầu tư ngay lập tức</a> -->
+      <!-- -->
+      <!--   <div class="clear"></div>  -->
+      <!--  </div> -->
+      <!---->
+      <!--  <div class="lc_item"> -->
+      <!--  <div>QUỹ Dự áN PHáT TRIểN CôNG NGHệ CôNG NGHIệP </div>-->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>30</font> ngày-->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Thời hạn đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl class="ct"> -->
+      <!--    <dt>-->
+      <!--      5.56 -->
+      <!--     <span>%</span> -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Lợi nhuận-->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>300000000</font>VND -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Số tiền đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <div class="clear"></div> -->
+      <!--    -->
+      <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+      <!--    <a href="/mobile/details/id/5.html" class="btn">Đầu tư ngay lập tức</a> -->
+      <!-- -->
+      <!--   <div class="clear"></div>  -->
+      <!--  </div> -->
+      <!-- -->
+      <!---->
+      <!-- <div class="head"> -->
+      <!--  <div class="tit" > -->
+      <!--   <i></i>QUỹ PHáT TRIểN CôNG NGHệ Số -->
+      <!--  </div> -->
+      <!--  <a href="/mobile/project/id/11.html" class="more">Nhiều hơn &gt;</a> -->
+      <!-- </div> -->
+      <!-- <div class="hm111_nav"> -->
+      <!--    <img src="/Public/uploads/item/20220302161339.PNG" alt="">-->
+      <!-- </div> -->
+      <!-- -->
+      <!--  <div class="lc_item"> -->
+      <!--  <div>QUỹ PHáT TRIểN TươNG LAI XANH </div>-->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>30</font> ngày-->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Thời hạn đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl class="ct"> -->
+      <!--    <dt>-->
+      <!--      6.43 -->
+      <!--     <span>%</span> -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Lợi nhuận-->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>1000000000</font>VND -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Số tiền đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <div class="clear"></div> -->
+      <!--    -->
+      <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+      <!--    <a href="/mobile/details/id/6.html" class="btn">Đầu tư ngay lập tức</a> -->
+      <!-- -->
+      <!--   <div class="clear"></div>  -->
+      <!--  </div> -->
+      <!---->
+      <!--  <div class="lc_item"> -->
+      <!--  <div>QUỹ PHáT TRIểN đô THị TươNG LAI </div>-->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>60</font> ngày-->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Thời hạn đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl class="ct"> -->
+      <!--    <dt>-->
+      <!--      7.21 -->
+      <!--     <span>%</span> -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Lợi nhuận-->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>2500000000</font>VND -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Số tiền đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <div class="clear"></div> -->
+      <!--    -->
+      <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+      <!--    <a href="/mobile/details/id/7.html" class="btn">Đầu tư ngay lập tức</a> -->
+      <!-- -->
+      <!--   <div class="clear"></div>  -->
+      <!--  </div> -->
+      <!---->
+      <!--  <div class="lc_item"> -->
+      <!--  <div>QUỹ PHáT TRIểN LưU TRữ NăNG LượNG SạCH </div>-->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>90</font> ngày-->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Thời hạn đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl class="ct"> -->
+      <!--    <dt>-->
+      <!--      8.17 -->
+      <!--     <span>%</span> -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Lợi nhuận-->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>5000000000</font>VND -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Số tiền đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <div class="clear"></div> -->
+      <!--    -->
+      <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+      <!--    <a href="/mobile/details/id/8.html" class="btn">Đầu tư ngay lập tức</a> -->
+      <!-- -->
+      <!--   <div class="clear"></div>  -->
+      <!--  </div> -->
+      <!---->
+      <!--  <div class="lc_item"> -->
+      <!--  <div>QUỹ VINWONDERS Dự áN VUI CHơI GIảI TRí HàNG đầU </div>-->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>90</font> ngày-->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Thời hạn đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl class="ct"> -->
+      <!--    <dt>-->
+      <!--      8.86 -->
+      <!--     <span>%</span> -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Lợi nhuận-->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>8000000000</font>VND -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Số tiền đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <div class="clear"></div> -->
+      <!--    -->
+      <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+      <!--    <a href="/mobile/details/id/9.html" class="btn">Đầu tư ngay lập tức</a> -->
+      <!-- -->
+      <!--   <div class="clear"></div>  -->
+      <!--  </div> -->
+      <!---->
+      <!--  <div class="lc_item"> -->
+      <!--  <div>QũY PHáT TRIểN CôNG NGHệ TươNG LAI AI </div>-->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>120</font> ngày-->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Thời hạn đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl class="ct"> -->
+      <!--    <dt>-->
+      <!--      9.58 -->
+      <!--     <span>%</span> -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Lợi nhuận-->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>12000000000</font>VND -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Số tiền đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <div class="clear"></div> -->
+      <!--    -->
+      <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+      <!--    <a href="/mobile/details/id/10.html" class="btn">Đầu tư ngay lập tức</a> -->
+      <!-- -->
+      <!--   <div class="clear"></div>  -->
+      <!--  </div> -->
+      <!---->
+      <!--  <div class="lc_item"> -->
+      <!--  <div>QUỹ PHáT TRIểN CộNG đồNG </div>-->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>120</font> ngày-->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Thời hạn đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl class="ct"> -->
+      <!--    <dt>-->
+      <!--      10.55 -->
+      <!--     <span>%</span> -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Lợi nhuận-->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <dl> -->
+      <!--    <dt> -->
+      <!--     <font>18000000000</font>VND -->
+      <!--    </dt> -->
+      <!--    <dd>-->
+      <!--      Số tiền đầu tư -->
+      <!--    </dd> -->
+      <!--   </dl> -->
+      <!--   <div class="clear"></div> -->
+      <!--    -->
+      <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+      <!--    <a href="/mobile/details/id/11.html" class="btn">Đầu tư ngay lập tức</a> -->
+      <!-- -->
+      <!--   <div class="clear"></div>  -->
+      <!--  </div> -->
+      <!-- -->
+      <!-- -->
+
+      <!-- 列表 -->
+      <div class="head">
+          <div class="tit">
+            <i></i>Quỹ dịch vụ công nghệ          </div>
+          <!-- <div class="hm111_nav">
+            <img src="/Public/uploads/item/20220302160217.JPG" alt="">
+          </div> -->
+          <a href="/mobile/project/id/3.html" class="more">Nhiều hơn &gt;</a>
+        </div>
+        <div class="lc_item" style="width: 97%">
+            <div class="banner">
+              <img src="/Public/uploads/item/20231025094723.jpeg" alt="png" class="banner_img">
+            </div>
+            <!-- <div class="title-wrapper">
+            <div>QUỹ PHáT TRIểN GIáO DụC LIêN CấP </div>
+        </div> -->
+            <div class="title-wrapper-com">
+              <div>Quỹ phát triển giáo dục liên cấp </div>
+            </div>
+            <div class="wrapper">
+
+              <dl class="ct">
+                <dt>
+                  1.32                  <span>%</span>
+                </dt>
+                <dd>
+                  Lợi nhuận                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <font>15</font>
+                  <span class="color1">Phút</span>
+                                    </dt>
+                <dd>
+                  Thời hạn Tham gia
+                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <!-- <span class="color1">₫</span> -->
+                  <font>2,000,000</font><span class="color1">VND</span>
+                </dt>
+                <dd>
+                  Số tiền Tham gia
+                </dd>
+              </dl>
+            </div>
+            <div class="clear"></div>
+            <div class="ib-foot">
+              <div class="text">
+                <p>Quy mô dự án:<font style="color: #e22825">253,000,000,000</font>VND</p>
+                <p></p>
+              </div>
+              <div class="other">
+                                  <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+                  <a href="/mobile/details/id/2.html" class="now-btn">Tham gia</a>              </div>
+            </div>
+            <div class="plan"><span>Tiến độ dự án：</span>
+              <div class="plan-wrap">
+                <div class="plan-con" style="width: 48%;"></div>
+              </div><span class="plan-text">48%</span>
+            </div>
+            <!--               <a href="/mobile/details/id/2.html" class="btn">Đầu tư ngay lập tức</a> -->
+            <div class="clear"></div>
+          </div><div class="lc_item" style="width: 97%">
+            <div class="banner">
+              <img src="/Public/uploads/item/20231024101628.jpg" alt="png" class="banner_img">
+            </div>
+            <!-- <div class="title-wrapper">
+            <div>QUỹ PHáT TRIểN THươNG MẠI DịCH Vụ </div>
+        </div> -->
+            <div class="title-wrapper-com">
+              <div>Quỹ phát triển thương mại dịch vụ </div>
+            </div>
+            <div class="wrapper">
+
+              <dl class="ct">
+                <dt>
+                  3.12                  <span>%</span>
+                </dt>
+                <dd>
+                  Lợi nhuận                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <font>15</font>
+                  <span class="color1">Phút</span>
+                                    </dt>
+                <dd>
+                  Thời hạn Tham gia
+                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <!-- <span class="color1">₫</span> -->
+                  <font>30,000,000</font><span class="color1">VND</span>
+                </dt>
+                <dd>
+                  Số tiền Tham gia
+                </dd>
+              </dl>
+            </div>
+            <div class="clear"></div>
+            <div class="ib-foot">
+              <div class="text">
+                <p>Quy mô dự án:<font style="color: #e22825">3,860,000,000,000</font>VND</p>
+                <p></p>
+              </div>
+              <div class="other">
+                                  <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+                  <a href="/mobile/details/id/3.html" class="now-btn">Tham gia</a>              </div>
+            </div>
+            <div class="plan"><span>Tiến độ dự án：</span>
+              <div class="plan-wrap">
+                <div class="plan-con" style="width: 36%;"></div>
+              </div><span class="plan-text">36%</span>
+            </div>
+            <!--               <a href="/mobile/details/id/3.html" class="btn">Đầu tư ngay lập tức</a> -->
+            <div class="clear"></div>
+          </div><div class="lc_item" style="width: 97%">
+            <div class="banner">
+              <img src="/Public/uploads/item/20231024111707.jpg" alt="png" class="banner_img">
+            </div>
+            <!-- <div class="title-wrapper">
+            <div>QUỹ  PHáT TRIểN Y Tế CHăM SóC SứC KHỏE </div>
+        </div> -->
+            <div class="title-wrapper-com">
+              <div>Quỹ  phát triển y tế chăm sóc sức khỏe </div>
+            </div>
+            <div class="wrapper">
+
+              <dl class="ct">
+                <dt>
+                  4.23                  <span>%</span>
+                </dt>
+                <dd>
+                  Lợi nhuận                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <font>30</font>
+                  <span class="color1">Phút</span>
+                                    </dt>
+                <dd>
+                  Thời hạn Tham gia
+                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <!-- <span class="color1">₫</span> -->
+                  <font>100,000,000</font><span class="color1">VND</span>
+                </dt>
+                <dd>
+                  Số tiền Tham gia
+                </dd>
+              </dl>
+            </div>
+            <div class="clear"></div>
+            <div class="ib-foot">
+              <div class="text">
+                <p>Quy mô dự án:<font style="color: #e22825">5,860,000,000,000</font>VND</p>
+                <p></p>
+              </div>
+              <div class="other">
+                                  <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+                  <a href="/mobile/details/id/4.html" class="now-btn">Tham gia</a>              </div>
+            </div>
+            <div class="plan"><span>Tiến độ dự án：</span>
+              <div class="plan-wrap">
+                <div class="plan-con" style="width: 33%;"></div>
+              </div><span class="plan-text">33%</span>
+            </div>
+            <!--               <a href="/mobile/details/id/4.html" class="btn">Đầu tư ngay lập tức</a> -->
+            <div class="clear"></div>
+          </div><div class="lc_item" style="width: 97%">
+            <div class="banner">
+              <img src="/Public/uploads/item/20231025094744.jpg" alt="png" class="banner_img">
+            </div>
+            <!-- <div class="title-wrapper">
+            <div>QUỹ Dự áN PHáT TRIểN CôNG NGHệ CôNG NGHIệP </div>
+        </div> -->
+            <div class="title-wrapper-com">
+              <div>Quỹ dự án phát triển công nghệ công nghiệp </div>
+            </div>
+            <div class="wrapper">
+
+              <dl class="ct">
+                <dt>
+                  5.56                  <span>%</span>
+                </dt>
+                <dd>
+                  Lợi nhuận                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <font>30</font>
+                  <span class="color1">Phút</span>
+                                    </dt>
+                <dd>
+                  Thời hạn Tham gia
+                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <!-- <span class="color1">₫</span> -->
+                  <font>300,000,000</font><span class="color1">VND</span>
+                </dt>
+                <dd>
+                  Số tiền Tham gia
+                </dd>
+              </dl>
+            </div>
+            <div class="clear"></div>
+            <div class="ib-foot">
+              <div class="text">
+                <p>Quy mô dự án:<font style="color: #e22825">6,656,000,000,000</font>VND</p>
+                <p></p>
+              </div>
+              <div class="other">
+                                  <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+                  <a href="/mobile/details/id/5.html" class="now-btn">Tham gia</a>              </div>
+            </div>
+            <div class="plan"><span>Tiến độ dự án：</span>
+              <div class="plan-wrap">
+                <div class="plan-con" style="width: 28%;"></div>
+              </div><span class="plan-text">28%</span>
+            </div>
+            <!--               <a href="/mobile/details/id/5.html" class="btn">Đầu tư ngay lập tức</a> -->
+            <div class="clear"></div>
+          </div><div class="head">
+          <div class="tit">
+            <i></i>Quỹ phát triển công nghệ số          </div>
+          <!-- <div class="hm111_nav">
+            <img src="/Public/uploads/item/20220302161339.PNG" alt="">
+          </div> -->
+          <a href="/mobile/project/id/11.html" class="more">Nhiều hơn &gt;</a>
+        </div>
+        <div class="lc_item" style="width: 97%">
+            <div class="banner">
+              <img src="/Public/uploads/item/20231024101814.jpg" alt="png" class="banner_img">
+            </div>
+            <!-- <div class="title-wrapper">
+            <div>QUỹ PHáT TRIểN TươNG LAI XANH </div>
+        </div> -->
+            <div class="title-wrapper-com">
+              <div>Quỹ phát triển tương lai xanh </div>
+            </div>
+            <div class="wrapper">
+
+              <dl class="ct">
+                <dt>
+                  6.43                  <span>%</span>
+                </dt>
+                <dd>
+                  Lợi nhuận                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <font>30</font>
+                  <span class="color1">Phút</span>
+                                    </dt>
+                <dd>
+                  Thời hạn Tham gia
+                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <!-- <span class="color1">₫</span> -->
+                  <font>1,000,000,000</font><span class="color1">VND</span>
+                </dt>
+                <dd>
+                  Số tiền Tham gia
+                </dd>
+              </dl>
+            </div>
+            <div class="clear"></div>
+            <div class="ib-foot">
+              <div class="text">
+                <p>Quy mô dự án:<font style="color: #e22825">8,500,000,000,000</font>VND</p>
+                <p></p>
+              </div>
+              <div class="other">
+                                  <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+                  <a href="/mobile/details/id/6.html" class="now-btn">Tham gia</a>              </div>
+            </div>
+            <div class="plan"><span>Tiến độ dự án：</span>
+              <div class="plan-wrap">
+                <div class="plan-con" style="width: 42%;"></div>
+              </div><span class="plan-text">42%</span>
+            </div>
+            <!--               <a href="/mobile/details/id/6.html" class="btn">Đầu tư ngay lập tức</a> -->
+            <div class="clear"></div>
+          </div><div class="lc_item" style="width: 97%">
+            <div class="banner">
+              <img src="/Public/uploads/item/20231024101857.jpg" alt="png" class="banner_img">
+            </div>
+            <!-- <div class="title-wrapper">
+            <div>QUỹ PHáT TRIểN đô THị TươNG LAI </div>
+        </div> -->
+            <div class="title-wrapper-com">
+              <div>Quỹ phát triển đô thị tương lai </div>
+            </div>
+            <div class="wrapper">
+
+              <dl class="ct">
+                <dt>
+                  7.21                  <span>%</span>
+                </dt>
+                <dd>
+                  Lợi nhuận                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <font>60</font>
+                  <span class="color1">Phút</span>
+                                    </dt>
+                <dd>
+                  Thời hạn Tham gia
+                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <!-- <span class="color1">₫</span> -->
+                  <font>2,500,000,000</font><span class="color1">VND</span>
+                </dt>
+                <dd>
+                  Số tiền Tham gia
+                </dd>
+              </dl>
+            </div>
+            <div class="clear"></div>
+            <div class="ib-foot">
+              <div class="text">
+                <p>Quy mô dự án:<font style="color: #e22825">15,895,000,000,000</font>VND</p>
+                <p></p>
+              </div>
+              <div class="other">
+                                  <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+                  <a href="/mobile/details/id/7.html" class="now-btn">Tham gia</a>              </div>
+            </div>
+            <div class="plan"><span>Tiến độ dự án：</span>
+              <div class="plan-wrap">
+                <div class="plan-con" style="width: 45%;"></div>
+              </div><span class="plan-text">45%</span>
+            </div>
+            <!--               <a href="/mobile/details/id/7.html" class="btn">Đầu tư ngay lập tức</a> -->
+            <div class="clear"></div>
+          </div><div class="lc_item" style="width: 97%">
+            <div class="banner">
+              <img src="/Public/uploads/item/20231024112927.jpg" alt="png" class="banner_img">
+            </div>
+            <!-- <div class="title-wrapper">
+            <div>QUỹ PHáT TRIểN LưU TRữ NăNG LượNG SạCH </div>
+        </div> -->
+            <div class="title-wrapper-com">
+              <div>Quỹ phát triển lưu trữ năng lượng sạch </div>
+            </div>
+            <div class="wrapper">
+
+              <dl class="ct">
+                <dt>
+                  8.17                  <span>%</span>
+                </dt>
+                <dd>
+                  Lợi nhuận                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <font>90</font>
+                  <span class="color1">Phút</span>
+                                    </dt>
+                <dd>
+                  Thời hạn Tham gia
+                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <!-- <span class="color1">₫</span> -->
+                  <font>5,000,000,000</font><span class="color1">VND</span>
+                </dt>
+                <dd>
+                  Số tiền Tham gia
+                </dd>
+              </dl>
+            </div>
+            <div class="clear"></div>
+            <div class="ib-foot">
+              <div class="text">
+                <p>Quy mô dự án:<font style="color: #e22825">22,763,200,000,000</font>VND</p>
+                <p></p>
+              </div>
+              <div class="other">
+                                  <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+                  <a href="/mobile/details/id/8.html" class="now-btn">Tham gia</a>              </div>
+            </div>
+            <div class="plan"><span>Tiến độ dự án：</span>
+              <div class="plan-wrap">
+                <div class="plan-con" style="width: 40%;"></div>
+              </div><span class="plan-text">40%</span>
+            </div>
+            <!--               <a href="/mobile/details/id/8.html" class="btn">Đầu tư ngay lập tức</a> -->
+            <div class="clear"></div>
+          </div><div class="lc_item" style="width: 97%">
+            <div class="banner">
+              <img src="/Public/uploads/item/20231025094214.jpg" alt="png" class="banner_img">
+            </div>
+            <!-- <div class="title-wrapper">
+            <div>QUỹ VINWONDERS Dự áN VUI CHơI GIảI TRí HàNG đầU </div>
+        </div> -->
+            <div class="title-wrapper-com">
+              <div>Quỹ VinWonders dự án vui chơi giải trí hàng đầu </div>
+            </div>
+            <div class="wrapper">
+
+              <dl class="ct">
+                <dt>
+                  8.86                  <span>%</span>
+                </dt>
+                <dd>
+                  Lợi nhuận                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <font>90</font>
+                  <span class="color1">Phút</span>
+                                    </dt>
+                <dd>
+                  Thời hạn Tham gia
+                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <!-- <span class="color1">₫</span> -->
+                  <font>8,000,000,000</font><span class="color1">VND</span>
+                </dt>
+                <dd>
+                  Số tiền Tham gia
+                </dd>
+              </dl>
+            </div>
+            <div class="clear"></div>
+            <div class="ib-foot">
+              <div class="text">
+                <p>Quy mô dự án:<font style="color: #e22825">65,000,000,000,000</font>VND</p>
+                <p></p>
+              </div>
+              <div class="other">
+                                  <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+                  <a href="/mobile/details/id/9.html" class="now-btn">Tham gia</a>              </div>
+            </div>
+            <div class="plan"><span>Tiến độ dự án：</span>
+              <div class="plan-wrap">
+                <div class="plan-con" style="width: 31%;"></div>
+              </div><span class="plan-text">31%</span>
+            </div>
+            <!--               <a href="/mobile/details/id/9.html" class="btn">Đầu tư ngay lập tức</a> -->
+            <div class="clear"></div>
+          </div><div class="lc_item" style="width: 97%">
+            <div class="banner">
+              <img src="/Public/uploads/item/20231024112737.jpg" alt="png" class="banner_img">
+            </div>
+            <!-- <div class="title-wrapper">
+            <div>QũY PHáT TRIểN CôNG NGHệ TươNG LAI AI </div>
+        </div> -->
+            <div class="title-wrapper-com">
+              <div>Qũy phát triển công nghệ tương lai AI </div>
+            </div>
+            <div class="wrapper">
+
+              <dl class="ct">
+                <dt>
+                  9.58                  <span>%</span>
+                </dt>
+                <dd>
+                  Lợi nhuận                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <font>120</font>
+                  <span class="color1">Phút</span>
+                                    </dt>
+                <dd>
+                  Thời hạn Tham gia
+                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <!-- <span class="color1">₫</span> -->
+                  <font>12,000,000,000</font><span class="color1">VND</span>
+                </dt>
+                <dd>
+                  Số tiền Tham gia
+                </dd>
+              </dl>
+            </div>
+            <div class="clear"></div>
+            <div class="ib-foot">
+              <div class="text">
+                <p>Quy mô dự án:<font style="color: #e22825">125,860,000,000,000</font>VND</p>
+                <p></p>
+              </div>
+              <div class="other">
+                                  <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+                  <a href="/mobile/details/id/10.html" class="now-btn">Tham gia</a>              </div>
+            </div>
+            <div class="plan"><span>Tiến độ dự án：</span>
+              <div class="plan-wrap">
+                <div class="plan-con" style="width: 31%;"></div>
+              </div><span class="plan-text">31%</span>
+            </div>
+            <!--               <a href="/mobile/details/id/10.html" class="btn">Đầu tư ngay lập tức</a> -->
+            <div class="clear"></div>
+          </div><div class="lc_item" style="width: 97%">
+            <div class="banner">
+              <img src="/Public/uploads/item/20231024102157.jpg" alt="png" class="banner_img">
+            </div>
+            <!-- <div class="title-wrapper">
+            <div>QUỹ PHáT TRIểN CộNG đồNG </div>
+        </div> -->
+            <div class="title-wrapper-com">
+              <div>Quỹ phát triển cộng đồng </div>
+            </div>
+            <div class="wrapper">
+
+              <dl class="ct">
+                <dt>
+                  10.55                  <span>%</span>
+                </dt>
+                <dd>
+                  Lợi nhuận                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <font>120</font>
+                  <span class="color1">Phút</span>
+                                    </dt>
+                <dd>
+                  Thời hạn Tham gia
+                </dd>
+              </dl>
+              <dl>
+                <dt>
+                  <!-- <span class="color1">₫</span> -->
+                  <font>18,000,000,000</font><span class="color1">VND</span>
+                </dt>
+                <dd>
+                  Số tiền Tham gia
+                </dd>
+              </dl>
+            </div>
+            <div class="clear"></div>
+            <div class="ib-foot">
+              <div class="text">
+                <p>Quy mô dự án:<font style="color: #e22825">25,895,200,000,000,000</font>VND</p>
+                <p></p>
+              </div>
+              <div class="other">
+                                  <!-- <a class="f_get_now" href="/mobile/details.html" style="font-size: 13px;color: #FFFFFF">立即投资</a> -->
+                  <a href="/mobile/details/id/11.html" class="now-btn">Tham gia</a>              </div>
+            </div>
+            <div class="plan"><span>Tiến độ dự án：</span>
+              <div class="plan-wrap">
+                <div class="plan-con" style="width: 23%;"></div>
+              </div><span class="plan-text">23%</span>
+            </div>
+            <!--               <a href="/mobile/details/id/11.html" class="btn">Đầu tư ngay lập tức</a> -->
+            <div class="clear"></div>
+          </div>
+      <dir style="padding: 25px"></dir>
+      <script type="text/javascript" src="/Public/xin_mobile/js/21.js"></script>
+      <script type="text/javascript" src="/Public/xin_mobile/js/22.js"></script>
+      <script type="text/javascript" src="/Public/xin_mobile/js/23.js"></script>
+      <script type="text/javascript" src="/Public/xin_mobile/js/24.js"></script>
+      <script>
+
+
+
+        $(function () {
+
+
+
+          $(".huodong").show().addClass('active');;
+
+
+
+          $(".huodong .close,.huodong .mask").click(function () {
+
+            $('.huodong').fadeOut();
+
+
+
+          });
+
+
+
+        });
+
+
+
+
+
+      </script>
+      <script type="text/javascript">
+
+
+
+        var swiper = new Swiper('.public_slider', {
+
+          pagination: {
+
+            el: '.swiper-pagination',//分页选择器        
+
+            clickable: true,
+
+          },
+
+          direction: "vertical",
+
+          slidesPerView: 1,
+
+          loop: true,
+
+          autoplay: {
+
+            delay: 5000,//5秒切换一次
+
+            disableOnInteraction: false,//用户操作后继续,true为停止
+
+          },
+
+          navigation: {
+            prevEl: '.my-prev',
+
+            nextEl: '.my-next',
+
+          },
+
+        });
+
+
+
+        var swiper = new Swiper('#banner', {
+
+
+
+
+
+          autoplay: {
+
+            delay: 5000,//5秒切换一次
+
+            disableOnInteraction: false,//用户操作后继续,true为停止
+
+          },
+
+
+
+        });
+
+
+
+
+
+
+
+      </script>
+    </div>
+
+    <script type="text/javascript" src="/Public/xin_mobile/static/js/rem.js"></script>
+    <link type="text/css" rel="stylesheet" href="/Public/xin_mobile/static/css/foot.css">
+    <div class="hh"></div>
+  </div>
+  <footer class="footer" style="width: 7.5rem;">
+    <a href="#"><img src="/Public/mobile/en-us/15.png">
+      <p>Trang chủ</p>
+    </a>
+    <a href="/Mobile/lists.html"><img src="/Public/mobile/en-us/16.png">
+      <p>Hạng mục</p>
+    </a>
+    <a href="/Mobile/yuebao.html"><img src="/Public/xin_mobile/images/17.png" style="width: 1.2rem;"></a>
+    <a href="/about/details/id/42.html"><img src="/Public/mobile/en-us/18.png">
+      <p>Tìm thấy</p>
+    </a>
+    <a href="/user/person.html"><img src="/Public/mobile/en-us/19.png">
+      <p>Của tôi</p>
+    </a>
+  </footer>
+  <!--<div id='apps' style='width:100%;height:10%;background-color:#000;z-index:999999;position:fixed;top:82%;left:0px;right:0px;bottom:0px;background: rgba(0, 0, 0, 0.2) none repeat scroll !important;filter: Alpha(opacity=20);'>-->
+  <!-- 	<img style='width:50px;margin-left:10%;margin-top:2%;float:left' src="/Public/uploads/item/20190615220421.png">-->
+  <!-- 	<div style='float:left;margin-left:5%;margin-top:3%;width:35%;height:.9rem;line-height: .9rem;'>-->
+  <!-- 	<spam style='font-size:16px;color:#fff'></span>-->
+  <!-- 	</div>-->
+  <!-- 	<input class='input_btn2' type='button'  onclick='app()' value="">-->
+  <!--<input class='input_btn2' type='button'  onclick="window.open('')" value="">-->
+  <!-- 	<span style='margin-left:10px;cursor:pointer' onclick='dianji()'>×</span>-->
+  <!-- </div>-->
+  <div id="apps" style="box-sizing: border-box;display:flex;justify-content:space-between;align-items: center;padding: 0 0.3rem;margin:0 auto;width:7.5rem;height:10%;background-color:#000;z-index:999999;position:fixed;top:82%;left:0px;right:0px;bottom:0px;background: rgba(0, 0, 0, 0.2) none repeat scroll !important;filter: Alpha(opacity=20);display: none;">
+    <div style="display:flex;align-items:center;">
+      <img style="width:1rem;height:1rem" src="/Public/uploads/item/20190615220421.png">
+      <div style="margin-left:0.2rem;height:.9rem;line-height: .9rem;">
+      </div>
+      <spam style="font-size:.4rem;color:#fff">
+        DOWNLOAD
+    </spam></div>
+    <input class="input_btn2" type="button" onclick="app()" value="DOWNLOAD">
+    <!--<input class='input_btn2' type='button'  onclick="window.open('')" value="">-->
+    <span style="position:absolute;top:0.05rem;right:0.1rem;cursor:pointer" onclick="dianji()">×</span>
+  </div>
+
+  <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+  <script>LA.init({ id: "JOISOtI3NfrQH8Q2", ck: "JOISOtI3NfrQH8Q2" })</script>
+  <script type="text/javascript">
+    function format (num) {  
+    var reg=/\d{1,3}(?=(\d{3})+$)/g;   
+    return (num + '').replace(reg, '$&,');  
+}
+    var link = document.getElementsByTagName('link')[0];
+
+    var sUserAgent = navigator.userAgent.toLowerCase();
+
+    var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+
+    var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+
+    var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+
+    var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+
+    var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+
+    var bIsAndroid = sUserAgent.match(/android/i) == "android";
+
+    var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+
+    var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+
+    if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
+
+    }
+
+    // else{
+
+    //     location.href="https://www.baidu.com"
+
+
+
+    // }
+
+  </script>
+  <script type="text/javascript">
+
+    var system = {};
+
+    var p = navigator.platform;
+
+    var u = navigator.userAgent;
+
+
+
+    system.win = p.indexOf("Win") == 0;
+
+    system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+
+//   if (system.win  || system.xll) else {
+
+//       window.location.href = " http://www.baidu.com";
+
+//     }
+
+//   }
+
+  </script>
+  <script type="text/javascript">
+
+    function getmnconfig() {
+
+      return {
+
+        customerId: "",
+
+        customerName: ""
+
+      };
+
+    }
+
+    function app() {
+      window.location.href = "";
+    }
+    function dianji() {
+      document.getElementById("apps").style.display = "none";
+    }
+  </script>
+
+
+
+</body>

@@ -1,0 +1,1700 @@
+<!DOCTYPE html><html lang="pt-BR" class="u-responsive-xl"><head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<meta name="keywords" content="Instituto Dom Barreto - Educação de Excelência, Instituto Dom Barreto, colégio, educação, Teresina, Piauí">
+	<meta name="description" content="Instituto Dom Barreto - Educação de Excelência - Instituto Dom Barreto">
+	<meta name="page_type" content="np-template-header-footer-from-plugin">
+
+	<!-- Preconnect para recursos externos críticos -->
+	<link rel="preconnect" href="https://code.jquery.com" crossorigin="">
+	<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin="">
+	<link rel="preconnect" href="https://stackpath.bootstrapcdn.com" crossorigin="">
+	<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="">
+	<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+	<link rel="preconnect" href="https://vlibras.gov.br" crossorigin="">
+
+	<!-- Meta institucionais -->
+	<meta name="author" content="Instituto Dom Barreto">
+	<meta name="organization" content="Instituto Dom Barreto">
+	<meta name="telephone" content="+55 (86) 3228-8800">
+	<meta name="developer" content="Equipe de Desenvolvimento - Instituto Dom Barreto">
+	<meta name="whatsapp" content="+55 86 99424-1842">
+	<meta name="email" content="idb@dombarreto.g12.br">
+	<meta name="address" content="Rua Gabriel Ferreira, 691 - Centro, Teresina - PI, 64000-250">
+	<meta name="cnpj" content="07.250.103/0001-59">
+	<meta name="theme-color" content="#29166f">
+	<meta name="facebook-domain-verification" content="fuies0doeicpbn1zklb7dk61pyw5m5">
+
+	<!-- Open Graph (Facebook, WhatsApp, LinkedIn) -->
+	<meta property="og:site_name" content="Instituto Dom Barreto">
+	<meta property="og:title" content="Página Inicial - Instituto Dom Barreto">
+	<meta property="og:description" content="Instituto Dom Barreto - Educação de Excelência">
+	<meta property="og:image" content="images/logo-idb.png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="og:image:alt" content="Instituto Dom Barreto - Educação de Excelência">
+	<meta property="og:url" content="https://dombarreto.com/">
+	<meta property="og:type" content="website">
+	<meta property="og:locale" content="pt_BR">
+	
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Página Inicial - Instituto Dom Barreto">
+	<meta name="twitter:description" content="Instituto Dom Barreto - Educação de Excelência">
+	<meta name="twitter:image" content="images/logo-idb.png">
+	<meta name="twitter:image:alt" content="Instituto Dom Barreto - Educação de Excelência">
+
+	<title>Página Inicial - Instituto Dom Barreto</title>
+
+	<!-- Preload de recursos críticos -->
+	<link rel="preload" href="https://dombarreto.com/portal-assets/fonts/futura-heavy-font.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="https://dombarreto.com/portal-assets/fonts/futura-medium-bt.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="https://dombarreto.com/portal-assets/css/font.css" as="style">
+	<link rel="preload" href="https://dombarreto.com/portal-assets/css/main.css" as="style">
+	
+	<!-- CSS Crítico (inline ou carregamento imediato) -->
+	<link rel="stylesheet" href="https://dombarreto.com/portal-assets/css/main.css" media="screen">
+	<link rel="stylesheet" href="https://dombarreto.com/portal-assets/css/nicepage.css" media="screen">
+	
+	<!-- CSS Não-Crítico (carregamento assíncrono) -->
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" media="all" onload="this.media='all'">
+	<noscript><link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet"></noscript>
+	
+	<link rel="stylesheet" href="https://dombarreto.com/portal-assets/js/src/css/dataTables.bootstrap.min.css" media="all" onload="this.media='all'">
+	<link rel="stylesheet" href="https://dombarreto.com/portal-assets/css/font.css" media="screen">
+	<link href="https://dombarreto.com/portal-assets/css/carousel.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="https://dombarreto.com/portal-assets/css/loader.css" media="screen">
+	<link rel="stylesheet" href="https://dombarreto.com/portal-assets/css/custom-components.css" media="screen">
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" media="screen">
+	<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"></noscript>
+	
+	<link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;display=swap" media="all" onload="this.media='all'">
+	<noscript><link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap"></noscript>
+
+	<!-- CSS adicionais específicos da página -->
+						<link href="https://dombarreto.com/portal-assets/css/Instituto-Dom-Barreto.css" rel="stylesheet" media="screen">
+					<link href="https://dombarreto.com/portal-assets/css/noticias.css" rel="stylesheet" media="screen">
+					<link href="https://dombarreto.com/portal-assets/css/social.css" rel="stylesheet" media="screen">
+			
+	<!-- Polyfill para carregamento assíncrono de CSS -->
+	<script>
+		!function(e){"use strict";var t=function(t,n,r){var o,i=e.document,s=i.createElement("link");if(n)o=n;else{var a=(i.body||i.getElementsByTagName("head")[0]).childNodes;o=a[a.length-1]}var l=i.styleSheets;if(r)for(var d in r)r.hasOwnProperty(d)&&s.setAttribute(d,r[d]);s.rel="stylesheet",s.href=t,s.media="only x",function e(t){if(i.body)return t();setTimeout(function(){e(t)})}(function(){o.parentNode.insertBefore(s,n?o:o.nextSibling)});var f=function(e){for(var t=s.href,n=l.length;n--;)if(l[n].href===t)return e();setTimeout(function(){f(e)})};return s.addEventListener&&s.addEventListener("load",function(){this.media=r&&r.media||"all"}),s.onloadcssdefined=f,f(function(){s.media!==r&&r.media&&(s.media=r.media||"all")}),s};"undefined"!=typeof exports?exports.loadCSS=t:e.loadCSS=t}("undefined"!=typeof global?global:this);
+	</script>
+
+	
+	<style>
+		/* Critical CSS for Ensino pages - prevents FOUC */
+		.fund-hero, .med-hero {
+			background: linear-gradient(135deg, #00264e 0%, #001830 100%);
+			padding: 88px 28px 76px;
+			text-align: center;
+			position: relative;
+			overflow: hidden;
+		}
+		.fund-hero__inner, .med-hero__inner {
+			position: relative;
+			z-index: 1;
+			max-width: 740px;
+			margin: 0 auto;
+		}
+		.fund-hero__badge, .med-hero__badge {
+			display: inline-block;
+			color: #c8a96e;
+			font-size: 0.75rem;
+			letter-spacing: 6px;
+			text-transform: uppercase;
+			border: 1px solid rgba(200, 169, 110, 0.45);
+			background: rgba(200, 169, 110, 0.08);
+			padding: 7px 26px;
+			border-radius: 30px;
+			margin-bottom: 28px;
+		}
+		.fund-hero__title, .med-hero__title {
+			color: #ffffff !important;
+			font-size: 2.8rem;
+			margin: 0 0 22px;
+			line-height: 1.12;
+		}
+		.fund-hero__divider, .med-hero__divider {
+			width: 56px;
+			height: 3px;
+			background: #c8a96e;
+			margin: 0 auto 26px;
+			border-radius: 2px;
+		}
+		.fund-hero__subtitle, .med-hero__subtitle {
+			color: #ffffff !important;
+			font-size: 1.05rem;
+			line-height: 1.82;
+			max-width: 600px;
+			margin: 0 auto;
+		}
+		.fund-wrap, .med-wrap {
+			max-width: 1100px;
+			margin: 0 auto;
+			padding: 0 28px;
+		}
+		.fund-sobre, .med-sobre {
+			background: #ffffff;
+			padding: 80px 0 84px;
+		}
+		.fund-sobre__row, .med-sobre__row {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			gap: 52px;
+			align-items: center;
+		}
+		.fund-slider, .med-slider {
+			background: #f6f7fc;
+			padding: 80px 0 84px;
+		}
+		.fund-carousel, .med-carousel {
+			position: relative;
+			border-radius: 14px;
+			overflow: hidden;
+			box-shadow: 0 10px 44px rgba(0, 38, 78, 0.16);
+		}
+		.fund-carousel__track, .med-carousel__track {
+			position: relative;
+			width: 100%;
+			aspect-ratio: 16/7;
+		}
+		.fund-carousel__slide, .med-carousel__slide {
+			position: absolute;
+			inset: 0;
+			opacity: 0;
+			transition: opacity 0.8s ease;
+		}
+		.fund-carousel__slide--active, .med-carousel__slide--active {
+			opacity: 1;
+		}
+		.fund-carousel__slide img, .med-carousel__slide img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			display: block;
+		}
+		.fund-comp-card, .med-comp-card {
+			background: #ffffff;
+			border: 1px solid #e9e9f0;
+			border-radius: 14px;
+			padding: 32px 22px 28px;
+			text-align: center;
+			box-shadow: 0 2px 28px rgba(0, 38, 78, 0.07);
+		}
+	
+		/* ====================================================
+		   RESPONSIVE CRITICAL CSS
+		   ==================================================== */
+		@media (max-width: 991px) {
+			.fund-sobre__row, .med-sobre__row {
+				grid-template-columns: 1fr !important;
+				gap: 40px !important;
+			}
+			.fund-sobre__text, .med-sobre__text {
+				padding-right: 0 !important;
+			}
+		}
+		@media (max-width: 767px) {
+			.fund-hero, .med-hero {
+				padding: 60px 20px 52px !important;
+				margin-top: 0 !important;
+			}
+			.fund-hero__title, .med-hero__title {
+				font-size: 1.9rem !important;
+			}
+			.fund-hero__subtitle, .med-hero__subtitle {
+				font-size: 0.95rem !important;
+			}
+			.fund-sobre, .med-sobre {
+				padding: 52px 0 56px !important;
+			}
+			.fund-sobre__row, .med-sobre__row {
+				grid-template-columns: 1fr !important;
+				gap: 32px !important;
+			}
+			.fund-sobre__text, .med-sobre__text {
+				order: 1 !important;
+				padding: 0 !important;
+			}
+			.fund-sobre__gallery, .med-sobre__gallery {
+				order: 2 !important;
+				width: 100% !important;
+			}
+			.fund-gallery-carousel, .med-gallery-carousel {
+				width: 100% !important;
+			}
+			.fund-slider, .med-slider {
+				padding: 52px 0 56px !important;
+			}
+			.fund-section-title, .med-section-title {
+				font-size: 1.6rem !important;
+			}
+		}
+		@media (max-width: 575px) {
+			.fund-hero, .med-hero {
+				padding: 48px 16px 44px !important;
+			}
+			.fund-hero__title, .med-hero__title {
+				font-size: 1.55rem !important;
+			}
+			.fund-hero__subtitle, .med-hero__subtitle {
+				font-size: 0.85rem !important;
+			}
+			.fund-sobre, .med-sobre {
+				padding: 44px 0 48px !important;
+			}
+			.fund-slider, .med-slider {
+				padding: 44px 0 48px !important;
+			}
+			.fund-section-title, .med-section-title {
+				font-size: 1.4rem !important;
+			}
+		}
+</style>
+
+<style>
+		/* Estilos críticos inline para evitar FOUC */
+		body { 
+			margin: 0; 
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+			line-height: 1.5;
+			color: #333;
+		}
+		img { 
+			max-width: 100%; 
+			height: auto; 
+		}
+		@media print,
+		screen and (min-width: 40em) {
+			.header-search__input {
+				display: inline-block;
+			}
+		}
+	</style>
+
+	<!-- Schema.org JSON-LD -->
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "Organization",
+		"name": "Instituto Dom Barreto",
+		"url": "https://dombarreto.com/",
+		"logo": "https://dombarreto.com/portal-assets/images/Logo-Escola-site.png",
+		"contactPoint": {
+			"@type": "ContactPoint",
+			"telephone": "+55-86-3228-8800",
+			"contactType": "customer service"
+		}
+	}
+	</script>
+
+	
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"><style>
+   .search-btn {
+      background: none !important;
+      border: none !important;
+      cursor: pointer !important;
+   }
+
+   .menu li a,
+   .search-btn {
+      color: white !important;
+      padding: 10px 15px !important;
+      text-decoration: none !important;
+      display: block !important;
+   }
+
+   .search-btn .material-icons {
+      font-size: 24px !important;
+   }
+
+   .menu li:hover {
+      background-color: #555 !important;
+   }
+
+   /* ===== SEARCH OVERLAY (DESKTOP) ===== */
+   .search-overlay {
+      display: none;
+      position: fixed;
+      z-index: 10000;
+      inset: 0;
+      background: rgba(0, 20, 50, 0.92);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      justify-content: center;
+      align-items: center;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+   }
+
+   .search-overlay.show {
+      display: flex;
+      opacity: 1;
+   }
+
+   .search-overlay-close {
+      position: absolute;
+      top: 28px;
+      right: 32px;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      color: rgba(255, 255, 255, 0.6);
+      font-size: 24px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.25s;
+      line-height: 1;
+   }
+
+   .search-overlay-close:hover {
+      background: rgba(255, 255, 255, 0.16);
+      color: #fff;
+      transform: rotate(90deg);
+   }
+
+   .search-overlay-inner {
+      width: 90%;
+      max-width: 660px;
+      text-align: center;
+   }
+
+   .search-overlay-title {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #fff !important;
+      margin: 0 0 8px;
+      letter-spacing: -0.01em;
+   }
+
+   .search-overlay-sub {
+      font-size: 0.95rem;
+      color: #fff !important;
+      margin: 0 0 36px;
+   }
+
+   .search-overlay-bar {
+      display: flex;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 60px;
+      padding: 6px 6px 6px 24px;
+      transition: all 0.25s;
+   }
+
+   .search-overlay-bar:focus-within {
+      background: rgba(255, 255, 255, 0.13);
+      border-color: rgba(255, 215, 0, 0.5);
+      box-shadow: 0 0 0 4px rgba(255, 215, 0, 0.08);
+   }
+
+   .search-overlay-bar .so-icon {
+      width: 22px;
+      height: 22px;
+      stroke: rgba(255, 255, 255, 0.35);
+      flex-shrink: 0;
+      margin-right: 14px;
+      transition: stroke 0.25s;
+   }
+
+   .search-overlay-bar:focus-within .so-icon {
+      stroke: rgba(255, 215, 0, 0.7);
+   }
+
+   .search-overlay-bar input {
+      flex: 1;
+      background: transparent !important;
+      border: none !important;
+      outline: none !important;
+      color: #fff !important;
+      -webkit-text-fill-color: #fff !important;
+      font-size: 1.1rem;
+      padding: 13px 0;
+      caret-color: #FFD700;
+      min-width: 0;
+   }
+
+   .search-overlay-bar input::placeholder {
+      color: rgba(255, 255, 255, 0.3);
+      -webkit-text-fill-color: rgba(255, 255, 255, 0.3);
+   }
+
+   .search-overlay-bar .so-submit {
+      background: linear-gradient(135deg, #FFD700, #f0c800);
+      border: none;
+      border-radius: 50px;
+      padding: 13px 28px;
+      color: #00264e;
+      font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s;
+      white-space: nowrap;
+   }
+
+   .search-overlay-bar .so-submit:hover {
+      background: linear-gradient(135deg, #ffe44d, #FFD700);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 16px rgba(255, 215, 0, 0.3);
+   }
+
+   .search-overlay-bar .so-submit svg {
+      width: 16px;
+      height: 16px;
+      stroke: #00264e;
+      flex-shrink: 0;
+   }
+
+   .search-overlay-hints {
+      margin-top: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+   }
+
+   .search-overlay-hints .so-hints-label {
+      font-size: 11px;
+      color: #fff !important;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+   }
+
+   .search-overlay-hints a {
+      font-size: 12px;
+      color: #fff !important;
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 5px 14px;
+      border-radius: 20px;
+      text-decoration: none;
+      transition: all 0.2s;
+   }
+
+   .search-overlay-hints a:hover {
+      color: #FFD700;
+      border-color: rgba(255, 215, 0, 0.3);
+      background: rgba(255, 215, 0, 0.08);
+   }
+
+   @media (max-width: 575px) {
+      .search-overlay-title {
+         font-size: 1.5rem;
+      }
+
+      .search-overlay-bar {
+         border-radius: 14px;
+         padding: 5px 5px 5px 16px;
+      }
+
+      .search-overlay-bar .so-submit span {
+         display: none;
+      }
+
+      .search-overlay-bar .so-submit {
+         padding: 12px;
+         border-radius: 10px;
+      }
+
+      .search-overlay-close {
+         top: 16px;
+         right: 16px;
+         width: 38px;
+         height: 38px;
+      }
+   }
+
+   .u-body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+   }
+
+   /* Adicione outros estilos conforme necessário */
+
+   /* =============================================
+      MENU MOBILE MODERNO
+      ============================================= */
+
+   /* Painel lateral */
+   .u-sidenav .u-sidenav-overflow {
+      background: linear-gradient(160deg, #001529 0%, #00264e 55%, #002d5c 100%) !important;
+      padding: 0 !important;
+   }
+
+   /* Botão X de fechar */
+   .u-sidenav .u-menu-close {
+      width: 40px !important;
+      height: 40px !important;
+      margin: 14px 14px 0 auto !important;
+      display: flex !important;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.1);
+      transition: background 0.2s ease, transform 0.25s ease;
+      cursor: pointer;
+   }
+
+   .u-sidenav .u-menu-close:hover {
+      background: rgba(255, 255, 255, 0.2);
+      transform: rotate(90deg);
+   }
+
+   .u-sidenav .u-menu-close::before {
+      font-size: 20px !important;
+      color: rgba(255, 255, 255, 0.8) !important;
+      line-height: 1 !important;
+   }
+
+   /* Logo no topo do menu mobile */
+   .u-sidenav .u-popupmenu-items>li:first-child {
+      padding: 10px 20px 16px !important;
+      text-align: center;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      margin-bottom: 4px;
+   }
+
+   .u-sidenav .u-popupmenu-items>li:first-child img {
+      width: 80px !important;
+      filter: brightness(1.1);
+   }
+
+   .u-sidenav .u-popupmenu-items>li:first-child a {
+      padding: 0 !important;
+   }
+
+   /* === SEARCH BAR MOBILE === */
+   .mobile-search-wrapper {
+      padding: 12px 16px 14px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+   }
+
+   .mobile-search-form {
+      display: flex;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      border-radius: 10px;
+      overflow: hidden;
+      transition: border-color 0.25s, background 0.25s;
+   }
+
+   .mobile-search-form:focus-within {
+      border-color: rgba(255, 215, 0, 0.5);
+      background: rgba(255, 255, 255, 0.12);
+   }
+
+   .mobile-search-form input[type="text"] {
+      flex: 1;
+      background: transparent !important;
+      border: none !important;
+      outline: none !important;
+      padding: 11px 14px;
+      color: #fff !important;
+      -webkit-text-fill-color: #fff !important;
+      font-size: 16px;
+      /* >= 16px evita zoom automático do iOS */
+      letter-spacing: 0.3px;
+      caret-color: #FFD700;
+      -webkit-appearance: none;
+      appearance: none;
+      opacity: 1;
+      min-width: 0;
+      touch-action: manipulation;
+   }
+
+   .mobile-search-form input[type="text"]::placeholder {
+      color: rgba(255, 255, 255, 0.38) !important;
+      -webkit-text-fill-color: rgba(255, 255, 255, 0.38) !important;
+      opacity: 1;
+   }
+
+   .mobile-search-form button[type="submit"] {
+      background: none;
+      border: none;
+      border-left: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 9px 13px;
+      cursor: pointer;
+      color: rgba(255, 255, 255, 0.45);
+      display: flex;
+      align-items: center;
+      transition: color 0.2s, background 0.2s;
+   }
+
+   .mobile-search-form button[type="submit"]:hover {
+      color: #FFD700;
+      background: rgba(255, 215, 0, 0.06);
+   }
+
+   .mobile-search-form button[type="submit"] .material-icons {
+      font-size: 19px !important;
+   }
+
+   /* Container de itens */
+   .u-sidenav .u-popupmenu-items {
+      margin: 0 !important;
+      padding: 0 0 28px 0 !important;
+   }
+
+   /* === NÍVEL 1: ITENS PRINCIPAIS === */
+   .u-sidenav .u-nav-item {
+      margin: 0 !important;
+   }
+
+   .u-sidenav .u-nav-item>.u-nav-link {
+      padding: 13px 20px !important;
+      font-size: 12.5px !important;
+      font-weight: 600 !important;
+      letter-spacing: 0.9px !important;
+      color: rgba(255, 255, 255, 0.9) !important;
+      text-transform: uppercase;
+      border-left: 3px solid transparent;
+      position: relative;
+      transition: background 0.18s, color 0.18s, border-color 0.18s;
+   }
+
+   .u-sidenav .u-nav-item>.u-nav-link:hover,
+   .u-sidenav .u-nav-item>.u-nav-link:focus {
+      background: rgba(255, 255, 255, 0.05) !important;
+      color: #FFD700 !important;
+      border-left-color: #FFD700;
+   }
+
+   /* Seta ▼ indicadora de submenu */
+   .u-sidenav .fa-caret-down {
+      display: inline-block !important;
+      visibility: visible !important;
+      opacity: 0.55 !important;
+      font-size: 11px !important;
+      margin-left: 6px !important;
+      transition: transform 0.25s ease, opacity 0.25s ease !important;
+      vertical-align: middle !important;
+   }
+
+   .u-sidenav .submenu-open>.u-nav-link .fa-caret-down {
+      transform: rotate(180deg) !important;
+      opacity: 1 !important;
+   }
+
+   .u-sidenav .submenu-open>.u-nav-link {
+      color: #FFD700 !important;
+      background: rgba(255, 215, 0, 0.05) !important;
+      border-left-color: #FFD700;
+   }
+
+   /* Separadores nível 1 */
+   .u-sidenav .u-popupmenu-items>hr {
+      border: none !important;
+      height: 1px !important;
+      margin: 2px 18px !important;
+      background: rgba(255, 255, 255, 0.07) !important;
+   }
+
+   /* === NÍVEL 2: SUBMENU === */
+   .u-sidenav .u-nav-popup {
+      background: rgba(0, 6, 18, 0.55) !important;
+      border-radius: 0 !important;
+      margin: 0 !important;
+      border: none !important;
+      border-left: 3px solid rgba(80, 160, 255, 0.3) !important;
+      box-shadow: none !important;
+   }
+
+   .u-sidenav .u-nav-popup>ul {
+      border-top: none !important;
+      border-bottom: none !important;
+      padding: 4px 0 !important;
+   }
+
+   .u-sidenav .u-nav-popup .u-nav-link {
+      padding: 10px 16px 10px 22px !important;
+      font-size: 13px !important;
+      font-weight: 400 !important;
+      letter-spacing: 0.2px !important;
+      color: rgba(195, 215, 240, 0.85) !important;
+      text-transform: none !important;
+      border-left: 3px solid transparent;
+      display: flex !important;
+      align-items: center;
+      gap: 9px;
+      transition: background 0.15s, color 0.15s;
+   }
+
+   .u-sidenav .u-nav-popup>ul>.u-nav-item>.u-nav-link::before {
+      content: '';
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: rgba(100, 170, 255, 0.45);
+      flex-shrink: 0;
+      transition: background 0.15s;
+   }
+
+   .u-sidenav .u-nav-popup .u-nav-link:hover {
+      color: #FFD700 !important;
+      background: rgba(255, 215, 0, 0.05) !important;
+   }
+
+   .u-sidenav .u-nav-popup>ul>.u-nav-item>.u-nav-link:hover::before {
+      background: #FFD700;
+   }
+
+   /* Separadores dentro de submenu */
+   .u-sidenav .u-nav-popup hr {
+      border: none !important;
+      height: 1px !important;
+      margin: 2px 16px 2px 22px !important;
+      background: rgba(255, 255, 255, 0.06) !important;
+   }
+
+   /* === LABELS DE SEÇÃO dentro de submenu (não-clicáveis) === */
+   .u-sidenav .mobile-section-label {
+      display: block;
+      padding: 10px 16px 5px 22px;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1.8px;
+      color: rgba(255, 215, 0, 0.55);
+      text-transform: uppercase;
+      pointer-events: none;
+      user-select: none;
+   }
+
+   /* Overlay escuro atrás do menu */
+   .u-menu-overlay {
+      backdrop-filter: blur(4px) !important;
+      -webkit-backdrop-filter: blur(4px) !important;
+   }
+
+   /* Scrollbar personalizada no menu */
+   .u-sidenav .u-sidenav-overflow::-webkit-scrollbar {
+      width: 3px;
+   }
+
+   .u-sidenav .u-sidenav-overflow::-webkit-scrollbar-track {
+      background: transparent;
+   }
+
+   .u-sidenav .u-sidenav-overflow::-webkit-scrollbar-thumb {
+      background: rgba(255, 255, 255, 0.15);
+      border-radius: 2px;
+   }
+
+   .u-sidenav .u-sidenav-overflow::-webkit-scrollbar-thumb:hover {
+      background: rgba(255, 255, 255, 0.28);
+   }
+
+   /* === ESTADO ATIVO NA NAVEGAÇÃO === */
+   /* Desktop: destaque dourado no item atual */
+   .u-nav-container .u-nav-link.nav-active {
+      color: #FFD700 !important;
+      border-bottom: 2px solid #FFD700 !important;
+   }
+   .u-nav-container .u-nav-popup .u-nav-link.nav-active {
+      color: #FFD700 !important;
+      background: rgba(255, 215, 0, 0.08);
+   }
+
+   /* Mobile: barra lateral dourada + texto dourado */
+   .u-sidenav .u-nav-link.nav-active {
+      color: #FFD700 !important;
+      background: rgba(255, 215, 0, 0.06) !important;
+      border-left: 3px solid #FFD700 !important;
+   }
+   .u-sidenav .u-nav-popup .u-nav-link.nav-active {
+      color: #FFD700 !important;
+   }
+   .u-sidenav .u-nav-popup > ul > .u-nav-item > .u-nav-link.nav-active::before {
+      background: #FFD700 !important;
+   }
+   /* Pai do item ativo: destaque sutil */
+   .u-sidenav .u-nav-link.nav-active-parent {
+      color: #FFD700 !important;
+      opacity: 0.85;
+   }
+</style></head>
+
+
+<body class="u-body u-white">
+   <header class="u-align-center-xs u-clearfix u-header u-palette-1-base u-sticky u-sticky-2229 u-header" id="sec-2da0" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">
+      <div class="u-clearfix u-sheet u-sheet-1">
+         <a data-href="https://dombarreto.com/home" data-page-id="495528948" class="u-image u-logo u-image-1" data-image-width="2046" data-image-height="439" title="Instituto Dom Barreto">
+            <img src="https://dombarreto.com/portal-assets/images/logo-escola.png" style="margin-top: 20px;" class="u-logo-image u-logo-image-1">
+         </a>
+         <nav class="u-align-left u-menu u-menu-dropdown u-nav-spacing-25 u-offcanvas u-menu-1" data-responsive-from="LG">
+            <div class="menu-collapse u-custom-font" style="font-family: futura-heavy-font;">
+               <a class="u-button-style u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-nav-link u-palette-1-base" href="#" style="font-size: calc(1em + 8px); background-image: none;">
+                  <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 302 302">
+                     <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-7b92"></use>
+                  </svg>
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-7b92" x="0px" y="0px" viewBox="0 0 302 302" style="enable-background:new 0 0 302 302;" xml:space="preserve" class="u-svg-content">
+                     <g>
+                        <rect y="36" width="302" height="30"></rect>
+                        <rect y="236" width="302" height="30"></rect>
+                        <rect y="136" width="302" height="30"></rect>
+                     </g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                     <g></g>
+                  </svg>
+               </a>
+            </div>
+            <div class="u-custom-menu u-nav-container">
+               <ul class="u-custom-font u-nav u-spacing-5 u-unstyled u-nav-1">
+                  <li class="u-nav-item"><a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-grey-25 u-text-hover-palette-4-base" href="https://dombarreto.com/portal/noticia" style="padding: 10px 5px;">NOTÍCIA</a></li>
+                  <li class="u-nav-item">
+                     <a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-grey-25 u-text-hover-palette-4-base" style="padding: 10px 5px;">INSTITUCIONAL <span class=" fas fa-caret-down"></span></a>
+                     <div class="u-nav-popup">
+                        <ul class="u-h-spacing-38 u-nav u-unstyled u-v-spacing-16 u-nav-2">
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="#">Política de Privacidade</a></li>
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/portal/institucional/sobre">Sobre</a></li>
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://api-gallery.dombarreto.com/uploads/2024/02/REGIMENTO-COMPLETO.pdf">Regimento Geral</a></li>
+                        </ul>
+                     </div>
+                  </li>
+                  <li class="u-nav-item">
+                     <a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-grey-25 u-text-hover-palette-4-base" style="padding: 10px 5px;">EDUCAÇÃO <span class=" fas fa-caret-down"></span></a>
+                     <div class="u-nav-popup">
+                        <ul class="u-h-spacing-38 u-nav u-unstyled u-v-spacing-16 u-nav-3">
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/portal/ensino/infantil">Ensino Infantil</a></li>
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/portal/ensino/fundamental">Ensino Fundamental</a></li>
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/portal/ensino/medio">Ensino Médio</a></li>
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/portal/fardamentos">Fardamentos</a></li>
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://api-gallery.dombarreto.com/uploads/2024/11/PLANILHA-DE-CUSTOS-MENSALIDADES-PARA-2025.pdf"> Planilha de Custos</a></li>
+                           <li class="u-nav-item">
+                              <!-- <a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/ensino/pre_enem" >Pré-Enem</a> -->
+                              <!-- </li><li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1">Calenderio Escolar</a> -->
+                           </li>
+                        </ul>
+                     </div>
+                  </li>
+                  <li class="u-nav-item">
+                     <a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-grey-25 u-text-hover-palette-4-base" style="padding: 10px 5px;">MEMÓRIA <span class=" fas fa-caret-down"></span></a>
+                     <div class="u-nav-popup">
+                        <ul class="u-h-spacing-38 u-nav u-unstyled u-v-spacing-16 u-nav-4">
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/portal/memoria/historia">História</a></li>
+                           <!-- <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/portal/memoria/idb_77_anos">77 Anos</a></li> --> <!-- DESATIVADO -->
+                           <!-- <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1">MAPA DOS BRILHANTES</a></li> -->
+                        </ul>
+                     </div>
+                  </li>
+                  <li class="u-nav-item">
+                     <a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-grey-25 u-text-hover-palette-4-base" style="padding: 10px 5px;">SERVIÇOS <span class=" fas fa-caret-down"></span></a>
+                     <div class="u-nav-popup">
+                        <ul class="u-h-spacing-38 u-nav u-unstyled u-v-spacing-16 u-nav-5">
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://institutodom134398.rm.cloudtotvs.com.br/FrameHTML/Web/app/edu/PortalEducacional/login/" target="_blank">Portal do Aluno</a>
+                           </li>
+                           <li class="u-nav-item">
+                              <a class="u-active-white u-button-style u-grey-5 u-hover-white 
+                              u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://institutodom134398.rm.cloudtotvs.com.br/FrameHTML/Web/app/edu/PortalDoProfessor/#/login" target="_blank">Portal do Professor</a>
+                           </li>
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://www.agendaedu.com/login" target="_blank">Agenda Edu SuperApp</a>
+                           </li>
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://ouvidoria.dombarreto.com/" target="_blank">Ouvidoria Dombarretana</a></li>
+                           <!-- <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="http://163.176.175.28:58080/fortesrh/login.action"                                      target="_blank">Contracheque Online</a></li> -->
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://institutodom134398.rm.cloudtotvs.com.br/FrameHTML/Web/app/edu/PortalEducacional/login/" target="_blank">Responsável Financeiro</a></li>
+                           <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://idb-play.themembers.com.br/login" target="_blank">IDB Play</a></li>
+                           <li class="u-nav-item">
+                              <a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1">Recursos Humanos<span class=" fas fa-caret-down"></span></a>
+                              <div class="u-nav-popup">
+                                 <ul class="u-h-spacing-38 u-nav u-unstyled u-v-spacing-16 u-nav-9">
+                                    <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="http://163.176.175.28:58080/fortesrh/login.action">Contracheque Online</a></li>
+                                    <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://apps.apple.com/br/app/colabore/id1457030048">App Colabore (IOS)</a></li>
+                                    <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://play.google.com/store/apps/details?id=br.com.fortes.appcolaborador">App Colabore (Android)</a></li>
+                                    <!-- <li class="u-nav-item"><a class="u-button-style u-nav-link">MAPA DOS BRILHANTES</a></li> -->
+                                 </ul>
+                              </div>
+                           </li>
+                           <li class="u-nav-item">
+                              <a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1">Gestão de Pessoas<span class=" fas fa-caret-down"></span></a>
+                              <div class="u-nav-popup">
+                                 <ul class="u-h-spacing-38 u-nav u-unstyled u-v-spacing-16 u-nav-9">
+                                    <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/portal/gestaodepessoas">Trabalhe Conosco</a></li>
+                                    <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/portal/noticia/post/199">Manual do Colaborador</a></li>
+                                    <!-- <li class="u-nav-item"><a class="u-active-white u-button-style u-grey-5 u-hover-white u-nav-link u-text-active-custom-color-1 u-text-custom-color-1 u-text-hover-custom-color-1" href="https://dombarreto.com/memoria/idb_77_anos">Escola de Aprendizagem</a></li> -->
+                                    <!-- <li class="u-nav-item"><a class="u-button-style u-nav-link">MAPA DOS BRILHANTES</a></li> -->
+                                 </ul>
+                              </div>
+                           </li>
+                        </ul>
+                     </div>
+                  </li>
+                  <li class="u-nav-item"><a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-grey-25 u-text-hover-palette-4-base" href="https://dombarreto.com/portal/gestaodepessoas" style="padding: 10px 5px;">TRABALHE CONOSCO</a></li>
+                  <!-- <li class="u-nav-item"><a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-grey-25 u-text-hover-palette-4-base" href="https://dombarreto.com/portal/fardamentos" style="padding: 10px 5px;">FARDAMENTOS</a></li> -->
+                  <li class="u-nav-item"><a class="u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-nav-link u-text-active-grey-25 u-text-hover-palette-4-base" href="https://dombarreto.com/portal/contato" style="padding: 10px 5px;">CONTATO</a></li>
+
+                  <li class="u-nav-item">
+                     <button class="search-btn" onclick="openModal()"><span class="material-icons">search</span></button>
+                  </li>
+
+
+               </ul>
+            </div>
+
+
+            <div class="u-custom-menu u-nav-container-collapse">
+               <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav" data-offcanvas-width="320">
+                  <div class="u-inner-container-layout u-sidenav-overflow" style="background: #00264e;">
+                     <div class="u-menu-close"></div>
+                     <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-6">
+                        <li class="u-nav-item">
+                           <a class="u-button-style u-nav-link" href="https://dombarreto.com/home" style="padding: 10px 5px;">
+                              <img src="https://api-gallery.dombarreto.com/uploads/2023/09/idb.png" alt="Instituto Dom Barreto" width="90px">
+                           </a>
+                        </li>
+                        <div class="mobile-search-wrapper">
+                           <form action="https://dombarreto.com/portal/search" method="GET" class="mobile-search-form">
+                              <input type="text" name="q" placeholder="Pesquisar no site..." autocomplete="off" style="font-size:16px;">
+                              <button type="submit">
+                                 <span class="material-icons">search</span>
+                              </button>
+                           </form>
+                        </div>
+                        <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/noticia" style="padding: 10px 5px;">NOTÍCIAS</a></li>
+                        <hr>
+                        <li class="u-nav-item">
+                           <a class="u-button-style u-nav-link" style="padding: 10px 5px;">INSTITUCIONAL <span class=" fas fa-caret-down"></span></a>
+                           <div class="u-nav-popup">
+                              <ul class="u-h-spacing-38 u-nav u-unstyled u-v-spacing-16 u-nav-7">
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Política de Privacidade</a></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/institucional/sobre">Sobre</a></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://api-gallery.dombarreto.com/uploads/2024/02/REGIMENTO-COMPLETO.pdf">Regimento Geral</a></li>
+                              </ul>
+                           </div>
+                        </li>
+                        <hr>
+                        <li class="u-nav-item">
+                           <a class="u-button-style u-nav-link" style="padding: 10px 5px;">EDUCAÇÃO <span class=" fas fa-caret-down"></span></a>
+                           <div class="u-nav-popup">
+                              <ul class="u-h-spacing-38 u-nav u-unstyled u-v-spacing-16 u-nav-8">
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/ensino/infantil">Ensino Infantil</a></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/ensino/fundamental">Ensino Fundamental</a></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/ensino/medio">Ensino Médio</a></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://api-gallery.dombarreto.com/uploads/2024/11/PLANILHA-DE-CUSTOS-MENSALIDADES-PARA-2025.pdf">Planilha de Custos</a></li>
+                                 <!-- <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/ensino/pre_enem">Pré-Enem</a></li> -->
+                                 <!-- <li class="u-nav-item"><a class="u-button-style u-nav-link">Calenderio Escolar</a></li>
+                                 </ul> -->
+                           </ul></div>
+                        </li>
+                        <hr>
+                        <li class="u-nav-item">
+                           <a class="u-button-style u-nav-link" style="padding: 10px 5px;">MEMÓRIA <span class=" fas fa-caret-down"></span></a>
+                           <div class="u-nav-popup">
+                              <ul class="u-h-spacing-38 u-nav u-unstyled u-v-spacing-16 u-nav-9">
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/memoria/historia">História </a></li>
+                                 <!-- <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/memoria/idb_77_anos">77 Anos</a></li> --> <!-- DESATIVADO -->
+                                 <!-- <li class="u-nav-item"><a class="u-button-style u-nav-link">MAPA DOS BRILHANTES</a></li> -->
+                              </ul>
+                           </div>
+                        </li>
+                        <hr>
+                        <li class="u-nav-item">
+                           <a class="u-button-style u-nav-link" style="padding: 10px 5px;">SERVIÇOS <span class=" fas fa-caret-down"></span></a>
+                           <div class="u-nav-popup">
+                              <ul class="u-h-spacing-38 u-nav u-unstyled u-v-spacing-16 u-nav-10">
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://institutodom134398.rm.cloudtotvs.com.br/FrameHTML/Web/app/edu/PortalEducacional/login/" target="_blank">Portal do Aluno</a></li>
+                                 <hr>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://institutodom134398.rm.cloudtotvs.com.br/FrameHTML/Web/app/edu/PortalDoProfessor/#/login" target="_blank">Portal do Professor</a></li>
+                                 <hr>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://www.agendaedu.com/login" target="_blank">Agenda Edu</a></li>
+                                 <hr>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://ouvidoria.dombarreto.com/" target="_blank">Ouvidoria Dombarretana</a></li>
+                                 <hr>
+                                 <!-- <li class="u-nav-item"><a class="u-button-style u-nav-link" href="http://163.176.175.28:58080/fortesrh/login.action" target="_blank">Contracheque Online</a></li><hr> -->
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://institutodom134398.rm.cloudtotvs.com.br/FrameHTML/Web/app/edu/PortalEducacional/login/" target="_blank">Responsável Financeiro</a></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://idb-play.themembers.com.br/login" target="_blank">IDB Play</a></li>
+                                 <hr>
+                                 <!-- Recursos Humanos - itens diretos (sem sub-submenu) -->
+                                 <li class="u-nav-item"><span class="mobile-section-label">Recursos Humanos</span></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="http://163.176.175.28:58080/fortesrh/login.action" target="_blank">Contracheque Online</a></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://apps.apple.com/br/app/colabore/id1457030048" target="_blank">App Colabore (IOS)</a></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://play.google.com/store/apps/details?id=br.com.fortes.appcolaborador" target="_blank">App Colabore (Android)</a></li>
+                                 <hr>
+                                 <!-- Gestão de Pessoas - itens diretos (sem sub-submenu) -->
+                                 <li class="u-nav-item"><span class="mobile-section-label">Gestão de Pessoas</span></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/gestaodepessoas">Trabalhe Conosco</a></li>
+                                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/noticia/post/199">Manual do Colaborador</a></li>
+                              </ul>
+                           </div>
+                        </li>
+                        <hr>
+                        <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/gestaodepessoas" style="padding: 10px 5px;">TRABALHE CONOSCO</a></li>
+                        <hr>
+                        <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/fardamentos" style="padding: 10px 5px;">FARDAMENTOS</a></li>
+                        <hr>
+                        <li class="u-nav-item">
+                           <a class="u-button-style u-nav-link" href="https://dombarreto.com/portal/contato" style="padding: 10px 5px;">CONTATO</a>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+            </div>
+         <style class="offcanvas-style">            .u-offcanvas .u-sidenav { flex-basis: 320px !important; }            .u-offcanvas:not(.u-menu-open-right) .u-sidenav { margin-left: -320px; }            .u-offcanvas.u-menu-open-right .u-sidenav { margin-right: -320px; }            @keyframes menu-shift-left    { from { left: 0;        } to { left: 320px;  } }            @keyframes menu-unshift-left  { from { left: 320px;  } to { left: 0;        } }            @keyframes menu-shift-right   { from { right: 0;       } to { right: 320px; } }            @keyframes menu-unshift-right { from { right: 320px; } to { right: 0;       } }            </style></nav>
+      </div>
+      <div vw="" class="enabled">
+         <div vw-access-button="" class="active"></div>
+         <div vw-plugin-wrapper="">
+            <div class="vw-plugin-top-wrapper"></div>
+         </div>
+      </div>
+   </header>
+
+   <!-- Search Overlay -->
+   <div id="searchModal" class="search-overlay">
+      <button class="search-overlay-close" onclick="closeModal()" aria-label="Fechar">×</button>
+      <div class="search-overlay-inner">
+         <h2 class="search-overlay-title">Buscar no site</h2>
+         <p class="search-overlay-sub">Encontre notícias, páginas e serviços</p>
+         <form action="https://dombarreto.com/portal/search" method="GET">
+            <div class="search-overlay-bar">
+               <svg class="so-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="11" cy="11" r="8"></circle>
+                  <path d="m21 21-4.35-4.35"></path>
+               </svg>
+               <input type="text" name="q" placeholder="O que você está procurando?" required="" autocomplete="off">
+               <button type="submit" class="so-submit">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                     <circle cx="11" cy="11" r="8"></circle>
+                     <path d="m21 21-4.35-4.35"></path>
+                  </svg>
+                  <span>Buscar</span>
+               </button>
+            </div>
+         </form>
+         <div class="search-overlay-hints">
+            <span class="so-hints-label">Sugestões:</span>
+            <a href="https://dombarreto.com/portal/noticia/search?buscar=processo+seletivo">Processo Seletivo</a>
+            <a href="https://dombarreto.com/portal/ensino/medio">Ensino Médio</a>
+            <a href="https://dombarreto.com/portal/fardamentos">Fardamentos</a>
+            <a href="https://dombarreto.com/portal/gestaodepessoas">Trabalhe Conosco</a>
+         </div>
+      </div>
+   </div>
+
+   <script>
+      function openModal() {
+         var modal = document.getElementById('searchModal');
+         modal.style.display = 'flex';
+         document.body.style.overflow = 'hidden';
+         // Trigger reflow para animação
+         void modal.offsetWidth;
+         modal.classList.add('show');
+         setTimeout(function() {
+            var input = modal.querySelector('.search-overlay-bar input');
+            if (input) input.focus();
+         }, 150);
+      }
+
+      function closeModal() {
+         var modal = document.getElementById('searchModal');
+         modal.classList.remove('show');
+         document.body.style.overflow = '';
+         setTimeout(function() {
+            modal.style.display = '';
+         }, 300);
+      }
+
+      // Fechar ao clicar no fundo
+      document.addEventListener('click', function(e) {
+         var modal = document.getElementById('searchModal');
+         if (e.target === modal) closeModal();
+      });
+
+      // Fechar com ESC
+      document.addEventListener('keydown', function(e) {
+         if (e.key === 'Escape') {
+            var modal = document.getElementById('searchModal');
+            if (modal.classList.contains('show')) closeModal();
+         }
+      });
+
+      // Fix submenus mobile
+      document.addEventListener('DOMContentLoaded', function() {
+         var sidenav = document.querySelector('.u-sidenav');
+         if (!sidenav) return;
+
+         // 1) Proteger .u-nav-popup contra transitionend de elementos filhos
+         sidenav.querySelectorAll('.u-nav-popup').forEach(function(popup) {
+            ['transitionend', 'webkitTransitionEnd', 'oTransitionEnd'].forEach(function(evt) {
+               popup.addEventListener(evt, function(e) {
+                  if (e.target !== popup) {
+                     e.stopImmediatePropagation();
+                     e.stopPropagation();
+                  }
+               }, true);
+            });
+         });
+
+         // 2) Observar classe 'open' nos popups para toggle de .submenu-open no li pai
+         var observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(m) {
+               if (m.attributeName !== 'class') return;
+               var popup = m.target;
+               if (!popup.classList.contains('u-nav-popup')) return;
+               var li = popup.parentElement;
+               if (!li) return;
+               if (popup.classList.contains('open')) {
+                  li.classList.add('submenu-open');
+               } else {
+                  li.classList.remove('submenu-open');
+               }
+            });
+         });
+         sidenav.querySelectorAll('.u-nav-popup').forEach(function(popup) {
+            observer.observe(popup, {
+               attributes: true,
+               attributeFilter: ['class']
+            });
+         });
+
+         // 3) Prevenir fechamento do sidenav ao interagir com campo de busca mobile
+         var mobileSearchWrapper = document.querySelector('.mobile-search-wrapper');
+         if (mobileSearchWrapper) {
+            var mobileInput = mobileSearchWrapper.querySelector('input[type="text"]');
+
+            // Bloqueia propagação de eventos de interação (prev. de clicks acidentais)
+            ['click', 'touchstart', 'touchend', 'touchmove', 'mousedown', 'mouseup', 'pointerdown', 'pointerup'].forEach(function(evt) {
+               mobileSearchWrapper.addEventListener(evt, function(e) { e.stopPropagation(); }, true);
+            });
+
+            if (mobileInput) {
+               mobileInput.addEventListener('focus', function(e) { e.stopPropagation(); }, true);
+               mobileInput.addEventListener('blur',  function(e) { e.stopPropagation(); }, true);
+               mobileInput.addEventListener('touchend', function(e) {
+                  e.stopPropagation();
+                  e.preventDefault();
+                  this.focus();
+               }, { passive: false, capture: true });
+            }
+         }
+
+         // 4) O menu mobile deve fechar SOMENTE via botão X ou clique no overlay.
+         //    O nicepage fecha o menu em vários cenários indesejados:
+         //    - resize da janela (teclado virtual no mobile)
+         //    - ESC
+         //    - clique em link de submenu com href="#"
+         //    Solução: sobrescrever ResponsiveMenu.prototype.close e só deixar passar
+         //    quando a ação vier explicitamente do X (.u-menu-close) ou do overlay (.u-menu-overlay).
+         if (window.ResponsiveMenu) {
+            var _closeAllowed = false;
+
+            // Listener em fase de captura (roda ANTES dos handlers jQuery):
+            // marca _closeAllowed = true apenas quando a origem é X ou overlay
+            document.addEventListener('click', function(e) {
+               _closeAllowed = !!(e.target && e.target.closest &&
+                  (e.target.closest('.u-menu-close') || e.target.closest('.u-menu-overlay')));
+            }, true);
+
+            var _origClose = window.ResponsiveMenu.prototype.close;
+            window.ResponsiveMenu.prototype.close = function(menu, instantly) {
+               if (_closeAllowed) {
+                  _closeAllowed = false;
+                  _origClose.call(this, menu, instantly);
+               }
+               // else: silencia sem fechar (resize, ESC, href="#", etc.)
+            };
+         }
+
+         // 5) Indicador de navegação ativo (marca o item correspondente à rota atual)
+         (function() {
+            var currentPath = window.location.pathname;
+
+            function setActive(link) {
+               link.classList.add('nav-active');
+               // Marca o item pai (nível 1) quando um sub-item está ativo
+               var popup = link.closest('.u-nav-popup');
+               if (popup) {
+                  var parentItem = popup.closest('.u-nav-item');
+                  if (parentItem) {
+                     var parentLink = parentItem.querySelector(':scope > .u-nav-link');
+                     if (parentLink) parentLink.classList.add('nav-active-parent');
+                  }
+               }
+            }
+
+            var selectors = [
+               '.u-nav-container .u-nav-link',
+               '.u-nav-container-collapse .u-nav-link'
+            ];
+
+            document.querySelectorAll(selectors.join(',')).forEach(function(link) {
+               var href = link.getAttribute('href');
+               if (!href || href === '#' || href.indexOf('javascript') === 0) return;
+               // Ignora links que contêm apenas imagem (ex: logo no sidenav)
+               if (link.querySelector('img') && !link.textContent.trim()) return;
+               try {
+                  var url = new URL(href, window.location.href);
+                  // Ignora links externos (outro domínio)
+                  if (url.origin !== window.location.origin) return;
+                  var lp = url.pathname.replace(/\/$/, '') || '/';
+                  var cp = currentPath.replace(/\/$/, '') || '/';
+                  // Correspondência exata ou prefixo de segmento
+                  if (lp.length > 1 && (cp === lp || cp.startsWith(lp + '/'))) {
+                     setActive(link);
+                  }
+               } catch (err) {}
+            });
+         })();
+      });
+   </script><main id="spa-content"><!-- Full banner -->
+<div id="carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000">
+      <ol class="carousel-indicators">
+            <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleControls" data-slide-to="1" class=""></li>
+            <li data-target="#carouselExampleControls" data-slide-to="2" class=""></li>
+         </ol>
+   <div class="carousel-inner">
+            <div class="carousel-item active">
+         <a href="https://dombarreto.com/portal/processoseletivo">
+            <img class="d-block w-100" src="https://api-gallery.dombarreto.com/uploads/2026/09/image/20260914173628_6aa8309c0704d.png" alt="Processo Seletivo 2027" title="Processo Seletivo 2027">
+         </a>
+      </div>
+            <div class="carousel-item ">
+         <a href="https://denuncias.dombarreto.com/">
+            <img class="d-block w-100" src="https://api-gallery.dombarreto.com/uploads/2025/10/den.jpeg" alt="Ambiente seguro para relatar condutas contrárias aos nossos valores." title="Ambiente seguro para relatar condutas contrárias aos nossos valores." loading="lazy">
+         </a>
+      </div>
+            <div class="carousel-item ">
+         <a href="https://dombarreto.com/portal/noticia/post/592">
+            <img class="d-block w-100" src="https://api-gallery.dombarreto.com/uploads/2026/06/image/20260623140117_6a3a91ada98c9.jpeg" alt="Instituto Dom Barreto é 1º lugar do Brasil no ENEM 2025 entre as escolas de grande porte" title="Instituto Dom Barreto é 1º lugar do Brasil no ENEM 2025 entre as escolas de grande porte" loading="lazy">
+         </a>
+      </div>
+         </div>
+   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+   </a>
+   <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+   </a>
+   </div>
+<!-- ultimos postes -->
+<section class="u-clearfix u-section-2" id="sec-48b1">
+   <div class="u-clearfix u-sheet u-sheet-1">
+      <h3 class="noticias-title">Últimas notícias</h3>
+            <div class="news-grid" data-cols="3">
+                  <article class="news-card">
+            <a href="https://dombarreto.com/noticia/post/628" class="news-card-link">
+               <div class="news-card-image">
+                  <img src="https://api-gallery.dombarreto.com/uploads/2026/09/image/20260928174849_6abaa88145e4b.jpeg" alt="OBICT 2026 divulga resultado do Nível 1 com 18 estudantes do IDB premiados" loading="lazy">
+               </div>
+               <div class="news-card-content">
+                  <time class="news-card-date">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                     </svg>
+                     28/09/2026 às 14:47                  </time>
+                  <h2 class="news-card-title">OBICT 2026 divulga resultado do Nível 1 com 18 estudantes do IDB premiados</h2>
+               </div>
+            </a>
+         </article>
+                  <article class="news-card">
+            <a href="https://dombarreto.com/noticia/post/627" class="news-card-link">
+               <div class="news-card-image">
+                  <img src="https://api-gallery.dombarreto.com/uploads/2026/09/image/20260925150542_6ab68dc629d9c.png" alt="Instituto Dom Barreto amplia estrutura e investe em melhorias nas unidades Centro e Leste" loading="lazy">
+               </div>
+               <div class="news-card-content">
+                  <time class="news-card-date">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                     </svg>
+                     25/09/2026 às 12:05                  </time>
+                  <h2 class="news-card-title">Instituto Dom Barreto amplia estrutura e investe em melhorias nas unidades Centro e Leste</h2>
+               </div>
+            </a>
+         </article>
+                  <article class="news-card">
+            <a href="https://dombarreto.com/noticia/post/626" class="news-card-link">
+               <div class="news-card-image">
+                  <img src="https://api-gallery.dombarreto.com/uploads/2026/09/image/20260921173600_6ab16b0045955.webp" alt="Estudar fora: IDB reúne universidades, bolsas e orientações para alunos durante International University Week" loading="lazy">
+               </div>
+               <div class="news-card-content">
+                  <time class="news-card-date">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                     </svg>
+                     21/09/2026 às 14:36                  </time>
+                  <h2 class="news-card-title">Estudar fora: IDB reúne universidades, bolsas e orientações para alunos durante International University Week</h2>
+               </div>
+            </a>
+         </article>
+               </div>
+      <div style="text-align: center; margin-top: 30px;">
+         <a href="https://dombarreto.com/noticia" class="u-active-palette-1-base u-border-none u-btn u-button-style u-hover-custom-color-4 u-radius-10 u-text-active-custom-color-4 u-text-hover-custom-color-1 u-text-white u-btn-3">VER TODAS AS NOTÍCIAS</a>
+      </div>
+         </div>
+</section>
+<!-- Ensinos  -->
+<section class="u-clearfix u-gradient u-section-3" id="sec-5172">
+   <div class="ensinos-container">
+      <h1 class="u-text u-title u-text-1 ensinos-title">Ensinos</h1>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px;">
+         <!-- Educação Infantil -->
+         <div class="u-align-center-xl u-container-style u-grey-5 u-list-item u-repeater-item" data-href="https://dombarreto.com/ensino/infantil" style="cursor: pointer; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px; padding: 30px 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 15px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)';">
+            <div class="u-container-layout u-similar-container" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+               <img alt="Educação Infantil" class="u-image u-image-contain u-image-default u-preserve-proportions backstage animated" data-image-width="600" data-image-height="501" src="https://dombarreto.com/portal-assets/images/ensinos/ensino-infantil/infantil-home.png" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" loading="lazy" width="216" height="180" style="height: 180px; width: auto; object-fit: contain; margin: 0px auto 20px; will-change: transform, opacity; animation-duration: 1000ms;">
+               <a href="https://dombarreto.com/ensino/infantil" class="u-border-none u-btn u-button-style u-hover-palette-3-base u-palette-1-base" style="font-size: 16px; font-weight: 600; padding: 12px 30px; border-radius: 25px; text-transform: uppercase; display: inline-block; align-self: center;">
+                  Infantil
+               </a>
+            </div>
+         </div>
+         
+         <!-- Ensino Fundamental -->
+         <div class="u-align-center-xl u-container-style u-grey-10 u-list-item u-repeater-item" data-href="https://dombarreto.com/ensino/fundamental" style="cursor: pointer; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px; padding: 30px 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 15px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)';">
+            <div class="u-container-layout u-similar-container" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+               <img alt="Ensino Fundamental" class="u-image u-image-contain u-image-default u-preserve-proportions backstage animated" data-image-width="999" data-image-height="651" src="https://dombarreto.com/portal-assets/images/ensinos/ensino-fundamental/fundamental.png" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" loading="lazy" width="276" height="180" style="height: 180px; width: auto; object-fit: contain; margin: 0px auto 20px; will-change: transform, opacity; animation-duration: 1000ms;">
+               <a href="https://dombarreto.com/ensino/fundamental" class="u-border-none u-btn u-button-style u-hover-palette-3-base u-palette-1-base" style="font-size: 16px; font-weight: 600; padding: 12px 30px; border-radius: 25px; text-transform: uppercase; display: inline-block; align-self: center;">
+                  Ensino Fundamental
+               </a>
+            </div>
+         </div>
+         
+         <!-- Ensino Médio -->
+         <div class="u-align-center-xl u-container-style u-grey-15 u-list-item u-repeater-item" data-href="https://dombarreto.com/ensino/medio" style="cursor: pointer; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px; padding: 30px 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 15px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)';">
+            <div class="u-container-layout u-similar-container" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+               <img alt="Ensino Médio" class="u-image u-image-contain u-image-default u-preserve-proportions backstage animated" data-image-width="999" data-image-height="649" src="https://dombarreto.com/portal-assets/images/ensinos/ensino-medio/ensinomedio.png" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-delay="0" loading="lazy" width="277" height="180" style="height: 180px; width: auto; object-fit: contain; margin: 0px auto 20px; will-change: transform, opacity; animation-duration: 1000ms;">
+               <a href="https://dombarreto.com/ensino/medio" class="u-border-none u-btn u-button-style u-hover-palette-3-base u-palette-1-base" style="font-size: 16px; font-weight: 600; padding: 12px 30px; border-radius: 25px; text-transform: uppercase; display: inline-block; align-self: center;">
+                  Ensino Médio
+               </a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- serviços -->
+<section class="services-section" id="servicos">
+    <div class="services-container">
+        <h3 class="services-title">Serviços</h3>
+        <div class="services-grid">
+                        <a href="https://institutodom134398.rm.cloudtotvs.com.br/FrameHTML/Web//app/edu/PortalEducacional" class="service-link" target="_blank" rel="noopener">
+                <div class="service-card">
+                    <div class="service-icon-wrapper">
+                        <div class="service-icon-bg"></div>
+                                                <img class="service-icon" src="https://api-gallery.dombarreto.com/uploads/2026/09/image/20260930190657_6abd5dd14ca44.png" alt="Portal do aluno" title="Portal do aluno">
+                                            </div>
+                    <h3 class="service-title">PORTAL DO&nbsp;<br>ALUNO</h3>
+                                            <p class="service-description">Portal do aluno</p>
+                                    </div>
+            </a>
+                        <a href="https://institutodom134398.rm.cloudtotvs.com.br/corpore.net/login.aspx" class="service-link" target="_blank" rel="noopener">
+                <div class="service-card">
+                    <div class="service-icon-wrapper">
+                        <div class="service-icon-bg"></div>
+                                                <img class="service-icon" src="https://api-gallery.dombarreto.com/uploads/2026/09/image/20260930190657_6abd5dd170be4.png" alt="Portal do professor" title="Portal do professor">
+                                            </div>
+                    <h3 class="service-title">PORTAL DO&nbsp;<br>PROFESSOR</h3>
+                                            <p class="service-description">Portal do professor</p>
+                                    </div>
+            </a>
+                        <a href="https://www.agendaedu.com/" class="service-link" target="_blank" rel="noopener">
+                <div class="service-card">
+                    <div class="service-icon-wrapper">
+                        <div class="service-icon-bg"></div>
+                                                <img class="service-icon" src="https://dombarreto.com/portal-assets/images/serv-icon/cco.png" alt="Agenda EDU" title="Agenda EDU">
+                                            </div>
+                    <h3 class="service-title">AGENDA EDU</h3>
+                                            <p class="service-description">Agenda EDU</p>
+                                    </div>
+            </a>
+                        <a href="https://denuncias.dombarreto.com/" class="service-link" target="_blank" rel="noopener">
+                <div class="service-card">
+                    <div class="service-icon-wrapper">
+                        <div class="service-icon-bg"></div>
+                                                <img class="service-icon" src="https://api-gallery.dombarreto.com/uploads/2026/09/image/20260930190656_6abd5dd0cdc9c.png" alt="Denúncias, manifestações, elogios e orientações aos trabalhadores" title="Denúncias, manifestações, elogios e orientações aos trabalhadores">
+                                            </div>
+                    <h3 class="service-title">CANAL DE INTEGRIDADE</h3>
+                                            <p class="service-description">Denúncias, manifestações, elogios e orientações aos trabalhadores</p>
+                                    </div>
+            </a>
+                        <a href="https://mail.google.com/a/dombarreto.g12.br" class="service-link" target="_blank" rel="noopener">
+                <div class="service-card">
+                    <div class="service-icon-wrapper">
+                        <div class="service-icon-bg"></div>
+                                                <img class="service-icon" src="https://api-gallery.dombarreto.com/uploads/2026/09/image/20260930190657_6abd5dd1dffae.png" alt="WEBMAIL" title="WEBMAIL">
+                                            </div>
+                    <h3 class="service-title">WEBMAIL</h3>
+                                            <p class="service-description">WEBMAIL</p>
+                                    </div>
+            </a>
+                        <a href="http://163.176.175.28:58080/fortesrh/login.action" class="service-link" target="_blank" rel="noopener">
+                <div class="service-card">
+                    <div class="service-icon-wrapper">
+                        <div class="service-icon-bg"></div>
+                                                <img class="service-icon" src="https://api-gallery.dombarreto.com/uploads/2026/09/image/20260930190657_6abd5dd104e90.png" alt="CONTRACHEQUE ONLINE" title="CONTRACHEQUE ONLINE">
+                                            </div>
+                    <h3 class="service-title">CONTRACHEQUE<br>ONLINE</h3>
+                                            <p class="service-description">CONTRACHEQUE ONLINE</p>
+                                    </div>
+            </a>
+                    </div>
+    </div>
+</section>
+    <div class="conteiner-media">
+          <a href="https://www.youtube.com/channel/UCN6LY1nndz4jcvQt3hXJVkA/videos" target="_blank" rel="noopener noreferrer" data-title="Canal no YouTube">
+        <img src="https://dombarreto.com/portal-assets/images/media-icon/youtube.png" class="conteiner-media-img img" title="Canal no YouTube" alt="Canal no YouTube">
+      </a>
+          <a href="https://www.instagram.com/institutodombarreto_oficial/" target="_blank" rel="noopener noreferrer" data-title="Instagram do Instituto Dom Barreto">
+        <img src="https://dombarreto.com/portal-assets/images/media-icon/instagram.png" class="conteiner-media-img img" title="Instagram do Instituto Dom Barreto" alt="Instagram do Instituto Dom Barreto">
+      </a>
+          <a href="https://play.google.com/store/apps/details?id=com.agendakidsdigital.app" target="_blank" rel="noopener noreferrer" data-title="App Agenda Edu - Play Store (Android)">
+        <img src="https://dombarreto.com/portal-assets/images/media-icon/play-store.png" class="conteiner-media-img img" title="App Agenda Edu - Play Store (Android)" alt="App Agenda Edu - Play Store (Android)">
+      </a>
+          <a href="https://apps.apple.com/br/app/fam%C3%ADliaidb/id1116498201" target="_blank" rel="noopener noreferrer" data-title="App Agenda Edu - App Store (IOS)">
+        <img src="https://dombarreto.com/portal-assets/images/media-icon/app-store.png" class="conteiner-media-img img" title="App Agenda Edu - App Store (IOS)" alt="App Agenda Edu - App Store (IOS)">
+      </a>
+          <a href="http://wa.me/558694241842" target="_blank" rel="noopener noreferrer" data-title="WhatsApp">
+        <img src="https://dombarreto.com/portal-assets/images/media-icon/whatsapp.png" class="conteiner-media-img img" title="WhatsApp" alt="WhatsApp">
+      </a>
+       
+    </div>
+  	<section class="contacts-section" id="unidades">
+		<div class="contacts-container">
+			<h3 class="contacts-title">Unidades</h3>
+			<div class="contacts-grid">
+									<div class="contact-item">
+						<h2 class="contact-name">IDB CENTRO</h2>
+						<div class="contact-details">
+															<p class="contact-line">
+									<span class="contact-label">Endereço:</span>
+									Rua Gabriel Ferreira, 691, Centro																			<br>CEP: 64000-250																												 - Teresina - PI																	</p>
+							
+															<p class="contact-line">
+									<span class="contact-label">CNPJ:</span>
+									07.250.103/0001-59								</p>
+							
+															<p class="contact-line">
+									<span class="contact-label">Tel:</span>
+																		<a href="tel:8632288800" class="contact-link">
+										(86) 3228-8800									</a>
+								</p>
+							
+															<p class="contact-line">
+									<span class="contact-label">WhatsApp:</span>
+																		<a href="https://wa.me/5586994241842" class="contact-link" target="_blank" rel="noopener noreferrer">
+										(86) 99424-1842									</a>
+								</p>
+							
+															<p class="contact-line">
+									<span class="contact-label">Email:</span>
+									<a href="mailto:idb@dombarreto.g12.br" class="contact-link">
+										idb@dombarreto.g12.br									</a>
+								</p>
+													</div>
+					</div>
+									<div class="contact-item">
+						<h2 class="contact-name">IDB LESTE</h2>
+						<div class="contact-details">
+															<p class="contact-line">
+									<span class="contact-label">Endereço:</span>
+									Rua Senador Cândido Ferraz, 2015, São Cristóvão																			<br>CEP: 64051-130																												 - Teresina - PI																	</p>
+							
+															<p class="contact-line">
+									<span class="contact-label">CNPJ:</span>
+									07.250.103/0004-00								</p>
+							
+															<p class="contact-line">
+									<span class="contact-label">Tel:</span>
+																		<a href="tel:86994058481" class="contact-link">
+										(86) 99405-8481									</a>
+								</p>
+							
+															<p class="contact-line">
+									<span class="contact-label">WhatsApp:</span>
+																		<a href="https://wa.me/5586994241842" class="contact-link" target="_blank" rel="noopener noreferrer">
+										(86) 99424-1842									</a>
+								</p>
+							
+															<p class="contact-line">
+									<span class="contact-label">Email:</span>
+									<a href="mailto:idbleste@dombarreto.g12.br" class="contact-link">
+										idbleste@dombarreto.g12.br									</a>
+								</p>
+													</div>
+					</div>
+									<div class="contact-item">
+						<h2 class="contact-name">MADRE MARIA VILLAC</h2>
+						<div class="contact-details">
+															<p class="contact-line">
+									<span class="contact-label">Endereço:</span>
+									Rua Santa Teresinha, 4481, Satélite																			<br>CEP: 64059-140																												 - Teresina - PI																	</p>
+							
+															<p class="contact-line">
+									<span class="contact-label">CNPJ:</span>
+									07.250.103/0002-30								</p>
+							
+															<p class="contact-line">
+									<span class="contact-label">Tel:</span>
+																		<a href="tel:86994241863" class="contact-link">
+										(86) 99424-1863									</a>
+								</p>
+							
+							
+															<p class="contact-line">
+									<span class="contact-label">Email:</span>
+									<a href="mailto:mmv@dombarreto.g12.br" class="contact-link">
+										mmv@dombarreto.g12.br									</a>
+								</p>
+													</div>
+					</div>
+							</div>
+		</div>
+	</section>
+</main>
+<footer class="u-align-center u-clearfix u-custom-color-1 u-footer u-footer" id="sec-a2f6">
+	<div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+		<p class="u-small-text u-text u-text-variant u-text-1"> Copyright © <span id="ano">2026</span> <a class="u-active-none u-border-none u-btn u-button-style u-hover-none u-link u-none u-text-palette-1-light-3 u-btn-1" href="https://dombarreto.com/home" target="_blank">Instituto Dom Barreto.</a>&nbsp;Todos os direitos reservados.
+		</p>
+	</div>
+</footer>	<!-- jQuery Core (carregar primeiro com defer para não bloquear) -->
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" defer=""></script>
+	
+	<!-- Correção para links com hash no href que causam erro no jQuery -->
+	<script>
+		(function() {
+			// Aguardar jQuery carregar
+			var checkJQuery = setInterval(function() {
+				if (window.jQuery) {
+					clearInterval(checkJQuery);
+					
+					(function($) {
+						// Sobrescrever o seletor jQuery principal para tratar erros
+						var originalJQuery = window.jQuery;
+						window.jQuery = window.$ = function(selector, context) {
+							// Se for string e começar com #/, ignorar (link externo com hash route)
+							if (typeof selector === 'string' && selector.indexOf('#/') === 0) {
+								return $([]);  // Retornar jQuery vazio
+							}
+							
+							try {
+								return originalJQuery(selector, context);
+							} catch (e) {
+								console.warn('jQuery selector error ignored:', selector, e.message);
+								return $([]);  // Retornar jQuery vazio em caso de erro
+							}
+						};
+						
+						// Copiar todas as propriedades do jQuery original
+						for (var prop in originalJQuery) {
+							if (originalJQuery.hasOwnProperty(prop)) {
+								window.jQuery[prop] = originalJQuery[prop];
+							}
+						}
+						
+						// Garantir que fn aponta para o prototype correto
+						window.jQuery.fn = window.jQuery.prototype = originalJQuery.fn;
+						window.$.fn = window.$.prototype = originalJQuery.fn;
+						
+						// Sobrescrever método find também
+						var originalFind = $.fn.find;
+						$.fn.find = function(selector) {
+							if (typeof selector === 'string' && selector.indexOf('#/') === 0) {
+								return $([]);
+							}
+							try {
+								return originalFind.call(this, selector);
+							} catch (e) {
+								console.warn('jQuery find error ignored:', selector, e.message);
+								return $([]);
+							}
+						};
+					})(jQuery);
+				}
+			}, 10);
+		})();
+	</script>
+	
+	<!-- Bootstrap JS (precisa do jQuery) -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js" defer=""></script>
+	
+	<!-- Inicializar carousel manualmente -->
+	<script>
+		document.addEventListener('DOMContentLoaded', function() {
+			setTimeout(function() {
+				if (typeof jQuery !== 'undefined' && jQuery.fn.carousel) {
+					$('#carouselExampleControls').carousel({
+						interval: 5000,
+						ride: 'carousel',
+						pause: 'hover'
+					});
+					if ($('#carouselExampleControls .carousel-item').length > 0) console.log('Carousel inicializado com ' + $('#carouselExampleControls .carousel-item').length + ' items');
+				}
+			}, 500);
+		});
+	</script>
+	
+	<!-- DataTables (precisa do jQuery) - carregar apenas se necessário -->
+	<script class="u-script" type="text/javascript" src="https://dombarreto.com/portal-assets/js/src/js/jquery.dataTables.js" defer=""></script>
+	<script class="u-script" type="text/javascript" src="https://dombarreto.com/portal-assets/js/src/js/dataTables.bootstrap.min.js" defer=""></script>
+	
+	<!-- Outros scripts do portal -->
+	<script class="u-script" type="text/javascript" src="https://dombarreto.com/portal-assets/js/nicepage.js" defer=""></script>
+	<!-- loader.js desabilitado (overlay removido)
+<script class="u-script" type="text/javascript" src="https://dombarreto.com/portal-assets/js/loader.js" defer></script>
+-->
+	<script class="u-script" type="text/javascript" src="https://dombarreto.com/portal-assets/js/main.js" defer=""></script>
+	
+
+    <script defer="">
+		window.addEventListener('DOMContentLoaded', function() {
+			const ano = document.getElementById("ano");
+			if (ano) {
+				const anoAtual = new Date();
+				ano.innerHTML = anoAtual.getFullYear();
+			}
+		});
+    </script>
+    
+    <!-- Vlibras Integrando a uma Página Web -->
+	<script src="https://vlibras.gov.br/app/vlibras-plugin.js" defer=""></script>
+	<script defer="">
+		window.addEventListener('DOMContentLoaded', function() {
+			new window.VLibras.Widget('https://vlibras.gov.br/app');
+		});
+	</script>
+  
+  <!-- fim -->
+    
+
+	
+
+	<!-- SPA Navigation -->
+
+
+
+
+<div id="vlibras-access-wrapper"></div></body></html>

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://taiwan-rotary.org/vendor/bin/offfffiv/",
+  "hostname": "taiwan-rotary.org",
+  "checked_at": "2026-10-04T15:48:03.796980+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019ffa98-ac43-73e8-b6b9-b15d2e7d7957",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-13T10:09:08.293Z",
+  "scan_original_url": "http://taiwan-rotary.org/",
+  "final_url": "https://taiwan-rotary.org/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1907,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.717,
+  "discovery": {
+    "batch_id": "84c7016cf4e38e2375a3a0e5e55827365fa07b9b7ed8d857827095527c8f4962",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

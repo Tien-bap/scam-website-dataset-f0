@@ -1,0 +1,27 @@
+{
+  "original_url": "https://mobile.sieu-thi-tien.com",
+  "hostname": "mobile.sieu-thi-tien.com",
+  "checked_at": "2026-10-04T13:34:15.064413+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b0db-8c1e-763b-8dde-38d4596d95f5",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-09-17T19:33:00.748Z",
+  "scan_original_url": "http://mobile.sieu-thi-tien.com/",
+  "final_url": "https://mobile.sieu-thi-tien.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1751,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.931,
+  "discovery": {
+    "batch_id": "6346688cd9394e570d09b97f0a444e2654b2925b45735134fdb2825abec9fbbe",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

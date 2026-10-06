@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_c344d91160ab826088a8336e0deae187af7b440532e4d88c39db22f03212ff9a",
+  "candidate_sha256": "914dee212a5322e9e3799ed44b88db888d31862cfa6675f4736d4e89ceb58ff4",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://vietjet.asia",
+  "requested_url": "https://vietjet.asia",
+  "browser_final_url": "https://vietjet.asia/",
+  "source_urls": [
+    "https://vietjet.asia"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11607,
+      "source_url": "https://vietjet.asia",
+      "source_hostname": "vietjet.asia",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://vietjet.asia",
+      "final_hostname": "vietjet.asia",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 622,
+      "checked_at": "2026-10-05T12:41:47.632094+00:00",
+      "error": null,
+      "normalized_source_url": "https://vietjet.asia/",
+      "normalized_final_url": "https://vietjet.asia/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_c344d91160ab826088a8336e0deae187af7b440532e4d88c39db22f03212ff9a",
+    "representative_source_index": 11607,
+    "representative_source_url": "https://vietjet.asia",
+    "representative_final_url": "https://vietjet.asia",
+    "normalized_final_url": "https://vietjet.asia/",
+    "source_hostname": "vietjet.asia",
+    "final_hostname": "vietjet.asia",
+    "source_urls": [
+      "https://vietjet.asia"
+    ],
+    "provenance": [
+      {
+        "source_index": 11607,
+        "source_url": "https://vietjet.asia",
+        "source_hostname": "vietjet.asia",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://vietjet.asia",
+        "final_hostname": "vietjet.asia",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 622,
+        "checked_at": "2026-10-05T12:41:47.632094+00:00",
+        "error": null,
+        "normalized_source_url": "https://vietjet.asia/",
+        "normalized_final_url": "https://vietjet.asia/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Vietjet Asia - Vé máy bay giá rẻ khuyến mãi nội địa và quốc tế, phục vụ 24/7 (không nghỉ)",
+  "capture_timestamp": "2026-10-05T14:54:55.264278+00:00",
+  "dom_chars": 125497,
+  "screenshot_bytes": 613769,
+  "dom_sha256": "ee217fb15b8585c94e4d123b43651c24e616d47832fec642a3f0695cd128d12f",
+  "screenshot_sha256": "923e4cb906ac2004349b668738513d22707bc21cc0b005f30f00b3b2d00c4813",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://vietjet.asia/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://vietjet.asia",
+    "browser_final_url": "https://vietjet.asia/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 3,
+  "downloaded_files": 0,
+  "elapsed_ms": 3386
+}

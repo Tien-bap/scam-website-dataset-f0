@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_25ba9edf9b08d123a5e9fae1bf6a3cc87d377a30f129475315045e08e6c5ec97",
+  "candidate_sha256": "2870fada85f63911a94e939ba555106ed6c0542e0ed46deae0b6c89420bf2301",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://chanle79.me",
+  "requested_url": "https://saberdealcohol.org.mx/",
+  "browser_final_url": "https://saberdealcohol.org.mx/",
+  "source_urls": [
+    "https://chanle79.me"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 3016,
+      "source_url": "https://chanle79.me",
+      "source_hostname": "chanle79.me",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://saberdealcohol.org.mx/",
+      "final_hostname": "saberdealcohol.org.mx",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1431,
+      "checked_at": "2026-10-05T12:40:48.055018+00:00",
+      "error": null,
+      "normalized_source_url": "https://chanle79.me/",
+      "normalized_final_url": "https://saberdealcohol.org.mx/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_25ba9edf9b08d123a5e9fae1bf6a3cc87d377a30f129475315045e08e6c5ec97",
+    "representative_source_index": 3016,
+    "representative_source_url": "https://chanle79.me",
+    "representative_final_url": "https://saberdealcohol.org.mx/",
+    "normalized_final_url": "https://saberdealcohol.org.mx/",
+    "source_hostname": "chanle79.me",
+    "final_hostname": "saberdealcohol.org.mx",
+    "source_urls": [
+      "https://chanle79.me"
+    ],
+    "provenance": [
+      {
+        "source_index": 3016,
+        "source_url": "https://chanle79.me",
+        "source_hostname": "chanle79.me",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://saberdealcohol.org.mx/",
+        "final_hostname": "saberdealcohol.org.mx",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1431,
+        "checked_at": "2026-10-05T12:40:48.055018+00:00",
+        "error": null,
+        "normalized_source_url": "https://chanle79.me/",
+        "normalized_final_url": "https://saberdealcohol.org.mx/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "88JBET - Link Tải App 88JBET COM Chính Chủ Chính Thức T8/2026",
+  "capture_timestamp": "2026-10-05T14:37:41.104146+00:00",
+  "dom_chars": 100120,
+  "screenshot_bytes": 826281,
+  "dom_sha256": "d909e34028b996df87ba1a996053b99a7015cfb81636baa6b5e3b388353a2826",
+  "screenshot_sha256": "c101deab80b8b0953a531c7ccd6c9de40bc62c227754df34c0d7f9bdd560c834",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://saberdealcohol.org.mx/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://saberdealcohol.org.mx/",
+    "browser_final_url": "https://saberdealcohol.org.mx/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 6732
+}

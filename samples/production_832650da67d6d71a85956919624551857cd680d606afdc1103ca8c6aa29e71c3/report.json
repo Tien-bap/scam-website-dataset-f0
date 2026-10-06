@@ -1,0 +1,21 @@
+{
+  "original_url": "zkjvk.com",
+  "hostname": "zkjvk.com",
+  "checked_at": "2026-10-04T10:34:18.124197+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "0195836f-1583-7886-8029-dce51e497a90",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-11T04:20:56.887Z",
+  "scan_original_url": "http://zkjvk.com/",
+  "final_url": "https://zkjvk.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 177,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.025
+}

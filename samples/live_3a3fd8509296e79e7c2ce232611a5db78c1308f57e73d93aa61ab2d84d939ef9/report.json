@@ -1,0 +1,1165 @@
+{
+  "candidate_id": "live_3a3fd8509296e79e7c2ce232611a5db78c1308f57e73d93aa61ab2d84d939ef9",
+  "candidate_sha256": "36a2b596c001e4d22e32d1202ec2431d0ab0ff8dfcb6c7b73807a8d04efb6464",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xTTdvNnMwQTRx",
+  "requested_url": "https://fixapc.net/",
+  "browser_final_url": "https://fixapc.net/",
+  "source_urls": [
+    "http://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xajBKNng1cjJ1MG83Yw==",
+    "https://psnri.com/P2Y9RmJTdG9yZSZpPTEyMmswVTFlN3IxSzZz",
+    "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01RDVuMEU2RDdkN1g",
+    "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01UjFv0DUyYjdUMm4=",
+    "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01eDZPMlowWjdiNDA=",
+    "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT03VzdiOHQ0UDUzNHg=",
+    "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT04ZTBmOEIzOTZVNk0",
+    "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT05OTV2OHUzeTNwMlE=",
+    "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xRjBjNjE1VDI0MFk3bA==",
+    "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xTTdvNnMwQTRx",
+    "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xVzdONFYyUTh6NVM=",
+    "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMnaT0xVzdONFYyUTh6NVM=",
+    "https://psnri.com/P2Y9TGlrZUFsbCZsPWUmaT04WjRvMVgxejl1NVY=",
+    "https://psnri.com/P2Y9U25hcDImaT04aDNaN2w2ZDhHNjk=",
+    "https://psnri.com/P2Y9am9iJmw9YSZpPTRENFM1TDN1OVg0ZQ==",
+    "https://psnri.com/P2Y9cHJpdjgmbD1lJmk9OEszSDRKMWQ0UDV4"
+  ],
+  "source_count": 16,
+  "provenance": [
+    {
+      "source_index": 39308,
+      "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xTTdvNnMwQTRx",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 5669,
+      "checked_at": "2026-10-05T12:49:02.915883+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xTTdvNnMwQTRx",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 39783,
+      "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01UjFv0DUyYjdUMm4=",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4808,
+      "checked_at": "2026-10-05T13:13:56.395282+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01UjFv0DUyYjdUMm4=",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 51762,
+      "source_url": "https://psnri.com/P2Y9TGlrZUFsbCZsPWUmaT04WjRvMVgxejl1NVY=",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4564,
+      "checked_at": "2026-10-05T13:17:29.309851+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9TGlrZUFsbCZsPWUmaT04WjRvMVgxejl1NVY=",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 51882,
+      "source_url": "https://psnri.com/P2Y9U25hcDImaT04aDNaN2w2ZDhHNjk=",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4136,
+      "checked_at": "2026-10-05T13:18:07.290097+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9U25hcDImaT04aDNaN2w2ZDhHNjk=",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 52138,
+      "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT04ZTBmOEIzOTZVNk0",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1455,
+      "checked_at": "2026-10-05T13:18:18.279616+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT04ZTBmOEIzOTZVNk0",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 52809,
+      "source_url": "https://psnri.com/P2Y9cHJpdjgmbD1lJmk9OEszSDRKMWQ0UDV4",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1932,
+      "checked_at": "2026-10-05T13:18:23.497839+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9cHJpdjgmbD1lJmk9OEszSDRKMWQ0UDV4",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 74287,
+      "source_url": "https://psnri.com/P2Y9am9iJmw9YSZpPTRENFM1TDN1OVg0ZQ==",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1913,
+      "checked_at": "2026-10-05T13:18:26.886175+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9am9iJmw9YSZpPTRENFM1TDN1OVg0ZQ==",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 105835,
+      "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT03VzdiOHQ0UDUzNHg=",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1036,
+      "checked_at": "2026-10-05T13:18:29.466399+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT03VzdiOHQ0UDUzNHg=",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 105942,
+      "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01eDZPMlowWjdiNDA=",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2023,
+      "checked_at": "2026-10-05T13:18:31.342227+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01eDZPMlowWjdiNDA=",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 106086,
+      "source_url": "https://psnri.com/P2Y9RmJTdG9yZSZpPTEyMmswVTFlN3IxSzZz",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1154,
+      "checked_at": "2026-10-05T13:18:32.997239+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9RmJTdG9yZSZpPTEyMmswVTFlN3IxSzZz",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 106115,
+      "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01RDVuMEU2RDdkN1g",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1121,
+      "checked_at": "2026-10-05T13:18:34.303067+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01RDVuMEU2RDdkN1g",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 108616,
+      "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT05OTV2OHUzeTNwMlE=",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1041,
+      "checked_at": "2026-10-05T13:18:35.352661+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT05OTV2OHUzeTNwMlE=",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 108666,
+      "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xRjBjNjE1VDI0MFk3bA==",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1601,
+      "checked_at": "2026-10-05T13:18:36.225599+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xRjBjNjE1VDI0MFk3bA==",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 120110,
+      "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMnaT0xVzdONFYyUTh6NVM=",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 996,
+      "checked_at": "2026-10-05T13:18:36.931565+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMnaT0xVzdONFYyUTh6NVM=",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 121950,
+      "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xVzdONFYyUTh6NVM=",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1014,
+      "checked_at": "2026-10-05T13:18:38.022183+00:00",
+      "error": null,
+      "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xVzdONFYyUTh6NVM=",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 122214,
+      "source_url": "http://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xajBKNng1cjJ1MG83Yw==",
+      "source_hostname": "psnri.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fixapc.net/",
+      "final_hostname": "fixapc.net",
+      "redirect_count": 3,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3235,
+      "checked_at": "2026-10-05T13:18:38.542214+00:00",
+      "error": null,
+      "normalized_source_url": "http://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xajBKNng1cjJ1MG83Yw==",
+      "normalized_final_url": "https://fixapc.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_3a3fd8509296e79e7c2ce232611a5db78c1308f57e73d93aa61ab2d84d939ef9",
+    "representative_source_index": 39308,
+    "representative_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xTTdvNnMwQTRx",
+    "representative_final_url": "https://fixapc.net/",
+    "normalized_final_url": "https://fixapc.net/",
+    "source_hostname": "psnri.com",
+    "final_hostname": "fixapc.net",
+    "source_urls": [
+      "http://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xajBKNng1cjJ1MG83Yw==",
+      "https://psnri.com/P2Y9RmJTdG9yZSZpPTEyMmswVTFlN3IxSzZz",
+      "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01RDVuMEU2RDdkN1g",
+      "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01UjFv0DUyYjdUMm4=",
+      "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01eDZPMlowWjdiNDA=",
+      "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT03VzdiOHQ0UDUzNHg=",
+      "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT04ZTBmOEIzOTZVNk0",
+      "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT05OTV2OHUzeTNwMlE=",
+      "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xRjBjNjE1VDI0MFk3bA==",
+      "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xTTdvNnMwQTRx",
+      "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xVzdONFYyUTh6NVM=",
+      "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMnaT0xVzdONFYyUTh6NVM=",
+      "https://psnri.com/P2Y9TGlrZUFsbCZsPWUmaT04WjRvMVgxejl1NVY=",
+      "https://psnri.com/P2Y9U25hcDImaT04aDNaN2w2ZDhHNjk=",
+      "https://psnri.com/P2Y9am9iJmw9YSZpPTRENFM1TDN1OVg0ZQ==",
+      "https://psnri.com/P2Y9cHJpdjgmbD1lJmk9OEszSDRKMWQ0UDV4"
+    ],
+    "provenance": [
+      {
+        "source_index": 39308,
+        "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xTTdvNnMwQTRx",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 5669,
+        "checked_at": "2026-10-05T12:49:02.915883+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xTTdvNnMwQTRx",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 39783,
+        "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01UjFv0DUyYjdUMm4=",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4808,
+        "checked_at": "2026-10-05T13:13:56.395282+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01UjFv0DUyYjdUMm4=",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 51762,
+        "source_url": "https://psnri.com/P2Y9TGlrZUFsbCZsPWUmaT04WjRvMVgxejl1NVY=",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4564,
+        "checked_at": "2026-10-05T13:17:29.309851+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9TGlrZUFsbCZsPWUmaT04WjRvMVgxejl1NVY=",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 51882,
+        "source_url": "https://psnri.com/P2Y9U25hcDImaT04aDNaN2w2ZDhHNjk=",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4136,
+        "checked_at": "2026-10-05T13:18:07.290097+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9U25hcDImaT04aDNaN2w2ZDhHNjk=",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 52138,
+        "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT04ZTBmOEIzOTZVNk0",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1455,
+        "checked_at": "2026-10-05T13:18:18.279616+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT04ZTBmOEIzOTZVNk0",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 52809,
+        "source_url": "https://psnri.com/P2Y9cHJpdjgmbD1lJmk9OEszSDRKMWQ0UDV4",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1932,
+        "checked_at": "2026-10-05T13:18:23.497839+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9cHJpdjgmbD1lJmk9OEszSDRKMWQ0UDV4",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 74287,
+        "source_url": "https://psnri.com/P2Y9am9iJmw9YSZpPTRENFM1TDN1OVg0ZQ==",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1913,
+        "checked_at": "2026-10-05T13:18:26.886175+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9am9iJmw9YSZpPTRENFM1TDN1OVg0ZQ==",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 105835,
+        "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT03VzdiOHQ0UDUzNHg=",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1036,
+        "checked_at": "2026-10-05T13:18:29.466399+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT03VzdiOHQ0UDUzNHg=",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 105942,
+        "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01eDZPMlowWjdiNDA=",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2023,
+        "checked_at": "2026-10-05T13:18:31.342227+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01eDZPMlowWjdiNDA=",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 106086,
+        "source_url": "https://psnri.com/P2Y9RmJTdG9yZSZpPTEyMmswVTFlN3IxSzZz",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1154,
+        "checked_at": "2026-10-05T13:18:32.997239+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9RmJTdG9yZSZpPTEyMmswVTFlN3IxSzZz",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 106115,
+        "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01RDVuMEU2RDdkN1g",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1121,
+        "checked_at": "2026-10-05T13:18:34.303067+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT01RDVuMEU2RDdkN1g",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 108616,
+        "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT05OTV2OHUzeTNwMlE=",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1041,
+        "checked_at": "2026-10-05T13:18:35.352661+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT05OTV2OHUzeTNwMlE=",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 108666,
+        "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xRjBjNjE1VDI0MFk3bA==",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1601,
+        "checked_at": "2026-10-05T13:18:36.225599+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xRjBjNjE1VDI0MFk3bA==",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 120110,
+        "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMnaT0xVzdONFYyUTh6NVM=",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 996,
+        "checked_at": "2026-10-05T13:18:36.931565+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMnaT0xVzdONFYyUTh6NVM=",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 121950,
+        "source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xVzdONFYyUTh6NVM=",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1014,
+        "checked_at": "2026-10-05T13:18:38.022183+00:00",
+        "error": null,
+        "normalized_source_url": "https://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xVzdONFYyUTh6NVM=",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 122214,
+        "source_url": "http://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xajBKNng1cjJ1MG83Yw==",
+        "source_hostname": "psnri.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fixapc.net/",
+        "final_hostname": "fixapc.net",
+        "redirect_count": 3,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3235,
+        "checked_at": "2026-10-05T13:18:38.542214+00:00",
+        "error": null,
+        "normalized_source_url": "http://psnri.com/P2Y9SW5zdGFGb2xsb3dlcnMmaT0xajBKNng1cjJ1MG83Yw==",
+        "normalized_final_url": "https://fixapc.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 16,
+    "unique_source_url_count": 16,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Mahabet77 ~ Link Akses Bocoran Slot Gacor Winrate 97% Mudah Maxwin!",
+  "capture_timestamp": "2026-10-05T14:40:28.161842+00:00",
+  "dom_chars": 275441,
+  "screenshot_bytes": 595584,
+  "dom_sha256": "0ff768acd39cfd01cf88df0144ba651cdd84e8ca4877e77ea80739df89e9d270",
+  "screenshot_sha256": "1ad68cc2836ce44b804d49f246e55f3ae0a8144722ee8e7eca92d5ae1c804c6d",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://fixapc.net/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://fixapc.net/",
+    "browser_final_url": "https://fixapc.net/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 13
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5384
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://xn----7sbddhd3eacgpbmflnc.xn--p1ai/wp-admin/lds/excel/excel/index.php",
+  "hostname": "xn----7sbddhd3eacgpbmflnc.xn--p1ai",
+  "checked_at": "2026-10-04T14:16:13.839258+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fa41e-abdb-741e-8674-9830cd978c82",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-27T15:08:39.788Z",
+  "scan_original_url": "https://xn----7sbddhd3eacgpbmflnc.xn--p1ai/",
+  "final_url": "https://xn----7sbddhd3eacgpbmflnc.xn--p1ai/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 13761,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.202,
+  "discovery": {
+    "batch_id": "f65e7cfc1ca06ac8b19c529dff96ea3b359fc62d2a3f5130686be452278b2ae4",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

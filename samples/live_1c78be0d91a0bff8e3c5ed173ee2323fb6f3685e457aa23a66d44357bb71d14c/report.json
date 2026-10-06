@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_1c78be0d91a0bff8e3c5ed173ee2323fb6f3685e457aa23a66d44357bb71d14c",
+  "candidate_sha256": "3f3a4bbe844a3c36c3a21237f3fcaf1ae5cf1e7a83febef948fdb854264976e1",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://axe.su/efe74ae7",
+  "requested_url": "https://axe.su/efe74ae7",
+  "browser_final_url": "https://axe.su/efe74ae7",
+  "source_urls": [
+    "https://axe.su/efe74ae7"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 111475,
+      "source_url": "https://axe.su/efe74ae7",
+      "source_hostname": "axe.su",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://axe.su/efe74ae7",
+      "final_hostname": "axe.su",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 974,
+      "elapsed_ms": 276,
+      "checked_at": "2026-10-05T13:18:24.578927+00:00",
+      "error": null,
+      "normalized_source_url": "https://axe.su/efe74ae7",
+      "normalized_final_url": "https://axe.su/efe74ae7",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_1c78be0d91a0bff8e3c5ed173ee2323fb6f3685e457aa23a66d44357bb71d14c",
+    "representative_source_index": 111475,
+    "representative_source_url": "https://axe.su/efe74ae7",
+    "representative_final_url": "https://axe.su/efe74ae7",
+    "normalized_final_url": "https://axe.su/efe74ae7",
+    "source_hostname": "axe.su",
+    "final_hostname": "axe.su",
+    "source_urls": [
+      "https://axe.su/efe74ae7"
+    ],
+    "provenance": [
+      {
+        "source_index": 111475,
+        "source_url": "https://axe.su/efe74ae7",
+        "source_hostname": "axe.su",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://axe.su/efe74ae7",
+        "final_hostname": "axe.su",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 974,
+        "elapsed_ms": 276,
+        "checked_at": "2026-10-05T13:18:24.578927+00:00",
+        "error": null,
+        "normalized_source_url": "https://axe.su/efe74ae7",
+        "normalized_final_url": "https://axe.su/efe74ae7",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Платформа недвижимости",
+  "capture_timestamp": "2026-10-05T14:36:37.865722+00:00",
+  "dom_chars": 1999,
+  "screenshot_bytes": 126125,
+  "dom_sha256": "ecdc270db8b95e86324fbe933498799d008d9d2e9ad02c944d14abdf5a3e3c90",
+  "screenshot_sha256": "2262285368aaca95d10cf81edb987e996776db7323e889340fe6e10c1ce84f24",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://axe.su/efe74ae7",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://axe.su/efe74ae7",
+    "browser_final_url": "https://axe.su/efe74ae7",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3410
+}

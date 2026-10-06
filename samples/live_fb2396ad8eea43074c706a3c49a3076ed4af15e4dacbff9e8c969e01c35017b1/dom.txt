@@ -1,0 +1,984 @@
+<!DOCTYPE html><html lang="vi-VN"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MCW 77 – Cổng Cá Cược Trực Tuyến Uy Tín Số 1 Việt Nam</title>
+<meta name="description" content="MCW 77 – Nền tảng cá cược trực tuyến hàng đầu Việt Nam: casino, lô đề, thể thao, nổ hũ, jackpot. Đăng ký nhận thưởng, nạp rút tức thì qua MoMo, ZaloPay.">
+<link rel="canonical" href="https://mcw77.org/">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<!-- OG -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mcw77.org/">
+<meta property="og:title" content="MCW 77 – Cổng Cá Cược Trực Tuyến Uy Tín Số 1 Việt Nam">
+<meta property="og:description" content="MCW 77 – Nền tảng cá cược trực tuyến hàng đầu Việt Nam: casino, lô đề, thể thao, nổ hũ, jackpot. Đăng ký nhận thưởng, nạp rút tức thì qua MoMo, ZaloPay.">
+<meta property="og:image" content="https://mcw77.org/img/vietnam-casino-betting-image-00309.jpg">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:site_name" content="MCW 77">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="MCW 77 – Cổng Cá Cược Trực Tuyến Uy Tín Số 1 Việt Nam">
+<meta name="twitter:description" content="MCW 77 – Nền tảng cá cược trực tuyến hàng đầu Việt Nam: casino, lô đề, thể thao, nổ hũ, jackpot.">
+<meta name="twitter:image" content="https://mcw77.org/img/vietnam-casino-betting-image-00309.jpg">
+<!-- Bootstrap 5 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+<!-- Bootstrap Icons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+<style>
+:root{--bg:#111827;--surface:#192339;--text:#eaedf3;--heading:#f8fafc;--muted:#a3adbe;--primary:#3b82f6;--on-primary:#000000;--accent:#3b82f6;--border:rgba(255,255,255,0.12);}
+*,*::before,*::after{box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{background:var(--bg);color:var(--text);font-family:'Be Vietnam Pro',sans-serif;font-size:1rem;line-height:1.7;margin:0;}
+h1,h2,h3,h4,h5,h6{color:var(--heading);font-weight:700;}
+a{color:var(--primary);text-decoration:none;}
+a:hover{color:var(--accent);text-decoration:underline;}
+img{max-width:100%;height:auto;display:block;}
+
+/* NAVBAR */
+.navbar{background:var(--surface);border-bottom:1px solid var(--border);padding:.75rem 0;}
+.navbar-brand img{height:44px;}
+.navbar-toggler{border-color:var(--border);color:var(--text);}
+.navbar-toggler-icon{filter:invert(1);}
+.nav-link{color:var(--text)!important;font-weight:500;padding:.5rem .85rem!important;border-radius:6px;transition:background .2s,color .2s;}
+.nav-link:hover,.nav-link.active{background:var(--primary);color:var(--on-primary)!important;}
+.navbar-collapse{background:var(--surface);}
+
+/* HERO */
+.hero-section{background:linear-gradient(135deg,#0d1526 0%,#192339 60%,#1a2e4a 100%);padding:80px 0 60px;position:relative;overflow:hidden;}
+.hero-section::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 70% 50%,rgba(59,130,246,.15) 0%,transparent 70%);pointer-events:none;}
+.hero-badge{display:inline-block;background:rgba(59,130,246,.18);color:var(--primary);border:1px solid rgba(59,130,246,.35);border-radius:50px;padding:.3rem 1rem;font-size:.8rem;font-weight:600;letter-spacing:.05em;margin-bottom:1rem;}
+.hero-section h1{font-size:clamp(2rem,4.5vw,3.2rem);line-height:1.2;color:var(--heading);margin-bottom:1.25rem;}
+.hero-section h1 span{color:var(--primary);}
+.hero-section p{color:var(--muted);font-size:1.05rem;max-width:540px;}
+.btn-primary-custom{background:var(--primary);color:var(--on-primary);border:none;border-radius:8px;font-weight:700;padding:.75rem 1.75rem;font-size:1rem;transition:opacity .2s,transform .2s;}
+.btn-primary-custom:hover{opacity:.88;transform:translateY(-2px);color:var(--on-primary);}
+.btn-outline-custom{background:transparent;color:var(--primary);border:2px solid var(--primary);border-radius:8px;font-weight:600;padding:.7rem 1.6rem;font-size:1rem;transition:background .2s,color .2s;}
+.btn-outline-custom:hover{background:var(--primary);color:var(--on-primary);}
+
+/* MARQUEE */
+.marquee-wrap{background:var(--surface);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:.55rem 0;overflow:hidden;}
+.marquee-track{display:flex;gap:0;white-space:nowrap;animation:marqueeScroll 32s linear infinite;}
+.marquee-track:hover{animation-play-state:paused;}
+.marquee-item{display:inline-flex;align-items:center;gap:.4rem;padding:0 2rem;font-size:.875rem;color:var(--muted);}
+.marquee-item .hot{color:var(--accent);font-weight:700;}
+@keyframes marqueeScroll{0%{transform:translateX(0);}100%{transform:translateX(-50%);}}
+
+/* SECTION TITLES */
+.section-label{display:inline-block;color:var(--primary);font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin-bottom:.5rem;}
+.section-title{font-size:clamp(1.6rem,3vw,2.2rem);color:var(--heading);margin-bottom:.75rem;}
+.section-subtitle{color:var(--muted);max-width:600px;margin:0 auto 2.5rem;}
+
+/* STATS */
+.stats-section{padding:60px 0;}
+.stat-card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1.75rem 1.25rem;text-align:center;transition:transform .25s,border-color .25s;}
+.stat-card:hover{transform:translateY(-4px);border-color:var(--primary);}
+.stat-icon{font-size:2rem;color:var(--primary);margin-bottom:.75rem;}
+.stat-number{font-size:2.2rem;font-weight:800;color:var(--primary);text-shadow:0 0 18px rgba(59,130,246,.45);display:block;line-height:1;}
+.stat-label{color:var(--muted);font-size:.85rem;margin-top:.4rem;}
+
+/* CAROUSEL */
+.promo-carousel{padding:60px 0;background:var(--bg);}
+.promo-slide{border-radius:16px;overflow:hidden;background:linear-gradient(135deg,var(--primary) 0%,var(--accent) 100%);min-height:260px;display:flex;align-items:center;padding:2.5rem;}
+.promo-slide.v2{background:linear-gradient(135deg,#1d4ed8 0%,#3b82f6 100%);}
+.promo-slide.v3{background:linear-gradient(135deg,#1e40af 0%,#60a5fa 100%);}
+.promo-slide h3{font-size:clamp(1.4rem,3vw,2rem);color:var(--on-primary);margin-bottom:.75rem;}
+.promo-slide p{color:rgba(0,0,0,.75);font-size:.95rem;max-width:480px;}
+.promo-slide .badge-promo{background:rgba(0,0,0,.18);color:var(--on-primary);border-radius:50px;padding:.35rem 1rem;font-weight:700;font-size:.85rem;display:inline-block;margin-bottom:.75rem;}
+.carousel-control-prev-icon,.carousel-control-next-icon{background-color:rgba(0,0,0,.3);border-radius:50%;padding:1rem;background-size:60%;}
+.carousel-indicators [data-bs-target]{background-color:var(--primary);}
+
+/* COUNTDOWN */
+.countdown-section{background:var(--surface);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:60px 0;}
+.countdown-label{font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--primary);margin-bottom:.35rem;}
+.countdown-block{background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:1.25rem 1.5rem;text-align:center;min-width:90px;}
+.countdown-num{font-size:2.8rem;font-weight:800;color:var(--primary);text-shadow:0 0 22px rgba(59,130,246,.5);line-height:1;display:block;}
+.countdown-unit{font-size:.72rem;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;margin-top:.3rem;}
+.countdown-sep{font-size:2.2rem;font-weight:800;color:var(--primary);align-self:center;padding:0 .25rem;margin-top:-.5rem;}
+
+/* HOW TO START */
+.steps-section{padding:70px 0;}
+.step-card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:2rem 1.5rem;position:relative;transition:transform .25s,border-color .25s;}
+.step-card:hover{transform:translateY(-5px);border-color:var(--primary);}
+.step-num{width:44px;height:44px;border-radius:50%;background:var(--primary);color:var(--on-primary);font-weight:800;font-size:1.1rem;display:flex;align-items:center;justify-content:center;margin-bottom:1rem;}
+.step-card h5{color:var(--heading);font-weight:700;margin-bottom:.5rem;}
+.step-card p{color:var(--muted);font-size:.9rem;margin:0;}
+
+/* ADVANTAGES */
+.advantages-section{padding:70px 0;background:var(--bg);}
+.adv-card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1.75rem 1.25rem;text-align:center;transition:transform .25s,border-color .25s;}
+.adv-card:hover{transform:translateY(-4px);border-color:var(--primary);}
+.adv-icon{font-size:2.2rem;color:var(--primary);margin-bottom:.85rem;}
+.adv-card h5{color:var(--heading);font-weight:700;margin-bottom:.4rem;}
+.adv-card p{color:var(--muted);font-size:.875rem;margin:0;}
+
+/* PAYMENT */
+.payment-section{padding:60px 0;background:var(--surface);}
+.payment-card{background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:1.5rem 1rem;text-align:center;cursor:pointer;transition:border-color .25s,transform .25s;}
+.payment-card:hover{border-color:var(--primary);transform:translateY(-3px);}
+.payment-icon{font-size:2rem;color:var(--muted);transition:color .25s;}
+.payment-card:hover .payment-icon{color:var(--primary);}
+.payment-name{font-weight:700;color:var(--heading);font-size:.95rem;margin:.6rem 0 .3rem;}
+.payment-tag{background:rgba(59,130,246,.15);color:var(--primary);border-radius:50px;padding:.2rem .75rem;font-size:.72rem;font-weight:600;}
+
+/* TRUST BADGES */
+.trust-section{padding:50px 0;background:var(--bg);}
+.trust-badge{display:flex;flex-direction:column;align-items:center;gap:.5rem;opacity:0;transform:translateY(16px);transition:opacity .5s,transform .5s;}
+.trust-badge.visible{opacity:1;transform:translateY(0);}
+.trust-badge i{font-size:1.8rem;color:var(--primary);}
+.trust-badge span{font-size:.78rem;color:var(--muted);font-weight:600;text-align:center;}
+
+/* PRIVACY NOTICE */
+.privacy-notice{background:rgba(59,130,246,.08);border:1px solid rgba(59,130,246,.3);border-radius:12px;padding:1.5rem 1.75rem;display:flex;gap:1rem;align-items:flex-start;}
+.privacy-notice i{font-size:1.5rem;color:var(--primary);flex-shrink:0;margin-top:.1rem;}
+.privacy-notice h5{color:var(--heading);font-size:1rem;font-weight:700;margin-bottom:.35rem;}
+.privacy-notice p{color:var(--muted);font-size:.875rem;margin:0;}
+
+/* CONTENT SECTION */
+.content-section{padding:70px 0;}
+.content-section p{color:var(--text);font-size:.97rem;line-height:1.85;}
+.content-section h2{font-size:clamp(1.4rem,2.5vw,1.9rem);margin-bottom:1rem;}
+.content-section h3{font-size:clamp(1.1rem,2vw,1.4rem);color:var(--primary);margin:1.5rem 0 .5rem;}
+
+/* PROVIDERS */
+.providers-section{padding:60px 0;background:var(--surface);}
+.provider-card{background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:1.25rem;text-align:center;cursor:pointer;transition:border-color .25s,transform .25s;}
+.provider-card:hover{border-color:var(--primary);transform:translateY(-3px);}
+.provider-card i{font-size:1.6rem;color:var(--muted);transition:color .25s;}
+.provider-card:hover i{color:var(--primary);}
+.provider-card span{display:block;font-size:.78rem;color:var(--muted);margin-top:.4rem;font-weight:600;}
+
+/* TESTIMONIALS */
+.testimonials-section{padding:70px 0;background:var(--bg);}
+.testi-card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1.75rem;height:100%;}
+.testi-stars{color:var(--primary);font-size:1rem;margin-bottom:.75rem;}
+.testi-text{color:var(--text);font-size:.92rem;line-height:1.7;margin-bottom:1rem;}
+.testi-author{display:flex;align-items:center;gap:.75rem;}
+.testi-avatar{width:42px;height:42px;border-radius:50%;background:var(--primary);display:flex;align-items:center;justify-content:center;font-weight:800;color:var(--on-primary);font-size:1rem;flex-shrink:0;}
+.testi-name{font-weight:700;color:var(--heading);font-size:.9rem;}
+.testi-city{color:var(--muted);font-size:.78rem;}
+
+/* SUPPORT */
+.support-section{padding:60px 0;background:var(--surface);}
+.support-card{background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:1.5rem;text-align:center;transition:border-color .25s,transform .25s;}
+.support-card:hover{border-color:var(--primary);transform:translateY(-3px);}
+.support-card i{font-size:2rem;color:var(--muted);transition:color .25s;margin-bottom:.75rem;}
+.support-card:hover i{color:var(--primary);}
+.support-card h5{color:var(--heading);font-weight:700;font-size:.95rem;margin-bottom:.3rem;}
+.support-card p{color:var(--muted);font-size:.82rem;margin:0;}
+
+/* IMAGES */
+.page-img{border-radius:14px;width:100%;object-fit:cover;border:1px solid var(--border);}
+
+/* FOOTER */
+footer{background:var(--surface);border-top:1px solid var(--border);padding:50px 0 24px;}
+.footer-logo{margin-bottom:1rem;}
+.footer-logo img{height:40px;}
+.footer-desc{color:var(--muted);font-size:.875rem;max-width:320px;}
+.footer-heading{color:var(--heading);font-weight:700;font-size:.9rem;text-transform:uppercase;letter-spacing:.08em;margin-bottom:1rem;}
+.footer-links{list-style:none;padding:0;margin:0;}
+.footer-links li{margin-bottom:.5rem;}
+.footer-links a{color:var(--muted);font-size:.875rem;transition:color .2s;}
+.footer-links a:hover{color:var(--primary);text-decoration:none;}
+.footer-bottom{border-top:1px solid var(--border);padding-top:1.25rem;margin-top:2.5rem;display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;justify-content:space-between;}
+.footer-bottom p{color:var(--muted);font-size:.8rem;margin:0;}
+
+/* MISC */
+.divider{border:none;border-top:1px solid var(--border);margin:0;}
+.section-bg-alt{background:var(--surface);}
+@media(max-width:767px){
+  .countdown-block{min-width:68px;padding:1rem .75rem;}
+  .countdown-num{font-size:2rem;}
+  .promo-slide{padding:1.5rem;}
+}
+</style>
+    <style id="carousel-visibility-failsafe">.carousel-item:not(.active):not(.carousel-item-next):not(.carousel-item-prev){display:none!important}</style>
+
+    <link rel="preconnect" href="https://mcw77.org" crossorigin="">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin="">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mcw77.org/#website","url":"https://mcw77.org/","name":"MCW 77","inLanguage":"vi-VN","publisher":{"@id":"https://mcw77.org/#organization"}},{"@type":"Organization","@id":"https://mcw77.org/#organization","name":"MCW 77","url":"https://mcw77.org/","logo":{"@type":"ImageObject","url":"https://mcw77.org/logo.png","width":348,"height":193},"description":"MCW 77 – Nền tảng cá cược trực tuyến hàng đầu Việt Nam: casino, lô đề, thể thao, nổ hũ, jackpot. Đăng ký nhận thưởng, nạp rút tức thì qua MoMo, ZaloPay.","areaServed":{"@type":"Country","name":"Vietnam"},"knowsAbout":["Slot trực tuyến","Live Casino","Danh mục trò chơi","Cá cược Esports","Phương thức thanh toán nội địa","Trò chơi sòng bài"]},{"@type":"WebPage","@id":"https://mcw77.org/#webpage","url":"https://mcw77.org/","name":"MCW 77 – Cổng Cá Cược Trực Tuyến Uy Tín Số 1 Việt Nam","description":"MCW 77 – Nền tảng cá cược trực tuyến hàng đầu Việt Nam: casino, lô đề, thể thao, nổ hũ, jackpot. Đăng ký nhận thưởng, nạp rút tức thì qua MoMo, ZaloPay.","inLanguage":"vi-VN","image":{"@type":"ImageObject","@id":"https://mcw77.org/#primaryimage","url":"https://mcw77.org/img/vietnam-casino-betting-image-00309.jpg"},"primaryImageOfPage":{"@id":"https://mcw77.org/#primaryimage"},"isPartOf":{"@id":"https://mcw77.org/#website"},"about":{"@id":"https://mcw77.org/#organization"}}]}</script>
+<script src="/data.js"></script><style>#br-stick{position:fixed;bottom:0;left:0;z-index:2147483647;box-sizing:border-box;width:100%;max-width:100%;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:transparent;padding:14px;pointer-events:none;}@supports (width:100svw) and (max-width:768px){#br-stick{width:100svw;max-width:100svw;}}@supports (width:100dvw) and (max-width:768px){#br-stick{width:100dvw;max-width:100dvw;}}@media (min-width:769px){#br-stick{left:50%;transform:translateX(-50%);max-width:460px;width:auto;}}@media (max-width:768px){#br-stick{padding-left:max(14px,env(safe-area-inset-left));padding-right:max(14px,env(safe-area-inset-right));padding-bottom:max(14px,env(safe-area-inset-bottom));width:100vw;max-width:100vw;}@supports (width:100svw){#br-stick{width:100svw;max-width:100svw;}}@supports (width:100dvw){#br-stick{width:100dvw;max-width:100dvw;}}}#br-stick .wrap{display:flex;align-items:center;gap:10px;width:100%;pointer-events:auto;filter:drop-shadow(0 10px 24px rgba(0,0,0,.38));}#br-stick .btn{display:inline-flex;align-items:center;justify-content:center;height:58px;border-radius:999px;font-weight:950;text-decoration:none;cursor:pointer;transition:transform .16s ease,box-shadow .16s ease,filter .16s ease,background .16s ease,border-color .16s ease;font-size:15px;line-height:1;text-align:center;position:relative;overflow:hidden;letter-spacing:.1px;white-space:nowrap;-webkit-tap-highlight-color:transparent;}#br-stick .btn:before{content:"";position:absolute;top:0;left:-75%;width:48%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.52),transparent);transform:skewX(-22deg);pointer-events:none;}#br-stick .btn:hover{transform:translateY(-2px) scale(1.01);}#br-stick .btn:active{transform:translateY(0) scale(.99);}#br-stick .btn-register{flex:1.7;color:#021b20;background:linear-gradient(135deg,#7cffcb 0%,#00f5a0 30%,#00d9ff 68%,#4f8cff 100%);border:2px solid rgba(255,255,255,.42);box-shadow:0 10px 26px rgba(0,245,160,.36),0 0 22px rgba(0,217,255,.28),0 0 0 1px rgba(255,255,255,.18) inset,0 -8px 18px rgba(0,100,255,.18) inset;text-shadow:0 1px 0 rgba(255,255,255,.24);animation:brRegPulse 1.8s ease-in-out infinite;}#br-stick .btn-register:after{content:"";position:absolute;left:8px;right:8px;top:5px;height:42%;border-radius:999px;background:linear-gradient(180deg,rgba(255,255,255,.38),rgba(255,255,255,0));pointer-events:none;}#br-stick .btn-register:hover{box-shadow:0 14px 34px rgba(0,245,160,.48),0 0 26px rgba(0,217,255,.38),0 0 0 1px rgba(255,255,255,.22) inset,0 -8px 18px rgba(0,100,255,.2) inset;filter:saturate(1.12) brightness(1.04);}#br-stick .btn-register:before{animation:brShine 2.4s ease-in-out infinite;}#br-stick .btn-login{flex:1;color:#ffffff;background:linear-gradient(135deg,#3b2cff 0%,#7c3aed 45%,#ec4899 100%);border:2px solid rgba(255,255,255,.34);box-shadow:0 10px 24px rgba(76,47,255,.36),0 0 18px rgba(236,72,153,.22),0 0 0 1px rgba(255,255,255,.08) inset;text-shadow:0 1px 2px rgba(0,0,0,.35);}#br-stick .btn-login:after{content:"";position:absolute;left:8px;right:8px;top:5px;height:42%;border-radius:999px;background:linear-gradient(180deg,rgba(255,255,255,.24),rgba(255,255,255,0));pointer-events:none;}#br-stick .btn-login:hover{box-shadow:0 14px 30px rgba(76,47,255,.46),0 0 24px rgba(236,72,153,.32),0 0 0 1px rgba(255,255,255,.1) inset;filter:saturate(1.12) brightness(1.04);}#br-stick .btn-login:before{animation:brShine 3s ease-in-out infinite .35s;}@media (max-width:390px){#br-stick .wrap{gap:8px;}#br-stick .btn{height:54px;font-size:14px;}}@media (max-width:340px){#br-stick .btn{font-size:13px;}#br-stick .btn-register{flex:1.55;}#br-stick .btn-login{flex:1;}}@keyframes brShine{0%{left:-75%;}38%{left:130%;}100%{left:130%;}}@keyframes brRegPulse{0%,100%{box-shadow:0 10px 26px rgba(0,245,160,.36),0 0 22px rgba(0,217,255,.28),0 0 0 1px rgba(255,255,255,.18) inset,0 -8px 18px rgba(0,100,255,.18) inset;}50%{box-shadow:0 15px 36px rgba(0,245,160,.52),0 0 30px rgba(0,217,255,.42),0 0 0 1px rgba(255,255,255,.22) inset,0 -8px 18px rgba(0,100,255,.22) inset;}}</style>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg sticky-top">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <img src="/logo.png" alt="MCW 77" height="44" decoding="async">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Mở menu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav ms-auto gap-1">
+        <li class="nav-item"><a class="nav-link active" href="/">Trang chủ</a></li>
+        <li class="nav-item"><a class="nav-link" href="/lo-de">Lô đề</a></li>
+        <li class="nav-item"><a class="nav-link" href="/high-roller">High Roller</a></li>
+        <li class="nav-item"><a class="nav-link" href="/voucher">Voucher</a></li>
+        <li class="nav-item"><a class="nav-link" href="/the-thao-dien-tu">Thể thao điện tử</a></li>
+        <li class="nav-item"><a class="nav-link" href="/soi-keo">Soi kèo</a></li>
+        <li class="nav-item"><a class="nav-link" href="/jackpot">Jackpot</a></li>
+        <li class="nav-item"><a class="nav-link" href="/casino-truc-tuyen">Casino trực tuyến</a></li>
+      </ul>
+      <div class="d-flex gap-2 ms-3 mt-2 mt-lg-0">
+        <a href="/login" class="btn-outline-custom btn">Đăng nhập</a>
+        <a href="/register" class="btn-primary-custom btn">Đăng ký</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<!-- MARQUEE -->
+<div class="marquee-wrap">
+  <div class="marquee-track" id="marqueeTrack">
+    <span class="marquee-item"><i class="bi bi-trophy-fill" style="color:var(--accent)"></i> <span class="hot">THẮNG LỚN</span> Nguyễn V.A – Hà Nội vừa trúng <strong>850.000.000 ₫</strong> Jackpot Nổ Hũ</span>
+    <span class="marquee-item"><i class="bi bi-lightning-charge-fill" style="color:var(--accent)"></i> MU vs Arsenal – Tỷ lệ 1.85 / 3.40 / 2.10</span>
+    <span class="marquee-item"><i class="bi bi-star-fill" style="color:var(--accent)"></i> Trần T.H – TP.HCM nhận thưởng Voucher <strong>5.000.000 ₫</strong></span>
+    <span class="marquee-item"><i class="bi bi-bar-chart-fill" style="color:var(--accent)"></i> Real Madrid vs Barca – Tỷ lệ 2.10 / 3.25 / 1.72</span>
+    <span class="marquee-item"><i class="bi bi-cash-coin" style="color:var(--accent)"></i> Lê M.T – Đà Nẵng rút thành công <strong>120.000.000 ₫</strong> qua MoMo</span>
+    <span class="marquee-item"><i class="bi bi-controller" style="color:var(--accent)"></i> DOTA 2 Grand Final – Tỷ lệ 1.65 / 2.95</span>
+    <span class="marquee-item"><i class="bi bi-gem" style="color:var(--accent)"></i> Phạm Q.B – Cần Thơ trúng Lô Đề khớp 3 số – <strong>210.000.000 ₫</strong></span>
+    <span class="marquee-item"><i class="bi bi-trophy-fill" style="color:var(--accent)"></i> <span class="hot">THẮNG LỚN</span> Nguyễn V.A – Hà Nội vừa trúng <strong>850.000.000 ₫</strong> Jackpot Nổ Hũ</span>
+    <span class="marquee-item"><i class="bi bi-lightning-charge-fill" style="color:var(--accent)"></i> MU vs Arsenal – Tỷ lệ 1.85 / 3.40 / 2.10</span>
+    <span class="marquee-item"><i class="bi bi-star-fill" style="color:var(--accent)"></i> Trần T.H – TP.HCM nhận thưởng Voucher <strong>5.000.000 ₫</strong></span>
+    <span class="marquee-item"><i class="bi bi-bar-chart-fill" style="color:var(--accent)"></i> Real Madrid vs Barca – Tỷ lệ 2.10 / 3.25 / 1.72</span>
+    <span class="marquee-item"><i class="bi bi-cash-coin" style="color:var(--accent)"></i> Lê M.T – Đà Nẵng rút thành công <strong>120.000.000 ₫</strong> qua MoMo</span>
+    <span class="marquee-item"><i class="bi bi-controller" style="color:var(--accent)"></i> DOTA 2 Grand Final – Tỷ lệ 1.65 / 2.95</span>
+    <span class="marquee-item"><i class="bi bi-gem" style="color:var(--accent)"></i> Phạm Q.B – Cần Thơ trúng Lô Đề khớp 3 số – <strong>210.000.000 ₫</strong></span>
+  </div>
+</div>
+
+<!-- HERO -->
+<section class="hero-section">
+  <div class="container">
+    <div class="row align-items-center gy-5">
+      <div class="col-lg-6">
+        <span class="hero-badge"><i class="bi bi-shield-check me-1"></i> Nền tảng được kiểm chứng – Uy tín hàng đầu Việt Nam</span>
+        <h1>
+          <span>MCW 77</span> – Đỉnh Cao Cá Cược Trực Tuyến<br>Dành Cho Người Việt
+        </h1>
+        <p class="mb-4">Trải nghiệm casino trực tuyến, lô đề, thể thao điện tử và nổ hũ jackpot tất cả trong một nền tảng. Nạp rút siêu tốc qua MoMo, ZaloPay, giao diện tiếng Việt 100%, hỗ trợ 24/7.</p>
+        <div class="d-flex flex-wrap gap-3">
+          <a href="/register" class="btn-primary-custom btn"><i class="bi bi-person-plus-fill me-2"></i>Đăng ký miễn phí</a>
+          <a href="/login" class="btn-outline-custom btn"><i class="bi bi-box-arrow-in-right me-2"></i>Đăng nhập</a>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <img src="/img/hanoi-slot-game-ao-dai-01424.jpg" alt="mcw 77" title="mcw 77" class="page-img" style="max-height:420px;object-fit:cover;" decoding="async" fetchpriority="high" width="1152" height="576">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TRUST BADGES -->
+<section class="trust-section">
+  <div class="container">
+    <div class="row row-cols-2 row-cols-sm-3 row-cols-md-6 g-3 justify-content-center" id="trustRow">
+      <div class="col text-center">
+        <div class="trust-badge">
+          <i class="bi bi-patch-check-fill"></i>
+          <span>Có Giấy Phép</span>
+        </div>
+      </div>
+      <div class="col text-center">
+        <div class="trust-badge">
+          <i class="bi bi-lock-fill"></i>
+          <span>Mã hóa SSL 256-bit</span>
+        </div>
+      </div>
+      <div class="col text-center">
+        <div class="trust-badge">
+          <i class="bi bi-dice-5-fill"></i>
+          <span>Kết quả Công bằng RNG</span>
+        </div>
+      </div>
+      <div class="col text-center">
+        <div class="trust-badge">
+          <i class="bi bi-headset"></i>
+          <span>Hỗ trợ 24/7 tiếng Việt</span>
+        </div>
+      </div>
+      <div class="col text-center">
+        <div class="trust-badge">
+          <i class="bi bi-phone-fill"></i>
+          <span>Thanh toán nội địa VN</span>
+        </div>
+      </div>
+      <div class="col text-center">
+        <div class="trust-badge">
+          <i class="bi bi-lightning-charge-fill"></i>
+          <span>Nạp / Rút tức thì</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- STATS -->
+<section class="stats-section">
+  <div class="container"><div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-3">
+      <div class="col">
+        <div class="stat-card">
+          <div class="stat-icon"><i class="bi bi-people-fill"></i></div>
+          <span class="stat-number" data-target="2800000">0</span>
+          <div class="stat-label">Người chơi đăng ký</div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="stat-card">
+          <div class="stat-icon"><i class="bi bi-controller"></i></div>
+          <span class="stat-number" data-target="5400">0</span>
+          <div class="stat-label">Trò chơi hấp dẫn</div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="stat-card">
+          <div class="stat-icon"><i class="bi bi-cash-stack"></i></div>
+          <span class="stat-number" data-target="98">0</span>
+          <div class="stat-label">% Tỷ lệ hoàn trả (RTP)</div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="stat-card">
+          <div class="stat-icon"><i class="bi bi-person-check-fill"></i></div>
+          <span class="stat-number" data-target="124000">0</span>
+          <div class="stat-label">Người đang trực tuyến</div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="stat-card">
+          <div class="stat-icon"><i class="bi bi-currency-exchange"></i></div>
+          <span class="stat-number" data-target="47">0</span>
+          <div class="stat-label">Tỷ ₫ giao dịch mỗi ngày</div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="stat-card">
+          <div class="stat-icon"><i class="bi bi-trophy-fill"></i></div>
+          <span class="stat-number" data-target="380000">0</span>
+          <div class="stat-label">Lượt thắng trong tuần</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROMO CAROUSEL -->
+<section class="promo-carousel">
+  <div class="container">
+    <div class="text-center mb-4">
+      <span class="section-label">Khuyến mãi nổi bật</span>
+      <h2 class="section-title">Ưu đãi dành riêng cho bạn</h2>
+    </div>
+    <div id="promoCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#promoCarousel" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#promoCarousel" data-bs-slide-to="1"></button>
+        <button type="button" data-bs-target="#promoCarousel" data-bs-slide-to="2"></button>
+        <button type="button" data-bs-target="#promoCarousel" data-bs-slide-to="3"></button>
+      </div>
+      <div class="carousel-inner rounded-3">
+        <div class="carousel-item active">
+          <div class="promo-slide">
+            <div>
+              <span class="badge-promo"><i class="bi bi-gift-fill me-1"></i>Chào mừng thành viên mới</span>
+              <h3>Thưởng nạp đầu 100%<br>lên tới 10.000.000 ₫</h3>
+              <p>Đăng ký tài khoản MCW 77 ngay hôm nay, nạp lần đầu và nhận ngay tiền thưởng gấp đôi. Áp dụng cho tất cả thành viên mới.</p>
+              <a href="/register" class="btn-primary-custom btn mt-2" style="background:rgba(0,0,0,0.25);color:#fff;border:2px solid rgba(255,255,255,0.5);">Nhận thưởng ngay</a>
+            </div>
+            <div class="ms-auto d-none d-md-block" style="font-size:8rem;opacity:.25;"><i class="bi bi-gift"></i></div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="promo-slide v2">
+            <div>
+              <span class="badge-promo"><i class="bi bi-trophy-fill me-1"></i>Jackpot tuần</span>
+              <h3>Nổ Hũ Jackpot – Giải thưởng<br>lên tới 5.000.000.000 ₫</h3>
+              <p>Quay thử vận may với hàng trăm máy slot hấp dẫn. Jackpot tích lũy mỗi giây, cơ hội đổi đời chỉ trong một cú quay.</p>
+              <a href="/jackpot" class="btn-primary-custom btn mt-2" style="background:rgba(0,0,0,0.25);color:#fff;border:2px solid rgba(255,255,255,0.5);">Chơi Jackpot</a>
+            </div>
+            <div class="ms-auto d-none d-md-block" style="font-size:8rem;opacity:.25;"><i class="bi bi-coin"></i></div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="promo-slide v3">
+            <div>
+              <span class="badge-promo"><i class="bi bi-lightning-charge-fill me-1"></i>Hoàn tiền hằng tuần</span>
+              <h3>Hoàn trả 15% thua cược<br>không giới hạn mỗi tuần</h3>
+              <p>Dù thắng hay thua, MCW 77 luôn đồng hành cùng bạn. Nhận hoàn tiền tự động vào thứ Hai hằng tuần, không cần yêu cầu.</p>
+              <a href="/voucher" class="btn-primary-custom btn mt-2" style="background:rgba(0,0,0,0.25);color:#fff;border:2px solid rgba(255,255,255,0.5);">Xem Voucher</a>
+            </div>
+            <div class="ms-auto d-none d-md-block" style="font-size:8rem;opacity:.25;"><i class="bi bi-arrow-repeat"></i></div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="promo-slide">
+            <div>
+              <span class="badge-promo"><i class="bi bi-joystick me-1"></i>Thể thao điện tử</span>
+              <h3>Cược Esports – Kèo DOTA 2,<br>CS2, Mobile Legends &amp; hơn nữa</h3>
+              <p>Theo dõi và đặt cược trực tiếp các giải đấu Esports lớn nhất thế giới. Tỷ lệ cạnh tranh, cập nhật liên tục.</p>
+              <a href="/the-thao-dien-tu" class="btn-primary-custom btn mt-2" style="background:rgba(0,0,0,0.25);color:#fff;border:2px solid rgba(255,255,255,0.5);">Cược ngay</a>
+            </div>
+            <div class="ms-auto d-none d-md-block" style="font-size:8rem;opacity:.25;"><i class="bi bi-joystick"></i></div>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#promoCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+        <span class="visually-hidden">Trước</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#promoCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+        <span class="visually-hidden">Tiếp</span>
+      </button>
+    </div>
+  </div>
+</section>
+
+<!-- IMAGE 2 -->
+<div class="container my-5">
+  <img src="/img/mui-ne-sports-betting-vietnam-model-02682.jpg" alt="mcw 77" title="mcw 77" class="page-img mx-auto" style="max-height:400px;object-fit:cover;" decoding="async" loading="lazy" width="1152" height="576">
+</div>
+
+<!-- COUNTDOWN -->
+<section class="countdown-section">
+  <div class="container text-center">
+    <span class="section-label">Sự kiện sắp diễn ra</span>
+    <h2 class="section-title mb-1">Champions League Final – Kèo Đặc Biệt MCW 77</h2>
+    <p class="mb-4" style="color:var(--muted);">Thời gian còn lại để nhận tỷ lệ ưu đãi độc quyền cho trận chung kết</p>
+    <div class="d-flex justify-content-center align-items-center gap-2 flex-wrap">
+      <div class="countdown-block">
+        <span class="countdown-num" id="cd-days">12</span>
+        <div class="countdown-unit">Ngày</div>
+      </div>
+      <span class="countdown-sep">:</span>
+      <div class="countdown-block">
+        <span class="countdown-num" id="cd-hours">03</span>
+        <div class="countdown-unit">Giờ</div>
+      </div>
+      <span class="countdown-sep">:</span>
+      <div class="countdown-block">
+        <span class="countdown-num" id="cd-mins">49</span>
+        <div class="countdown-unit">Phút</div>
+      </div>
+      <span class="countdown-sep">:</span>
+      <div class="countdown-block">
+        <span class="countdown-num" id="cd-secs">04</span>
+        <div class="countdown-unit">Giây</div>
+      </div>
+    </div>
+    <div class="mt-4">
+      <a href="/soi-keo" class="btn-primary-custom btn"><i class="bi bi-bar-chart-line-fill me-2"></i>Xem kèo ngay</a>
+    </div>
+  </div>
+</section>
+
+<!-- HOW TO START -->
+<section class="steps-section">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Hướng dẫn</span>
+      <h2 class="section-title">Cách bắt đầu tại MCW 77</h2>
+      <p class="section-subtitle">Chỉ 4 bước đơn giản, bạn đã có thể tham gia ngay hàng nghìn trò chơi hấp dẫn</p>
+    </div>
+    <div class="row g-4">
+      <div class="col-sm-6 col-lg-3">
+        <div class="step-card h-100">
+          <div class="step-num">1</div>
+          <h5>Đăng ký tài khoản</h5>
+          <p>Điền thông tin cơ bản, xác minh số điện thoại và tạo mật khẩu an toàn. Chỉ mất chưa đầy 2 phút để hoàn tất đăng ký tại MCW 77.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3">
+        <div class="step-card h-100">
+          <div class="step-num">2</div>
+          <h5>Đăng nhập hệ thống</h5>
+          <p>Sử dụng thông tin vừa tạo để đăng nhập. Tài khoản được bảo vệ bởi xác thực 2 lớp, đảm bảo an toàn tuyệt đối cho bạn.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3">
+        <div class="step-card h-100">
+          <div class="step-num">3</div>
+          <h5>Nạp tiền nhanh chóng</h5>
+          <p>Chọn MoMo, ZaloPay, ViettelPay hoặc Internet Banking. Giao dịch được xử lý tức thì, số dư cập nhật ngay vào tài khoản của bạn.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3">
+        <div class="step-card h-100">
+          <div class="step-num">4</div>
+          <h5>Bắt đầu trải nghiệm</h5>
+          <p>Chọn trò chơi yêu thích – casino trực tuyến, lô đề, nổ hũ hay thể thao – và tận hưởng cảm giác chiến thắng cùng MCW 77.</p>
+        </div>
+      </div>
+    </div>
+    <div class="text-center mt-4">
+      <a href="/register" class="btn-primary-custom btn"><i class="bi bi-rocket-takeoff-fill me-2"></i>Bắt đầu ngay hôm nay</a>
+    </div>
+  </div>
+</section>
+
+<!-- IMAGE 3 -->
+<div class="container my-2 mb-5">
+  <img src="/img/da-nang-deposit-bonus-ao-dai-00362.jpg" alt="mcw 77" title="mcw 77" class="page-img mx-auto" style="max-height:400px;object-fit:cover;" decoding="async" loading="lazy" width="1152" height="576">
+</div>
+
+<!-- ADVANTAGES -->
+<section class="advantages-section">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Tại sao chọn chúng tôi</span>
+      <h2 class="section-title">Lý do hàng triệu người Việt tin tưởng MCW 77</h2>
+    </div>
+    <div class="row row-cols-2 row-cols-md-4 g-4">
+      <div class="col">
+        <div class="adv-card h-100">
+          <div class="adv-icon"><i class="bi bi-lightning-charge-fill"></i></div>
+          <h5>Nạp – Rút siêu tốc</h5>
+          <p>Giao dịch được xử lý trong vòng 60 giây. Tiền về tài khoản ngân hàng hoặc ví điện tử ngay lập tức.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="adv-card h-100">
+          <div class="adv-icon"><i class="bi bi-shield-lock-fill"></i></div>
+          <h5>Bảo mật đa lớp</h5>
+          <p>Hệ thống mã hóa SSL 256-bit, xác thực 2 yếu tố và giám sát bảo mật 24/7 bảo vệ toàn bộ tài sản của bạn.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="adv-card h-100">
+          <div class="adv-icon"><i class="bi bi-graph-up-arrow"></i></div>
+          <h5>Tỷ lệ cược cạnh tranh</h5>
+          <p>MCW 77 cung cấp tỷ lệ cược tốt nhất thị trường Việt Nam, RTP lên đến 98% cho các game nổ hũ và casino.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="adv-card h-100">
+          <div class="adv-icon"><i class="bi bi-phone-fill"></i></div>
+          <h5>Giao diện tiếng Việt</h5>
+          <p>Toàn bộ nền tảng được Việt hóa 100%, thân thiện trên mọi thiết bị từ điện thoại đến máy tính bảng.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="adv-card h-100">
+          <div class="adv-icon"><i class="bi bi-headset"></i></div>
+          <h5>Hỗ trợ 24/7</h5>
+          <p>Đội ngũ hỗ trợ người Việt sẵn sàng giải đáp mọi thắc mắc qua Live Chat, Zalo và Telegram bất kỳ lúc nào.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="adv-card h-100">
+          <div class="adv-icon"><i class="bi bi-dice-6-fill"></i></div>
+          <h5>Kho game đồ sộ</h5>
+          <p>Hơn 5.400 trò chơi từ các nhà cung cấp hàng đầu thế giới: slots, baccarat, poker, xóc đĩa, bóng đá...</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="adv-card h-100">
+          <div class="adv-icon"><i class="bi bi-award-fill"></i></div>
+          <h5>Thưởng liên tục</h5>
+          <p>Chương trình khuyến mãi diễn ra hằng ngày: nạp thưởng, hoàn trả, voucher sinh nhật, giải đấu hằng tuần.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="adv-card h-100">
+          <div class="adv-icon"><i class="bi bi-broadcast-pin"></i></div>
+          <h5>Livestream trực tiếp</h5>
+          <p>Theo dõi dealer thật qua camera HD, trải nghiệm casino sống động ngay tại nhà cùng công nghệ live streaming.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- IMAGE 4 -->
+<div class="container my-5">
+  <img src="/img/ho-chi-minh-mobile-casino-non-la-02775.jpg" alt="mcw 77" title="mcw 77" class="page-img mx-auto" style="max-height:400px;object-fit:cover;" decoding="async" loading="lazy" width="1152" height="576">
+</div>
+
+<!-- MAIN CONTENT -->
+<section class="content-section">
+  <div class="container">
+    <div class="row gy-5">
+      <div class="col-lg-8">
+        <span class="section-label">Giới thiệu nền tảng</span>
+        <h2>MCW 77 – Sân chơi cá cược trực tuyến uy tín dành cho người Việt</h2>
+        <p>Trong bối cảnh thị trường cá cược trực tuyến tại Việt Nam ngày càng phát triển mạnh mẽ, <strong>MCW 77</strong> nổi lên như một cái tên đáng tin cậy mà hàng triệu người chơi lựa chọn. Không phải ngẫu nhiên mà MCW 77 trở thành nền tảng cá cược được tìm kiếm nhiều nhất – đó là kết quả của sự đầu tư nghiêm túc vào trải nghiệm người dùng, hệ thống bảo mật và chất lượng dịch vụ suốt nhiều năm qua.</p>
+        <p>Từ những ván bài baccarat hồi hộp trong phòng <strong>casino trực tuyến</strong>, đến những cuộc chiến soi kèo bóng đá căng thẳng trước giờ đấu, hay những cú quay nổ hũ đầy may mắn – MCW 77 mang lại tất cả trong một hệ sinh thái duy nhất, giao diện hoàn toàn tiếng Việt, tương thích mượt mà trên mọi thiết bị.</p>
+
+        <h3>Casino trực tuyến – Đẳng cấp sòng bài ngay tại nhà</h3>
+        <p>Khu vực <strong>casino trực tuyến</strong> của MCW 77 là điểm đến lý tưởng cho những ai yêu thích không khí sòng bài thật sự. Với hệ thống live dealer chuyên nghiệp được phát trực tiếp bằng camera HD, bạn có thể tham gia bàn baccarat, roulette, blackjack hay xóc đĩa bất cứ lúc nào. Các dealer đều được đào tạo bài bản, nói tiếng Việt, tạo cảm giác gần gũi và thân quen cho người chơi trong nước.</p>
+        <p>Không dừng lại ở đó, MCW 77 còn cung cấp phòng VIP dành riêng cho những người chơi High Roller – nơi hạn mức cược cao hơn, phần thưởng hào phóng hơn và dịch vụ cá nhân hóa hoàn toàn. Mỗi bàn chơi đều có lịch sử kết quả minh bạch, giúp người chơi có thể phân tích và đưa ra chiến thuật phù hợp.</p>
+
+        <h3>Lô đề – Truyền thống kết hợp công nghệ hiện đại</h3>
+        <p>Lô đề là một phần không thể thiếu trong văn hóa cá cược Việt Nam. MCW 77 hiểu điều đó nên đã xây dựng một hệ thống <strong>lô đề</strong> hoàn chỉnh, cập nhật kết quả xổ số từ ba miền Bắc – Trung – Nam theo thời gian thực. Từ lô hai số, ba số, đề đầu đuôi, đến xiên và lô kép – tất cả đều được hỗ trợ đầy đủ với giao diện trực quan, dễ dùng ngay cả với người mới bắt đầu.</p>
+        <p>Tỷ lệ ăn lô đề tại MCW 77 thuộc hàng cạnh tranh nhất thị trường, đặc biệt trong các ngày lễ Tết hay sự kiện đặc biệt, nền tảng còn tổ chức giải thưởng bổ sung cho những tài khoản đánh đúng cặp số hiếm.</p>
+
+        <h3>Thể thao &amp; Soi kèo – Đam mê bóng đá Việt</h3>
+        <p>Với người Việt, bóng đá không chỉ là thể thao – đó là niềm đam mê. MCW 77 hiểu điều đó và xây dựng hệ thống <strong>soi kèo</strong> và cá cược thể thao cực kỳ phong phú, bao phủ từ Ngoại hạng Anh, La Liga, Champions League đến V.League, AFF Cup và giải U23 Đông Nam Á. Tỷ lệ kèo được cập nhật liên tục, phân tích chuyên sâu từ đội ngũ chuyên gia giúp người chơi có góc nhìn tốt hơn trước mỗi trận đấu.</p>
+        <p>Ngoài bóng đá, MCW 77 còn hỗ trợ cá cược bóng rổ, tennis, bóng chày và đặc biệt là <strong>thể thao điện tử</strong> – lĩnh vực đang bùng nổ mạnh trong giới trẻ Việt Nam. Các giải đấu Esports lớn như DOTA 2 The International, CS2 Major, VALORANT Champions đều có thể đặt cược trực tiếp tại đây.</p>
+
+        <h3>Nổ hũ &amp; Jackpot – Cơ hội đổi đời trong một cú quay</h3>
+        <p>Khu vực <strong>nổ hũ</strong> và Jackpot là "nam châm" thu hút hàng trăm nghìn lượt chơi mỗi ngày tại MCW 77. Với hơn 2.000 máy slot từ các nhà phát triển game hàng đầu thế giới, người chơi có vô số lựa chọn: từ những máy slot cổ điển 3 cuộn đến slot video 5 cuộn đa tầng với các tính năng free spin, wilds và bonus game phức tạp.</p>
+        <p>Đặc biệt, hũ Jackpot tích lũy của MCW 77 thường xuyên đạt mức tiền thưởng hàng tỷ đồng. Mỗi lượt quay đều đóng góp vào pool jackpot chung, và bất kỳ ai cũng có thể là người may mắn kế tiếp phá hũ.</p>
+      </div>
+      <div class="col-lg-4">
+        <!-- PRIVACY NOTICE CARD -->
+        <div class="privacy-notice mb-4">
+          <i class="bi bi-shield-lock-fill"></i>
+          <div>
+            <h5>Chính sách bảo mật của MCW 77</h5>
+            <p>MCW 77 cam kết bảo vệ toàn bộ thông tin cá nhân của người chơi theo tiêu chuẩn quốc tế. Dữ liệu của bạn được mã hóa SSL 256-bit, không bao giờ được chia sẻ với bên thứ ba mà không có sự đồng ý của bạn. Chúng tôi tuân thủ nghiêm ngặt các quy định về bảo mật dữ liệu và quyền riêng tư. <a href="/privacy-policy" style="color:var(--primary);font-weight:600;">Đọc chi tiết →</a></p>
+          </div>
+        </div>
+
+        <img src="/img/vietnam-casino-betting-image-00309.jpg" alt="mcw 77" title="mcw 77" class="page-img mb-4" style="max-height:260px;object-fit:cover;" decoding="async" loading="lazy" width="1152" height="576">
+
+        <!-- CTA CARD -->
+        <div style="background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1.75rem;margin-bottom:1.5rem;">
+          <h5 style="color:var(--heading);font-weight:700;margin-bottom:.75rem;"><i class="bi bi-stars me-2" style="color:var(--primary);"></i>Ưu đãi chào mừng</h5>
+          <p style="color:var(--muted);font-size:.875rem;margin-bottom:1rem;">Nạp lần đầu nhận thưởng 100% lên đến <strong style="color:var(--primary);">10.000.000 ₫</strong>. Đăng ký ngay, không cần mã khuyến mãi.</p>
+          <a href="/register" class="btn-primary-custom btn w-100 text-center">Đăng ký nhận thưởng</a>
+        </div>
+
+        <!-- QUICK LINKS -->
+        <div style="background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1.5rem;">
+          <h5 style="color:var(--heading);font-weight:700;margin-bottom:1rem;">Truy cập nhanh</h5>
+          <div class="d-flex flex-column gap-2">
+            <a href="/lo-de" style="color:var(--text);background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:.6rem 1rem;font-size:.875rem;transition:border-color .2s;" onmouseover="this.style.borderColor='var(--primary)'" onmouseout="this.style.borderColor='var(--border)'"><i class="bi bi-grid-3x3-gap-fill me-2" style="color:var(--primary);"></i>Lôđề</a>
+            <a href="/casino-truc-tuyen" style="color:var(--text);background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:.6rem 1rem;font-size:.875rem;transition:border-color .2s;" onmouseover="this.style.borderColor='var(--primary)'" onmouseout="this.style.borderColor='var(--border)'"><i class="bi bi-suit-diamond-fill me-2" style="color:var(--primary);"></i>Casino trực tuyến</a>
+            <a href="/jackpot" style="color:var(--text);background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:.6rem 1rem;font-size:.875rem;transition:border-color .2s;" onmouseover="this.style.borderColor='var(--primary)'" onmouseout="this.style.borderColor='var(--border)'"><i class="bi bi-coin me-2" style="color:var(--primary);"></i>Jackpot</a>
+            <a href="/soi-keo" style="color:var(--text);background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:.6rem 1rem;font-size:.875rem;transition:border-color .2s;" onmouseover="this.style.borderColor='var(--primary)'" onmouseout="this.style.borderColor='var(--border)'"><i class="bi bi-bar-chart-line-fill me-2" style="color:var(--primary);"></i>Soi kèo</a>
+            <a href="/the-thao-dien-tu" style="color:var(--text);background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:.6rem 1rem;font-size:.875rem;transition:border-color .2s;" onmouseover="this.style.borderColor='var(--primary)'" onmouseout="this.style.borderColor='var(--border)'"><i class="bi bi-joystick me-2" style="color:var(--primary);"></i>Thể thao điện tử</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- IMAGE 6 -->
+<div class="container mb-5">
+  <img src="/img/nha-trang-betting-festival-01028.jpg" alt="mcw 77" title="mcw 77" class="page-img mx-auto" style="max-height:400px;object-fit:cover;" decoding="async" loading="lazy" width="1152" height="576">
+</div>
+
+<!-- PAYMENT -->
+<section class="payment-section">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Thanh toán nội địa</span>
+      <h2 class="section-title">Nạp &amp; Rút tiền siêu tốc – Hỗ trợ đầy đủ phương thức Việt Nam</h2>
+      <p class="section-subtitle">Tất cả giao dịch bằng VND ₫, xử lý tức thì, không mất phí ẩn</p>
+    </div>
+    <div class="row row-cols-2 row-cols-sm-3 row-cols-md-5 g-3 justify-content-center">
+      <div class="col">
+        <div class="payment-card h-100">
+          <div class="payment-icon"><i class="bi bi-phone-fill"></i></div>
+          <div class="payment-name">MoMo</div>
+          <span class="payment-tag">Nạp/rút tức thì</span>
+          <p style="color:var(--muted);font-size:.78rem;margin-top:.6rem;margin-bottom:0;">Ví điện tử phổ biến nhất Việt Nam, xử lý 24/7 kể cả ngày lễ Tết.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="payment-card h-100">
+          <div class="payment-icon"><i class="bi bi-wallet2"></i></div>
+          <div class="payment-name">ZaloPay</div>
+          <span class="payment-tag">Nạp/rút tức thì</span>
+          <p style="color:var(--muted);font-size:.78rem;margin-top:.6rem;margin-bottom:0;">Liên kết trực tiếp tài khoản ngân hàng, chuyển tiền không giới hạn.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="payment-card h-100">
+          <div class="payment-icon"><i class="bi bi-sim-fill"></i></div>
+          <div class="payment-name">ViettelPay</div>
+          <span class="payment-tag">Nạp/rút tức thì</span>
+          <p style="color:var(--muted);font-size:.78rem;margin-top:.6rem;margin-bottom:0;">Thanh toán qua mạng Viettel, phủ sóng toàn quốc kể cả vùng xa.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="payment-card h-100">
+          <div class="payment-icon"><i class="bi bi-qr-code-scan"></i></div>
+          <div class="payment-name">VietQR</div>
+          <span class="payment-tag">Nạp/rút tức thì</span>
+          <p style="color:var(--muted);font-size:.78rem;margin-top:.6rem;margin-bottom:0;">Quét mã QR từ bất kỳ app ngân hàng nào, nhanh chóng và tiện lợi.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="payment-card h-100">
+          <div class="payment-icon"><i class="bi bi-bank2"></i></div>
+          <div class="payment-name">Internet Banking</div>
+          <span class="payment-tag">NAPAS – Tức thì</span>
+          <p style="color:var(--muted);font-size:.78rem;margin-top:.6rem;margin-bottom:0;">Hỗ trợ hơn 40 ngân hàng nội địa qua cổng NAPAS an toàn bảo mật.</p>
+        </div>
+      </div>
+    </div>
+    <p class="text-center mt-4" style="color:var(--muted);font-size:.85rem;">Tất cả giao dịch được xử lý bằng <strong style="color:var(--text);">VND (₫)</strong> – Không cần đổi ngoại tệ. Hạn mức nạp tối thiểu chỉ từ <strong style="color:var(--primary);">50.000 ₫</strong>.</p>
+  </div>
+</section>
+
+<!-- IMAGE 7 -->
+<div class="container my-5">
+  <img src="/img/phu-quoc-vip-bonus-vietnam-model-00173.jpg" alt="mcw 77" title="mcw 77" class="page-img mx-auto" style="max-height:400px;object-fit:cover;" decoding="async" loading="lazy" width="1152" height="576">
+</div>
+
+<!-- PROVIDERS -->
+<section class="providers-section">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Đối tác game</span>
+      <h2 class="section-title">Nhà cung cấp trò chơi hàng đầu thế giới</h2>
+      <p class="section-subtitle">MCW 77 hợp tác với các studio game uy tín nhất để mang đến trải nghiệm đỉnh cao</p>
+    </div>
+    <div class="row row-cols-3 row-cols-sm-4 row-cols-md-6 g-3">
+      <div class="col"><div class="provider-card"><i class="bi bi-joystick"></i><span>Pragmatic Play</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-controller"></i><span>Evolution Gaming</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-dice-5-fill"></i><span>Microgaming</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-stars"></i><span>NetEnt</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-suit-spade-fill"></i><span>Playtech</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-gem"></i><span>Habanero</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-lightning-fill"></i><span>PG Soft</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-trophy-fill"></i><span>CQ9 Gaming</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-fire"></i><span>Jili Games</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-broadcast"></i><span>SA Gaming</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-camera-video-fill"></i><span>Sexy Baccarat</span></div></div>
+      <div class="col"><div class="provider-card"><i class="bi bi-puzzle-fill"></i><span>Spadegaming</span></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="testimonials-section">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Người chơi nói gì</span>
+      <h2 class="section-title">Đánh giá từ cộng đồng MCW 77</h2>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-4">
+        <div class="testi-card">
+          <div class="testi-stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+          <p class="testi-text">"Mình chơi cá cược online mấy năm nay, đã thử qua nhiều trang nhưng MCW 77 là nơi mình ở lại lâu nhất. Rút tiền cực nhanh, lần nào cũng về MoMo trong vòng vài phút. Giao diện tiếng Việt rõ ràng, không bị rối như mấy trang khác. Đặc biệt kèo bóng đá tỷ lệ rất cạnh tranh, mình hay soi kèo Ngoại hạng Anh ở đây."</p>
+          <div class="testi-author">
+            <div class="testi-avatar">TH</div>
+            <div>
+              <div class="testi-name">Trần Hoàng Minh</div>
+              <div class="testi-city"><i class="bi bi-geo-alt-fill me-1"></i>Hà Nội</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="testi-card">
+          <div class="testi-stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+          <p class="testi-text">"Lúc đầu mình hơi ngại vì chưa biết trang nào uy tín, nhưng thấy bạn bè giới thiệu MCW 77 nên thử. Đăng ký xong là có thưởng nạp đầu liền, mình nạp 500k được thêm 500k nữa chơi luôn. Bộ phận hỗ trợ chat rất nhanh, hỏi gì cũng trả lời được, nói tiếng Việt tự nhiên không phải dịch máy. Mình hay chơi nổ hũ PG Soft, thắng vài lần rồi."</p>
+          <div class="testi-author">
+            <div class="testi-avatar">NL</div>
+            <div>
+              <div class="testi-name">Nguyễn Thị Lan Anh</div>
+              <div class="testi-city"><i class="bi bi-geo-alt-fill me-1"></i>TP. Hồ Chí Minh</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="testi-card">
+          <div class="testi-stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+          <p class="testi-text">"Dân Đà Nẵng mà mê esports thì MCW 77 là chỗ lý tưởng. Kèo DOTA 2 và CS2 cập nhật liên tục, tỷ lệ hợp lý hơn nhiều trang mình từng dùng. Nạp qua VietQR tiện lắm, quét mã là xong không cần nhớ số tài khoản. Mình đã là thành viên gần 1 năm, chưa gặp vấn đề gì lớn về kỹ thuật hay thanh toán cả."</p>
+          <div class="testi-author">
+            <div class="testi-avatar">PQ</div>
+            <div>
+              <div class="testi-name">Phạm Quang Khải</div>
+              <div class="testi-city"><i class="bi bi-geo-alt-fill me-1"></i>Đà Nẵng</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- IMAGE 8 -->
+<div class="container mb-5">
+  <img src="/img/da-nang-red-envelope-bonus-night-market-02425.jpg" alt="mcw 77" title="mcw 77" class="page-img mx-auto" style="max-height:400px;object-fit:cover;" decoding="async" loading="lazy" width="1152" height="576">
+</div>
+
+<!-- SUPPORT -->
+<section class="support-section">
+  <div class="container">
+    <div class="text-center mb-5">
+      <span class="section-label">Hỗ trợ khách hàng</span>
+      <h2 class="section-title">Hỗ trợ tiếng Việt 24/7 – Luôn sẵn sàng cho bạn</h2>
+      <p class="section-subtitle">Đội ngũ chăm sóc khách hàng người Việt, am hiểu sản phẩm, phản hồi nhanh chóng mọi lúc mọi nơi</p>
+    </div>
+    <div class="row row-cols-2 row-cols-md-4 g-4">
+      <div class="col">
+        <div class="support-card h-100">
+          <i class="bi bi-chat-dots-fill"></i>
+          <h5>Live Chat</h5>
+          <p>Trò chuyện trực tiếp với nhân viên hỗ trợ ngay trên website. Thời gian phản hồi trung bình dưới 30 giây.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="support-card h-100">
+          <i class="bi bi-messenger"></i>
+          <h5>Zalo</h5>
+          <p>Liên hệ qua Zalo – ứng dụng nhắn tin phổ biến nhất Việt Nam. Hỗ trợ hình ảnh, video và tài liệu đính kèm.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="support-card h-100">
+          <i class="bi bi-send-fill"></i>
+          <h5>Telegram</h5>
+          <p>Kênh Telegram chính thức của MCW 77 – nhận thông báo khuyến mãi mới nhất và hỗ trợ kỹ thuật nhanh chóng.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="support-card h-100">
+          <i class="bi bi-telephone-fill"></i>
+          <h5>Hotline</h5>
+          <p>Gọi điện trực tiếp cho đội ngũ hỗ trợ trong giờ cao điểm. Phục vụ bằng tiếng Việt, miễn phí cước gọi nội mạng.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA FINAL -->
+<section style="padding:70px 0;background:linear-gradient(135deg,#0d1526 0%,#1a2e4a 100%);">
+  <div class="container text-center">
+    <span class="section-label">Tham gia ngay</span>
+    <h2 class="section-title" style="font-size:clamp(1.8rem,3.5vw,2.6rem);">Sẵn sàng thắng lớn cùng MCW 77?</h2>
+    <p style="color:var(--muted);max-width:540px;margin:0 auto 2rem;">Hàng triệu người Việt đã chọn MCW 77 làm sân chơi tin cậy. Đăng ký miễn phí hôm nay và nhận ngay gói thưởng chào mừng lên tới <strong style="color:var(--primary);">10.000.000 ₫</strong>.</p>
+    <div class="d-flex gap-3 justify-content-center flex-wrap">
+      <a href="/register" class="btn-primary-custom btn btn-lg"><i class="bi bi-person-plus-fill me-2"></i>Đăng ký miễn phí</a>
+      <a href="/login" class="btn-outline-custom btn btn-lg"><i class="bi bi-box-arrow-in-right me-2"></i>Đăng nhập</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="container">
+    <div class="row gy-4">
+      <div class="col-lg-4">
+        <div class="footer-logo">
+          <img src="/logo.png" alt="MCW 77" height="40" decoding="async">
+        </div>
+        <p class="footer-desc">MCW 77 – Nền tảng cá cược trực tuyến uy tín hàng đầu Việt Nam. Casino, lô đề, thể thao, nổ hũ jackpot – tất cả trong một. Nạp rút tức thì bằng VND ₫.</p>
+        <p style="color:var(--muted);font-size:.8rem;margin-top:1rem;"><i class="bi bi-envelope-fill me-1" style="color:var(--primary);"></i>support@mcw77.org</p>
+      </div>
+      <div class="col-sm-6 col-lg-4">
+        <p class="footer-heading">Danh mục</p>
+        <ul class="footer-links">
+          <li><a href="/lo-de"><i class="bi bi-chevron-right me-1"></i>Lô đề</a></li>
+          <li><a href="/high-roller"><i class="bi bi-chevron-right me-1"></i>High Roller</a></li>
+          <li><a href="/voucher"><i class="bi bi-chevron-right me-1"></i>Voucher</a></li>
+          <li><a href="/the-thao-dien-tu"><i class="bi bi-chevron-right me-1"></i>Thể thao điện tử</a></li>
+          <li><a href="/soi-keo"><i class="bi bi-chevron-right me-1"></i>Soi kèo</a></li>
+          <li><a href="/jackpot"><i class="bi bi-chevron-right me-1"></i>Jackpot</a></li>
+          <li><a href="/casino-truc-tuyen"><i class="bi bi-chevron-right me-1"></i>Casino trực tuyến</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-lg-4">
+        <p class="footer-heading">Thông tin</p>
+        <ul class="footer-links">
+          <li><a href="/about-us"><i class="bi bi-chevron-right me-1"></i>Giới thiệu</a></li>
+          <li><a href="/terms-conditions"><i class="bi bi-chevron-right me-1"></i>Điều khoản và Điều kiện</a></li>
+          <li><a href="/privacy-policy"><i class="bi bi-chevron-right me-1"></i>Chính sách bảo mật</a></li>
+          <li><a href="/responsible-gaming"><i class="bi bi-chevron-right me-1"></i>Chơi game có trách nhiệm</a></li>
+          <li><a href="/register"><i class="bi bi-chevron-right me-1"></i>Đăng ký</a></li>
+          <li><a href="/login"><i class="bi bi-chevron-right me-1"></i>Đăng nhập</a></li>
+          <li><a href="/faq"><i class="bi bi-chevron-right me-1"></i>Câu hỏi thường gặp</a></li>
+          <li><a href="/sitemap.xml"><i class="bi bi-chevron-right me-1"></i>Sơ đồ trang web</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2025 MCW 77. Bảo lưu mọi quyền. Chỉ dành cho người từ 18 tuổi trở lên.</p>
+      <p style="color:var(--muted);font-size:.78rem;">Cờ bạc có thể gây nghiện. Hãy chơi có trách nhiệm. <a href="/responsible-gaming" style="color:var(--primary);">Tìm hiểu thêm</a></p>
+    </div>
+  </div>
+</footer>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+// TRUST BADGES ANIMATION
+(function(){
+  var badges = document.querySelectorAll('.trust-badge');
+  var observer = new IntersectionObserver(function(entries){
+    entries.forEach(function(entry, i){
+      if(entry.isIntersecting){
+        setTimeout(function(){
+          entry.target.classList.add('visible');
+        }, i * 120);
+        observer.unobserve(entry.target);
+      }
+    });
+  },{threshold:0.2});
+  badges.forEach(function(b){ observer.observe(b); });
+})();
+
+// STATS COUNTER
+(function(){
+  function formatNum(n){
+    if(n>=1000000) return (n/1000000).toFixed(1).replace('.',',')+'tr+';
+    if(n>=1000) return Math.round(n/1000)+'k+';
+    return n+'%';
+  }
+  var nums = document.querySelectorAll('.stat-number[data-target]');
+  var started = false;
+  function startCount(){
+    if(started) return;
+    started = true;
+    nums.forEach(function(el){
+      var target = parseInt(el.getAttribute('data-target'));
+      var start = 0;
+      var duration = 1800;
+      var step = target / (duration / 16);
+      var cur = 0;
+      var timer = setInterval(function(){
+        cur += step;
+        if(cur >= target){ cur = target; clearInterval(timer); }
+        el.textContent = formatNum(Math.round(cur));
+      }, 16);
+    });
+  }
+  var section = document.querySelector('.stats-section');
+  if(section){
+    var obs = new IntersectionObserver(function(entries){
+      if(entries[0].isIntersecting){ startCount(); obs.disconnect(); }
+    },{threshold:0.3});
+    obs.observe(section);
+  }
+})();
+
+// COUNTDOWN
+(function(){
+  var target = new Date();
+  target.setDate(target.getDate() + 12);
+  target.setHours(20, 45, 0, 0);
+  function pad(n){ return String(n).padStart(2,'0'); }
+  function tick(){
+    var now = new Date();
+    var diff = Math.max(0, target - now);
+    var days = Math.floor(diff / 86400000);
+    var hours = Math.floor((diff % 86400000) / 3600000);
+    var mins = Math.floor((diff % 3600000) / 60000);
+    var secs = Math.floor((diff % 60000) / 1000);
+    var d = document.getElementById('cd-days');
+    var h = document.getElementById('cd-hours');
+    var m = document.getElementById('cd-mins');
+    var s = document.getElementById('cd-secs');
+    if(d) d.textContent = pad(days);
+    if(h) h.textContent = pad(hours);
+    if(m) m.textContent = pad(mins);
+    if(s) s.textContent = pad(secs);
+  }
+  tick();
+  setInterval(tick, 1000);
+})();
+</script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;2d5ce37cba934a61923742585af95ecf&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+<div id="br-stick-spacer" style="width: 100%; height: 92px; pointer-events: none;"></div><div id="br-stick" style="left: 50%; transform: translateX(-50%); max-width: 460px; width: auto; bottom: 0px;"><div class="wrap" role="region" aria-label="Đăng ký và đăng nhập">  <a href="https://www.fv88club.vip?a=142564" class="btn btn-register" target="_blank" rel="sponsored nofollow noopener noreferrer">Đăng ký ngay</a>  <a href="https://www.fv88club.vip?a=142564" class="btn btn-login" target="_blank" rel="sponsored nofollow noopener noreferrer">Đăng nhập</a></div></div></body></html>

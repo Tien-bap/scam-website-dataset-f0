@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_684704a511bdbc400a3900d1f8f80b36a19113483f7795a408a1036d7d93da80",
+  "candidate_sha256": "4ff7da1f7c37df66c7334a4cca89e877bf1b3897f0c07580ec25ce0375ca86fc",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://az888.lol",
+  "requested_url": "https://siveryane.net/",
+  "browser_final_url": "https://siveryane.net/",
+  "source_urls": [
+    "https://az888.lol"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1236,
+      "source_url": "https://az888.lol",
+      "source_hostname": "az888.lol",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://siveryane.net/",
+      "final_hostname": "siveryane.net",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1819,
+      "checked_at": "2026-10-05T12:18:36.878172+00:00",
+      "error": null,
+      "normalized_source_url": "https://az888.lol/",
+      "normalized_final_url": "https://siveryane.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_684704a511bdbc400a3900d1f8f80b36a19113483f7795a408a1036d7d93da80",
+    "representative_source_index": 1236,
+    "representative_source_url": "https://az888.lol",
+    "representative_final_url": "https://siveryane.net/",
+    "normalized_final_url": "https://siveryane.net/",
+    "source_hostname": "az888.lol",
+    "final_hostname": "siveryane.net",
+    "source_urls": [
+      "https://az888.lol"
+    ],
+    "provenance": [
+      {
+        "source_index": 1236,
+        "source_url": "https://az888.lol",
+        "source_hostname": "az888.lol",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://siveryane.net/",
+        "final_hostname": "siveryane.net",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1819,
+        "checked_at": "2026-10-05T12:18:36.878172+00:00",
+        "error": null,
+        "normalized_source_url": "https://az888.lol/",
+        "normalized_final_url": "https://siveryane.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "AZ888 | Trang Chính Chủ AZ888.COM Không Chặn - Lag 2026",
+  "capture_timestamp": "2026-10-05T14:45:26.735491+00:00",
+  "dom_chars": 107965,
+  "screenshot_bytes": 587927,
+  "dom_sha256": "4aca33d1ff770bbe77eea16f09f716f8c880c56d0e81f0cc2fb79ab9dc208593",
+  "screenshot_sha256": "5e64e32d926317fcddfb41b9bd7a2373e9bb109c593e2792509038bf8d1f96f5",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://siveryane.net/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://siveryane.net/",
+    "browser_final_url": "https://siveryane.net/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 6055
+}

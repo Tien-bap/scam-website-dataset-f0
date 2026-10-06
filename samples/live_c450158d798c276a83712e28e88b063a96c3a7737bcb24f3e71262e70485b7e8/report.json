@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_c450158d798c276a83712e28e88b063a96c3a7737bcb24f3e71262e70485b7e8",
+  "candidate_sha256": "8d2cf5b2da51d3544b300e515bf6203f38b8ffc532d721655e0002e96b89f019",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "bongdainfo.net",
+  "requested_url": "https://bongdainfox.tv/",
+  "browser_final_url": "https://bongdainfox.tv/",
+  "source_urls": [
+    "bongdainfo.net"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 15496,
+      "source_url": "bongdainfo.net",
+      "source_hostname": "bongdainfo.net",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://bongdainfox.tv/",
+      "final_hostname": "bongdainfox.tv",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 924,
+      "checked_at": "2026-10-05T12:41:57.079190+00:00",
+      "error": null,
+      "normalized_source_url": "https://bongdainfo.net/",
+      "normalized_final_url": "https://bongdainfox.tv/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_c450158d798c276a83712e28e88b063a96c3a7737bcb24f3e71262e70485b7e8",
+    "representative_source_index": 15496,
+    "representative_source_url": "bongdainfo.net",
+    "representative_final_url": "https://bongdainfox.tv/",
+    "normalized_final_url": "https://bongdainfox.tv/",
+    "source_hostname": "bongdainfo.net",
+    "final_hostname": "bongdainfox.tv",
+    "source_urls": [
+      "bongdainfo.net"
+    ],
+    "provenance": [
+      {
+        "source_index": 15496,
+        "source_url": "bongdainfo.net",
+        "source_hostname": "bongdainfo.net",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://bongdainfox.tv/",
+        "final_hostname": "bongdainfox.tv",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 924,
+        "checked_at": "2026-10-05T12:41:57.079190+00:00",
+        "error": null,
+        "normalized_source_url": "https://bongdainfo.net/",
+        "normalized_final_url": "https://bongdainfox.tv/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Bongdainfo️ - Trang dữ liệu Tỷ số trực tuyến Bongdalu Vip",
+  "capture_timestamp": "2026-10-05T14:54:59.964629+00:00",
+  "dom_chars": 1159618,
+  "screenshot_bytes": 247791,
+  "dom_sha256": "5ec2c71a6039a2574ca5e20a9915cea5af527b9ea835d5941fdc26c6fc5f2b35",
+  "screenshot_sha256": "85ef65c749dd8b44309245b88f6e8cd34b60c6627df8a5bbc5f9509ca4981644",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://bongdainfox.tv/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://bongdainfox.tv/",
+    "browser_final_url": "https://bongdainfox.tv/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 5,
+    "resource": 6
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4730
+}

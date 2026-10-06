@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_7cb550c2ced1b3f5c46dd31c440485ee239c07a17e9dbc162d79abf8df62f260",
+  "candidate_sha256": "fbc8edaab7d0b90744c2d5d9f11a13977d09958305e8e77bb1a4c06eb15737fc",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://eatlbd.com/images/news_box/glk/new/",
+  "requested_url": "https://eatlbd.com/images/news_box/glk/new/",
+  "browser_final_url": "https://eatlbd.com/images/news_box/glk/new/",
+  "source_urls": [
+    "https://eatlbd.com/images/news_box/glk/new/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 74254,
+      "source_url": "https://eatlbd.com/images/news_box/glk/new/",
+      "source_hostname": "eatlbd.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://eatlbd.com/images/news_box/glk/new/",
+      "final_hostname": "eatlbd.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 2159,
+      "elapsed_ms": 368,
+      "checked_at": "2026-10-05T13:15:12.004505+00:00",
+      "error": null,
+      "normalized_source_url": "https://eatlbd.com/images/news_box/glk/new/",
+      "normalized_final_url": "https://eatlbd.com/images/news_box/glk/new/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_7cb550c2ced1b3f5c46dd31c440485ee239c07a17e9dbc162d79abf8df62f260",
+    "representative_source_index": 74254,
+    "representative_source_url": "https://eatlbd.com/images/news_box/glk/new/",
+    "representative_final_url": "https://eatlbd.com/images/news_box/glk/new/",
+    "normalized_final_url": "https://eatlbd.com/images/news_box/glk/new/",
+    "source_hostname": "eatlbd.com",
+    "final_hostname": "eatlbd.com",
+    "source_urls": [
+      "https://eatlbd.com/images/news_box/glk/new/"
+    ],
+    "provenance": [
+      {
+        "source_index": 74254,
+        "source_url": "https://eatlbd.com/images/news_box/glk/new/",
+        "source_hostname": "eatlbd.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://eatlbd.com/images/news_box/glk/new/",
+        "final_hostname": "eatlbd.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 2159,
+        "elapsed_ms": 368,
+        "checked_at": "2026-10-05T13:15:12.004505+00:00",
+        "error": null,
+        "normalized_source_url": "https://eatlbd.com/images/news_box/glk/new/",
+        "normalized_final_url": "https://eatlbd.com/images/news_box/glk/new/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Ethics Advance Technology Limited",
+  "capture_timestamp": "2026-10-05T14:47:33.578734+00:00",
+  "dom_chars": 12182,
+  "screenshot_bytes": 89755,
+  "dom_sha256": "e3ca106b496857a5e323c235fe822203772156bcdfe3e51c1228a1b708c92025",
+  "screenshot_sha256": "24613ed6326e2e32ba78e16251a2d437ac41897bdd57eb79cf5d83ca53aafc02",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://eatlbd.com/images/news_box/glk/new/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://eatlbd.com/images/news_box/glk/new/",
+    "browser_final_url": "https://eatlbd.com/images/news_box/glk/new/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2611
+}

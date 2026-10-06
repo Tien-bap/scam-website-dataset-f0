@@ -1,0 +1,415 @@
+{
+  "candidate_id": "live_66fa19042103e1393137836c601ae6a98a7f1c19297ff7e4a8d9ea3eec1149d6",
+  "candidate_sha256": "c281d9d901200c9ce6842dc4c59b5af5fc0cf33907456e27fe292f2f0b442f9c",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+  "requested_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+  "browser_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+  "source_urls": [
+    "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+    "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+    "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+    "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/"
+  ],
+  "source_count": 5,
+  "provenance": [
+    {
+      "source_index": 55026,
+      "source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "source_hostname": "noticias.canal22.org.mx",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "final_hostname": "noticias.canal22.org.mx",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 62771,
+      "elapsed_ms": 1346,
+      "checked_at": "2026-10-05T13:13:16.267608+00:00",
+      "error": null,
+      "normalized_source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 68788,
+      "source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+      "source_hostname": "noticias.canal22.org.mx",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "final_hostname": "noticias.canal22.org.mx",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 62771,
+      "elapsed_ms": 1626,
+      "checked_at": "2026-10-05T13:17:22.198920+00:00",
+      "error": null,
+      "normalized_source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+      "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 76613,
+      "source_url": "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+      "source_hostname": "noticias.canal22.org.mx",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "final_hostname": "noticias.canal22.org.mx",
+      "redirect_count": 2,
+      "content_type": "text/html",
+      "bytes_sampled": 62771,
+      "elapsed_ms": 2166,
+      "checked_at": "2026-10-05T13:18:05.018727+00:00",
+      "error": null,
+      "normalized_source_url": "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+      "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 107903,
+      "source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+      "source_hostname": "noticias.canal22.org.mx",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "final_hostname": "noticias.canal22.org.mx",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 62771,
+      "elapsed_ms": 1621,
+      "checked_at": "2026-10-05T13:18:22.652167+00:00",
+      "error": null,
+      "normalized_source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+      "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 114793,
+      "source_url": "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "source_hostname": "noticias.canal22.org.mx",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "final_hostname": "noticias.canal22.org.mx",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 62771,
+      "elapsed_ms": 1335,
+      "checked_at": "2026-10-05T13:18:26.507710+00:00",
+      "error": null,
+      "normalized_source_url": "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_66fa19042103e1393137836c601ae6a98a7f1c19297ff7e4a8d9ea3eec1149d6",
+    "representative_source_index": 55026,
+    "representative_source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+    "representative_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+    "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+    "source_hostname": "noticias.canal22.org.mx",
+    "final_hostname": "noticias.canal22.org.mx",
+    "source_urls": [
+      "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+      "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+      "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/"
+    ],
+    "provenance": [
+      {
+        "source_index": 55026,
+        "source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "source_hostname": "noticias.canal22.org.mx",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "final_hostname": "noticias.canal22.org.mx",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 62771,
+        "elapsed_ms": 1346,
+        "checked_at": "2026-10-05T13:13:16.267608+00:00",
+        "error": null,
+        "normalized_source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 68788,
+        "source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+        "source_hostname": "noticias.canal22.org.mx",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "final_hostname": "noticias.canal22.org.mx",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 62771,
+        "elapsed_ms": 1626,
+        "checked_at": "2026-10-05T13:17:22.198920+00:00",
+        "error": null,
+        "normalized_source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+        "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 76613,
+        "source_url": "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+        "source_hostname": "noticias.canal22.org.mx",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "final_hostname": "noticias.canal22.org.mx",
+        "redirect_count": 2,
+        "content_type": "text/html",
+        "bytes_sampled": 62771,
+        "elapsed_ms": 2166,
+        "checked_at": "2026-10-05T13:18:05.018727+00:00",
+        "error": null,
+        "normalized_source_url": "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+        "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 107903,
+        "source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+        "source_hostname": "noticias.canal22.org.mx",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "final_hostname": "noticias.canal22.org.mx",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 62771,
+        "elapsed_ms": 1621,
+        "checked_at": "2026-10-05T13:18:22.652167+00:00",
+        "error": null,
+        "normalized_source_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676",
+        "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 114793,
+        "source_url": "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "source_hostname": "noticias.canal22.org.mx",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "final_hostname": "noticias.canal22.org.mx",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 62771,
+        "elapsed_ms": 1335,
+        "checked_at": "2026-10-05T13:18:26.507710+00:00",
+        "error": null,
+        "normalized_source_url": "http://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "normalized_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 5,
+    "unique_source_url_count": 4,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Amazon Anmelden",
+  "capture_timestamp": "2026-10-05T14:45:12.006402+00:00",
+  "dom_chars": 64876,
+  "screenshot_bytes": 47363,
+  "dom_sha256": "8dd249f59f213e6a55e056dedb665bee8c176d8f44de30a447a27e8d0ad8fb46",
+  "screenshot_sha256": "3789e614dfa2b0c342c74bfdb9f6eab203a86f71781e49e7ebb0d09543fc0526",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+    "browser_final_url": "https://noticias.canal22.org.mx/wp-content/uploads/2019/3C4GL9HMM1ZT2tabhomevasSto/ZyqSbn79UjQlnCF9jgWlYmzkkKLKIutqLf0HoRw803VrgSrbgIssw6syEwzRA/85200a8f134802dd452522a59edc9676/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3797
+}

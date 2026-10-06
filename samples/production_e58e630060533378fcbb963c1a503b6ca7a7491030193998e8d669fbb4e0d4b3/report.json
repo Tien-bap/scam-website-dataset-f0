@@ -1,0 +1,27 @@
+{
+  "original_url": "https://sv388one.net",
+  "hostname": "sv388one.net",
+  "checked_at": "2026-10-04T13:34:09.768933+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f9288-bbb2-74d3-950b-93daf505e87b",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-24T05:11:14.177Z",
+  "scan_original_url": "https://orlandoforge.com/",
+  "final_url": "https://sv388one.net/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 20449,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.112,
+  "discovery": {
+    "batch_id": "65768fea143f905e1760902f691415898e936d8ba52776eb18779e745cac2827",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

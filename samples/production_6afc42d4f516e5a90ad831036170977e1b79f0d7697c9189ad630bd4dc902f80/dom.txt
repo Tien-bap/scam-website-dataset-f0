@@ -1,0 +1,923 @@
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="社團法人台灣扶輪出版暨網路資訊協會,台灣扶輪出版暨網路資訊協會,Taiwan Rotary Publication and E-Information Association,Rotary,月刊">
+<meta name="description" content="扶輪的主要目標是服務--在社區、在工作場所、以及在世界各地。扶輪社員辦理許多社區服務計劃來處裡今天許多最關鍵的問題，例如瀕臨危險的兒童、貧窮及飢餓、環境、文盲、及暴力。他們也支持為了青少年、教育機會及學生、老師及其他專業人士的國際交換、以及職業及職業發展等而舉辦的計畫。扶輪的座右銘是超我服務(Service Above Self)。">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-KM35MZ186E&amp;cx=c&amp;gtm=4e68b1"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-218242713-1&amp;cx=c&amp;gtm=4e68b1"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FJRK53JJC6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FJRK53JJC6');
+</script><link rel="shortcut icon" href="images/icon.ico">
+<title>首頁</title>
+<link rel="stylesheet" href="css/animate.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/font-awesome.min.css">
+<link rel="stylesheet" href="css/reset.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/album.css">
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link rel="stylesheet" href="css/owl.theme.default.min.css">
+<link rel="stylesheet" href="css/index.css">
+<script src="js/jquery-1.12.4.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/plugins1.js"></script>
+<script src="js/nav.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/custom.js"></script>
+<style>
+.main .container {
+	padding-top: 120px;
+}
+</style>
+<script>
+$(function() {
+	var owl = $('.owl-carousel');
+	owl.owlCarousel({
+		loop:true, // 循環播放
+		nav:true, // 顯示點點
+		margin:10, // 外距 10px
+		autoplay:true,
+		autoplayTimeout:7000,
+		autoplayHoverPause:true,
+		smartSpeed:700,
+		responsive:{        
+			0:{
+				items:1 // 螢幕大小為 0~ 顯示 1 個項目
+			}
+		}
+	});
+});
+</script>
+</head><body class="menu-close">
+<!-- header star -->
+<!-- Mobile Search -->
+<div id="mobile-search" class="mobile-search hide-search hidden-md hidden-lg">
+    <div style="padding: 10px 0;">
+    	<form name="formSearch3" action="//taiwan-rotary.org/search/" method="post">
+            <input name="keyword" style="border: none;background: transparent;width: calc(100% - 40px);padding: 5px 10px;" type="text" value="" placeholder="輸入關鍵字">
+            <font class="dropdown_search for_mobile">
+                <i class="fa fa-question-circle"></i>
+                <!--隱藏清單-->
+                <div class="dropdown-content">可搜尋扶輪月刊、最新訊息、RI社長文告、保管委員會主委文告、服務活動、最新文章、相關訊息。</div>
+            </font>
+            <a class="" onclick="javascript:document.formSearch3.submit();"><i class="fa fa-search"></i></a>
+        </form>
+    </div> <!-- //.search -->
+</div>
+
+<!-- Mobile Menu -->
+<div id="mobile-menu" class="mobile-nav hide-nav hidden-md hidden-lg">
+	   
+    <ul class="mobile-navigation menu list-h">
+    
+    	<li><a href="//taiwan-rotary.org/article/index.php?id=4">最新訊息</a></li>
+        <li class="has-child">
+            <a href="//taiwan-rotary.org/ebooks">扶輪月刊</a>
+            <ul>
+            	<li><a href="//taiwan-rotary.org/ebooks/index.php?id=2026">2026-27</a></li>
+            	<li><a href="//taiwan-rotary.org/ebooks/index.php?id=2025">2025-26</a></li>
+            	<li><a href="//taiwan-rotary.org/ebooks/index.php?id=2024">2024-25</a></li>
+            	<li><a href="//taiwan-rotary.org/ebooks/index.php?id=2023">2023-24</a></li>
+            	<li><a href="//taiwan-rotary.org/ebooks/index.php?id=2022">2022-23</a></li>
+                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2021">2021-22</a></li>
+                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2020">2020-21</a></li>
+                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2019">2019-20</a></li>
+                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2018">2018-19</a></li>
+                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2017">2017-18</a></li>
+                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2016">2016-17</a></li>
+                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2015">2015-16</a></li>
+            </ul>
+        <span class="toggle-submenu"></span></li>
+        <li><a href="//taiwan-rotary.org/video">影片中心</a></li>
+        <li><a href="//taiwan-rotary.org/links">扶輪連結</a></li>
+        <li class="has-child">
+            <a href="//taiwan-rotary.org/download">下載專區</a>
+            <ul>
+                <li><a href="//taiwan-rotary.org/download">下載專區</a></li>
+                <li><a href="//taiwan-rotary.org/download/XXX.php">訓練講義</a></li>
+            </ul>
+        <span class="toggle-submenu"></span></li>
+        <li class="has-child">
+            <a href="//taiwan-rotary.org/rotary">扶輪智庫</a>
+            <ul>
+                <li><a href="//taiwan-rotary.org/rotary">國際扶輪</a></li>
+                <li><a href="//taiwan-rotary.org/rotary/fund.php">扶輪基金</a></li>
+                <li><a href="//taiwan-rotary.org/rotary/magazine.php">協會與華文區域扶輪雜誌</a></li>
+            </ul>
+        <span class="toggle-submenu"></span></li>
+    
+    </ul>
+		
+    <button type="button" class="close" aria-hidden="true">
+        <span>關閉</span> <i class="fa fa-times"></i>
+    </button>
+     
+</div>
+
+<!-- Header -->
+<header id="header" class="site-header" role="banner">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 logo">
+                <a href="//taiwan-rotary.org/index.php">
+                    <img src="//taiwan-rotary.org/images/logo.svg?v=20260508">
+                </a>
+            </div> <!-- //.logo -->
+            
+            <div class="col-md-7 position">
+                <nav id="navigation" class="hidden-sm hidden-xs">
+                    <ul id="main-nav" class="main-navigation drop-down-menu">
+                        <li class=""><a href="//taiwan-rotary.org/article/index.php?id=4">最新訊息</a></li>
+                        <li class="">
+                        	<a href="//taiwan-rotary.org/ebooks">扶輪月刊</a>
+                            <ul>
+                            	<li><a href="//taiwan-rotary.org/ebooks/index.php?id=2026">2026-27</a></li>
+                            	<li><a href="//taiwan-rotary.org/ebooks/index.php?id=2025">2025-26</a></li>
+                            	<li><a href="//taiwan-rotary.org/ebooks/index.php?id=2024">2024-25</a></li>
+                            	<li><a href="//taiwan-rotary.org/ebooks/index.php?id=2023">2023-24</a></li>
+                            	<li><a href="//taiwan-rotary.org/ebooks/index.php?id=2022">2022-23</a></li>
+                                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2021">2021-22</a></li>
+                                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2020">2020-21</a></li>
+                                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2019">2019-20</a></li>
+                                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2018">2018-19</a></li>
+                                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2017">2017-18</a></li>
+                                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2016">2016-17</a></li>
+                                <li><a href="//taiwan-rotary.org/ebooks/index.php?id=2015">2015-16</a></li>
+                            </ul>
+                        </li>
+                        <li class=""><a href="//taiwan-rotary.org/video">影片中心</a></li>
+                        <li class=""><a href="//taiwan-rotary.org/links">扶輪連結</a></li>
+                        <li class="">
+                            <a href="//taiwan-rotary.org/download">下載專區</a>
+                            <ul>
+                                <li><a href="//taiwan-rotary.org/download">下載專區</a></li>
+                                <li><a href="//taiwan-rotary.org/download/XXX.php">訓練講義</a></li>
+                            </ul>
+                        </li>
+                        <li class="">
+                        	<a href="//taiwan-rotary.org/rotary">扶輪智庫</a>
+                            <ul>
+                                <li><a href="//taiwan-rotary.org/rotary/">國際扶輪</a></li>
+                                <li><a href="//taiwan-rotary.org/rotary/fund.php">扶輪基金</a></li>
+                                <li><a href="//taiwan-rotary.org/rotary/magazine.php">協會與華文區域扶輪雜誌</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+                
+                <!-- 搜尋按鈕 -->
+                <a href="#mobile-search" class="visible-xs visible-sm mobile-search-trigger">
+                    <i class="fa fa-search"></i>
+                </a>
+                
+            	<!-- menu 按鈕 -->
+                <a href="#mobile-menu" class="visible-xs visible-sm mobile-menu-trigger">
+                    <i class="fa  fa-reorder"></i>
+                </a>
+            </div>
+            
+            <div class="col-md-3">
+                <div class="search">
+                <form name="formSearch" action="//taiwan-rotary.org/search/" method="post">
+                    <input name="keyword" type="text" value="" placeholder="輸入關鍵字">
+                    <font class="dropdown_search">
+                        <i class="fa fa-question-circle"></i>
+                        <!--隱藏清單-->
+                        <div class="dropdown-content">可搜尋扶輪月刊、最新訊息、RI社長文告、保管委員會主委文告、服務活動、最新文章、相關訊息。</div>
+                    </font>
+                    <a class="search_button" style="color:#FFF" onclick="javascript:document.formSearch.submit();"><i class="fa fa-search"></i></a>
+                </form>
+                </div> <!-- //.search -->
+            </div>
+            
+        </div> <!-- //.row -->
+    </div> <!-- //.container -->
+</header><!-- header end -->
+
+<section class="main">
+    <div class="container">
+        <div class="row">
+        	<div class="col-md-8">
+            
+            <!-- Banner -->
+                <div class="owl-carousel owl-theme owl-loaded owl-drag">
+                                        
+                                        
+                                        
+                                        
+                                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1480px, 0px, 0px); transition: all; width: 5920px;"><div class="owl-item cloned" style="width: 730px; margin-right: 10px;"><div class="item">
+                        <div class="item-img">
+                            <a href="https://taiwan-rotary.org/ebooks/detail_list.php?eid=134&amp;id=4989" target="_blank">
+                                <img src="upload/banner/178547824078525.jpg" alt="Banner">
+                            </a>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 730px; margin-right: 10px;"><div class="item">
+                        <div class="item-img">
+                            <a href="https://taiwan-rotary.org/ebooks/detail_list.php?eid=134&amp;id=4990" target="_blank">
+                                <img src="upload/banner/178547826561412.jpg" alt="Banner">
+                            </a>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 730px; margin-right: 10px;"><div class="item">
+                        <div class="item-img">
+                            <a href="https://taiwan-rotary.org/ebooks/detail_list.php?eid=134&amp;id=4977" target="_blank">
+                                <img src="upload/banner/178547854695976.jpg" alt="Banner">
+                            </a>
+                        </div>
+                    </div></div><div class="owl-item" style="width: 730px; margin-right: 10px;"><div class="item">
+                        <div class="item-img">
+                            <a href="https://taiwan-rotary.org/ebooks/detail_list.php?eid=134&amp;id=4982" target="_blank">
+                                <img src="upload/banner/178547810254064.jpg" alt="Banner">
+                            </a>
+                        </div>
+                    </div></div><div class="owl-item" style="width: 730px; margin-right: 10px;"><div class="item">
+                        <div class="item-img">
+                            <a href="https://taiwan-rotary.org/ebooks/detail_list.php?eid=134&amp;id=4989" target="_blank">
+                                <img src="upload/banner/178547824078525.jpg" alt="Banner">
+                            </a>
+                        </div>
+                    </div></div><div class="owl-item" style="width: 730px; margin-right: 10px;"><div class="item">
+                        <div class="item-img">
+                            <a href="https://taiwan-rotary.org/ebooks/detail_list.php?eid=134&amp;id=4990" target="_blank">
+                                <img src="upload/banner/178547826561412.jpg" alt="Banner">
+                            </a>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 730px; margin-right: 10px;"><div class="item">
+                        <div class="item-img">
+                            <a href="https://taiwan-rotary.org/ebooks/detail_list.php?eid=134&amp;id=4977" target="_blank">
+                                <img src="upload/banner/178547854695976.jpg" alt="Banner">
+                            </a>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 730px; margin-right: 10px;"><div class="item">
+                        <div class="item-img">
+                            <a href="https://taiwan-rotary.org/ebooks/detail_list.php?eid=134&amp;id=4982" target="_blank">
+                                <img src="upload/banner/178547810254064.jpg" alt="Banner">
+                            </a>
+                        </div>
+                    </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+                
+            <!-- 比賽結果 -->
+                <div class="row">
+                	<div class="col-md-12">
+                        <a href="photo_result/2026_result.php"><img src="images/2026_banner005.webp"></a>
+                    </div>
+				</div>
+                
+            <!-- 比賽辦法 -->
+                <!-- <div class="row">
+                	<div class="col-md-12">
+                        <a href="photography_competition"><img src="images/2026_banner001.jpg"></a>
+                    </div>
+				</div> -->
+
+            <!-- 人氣獎投票 -->
+                <!--<div class="row">
+                	<div class="col-md-12">
+                        <a href="vote"><img src="images/2026_banner003.webp"></a>
+                    </div>
+				</div>-->
+            
+			<!-- RI -->
+            	<div class="row">
+                    <div class="col-sm-6">
+                        <div class="maintitle">
+                            <h3>RI社長文告</h3>
+                            <a href="article/index.php?id=1">More<i class="fa fa-chevron-right"></i></a>
+                        </div>
+                                                <div class="album wow zoomIn animated" style="visibility: visible;">
+                            <a href="article/detail.php?id=1293">
+                                <div class="pic">
+                                    <img src="upload/article/20260722154730.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/22</li>
+                                        <li><i class="fa fa-eye"></i>161</li>
+                                    </ul>
+                                    <div class="title">我向各位提出的挑戰</div>
+                                </div>
+                            </a>
+						</div>
+                        					</div>
+                    
+                    <div class="col-sm-6">
+                        <div class="maintitle">
+                            <h3>保管委員會主席文告</h3>
+                            <a href="article/index.php?id=2">More<i class="fa fa-chevron-right"></i></a>
+                        </div>
+                                                <div class="album wow zoomIn animated" style="visibility: visible;">
+                            <a href="article/detail.php?id=1294">
+                                <div class="pic">
+                                    <img src="upload/article/20260722160434.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/22</li>
+                                        <li><i class="fa fa-eye"></i>142</li>
+                                    </ul>
+                                    <div class="title">無國界的關懷</div>
+                                </div>
+                            </a>
+						</div>
+                        					</div>
+                    
+                </div>
+                
+			<!-- 最新訊息 -->
+                <div class="row">
+                
+                	<div class="col-md-12">
+                        <div class="maintitle">
+                            <h3>最新訊息</h3>
+                            <a href="article/index.php?id=4">More<i class="fa fa-chevron-right"></i></a>
+                        </div>
+                    </div>
+                
+                	                	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn animated" style="visibility: visible;">
+                            <a href="article/detail.php?id=1310">
+                                <div class="pic small">
+                                    <img src="upload/article/20260806114305.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/08/06</li>
+                                        <li><i class="fa fa-eye"></i>126</li>
+                                    </ul>
+                                    <div class="title" title="印度的巴拉特．潘迪亞被選為2028-29年度國際扶輪社長">印度的巴拉特．潘迪亞被選為2028-29年度國際扶輪社長</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn animated" style="visibility: visible;">
+                            <a href="article/detail.php?id=1308">
+                                <div class="pic small">
+                                    <img src="upload/article/20260806104606.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/08/06</li>
+                                        <li><i class="fa fa-eye"></i>192</li>
+                                    </ul>
+                                    <div class="title" title="扶輪基金會全球獎助金的條款與條件(2026年7月版)Terms and Conditions for Rotary Foundation Global Gran">扶輪基金會全球獎助金的條款與條件(2026年7月版)Terms and Conditions for Rotary Foundation Global Gran</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn animated" style="visibility: visible;">
+                            <a href="article/detail.php?id=1307">
+                                <div class="pic small">
+                                    <img src="upload/article/20260806103340.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/08/06</li>
+                                        <li><i class="fa fa-eye"></i>124</li>
+                                    </ul>
+                                    <div class="title" title="合作組織協議書Cooperating-organization-agreement-zh">合作組織協議書Cooperating-organization-agreement-zh</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1306">
+                                <div class="pic small">
+                                    <img src="upload/article/20260806100807.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/08/06</li>
+                                        <li><i class="fa fa-eye"></i>125</li>
+                                    </ul>
+                                    <div class="title" title="全球獎助金訓練計畫Global grant training plan-zh">全球獎助金訓練計畫Global grant training plan-zh</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1304">
+                                <div class="pic small">
+                                    <img src="upload/article/20260806095341.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/08/06</li>
+                                        <li><i class="fa fa-eye"></i>129</li>
+                                    </ul>
+                                    <div class="title" title="全球獎助金社區調查結果Global Grants Community Assessment Results-zh">全球獎助金社區調查結果Global Grants Community Assessment Results-zh</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1292">
+                                <div class="pic small">
+                                    <img src="upload/article/20260703162936.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/03</li>
+                                        <li><i class="fa fa-eye"></i>412</li>
+                                    </ul>
+                                    <div class="title" title="RI統計2025-26年度總捐獻全球前30名國家">RI統計2025-26年度總捐獻全球前30名國家</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                        
+				</div>
+                
+            <!-- 最新服務計畫 -->
+                <div class="row">
+                
+                	<div class="col-md-12">
+                        <div class="maintitle">
+                            <h3>服務活動</h3>
+                            <a href="article/index.php?id=5">More<i class="fa fa-chevron-right"></i></a>
+                        </div>
+                    </div>
+                
+                	                	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1303">
+                                <div class="pic small">
+                                    <img src="upload/article/20260729100750.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/29</li>
+                                        <li><i class="fa fa-eye"></i>112</li>
+                                    </ul>
+                                    <div class="title" title="40週年紀念公共藝術造景螺廁揭牌啟用暨捐贈活動海之聲‧聽見佳里 ── 打造地方新地標 展現扶輪服務精神">40週年紀念公共藝術造景螺廁揭牌啟用暨捐贈活動海之聲‧聽見佳里 ── 打造地方新地標 展現扶輪服務精神</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1302">
+                                <div class="pic small">
+                                    <img src="upload/article/20260729100439.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/29</li>
+                                        <li><i class="fa fa-eye"></i>129</li>
+                                    </ul>
+                                    <div class="title" title="聯合社區服務 ──  「笨港國小114學年度推展多元閱讀暨才華學習計畫」成果發表會">聯合社區服務 ──  「笨港國小114學年度推展多元閱讀暨才華學習計畫」成果發表會</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1283">
+                                <div class="pic small">
+                                    <img src="upload/article/20260630160109.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/06/30</li>
+                                        <li><i class="fa fa-eye"></i>264</li>
+                                    </ul>
+                                    <div class="title" title="捐贈臺南市政府消防局特搜通訊裝備">捐贈臺南市政府消防局特搜通訊裝備</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1282">
+                                <div class="pic small">
+                                    <img src="upload/article/20260630160007.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/06/30</li>
+                                        <li><i class="fa fa-eye"></i>240</li>
+                                    </ul>
+                                    <div class="title" title="本社與礁溪社 愛腦中心聯合職業參訪">本社與礁溪社 愛腦中心聯合職業參訪</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1267">
+                                <div class="pic small">
+                                    <img src="upload/article/20260601154434.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/06/01</li>
+                                        <li><i class="fa fa-eye"></i>390</li>
+                                    </ul>
+                                    <div class="title" title="宜蘭出發的台日扶輪大型交通安全守護日 ──「共築安全路‧看見大希望」聯合服務">宜蘭出發的台日扶輪大型交通安全守護日 ──「共築安全路‧看見大希望」聯合服務</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1266">
+                                <div class="pic small">
+                                    <img src="upload/article/20260601154046.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/06/01</li>
+                                        <li><i class="fa fa-eye"></i>393</li>
+                                    </ul>
+                                    <div class="title" title="二合一社區服務 ── 跨越半世紀的扶輪共鳴">二合一社區服務 ── 跨越半世紀的扶輪共鳴</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                        
+				</div>
+                
+            <!-- 最新文章 -->
+                <div class="row">
+                
+                	<div class="col-md-12">
+                        <div class="maintitle">
+                            <h3>最新文章</h3>
+                            <a href="article/index.php?id=6">More<i class="fa fa-chevron-right"></i></a>
+                        </div>
+                    </div>
+                
+                	                	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1301">
+                                <div class="pic small">
+                                    <img src="upload/article/20260727173516.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/27</li>
+                                        <li><i class="fa fa-eye"></i>135</li>
+                                    </ul>
+                                    <div class="title" title="2026台北國際扶輪年會">2026台北國際扶輪年會</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1300">
+                                <div class="pic small">
+                                    <img src="upload/article/20260727172402.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/27</li>
+                                        <li><i class="fa fa-eye"></i>91</li>
+                                    </ul>
+                                    <div class="title" title="扶輪基金會代表拜會國建署及肝基會深化台灣C肝防治公私協力經驗與成效">扶輪基金會代表拜會國建署及肝基會深化台灣C肝防治公私協力經驗與成效</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1299">
+                                <div class="pic small">
+                                    <img src="upload/article/20260727165727.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/27</li>
+                                        <li><i class="fa fa-eye"></i>107</li>
+                                    </ul>
+                                    <div class="title" title="台日扶輪親善的完美展現 ── 2026台北國際年會日本社友的熱情參與及回應">台日扶輪親善的完美展現 ── 2026台北國際年會日本社友的熱情參與及回應</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1298">
+                                <div class="pic small">
+                                    <img src="upload/article/20260727163038.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/27</li>
+                                        <li><i class="fa fa-eye"></i>147</li>
+                                    </ul>
+                                    <div class="title" title="從一把鏟子到一座紀念館「鏟子超人館」誕生背後的感動旅程">從一把鏟子到一座紀念館「鏟子超人館」誕生背後的感動旅程</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1297">
+                                <div class="pic small">
+                                    <img src="images/nophoto.webp" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/27</li>
+                                        <li><i class="fa fa-eye"></i>110</li>
+                                    </ul>
+                                    <div class="title" title="台灣12個地區2026-27年度各社例會時間地點一覽表">台灣12個地區2026-27年度各社例會時間地點一覽表</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                    	<div class="col-md-4 col-sm-6">
+                        <div class="album wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                            <a href="article/detail.php?id=1287">
+                                <div class="pic small">
+                                    <img src="upload/article/20260701095623.jpg" onerror="this.src='images/nophoto.webp'">
+                                </div>
+                                <div class="information">
+                                    <ul class="date">
+                                        <li><i class="fa fa-clock-o"></i>2026/07/01</li>
+                                        <li><i class="fa fa-eye"></i>229</li>
+                                    </ul>
+                                    <div class="title" title="響應號召">響應號召</div>
+                                </div>
+                            </a>
+						</div>
+					</div>
+                                        
+				</div>
+                
+            </div>
+        	<div class="col-md-4">
+            
+            <!-- 熱播影片 PHP -->
+				                
+                <!-- 熱播影片 HTML -->
+                <div class="widget wow zoomIn animated" style="visibility: visible;">
+                    <iframe width="100%" height="200" src="https://www.youtube.com/embed/H2h-pW3hb8E?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>                </div>
+                
+                
+            <!-- 相關訊息 -->
+                <div class="widget">
+                    <div class="maintitle">
+                        <h3>相關訊息</h3>
+                    </div>
+                                        <div class="categories wow zoomIn animated" style="visibility: visible;">
+                        <ul>
+                                                            <li>
+                                    <a href="article/index.php?id=7">
+                                        台灣12地區扶輪社數及社員人數                                        <span>(64)</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="article/index.php?id=8">
+                                        國際扶輪一瞥                                        <span>(58)</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="article/index.php?id=9">
+                                        扶輪詞彙中英對照表                                        <span>(1)</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="article/index.php?id=10">
+                                        程序手冊                                        <span>(4)</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="article/index.php?id=11">
+                                        理事會決議摘要                                        <span>(14)</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="article/index.php?id=12">
+                                        保管委員會決議摘要                                        <span>(12)</span>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                
+            <!-- 扶輪月刊 -->
+                <div class="widget">
+                    <div class="maintitle">
+                        <h3>本期月刊</h3>
+                    </div>
+                                        <div class="ebook wow zoomIn animated" style="visibility: visible;">
+                        <!-- 封面 -->
+                        <a href="ebooks/detail.php?id=134">
+                            <img src="upload/ebooks/202608/files/mobile/1.jpg" onerror="this.src='images/nobook.jpg'" alt="月刊封面">
+                        </a>
+                
+                        <!-- 月刊內頁連結 -->
+                        <div class="pdf">
+                            <a href="ebooks/detail.php?id=134">
+                                <i class="fa fa-file-text-o"></i>&nbsp; 2026-08月號
+                            </a>
+                        </div>
+                
+                        <!-- 電子書連結 -->
+                        <div class="pdf ebooks">
+                            <a href="upload/ebooks/202608" target="_blank">
+                                <i class="fa fa-book"></i>&nbsp; 電子書
+                            </a>
+                        </div>
+                
+                        <!-- PDF 下載 -->
+                        <div class="pdf monthly">
+                            <a href="upload/monthly/20260731101055.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>&nbsp; PDF
+                            </a>
+                        </div>
+                    </div>
+                                    </div>
+                
+            <!-- 扶輪智庫 -->
+                <div class="widget">
+                	<div class="maintitle">
+                        <h3>扶輪智庫</h3>
+                    </div>
+                	<div class="categories wow zoomIn animated" style="visibility: visible;">
+                    	<ul>
+                            <li><a href="rotary">國際扶輪<span>&gt;</span></a></li>
+                            <li><a href="rotary/fund.php">扶輪基金<span>&gt;</span></a></li>
+                            <li><a href="rotary/magazine.php">協會與華文區域扶輪雜誌<span>&gt;</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+                
+            <!-- 地區網站及服務 -->
+                <div class="widget">
+                    <div class="maintitle">
+                        <h3>地區網站及服務</h3>
+                    </div>
+                    <div class="links wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                        <ul>
+                                                            <li>
+                                    <a href="http://www.rotary3461.org/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161353.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://rid3462.org/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161422.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.rid3470.org/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161448.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.rid3481.org/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161508.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.rid3482.org/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161541.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.rid3490.org.tw/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161601.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.rid3501.org.tw/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161623.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://rotaryd3502.org.tw/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161644.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.rid3510.org/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161707.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://ri3521.org/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161732.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://ri3522.org/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161757.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://ri3523.org/" target="_blank" rel="noopener noreferrer">
+                                        <img src="upload/area/20210316161817.jpg" onerror="this.src='images/nophoto.webp'" alt="地區網站">
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                
+            <!-- 訂閱電子報 -->
+                <!--<div class="widget">
+                	<div class="maintitle">
+                        <h3>訂閱電子報</h3>
+                    </div>
+                	<div class="fb wow zoomIn">
+                    	<iframe src="https://taiwan-rotary.org/joomla/" width="100%" height="220" style="border:none;"></iframe>
+                    </div>
+                </div>-->
+                
+            <!-- FB 社團 -->
+                <div class="widget">
+                	<div class="maintitle">
+                        <h3>Facebook 社團</h3>
+                    </div>
+                	<div class="fb wow zoomIn" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                        <a href="https://www.facebook.com/groups/taiwanrotary" target="_blank"><img src="images/fb.webp?v=20260508" alt="Facebook 社團"></a>
+                    </div>
+                </div>
+                
+            </div>
+		</div>
+	</div>
+</section>
+
+<script type="text/javascript">
+$(function(){
+    $("#gotop").click(function(){
+        jQuery("html,body").animate({
+            scrollTop:0
+        },1000);
+    });
+    $(window).scroll(function() {
+        if ( $(this).scrollTop() > 300){
+            $('#gotop').fadeIn("fast");
+        } else {
+            $('#gotop').stop().fadeOut("fast");
+        }
+    });
+});
+</script>
+<style>
+.pc_f { display: inline-block;}
+.mobile_f { display: none;}
+@media (max-width:500px){
+	.pc_f { display: none!important;}
+	.mobile_f { display: block!important;}
+}
+</style>
+
+<footer class="footer">
+	<div class="container">
+    	<div class="row">
+        
+        	<div class="col-md-3 wow fadeInLeft" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+            	<span class="theme"><img height="220px" src="//taiwan-rotary.org/images/theme.webp?v=20260701"></span>
+            </div>
+        
+            <div class="col-md-5 wow fadeInUp" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                <ul>
+                	<li>社團法人台灣扶輪出版暨網路資訊協會</li>
+                    <li class="pc_f">Taiwan Rotary Publication and E-information Association</li>
+                    <li class="mobile_f">Taiwan Rotary</li>
+                    <li class="mobile_f">Publication and E-Information Association</li>
+                	<li><i class="fa fa-phone" aria-hidden="true"></i> 電話：+886-2-25418756　傳真：+886-2-25418608</li>
+                    <li><i class="fa fa-home" aria-hidden="true"></i> 地址：<a href="https://www.google.com.tw/maps/place/台北市中山北路二段115巷43號7樓之1" target="_blank">台北市中山北路二段115巷43號7樓之1</a></li>
+                    <li><i class="fa fa-envelope" aria-hidden="true"></i> E-mail：<a href="mailto:taiwanrotary@taiwan-rotary.org">taiwanrotary@taiwan-rotary.org</a></li>
+                    <li><i class="fa fa-map-marker" aria-hidden="true"></i> 網址：<a href="https://www.taiwan-rotary.org">https://www.taiwan-rotary.org</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-md-4 wow fadeInRight" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.2068760252973!2d121.52239941537924!3d25.060976443362666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a943476e9083%3A0x3baf82b0484b4b03!2zMTA0OTHlj7DljJfluILkuK3lsbHljYDkuK3lsbHljJfot6_kuozmrrUxMTXlt7c0M-iZn-S5iyAx!5e0!3m2!1szh-TW!2stw!4v1637141768121!5m2!1szh-TW!2stw" width="100%" height="220" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+            
+		</div>
+	</div>
+</footer>
+
+
+<!-- 版權宣告 -->
+<div class="copyright">
+	<div class="container">
+    	<div class="row">
+        	<div class="col-md-12">
+                <span>Copyright © 2021 社團法人台灣扶輪出版暨網路資訊協會. All rights reserved.</span>
+                <span class="total">累計參訪人數：<span class="counter-item counter-number" data-from="1" data-to="3713496" data-speed="2000"></span> 人</span>
+                <span class="total">今日參訪人次：<span class="counter-item counter-number" data-from="1" data-to="1196" data-speed="1000"></span> 人次　</span>
+            </div>
+    	</div>
+    </div>
+</div>
+
+<div id="gotop"><i class="fa fa-chevron-up"></i></div>
+
+</body>

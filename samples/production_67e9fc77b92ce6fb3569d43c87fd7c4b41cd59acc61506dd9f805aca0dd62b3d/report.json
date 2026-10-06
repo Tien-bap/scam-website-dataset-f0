@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.contractken.com/CD/Del/Ward/",
+  "hostname": "www.contractken.com",
+  "checked_at": "2026-10-04T13:43:04.690833+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a068d5-3ba4-70e2-9fe6-4d630f8b0412",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-03T19:53:26.438Z",
+  "scan_original_url": "https://www.contractken.com/glossary/acceleration-clause",
+  "final_url": "https://www.contractken.com/glossary/acceleration-clause",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 22471,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.547,
+  "discovery": {
+    "batch_id": "9ebda292c952debf57e5598435b68dee026801745333da594208826a60534295",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

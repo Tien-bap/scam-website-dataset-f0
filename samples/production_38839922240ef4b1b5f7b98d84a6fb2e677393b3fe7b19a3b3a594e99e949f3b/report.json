@@ -1,0 +1,27 @@
+{
+  "original_url": "https://bom.so/CenC1w",
+  "hostname": "bom.so",
+  "checked_at": "2026-10-04T13:34:38.288206+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 267,
+  "candidates_checked": 3,
+  "selected_scan_uuid": "01a0fc6c-cdd2-7212-9e1f-bef2eead720c",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-02T11:43:26.842Z",
+  "scan_original_url": "https://bom.so/",
+  "final_url": "https://bom.so/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3812,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.213,
+  "discovery": {
+    "batch_id": "88304fb32f971f030fd79a69b918e4299d2346f58e8160995c7f9b315ba5e2b9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.asiapestcontrolservice.com/office/index.php",
+  "hostname": "www.asiapestcontrolservice.com",
+  "checked_at": "2026-10-04T15:59:02.949692+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a06be1-8e8c-7280-9e98-64bc1c1ba056",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-04T10:05:45.785Z",
+  "scan_original_url": "https://www.asiapestcontrolservice.com/",
+  "final_url": "https://www.asiapestcontrolservice.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5504,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.676,
+  "discovery": {
+    "batch_id": "cdce911b57347c321e9d7cc96d64d3878497d56af0f8bbfd9b6353a2cb1073b8",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

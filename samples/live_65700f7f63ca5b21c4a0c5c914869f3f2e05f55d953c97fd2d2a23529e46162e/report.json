@@ -1,0 +1,362 @@
+{
+  "candidate_id": "live_65700f7f63ca5b21c4a0c5c914869f3f2e05f55d953c97fd2d2a23529e46162e",
+  "candidate_sha256": "4a8ec95c7dc0719b5bd3992fe681d21a2737fd4d14bc7a6ff6e9f85c49b8fd2d",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://canvasist.com/collections/pets-canvas",
+  "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+  "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+  "source_urls": [
+    "http://canvasist.com/collections/pets-canvas",
+    "http://www.canvasist.com/collections/pets-canvas/",
+    "https://www.canvasist.com/collections/motivation/products/steve-jobs",
+    "https://www.canvasist.com/products/pawsident-of-united-states-pet-mug"
+  ],
+  "source_count": 4,
+  "provenance": [
+    {
+      "source_index": 30272,
+      "source_url": "http://canvasist.com/collections/pets-canvas",
+      "source_hostname": "canvasist.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 44164,
+      "elapsed_ms": 1017,
+      "checked_at": "2026-10-05T13:13:26.751462+00:00",
+      "error": null,
+      "normalized_source_url": "http://canvasist.com/collections/pets-canvas",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 33192,
+      "source_url": "https://www.canvasist.com/collections/motivation/products/steve-jobs",
+      "source_hostname": "www.canvasist.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 44164,
+      "elapsed_ms": 1293,
+      "checked_at": "2026-10-05T13:17:17.873826+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.canvasist.com/collections/motivation/products/steve-jobs",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 35116,
+      "source_url": "https://www.canvasist.com/products/pawsident-of-united-states-pet-mug",
+      "source_hostname": "www.canvasist.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 44164,
+      "elapsed_ms": 1076,
+      "checked_at": "2026-10-05T13:18:04.619993+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.canvasist.com/products/pawsident-of-united-states-pet-mug",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 66757,
+      "source_url": "http://www.canvasist.com/collections/pets-canvas/",
+      "source_hostname": "www.canvasist.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 44164,
+      "elapsed_ms": 998,
+      "checked_at": "2026-10-05T13:18:16.878851+00:00",
+      "error": null,
+      "normalized_source_url": "http://www.canvasist.com/collections/pets-canvas/",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_65700f7f63ca5b21c4a0c5c914869f3f2e05f55d953c97fd2d2a23529e46162e",
+    "representative_source_index": 30272,
+    "representative_source_url": "http://canvasist.com/collections/pets-canvas",
+    "representative_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+    "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+    "source_hostname": "canvasist.com",
+    "final_hostname": "www.hugedomains.com",
+    "source_urls": [
+      "http://canvasist.com/collections/pets-canvas",
+      "http://www.canvasist.com/collections/pets-canvas/",
+      "https://www.canvasist.com/collections/motivation/products/steve-jobs",
+      "https://www.canvasist.com/products/pawsident-of-united-states-pet-mug"
+    ],
+    "provenance": [
+      {
+        "source_index": 30272,
+        "source_url": "http://canvasist.com/collections/pets-canvas",
+        "source_hostname": "canvasist.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 44164,
+        "elapsed_ms": 1017,
+        "checked_at": "2026-10-05T13:13:26.751462+00:00",
+        "error": null,
+        "normalized_source_url": "http://canvasist.com/collections/pets-canvas",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 33192,
+        "source_url": "https://www.canvasist.com/collections/motivation/products/steve-jobs",
+        "source_hostname": "www.canvasist.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 44164,
+        "elapsed_ms": 1293,
+        "checked_at": "2026-10-05T13:17:17.873826+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.canvasist.com/collections/motivation/products/steve-jobs",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 35116,
+        "source_url": "https://www.canvasist.com/products/pawsident-of-united-states-pet-mug",
+        "source_hostname": "www.canvasist.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 44164,
+        "elapsed_ms": 1076,
+        "checked_at": "2026-10-05T13:18:04.619993+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.canvasist.com/products/pawsident-of-united-states-pet-mug",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 66757,
+        "source_url": "http://www.canvasist.com/collections/pets-canvas/",
+        "source_hostname": "www.canvasist.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 44164,
+        "elapsed_ms": 998,
+        "checked_at": "2026-10-05T13:18:16.878851+00:00",
+        "error": null,
+        "normalized_source_url": "http://www.canvasist.com/collections/pets-canvas/",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 4,
+    "unique_source_url_count": 4,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Canvasist.com is for sale | HugeDomains",
+  "capture_timestamp": "2026-10-05T16:40:31.271490+00:00",
+  "dom_chars": 82403,
+  "screenshot_bytes": 94853,
+  "dom_sha256": "4dbb2701de47115fe9b07cfe7a7eb35df62af6115ea336062e0cb4e15ce8b639",
+  "screenshot_sha256": "f17fc8f18041885601550dd0e73dadff317436694f958e9491fd200bd2adbc65",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_parking_page"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+    "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=canvasist.com",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 5,
+    "resource": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 2763,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "timeout",
+    "original_capture_timestamp": "2026-10-05T14:44:54.671639+00:00",
+    "previous_report_sha256": "41b7dbfa7e704811458d3ceb9bb31aee264ee352d81f4dfcdad72044b475a342",
+    "recovered_at": "2026-10-05T16:40:31.271490+00:00",
+    "result": "complete"
+  }
+}

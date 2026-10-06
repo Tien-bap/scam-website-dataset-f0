@@ -1,0 +1,27 @@
+{
+  "original_url": "https://emmagardnerdesign.com/Priv8/Priv8/index.html",
+  "hostname": "emmagardnerdesign.com",
+  "checked_at": "2026-10-04T14:18:03.073658+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fff3a-5e85-70ac-8829-c5791087c1f7",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-14T07:44:14.529Z",
+  "scan_original_url": "https://emmagardnerdesign.com/",
+  "final_url": "https://emmagardnerdesign.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3598,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.957,
+  "discovery": {
+    "batch_id": "676754f27579d7b0cc040af6a4d1e5e8d4508292bb609a224b892c6ca727a476",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

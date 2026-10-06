@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_3f7dce3991d753edae1bba8ed5ab05c21afa8f0d967861f8005ada9730316db0",
+  "candidate_sha256": "6262f9f2c6d1785e87372896fd0562ded6677927d5ba1cb92699d7a880206b71",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://sv388.casino",
+  "requested_url": "https://donckers.co/",
+  "browser_final_url": "https://donckers.co/",
+  "source_urls": [
+    "https://sv388.casino"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1476,
+      "source_url": "https://sv388.casino",
+      "source_hostname": "sv388.casino",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://donckers.co/",
+      "final_hostname": "donckers.co",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2886,
+      "checked_at": "2026-10-05T12:18:50.695358+00:00",
+      "error": null,
+      "normalized_source_url": "https://sv388.casino/",
+      "normalized_final_url": "https://donckers.co/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_3f7dce3991d753edae1bba8ed5ab05c21afa8f0d967861f8005ada9730316db0",
+    "representative_source_index": 1476,
+    "representative_source_url": "https://sv388.casino",
+    "representative_final_url": "https://donckers.co/",
+    "normalized_final_url": "https://donckers.co/",
+    "source_hostname": "sv388.casino",
+    "final_hostname": "donckers.co",
+    "source_urls": [
+      "https://sv388.casino"
+    ],
+    "provenance": [
+      {
+        "source_index": 1476,
+        "source_url": "https://sv388.casino",
+        "source_hostname": "sv388.casino",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://donckers.co/",
+        "final_hostname": "donckers.co",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2886,
+        "checked_at": "2026-10-05T12:18:50.695358+00:00",
+        "error": null,
+        "normalized_source_url": "https://sv388.casino/",
+        "normalized_final_url": "https://donckers.co/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "SV388 - TRANG CHỦ SV388.COM | NHÀ CÁI ĐÁ GÀ TRỰC TIẾP THOMO UY TÍN 2026",
+  "capture_timestamp": "2026-10-05T14:41:00.059528+00:00",
+  "dom_chars": 98536,
+  "screenshot_bytes": 129820,
+  "dom_sha256": "4bc5e96a602ee5c793624f502fc22860fc706208977ccdd115cc132514e92e2b",
+  "screenshot_sha256": "812b01b986c9493704c21be3068c46f2b318ee626eb7b3c930386b16287dc04b",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://donckers.co/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://donckers.co/",
+    "browser_final_url": "https://donckers.co/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 1,
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 10760
+}

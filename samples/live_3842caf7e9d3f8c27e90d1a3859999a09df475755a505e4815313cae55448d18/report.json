@@ -1,0 +1,147 @@
+{
+  "candidate_id": "live_3842caf7e9d3f8c27e90d1a3859999a09df475755a505e4815313cae55448d18",
+  "candidate_sha256": "30d50429a43237b4244c539e3f7c2a885e9036293a02a13fd2dd381a1677dc80",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://dien-mayxanh.online",
+  "requested_url": "https://dien-mayxanh.online",
+  "browser_final_url": "https://dien-mayxanh.online/",
+  "source_urls": [
+    "https://dien-mayxanh.online"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 7307,
+      "source_url": "https://dien-mayxanh.online",
+      "source_hostname": "dien-mayxanh.online",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://dien-mayxanh.online",
+      "final_hostname": "dien-mayxanh.online",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 32079,
+      "elapsed_ms": 1604,
+      "checked_at": "2026-10-05T12:41:33.746984+00:00",
+      "error": null,
+      "normalized_source_url": "https://dien-mayxanh.online/",
+      "normalized_final_url": "https://dien-mayxanh.online/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_3842caf7e9d3f8c27e90d1a3859999a09df475755a505e4815313cae55448d18",
+    "representative_source_index": 7307,
+    "representative_source_url": "https://dien-mayxanh.online",
+    "representative_final_url": "https://dien-mayxanh.online",
+    "normalized_final_url": "https://dien-mayxanh.online/",
+    "source_hostname": "dien-mayxanh.online",
+    "final_hostname": "dien-mayxanh.online",
+    "source_urls": [
+      "https://dien-mayxanh.online"
+    ],
+    "provenance": [
+      {
+        "source_index": 7307,
+        "source_url": "https://dien-mayxanh.online",
+        "source_hostname": "dien-mayxanh.online",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://dien-mayxanh.online",
+        "final_hostname": "dien-mayxanh.online",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 32079,
+        "elapsed_ms": 1604,
+        "checked_at": "2026-10-05T12:41:33.746984+00:00",
+        "error": null,
+        "normalized_source_url": "https://dien-mayxanh.online/",
+        "normalized_final_url": "https://dien-mayxanh.online/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Parked Domain name on Hostinger DNS system",
+  "capture_timestamp": "2026-10-05T14:40:17.347747+00:00",
+  "dom_chars": 32479,
+  "screenshot_bytes": 220898,
+  "dom_sha256": "5291792a430ffb828808e90d5365b79bf6bcb545f888253b0959812ec92aeb22",
+  "screenshot_sha256": "ff33119c6cc86986bed6c8f92d59b377884412e684ecbe012d049365a3d8ca19",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_parking_page"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://dien-mayxanh.online/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://dien-mayxanh.online",
+    "browser_final_url": "https://dien-mayxanh.online/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 7175
+}

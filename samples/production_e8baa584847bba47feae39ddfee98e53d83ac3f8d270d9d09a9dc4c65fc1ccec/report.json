@@ -1,0 +1,21 @@
+{
+  "original_url": "hcmphattrien.com",
+  "hostname": "hcmphattrien.com",
+  "checked_at": "2026-10-04T10:34:00.865190+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 5,
+  "candidates_checked": 2,
+  "selected_scan_uuid": "ce1e60cd-6720-44da-9a18-5186947f0019",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2024-12-20T15:11:26.321Z",
+  "scan_original_url": "https://hcmphattrien.com/",
+  "final_url": "https://hcmphattrien.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1157,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.456
+}

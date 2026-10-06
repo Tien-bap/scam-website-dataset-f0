@@ -1,0 +1,27 @@
+{
+  "original_url": "http://drivingschoolgta.com/dmcanotice-967152213/desktop.html?timelimit=097e64c2a0c473fde2c75976855e8c35",
+  "hostname": "drivingschoolgta.com",
+  "checked_at": "2026-10-04T15:48:07.368435+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a103fd-e402-70ef-be4e-39bb9eb4b30f",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-03T22:59:27.099Z",
+  "scan_original_url": "https://drivingschoolgta.com/",
+  "final_url": "https://drivingschoolgta.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 9756,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.03,
+  "discovery": {
+    "batch_id": "7a88e496ff714c142bbcdbce1807653e23a5804adde47f6e09f6d8b5917f9c34",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

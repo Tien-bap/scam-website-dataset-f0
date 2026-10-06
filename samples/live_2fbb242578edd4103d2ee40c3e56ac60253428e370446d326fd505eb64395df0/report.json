@@ -1,0 +1,553 @@
+{
+  "candidate_id": "live_2fbb242578edd4103d2ee40c3e56ac60253428e370446d326fd505eb64395df0",
+  "candidate_sha256": "6e71fa46f2b98408cdfa1a396ed8f2b99ccc2901bf2f02507caca55d1d565267",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+  "requested_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+  "browser_final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+  "source_urls": [
+    "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 70970,
+      "source_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+      "source_hostname": "www.paypal-opladen.be",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+      "final_hostname": "www.paypal-opladen.be",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 11000,
+      "elapsed_ms": 499,
+      "checked_at": "2026-10-05T13:18:26.011573+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+      "normalized_final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.scan_original_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.final_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            }
+          ],
+          "hostname": [
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "manifest.source_url",
+              "url": "https://www.paypal-opladen.be/",
+              "normalized_url": "https://www.paypal-opladen.be/"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.original_url",
+              "url": "https://www.paypal-opladen.be/",
+              "normalized_url": "https://www.paypal-opladen.be/"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.scan_original_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.final_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            }
+          ]
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.scan_original_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.final_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            }
+          ],
+          "hostname": [
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "manifest.source_url",
+              "url": "https://www.paypal-opladen.be/",
+              "normalized_url": "https://www.paypal-opladen.be/"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.original_url",
+              "url": "https://www.paypal-opladen.be/",
+              "normalized_url": "https://www.paypal-opladen.be/"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.scan_original_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.final_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            }
+          ]
+        },
+        "strong": false,
+        "type": "hostname_path_only"
+      }
+    },
+    {
+      "source_index": 113654,
+      "source_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+      "source_hostname": "www.paypal-opladen.be",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+      "final_hostname": "www.paypal-opladen.be",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 11000,
+      "elapsed_ms": 1230,
+      "checked_at": "2026-10-05T13:18:35.912618+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+      "normalized_final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.scan_original_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.final_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            }
+          ],
+          "hostname": [
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "manifest.source_url",
+              "url": "https://www.paypal-opladen.be/",
+              "normalized_url": "https://www.paypal-opladen.be/"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.original_url",
+              "url": "https://www.paypal-opladen.be/",
+              "normalized_url": "https://www.paypal-opladen.be/"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.scan_original_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.final_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            }
+          ]
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.scan_original_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.final_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            }
+          ],
+          "hostname": [
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "manifest.source_url",
+              "url": "https://www.paypal-opladen.be/",
+              "normalized_url": "https://www.paypal-opladen.be/"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.original_url",
+              "url": "https://www.paypal-opladen.be/",
+              "normalized_url": "https://www.paypal-opladen.be/"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.scan_original_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            },
+            {
+              "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+              "role": "report.final_url",
+              "url": "https://www.paypal-opladen.be/en/topup",
+              "normalized_url": "https://www.paypal-opladen.be/en/topup"
+            }
+          ]
+        },
+        "strong": false,
+        "type": "hostname_path_only"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_2fbb242578edd4103d2ee40c3e56ac60253428e370446d326fd505eb64395df0",
+    "representative_source_index": 70970,
+    "representative_source_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+    "representative_final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+    "normalized_final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+    "source_hostname": "www.paypal-opladen.be",
+    "final_hostname": "www.paypal-opladen.be",
+    "source_urls": [
+      "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg"
+    ],
+    "provenance": [
+      {
+        "source_index": 70970,
+        "source_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+        "source_hostname": "www.paypal-opladen.be",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+        "final_hostname": "www.paypal-opladen.be",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 11000,
+        "elapsed_ms": 499,
+        "checked_at": "2026-10-05T13:18:26.011573+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+        "normalized_final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.scan_original_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.final_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              }
+            ],
+            "hostname": [
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "manifest.source_url",
+                "url": "https://www.paypal-opladen.be/",
+                "normalized_url": "https://www.paypal-opladen.be/"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.original_url",
+                "url": "https://www.paypal-opladen.be/",
+                "normalized_url": "https://www.paypal-opladen.be/"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.scan_original_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.final_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              }
+            ]
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.scan_original_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.final_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              }
+            ],
+            "hostname": [
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "manifest.source_url",
+                "url": "https://www.paypal-opladen.be/",
+                "normalized_url": "https://www.paypal-opladen.be/"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.original_url",
+                "url": "https://www.paypal-opladen.be/",
+                "normalized_url": "https://www.paypal-opladen.be/"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.scan_original_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.final_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              }
+            ]
+          },
+          "strong": false,
+          "type": "hostname_path_only"
+        }
+      },
+      {
+        "source_index": 113654,
+        "source_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+        "source_hostname": "www.paypal-opladen.be",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+        "final_hostname": "www.paypal-opladen.be",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 11000,
+        "elapsed_ms": 1230,
+        "checked_at": "2026-10-05T13:18:35.912618+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+        "normalized_final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.scan_original_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.final_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              }
+            ],
+            "hostname": [
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "manifest.source_url",
+                "url": "https://www.paypal-opladen.be/",
+                "normalized_url": "https://www.paypal-opladen.be/"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.original_url",
+                "url": "https://www.paypal-opladen.be/",
+                "normalized_url": "https://www.paypal-opladen.be/"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.scan_original_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.final_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              }
+            ]
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.scan_original_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.final_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              }
+            ],
+            "hostname": [
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "manifest.source_url",
+                "url": "https://www.paypal-opladen.be/",
+                "normalized_url": "https://www.paypal-opladen.be/"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.original_url",
+                "url": "https://www.paypal-opladen.be/",
+                "normalized_url": "https://www.paypal-opladen.be/"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.scan_original_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              },
+              {
+                "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+                "role": "report.final_url",
+                "url": "https://www.paypal-opladen.be/en/topup",
+                "normalized_url": "https://www.paypal-opladen.be/en/topup"
+              }
+            ]
+          },
+          "strong": false,
+          "type": "hostname_path_only"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "hostname_path_only",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [
+        {
+          "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+          "role": "report.final_url",
+          "url": "https://www.paypal-opladen.be/en/topup",
+          "normalized_url": "https://www.paypal-opladen.be/en/topup"
+        },
+        {
+          "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+          "role": "report.scan_original_url",
+          "url": "https://www.paypal-opladen.be/en/topup",
+          "normalized_url": "https://www.paypal-opladen.be/en/topup"
+        }
+      ],
+      "hostname": [
+        {
+          "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+          "role": "manifest.source_url",
+          "url": "https://www.paypal-opladen.be/",
+          "normalized_url": "https://www.paypal-opladen.be/"
+        },
+        {
+          "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+          "role": "report.final_url",
+          "url": "https://www.paypal-opladen.be/en/topup",
+          "normalized_url": "https://www.paypal-opladen.be/en/topup"
+        },
+        {
+          "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+          "role": "report.original_url",
+          "url": "https://www.paypal-opladen.be/",
+          "normalized_url": "https://www.paypal-opladen.be/"
+        },
+        {
+          "sample_id": "production_8b0dd2bd8da79f6bdadd375a76a84703c43b47564d685a1abfad7997ee611683",
+          "role": "report.scan_original_url",
+          "url": "https://www.paypal-opladen.be/en/topup",
+          "normalized_url": "https://www.paypal-opladen.be/en/topup"
+        }
+      ]
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "PayPal Topup - Instantly add money to your PayPal account via Bancontact",
+  "capture_timestamp": "2026-10-05T14:39:14.250660+00:00",
+  "dom_chars": 28486,
+  "screenshot_bytes": 306069,
+  "dom_sha256": "277d729b1a4eaf53544bbadf311fc0f8bd1f44fe0b039ac2c0a4f4109e39e970",
+  "screenshot_sha256": "5ed771f77bb5140c562816a61a7c8721e1a8eef3ebf7e34e2230c45f007f5ceb",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+    "browser_final_url": "https://www.paypal-opladen.be/en/topup?_sm_au_=ivvq16tntjrrw2nnbn30lk7mc2bcg",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4910
+}

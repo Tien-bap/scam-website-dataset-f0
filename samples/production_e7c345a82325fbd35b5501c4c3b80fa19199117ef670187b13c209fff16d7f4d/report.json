@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.liquidation.com/c/sourcedfromamazonliquidations/",
+  "hostname": "www.liquidation.com",
+  "checked_at": "2026-10-04T16:03:09.378129+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 7,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0f9c8-474b-7534-aa64-d951f29de5d5",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-01T23:24:17.305Z",
+  "scan_original_url": "http://liquidation.com/",
+  "final_url": "https://www.liquidation.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 42236,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 55.553,
+  "discovery": {
+    "batch_id": "11850edb4dd69a7dc0d4d12fc02e6a3a98acf0000467104018b10947feafad89",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://valitcom.com/oooooopppp/index.php",
+  "hostname": "valitcom.com",
+  "checked_at": "2026-10-04T16:08:03.106269+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019ffdcd-2898-7569-ad6a-51597bc1bddd",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-14T01:05:23.553Z",
+  "scan_original_url": "http://valitcom.com/case/open",
+  "final_url": "https://valitcom.com/openclass/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 655,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.69,
+  "discovery": {
+    "batch_id": "6d94fa4cd5f3f41c39bd79a9ed965b8ada28ff489ca964ef01993b21d62f06f9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

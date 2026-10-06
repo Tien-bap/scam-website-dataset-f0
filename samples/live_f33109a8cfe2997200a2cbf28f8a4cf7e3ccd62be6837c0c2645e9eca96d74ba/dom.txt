@@ -1,0 +1,575 @@
+<!DOCTYPE html><html lang="vi-VN" style="--status-bar-height: 0px; --top-window-height: 0px; --window-left: 0px; --window-right: 0px; --window-margin: 0px; font-size: 68.25px; --window-top: calc(var(--top-window-height) + 0px); --window-bottom: 0px;"><head><style class="vjs-styles-defaults">
+      .video-js {
+        width: 300px;
+        height: 150px;
+      }
+
+      .vjs-fluid:not(.vjs-audio-only-mode) {
+        padding-top: 56.25%
+      }
+    </style><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1"><title></title><link rel="manifest" href="/static/manifest.json"><meta name="theme-color" content="#14b996"><link rel="apple-touch-icon" href="/static/img/user/logo.jpg"><link rel="dns-prefetch" href="//accounts.google.com"><link rel="preconnect" href="https://accounts.google.com"><script>document.addEventListener('DOMContentLoaded', function() {
+				document.documentElement.style.fontSize = document.documentElement.clientWidth / 20 + 'px'
+			})</script><link rel="stylesheet" href="/static/index.css"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="VNC"><link rel="apple-touch-icon" href="/static/img/user/logo.jpg"><meta name="mobile-web-app-capable" content="yes"><style>/* 自定义安装提示框样式 */
+		#pwa-install-banner {
+			display: none;
+			position: fixed;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			background: #fff;
+			padding: 16px;
+			box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+			z-index: 9999;
+			border-top-left-radius: 16px;
+			border-top-right-radius: 16px;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+		}
+		.pwa-banner-content {
+			display: flex;
+			align-items: center;
+			margin-bottom: 16px;
+		}
+		.pwa-icon {
+			width: 48px;
+			height: 48px;
+			border-radius: 10px;
+			margin-right: 12px;
+		}
+		.pwa-text {
+			flex: 1;
+		}
+		.pwa-title {
+			font-size: 16px;
+			font-weight: bold;
+			color: #333;
+			margin: 0 0 4px 0;
+		}
+		.pwa-desc {
+			font-size: 12px;
+			color: #666;
+			margin: 0;
+			line-height: 1.4;
+		}
+		.pwa-buttons {
+			display: flex;
+			gap: 12px;
+		}
+		.pwa-btn {
+			flex: 1;
+			padding: 10px 0;
+			border-radius: 8px;
+			font-size: 14px;
+			font-weight: bold;
+			text-align: center;
+			border: none;
+			outline: none;
+		}
+		.pwa-btn-cancel {
+			background: #f5f5f5;
+			color: #666;
+		}
+		.pwa-btn-install {
+			background: #14b996;
+			color: #fff;
+		}
+		/* iOS 操作提示说明 */
+		#ios-install-guide {
+			display: none;
+			font-size: 12px;
+			color: #666;
+			margin-bottom: 16px;
+			background: #f8f9fa;
+			padding: 10px;
+			border-radius: 8px;
+		}
+		.ios-icon-share {
+			display: inline-block;
+			width: 16px;
+			height: 16px;
+			background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23007AFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path><polyline points="16 6 12 2 8 6"></polyline><line x1="12" y1="2" x2="12" y2="15"></line></svg>') no-repeat center;
+			vertical-align: middle;
+			margin: 0 4px;
+		}
+		.ios-icon-add {
+			display: inline-block;
+			width: 16px;
+			height: 16px;
+			background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg>') no-repeat center;
+			vertical-align: middle;
+			margin: 0 4px;
+		}</style><style type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */</style><style type="text/css">@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */uni-video[data-v-a75f7a08],
+uni-image[data-v-a75f7a08]{width:100%;height:100%}uni-swiper[data-v-a75f7a08]{width:100%;height:100%}uni-swiper-item[data-v-a75f7a08]{width:100%;height:100%}.bgvh[data-v-a75f7a08]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#fafafa}.newbgvh[data-v-a75f7a08]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#f5f8fc}.flex[data-v-a75f7a08]{display:flex}.flex-between[data-v-a75f7a08]{justify-content:space-between}.flex-items-start[data-v-a75f7a08]{align-items:flex-start}.flex-items-center[data-v-a75f7a08]{align-items:center}.flex-wrap[data-v-a75f7a08]{flex-wrap:wrap}.poa[data-v-a75f7a08]{top:0;left:0;right:0;bottom:0}.popupShow[data-v-a75f7a08]{overflow:hidden;position:fixed;height:100vh;width:100%}.loading[data-v-a75f7a08]{position:fixed;top:0;left:0;right:0;bottom:0;background:hsla(0,0%,100%,0)}uni-view[data-v-a75f7a08], uni-scroll-view[data-v-a75f7a08], uni-swiper-item[data-v-a75f7a08]{display:flex;flex-direction:column;flex-shrink:0;flex-grow:0;flex-basis:auto;align-items:stretch;align-content:flex-start}
+/**
+ * vue版本动画内置的动画模式有如下：
+ * fade：淡入
+ * zoom：缩放
+ * fade-zoom：缩放淡入
+ * fade-up：上滑淡入
+ * fade-down：下滑淡入
+ * fade-left：左滑淡入
+ * fade-right：右滑淡入
+ * slide-up：上滑进入
+ * slide-down：下滑进入
+ * slide-left：左滑进入
+ * slide-right：右滑进入
+ */.u-fade-enter-active[data-v-a75f7a08],
+.u-fade-leave-active[data-v-a75f7a08]{transition-property:opacity}.u-fade-enter[data-v-a75f7a08],
+.u-fade-leave-to[data-v-a75f7a08]{opacity:0}.u-fade-zoom-enter[data-v-a75f7a08],
+.u-fade-zoom-leave-to[data-v-a75f7a08]{-webkit-transform:scale(.95);transform:scale(.95);opacity:0}.u-fade-zoom-enter-active[data-v-a75f7a08],
+.u-fade-zoom-leave-active[data-v-a75f7a08]{transition-property:opacity,-webkit-transform;transition-property:transform,opacity;transition-property:transform,opacity,-webkit-transform}.u-fade-down-enter-active[data-v-a75f7a08],
+.u-fade-down-leave-active[data-v-a75f7a08],
+.u-fade-left-enter-active[data-v-a75f7a08],
+.u-fade-left-leave-active[data-v-a75f7a08],
+.u-fade-right-enter-active[data-v-a75f7a08],
+.u-fade-right-leave-active[data-v-a75f7a08],
+.u-fade-up-enter-active[data-v-a75f7a08],
+.u-fade-up-leave-active[data-v-a75f7a08]{transition-property:opacity,-webkit-transform;transition-property:opacity,transform;transition-property:opacity,transform,-webkit-transform}.u-fade-up-enter[data-v-a75f7a08],
+.u-fade-up-leave-to[data-v-a75f7a08]{-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0);opacity:0}.u-fade-down-enter[data-v-a75f7a08],
+.u-fade-down-leave-to[data-v-a75f7a08]{-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0);opacity:0}.u-fade-left-enter[data-v-a75f7a08],
+.u-fade-left-leave-to[data-v-a75f7a08]{-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0);opacity:0}.u-fade-right-enter[data-v-a75f7a08],
+.u-fade-right-leave-to[data-v-a75f7a08]{-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0);opacity:0}.u-slide-down-enter-active[data-v-a75f7a08],
+.u-slide-down-leave-active[data-v-a75f7a08],
+.u-slide-left-enter-active[data-v-a75f7a08],
+.u-slide-left-leave-active[data-v-a75f7a08],
+.u-slide-right-enter-active[data-v-a75f7a08],
+.u-slide-right-leave-active[data-v-a75f7a08],
+.u-slide-up-enter-active[data-v-a75f7a08],
+.u-slide-up-leave-active[data-v-a75f7a08]{transition-property:-webkit-transform;transition-property:transform;transition-property:transform,-webkit-transform}.u-slide-up-enter[data-v-a75f7a08],
+.u-slide-up-leave-to[data-v-a75f7a08]{-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}.u-slide-down-enter[data-v-a75f7a08],
+.u-slide-down-leave-to[data-v-a75f7a08]{-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}.u-slide-left-enter[data-v-a75f7a08],
+.u-slide-left-leave-to[data-v-a75f7a08]{-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}.u-slide-right-enter[data-v-a75f7a08],
+.u-slide-right-leave-to[data-v-a75f7a08]{-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.u-zoom-enter-active[data-v-a75f7a08],
+.u-zoom-leave-active[data-v-a75f7a08]{transition-property:-webkit-transform;transition-property:transform;transition-property:transform,-webkit-transform}.u-zoom-enter[data-v-a75f7a08],
+.u-zoom-leave-to[data-v-a75f7a08]{-webkit-transform:scale(.95);transform:scale(.95)}</style><style type="text/css">@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */uni-video[data-v-b2a05bc2],
+uni-image[data-v-b2a05bc2]{width:100%;height:100%}uni-swiper[data-v-b2a05bc2]{width:100%;height:100%}uni-swiper-item[data-v-b2a05bc2]{width:100%;height:100%}.bgvh[data-v-b2a05bc2]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#fafafa}.newbgvh[data-v-b2a05bc2]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#f5f8fc}.flex[data-v-b2a05bc2]{display:flex}.flex-between[data-v-b2a05bc2]{justify-content:space-between}.flex-items-start[data-v-b2a05bc2]{align-items:flex-start}.flex-items-center[data-v-b2a05bc2]{align-items:center}.flex-wrap[data-v-b2a05bc2]{flex-wrap:wrap}.poa[data-v-b2a05bc2]{top:0;left:0;right:0;bottom:0}.popupShow[data-v-b2a05bc2]{overflow:hidden;position:fixed;height:100vh;width:100%}.loading[data-v-b2a05bc2]{position:fixed;top:0;left:0;right:0;bottom:0;background:hsla(0,0%,100%,0)}uni-view[data-v-b2a05bc2], uni-scroll-view[data-v-b2a05bc2], uni-swiper-item[data-v-b2a05bc2]{display:flex;flex-direction:column;flex-shrink:0;flex-grow:0;flex-basis:auto;align-items:stretch;align-content:flex-start}.u-overlay[data-v-b2a05bc2]{position:fixed;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.7)}</style><style type="text/css">@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */uni-video[data-v-186edb96],
+uni-image[data-v-186edb96]{width:100%;height:100%}uni-swiper[data-v-186edb96]{width:100%;height:100%}uni-swiper-item[data-v-186edb96]{width:100%;height:100%}.bgvh[data-v-186edb96]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#fafafa}.newbgvh[data-v-186edb96]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#f5f8fc}.flex[data-v-186edb96]{display:flex}.flex-between[data-v-186edb96]{justify-content:space-between}.flex-items-start[data-v-186edb96]{align-items:flex-start}.flex-items-center[data-v-186edb96]{align-items:center}.flex-wrap[data-v-186edb96]{flex-wrap:wrap}.poa[data-v-186edb96]{top:0;left:0;right:0;bottom:0}.popupShow[data-v-186edb96]{overflow:hidden;position:fixed;height:100vh;width:100%}.loading[data-v-186edb96]{position:fixed;top:0;left:0;right:0;bottom:0;background:hsla(0,0%,100%,0)}.u-status-bar[data-v-186edb96]{width:100%}</style><style type="text/css">@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */uni-video[data-v-59765974],
+uni-image[data-v-59765974]{width:100%;height:100%}uni-swiper[data-v-59765974]{width:100%;height:100%}uni-swiper-item[data-v-59765974]{width:100%;height:100%}.bgvh[data-v-59765974]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#fafafa}.newbgvh[data-v-59765974]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#f5f8fc}.flex[data-v-59765974]{display:flex}.flex-between[data-v-59765974]{justify-content:space-between}.flex-items-start[data-v-59765974]{align-items:flex-start}.flex-items-center[data-v-59765974]{align-items:center}.flex-wrap[data-v-59765974]{flex-wrap:wrap}.poa[data-v-59765974]{top:0;left:0;right:0;bottom:0}.popupShow[data-v-59765974]{overflow:hidden;position:fixed;height:100vh;width:100%}.loading[data-v-59765974]{position:fixed;top:0;left:0;right:0;bottom:0;background:hsla(0,0%,100%,0)}uni-view[data-v-59765974], uni-scroll-view[data-v-59765974], uni-swiper-item[data-v-59765974]{display:flex;flex-direction:column;flex-shrink:0;flex-grow:0;flex-basis:auto;align-items:stretch;align-content:flex-start}@font-face{font-family:uicon-iconfont;src:url(https://at.alicdn.com/t/font_2225171_8kdcwk4po24.ttf) format("truetype")}.u-icon[data-v-59765974]{display:flex;align-items:center}.u-icon--left[data-v-59765974]{flex-direction:row-reverse;align-items:center}.u-icon--right[data-v-59765974]{flex-direction:row;align-items:center}.u-icon--top[data-v-59765974]{flex-direction:column-reverse;justify-content:center}.u-icon--bottom[data-v-59765974]{flex-direction:column;justify-content:center}.u-icon__icon[data-v-59765974]{font-family:uicon-iconfont;position:relative;
+display:flex;
+flex-direction:row;align-items:center}.u-icon__icon--primary[data-v-59765974]{color:#3c9cff}.u-icon__icon--success[data-v-59765974]{color:#5ac725}.u-icon__icon--error[data-v-59765974]{color:#f56c6c}.u-icon__icon--warning[data-v-59765974]{color:#f9ae3d}.u-icon__icon--info[data-v-59765974]{color:#909399}.u-icon__img[data-v-59765974]{height:auto;will-change:transform}.u-icon__label[data-v-59765974]{line-height:1}</style><style type="text/css">@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */uni-video[data-v-eca591a4],
+uni-image[data-v-eca591a4]{width:100%;height:100%}uni-swiper[data-v-eca591a4]{width:100%;height:100%}uni-swiper-item[data-v-eca591a4]{width:100%;height:100%}.bgvh[data-v-eca591a4]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#fafafa}.newbgvh[data-v-eca591a4]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#f5f8fc}.flex[data-v-eca591a4]{display:flex}.flex-between[data-v-eca591a4]{justify-content:space-between}.flex-items-start[data-v-eca591a4]{align-items:flex-start}.flex-items-center[data-v-eca591a4]{align-items:center}.flex-wrap[data-v-eca591a4]{flex-wrap:wrap}.poa[data-v-eca591a4]{top:0;left:0;right:0;bottom:0}.popupShow[data-v-eca591a4]{overflow:hidden;position:fixed;height:100vh;width:100%}.loading[data-v-eca591a4]{position:fixed;top:0;left:0;right:0;bottom:0;background:hsla(0,0%,100%,0)}.u-safe-bottom[data-v-eca591a4]{width:100%}</style><style type="text/css">@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */uni-video[data-v-30282a05],
+uni-image[data-v-30282a05]{width:100%;height:100%}uni-swiper[data-v-30282a05]{width:100%;height:100%}uni-swiper-item[data-v-30282a05]{width:100%;height:100%}.bgvh[data-v-30282a05]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#fafafa}.newbgvh[data-v-30282a05]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#f5f8fc}.flex[data-v-30282a05]{display:flex}.flex-between[data-v-30282a05]{justify-content:space-between}.flex-items-start[data-v-30282a05]{align-items:flex-start}.flex-items-center[data-v-30282a05]{align-items:center}.flex-wrap[data-v-30282a05]{flex-wrap:wrap}.poa[data-v-30282a05]{top:0;left:0;right:0;bottom:0}.popupShow[data-v-30282a05]{overflow:hidden;position:fixed;height:100vh;width:100%}.loading[data-v-30282a05]{position:fixed;top:0;left:0;right:0;bottom:0;background:hsla(0,0%,100%,0)}uni-view[data-v-30282a05], uni-scroll-view[data-v-30282a05], uni-swiper-item[data-v-30282a05]{display:flex;flex-direction:column;flex-shrink:0;flex-grow:0;flex-basis:auto;align-items:stretch;align-content:flex-start}.u-popup[data-v-30282a05]{flex:1}.u-popup__content[data-v-30282a05]{background-color:#fff;position:relative}.u-popup__content--round-top[data-v-30282a05]{border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:10px;border-bottom-right-radius:10px}.u-popup__content--round-left[data-v-30282a05]{border-top-left-radius:0;border-top-right-radius:10px;border-bottom-left-radius:0;border-bottom-right-radius:10px}.u-popup__content--round-right[data-v-30282a05]{border-top-left-radius:10px;border-top-right-radius:0;border-bottom-left-radius:10px;border-bottom-right-radius:0}.u-popup__content--round-bottom[data-v-30282a05]{border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:0;border-bottom-right-radius:0}.u-popup__content--round-center[data-v-30282a05]{border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px}.u-popup__content__close[data-v-30282a05]{position:absolute}.u-popup__content__close--hover[data-v-30282a05]{opacity:.4}.u-popup__content__close--top-left[data-v-30282a05]{top:15px;left:15px}.u-popup__content__close--top-right[data-v-30282a05]{top:15px;right:15px}.u-popup__content__close--bottom-left[data-v-30282a05]{bottom:15px;left:15px}.u-popup__content__close--bottom-right[data-v-30282a05]{right:15px;bottom:15px}</style><style type="text/css">.c996-picker[data-v-112e7f16]{min-width:0}.picker-actions[data-v-112e7f16]{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px;background:#fff;font-size:15px;color:#334e72}.picker-actions uni-button[data-v-112e7f16]{margin:0;padding:5px 10px;line-height:1.5;font-size:15px;background:transparent;color:#2b6bd6}.picker-actions uni-button[data-v-112e7f16]::after{border:0}.date-labels[data-v-112e7f16]{display:flex;text-align:center;color:#7185a1;font-size:13px;padding:4px 0}.date-labels uni-text[data-v-112e7f16]{flex:1}.picker-wheel[data-v-112e7f16]{height:240px;background:#fff}.picker-option[data-v-112e7f16]{display:flex;align-items:center;justify-content:center;height:48px;font-size:16px;text-align:center;padding:0 8px;color:#2c3e63;line-height:1.4;box-sizing:border-box}</style><style type="text/css">.video-js .vjs-big-play-button .vjs-icon-placeholder:before,.video-js .vjs-modal-dialog,.vjs-button>.vjs-icon-placeholder:before,.vjs-modal-dialog .vjs-modal-dialog-content{position:absolute;top:0;left:0;width:100%;height:100%}.video-js .vjs-big-play-button .vjs-icon-placeholder:before,.vjs-button>.vjs-icon-placeholder:before{text-align:center}@font-face{font-family:VideoJS;src:url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAABUgAAsAAAAAItAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADsAAABUIIslek9TLzIAAAFEAAAAPgAAAFZRiV33Y21hcAAAAYQAAAEJAAAD5p42+VxnbHlmAAACkAAADwwAABdk9R/WHmhlYWQAABGcAAAAKwAAADYn8kSnaGhlYQAAEcgAAAAdAAAAJA+RCL1obXR4AAAR6AAAABMAAAC8Q44AAGxvY2EAABH8AAAAYAAAAGB7SIHGbWF4cAAAElwAAAAfAAAAIAFAAI9uYW1lAAASfAAAASUAAAIK1cf1oHBvc3QAABOkAAABfAAAAnXdFqh1eJxjYGRgYOBiMGCwY2BycfMJYeDLSSzJY5BiYGGAAJA8MpsxJzM9kYEDxgPKsYBpDiBmg4gCACY7BUgAeJxjYGR7xDiBgZWBgaWQ5RkDA8MvCM0cwxDOeI6BgYmBlZkBKwhIc01hcPjI+FGPHcRdyA4RZgQRADbZCycAAHic7dPXbcMwAEXRK1vuvffem749XAbKV3bjBA6fXsaIgMMLEWoQJaAEFKNnlELyQ4K27zib5PNF6vl8yld+TKr5kH0+cUw0xv00Hwvx2DResUyFKrV4XoMmLdp06NKjz4AhI8ZMmDJjzoIlK9Zs2LJjz4EjJ85cuHLjziPe/0UWL17mf2tqKLz/9jK9f8tXpGCoRdPKhtS0RqFkWvVQNtSKoVYNtWaoddPXEBqG2jQ9XWgZattQO4baNdSeofYNdWCoQ0MdGerYUCeGOjXUmaHODXVhqEtDXRnq2lA3hro11J2h7g31YKhHQz0Z6tlQL4Z6NdSbod4N9WGoT9MfHF6GmhnZLxyDcRMAAAB4nJ1YC1gUV5auc6urCmxEGrq6VRD6ATQP5dHPKK8GRIyoKApoEBUDAiGzGmdUfKNRM4qLZrUZdGKcGN/GZJKd0SyOWTbfbmZ2NxqzM5IxRtNZd78vwYlJdtREoO7sudVNq6PmmxmKqrqPU+eee173P80Bh39Cu9DOEY4DHZBK3i20D/QRLcfxbE5sEVtwLpZzclw4ibFIkSCJUcZ4MBpMnnzwuKNsGWBL5i3qy6kO2dVpvUpKbkAP9fq62rdeGJ+TM/7C1nbIutfuWrWk5ci4zMxxR1qW/N+9JsmCGXj9VKWhFx/6tr/nz78INDm2C9yPF/fDcxLuyKxLBZ1ZBz2QTi+RSkiH5RrDQJ/GgGQadX9m0YSURs7GpSG905Zsk41uj14yul1OtieZ7QUk5GRG/YiS7PYYPSAZNRed9sq3+bOpz00rKb7pe/ZEZvbALxZAHT3AFoH8GXP3rt67QFn40kt8W13FjLTDb48c+fSi5/7h0P4dL5yz7DPtbmgmYxfQA9RL2+EOfTcvdp+1vmuBpvOll1As1S6ak0IvJzC7sKWJFtJgBd2uWcg+0Zyg7dzQfhcjXRgXGZRf5/a4A58IDU777Nl252AUk4m2ByRRjqTNqIDCEJeAnU3iCFwrkrNwXEzg4yFevBwypzxkcX+AIfk3VEKl3XmWbT8788SzvpvFJaiOezL6QyuSr9VNf97csNu0z3LuhR0wATUxZAfVBwVOy+nQFhxYdWaXlXe4HC4zWGWzzsrLDtmhI9pOWOHv7PTT7XybH1Z0+v2d5Abd3kmG+TsH23CS/KwTxx/JkzEwx6jcQOUc42LLwHJ/J93uZ9ygh3HuZGwqsY9dWDHQ58dxNqyqKRQTYdxwTubiOSs3FiMDkq0WSZQgCT0GBDOg2lxOAd1FlPVGs4AKBAcYHHaP2wPkHaivmLF5zYqnIZrvcHx5gN4k/6tchNW1DtdgNL2KrxEkS/kfnIHoVnp1VjmjpTf5r0lTzLj0mdS28tX+XGorU364eMPmnWVl8J36nlKGw3CZhjEiuMw8h8mKvhGD+4/lElBWjAhLJMg6fTw4zPZ8cOmcGQBm2Qxml1nAm13CpYGq1JKUlJJUzQn1PTAO0mgv6VMMpA/DuRfSWEu4lDIxdbAtdWIKvnn2Vk766CWfz9fpY0sH/UpdP50rfszaVpdVRmvIejEdLMk45s4Bu0EWHjeOySmFyZSiMahvZdNSn29peoI/YexYfKQTLeurTXXwEVLeSfInTWHkkMaeUx7sBvOCSTSj3AlcKjfueyS36tCrXDlgRtF0etFq9jhc1kfKuBT/OwMr0F4UUTTh1AN0g20+H/ScPcsIEsYu9d/zN5PmjprPtNwI1ZZcDK6iC97Mcjp2y2aX36f+QbpGHrgRuHlXJ+Zf6PFRL2uQSp8vxHeF2IoRb8Rd2rhMzsNxSRmEuKK4JFnkojhMcx6jzqHzGMGFcW+MhBj0bhf6cowN+45I4LHvwT6fteu7M42wGRI/pxcg6/MZdEvt1U1XaulHFXuLmqov/MukvRVL35/b3ODM1+4aPjtzeK7zmUkV2h3DN54HaQ9GzJvxHRb6Ks2gB81fwqraT+A7GvZJrRLRofU6G0urNL+zFw3v0FaVDFxsKEZW56F31r6ip6vOL+FCObBPuIMRiXld9RaMdLzRIOGhPey2T9vA/35DmZPK9IWaT9d/WgOGMieYqJ/dzjLIhZU118gbysxrNUGefxD6UO/hyNNllpFTOIbx32kSFQctnweV5PxTMHLjRqiAN+fQE9gL+Xy5WB6MOS4GJJuYbDUHhcKDhHGRbLzOpjsjdM1+iwAZLGeieehACX2hhI7SjK/ZUTNrvVje31TxJiFBGYViWFkCn9PMeX9fS6qVbzfCj4fOCTzDnuWy2c4xA7mdNkA3RS9FH2VeqzdCBlixxbzXjvkHU1I8BOYFb1pZvPIHSSIj4svT8xpzcxtXN+ZKyjdDvbz08niiF3PqV9Tn5NST8vg48MTaY8E5xqSSIsWoWHo+LtAzxdH/GDUyp37CBEYfso04F/NlMTcDJUTpECLY0HFGQHImE8xsEUdgnrQlixIvGhJA1BvxpDHGxEMBYFeNOHcBJlSjwe2JcSfbBEsGOPPBHg/6SBBOCsLLw0SpUxod0Z1bFMfLkbQ3UiZxEyd0Dx8t+SRBu18Q9msFbI4e3p1THEfkSEh7kEJ5orR10qTWDvbgPWn5aWvCYyOAjwgXyjJi34uMjo58L25cmRAeQZWI2PA1QQLsPESAH8WGFwZZ4SPoR73BHPzIPMJj9AreBzKUmrH4todT18ANvi1oc3YGjUT/0j+ExUwq8PI9BLaCQIpvewwYu2evAG/Vo/5avPdY7o+BemLLXw3y+AdkzP9bpIxB1wm5EYq8fesHbPEPtm6HrHvtx4jcGPR8fDDpkZBefIjB46QnlUNRltv4Z/pO/J6dxEjhYAtmoMeq+GozvUVvNYOW3m6GCIhoprcfr97B8AcIQYsfD8ljUvGNjvkrpj0ETA48ZMIxCeqsRIsQALE0gi2GB+glSOfbOjW3GSBM9yPq8/rpJXrJDz0BPxV6xdN4uiCGDQed3WhgFkBUZEFsmeyyBpzXrm7UGTBZG8Lh5aubFufk5eUsbrrFGr7McYdbltxa0nKYqRKbQjvikXYkTGM0f2xuyM3Ly21oXnWfvf6I1BmZwfh7EWWIYsg2nHhsDhOnczhJcmI6eBAmy3jZ3RiJmKQR/JA99FcwsfaVbNDDyi1rL9NPj9hfo61wjM6BjzOLijLpeTgk/pL+ip6tfYWupzeOgPny2tcUu9J/9mhxJlgyi985NFRbvCVewXUNXLJaW0RxZqtRYtnfYdcYomXQWdnJHQA3jiEEkeTQWcWxdDP9IvvVWvo2TK553XEMEq+s69/QDU1Q7p0zxwsm9qS379whr8NI2PJqLUyGyfNeX3eFfnJU2U+uHR9cVV1IqgurqwuV44XVp0h2qN55X5XJwtk59yP0IZuHrqBOBIuIYhkcoT6Kx79Pu2HS/IPZIMOqLWs/pteOOk4NPgEb6QAIdAPsyZk5Mwd+wVaHMexJv719W7xCu2l37UG6lvYdBcvHa08p89741zd63phTRGqL5ggo6SlvdbWXzCqsPq78NnSu7wnKy2HNZbVoRCI7UJEOyRj+sPE002tOOY7Qa5fXboFWkLNeqYUSZRocp9XwSUZxcQZ9Hw6LV2pOoVmvHQEDbGIENEG5i6bLgMSM4n8+FNLTtAds99DaWEvgcf4o5SyYe9x+kF6/tGoTPAdRmS/XQIEy//QxKC2oqioAI3tS5auvxCtzT6y6RK8fhChYcwCJaMJhxc0vqSxQ/qmgsrKAlBZUHlauheTpvd9uj5DnLzJct6qfq5fXbYHVIGcfrIVJihbaVLu1wW7Vbs8zK0A8e9Jvb91S9cVMjPrazD6gpfeZTXzYbCFMcppVRsGMpp55OWgx1/3JeAxW1Y7AORgM/m3rWrsdLkQVmEVSU16cX/e7uvkvpqRiQsG06XJ0t64Tf+l0nG1dt025gyOIZlvq5u9KSU1N2TW/rsWnnMRPyTDkctbhvIcNvYIXWyLzdwYLoYesUbaQG4iK2cWO2gdpeUYLqDD0MUTOPhDIGnZEs58yArR86FznuWEsU4YDi2x26dA4klkn8Qa6vhk2QUfX4Jxm/ngX9r7ogn1dmlmwqZmuhxtdg9XN/DEcUgqb+9hMyNansfaQET2mcROCmGEMVqxm5u+h6kN2MOwgqykV2wH9yQG9DvVFU38Pogaf4FVuE62KI/oJ02RDdWW2w5dqQwU/8+N1q1DlvsL863u61KLE7x/o8w0VJQM/Y/SQ3unIrqxueEa1BqT5VFNsO7p39/UC771a77RowpaKe9nvJQIT1Pog5LGx8XblBKmCNGTf3xMogAQvPnz9PYKX/08sVDTG1OKUlOLUgS/UaZtm1NAaYTsl7i9ZQ+L6O4Rl0OGa577LuWvc+C+x96/vYh0lLBuM+7XwI/dTLtdT7v4d6rRTWDnku0IBrqFnZ5bVIqKP8lasJlithWnaLhTsr8qFJBulF/70p4undou36HeTJ5+jv1fCybeQ8nH3+Xv6aENczmOFlab+hqMDg1rLOt12A+tiUFrYDwQ6c3RUJp601nzegTNX6WlYAI2zSUV945F6zU56ZmZVQaWspWcIADxJ9GmljQUnL2p2Dpr5T8H+5KJFu+vqBq8qvyHRzStLHPEO5SPYCV9nZe0yZT2RcH0oHvegSzNEJ0oGWU8iQWM12dgPEugngVceGIwZgPFp0BiT1a0a3R5Rcot7ihfA1J/20v96jX7zmTX9s583H0kwx6WnLd09cXrR9LGroOa9sHNbdyz8wcKk5lqhaVFJZNwmqtw884MXNdvJujpBa3xzuSaZH9sxa06Z7x+HJSduPbdYHv/DgmEhfbehvlmGN7JUkcG78GDM12CeyFFTPNqVeNxC1gzjz+c2nVo63Xxs8rKJWXoBJM0tmEbfGm4qzpoOH3xpzQfyxLzW1gnE9NHo6tol1eMEic4ZVPrjnVi0kqAe2sQ2bgqupScaq8WGlUWgWHI51SKJl/UYT6zccNsCSkBtiVZLsiefuFSDYT3Fi8Zk7EUnmjTRYtsFeuDDJS05MW79M3mr3mla+d8dzac31KTPmBYfFiYSUef48PhPjm9ryZsSGZZkdNvzq0Y9rdNcwDq5Dg5C3QW+7UN64IKptvS3tvHbvu5c9pv1Exau21rc9LIpwpQwUjTq8576yeVDz5+4WZ1nXT43wV60rPLJbDp/UksNrP3iQ2SA63Pst058gOYDbhRnRUw8l/sRt4HbxPzO4WYpInCpuVgSbVh6JXuwnnJngKTTCwaPWmG5Xbhpm1U0Yt3FyBGpGYemPM77p2TD904JjgJ2QFpFLeYpGx8X15Qx1Zk31p5ki9ZLUuXE0lmuJlcakJMVLeFS1iIvrB8drY0aloilakqCZwzwRORtxlgwxS4IThggJd4TDxoiaAIT80fFPGrCPPru+puFn504P/ybr4ihA/6dKASLshEJic7xE8tmzu3KzA7TABBe8y5fNbWo3ilQn/SuFKM16b2l5bOeayqfGhYmhIulU+fVNDdWVv4NMzX10MBHyPR5uhWUu8D9P1VnIMt4nGNgZGBgAOJ/1bf64vltvjJwszOAwAOlmqvINEc/WJyDgQlEAQA+dgnjAHicY2BkYGBnAAGOPgaG//85+hkYGVCBPgBGJwNkAAAAeJxjYGBgYB/EmKMPtxwAhg4B0gAAAAAAAA4AaAB+AMwA4AECAUIBbAGYAe4CLgKKAtAC/ANiA4wDqAPgBDAEsATaBQgFWgXABggGLgZwBqwG9gdOB4oH0ggqCHAIhgicCMgJJAlWCYgJrAnyCkAKdgrkC7J4nGNgZGBg0GdoZmBnAAEmIOYCQgaG/2A+AwAaqwHQAHicXZBNaoNAGIZfE5PQCKFQ2lUps2oXBfOzzAESyDKBQJdGR2NQR3QSSE/QE/QEPUUPUHqsvsrXjTMw83zPvPMNCuAWP3DQDAejdm1GjzwS7pMmwi75XngAD4/CQ/oX4TFe4Qt7uMMbOzjuDc0EmXCP/C7cJ38Iu+RP4QEe8CU8pP8WHmOPX2EPz87TPo202ey2OjlnQSXV/6arOjWFmvszMWtd6CqwOlKHq6ovycLaWMWVydXKFFZnmVFlZU46tP7R2nI5ncbi/dDkfDtFBA2DDXbYkhKc+V0Bqs5Zt9JM1HQGBRTm/EezTmZNKtpcAMs9Yu6AK9caF76zoLWIWcfMGOSkVduvSWechqZsz040Ib2PY3urxBJTzriT95lipz+TN1fmAAAAeJxtkXlT2zAQxf1C4thJAwRajt4HRy8VMwwfSJHXsQZZcnUQ+PYoTtwpM+wf2t9brWZ2n5JBsol58nJcYYAdDDFCijEy5JhgileYYRd72MccBzjEa7zBEY5xglO8xTu8xwd8xCd8xhd8xTec4RwXuMR3/MBP/MJvMPzBFYpk2Cr+OF0fTEgrFI1aHhxN740KDbEmeJpsWZlVj40s+45aLuv9KijlhCXSjLQnu/d/4UH6sWul1mRzFxZeekUuE7z10mg3qMtM1FGQddPSrLQyvJR6OaukItYXDp6pCJrmz0umqkau5pZ2hFmm7m+ImG5W2t0kZoJXUtPhVnYTbbdOBdeCVGqpJe7XKTqSbRK7zbdwXfR0U+SVsStuS3Y76em6+Ic3xYiHUppc04Nn0lMzay3dSxNcp8auDlWlaCi48yetFD7Y9USsx87G45cuop1ZxQUtjLnL4j53FO0a+5X08UXqQ7NQNo92R0XOz7sxWEnxN2TneJI8Acttu4Q=) format("woff");font-weight:400;font-style:normal}.video-js .vjs-big-play-button .vjs-icon-placeholder:before,.video-js .vjs-play-control .vjs-icon-placeholder,.vjs-icon-play{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-big-play-button .vjs-icon-placeholder:before,.video-js .vjs-play-control .vjs-icon-placeholder:before,.vjs-icon-play:before{content:"\f101"}.vjs-icon-play-circle{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-play-circle:before{content:"\f102"}.video-js .vjs-play-control.vjs-playing .vjs-icon-placeholder,.vjs-icon-pause{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-play-control.vjs-playing .vjs-icon-placeholder:before,.vjs-icon-pause:before{content:"\f103"}.video-js .vjs-mute-control.vjs-vol-0 .vjs-icon-placeholder,.vjs-icon-volume-mute{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-mute-control.vjs-vol-0 .vjs-icon-placeholder:before,.vjs-icon-volume-mute:before{content:"\f104"}.video-js .vjs-mute-control.vjs-vol-1 .vjs-icon-placeholder,.vjs-icon-volume-low{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-mute-control.vjs-vol-1 .vjs-icon-placeholder:before,.vjs-icon-volume-low:before{content:"\f105"}.video-js .vjs-mute-control.vjs-vol-2 .vjs-icon-placeholder,.vjs-icon-volume-mid{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-mute-control.vjs-vol-2 .vjs-icon-placeholder:before,.vjs-icon-volume-mid:before{content:"\f106"}.video-js .vjs-mute-control .vjs-icon-placeholder,.vjs-icon-volume-high{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-mute-control .vjs-icon-placeholder:before,.vjs-icon-volume-high:before{content:"\f107"}.video-js .vjs-fullscreen-control .vjs-icon-placeholder,.vjs-icon-fullscreen-enter{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-fullscreen-control .vjs-icon-placeholder:before,.vjs-icon-fullscreen-enter:before{content:"\f108"}.video-js.vjs-fullscreen .vjs-fullscreen-control .vjs-icon-placeholder,.vjs-icon-fullscreen-exit{font-family:VideoJS;font-weight:400;font-style:normal}.video-js.vjs-fullscreen .vjs-fullscreen-control .vjs-icon-placeholder:before,.vjs-icon-fullscreen-exit:before{content:"\f109"}.vjs-icon-spinner{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-spinner:before{content:"\f10a"}.video-js .vjs-subs-caps-button .vjs-icon-placeholder,.video-js .vjs-subtitles-button .vjs-icon-placeholder,.video-js.video-js:lang(en-AU) .vjs-subs-caps-button .vjs-icon-placeholder,.video-js.video-js:lang(en-GB) .vjs-subs-caps-button .vjs-icon-placeholder,.video-js.video-js:lang(en-IE) .vjs-subs-caps-button .vjs-icon-placeholder,.video-js.video-js:lang(en-NZ) .vjs-subs-caps-button .vjs-icon-placeholder,.vjs-icon-subtitles{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-subs-caps-button .vjs-icon-placeholder:before,.video-js .vjs-subtitles-button .vjs-icon-placeholder:before,.video-js.video-js:lang(en-AU) .vjs-subs-caps-button .vjs-icon-placeholder:before,.video-js.video-js:lang(en-GB) .vjs-subs-caps-button .vjs-icon-placeholder:before,.video-js.video-js:lang(en-IE) .vjs-subs-caps-button .vjs-icon-placeholder:before,.video-js.video-js:lang(en-NZ) .vjs-subs-caps-button .vjs-icon-placeholder:before,.vjs-icon-subtitles:before{content:"\f10b"}.video-js .vjs-captions-button .vjs-icon-placeholder,.video-js:lang(en) .vjs-subs-caps-button .vjs-icon-placeholder,.video-js:lang(fr-CA) .vjs-subs-caps-button .vjs-icon-placeholder,.vjs-icon-captions{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-captions-button .vjs-icon-placeholder:before,.video-js:lang(en) .vjs-subs-caps-button .vjs-icon-placeholder:before,.video-js:lang(fr-CA) .vjs-subs-caps-button .vjs-icon-placeholder:before,.vjs-icon-captions:before{content:"\f10c"}.vjs-icon-hd{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-hd:before{content:"\f10d"}.video-js .vjs-chapters-button .vjs-icon-placeholder,.vjs-icon-chapters{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-chapters-button .vjs-icon-placeholder:before,.vjs-icon-chapters:before{content:"\f10e"}.vjs-icon-downloading{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-downloading:before{content:"\f10f"}.vjs-icon-file-download{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-file-download:before{content:"\f110"}.vjs-icon-file-download-done{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-file-download-done:before{content:"\f111"}.vjs-icon-file-download-off{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-file-download-off:before{content:"\f112"}.vjs-icon-share{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-share:before{content:"\f113"}.vjs-icon-cog{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-cog:before{content:"\f114"}.vjs-icon-square{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-square:before{content:"\f115"}.video-js .vjs-play-progress,.video-js .vjs-volume-level,.vjs-icon-circle,.vjs-seek-to-live-control .vjs-icon-placeholder{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-play-progress:before,.video-js .vjs-volume-level:before,.vjs-icon-circle:before,.vjs-seek-to-live-control .vjs-icon-placeholder:before{content:"\f116"}.vjs-icon-circle-outline{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-circle-outline:before{content:"\f117"}.vjs-icon-circle-inner-circle{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-circle-inner-circle:before{content:"\f118"}.video-js .vjs-control.vjs-close-button .vjs-icon-placeholder,.vjs-icon-cancel{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-control.vjs-close-button .vjs-icon-placeholder:before,.vjs-icon-cancel:before{content:"\f119"}.vjs-icon-repeat{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-repeat:before{content:"\f11a"}.video-js .vjs-play-control.vjs-ended .vjs-icon-placeholder,.vjs-icon-replay{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-play-control.vjs-ended .vjs-icon-placeholder:before,.vjs-icon-replay:before{content:"\f11b"}.video-js .vjs-skip-backward-5 .vjs-icon-placeholder,.vjs-icon-replay-5{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-skip-backward-5 .vjs-icon-placeholder:before,.vjs-icon-replay-5:before{content:"\f11c"}.video-js .vjs-skip-backward-10 .vjs-icon-placeholder,.vjs-icon-replay-10{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-skip-backward-10 .vjs-icon-placeholder:before,.vjs-icon-replay-10:before{content:"\f11d"}.video-js .vjs-skip-backward-30 .vjs-icon-placeholder,.vjs-icon-replay-30{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-skip-backward-30 .vjs-icon-placeholder:before,.vjs-icon-replay-30:before{content:"\f11e"}.video-js .vjs-skip-forward-5 .vjs-icon-placeholder,.vjs-icon-forward-5{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-skip-forward-5 .vjs-icon-placeholder:before,.vjs-icon-forward-5:before{content:"\f11f"}.video-js .vjs-skip-forward-10 .vjs-icon-placeholder,.vjs-icon-forward-10{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-skip-forward-10 .vjs-icon-placeholder:before,.vjs-icon-forward-10:before{content:"\f120"}.video-js .vjs-skip-forward-30 .vjs-icon-placeholder,.vjs-icon-forward-30{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-skip-forward-30 .vjs-icon-placeholder:before,.vjs-icon-forward-30:before{content:"\f121"}.video-js .vjs-audio-button .vjs-icon-placeholder,.vjs-icon-audio{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-audio-button .vjs-icon-placeholder:before,.vjs-icon-audio:before{content:"\f122"}.vjs-icon-next-item{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-next-item:before{content:"\f123"}.vjs-icon-previous-item{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-previous-item:before{content:"\f124"}.vjs-icon-shuffle{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-shuffle:before{content:"\f125"}.vjs-icon-cast{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-cast:before{content:"\f126"}.video-js .vjs-picture-in-picture-control .vjs-icon-placeholder,.vjs-icon-picture-in-picture-enter{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-picture-in-picture-control .vjs-icon-placeholder:before,.vjs-icon-picture-in-picture-enter:before{content:"\f127"}.video-js.vjs-picture-in-picture .vjs-picture-in-picture-control .vjs-icon-placeholder,.vjs-icon-picture-in-picture-exit{font-family:VideoJS;font-weight:400;font-style:normal}.video-js.vjs-picture-in-picture .vjs-picture-in-picture-control .vjs-icon-placeholder:before,.vjs-icon-picture-in-picture-exit:before{content:"\f128"}.vjs-icon-facebook{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-facebook:before{content:"\f129"}.vjs-icon-linkedin{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-linkedin:before{content:"\f12a"}.vjs-icon-twitter{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-twitter:before{content:"\f12b"}.vjs-icon-tumblr{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-tumblr:before{content:"\f12c"}.vjs-icon-pinterest{font-family:VideoJS;font-weight:400;font-style:normal}.vjs-icon-pinterest:before{content:"\f12d"}.video-js .vjs-descriptions-button .vjs-icon-placeholder,.vjs-icon-audio-description{font-family:VideoJS;font-weight:400;font-style:normal}.video-js .vjs-descriptions-button .vjs-icon-placeholder:before,.vjs-icon-audio-description:before{content:"\f12e"}.video-js{display:inline-block;vertical-align:top;box-sizing:border-box;color:#fff;background-color:#000;position:relative;padding:0;font-size:10px;line-height:1;font-weight:400;font-style:normal;font-family:Arial,Helvetica,sans-serif;word-break:normal}.video-js:-moz-full-screen{position:absolute}.video-js:-webkit-full-screen{width:100%!important;height:100%!important}.video-js[tabindex="-1"]{outline:0}.video-js *,.video-js :after,.video-js :before{box-sizing:inherit}.video-js ul{font-family:inherit;font-size:inherit;line-height:inherit;list-style-position:outside;margin-left:0;margin-right:0;margin-top:0;margin-bottom:0}.video-js.vjs-1-1,.video-js.vjs-16-9,.video-js.vjs-4-3,.video-js.vjs-9-16,.video-js.vjs-fluid{width:100%;max-width:100%}.video-js.vjs-1-1:not(.vjs-audio-only-mode),.video-js.vjs-16-9:not(.vjs-audio-only-mode),.video-js.vjs-4-3:not(.vjs-audio-only-mode),.video-js.vjs-9-16:not(.vjs-audio-only-mode),.video-js.vjs-fluid:not(.vjs-audio-only-mode){height:0}.video-js.vjs-16-9:not(.vjs-audio-only-mode){padding-top:56.25%}.video-js.vjs-4-3:not(.vjs-audio-only-mode){padding-top:75%}.video-js.vjs-9-16:not(.vjs-audio-only-mode){padding-top:177.7777777778%}.video-js.vjs-1-1:not(.vjs-audio-only-mode){padding-top:100%}.video-js.vjs-fill:not(.vjs-audio-only-mode){width:100%;height:100%}.video-js .vjs-tech{position:absolute;top:0;left:0;width:100%;height:100%}.video-js.vjs-audio-only-mode .vjs-tech{display:none}body.vjs-full-window,body.vjs-pip-window{padding:0;margin:0;height:100%}.vjs-full-window .video-js.vjs-fullscreen,body.vjs-pip-window .video-js{position:fixed;overflow:hidden;z-index:1000;left:0;top:0;bottom:0;right:0}.video-js.vjs-fullscreen:not(.vjs-ios-native-fs),body.vjs-pip-window .video-js{width:100%!important;height:100%!important;padding-top:0!important}.video-js.vjs-fullscreen.vjs-user-inactive{cursor:none}.vjs-pip-container .vjs-pip-text{position:absolute;bottom:10%;font-size:2em;background-color:rgba(0,0,0,.7);padding:.5em;text-align:center;width:100%}.vjs-layout-small.vjs-pip-container .vjs-pip-text,.vjs-layout-tiny.vjs-pip-container .vjs-pip-text,.vjs-layout-x-small.vjs-pip-container .vjs-pip-text{bottom:0;font-size:1.4em}.vjs-hidden{display:none!important}.vjs-disabled{opacity:.5;cursor:default}.video-js .vjs-offscreen{height:1px;left:-9999px;position:absolute;top:0;width:1px}.vjs-lock-showing{display:block!important;opacity:1!important;visibility:visible!important}.vjs-no-js{padding:20px;color:#fff;background-color:#000;font-size:18px;font-family:Arial,Helvetica,sans-serif;text-align:center;width:300px;height:150px;margin:0 auto}.vjs-no-js a,.vjs-no-js a:visited{color:#66a8cc}.video-js .vjs-big-play-button{font-size:3em;line-height:1.5em;height:1.63332em;width:3em;display:block;position:absolute;top:50%;left:50%;padding:0;margin-top:-.81666em;margin-left:-1.5em;cursor:pointer;opacity:1;border:.06666em solid #fff;background-color:#2b333f;background-color:rgba(43,51,63,.7);border-radius:.3em;transition:all .4s}.video-js .vjs-big-play-button:focus,.video-js:hover .vjs-big-play-button{border-color:#fff;background-color:#73859f;background-color:rgba(115,133,159,.5);transition:all 0s}.vjs-controls-disabled .vjs-big-play-button,.vjs-error .vjs-big-play-button,.vjs-has-started .vjs-big-play-button,.vjs-using-native-controls .vjs-big-play-button{display:none}.vjs-has-started.vjs-paused.vjs-show-big-play-button-on-pause .vjs-big-play-button{display:block}.video-js uni-button{background:0 0;border:none;color:inherit;display:inline-block;font-size:inherit;line-height:inherit;text-transform:none;text-decoration:none;transition:none;-webkit-appearance:none;-moz-appearance:none;appearance:none}.vjs-control .vjs-button{width:100%;height:100%}.video-js .vjs-control.vjs-close-button{cursor:pointer;height:3em;position:absolute;right:0;top:.5em;z-index:2}.video-js .vjs-modal-dialog{background:rgba(0,0,0,.8);background:linear-gradient(180deg,rgba(0,0,0,.8),hsla(0,0%,100%,0));overflow:auto}.video-js .vjs-modal-dialog>*{box-sizing:border-box}.vjs-modal-dialog .vjs-modal-dialog-content{font-size:1.2em;line-height:1.5;padding:20px 24px;z-index:1}.vjs-menu-button{cursor:pointer}.vjs-menu-button.vjs-disabled{cursor:default}.vjs-workinghover .vjs-menu-button.vjs-disabled:hover .vjs-menu{display:none}.vjs-menu .vjs-menu-content{display:block;padding:0;margin:0;font-family:Arial,Helvetica,sans-serif;overflow:auto}.vjs-menu .vjs-menu-content>*{box-sizing:border-box}.vjs-scrubbing .vjs-control.vjs-menu-button:hover .vjs-menu{display:none}.vjs-menu li{list-style:none;margin:0;padding:.2em 0;line-height:1.4em;font-size:1.2em;text-align:center;text-transform:lowercase}.js-focus-visible .vjs-menu li.vjs-menu-item:hover,.vjs-menu li.vjs-menu-item:focus,.vjs-menu li.vjs-menu-item:hover{background-color:#73859f;background-color:rgba(115,133,159,.5)}.js-focus-visible .vjs-menu li.vjs-selected:hover,.vjs-menu li.vjs-selected,.vjs-menu li.vjs-selected:focus,.vjs-menu li.vjs-selected:hover{background-color:#fff;color:#2b333f}.js-focus-visible .vjs-menu :not(.vjs-selected):focus:not(.focus-visible),.video-js .vjs-menu :not(.vjs-selected):focus:not(:focus-visible){background:0 0}.vjs-menu li.vjs-menu-title{text-align:center;text-transform:uppercase;font-size:1em;line-height:2em;padding:0;margin:0 0 .3em 0;font-weight:700;cursor:default}.vjs-menu-button-popup .vjs-menu{display:none;position:absolute;bottom:0;width:10em;left:-3em;height:0;margin-bottom:1.5em;border-top-color:rgba(43,51,63,.7)}.vjs-pip-window .vjs-menu-button-popup .vjs-menu{left:unset;right:1em}.vjs-menu-button-popup .vjs-menu .vjs-menu-content{background-color:#2b333f;background-color:rgba(43,51,63,.7);position:absolute;width:100%;bottom:1.5em;max-height:15em}.vjs-layout-tiny .vjs-menu-button-popup .vjs-menu .vjs-menu-content,.vjs-layout-x-small .vjs-menu-button-popup .vjs-menu .vjs-menu-content{max-height:5em}.vjs-layout-small .vjs-menu-button-popup .vjs-menu .vjs-menu-content{max-height:10em}.vjs-layout-medium .vjs-menu-button-popup .vjs-menu .vjs-menu-content{max-height:14em}.vjs-layout-huge .vjs-menu-button-popup .vjs-menu .vjs-menu-content,.vjs-layout-large .vjs-menu-button-popup .vjs-menu .vjs-menu-content,.vjs-layout-x-large .vjs-menu-button-popup .vjs-menu .vjs-menu-content{max-height:25em}.vjs-menu-button-popup .vjs-menu.vjs-lock-showing,.vjs-workinghover .vjs-menu-button-popup.vjs-hover .vjs-menu{display:block}.video-js .vjs-menu-button-inline{transition:all .4s;overflow:hidden}.video-js .vjs-menu-button-inline:before{width:2.222222222em}.video-js .vjs-menu-button-inline.vjs-slider-active,.video-js .vjs-menu-button-inline:focus,.video-js .vjs-menu-button-inline:hover{width:12em}.vjs-menu-button-inline .vjs-menu{opacity:0;height:100%;width:auto;position:absolute;left:4em;top:0;padding:0;margin:0;transition:all .4s}.vjs-menu-button-inline.vjs-slider-active .vjs-menu,.vjs-menu-button-inline:focus .vjs-menu,.vjs-menu-button-inline:hover .vjs-menu{display:block;opacity:1}.vjs-menu-button-inline .vjs-menu-content{width:auto;height:100%;margin:0;overflow:hidden}.video-js .vjs-control-bar{display:none;width:100%;position:absolute;bottom:0;left:0;right:0;height:3em;background-color:#2b333f;background-color:rgba(43,51,63,.7)}.vjs-audio-only-mode .vjs-control-bar,.vjs-has-started .vjs-control-bar{display:flex;visibility:visible;opacity:1;transition:visibility .1s,opacity .1s}.vjs-has-started.vjs-user-inactive.vjs-playing .vjs-control-bar{visibility:visible;opacity:0;pointer-events:none;transition:visibility 1s,opacity 1s}.vjs-controls-disabled .vjs-control-bar,.vjs-error .vjs-control-bar,.vjs-using-native-controls .vjs-control-bar{display:none!important}.vjs-audio-only-mode.vjs-has-started.vjs-user-inactive.vjs-playing .vjs-control-bar,.vjs-audio.vjs-has-started.vjs-user-inactive.vjs-playing .vjs-control-bar{opacity:1;visibility:visible;pointer-events:auto}.video-js .vjs-control{position:relative;text-align:center;margin:0;padding:0;height:100%;width:4em;flex:none}.video-js .vjs-control.vjs-visible-text{width:auto;padding-left:1em;padding-right:1em}.vjs-button>.vjs-icon-placeholder:before{font-size:1.8em;line-height:1.67}.vjs-button>.vjs-icon-placeholder{display:block}.video-js .vjs-control:focus,.video-js .vjs-control:focus:before,.video-js .vjs-control:hover:before{text-shadow:0 0 1em #fff}.video-js :not(.vjs-visible-text)>.vjs-control-text{border:0;clip:rect(0 0 0 0);height:1px;overflow:hidden;padding:0;position:absolute;width:1px}.video-js .vjs-custom-control-spacer{display:none}.video-js .vjs-progress-control{cursor:pointer;flex:auto;display:flex;align-items:center;min-width:4em;touch-action:none}.video-js .vjs-progress-control.disabled{cursor:default}.vjs-live .vjs-progress-control{display:none}.vjs-liveui .vjs-progress-control{display:flex;align-items:center}.video-js .vjs-progress-holder{flex:auto;transition:all .2s;height:.3em}.video-js .vjs-progress-control .vjs-progress-holder{margin:0 10px}.video-js .vjs-progress-control:hover .vjs-progress-holder{font-size:1.6666666667em}.video-js .vjs-progress-control:hover .vjs-progress-holder.disabled{font-size:1em}.video-js .vjs-progress-holder .vjs-load-progress,.video-js .vjs-progress-holder .vjs-load-progress div,.video-js .vjs-progress-holder .vjs-play-progress{position:absolute;display:block;height:100%;margin:0;padding:0;width:0}.video-js .vjs-play-progress{background-color:#fff}.video-js .vjs-play-progress:before{font-size:.9em;position:absolute;right:-.5em;line-height:.35em;z-index:1}.video-js .vjs-load-progress{background:rgba(115,133,159,.5)}.video-js .vjs-load-progress div{background:rgba(115,133,159,.75)}.video-js .vjs-time-tooltip{background-color:#fff;background-color:hsla(0,0%,100%,.8);border-radius:.3em;color:#000;float:right;font-family:Arial,Helvetica,sans-serif;font-size:1em;padding:6px 8px 8px 8px;pointer-events:none;position:absolute;top:-3.4em;visibility:hidden;z-index:1}.video-js .vjs-progress-holder:focus .vjs-time-tooltip{display:none}.video-js .vjs-progress-control:hover .vjs-progress-holder:focus .vjs-time-tooltip,.video-js .vjs-progress-control:hover .vjs-time-tooltip{display:block;font-size:.6em;visibility:visible}.video-js .vjs-progress-control.disabled:hover .vjs-time-tooltip{font-size:1em}.video-js .vjs-progress-control .vjs-mouse-display{display:none;position:absolute;width:1px;height:100%;background-color:#000;z-index:1}.video-js .vjs-progress-control:hover .vjs-mouse-display{display:block}.video-js.vjs-user-inactive .vjs-progress-control .vjs-mouse-display{visibility:hidden;opacity:0;transition:visibility 1s,opacity 1s}.vjs-mouse-display .vjs-time-tooltip{color:#fff;background-color:#000;background-color:rgba(0,0,0,.8)}.video-js .vjs-slider{position:relative;cursor:pointer;padding:0;margin:0 .45em 0 .45em;-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;user-select:none;background-color:#73859f;background-color:rgba(115,133,159,.5)}.video-js .vjs-slider.disabled{cursor:default}.video-js .vjs-slider:focus{text-shadow:0 0 1em #fff;box-shadow:0 0 1em #fff}.video-js .vjs-mute-control{cursor:pointer;flex:none}.video-js .vjs-volume-control{cursor:pointer;margin-right:1em;display:flex}.video-js .vjs-volume-control.vjs-volume-horizontal{width:5em}.video-js .vjs-volume-panel .vjs-volume-control{visibility:visible;opacity:0;width:1px;height:1px;margin-left:-1px}.video-js .vjs-volume-panel{transition:width 1s}.video-js .vjs-volume-panel .vjs-volume-control.vjs-slider-active,.video-js .vjs-volume-panel .vjs-volume-control:active,.video-js .vjs-volume-panel.vjs-hover .vjs-mute-control~.vjs-volume-control,.video-js .vjs-volume-panel.vjs-hover .vjs-volume-control,.video-js .vjs-volume-panel:active .vjs-volume-control,.video-js .vjs-volume-panel:focus .vjs-volume-control{visibility:visible;opacity:1;position:relative;transition:visibility .1s,opacity .1s,height .1s,width .1s,left 0s,top 0s}.video-js .vjs-volume-panel .vjs-volume-control.vjs-slider-active.vjs-volume-horizontal,.video-js .vjs-volume-panel .vjs-volume-control:active.vjs-volume-horizontal,.video-js .vjs-volume-panel.vjs-hover .vjs-mute-control~.vjs-volume-control.vjs-volume-horizontal,.video-js .vjs-volume-panel.vjs-hover .vjs-volume-control.vjs-volume-horizontal,.video-js .vjs-volume-panel:active .vjs-volume-control.vjs-volume-horizontal,.video-js .vjs-volume-panel:focus .vjs-volume-control.vjs-volume-horizontal{width:5em;height:3em;margin-right:0}.video-js .vjs-volume-panel .vjs-volume-control.vjs-slider-active.vjs-volume-vertical,.video-js .vjs-volume-panel .vjs-volume-control:active.vjs-volume-vertical,.video-js .vjs-volume-panel.vjs-hover .vjs-mute-control~.vjs-volume-control.vjs-volume-vertical,.video-js .vjs-volume-panel.vjs-hover .vjs-volume-control.vjs-volume-vertical,.video-js .vjs-volume-panel:active .vjs-volume-control.vjs-volume-vertical,.video-js .vjs-volume-panel:focus .vjs-volume-control.vjs-volume-vertical{left:-3.5em;transition:left 0s}.video-js .vjs-volume-panel.vjs-volume-panel-horizontal.vjs-hover,.video-js .vjs-volume-panel.vjs-volume-panel-horizontal.vjs-slider-active,.video-js .vjs-volume-panel.vjs-volume-panel-horizontal:active{width:10em;transition:width .1s}.video-js .vjs-volume-panel.vjs-volume-panel-horizontal.vjs-mute-toggle-only{width:4em}.video-js .vjs-volume-panel .vjs-volume-control.vjs-volume-vertical{height:8em;width:3em;left:-3000em;transition:visibility 1s,opacity 1s,height 1s 1s,width 1s 1s,left 1s 1s,top 1s 1s}.video-js .vjs-volume-panel .vjs-volume-control.vjs-volume-horizontal{transition:visibility 1s,opacity 1s,height 1s 1s,width 1s,left 1s 1s,top 1s 1s}.video-js .vjs-volume-panel{display:flex}.video-js .vjs-volume-bar{margin:1.35em .45em}.vjs-volume-bar.vjs-slider-horizontal{width:5em;height:.3em}.vjs-volume-bar.vjs-slider-vertical{width:.3em;height:5em;margin:1.35em auto}.video-js .vjs-volume-level{position:absolute;bottom:0;left:0;background-color:#fff}.video-js .vjs-volume-level:before{position:absolute;font-size:.9em;z-index:1}.vjs-slider-vertical .vjs-volume-level{width:.3em}.vjs-slider-vertical .vjs-volume-level:before{top:-.5em;left:-.3em;z-index:1}.vjs-slider-horizontal .vjs-volume-level{height:.3em}.vjs-slider-horizontal .vjs-volume-level:before{line-height:.35em;right:-.5em}.video-js .vjs-volume-panel.vjs-volume-panel-vertical{width:4em}.vjs-volume-bar.vjs-slider-vertical .vjs-volume-level{height:100%}.vjs-volume-bar.vjs-slider-horizontal .vjs-volume-level{width:100%}.video-js .vjs-volume-vertical{width:3em;height:8em;bottom:8em;background-color:#2b333f;background-color:rgba(43,51,63,.7)}.video-js .vjs-volume-horizontal .vjs-menu{left:-2em}.video-js .vjs-volume-tooltip{background-color:#fff;background-color:hsla(0,0%,100%,.8);border-radius:.3em;color:#000;float:right;font-family:Arial,Helvetica,sans-serif;font-size:1em;padding:6px 8px 8px 8px;pointer-events:none;position:absolute;top:-3.4em;visibility:hidden;z-index:1}.video-js .vjs-volume-control:hover .vjs-progress-holder:focus .vjs-volume-tooltip,.video-js .vjs-volume-control:hover .vjs-volume-tooltip{display:block;font-size:1em;visibility:visible}.video-js .vjs-volume-vertical:hover .vjs-progress-holder:focus .vjs-volume-tooltip,.video-js .vjs-volume-vertical:hover .vjs-volume-tooltip{left:1em;top:-12px}.video-js .vjs-volume-control.disabled:hover .vjs-volume-tooltip{font-size:1em}.video-js .vjs-volume-control .vjs-mouse-display{display:none;position:absolute;width:100%;height:1px;background-color:#000;z-index:1}.video-js .vjs-volume-horizontal .vjs-mouse-display{width:1px;height:100%}.video-js .vjs-volume-control:hover .vjs-mouse-display{display:block}.video-js.vjs-user-inactive .vjs-volume-control .vjs-mouse-display{visibility:hidden;opacity:0;transition:visibility 1s,opacity 1s}.vjs-mouse-display .vjs-volume-tooltip{color:#fff;background-color:#000;background-color:rgba(0,0,0,.8)}.vjs-poster{display:inline-block;vertical-align:middle;cursor:pointer;margin:0;padding:0;position:absolute;top:0;right:0;bottom:0;left:0;height:100%}.vjs-has-started .vjs-poster,.vjs-using-native-controls .vjs-poster{display:none}.vjs-audio.vjs-has-started .vjs-poster,.vjs-has-started.vjs-audio-poster-mode .vjs-poster,.vjs-pip-container.vjs-has-started .vjs-poster{display:block}.vjs-poster img{width:100%;height:100%;-o-object-fit:contain;object-fit:contain}.video-js .vjs-live-control{display:flex;align-items:flex-start;flex:auto;font-size:1em;line-height:3em}.video-js.vjs-liveui .vjs-live-control,.video-js:not(.vjs-live) .vjs-live-control{display:none}.video-js .vjs-seek-to-live-control{align-items:center;cursor:pointer;flex:none;display:inline-flex;height:100%;padding-left:.5em;padding-right:.5em;font-size:1em;line-height:3em;width:auto;min-width:4em}.video-js.vjs-live:not(.vjs-liveui) .vjs-seek-to-live-control,.video-js:not(.vjs-live) .vjs-seek-to-live-control{display:none}.vjs-seek-to-live-control.vjs-control.vjs-at-live-edge{cursor:auto}.vjs-seek-to-live-control .vjs-icon-placeholder{margin-right:.5em;color:#888}.vjs-seek-to-live-control.vjs-control.vjs-at-live-edge .vjs-icon-placeholder{color:red}.video-js .vjs-time-control{flex:none;font-size:1em;line-height:3em;min-width:2em;width:auto;padding-left:1em;padding-right:1em}.video-js .vjs-current-time,.video-js .vjs-duration,.vjs-live .vjs-time-control,.vjs-live .vjs-time-divider{display:none}.vjs-time-divider{display:none;line-height:3em}.video-js .vjs-play-control{cursor:pointer}.video-js .vjs-play-control .vjs-icon-placeholder{flex:none}.vjs-text-track-display{position:absolute;bottom:3em;left:0;right:0;top:0;pointer-events:none}.video-js.vjs-controls-disabled .vjs-text-track-display,.video-js.vjs-user-inactive.vjs-playing .vjs-text-track-display{bottom:1em}.video-js .vjs-text-track{font-size:1.4em;text-align:center;margin-bottom:.1em}.vjs-subtitles{color:#fff}.vjs-captions{color:#fc6}.vjs-tt-cue{display:block}uni-video::-webkit-media-text-track-display{-webkit-transform:translateY(-3em);transform:translateY(-3em)}.video-js.vjs-controls-disabled uni-video::-webkit-media-text-track-display,.video-js.vjs-user-inactive.vjs-playing uni-video::-webkit-media-text-track-display{-webkit-transform:translateY(-1.5em);transform:translateY(-1.5em)}.video-js .vjs-picture-in-picture-control{cursor:pointer;flex:none}.video-js.vjs-audio-only-mode .vjs-picture-in-picture-control,.vjs-pip-window .vjs-picture-in-picture-control{display:none}.video-js .vjs-fullscreen-control{cursor:pointer;flex:none}.video-js.vjs-audio-only-mode .vjs-fullscreen-control,.vjs-pip-window .vjs-fullscreen-control{display:none}.vjs-playback-rate .vjs-playback-rate-value,.vjs-playback-rate>.vjs-menu-button{position:absolute;top:0;left:0;width:100%;height:100%}.vjs-playback-rate .vjs-playback-rate-value{pointer-events:none;font-size:1.5em;line-height:2;text-align:center}.vjs-playback-rate .vjs-menu{width:4em;left:0}.vjs-error .vjs-error-display .vjs-modal-dialog-content{font-size:1.4em;text-align:center}.vjs-error .vjs-error-display:before{color:#fff;content:"X";font-family:Arial,Helvetica,sans-serif;font-size:4em;left:0;line-height:1;margin-top:-.5em;position:absolute;text-shadow:.05em .05em .1em #000;text-align:center;top:50%;vertical-align:middle;width:100%}.vjs-loading-spinner{display:none;position:absolute;top:50%;left:50%;margin:-25px 0 0 -25px;opacity:.85;text-align:left;border:6px solid rgba(43,51,63,.7);box-sizing:border-box;background-clip:padding-box;width:50px;height:50px;border-radius:25px;visibility:hidden}.vjs-seeking .vjs-loading-spinner,.vjs-waiting .vjs-loading-spinner{display:block;-webkit-animation:vjs-spinner-show 0s linear .3s forwards;animation:vjs-spinner-show 0s linear .3s forwards}.vjs-loading-spinner:after,.vjs-loading-spinner:before{content:"";position:absolute;margin:-6px;box-sizing:inherit;width:inherit;height:inherit;border-radius:inherit;opacity:1;border:inherit;border-color:transparent;border-top-color:#fff}.vjs-seeking .vjs-loading-spinner:after,.vjs-seeking .vjs-loading-spinner:before,.vjs-waiting .vjs-loading-spinner:after,.vjs-waiting .vjs-loading-spinner:before{-webkit-animation:vjs-spinner-spin 1.1s cubic-bezier(.6,.2,0,.8) infinite,vjs-spinner-fade 1.1s linear infinite;animation:vjs-spinner-spin 1.1s cubic-bezier(.6,.2,0,.8) infinite,vjs-spinner-fade 1.1s linear infinite}.vjs-seeking .vjs-loading-spinner:before,.vjs-waiting .vjs-loading-spinner:before{border-top-color:#fff}.vjs-seeking .vjs-loading-spinner:after,.vjs-waiting .vjs-loading-spinner:after{border-top-color:#fff;-webkit-animation-delay:.44s;animation-delay:.44s}@-webkit-keyframes vjs-spinner-show{to{visibility:visible}}@keyframes vjs-spinner-show{to{visibility:visible}}@-webkit-keyframes vjs-spinner-spin{100%{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes vjs-spinner-spin{100%{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@-webkit-keyframes vjs-spinner-fade{0%{border-top-color:#73859f}20%{border-top-color:#73859f}35%{border-top-color:#fff}60%{border-top-color:#73859f}100%{border-top-color:#73859f}}@keyframes vjs-spinner-fade{0%{border-top-color:#73859f}20%{border-top-color:#73859f}35%{border-top-color:#fff}60%{border-top-color:#73859f}100%{border-top-color:#73859f}}.video-js.vjs-audio-only-mode .vjs-captions-button{display:none}.vjs-chapters-button .vjs-menu ul{width:24em}.video-js.vjs-audio-only-mode .vjs-descriptions-button{display:none}.video-js .vjs-subs-caps-button+.vjs-menu .vjs-captions-menu-item .vjs-menu-item-text .vjs-icon-placeholder{vertical-align:middle;display:inline-block;margin-bottom:-.1em}.video-js .vjs-subs-caps-button+.vjs-menu .vjs-captions-menu-item .vjs-menu-item-text .vjs-icon-placeholder:before{font-family:VideoJS;content:"\f10c";font-size:1.5em;line-height:inherit}.video-js.vjs-audio-only-mode .vjs-subs-caps-button{display:none}.video-js .vjs-audio-button+.vjs-menu .vjs-main-desc-menu-item .vjs-menu-item-text .vjs-icon-placeholder{vertical-align:middle;display:inline-block;margin-bottom:-.1em}.video-js .vjs-audio-button+.vjs-menu .vjs-main-desc-menu-item .vjs-menu-item-text .vjs-icon-placeholder:before{font-family:VideoJS;content:" \f12e";font-size:1.5em;line-height:inherit}.video-js.vjs-layout-small .vjs-current-time,.video-js.vjs-layout-small .vjs-duration,.video-js.vjs-layout-small .vjs-playback-rate,.video-js.vjs-layout-small .vjs-remaining-time,.video-js.vjs-layout-small .vjs-time-divider,.video-js.vjs-layout-small .vjs-volume-control,.video-js.vjs-layout-tiny .vjs-current-time,.video-js.vjs-layout-tiny .vjs-duration,.video-js.vjs-layout-tiny .vjs-playback-rate,.video-js.vjs-layout-tiny .vjs-remaining-time,.video-js.vjs-layout-tiny .vjs-time-divider,.video-js.vjs-layout-tiny .vjs-volume-control,.video-js.vjs-layout-x-small .vjs-current-time,.video-js.vjs-layout-x-small .vjs-duration,.video-js.vjs-layout-x-small .vjs-playback-rate,.video-js.vjs-layout-x-small .vjs-remaining-time,.video-js.vjs-layout-x-small .vjs-time-divider,.video-js.vjs-layout-x-small .vjs-volume-control{display:none}.video-js.vjs-layout-small .vjs-volume-panel.vjs-volume-panel-horizontal.vjs-hover,.video-js.vjs-layout-small .vjs-volume-panel.vjs-volume-panel-horizontal.vjs-slider-active,.video-js.vjs-layout-small .vjs-volume-panel.vjs-volume-panel-horizontal:active,.video-js.vjs-layout-small .vjs-volume-panel.vjs-volume-panel-horizontal:hover,.video-js.vjs-layout-tiny .vjs-volume-panel.vjs-volume-panel-horizontal.vjs-hover,.video-js.vjs-layout-tiny .vjs-volume-panel.vjs-volume-panel-horizontal.vjs-slider-active,.video-js.vjs-layout-tiny .vjs-volume-panel.vjs-volume-panel-horizontal:active,.video-js.vjs-layout-tiny .vjs-volume-panel.vjs-volume-panel-horizontal:hover,.video-js.vjs-layout-x-small .vjs-volume-panel.vjs-volume-panel-horizontal.vjs-hover,.video-js.vjs-layout-x-small .vjs-volume-panel.vjs-volume-panel-horizontal.vjs-slider-active,.video-js.vjs-layout-x-small .vjs-volume-panel.vjs-volume-panel-horizontal:active,.video-js.vjs-layout-x-small .vjs-volume-panel.vjs-volume-panel-horizontal:hover{width:auto;width:auto}.video-js.vjs-layout-tiny .vjs-progress-control,.video-js.vjs-layout-x-small .vjs-progress-control{display:none}.video-js.vjs-layout-x-small .vjs-custom-control-spacer{flex:auto;display:block}.vjs-modal-dialog.vjs-text-track-settings{background-color:#2b333f;background-color:rgba(43,51,63,.75);color:#fff;height:70%}.vjs-text-track-settings .vjs-modal-dialog-content{display:table}.vjs-text-track-settings .vjs-track-settings-colors,.vjs-text-track-settings .vjs-track-settings-controls,.vjs-text-track-settings .vjs-track-settings-font{display:table-cell}.vjs-text-track-settings .vjs-track-settings-controls{text-align:right;vertical-align:bottom}@supports (display:grid){.vjs-text-track-settings .vjs-modal-dialog-content{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr;padding:20px 24px 0 24px}.vjs-track-settings-controls .vjs-default-button{margin-bottom:20px}.vjs-text-track-settings .vjs-track-settings-controls{grid-column:1/-1}.vjs-layout-small .vjs-text-track-settings .vjs-modal-dialog-content,.vjs-layout-tiny .vjs-text-track-settings .vjs-modal-dialog-content,.vjs-layout-x-small .vjs-text-track-settings .vjs-modal-dialog-content{grid-template-columns:1fr}}.vjs-track-setting>select{margin-right:1em;margin-bottom:.5em}.vjs-text-track-settings fieldset{margin:10px;border:none}.vjs-text-track-settings fieldset span{display:inline-block;padding:0 6px 8px}.vjs-text-track-settings fieldset span>select{max-width:7.3em}.vjs-text-track-settings legend{color:#fff;font-weight:700;font-size:14px}.vjs-text-track-settings .vjs-label{clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);margin:0 5px 5px 0;border:0;height:1px;width:1px;overflow:hidden}.vjs-track-settings-controls uni-button:active,.vjs-track-settings-controls uni-button:focus{outline-style:solid;outline-width:medium;background-image:linear-gradient(0deg,#fff 88%,#73859f)}.vjs-track-settings-controls uni-button:hover{color:rgba(43,51,63,.75)}.vjs-track-settings-controls uni-button{background-color:#fff;background-image:linear-gradient(-180deg,#fff 88%,#73859f);color:#2b333f;cursor:pointer;border-radius:2px}.vjs-track-settings-controls .vjs-default-button{margin-right:1em}.vjs-title-bar{background:rgba(0,0,0,.9);background:linear-gradient(180deg,rgba(0,0,0,.9),rgba(0,0,0,.7) 60%,transparent);font-size:1.2em;line-height:1.5;transition:opacity .1s;padding:.666em 1.333em 4em;pointer-events:none;position:absolute;top:0;width:100%}.vjs-title-bar-description,.vjs-title-bar-title{margin:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.vjs-title-bar-title{font-weight:700;margin-bottom:.333em}.vjs-playing.vjs-user-inactive .vjs-title-bar{opacity:0;transition:opacity 1s}.video-js .vjs-skip-forward-5{cursor:pointer}.video-js .vjs-skip-forward-10{cursor:pointer}.video-js .vjs-skip-forward-30{cursor:pointer}.video-js .vjs-skip-backward-5{cursor:pointer}.video-js .vjs-skip-backward-10{cursor:pointer}.video-js .vjs-skip-backward-30{cursor:pointer}@media print{.video-js>:not(.vjs-tech):not(.vjs-poster){visibility:hidden}}.vjs-resize-manager{position:absolute;top:0;left:0;width:100%;height:100%;border:none;z-index:-1000}.js-focus-visible .video-js :focus:not(.focus-visible){outline:0}.video-js :focus:not(:focus-visible){outline:0}</style><script charset="utf-8" src="/static/js/pages-index-index.83f3a287.js"></script><style type="text/css">.uni-app--showtabbar uni-page-wrapper {
+                    display: block;
+                    height: calc(100% - 50px);
+                    height: calc(100% - 50px - constant(safe-area-inset-bottom));
+                    height: calc(100% - 50px - env(safe-area-inset-bottom));
+                  }
+.uni-app--showtabbar uni-page-wrapper::after {
+                  content: "";
+                  display: block;
+                  width: 100%;
+                  height: 50px;
+                  height: calc(50px + constant(safe-area-inset-bottom));
+                  height: calc(50px + env(safe-area-inset-bottom));
+                }
+.uni-app--showtabbar uni-page-head[uni-page-head-type="default"] ~ uni-page-wrapper {
+                  height: calc(100% - 44px - 50px);
+                  height: calc(100% - 44px - constant(safe-area-inset-top) - 50px - constant(safe-area-inset-bottom));
+                  height: calc(100% - 44px - env(safe-area-inset-top) - 50px - env(safe-area-inset-bottom));
+                }</style><style type="text/css">@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */uni-video[data-v-5e05cba0],
+uni-image[data-v-5e05cba0]{width:100%;height:100%}uni-swiper[data-v-5e05cba0]{width:100%;height:100%}uni-swiper-item[data-v-5e05cba0]{width:100%;height:100%}.bgvh[data-v-5e05cba0]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#fafafa}.newbgvh[data-v-5e05cba0]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#f5f8fc}.flex[data-v-5e05cba0]{display:flex}.flex-between[data-v-5e05cba0]{justify-content:space-between}.flex-items-start[data-v-5e05cba0]{align-items:flex-start}.flex-items-center[data-v-5e05cba0]{align-items:center}.flex-wrap[data-v-5e05cba0]{flex-wrap:wrap}.poa[data-v-5e05cba0]{top:0;left:0;right:0;bottom:0}.popupShow[data-v-5e05cba0]{overflow:hidden;position:fixed;height:100vh;width:100%}.loading[data-v-5e05cba0]{position:fixed;top:0;left:0;right:0;bottom:0;background:hsla(0,0%,100%,0)}
+/* 浮动胶囊导航栏 */.tabbar_float[data-v-5e05cba0]{position:fixed;left:0;right:0;bottom:0;z-index:998;width:100%;height:63px;background:#fff;border-radius:14px 14px 0 0;box-shadow:0 -4px 12px rgba(60,122,211,.16);display:flex;justify-content:space-around;align-items:flex-start;padding:5px 10px calc(env(safe-area-inset-bottom) + 3px);box-sizing:border-box;border-top:1px solid rgba(117,172,247,.2)}.tabbar_item[data-v-5e05cba0]{flex:1;display:flex;justify-content:center;margin-top:4px}
+/* 普通 tab */.tabbar_normal[data-v-5e05cba0]{display:flex;flex-direction:column;align-items:center;justify-content:center;width:62px;padding:5px 0;border-radius:24px;transition:background .18s,-webkit-transform .18s;transition:background .18s,transform .18s;transition:background .18s,transform .18s,-webkit-transform .18s}.tabbar_icon_wrap[data-v-5e05cba0]{display:flex;justify-content:center;align-items:center;width:24px;height:24px;margin-bottom:2px}.tabbar_img[data-v-5e05cba0]{width:22px;height:22px;opacity:.76}.tabbar_label[data-v-5e05cba0]{font-size:10px;font-family:PingFangSC-Regular,PingFang SC;font-weight:400;color:#a8b2c5;line-height:1;white-space:nowrap}.tabbar_label.act[data-v-5e05cba0]{color:#2f74ff;font-weight:600}
+/* 选中的普通 tab：蓝色轻高亮 */.tabbar_normal_active[data-v-5e05cba0]{background:rgba(65,143,255,.1);box-shadow:0 4px 9px rgba(59,134,240,.16) inset}.tabbar_normal_active .tabbar_img[data-v-5e05cba0]{opacity:1}</style><style type="text/css">@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */uni-video[data-v-1c0a55fc],
+uni-image[data-v-1c0a55fc]{width:100%;height:100%}uni-swiper[data-v-1c0a55fc]{width:100%;height:100%}uni-swiper-item[data-v-1c0a55fc]{width:100%;height:100%}.bgvh[data-v-1c0a55fc]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#fafafa}.newbgvh[data-v-1c0a55fc]{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;background:#f5f8fc}.flex[data-v-1c0a55fc]{display:flex}.flex-between[data-v-1c0a55fc]{justify-content:space-between}.flex-items-start[data-v-1c0a55fc]{align-items:flex-start}.flex-items-center[data-v-1c0a55fc]{align-items:center}.flex-wrap[data-v-1c0a55fc]{flex-wrap:wrap}.poa[data-v-1c0a55fc]{top:0;left:0;right:0;bottom:0}.popupShow[data-v-1c0a55fc]{overflow:hidden;position:fixed;height:100vh;width:100%}.loading[data-v-1c0a55fc]{position:fixed;top:0;left:0;right:0;bottom:0;background:hsla(0,0%,100%,0)}.home-page[data-v-1c0a55fc]{width:100vw;height:100vh;background:linear-gradient(180deg,#ecf7ff,#f5fbff 42%,#f7fbff);display:flex;flex-direction:column}.header[data-v-1c0a55fc]{width:100%;height:50px;background:#f3faff;display:flex;justify-content:space-between;align-items:center;padding:0 15px;box-sizing:border-box;padding-top:0}.header .logo-box[data-v-1c0a55fc]{display:flex;align-items:center}.header .logo-box .logo-img[data-v-1c0a55fc]{width:28px;height:28px;border-radius:50%;margin-right:8px;border:1px solid rgba(43,107,214,.2)}.header .logo-box .logo-text[data-v-1c0a55fc]{font-size:18px;font-weight:700;color:#2b6bd6;font-style:italic}.header .header-right[data-v-1c0a55fc]{display:flex;align-items:center}.header .header-right .icon[data-v-1c0a55fc]{width:22px;height:22px;margin-left:15px}.main-content[data-v-1c0a55fc]{flex:1;width:100%;height:calc(100vh - 50px - 55px - 0px)}.banner-box[data-v-1c0a55fc]{width:100%;padding:10px;box-sizing:border-box}.banner-box .banner-cover[data-v-1c0a55fc]{width:100%;height:130px;border-radius:10px;overflow:hidden;-webkit-transform:translateY(0);transform:translateY(0);box-shadow:0 5px 12px rgba(58,137,255,.18)}.banner-box .banner-cover .banner-swiper[data-v-1c0a55fc]{width:100%;height:100%}.banner-box .banner-cover .banner-img[data-v-1c0a55fc]{width:100%;height:100%}.top-info-card[data-v-1c0a55fc]{margin:0 10px 10px;background:#fff;border-radius:10px;padding:12px;box-shadow:0 4px 11px rgba(45,125,235,.08);border:1px solid rgba(92,166,255,.12)}.top-info-card .notice-box[data-v-1c0a55fc]{background:#f0f7ff;border-radius:20px;height:32px;display:flex;align-items:center;padding:0 12px;margin-bottom:12px;box-sizing:border-box}.top-info-card .notice-box .notice-icon-box[data-v-1c0a55fc]{margin-right:6px;display:flex;align-items:center}.top-info-card .notice-box .notice-swiper-wrap[data-v-1c0a55fc]{flex:1;height:20px;overflow:hidden}.top-info-card .notice-box .notice-swiper[data-v-1c0a55fc]{height:20px}.top-info-card .notice-box .notice-swiper-item[data-v-1c0a55fc]{height:20px;display:flex;align-items:center}.top-info-card .notice-box .notice-title[data-v-1c0a55fc]{font-size:12px;color:#2c3e63;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.top-info-card .user-card-inner[data-v-1c0a55fc]{display:flex;justify-content:space-between;align-items:center}.top-info-card .user-card-inner .user-info[data-v-1c0a55fc]{flex:1;display:flex;flex-direction:column}.top-info-card .user-card-inner .user-info .user-name-vip[data-v-1c0a55fc]{display:flex;align-items:center;margin-bottom:6px}.top-info-card .user-card-inner .user-info .user-name-vip .name-box[data-v-1c0a55fc]{display:flex;align-items:center}.top-info-card .user-card-inner .user-info .user-name-vip .name[data-v-1c0a55fc]{font-size:14px;color:#666;margin-right:6px;max-width:70px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.top-info-card .user-card-inner .user-info .user-name-vip .vip-icon[data-v-1c0a55fc]{width:34px;height:14px;margin-right:6px;flex-shrink:0}.top-info-card .user-card-inner .user-info .balance-box[data-v-1c0a55fc]{display:flex;align-items:center}.top-info-card .user-card-inner .user-info .balance-box .balance[data-v-1c0a55fc]{font-size:16px;color:#222;font-weight:900;font-family:Arial,sans-serif;margin-right:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.top-info-card .user-card-inner .user-info .balance-box .refresh-icon[data-v-1c0a55fc]{width:15px;height:15px;flex-shrink:0}.top-info-card .user-card-inner .divider[data-v-1c0a55fc]{width:1px;height:35px;border-left:1px dashed #dcdcdc;margin:0 8px;flex-shrink:0}.top-info-card .user-card-inner .action-btns[data-v-1c0a55fc]{display:flex;align-items:center;flex:1.4;justify-content:space-around;min-width:0}.top-info-card .user-card-inner .action-btns .action-item[data-v-1c0a55fc]{display:flex;flex-direction:column;align-items:center;flex-shrink:0}.top-info-card .user-card-inner .action-btns .action-item .icon-bg[data-v-1c0a55fc]{width:36px;height:36px;background:#f0f7ff;border-radius:50%;display:flex;justify-content:center;align-items:center;margin-bottom:4px}.top-info-card .user-card-inner .action-btns .action-item .icon-bg .action-icon[data-v-1c0a55fc]{width:22px;height:22px}.top-info-card .user-card-inner .action-btns .action-item uni-text[data-v-1c0a55fc]{font-size:11px;color:#666;white-space:nowrap}.game-grid[data-v-1c0a55fc]{margin:0 10px 10px;display:flex;justify-content:space-between;height:210px}.game-grid .game-left[data-v-1c0a55fc]{width:170px;height:100%;background:linear-gradient(180deg,#e4f0ff,#f4f9ff);border-radius:10px;position:relative;overflow:hidden;box-shadow:0 4px 11px rgba(45,125,235,.08);border:1px solid hsla(0,0%,100%,.8);display:flex;flex-direction:column;align-items:center}.game-grid .game-left .game-bg-text[data-v-1c0a55fc]{position:absolute;bottom:60px;left:0;width:100%;text-align:center;font-size:40px;font-weight:900;color:rgba(43,107,214,.04);z-index:1;font-style:italic}.game-grid .game-left .game-img[data-v-1c0a55fc]{width:100%;height:140px;z-index:2;margin-top:5px}.game-grid .game-left .game-info[data-v-1c0a55fc]{position:absolute;bottom:10px;left:0;width:100%;display:flex;flex-direction:column;align-items:center;z-index:3}.game-grid .game-left .game-info .title-wrap[data-v-1c0a55fc]{display:flex;align-items:center;margin-bottom:4px}.game-grid .game-left .game-info .title-wrap .blue-bar[data-v-1c0a55fc]{width:3px;height:14px;background:#2b6bd6;border-radius:2px;margin-right:5px}.game-grid .game-left .game-info .title-wrap .title[data-v-1c0a55fc]{font-size:16px;color:#1f4f95;font-weight:700}.game-grid .game-left .game-info .desc[data-v-1c0a55fc]{font-size:10px;color:#666;text-align:center;line-height:1.4}.game-grid .game-right[data-v-1c0a55fc]{width:175px;height:100%;display:flex;flex-direction:column;justify-content:space-between}.game-grid .game-right .game-right-item[data-v-1c0a55fc]{width:100%;height:100px;background:linear-gradient(180deg,#f0f7ff,#fff);position:relative;overflow:hidden;border-radius:10px;box-shadow:0 4px 11px rgba(45,125,235,.08);border:1px solid hsla(0,0%,100%,.8);display:flex;align-items:center}.game-grid .game-right .game-right-item .game-bg-text[data-v-1c0a55fc]{position:absolute;top:5px;left:10px;font-size:30px;font-weight:900;color:rgba(43,107,214,.04);z-index:1;font-style:italic}.game-grid .game-right .game-right-item .game-info[data-v-1c0a55fc]{flex:1;padding-left:10px;z-index:3;display:flex;flex-direction:column;justify-content:center}.game-grid .game-right .game-right-item .game-info .title-wrap[data-v-1c0a55fc]{display:flex;align-items:center;margin-bottom:4px}.game-grid .game-right .game-right-item .game-info .title-wrap .blue-bar[data-v-1c0a55fc]{width:3px;height:14px;background:#2b6bd6;border-radius:2px;margin-right:5px}.game-grid .game-right .game-right-item .game-info .title-wrap .title[data-v-1c0a55fc]{font-size:16px;color:#1f4f95;font-weight:700}.game-grid .game-right .game-right-item .game-info .desc[data-v-1c0a55fc]{font-size:10px;color:#666;line-height:1.4;width:85px}.game-grid .game-right .game-right-item .game-right-img[data-v-1c0a55fc]{width:70px;height:70px;margin-right:5px;z-index:2}
+/* 直播列表区域 */.live-section[data-v-1c0a55fc]{margin:0 10px 10px}.live-section .live-title[data-v-1c0a55fc]{padding:10px 0 10px 5px;display:flex;align-items:center}.live-section .live-title .title-text[data-v-1c0a55fc]{font-size:17px;font-weight:700;color:#1f4f95;position:relative;padding-left:10px}.live-section .live-title .title-text[data-v-1c0a55fc]::before{content:"";position:absolute;left:0;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);width:4px;height:15px;background:linear-gradient(180deg,#4da6ff,#2f74ff);border-radius:2px}.live-section .live-list[data-v-1c0a55fc]{display:flex;flex-wrap:wrap;justify-content:space-between}.live-section .live-list .live-item[data-v-1c0a55fc]{width:calc(50% - 5px);margin-bottom:10px;background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 4px 11px rgba(45,125,235,.1);border:1px solid rgba(92,166,255,.12);display:flex;flex-direction:column}.live-section .live-list .live-item .live-cover[data-v-1c0a55fc]{width:100%;height:170px;position:relative}.live-section .live-list .live-item .live-cover uni-image[data-v-1c0a55fc]{width:100%;height:100%;background-color:#f0f0f0}.live-section .live-list .live-item .live-cover .live-status[data-v-1c0a55fc]{position:absolute;top:8px;left:8px;background:rgba(0,0,0,.5);border-radius:10px;padding:2px 6px;display:flex;align-items:center}.live-section .live-list .live-item .live-cover .live-status .dot[data-v-1c0a55fc]{width:5px;height:5px;background-color:#43a0ff;border-radius:50%;margin-right:4px;-webkit-animation:breathe-data-v-1c0a55fc 1.5s infinite ease-in-out;animation:breathe-data-v-1c0a55fc 1.5s infinite ease-in-out}.live-section .live-list .live-item .live-cover .live-status uni-text[data-v-1c0a55fc]{font-size:10px;color:#fff}.live-section .live-list .live-item .live-cover .live-viewers[data-v-1c0a55fc]{position:absolute;bottom:8px;left:8px;display:flex;align-items:center;background:rgba(0,0,0,.4);border-radius:10px;padding:2px 6px}.live-section .live-list .live-item .live-cover .live-viewers .eye-icon[data-v-1c0a55fc]{width:12px;height:12px;margin-right:3px}.live-section .live-list .live-item .live-cover .live-viewers uni-text[data-v-1c0a55fc]{font-size:10px;color:#fff}.live-section .live-list .live-item .live-info[data-v-1c0a55fc]{padding:8px;display:flex;flex-direction:column}.live-section .live-list .live-item .live-info .live-name[data-v-1c0a55fc]{font-size:14px;color:#214f94;font-weight:500;margin-bottom:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.live-section .live-list .live-item .live-info .live-desc[data-v-1c0a55fc]{font-size:11px;color:#6c87b3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.live-section .live-empty[data-v-1c0a55fc]{width:100%;height:210px;display:flex;flex-direction:column;align-items:center;justify-content:center}.live-section .live-empty uni-image[data-v-1c0a55fc]{width:150px;height:150px}.live-section .live-empty .empty-text[data-v-1c0a55fc]{margin-top:4px;font-size:12px;color:#999}.live-section .more-live-btn[data-v-1c0a55fc]{display:flex;justify-content:center;align-items:center;padding:10px 0;margin-top:5px}.live-section .more-live-btn uni-text[data-v-1c0a55fc]{font-size:13px;color:#5c7caf;margin-right:4px}@-webkit-keyframes breathe-data-v-1c0a55fc{0%{opacity:.3}50%{opacity:1}100%{opacity:.3}}@keyframes breathe-data-v-1c0a55fc{0%{opacity:.3}50%{opacity:1}100%{opacity:.3}}</style></head><body class="uni-body pages-index-index"><uni-app class="uni-app--maxwidth"><uni-page data-page="pages/index/index"><!----><!----><uni-page-wrapper><uni-page-body><uni-view data-v-1c0a55fc="" class="home-page"><uni-view data-v-1c0a55fc="" class="header"><uni-view data-v-1c0a55fc="" class="logo-box"><uni-image data-v-1c0a55fc="" class="logo-img"><div style="background-image: url(&quot;/static/img/user/logo.jpg&quot;); background-position: center center; background-size: cover; background-repeat: no-repeat;"></div><!----><img src="/static/img/user/logo.jpg" draggable="false"></uni-image><uni-text data-v-1c0a55fc="" class="logo-text"><span>VNC</span></uni-text></uni-view></uni-view><uni-scroll-view data-v-1c0a55fc="" class="main-content"><div class="uni-scroll-view"><div class="uni-scroll-view" style="overflow: hidden auto;"><div class="uni-scroll-view-content"><!----><uni-view data-v-1c0a55fc="" class="banner-box"><uni-view data-v-1c0a55fc="" class="banner-cover"><uni-swiper data-v-1c0a55fc="" class="banner-swiper"><div class="uni-swiper-wrapper"><div class="uni-swiper-slides"><div class="uni-swiper-slide-frame" style="width: 100%; height: 100%; transform: translate(0%, 0px) translateZ(0px);"><uni-swiper-item data-v-1c0a55fc="" style="position: absolute; width: 100%; height: 100%; transform: translate(0%, 0px) translateZ(0px);"><uni-image data-v-1c0a55fc="" class="banner-img"><div style="background-image: url(&quot;/static/images/home/image2.jpg&quot;); background-position: center center; background-size: cover; background-repeat: no-repeat;"></div><!----><img src="/static/images/home/image2.jpg" draggable="false"></uni-image></uni-swiper-item><uni-swiper-item data-v-1c0a55fc="" style="position: absolute; width: 100%; height: 100%; transform: translate(100%, 0px) translateZ(0px);"><uni-image data-v-1c0a55fc="" class="banner-img"><div style="background-image: url(&quot;/static/images/home/image3.jpg&quot;); background-position: center center; background-size: cover; background-repeat: no-repeat;"></div><!----><img src="/static/images/home/image3.jpg" draggable="false"></uni-image></uni-swiper-item></div></div></div></uni-swiper></uni-view></uni-view><uni-view data-v-1c0a55fc="" class="top-info-card"><uni-view data-v-1c0a55fc="" class="notice-box"><uni-view data-v-1c0a55fc="" class="notice-icon-box"><uni-view data-v-59765974="" data-v-1c0a55fc="" class="u-icon u-icon--right"><uni-text data-v-59765974="" hover-class="" class="u-icon__icon uicon-volume-fill" style="font-size: 18px; line-height: 18px; font-weight: normal; top: 0px; color: rgb(43, 107, 214);"><span></span></uni-text><!----></uni-view></uni-view><uni-view data-v-1c0a55fc="" class="notice-swiper-wrap"><uni-view data-v-1c0a55fc="" class="notice-swiper-item"></uni-view></uni-view></uni-view><uni-view data-v-1c0a55fc="" class="user-card-inner"><uni-view data-v-1c0a55fc="" class="user-info"><uni-view data-v-1c0a55fc="" class="user-name-vip"><uni-view data-v-1c0a55fc="" class="name-box"><uni-text data-v-1c0a55fc="" class="name"><span>Đăng nhập</span></uni-text><!----></uni-view><!----></uni-view><uni-view data-v-1c0a55fc="" class="balance-box"><uni-text data-v-1c0a55fc="" class="balance"><span>0.00</span></uni-text><uni-image data-v-1c0a55fc="" class="refresh-icon"><div style="background-image: url(&quot;/static/images/index/icon5.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/images/index/icon5.png" draggable="false"></uni-image></uni-view></uni-view><uni-view data-v-1c0a55fc="" class="divider"></uni-view><uni-view data-v-1c0a55fc="" class="action-btns"><uni-view data-v-1c0a55fc="" class="action-item"><uni-view data-v-1c0a55fc="" class="icon-bg"><uni-image data-v-1c0a55fc="" class="action-icon"><div style="background-image: url(&quot;/static/images/home/chongzhi.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/images/home/chongzhi.png" draggable="false"></uni-image></uni-view><uni-text data-v-1c0a55fc=""><span>Nạp tiền</span></uni-text></uni-view><uni-view data-v-1c0a55fc="" class="action-item"><uni-view data-v-1c0a55fc="" class="icon-bg"><uni-image data-v-1c0a55fc="" class="action-icon"><div style="background-image: url(&quot;/static/images/home/tixian.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/images/home/tixian.png" draggable="false"></uni-image></uni-view><uni-text data-v-1c0a55fc=""><span>Rút tiền</span></uni-text></uni-view><uni-view data-v-1c0a55fc="" class="action-item"><uni-view data-v-1c0a55fc="" class="icon-bg"><uni-image data-v-1c0a55fc="" class="action-icon"><div style="background-image: url(&quot;/static/images/home/tuiguang.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/images/home/tuiguang.png" draggable="false"></uni-image></uni-view><uni-text data-v-1c0a55fc=""><span>Đại lý</span></uni-text></uni-view></uni-view></uni-view></uni-view><uni-view data-v-1c0a55fc="" class="game-grid"><uni-view data-v-1c0a55fc="" class="game-left"><uni-view data-v-1c0a55fc="" class="game-bg-text">Live</uni-view><uni-image data-v-1c0a55fc="" class="game-img"><div style="background-image: url(&quot;/static/images/home/zr.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/images/home/zr.png" draggable="false"></uni-image><uni-view data-v-1c0a55fc="" class="game-info"><uni-view data-v-1c0a55fc="" class="title-wrap"><uni-view data-v-1c0a55fc="" class="blue-bar"></uni-view><uni-text data-v-1c0a55fc="" class="title"><span>Casino</span></uni-text></uni-view><uni-text data-v-1c0a55fc="" class="desc"><span>Dealer xinh đẹp trực tuyến<br>Tương tác mọi lúc</span></uni-text></uni-view></uni-view><uni-view data-v-1c0a55fc="" class="game-right"><uni-view data-v-1c0a55fc="" class="game-right-item"><uni-view data-v-1c0a55fc="" class="game-bg-text">Lottery</uni-view><uni-view data-v-1c0a55fc="" class="game-info"><uni-view data-v-1c0a55fc="" class="title-wrap"><uni-view data-v-1c0a55fc="" class="blue-bar"></uni-view><uni-text data-v-1c0a55fc="" class="title"><span>Xổ số</span></uni-text></uni-view><uni-text data-v-1c0a55fc="" class="desc"><span>Đa dạng xổ số hot,<br>Cập nhật nhanh mỗi ngày</span></uni-text></uni-view><uni-image data-v-1c0a55fc="" class="game-right-img"><div style="background-image: url(&quot;/static/images/home/cp.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/images/home/cp.png" draggable="false"></uni-image></uni-view><uni-view data-v-1c0a55fc="" class="game-right-item"><uni-view data-v-1c0a55fc="" class="game-bg-text">Slot</uni-view><uni-view data-v-1c0a55fc="" class="game-info"><uni-view data-v-1c0a55fc="" class="title-wrap"><uni-view data-v-1c0a55fc="" class="blue-bar"></uni-view><uni-text data-v-1c0a55fc="" class="title"><span>Game</span></uni-text></uni-view><uni-text data-v-1c0a55fc="" class="desc"><span>Jackpot cực lớn<br>Chạm là nổ hũ</span></uni-text></uni-view><uni-image data-v-1c0a55fc="" class="game-right-img"><div style="background-image: url(&quot;/static/images/home/dw.webp&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/images/home/dw.webp" draggable="false"></uni-image></uni-view></uni-view></uni-view><uni-view data-v-1c0a55fc="" class="live-section"><uni-view data-v-1c0a55fc="" class="live-title"><uni-text data-v-1c0a55fc="" class="title-text"><span>Live hot</span></uni-text></uni-view><uni-view data-v-1c0a55fc="" class="live-empty"><uni-image data-v-1c0a55fc=""><div style="background-image: url(&quot;/static/images/zhibo/nodata.svg&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/images/zhibo/nodata.svg" draggable="false"></uni-image><uni-text data-v-1c0a55fc="" class="empty-text"><span>Chưa có dữ liệu</span></uni-text></uni-view><!----></uni-view><uni-view data-v-1c0a55fc="" style="height: 75px;"></uni-view></div></div></div></uni-scroll-view><uni-view data-v-5e05cba0="" data-v-1c0a55fc=""><uni-view data-v-5e05cba0="" class="tabbar_float"><uni-view data-v-5e05cba0="" class="tabbar_item is-active"><uni-view data-v-5e05cba0="" class="tabbar_normal tabbar_normal_active"><uni-view data-v-5e05cba0="" class="tabbar_icon_wrap"><uni-image data-v-5e05cba0="" class="tabbar_img"><div style="background-image: url(&quot;/static/img/tabBar/icon1_1.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/img/tabBar/icon1_1.png" draggable="false"></uni-image></uni-view><uni-view data-v-5e05cba0="" class="tabbar_label act">Trang chủ</uni-view></uni-view></uni-view><uni-view data-v-5e05cba0="" class="tabbar_item"><uni-view data-v-5e05cba0="" class="tabbar_normal"><uni-view data-v-5e05cba0="" class="tabbar_icon_wrap"><uni-image data-v-5e05cba0="" class="tabbar_img"><div style="background-image: url(&quot;/static/img/tabBar/icon2.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/img/tabBar/icon2.png" draggable="false"></uni-image></uni-view><uni-view data-v-5e05cba0="" class="tabbar_label">Trò chơi</uni-view></uni-view></uni-view><uni-view data-v-5e05cba0="" class="tabbar_item"><uni-view data-v-5e05cba0="" class="tabbar_normal"><uni-view data-v-5e05cba0="" class="tabbar_icon_wrap"><uni-image data-v-5e05cba0="" class="tabbar_img"><div style="background-image: url(&quot;/static/img/tabBar/icon3.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/img/tabBar/icon3.png" draggable="false"></uni-image></uni-view><uni-view data-v-5e05cba0="" class="tabbar_label">Thông báo</uni-view></uni-view></uni-view><uni-view data-v-5e05cba0="" class="tabbar_item"><uni-view data-v-5e05cba0="" class="tabbar_normal"><uni-view data-v-5e05cba0="" class="tabbar_icon_wrap"><uni-image data-v-5e05cba0="" class="tabbar_img"><div style="background-image: url(&quot;/static/img/tabBar/icon4.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/img/tabBar/icon4.png" draggable="false"></uni-image></uni-view><uni-view data-v-5e05cba0="" class="tabbar_label">Nạp</uni-view></uni-view></uni-view><uni-view data-v-5e05cba0="" class="tabbar_item"><uni-view data-v-5e05cba0="" class="tabbar_normal"><uni-view data-v-5e05cba0="" class="tabbar_icon_wrap"><uni-image data-v-5e05cba0="" class="tabbar_img"><div style="background-image: url(&quot;/static/img/tabBar/icon5.png&quot;); background-position: center center; background-size: contain; background-repeat: no-repeat;"></div><!----><img src="/static/img/tabBar/icon5.png" draggable="false"></uni-image></uni-view><uni-view data-v-5e05cba0="" class="tabbar_label">Tôi</uni-view></uni-view></uni-view></uni-view></uni-view></uni-view></uni-page-body></uni-page-wrapper></uni-page><!----><!----><uni-actionsheet><div class="uni-mask uni-actionsheet__mask" style="display: none;"></div><div class="uni-actionsheet"><div class="uni-actionsheet__menu"><!----><!----><div style="max-height: 260px; overflow: hidden;"><div style="transform: translateY(0px) translateZ(0px);"></div></div></div><div class="uni-actionsheet__action"><div class="uni-actionsheet__cell" style="color: rgb(0, 0, 0);"> Cancel </div></div><div></div></div><!----></uni-actionsheet><uni-modal style="display: none;"><div class="uni-mask"></div><div class="uni-modal"><!----><div class="uni-modal__bd"></div><div class="uni-modal__ft"><div class="uni-modal__btn uni-modal__btn_default" style="color: rgb(0, 0, 0);"> Cancel </div><div class="uni-modal__btn uni-modal__btn_primary" style="color: rgb(0, 122, 255);"> OK </div></div></div><!----></uni-modal><!----><!----></uni-app><div id="pwa-install-banner"><div class="pwa-banner-content"><img src="/static/img/user/logo.jpg" class="pwa-icon" alt="icon"><div class="pwa-text"><p class="pwa-title">VNC</p><p class="pwa-desc" id="pwa-desc">Thêm vào màn hình chính để có trải nghiệm toàn màn hình và truy cập nhanh hơn.</p></div></div><div id="ios-install-guide"><span id="ios-guide-step1">Nhấn vào biểu tượng</span> <span class="ios-icon-share"></span> <span id="ios-guide-step1-suffix">trên thanh công cụ</span><br><span id="ios-guide-step2">Sau đó kéo xuống và chọn</span> <strong id="ios-guide-action">"Thêm vào MH chính"</strong> <span class="ios-icon-add"></span></div><div class="pwa-buttons"><button class="pwa-btn pwa-btn-cancel" id="pwa-cancel-btn" onclick="hideInstallBanner()">Để sau</button> <button class="pwa-btn pwa-btn-install" id="pwa-install-btn" onclick="handleInstallClick()">Cài đặt ngay</button></div></div><script>if ('serviceWorker' in navigator) {
+				window.addEventListener('load', function() {
+					navigator.serviceWorker.register('/sw.js').then(function(registration) {
+						console.log('ServiceWorker registration successful with scope: ', registration.scope);
+					}, function(err) {
+						console.log('ServiceWorker registration failed: ', err);
+					});
+				});
+			}
+
+			// 处理 PWA 安装提示
+			let deferredPrompt;
+			const installBanner = document.getElementById('pwa-install-banner');
+			const installBtn = document.getElementById('pwa-install-btn');
+			const cancelBtn = document.getElementById('pwa-cancel-btn');
+			const iosGuide = document.getElementById('ios-install-guide');
+			const pwaDesc = document.getElementById('pwa-desc');
+			const iosGuideStep1 = document.getElementById('ios-guide-step1');
+			const iosGuideStep1Suffix = document.getElementById('ios-guide-step1-suffix');
+			const iosGuideStep2 = document.getElementById('ios-guide-step2');
+			const iosGuideAction = document.getElementById('ios-guide-action');
+
+			const pwaI18nMap = {
+				zh: {
+					htmlLang: 'zh-CN',
+					desc: '添加到主屏幕，享受全屏无沉浸式体验，访问更快捷。',
+					iosGuideStep1: '点击工具栏的',
+					iosGuideStep1Suffix: '图标',
+					iosGuideStep2: '然后向下滑动，选择',
+					iosGuideAction: '"添加到主屏幕"',
+					cancel: '稍后再说',
+					install: '立即安装',
+					manualInstallAlert: '请点击浏览器底部的菜单按钮，选择"添加到主屏幕"或"添加书签"以安装到桌面。'
+				},
+				en: {
+					htmlLang: 'en-US',
+					desc: 'Add to your home screen for a faster full-screen experience.',
+					iosGuideStep1: 'Tap the toolbar',
+					iosGuideStep1Suffix: 'icon',
+					iosGuideStep2: 'Then scroll down and choose',
+					iosGuideAction: '"Add to Home Screen"',
+					cancel: 'Later',
+					install: 'Install now',
+					manualInstallAlert: 'Please tap the browser menu and choose "Add to Home Screen" or "Bookmark" to install it.'
+				},
+				'vi-VN': {
+					htmlLang: 'vi-VN',
+					desc: 'Thêm vào màn hình chính để có trải nghiệm toàn màn hình và truy cập nhanh hơn.',
+					iosGuideStep1: 'Nhấn vào biểu tượng',
+					iosGuideStep1Suffix: 'trên thanh công cụ',
+					iosGuideStep2: 'Sau đó kéo xuống và chọn',
+					iosGuideAction: '"Thêm vào MH chính"',
+					cancel: 'Để sau',
+					install: 'Cài đặt ngay',
+					manualInstallAlert: 'Vui lòng nhấn nút menu của trình duyệt và chọn "Thêm vào màn hình chính" hoặc "Đánh dấu trang" để cài đặt.'
+				}
+			};
+
+			function getPwaLang() {
+				const userLang = localStorage.getItem('user_lang');
+				const currentLang = localStorage.getItem('lang');
+				return pwaI18nMap[userLang] ? userLang : (pwaI18nMap[currentLang] ? currentLang : 'zh');
+			}
+
+			function applyPwaI18n() {
+				const lang = getPwaLang();
+				const text = pwaI18nMap[lang] || pwaI18nMap.zh;
+				document.documentElement.setAttribute('lang', text.htmlLang);
+				if (pwaDesc) pwaDesc.textContent = text.desc;
+				if (iosGuideStep1) iosGuideStep1.textContent = text.iosGuideStep1;
+				if (iosGuideStep1Suffix) iosGuideStep1Suffix.textContent = text.iosGuideStep1Suffix;
+				if (iosGuideStep2) iosGuideStep2.textContent = text.iosGuideStep2;
+				if (iosGuideAction) iosGuideAction.textContent = text.iosGuideAction;
+				if (cancelBtn) cancelBtn.textContent = text.cancel;
+				if (installBtn) installBtn.textContent = text.install;
+			}
+
+			function getManualInstallAlertText() {
+				const lang = getPwaLang();
+				const text = pwaI18nMap[lang] || pwaI18nMap.zh;
+				return text.manualInstallAlert;
+			}
+
+			applyPwaI18n();
+			window.addEventListener('app-language-changed', function() {
+				applyPwaI18n();
+			});
+
+			// 判断是否是 iOS
+			const isIos = () => {
+				const userAgent = window.navigator.userAgent.toLowerCase();
+				return /iphone|ipad|ipod/.test(userAgent);
+			}
+
+			// 判断是否在 standalone 模式下运行（即已经安装到桌面）
+			const isStandalone = () => {
+				return ('standalone' in window.navigator) && (window.navigator.standalone) || 
+					window.matchMedia('(display-mode: standalone)').matches;
+			}
+
+			function showInstallBanner() {
+				if (isStandalone()) return; // 已经安装了就不显示
+				
+				// 检查是否在几天内点击过"稍后再说"
+				const lastPromptTime = localStorage.getItem('pwaPromptTime');
+				// 测试阶段可以先把 7 天限制注释掉，或者改成更短的时间，例如 1 小时： 1 * 60 * 60 * 1000
+				// 如果需要发布，建议恢复为 7 天
+				if (lastPromptTime && (Date.now() - lastPromptTime < 1 * 12 * 60 * 60 * 1000)) {
+					return; // 1小时内不再打扰
+				}
+
+				installBanner.style.display = 'block';
+
+				if (isIos()) {
+					// iOS 不支持 beforeinstallprompt，直接显示引导文案
+					iosGuide.style.display = 'block';
+					installBtn.style.display = 'none'; // 隐藏安装按钮，因为iOS只能手动操作
+				}
+			}
+
+			function hideInstallBanner() {
+				installBanner.style.display = 'none';
+				localStorage.setItem('pwaPromptTime', Date.now()); // 记录关闭时间
+			}
+
+			// 暴露给 Vue 调用的手动触发方法
+			window.manualTriggerPwaInstall = function() {
+				localStorage.removeItem('pwaPromptTime'); // 清除缓存
+				showInstallBanner();
+				if (deferredPrompt) {
+					handleInstallClick();
+				} else if (!isIos()) {
+					alert(getManualInstallAlertText());
+				}
+			};
+
+			function handleInstallClick() {
+				if (deferredPrompt) {
+					// 触发原生安装弹窗
+					deferredPrompt.prompt();
+					deferredPrompt.userChoice.then((choiceResult) => {
+						if (choiceResult.outcome === 'accepted') {
+							console.log('用户接受了 A2HS 提示');
+							installBanner.style.display = 'none'; // 接受后隐藏
+						} else {
+							console.log('用户拒绝了 A2HS 提示');
+						}
+						deferredPrompt = null;
+					});
+				} else {
+					// 如果不支持原生弹窗（比如一些安卓国产浏览器），可以在这里写个备用提示
+					alert(getManualInstallAlertText());
+				}
+			}
+
+			// 监听 Chrome 等支持原生安装弹窗的浏览器
+			window.addEventListener('beforeinstallprompt', (e) => {
+				// 阻止 Chrome 自动显示提示
+				e.preventDefault();
+				// 暂存事件以便稍后触发
+				deferredPrompt = e;
+				console.log('PWA 准备好安装了');
+			});
+
+			// 页面加载完成后延迟几秒检查并显示自定义弹窗
+			window.addEventListener('load', () => {
+				setTimeout(() => {
+					showInstallBanner();
+				}, 3000);
+			});
+
+			// 监听应用是否已经成功安装
+			window.addEventListener('appinstalled', (evt) => {
+				console.log('a2hs installed');
+				installBanner.style.display = 'none';
+			});</script><script src="/static/js/chunk-vendors.eabba5fa.js"></script><script src="/static/js/index.e1764f7e.js"></script><div style="position: absolute; left: 0px; top: 0px; width: 0px; height: 0px; z-index: -1; overflow: hidden; visibility: hidden;"><div style="position: absolute; width: 100px; height: 200px; box-sizing: border-box; overflow: hidden; padding-bottom: env(safe-area-inset-top);"><div style="transition: all; animation: auto ease 0s 1 normal none running none; width: 400px; height: 400px;"></div></div><div style="position: absolute; width: 100px; height: 200px; box-sizing: border-box; overflow: hidden; padding-bottom: env(safe-area-inset-top);"><div style="transition: all; animation: auto ease 0s 1 normal none running none; width: 250%; height: 250%;"></div></div><div style="position: absolute; width: 100px; height: 200px; box-sizing: border-box; overflow: hidden; padding-bottom: env(safe-area-inset-left);"><div style="transition: all; animation: auto ease 0s 1 normal none running none; width: 400px; height: 400px;"></div></div><div style="position: absolute; width: 100px; height: 200px; box-sizing: border-box; overflow: hidden; padding-bottom: env(safe-area-inset-left);"><div style="transition: all; animation: auto ease 0s 1 normal none running none; width: 250%; height: 250%;"></div></div><div style="position: absolute; width: 100px; height: 200px; box-sizing: border-box; overflow: hidden; padding-bottom: env(safe-area-inset-right);"><div style="transition: all; animation: auto ease 0s 1 normal none running none; width: 400px; height: 400px;"></div></div><div style="position: absolute; width: 100px; height: 200px; box-sizing: border-box; overflow: hidden; padding-bottom: env(safe-area-inset-right);"><div style="transition: all; animation: auto ease 0s 1 normal none running none; width: 250%; height: 250%;"></div></div><div style="position: absolute; width: 100px; height: 200px; box-sizing: border-box; overflow: hidden; padding-bottom: env(safe-area-inset-bottom);"><div style="transition: all; animation: auto ease 0s 1 normal none running none; width: 400px; height: 400px;"></div></div><div style="position: absolute; width: 100px; height: 200px; box-sizing: border-box; overflow: hidden; padding-bottom: env(safe-area-inset-bottom);"><div style="transition: all; animation: auto ease 0s 1 normal none running none; width: 250%; height: 250%;"></div></div></div><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;89c721454d4a4532b92c931aa6f50de1&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+</body></html>

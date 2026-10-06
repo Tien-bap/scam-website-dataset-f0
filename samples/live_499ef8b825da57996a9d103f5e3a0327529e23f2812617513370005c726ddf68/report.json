@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_499ef8b825da57996a9d103f5e3a0327529e23f2812617513370005c726ddf68",
+  "candidate_sha256": "cd767353762788058935525befbffc096c58a4a4c317c79fa7f5ad72745f2430",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://00x.live",
+  "requested_url": "https://00x.live",
+  "browser_final_url": "https://00x.live/",
+  "source_urls": [
+    "https://00x.live"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 16130,
+      "source_url": "https://00x.live",
+      "source_hostname": "00x.live",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://00x.live",
+      "final_hostname": "00x.live",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 6990,
+      "elapsed_ms": 1221,
+      "checked_at": "2026-10-05T12:42:09.133670+00:00",
+      "error": null,
+      "normalized_source_url": "https://00x.live/",
+      "normalized_final_url": "https://00x.live/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_499ef8b825da57996a9d103f5e3a0327529e23f2812617513370005c726ddf68",
+    "representative_source_index": 16130,
+    "representative_source_url": "https://00x.live",
+    "representative_final_url": "https://00x.live",
+    "normalized_final_url": "https://00x.live/",
+    "source_hostname": "00x.live",
+    "final_hostname": "00x.live",
+    "source_urls": [
+      "https://00x.live"
+    ],
+    "provenance": [
+      {
+        "source_index": 16130,
+        "source_url": "https://00x.live",
+        "source_hostname": "00x.live",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://00x.live",
+        "final_hostname": "00x.live",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 6990,
+        "elapsed_ms": 1221,
+        "checked_at": "2026-10-05T12:42:09.133670+00:00",
+        "error": null,
+        "normalized_source_url": "https://00x.live/",
+        "normalized_final_url": "https://00x.live/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "",
+  "capture_timestamp": "2026-10-05T14:42:03.422707+00:00",
+  "dom_chars": 6884,
+  "screenshot_bytes": 18191,
+  "dom_sha256": "9f4d6169c4d7cbdfa43c8f3fab6a5ce464d4863e99cee37e8a0daab2801c242c",
+  "screenshot_sha256": "40951a2c00167d974d84ba71f0ae7be528695b7fa0e1419945302ac44f30a676",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_parking_page"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://00x.live/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://00x.live",
+    "browser_final_url": "https://00x.live/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3109
+}

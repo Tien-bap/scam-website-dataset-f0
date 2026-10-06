@@ -1,0 +1,1047 @@
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Base de Conhecimento – Tudo sobre a plataforma de consultas</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="alternate" type="application/rss+xml" title="Feed para Base de Conhecimento »" href="https://ajudaconsultar.com.br/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Base de Conhecimento »" href="https://ajudaconsultar.com.br/comments/feed/">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://ajudaconsultar.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fajudaconsultar.com.br%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://ajudaconsultar.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fajudaconsultar.com.br%2F&amp;format=xml">
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel="stylesheet" id="wpas-magnific-css" href="https://ajudaconsultar.com.br/wp-content/plugins/awesome-support/assets/admin/css/vendor/magnific-popup.css?ver=6.1.2" media="all">
+<link rel="stylesheet" id="wpas-admin-popup-css" href="https://ajudaconsultar.com.br/wp-content/plugins/awesome-support/assets/admin/css/admin-popup.css?ver=6.1.2" media="all">
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel="stylesheet" id="betterdocs-el-edit-css" href="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/admin/assets/css/betterdocs-el-edit.css?ver=2.3.6" media="all">
+<link rel="stylesheet" id="betterdocs-css" href="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/public/css/betterdocs-public.css?ver=2.3.6" media="all">
+<link rel="stylesheet" id="simplebar-css" href="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/public/css/simplebar.css?ver=2.3.6" media="all">
+<link rel="stylesheet" id="hello-elementor-css" href="https://ajudaconsultar.com.br/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1" media="all">
+<link rel="stylesheet" id="hello-elementor-theme-style-css" href="https://ajudaconsultar.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://ajudaconsultar.com.br/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.3" media="all">
+<link rel="stylesheet" id="elementor-post-22-css" href="https://ajudaconsultar.com.br/wp-content/uploads/elementor/css/post-22.css?ver=1679405251" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="https://ajudaconsultar.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="https://ajudaconsultar.com.br/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.5.2" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="https://ajudaconsultar.com.br/wp-content/uploads/elementor/css/global.css?ver=1679405802" media="all">
+<link rel="stylesheet" id="elementor-post-38-css" href="https://ajudaconsultar.com.br/wp-content/uploads/elementor/css/post-38.css?ver=1680005123" media="all">
+<link rel="stylesheet" id="elementor-post-24-css" href="https://ajudaconsultar.com.br/wp-content/uploads/elementor/css/post-24.css?ver=1680004862" media="all">
+<link rel="stylesheet" id="elementor-post-29-css" href="https://ajudaconsultar.com.br/wp-content/uploads/elementor/css/post-29.css?ver=1679407736" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7CRoboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=auto&amp;ver=7.0.2" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://ajudaconsultar.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-regular-css" href="https://ajudaconsultar.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="https://ajudaconsultar.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" media="all">
+<script id="jquery-core-js" src="https://ajudaconsultar.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://ajudaconsultar.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="wpas-magnific-js" src="https://ajudaconsultar.com.br/wp-content/plugins/awesome-support/assets/admin/js/vendor/jquery.magnific-popup.min.js?ver=6.1.2"></script>
+<script id="wpas-admin-popup-js" src="https://ajudaconsultar.com.br/wp-content/plugins/awesome-support/assets/admin/js/admin-popup.js?ver=6.1.2"></script>
+<link rel="https://api.w.org/" href="https://ajudaconsultar.com.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://ajudaconsultar.com.br/wp-json/wp/v2/pages/38"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ajudaconsultar.com.br/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 7.0.2">
+<link rel="canonical" href="https://ajudaconsultar.com.br/">
+<link rel="shortlink" href="https://ajudaconsultar.com.br/">
+	<style>
+		.betterdocs-wraper.betterdocs-main-wraper {
+						background-color: #ffffff;		
+																				}
+		.betterdocs-archive-wrap.betterdocs-archive-main {
+			padding-top: 50px;
+			padding-bottom: 50px;
+			padding-left: 0px;
+			padding-right: 0px;
+		}
+		.betterdocs-archive-wrap.betterdocs-archive-main {
+			width: 100%;
+			max-width: 1600px;
+		}
+		.betterdocs-categories-wrap.single-kb.layout-masonry .docs-single-cat-wrap {
+			margin-bottom: 15px;
+		}
+		.betterdocs-categories-wrap.single-kb.layout-flex .docs-single-cat-wrap {
+			margin: 15px; 
+		}
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap .docs-cat-title-wrap { 
+			padding-top: 20px; 
+		}
+
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap .docs-cat-title-wrap, 
+		.betterdocs-archive-main .docs-item-container { 
+			padding-right: 20px;
+			padding-left: 20px;  
+		}
+		.betterdocs-archive-main .docs-item-container { 
+			padding-bottom: 20px; 
+		}
+		.betterdocs-categories-wrap.betterdocs-category-box.layout-2.single-kb .docs-single-cat-wrap,
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap.docs-cat-list-2-box {
+			padding-top: 20px; 
+			padding-right: 20px;
+			padding-left: 20px; 
+			padding-bottom: 20px; 
+		}
+        		.betterdocs-categories-wrap.betterdocs-category-box .docs-single-cat-wrap p{
+						color: #566e8b;
+					}
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap,
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap .docs-cat-title-wrap {
+						border-top-left-radius: 5px;
+									border-top-right-radius: 5px;
+					}
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap,
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap .docs-item-container {
+						border-bottom-right-radius: 5px;
+									border-bottom-left-radius: 5px;
+					}
+		.betterdocs-category-list .betterdocs-categories-wrap .docs-single-cat-wrap,
+		.betterdocs-category-box.white-bg .docs-single-cat-wrap,
+		.betterdocs-categories-wrap.white-bg .docs-single-cat-wrap {
+						background-color: #ffffff;
+					}
+		.betterdocs-category-box.single-kb.ash-bg .docs-single-cat-wrap {
+						background-color: #f8f8fc;
+					}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap:hover,
+		.betterdocs-categories-wrap.single-kb.white-bg .docs-single-cat-wrap.docs-cat-list-2-box:hover {
+						background-color: #ffffff;
+					}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap img {
+						margin-bottom: 20px;
+					}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap .docs-cat-title,
+		.pro-layout-4.single-kb .docs-cat-list-2-box-content .docs-cat-title {
+						margin-bottom: 15px;
+					}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap p {
+						margin-bottom: 15px;
+					}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap span {
+					}
+		.docs-cat-title img {
+			height: 32px; 
+		}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap img { 
+			height: 80px; 
+		}
+		.single-kb .docs-cat-title-inner .docs-cat-heading,
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap .docs-cat-title,
+		.single-kb .docs-cat-list-2-box .docs-cat-title,
+		.single-kb .docs-cat-list-2-items .docs-cat-title{
+			font-size: 20px;
+		}
+        .single-kb .docs-cat-title-inner .docs-cat-heading {
+			color: #528ffe; 
+		}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap .docs-cat-title,
+		.single-kb .docs-cat-list-2 .docs-cat-title, 
+		.betterdocs-category-grid-layout-6 .betterdocs-term-info .betterdocs-term-title {
+			color: #333333;
+		}
+				.docs-cat-title-wrap .docs-cat-title-inner {
+			border-color: #528ffe; 
+			padding-bottom: 20px;
+		}
+		.docs-cat-title-inner .docs-item-count span {
+			color: #ffffff; 
+			font-size: 15px;
+		}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap span,
+		.single-kb .docs-cat-list-2-box .title-count span {
+			color: #707070; 
+			font-size: 15px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-cat-title-wrap .docs-item-count span {
+			font-size: 15px;
+			color: #ffffff; 
+		}
+
+		.betterdocs-categories-wrap .docs-item-count {
+			background-color: rgba(66,83,209,0.91); 
+		}
+
+		.betterdocs-categories-wrap.single-kb .docs-cat-title-inner span {
+			background-color: rgba(46,46,145,0.84);
+			border-color: #ffffff;
+			border-style: none;
+			width: 30px; 
+			height: 30px;
+			border-top-width: 0px;
+			border-right-width: 0px;
+			border-bottom-width: 0px;
+			border-left-width: 0px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-item-container ul {
+			background-color: rgba(255,255,255,0);
+			padding-top: 0px;
+			padding-bottom: 0px;
+			padding-right: 0px;
+			padding-left: 0px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-item-container {
+			background-color: #ffffff;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-item-container li,
+		.betterdocs-categories-wrap.single-kb .docs-item-container .docs-sub-cat-title,
+        .betterdocs-popular-list.single-kb ul li {
+			margin-top: 10px;
+			margin-right: 10px;
+			margin-left: 10px;
+		}
+        .betterdocs-categories-wrap.single-kb .docs-item-container li,
+        .betterdocs-popular-list.single-kb ul li {
+            margin-bottom: 10px;
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+        }
+		.betterdocs-categories-wrap.single-kb .docs-item-container li svg {
+			fill: #566e8b;
+			font-size: 15px;
+            min-width: 15px;
+		}
+        .betterdocs-popular-list.single-kb ul li svg {
+			font-size: 15px;
+            min-width: 15px;
+		}
+        .betterdocs-popular-list.single-kb ul li svg path {
+			fill: #566e8b;
+		}
+		.betterdocs-categories-wrap.single-kb li a,
+        .betterdocs-popular-list.single-kb ul li a {
+			color: #566e8b;
+			font-size: 15px;
+		}
+				.betterdocs-categories-wrap.single-kb .docs-item-container .docs-sub-cat li a {
+			color: #566e8b;
+		}
+						.betterdocs-categories-wrap.single-kb .docs-item-container .docs-sub-cat li a:hover {
+			color: #566e8b;
+		}
+						.betterdocs-categories-wrap.single-kb .docs-item-container .docs-sub-cat li svg {
+			fill: #566e8b;
+		}
+				.betterdocs-categories-wrap.single-kb li a:hover,
+        .betterdocs-popular-list.single-kb ul li a:hover {
+			color: #566e8b;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-item-container .docs-sub-cat-title svg {
+			fill: #566e8b;
+			font-size: 15px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-sub-cat-title a {
+			color: #566e8b;
+			font-size: 17px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-sub-cat-title a:hover {
+			color: #566e8b;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-item-container .docs-cat-link-btn, .betterdocs-categories-wrap.single-kb .docs-item-container .docs-cat-link-btn:visited {
+			background-color: #ffffff;
+			font-size: 16px;
+			color: #528ffe;
+			border-color: #528ffe;
+			border-top-left-radius: 50px;
+			border-top-right-radius: 50px;
+			border-bottom-right-radius: 50px;
+			border-bottom-left-radius: 50px;
+			padding-top: 10px;
+			padding-right: 20px;
+			padding-bottom: 10px;
+			padding-left: 20px;
+			border-width: 1px;
+		}
+
+		.betterdocs-categories-wrap.single-kb .docs-item-container .docs-cat-link-btn, .betterdocs-categories-wrap.multiple-kb .tabs-content .betterdocs-tab-content .betterdocs-tab-categories .docs-single-cat-wrap .docs-item-container .docs-cat-link-btn{
+			border-width: 1px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-item-container .docs-cat-link-btn:hover {
+			background-color: #528ffe;
+			color: #ffffff;
+			border-color: #528ffe;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap .docs-item-container .docs-cat-link-btn {
+			margin-top: 10px;
+			margin-bottom: 10px;
+			margin-left: 20px;
+			margin-right: 20px;
+		}
+		.betterdocs-single-bg .betterdocs-content-area, .betterdocs-single-bg .betterdocs-content-full {
+			background-color: rgba(255,255,255,0);	
+				
+														}
+		.betterdocs-single-wraper .betterdocs-content-area {
+			padding-top: 30px;
+			padding-right: 25px;
+			padding-bottom: 30px;
+			padding-left: 25px;
+			max-width: 1400px;
+			width:100%;
+		}
+		.betterdocs-single-wraper .betterdocs-content-area .docs-single-main {
+			padding-top: 20px;
+			padding-right: 20px;
+			padding-bottom: 20px;
+			padding-left: 20px;
+		}
+		.betterdocs-single-layout4 .betterdocs-content-full {
+			padding-top: 30px;
+			padding-right: 25px;
+			padding-bottom: 30px;
+			padding-left: 25px;
+		}
+		.betterdocs-single-layout4 .betterdocs-content-full{
+			background-color: rgba(255,255,255,0);	
+				
+														}
+		.betterdocs-single-layout5 .betterdocs-content-full {
+			padding-top: 30px;
+			padding-right: 25px;
+			padding-bottom: 30px;
+			padding-left: 25px;
+		}
+		.betterdocs-single-layout5 .betterdocs-content-full {
+			background-color: rgba(255,255,255,0);	
+				
+														}
+		.betterdocs-single-layout2 .docs-content-full-main .doc-single-content-wrapper {
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+		}
+		.betterdocs-single-layout3 .docs-content-full-main .doc-single-content-wrapper {
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+		}
+		.docs-single-title .betterdocs-entry-title {
+			font-size: 36px;
+			color: #3f5876;
+		}
+		.betterdocs-breadcrumb .betterdocs-breadcrumb-item a {
+			font-size: 16px;
+			color: #566e8b;
+		}
+		.betterdocs-breadcrumb .betterdocs-breadcrumb-list .betterdocs-breadcrumb-item a:hover {
+			color: #566e8b;
+		}
+		.betterdocs-breadcrumb .breadcrumb-delimiter {
+			color: #566e8b;
+		}
+		.betterdocs-breadcrumb-item.current span {
+			font-size: 16px;
+			color: #528fff;
+		}
+		.betterdocs-toc {
+			background-color: #ffffff;
+			padding-top: 20px;
+			padding-right: 25px;
+			padding-bottom: 20px;
+			padding-left: 20px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			margin-left: 0px;
+		}
+		.betterdocs-entry-content .betterdocs-toc {
+			margin-bottom: 20px;
+		}
+		.sticky-toc-container {
+			width: 320px;
+		}
+		.sticky-toc-container.toc-sticky {
+			z-index: 2;
+			margin-top: 0px;
+		}
+		.betterdocs-toc > .toc-title {
+			color: #3f5876;
+			font-size: 18px;
+		}
+		.betterdocs-entry-content .betterdocs-toc.collapsible-sm .angle-icon {
+			color: #3f5876;
+		}
+		.betterdocs-toc > .toc-list a {
+			color: #566e8b;
+			font-size: 14px;
+			margin-top: 5px;
+			margin-right: 0px;
+			margin-bottom: 5px;
+			margin-left: 0px;
+		}
+		.betterdocs-toc > .toc-list li a:before {
+			font-size: 12px;
+			color: #566e8b;
+		}
+		.betterdocs-toc > .toc-list li:before {
+			padding-top: 5px;
+		}
+		.betterdocs-toc > .toc-list a:hover {
+			color: #528fff;
+		}
+		.feedback-form-link .feedback-form-icon svg, .feedback-form-link .feedback-form-icon img {
+			width: 26px;
+		}
+		.betterdocs-toc > .toc-list a.active,
+        .betterdocs-toc > .toc-list a.active:before {
+			color: #528fff;
+		}
+        .betterdocs-toc > .toc-list a.active:after {
+            background-color: #528fff;
+        }
+		.betterdocs-content {
+			color: #4d4d4d;
+			font-size: 16px;
+		}
+		.betterdocs-social-share .betterdocs-social-share-heading h5 {
+			color: #566e8b;
+		}
+		.betterdocs-entry-footer .feedback-form-link {
+			color: #566e8b;
+			font-size: 15px;
+		}
+		.betterdocs-entry-footer .feedback-update-form .feedback-form-link:hover {
+			color: #566e8b;
+		}
+        .betterdocs-entry-footer .feedback-form .modal-content .feedback-form-title {
+            color: #3f5876;
+            font-size: 21px;
+        }
+		.docs-navigation a {
+			color: #3f5876;
+			font-size: 16px;
+		}
+		.docs-navigation a:hover {
+			color: #3f5876;
+		}
+		.docs-navigation a svg{
+			fill: #5edf8e;
+			min-width: 16px;
+			width: 16px;
+		}
+		.betterdocs-entry-footer .update-date{
+			color: #566e8b;
+			font-size: 14px;
+		}
+		.betterdocs-credit p{
+			color: #201d3a;
+			font-size: 14px;
+		}
+		.betterdocs-credit p a{
+			color: #528fff;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap,
+		.betterdocs-category-wraper .betterdocs-full-sidebar-left {
+			background-color: #ffffff;
+		}
+		.betterdocs-single-layout1 .betterdocs-sidebar-content .betterdocs-categories-wrap {
+						border-top-left-radius: 5px;
+									border-top-right-radius: 5px;
+									border-bottom-right-radius: 5px;
+									border-bottom-left-radius: 5px;
+					}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-single-cat-wrap .docs-cat-title-wrap{
+			background-color: #ffffff;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-cat-title img {
+			height: 24px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-cat-title-inner .docs-cat-heading{
+			color: #3f5876;
+			font-size: 16px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-cat-title-inner .docs-cat-heading:hover {
+			color: #3f5876 !important;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-cat-title-inner .cat-list-arrow-down {
+			color: #3f5876;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-single-cat-wrap .active-title .docs-cat-title-inner .docs-cat-heading,
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .active-title .docs-cat-title-inner .docs-cat-heading,
+		.betterdocs-category-wraper .betterdocs-full-sidebar-left .docs-cat-title-wrap::after {
+			color: #3f5876;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-item-count {
+			background-color: #528ffe;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-item-count span {
+			background-color: rgba(82,143,255,0.2);
+			color: #ffffff;
+			font-size: 12px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap .docs-single-cat-wrap {
+			margin-top: 5px;
+			margin-right: 0px;
+			margin-bottom: 5px;
+			margin-left: 0px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap, .betterdocs-full-sidebar-left .betterdocs-categories-wrap {
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap .docs-single-cat-wrap .docs-cat-title-wrap {
+			padding-top: 10px;
+			padding-right: 15px;
+			padding-bottom: 10px;
+			padding-left: 15px;
+		}
+		.betterdocs-single-layout2 .betterdocs-full-sidebar-left .betterdocs-sidebar-content .betterdocs-categories-wrap .docs-cat-title-inner {
+						background-color: #ffffff;		
+						padding-top: 10px;
+			padding-right: 15px;
+			padding-bottom: 10px;
+			padding-left: 15px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-item-container{
+			background-color: #ffffff;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-single-cat-wrap .docs-cat-title-wrap.active-title{
+			background-color: rgba(90,148,255,0.1);
+			border-color: #528fff;
+		}
+
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap .docs-item-container li {
+			padding-left: 0;
+			margin-top: 10px;
+			margin-right: 10px;
+			margin-bottom: 10px;
+			margin-left: 10px;
+		}
+		.betterdocs-single-layout2 .betterdocs-sidebar-content .betterdocs-categories-wrap .docs-item-container li {
+			margin-right: 0 !important;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap li a {
+			color: #566e8b;
+			font-size: 14px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap li a:hover {
+			color: #528fff;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap li svg {
+			fill: #566e8b;
+			font-size: 14px;
+		}
+        .betterdocs-sidebar-content .betterdocs-categories-wrap li a.active,
+        .betterdocs-sidebar-content .betterdocs-categories-wrap li.sub-list a.active {
+            color: #528fff;
+        }
+		.betterdocs-category-wraper.betterdocs-single-wraper{
+																				}	
+		.betterdocs-category-wraper.betterdocs-single-wraper .docs-listing-main .docs-category-listing{
+						background-color: #ffffff;
+						margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			margin-left: 0px;
+			padding-top: 30px;
+			padding-right: 30px;
+			padding-bottom: 30px;
+			padding-left: 30px;
+			border-radius: 5px;
+		}
+		.betterdocs-category-wraper .docs-category-listing .docs-cat-title .docs-cat-heading {
+			color: #566e8b;
+			font-size: 20px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 20px;
+			margin-left: 0px;
+		}
+		.betterdocs-category-wraper .docs-category-listing .docs-cat-title p {
+			color: #566e8b;
+			font-size: 14px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 20px;
+			margin-left: 0px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list ul li, 
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat-title {
+			margin-top: 10px;
+			margin-right: 0px;
+			margin-bottom: 10px;
+			margin-left: 0px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list ul li svg {
+			fill: #566e8b;
+			font-size: 16px;
+            min-width: 16px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list ul li a {
+			color: #566e8b;
+			font-size: 14px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list ul li a:hover {
+			color: #528ffe;
+		}
+				.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat li a {
+			color: #566e8b;
+		}
+						.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat li a:hover {
+			color: #566e8b;
+		}
+						.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat li svg {
+			fill: #566e8b;
+		}
+				.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat-title svg {
+			fill: #566e8b;
+			font-size: 15px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat-title a {
+			color: #566e8b;
+			font-size: 17px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat-title a:hover {
+			color: #566e8b;
+		}
+
+		.betterdocs-search-form-wrap{
+						background-color: #f7f7f7;
+																		padding-top: 50px;
+			padding-right: 20px;
+			padding-bottom: 50px;
+			padding-left: 20px;
+			margin-top:0px;
+			margin-right:0px;
+			margin-bottom:0px;
+			margin-left:0px;
+					}
+		.betterdocs-search-heading h2.heading, .betterdocs-search-heading h1.heading, .betterdocs-search-heading h3.heading, .betterdocs-search-heading h4.heading, .betterdocs-search-heading h5.heading, .betterdocs-search-heading h6.heading {
+			line-height: 1.2;
+			font-size: 40px;
+			color: #566e8b;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 20px;
+			margin-left: 0px;
+		}
+		.betterdocs-search-heading h3.subheading, .betterdocs-search-heading h2.subheading, .betterdocs-search-heading h1.subheading, .betterdocs-search-heading h4.subheading, .betterdocs-search-heading h5.subheading, .betterdocs-search-heading h6.subheading {
+			line-height: 1.2;
+			font-size: 16px;
+			color: #566e8b;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 20px;
+			margin-left: 0px;
+		}
+		.betterdocs-searchform {
+			background-color: #ffffff;
+			border-radius: 8px;
+			padding-top: 22px;
+			padding-right: 15px;
+			padding-bottom: 22px;
+			padding-left: 15px;
+		}
+		.betterdocs-searchform .betterdocs-search-field {
+			font-size: 19px;
+			color: #595959;
+		}	
+		.betterdocs-searchform .betterdocs-search-field:focus{
+			color: #595959;
+		}
+		.betterdocs-searchform .betterdocs-search-field::placeholder{
+			color: #595959;
+		}
+		.betterdocs-searchform svg.docs-search-icon {
+			fill: #444b54;
+			height: 30px;
+		}
+		.docs-search-close path.close-line {
+			fill: #ff697b;	
+		}
+		.docs-search-close path.close-border {
+			fill: #444b54;	
+		}
+		.docs-search-loader {
+			stroke: #444b54;	
+		}
+		.betterdocs-searchform svg.docs-search-icon:hover {
+			fill: #444b54;
+		}
+		.betterdocs-live-search .docs-search-result {
+			width: 100%;
+			max-width: 800px;
+			background-color: #ffffff;
+			border-color: #f1f1f1;
+		}
+		.betterdocs-search-result-wrap::before {
+			border-color: transparent transparent #ffffff;
+		}
+		.betterdocs-live-search .docs-search-result li {
+			border-color: #f5f5f5;
+		}
+		.betterdocs-live-search .docs-search-result li a {
+			font-size: 16px;
+			padding-top: 10px;
+			padding-right: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+		}
+		.betterdocs-live-search .docs-search-result li a .betterdocs-search-title {
+			color: #444444;
+		}
+
+		.betterdocs-live-search .docs-search-result li a .betterdocs-search-category{
+			color: #444444;
+		}
+
+		.betterdocs-live-search .docs-search-result li:hover {
+			background-color: #f5f5f5;
+		}
+		.betterdocs-live-search .docs-search-result li a span:hover {
+			color: #444444;
+		}
+		.betterdocs-category-box.pro-layout-3 .docs-single-cat-wrap img,
+		.docs-cat-list-2-box img {
+			margin-right: 20px;
+		}
+		.betterdocs-wraper.betterdocs-category-list-2 .betterdocs-search-form-wrap {
+			padding-bottom: 130px;
+		}
+
+		.betterdocs-article-reactions .betterdocs-article-reactions-heading h5 {
+			color: #566e8b;
+		}
+		.betterdocs-article-reaction-links li a {
+			background-color: #00b88a;
+		}
+		.betterdocs-article-reaction-links li a:hover {
+			background-color: #ffffff;
+		}
+		.betterdocs-article-reaction-links li a svg path {
+			fill: #ffffff;
+		}
+		.betterdocs-article-reaction-links li a:hover svg path {
+			fill: #00b88a;
+		}
+
+		/**
+		 * FAQ Layout 1 Customizer CSS
+		 */
+		.betterdocs-faq-section-title.faq-doc{
+			margin: 0px 0px 0px 0px;			color:#15063f;
+			font-size: 30px;
+		}
+		.betterdocs-faq-main-wrapper-layout-1.faq-doc .betterdocs-faq-title h2{
+			color: #15063f;
+			font-size: 25px;
+			padding: 20px 20px 20px 20px;		}
+
+		.betterdocs-faq-main-wrapper-layout-1.faq-doc .betterdocs-faq-list > li .betterdocs-faq-group .betterdocs-faq-post .betterdocs-faq-post-name{
+			color: #2f3b48;
+			font-size: 17px;
+		}
+
+		.betterdocs-faq-main-wrapper-layout-1.faq-doc .betterdocs-faq-list > li .betterdocs-faq-group .betterdocs-faq-post{
+			background-color: #f0f1f5;
+			padding: 20px 20px 20px 20px;		}
+		.betterdocs-faq-main-wrapper-layout-1.faq-doc .betterdocs-faq-group .betterdocs-faq-main-content{
+			background-color: #fbfcff;
+			font-size: 15px;
+			color: #7b7b7b;
+		}
+
+		/**
+		 * FAQ Layout 2 Customizer CSS
+		 */
+		.betterdocs-faq-main-wrapper-layout-2.faq-doc .betterdocs-faq-title h2{
+			color: #15063f;
+			font-size: 25px;
+			padding: 20px 20px 20px 20px;		}
+
+		.betterdocs-faq-main-wrapper-layout-2.faq-doc .betterdocs-faq-list > li .betterdocs-faq-group .betterdocs-faq-post-layout-2 .betterdocs-faq-post-name{
+			color: #2f3b48;
+			font-size: 17px;
+		}
+
+		.betterdocs-faq-main-wrapper-layout-2.faq-doc .betterdocs-faq-list-layout-2 > li .betterdocs-faq-group-layout-2{
+			background-color: #ffffff;
+		}
+
+		.betterdocs-faq-main-wrapper-layout-2.faq-doc .betterdocs-faq-list-layout-2 > li .betterdocs-faq-group-layout-2 .betterdocs-faq-main-content-layout-2{
+			background-color: #ffffff;
+			font-size: 15px;
+			color: #7b7b7b;
+		}
+
+		.betterdocs-faq-main-wrapper-layout-2.faq-doc .betterdocs-faq-list-layout-2 > li .betterdocs-faq-group-layout-2 .betterdocs-faq-post-layout-2 {
+			padding: 20px 20px 20px 20px;		}
+	</style>
+	<!--<script>
+		jQuery(document).ready(function() {
+			var masonryGrid = jQuery(".betterdocs-categories-wrap.layout-masonry");
+			var columnPerGrid = jQuery(".betterdocs-categories-wrap.layout-masonry").attr('data-column');
+			var masonryItem = jQuery(".betterdocs-categories-wrap.layout-masonry .docs-single-cat-wrap");
+			var doc_page_column_space = ;
+			var total_margin = columnPerGrid * doc_page_column_space;
+			if (masonryGrid.length) {
+				masonryItem.css("width", "calc((100% - "+total_margin+"px) / "+parseInt(columnPerGrid)+")");
+				masonryGrid.masonry({
+					itemSelector: ".docs-single-cat-wrap",
+					percentPosition: true,
+					gutter: doc_page_column_space
+				});
+			}
+		});
+	</script>-->
+    <link rel="icon" href="https://ajudaconsultar.com.br/wp-content/uploads/2023/03/cropped-Edit-your-own-logo--32x32.png" sizes="32x32">
+<link rel="icon" href="https://ajudaconsultar.com.br/wp-content/uploads/2023/03/cropped-Edit-your-own-logo--192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://ajudaconsultar.com.br/wp-content/uploads/2023/03/cropped-Edit-your-own-logo--180x180.png">
+<meta name="msapplication-TileImage" content="https://ajudaconsultar.com.br/wp-content/uploads/2023/03/cropped-Edit-your-own-logo--270x270.png">
+<link rel="stylesheet" id="betterdocs-category-box-css" href="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/includes/elementor/assets/betterdocs-category-box.css?ver=2.3.6" media="all">
+<link rel="stylesheet" id="betterdocs-category-grid-css" href="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/includes/elementor/assets/betterdocs-category-grid.css?ver=2.3.6" media="all">
+
+<script src="https://ajudaconsultar.com.br/wp-includes/js/wp-emoji-release.min.js?ver=7.0.2" defer=""></script></head><body class="home wp-singular page-template page-template-elementor_header_footer page page-id-38 wp-custom-logo wp-theme-hello-elementor elementor-default elementor-template-full-width elementor-kit-22 elementor-page elementor-page-38 e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="widescreen">
+
+
+<a class="skip-link screen-reader-text" href="#content">
+	Skip to content</a>
+
+		<div data-elementor-type="header" data-elementor-id="24" class="elementor elementor-24 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-ba70d06 elementor-section-content-middle elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ba70d06" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7b439a6" data-id="7b439a6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b7da457 elementor-widget elementor-widget-image" data-id="b7da457" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="https://ajudaconsultar.com.br">
+							<img width="703" height="89" src="https://ajudaconsultar.com.br/wp-content/uploads/2023/03/Edit-your-own-logo-.png" class="attachment-full size-full" alt="" srcset="https://ajudaconsultar.com.br/wp-content/uploads/2023/03/Edit-your-own-logo-.png 703w, https://ajudaconsultar.com.br/wp-content/uploads/2023/03/Edit-your-own-logo--300x38.png 300w" sizes="(max-width: 703px) 100vw, 703px">								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f354cfa" data-id="f354cfa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9c86cd1 elementor-nav-menu__align-right elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="9c86cd1" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://ajudaconsultar.com.br/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-9c86cd1" class="elementor-nav-menu" data-smartmenus-id="17851465478527637"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://ajudaconsultar.com.br/enviar-chamado/" class="elementor-item">Enviar chamado</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://ajudaconsultar.com.br/meus-chamados/" class="elementor-item">Meus chamados</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-9c86cd1" class="elementor-nav-menu" data-smartmenus-id="1785146547853135"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://ajudaconsultar.com.br/enviar-chamado/" class="elementor-item" tabindex="-1">Enviar chamado</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://ajudaconsultar.com.br/meus-chamados/" class="elementor-item" tabindex="-1">Meus chamados</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a6f14c2 elementor-section-content-middle elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a6f14c2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b1bcf43" data-id="b1bcf43" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dcd5679 elementor-widget-mobile__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="dcd5679" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="204" height="89" src="https://ajudaconsultar.com.br/wp-content/uploads/2023/03/logoajuda.png" class="attachment-full size-full" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-4c8e198 elementor-nav-menu__align-right elementor-nav-menu--stretch elementor-widget-mobile__width-auto elementor-absolute elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="4c8e198" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;_position&quot;:&quot;absolute&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-4c8e198" class="elementor-nav-menu" data-smartmenus-id="17851465478670393"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://ajudaconsultar.com.br/enviar-chamado/" class="elementor-item">Enviar chamado</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://ajudaconsultar.com.br/meus-chamados/" class="elementor-item">Meus chamados</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false" style="">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true" style="width: 1600px; left: 0px; top: 0px;">
+				<ul id="menu-2-4c8e198" class="elementor-nav-menu" data-smartmenus-id="1785146547867489"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://ajudaconsultar.com.br/enviar-chamado/" class="elementor-item" tabindex="-1">Enviar chamado</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://ajudaconsultar.com.br/meus-chamados/" class="elementor-item" tabindex="-1">Meus chamados</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				</div>
+		</div>
+				<div data-elementor-type="wp-page" data-elementor-id="38" class="elementor elementor-38" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-583bd98 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="583bd98" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0b9bf30" data-id="0b9bf30" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-672873d elementor-widget elementor-widget-heading" data-id="672873d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Base de conhecimento</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e2f7640 elementor-widget elementor-widget-betterdocs-search-form" data-id="e2f7640" data-element_type="widget" data-widget_type="betterdocs-search-form.default">
+				<div class="elementor-widget-container">
+			<div class="betterdocs-live-search"><form class="betterdocs-searchform betterdocs-advance-searchform">
+                <div class="betterdocs-searchform-input-wrap">
+                    <svg class="docs-search-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38px" viewBox="0 0 50 50" version="1.1">
+                        <g id="surface1">
+                            <path style=" " d="M 21 3 C 11.601563 3 4 10.601563 4 20 C 4 29.398438 11.601563 37 21 37 C 24.355469 37 27.460938 36.015625 30.09375 34.34375 L 42.375 46.625 L 46.625 42.375 L 34.5 30.28125 C 36.679688 27.421875 38 23.878906 38 20 C 38 10.601563 30.398438 3 21 3 Z M 21 7 C 28.199219 7 34 12.800781 34 20 C 34 27.199219 28.199219 33 21 33 C 13.800781 33 8 27.199219 8 20 C 8 12.800781 13.800781 7 21 7 Z "></path>
+                        </g>
+                    </svg>
+                    <input type="text" class="betterdocs-search-field" name="s" placeholder="Pesquisar" autocomplete="off" value="">
+                    <svg class="docs-search-loader" width="38" height="38" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" stroke="#444b54">
+                        <g fill="none" fill-rule="evenodd">
+                            <g transform="translate(1 1)" stroke-width="2">
+                                <circle stroke-opacity=".5" cx="18" cy="18" r="18"></circle>
+                                <path d="M36 18c0-9.94-8.06-18-18-18">
+                                    <animateTransform attributeName="transform" type="rotate" from="0 18 18" to="360 18 18" dur="1s" repeatCount="indefinite"></animateTransform>
+                                </path>
+                            </g>
+                        </g>
+                    </svg>
+                    <svg class="docs-search-close" xmlns="http://www.w3.org/2000/svg" width="38px" viewBox="0 0 128 128">
+                        <path fill="#fff" d="M64 14A50 50 0 1 0 64 114A50 50 0 1 0 64 14Z" transform="rotate(-45.001 64 64.001)"></path>
+                        <path class="close-border" d="M64,117c-14.2,0-27.5-5.5-37.5-15.5c-20.7-20.7-20.7-54.3,0-75C36.5,16.5,49.8,11,64,11c14.2,0,27.5,5.5,37.5,15.5c10,10,15.5,23.3,15.5,37.5s-5.5,27.5-15.5,37.5C91.5,111.5,78.2,117,64,117z M64,17c-12.6,0-24.4,4.9-33.2,13.8c-18.3,18.3-18.3,48.1,0,66.5C39.6,106.1,51.4,111,64,111c12.6,0,24.4-4.9,33.2-13.8S111,76.6,111,64s-4.9-24.4-13.8-33.2S76.6,17,64,17z"></path>
+                        <path class="close-line" d="M53.4,77.6c-0.8,0-1.5-0.3-2.1-0.9c-1.2-1.2-1.2-3.1,0-4.2l21.2-21.2c1.2-1.2,3.1-1.2,4.2,0c1.2,1.2,1.2,3.1,0,4.2L55.5,76.7C54.9,77.3,54.2,77.6,53.4,77.6z"></path>
+                        <path class="close-line" d="M74.6,77.6c-0.8,0-1.5-0.3-2.1-0.9L51.3,55.5c-1.2-1.2-1.2-3.1,0-4.2c1.2-1.2,3.1-1.2,4.2,0l21.2,21.2c1.2,1.2,1.2,3.1,0,4.2C76.1,77.3,75.4,77.6,74.6,77.6z"></path>
+                    </svg>
+                </div><input type="hidden" value="Search" class="betterdocs-search-submit"></form></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2204046 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2204046" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4c57364" data-id="4c57364" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6ab72e0 elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-betterdocs-category-grid" data-id="6ab72e0" data-element_type="widget" data-settings="{&quot;grid_column&quot;:&quot;3&quot;,&quot;grid_column_tablet&quot;:&quot;2&quot;,&quot;grid_column_mobile&quot;:&quot;1&quot;}" data-widget_type="betterdocs-category-grid.default">
+				<div class="elementor-widget-container">
+			<div id="el-betterdocs-cat-grid-6ab72e0" class="betterdocs-category-grid-wrapper"><div class="betterdocs-category-grid grid" data-layout-mode="grid" data-column="3" data-column-space=""><article class="el-betterdocs-category-grid-post" data-id="38">
+    <div class="el-betterdocs-cg-inner"><div class="el-betterdocs-cg-header">
+                <div class="el-betterdocs-cg-header-inner"><div class="el-betterdocs-cat-icon"><img decoding="async" src="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/admin/assets/img/betterdocs-cat-icon.svg" alt="betterdocs-category-grid-icon"></div><h2 class="el-betterdocs-cat-title">Administrador</h2></div>
+            </div><div class="el-betterdocs-cg-body"><ul><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/funcoes-do-administrador/">Funções do Administrador</a>
+                    </li></ul></div><div class="el-betterdocs-cg-footer"><a class="el-betterdocs-cg-button" href="https://ajudaconsultar.com.br/categoria/administrador-funcionalidade/">Explorar mais<i class="fas fa-angle-right el-betterdocs-cg-button-icon el-betterdocs-cg-button-icon-right"></i></a></div></div></article><article class="el-betterdocs-category-grid-post" data-id="38">
+    <div class="el-betterdocs-cg-inner"><div class="el-betterdocs-cg-header">
+                <div class="el-betterdocs-cg-header-inner"><div class="el-betterdocs-cat-icon"><img decoding="async" src="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/admin/assets/img/betterdocs-cat-icon.svg" alt="betterdocs-category-grid-icon"></div><h2 class="el-betterdocs-cat-title">Comece por aqui!</h2></div>
+            </div><div class="el-betterdocs-cg-body"><ul><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/passa-a-passo-para-se-cadastrar-na-plataforma/">Passo a passo para se cadastrar na plataforma</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/como-comprar-credito-com-pix/">Como comprar credito com PIX</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/funcoes-do-painel/">Funções da Plataforma</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/como-falar-com-suporte/">Como falar com suporte</a>
+                    </li></ul></div><div class="el-betterdocs-cg-footer"><a class="el-betterdocs-cg-button" href="https://ajudaconsultar.com.br/categoria/comece/">Explorar mais<i class="fas fa-angle-right el-betterdocs-cg-button-icon el-betterdocs-cg-button-icon-right"></i></a></div></div></article><article class="el-betterdocs-category-grid-post" data-id="38">
+    <div class="el-betterdocs-cg-inner"><div class="el-betterdocs-cg-header">
+                <div class="el-betterdocs-cg-header-inner"><div class="el-betterdocs-cat-icon"><img decoding="async" src="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/admin/assets/img/betterdocs-cat-icon.svg" alt="betterdocs-category-grid-icon"></div><h2 class="el-betterdocs-cat-title">Consultas</h2></div>
+            </div><div class="el-betterdocs-cg-body"><ul><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/como-consultar-cpf-de-clientes/">Como consultar CPF</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/consultar-cnpj/">Como consultar CNPJ</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/busca-de-bens-e-imoveis/">Busca de bens imóveis por CPF ou CNPJ</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/consular-veiculo/">Consultar Veiculo por CPF:</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/consultas-juridicas/">Consultas jurídicas</a>
+                    </li></ul></div><div class="el-betterdocs-cg-footer"><a class="el-betterdocs-cg-button" href="https://ajudaconsultar.com.br/categoria/consulta/">Explorar mais<i class="fas fa-angle-right el-betterdocs-cg-button-icon el-betterdocs-cg-button-icon-right"></i></a></div></div></article><article class="el-betterdocs-category-grid-post" data-id="38">
+    <div class="el-betterdocs-cg-inner"><div class="el-betterdocs-cg-header">
+                <div class="el-betterdocs-cg-header-inner"><div class="el-betterdocs-cat-icon"><img decoding="async" src="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/admin/assets/img/betterdocs-cat-icon.svg" alt="betterdocs-category-grid-icon"></div><h2 class="el-betterdocs-cat-title">Funcionalidades da Gestão de empresa</h2></div>
+            </div><div class="el-betterdocs-cg-body"><ul><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/explorando-a-gestao-de-empresas/">Explorando a Gestão de Empresas</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/dashboard-financeiro/">Dashboard Financeiro</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/contas-a-pagar/">Contas a Pagar:</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/contas-a-receber/">Contas a Receber</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/categorias/">Categorias:</a>
+                    </li><li><i class="far fa-file-alt el-betterdocs-cg-post-list-icon"></i><a href="https://ajudaconsultar.com.br/docs/fornecedores/">Fornecedores:</a>
+                    </li></ul></div><div class="el-betterdocs-cg-footer"><a class="el-betterdocs-cg-button" href="https://ajudaconsultar.com.br/categoria/funcoes-gestao/">Explorar mais<i class="fas fa-angle-right el-betterdocs-cg-button-icon el-betterdocs-cg-button-icon-right"></i></a></div></div></article></div><div class="clearfix"></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+				<div data-elementor-type="footer" data-elementor-id="29" class="elementor elementor-29 elementor-location-footer" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-e33520a elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e33520a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7863ff1" data-id="7863ff1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0f8d0a6 elementor-widget elementor-widget-text-editor" data-id="0f8d0a6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>© 2022 – Suitecred – Todos os direitos reservados</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				</div>
+		</div>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="betterdocs-el-editor-js" src="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/admin/assets/js/betterdocs-el-editor.js?ver=2.3.6"></script>
+<script id="simplebar-js" src="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/public/js/simplebar.js?ver=2.3.6"></script>
+<script id="betterdocs-js-extra">
+var betterdocspublic = {"ajax_url":"https://ajudaconsultar.com.br/wp-admin/admin-ajax.php","post_id":"38","copy_text":"Copied","sticky_toc_offset":"100","nonce":"32c3528442"};
+var betterdocspublic = {"ajax_url":"https://ajudaconsultar.com.br/wp-admin/admin-ajax.php","post_id":"38","copy_text":"Copied","sticky_toc_offset":"100","nonce":"32c3528442","search_letter_limit":"3","FEEDBACK":{"DISPLAY":true,"TEXT":"How did you feel?","SUCCESS":"Thanks for your feedback","URL":"https://ajudaconsultar.com.br?rest_route=/betterdocs/feedback"}};
+var betterdocspublic = {"ajax_url":"https://ajudaconsultar.com.br/wp-admin/admin-ajax.php","post_id":"38","copy_text":"Copied","sticky_toc_offset":"100","nonce":"32c3528442","search_letter_limit":"3","FEEDBACK":{"DISPLAY":true,"TEXT":"How did you feel?","SUCCESS":"Thanks for your feedback","URL":"https://ajudaconsultar.com.br?rest_route=/betterdocs/feedback"}};
+//# sourceURL=betterdocs-js-extra
+</script>
+<script id="betterdocs-js" src="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/public/js/betterdocs-public.js?ver=2.3.6"></script>
+<script id="clipboard-js" src="https://ajudaconsultar.com.br/wp-includes/js/clipboard.min.js?ver=2.0.11"></script>
+<script id="hello-theme-frontend-js" src="https://ajudaconsultar.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0"></script>
+<script id="smartmenus-js" src="https://ajudaconsultar.com.br/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1"></script>
+<script id="imagesloaded-js" src="https://ajudaconsultar.com.br/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="masonry-js" src="https://ajudaconsultar.com.br/wp-includes/js/masonry.min.js?ver=4.2.2"></script>
+<script id="betterdocs-category-grid-js" src="https://ajudaconsultar.com.br/wp-content/plugins/betterdocs/includes/elementor/assets/betterdocs-category-grid.js?ver=1.0.0"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://ajudaconsultar.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.5.2"></script>
+<script id="elementor-webpack-runtime-js" src="https://ajudaconsultar.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.3"></script>
+<script id="elementor-frontend-modules-js" src="https://ajudaconsultar.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.3"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/ajudaconsultar.com.br\/wp-admin\/admin-ajax.php","nonce":"bdc89831b3","urls":{"assets":"https:\/\/ajudaconsultar.com.br\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/ajudaconsultar.com.br\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/ajudaconsultar.com.br\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script id="elementor-pro-frontend-js" src="https://ajudaconsultar.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.5.2"></script>
+<script id="elementor-waypoints-js" src="https://ajudaconsultar.com.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2"></script>
+<script id="jquery-ui-core-js" src="https://ajudaconsultar.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Celular","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Celular extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/ajudaconsultar.com.br\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":38,"title":"Base%20de%20Conhecimento%20%E2%80%93%20Tudo%20sobre%20a%20plataforma%20de%20consultas","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://ajudaconsultar.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.3"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script id="pro-elements-handlers-js" src="https://ajudaconsultar.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.5.2"></script><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://ajudaconsultar.com.br/wp-includes/js/wp-emoji-release.min.js?ver=7.0.2"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://ajudaconsultar.com.br/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+
+
+<div style="display:none;">
+</div>
+</body>

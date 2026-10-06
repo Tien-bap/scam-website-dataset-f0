@@ -1,0 +1,211 @@
+{
+  "candidate_id": "live_0d34805864342859049b8fda2e95df35e3345902999c3550e60b5915b212bfa1",
+  "candidate_sha256": "87fe757f93b6a22cf9c1c8d3d495f368ef5828d1dd773c4b44d018cda0a9fc3b",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://51.255.64.58/",
+  "requested_url": "http://51.255.64.58/",
+  "browser_final_url": "http://51.255.64.58/",
+  "source_urls": [
+    "http://51.255.64.58/"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 33563,
+      "source_url": "http://51.255.64.58/",
+      "source_hostname": "51.255.64.58",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://51.255.64.58/",
+      "final_hostname": "51.255.64.58",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 1658,
+      "elapsed_ms": 582,
+      "checked_at": "2026-10-05T12:47:20.725967+00:00",
+      "error": null,
+      "normalized_source_url": "http://51.255.64.58/",
+      "normalized_final_url": "http://51.255.64.58/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 113009,
+      "source_url": "http://51.255.64.58/",
+      "source_hostname": "51.255.64.58",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://51.255.64.58/",
+      "final_hostname": "51.255.64.58",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 1658,
+      "elapsed_ms": 550,
+      "checked_at": "2026-10-05T13:13:37.079183+00:00",
+      "error": null,
+      "normalized_source_url": "http://51.255.64.58/",
+      "normalized_final_url": "http://51.255.64.58/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_0d34805864342859049b8fda2e95df35e3345902999c3550e60b5915b212bfa1",
+    "representative_source_index": 33563,
+    "representative_source_url": "http://51.255.64.58/",
+    "representative_final_url": "http://51.255.64.58/",
+    "normalized_final_url": "http://51.255.64.58/",
+    "source_hostname": "51.255.64.58",
+    "final_hostname": "51.255.64.58",
+    "source_urls": [
+      "http://51.255.64.58/"
+    ],
+    "provenance": [
+      {
+        "source_index": 33563,
+        "source_url": "http://51.255.64.58/",
+        "source_hostname": "51.255.64.58",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://51.255.64.58/",
+        "final_hostname": "51.255.64.58",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 1658,
+        "elapsed_ms": 582,
+        "checked_at": "2026-10-05T12:47:20.725967+00:00",
+        "error": null,
+        "normalized_source_url": "http://51.255.64.58/",
+        "normalized_final_url": "http://51.255.64.58/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 113009,
+        "source_url": "http://51.255.64.58/",
+        "source_hostname": "51.255.64.58",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://51.255.64.58/",
+        "final_hostname": "51.255.64.58",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 1658,
+        "elapsed_ms": 550,
+        "checked_at": "2026-10-05T13:13:37.079183+00:00",
+        "error": null,
+        "normalized_source_url": "http://51.255.64.58/",
+        "normalized_final_url": "http://51.255.64.58/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Web Server's Default Page",
+  "capture_timestamp": "2026-10-05T14:34:55.414581+00:00",
+  "dom_chars": 16431,
+  "screenshot_bytes": 182365,
+  "dom_sha256": "a21b2ac0698bf6d6cc2435adef2ca8d7c3a88e60b75c2f6e9f5eaba96d2721d9",
+  "screenshot_sha256": "dda38ae485eca754b80dbb06e7a7e51ca74f280501cdb7859f0d73ddf5f467eb",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://51.255.64.58/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://51.255.64.58/",
+    "browser_final_url": "http://51.255.64.58/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2384
+}

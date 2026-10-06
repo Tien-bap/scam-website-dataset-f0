@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.onlineservicetec.com/landingpage/dd263864-38a2-466a-be2f-4e5ec6c5e042/gjJ8QyV1WbwtgE2M6ZprP3fjfxtoqgYvE4cRdVMbKqA",
+  "hostname": "www.onlineservicetec.com",
+  "checked_at": "2026-10-04T15:50:12.678398+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 24,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e60b-f0e5-7531-aba3-955ea6f9478d",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-28T03:25:44.035Z",
+  "scan_original_url": "http://www.onlineservicetec.com/landingpages/4f81d4b6-e454-4944-b9fd-e1bb0f01bfdd/hJV5Cx4Lh0D3Qax1_r2TMHV4pB7GSAEL2ZrA8Dz826Y",
+  "final_url": "https://www.onlineservicetec.com/landingpages/4f81d4b6-e454-4944-b9fd-e1bb0f01bfdd/hJV5Cx4Lh0D3Qax1_r2TMHV4pB7GSAEL2ZrA8Dz826Y",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 133,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 56.73,
+  "discovery": {
+    "batch_id": "25f9cfc46962c1a8fb7cea466a3575d5052548765b8a0f3dee12a1604ba9e372",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

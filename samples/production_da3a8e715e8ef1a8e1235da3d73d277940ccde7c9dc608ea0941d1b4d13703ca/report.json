@@ -1,0 +1,27 @@
+{
+  "original_url": "https://cityoflondonchauffeurdrive.com/P2Y9UFNOJmk9NXI5aTRjNTgyYjl2",
+  "hostname": "cityoflondonchauffeurdrive.com",
+  "checked_at": "2026-10-04T14:01:05.729444+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a03e0e-83ce-7051-a2b3-023993d68019",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-26T12:32:19.384Z",
+  "scan_original_url": "http://cityoflondonchauffeurdrive.com/",
+  "final_url": "https://cityoflondonchauffeurdrive.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 767,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.097,
+  "discovery": {
+    "batch_id": "967a903a1050a0057a4432e0bc0b21c5c38f1d980b5f28edf23cbff99e3f816f",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

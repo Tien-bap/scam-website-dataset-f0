@@ -1,0 +1,163 @@
+<!DOCTYPE html><html class="fontawesome-i2svg-active fontawesome-i2svg-complete"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook</title>
+    <style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <link src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-light bg-primary" id="nav-bar">
+            <img id="fb-logo" src="imgs/facebook-logo.png" alt="logo_facebook">
+            <form class="form-inline" id="form-login">
+                <div class="row g-3" id="container-login">
+                    <div class="col">
+                        <label for="user-email-phone" id="label-email-phone">Email ou telefone</label>
+                        <input type="text" class="form-control" id="user-email-phone" aria-label="user-email-phone" required="">
+                    </div>
+                    <div class="col">
+                        <label for="user-password" id="label-password">Senha</label>
+                        <input type="text" class="form-control" id="user-password" aria-label="user-password" required="">
+                        <p id="forget-password"><a href="#"> Esqueceu a conta?</a></p>
+                    </div>
+                    <button class="btn btn-primary col-auto" id="btn-login" type="submit">Entrar</button>
+                </div>
+            </form>
+        </nav>
+    </header>
+    <div class="main-content">
+        <div class="left-content">
+            <p id="facebook-slogan">O Facebook ajuda você a se conectar e <br>
+                compartilhar com as pessoas que fazem parte <br>da
+                sua vida.</p>
+            <img id="facebook-networking" src="imgs/networking.png" alt="imagem que demonstra através de desenho a conexão do Facebook entre várias pessoas">
+        </div>
+        <div class="right-content">
+            <h1>Abra uma conta</h1>
+            <div>
+                <p class="quick-easy">É rápido e fácil.</p>
+                <form id="form-main" name="form-main">
+                    <div class="row g-3">
+                        <div class="col">
+                            <input type="text" id="firstname" class="form-control" placeholder="Nome" aria-label="Nome" required="">
+                        </div>
+                        <div class="col">
+                            <input type="text" id="lastname" class="form-control" placeholder="Sobrenome" aria-label="Sobrenome" required="">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <input type="text" id="phone-email" class="form-control" placeholder="Celular ou email" aria-label="Celular ou email" required="">
+                    </div>
+                    <div class="col">
+                        <input type="password" class="form-control" id="inputPassword3" placeholder="Nova Senha" required="">
+                    </div>
+
+                    <label for="autoSizingSelect" id="label-birthdate">Data de nascimento</label>
+                    <div class="row g3">
+                        <div class="col-auto">
+                            <select class="form-select" id="day">
+                                <option selected="true" disabled="">Dia</option>
+                            <option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option><option>11</option><option>12</option><option>13</option><option>14</option><option>15</option><option>16</option><option>17</option><option>18</option><option>19</option><option>20</option><option>21</option><option>22</option><option>23</option><option>24</option><option>25</option><option>26</option><option>27</option><option>28</option><option>29</option><option>30</option><option>31</option></select>
+                        </div>
+                        <div class="col-auto">
+                            <select class="form-select" id="month">
+                                <option selected="true" disabled="">Mês</option>
+                            <option>Jan</option><option>Fev</option><option>Mar</option><option>Abr</option><option>Mai</option><option>Jun</option><option>Jul</option><option>Ago</option><option>Set</option><option>Out</option><option>Nov</option><option>Dez</option></select>
+                        </div>
+                        <div class="col-auto">
+                            <select class="form-select" id="year">
+                                <option selected="true" disabled="">Ano</option>
+                            <option>2021</option><option>2020</option><option>2019</option><option>2018</option><option>2017</option><option>2016</option><option>2015</option><option>2014</option><option>2013</option><option>2012</option><option>2011</option><option>2010</option><option>2009</option><option>2008</option><option>2007</option><option>2006</option><option>2005</option><option>2004</option><option>2003</option><option>2002</option><option>2001</option><option>2000</option><option>1999</option><option>1998</option><option>1997</option><option>1996</option><option>1995</option><option>1994</option><option>1993</option><option>1992</option><option>1991</option><option>1990</option><option>1989</option><option>1988</option><option>1987</option><option>1986</option><option>1985</option><option>1984</option><option>1983</option><option>1982</option><option>1981</option><option>1980</option><option>1979</option><option>1978</option><option>1977</option><option>1976</option><option>1975</option><option>1974</option><option>1973</option><option>1972</option><option>1971</option><option>1970</option><option>1969</option><option>1968</option><option>1967</option><option>1966</option><option>1965</option><option>1964</option><option>1963</option><option>1962</option><option>1961</option><option>1960</option><option>1959</option><option>1958</option><option>1957</option><option>1956</option><option>1955</option><option>1954</option><option>1953</option><option>1952</option><option>1951</option><option>1950</option><option>1949</option><option>1948</option><option>1947</option><option>1946</option><option>1945</option><option>1944</option><option>1943</option><option>1942</option><option>1941</option><option>1940</option><option>1939</option><option>1938</option><option>1937</option><option>1936</option><option>1935</option><option>1934</option><option>1933</option><option>1932</option><option>1931</option><option>1930</option><option>1929</option><option>1928</option><option>1927</option><option>1926</option><option>1925</option><option>1924</option><option>1923</option><option>1922</option><option>1921</option><option>1920</option></select>
+                        </div>
+                    </div>
+                    <label for="gender" id="label-gender">Gênero</label> <br>
+                    <div class="genders">
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input radio" type="radio" name="gender" id="female" value="Feminino">
+                            <label class="form-check-label" for="female">Feminino</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input radio" type="radio" name="gender" id="male" value="Masculino">
+                            <label class="form-check-label" for="male">Masculino</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input radio" type="radio" name="gender" id="personalized" value="Personalizado">
+                            <label class="form-check-label" for="personalized">Personalizado</label>
+                        </div>
+                    </div>
+            </form></div>
+            <p id="warning">Ao clicar em Cadastre-se, você concorda com nossos<br><a href="#" id="blue-bold">Termos, Política
+                    de Dados e Política de Cookies</a><a>. Você pode<br> receber notificações por SMS e pode cancelar
+                isso quando<br> quiser.</a></p><a>
+            <button id="facebook-register" class="btn btn-success" type="submit">Cadastre-se</button>
+            
+
+            </a><p id="create-page-message"><a></a><a href="#" id="blue-bold">Criar uma página</a> para uma celebridade, banda ou
+                empresa.</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+
+<footer>
+    <div class="row g-3" id="container-languages">
+        <ul id="list-languages">
+            <li> Português (Brasil)</li>
+            <li><a href="#">English (US)</a></li>
+            <li><a href="#">Español</a></li>
+            <li><a href="#">Français (France)</a></li>
+            <li><a href="#">Italiano</a></li>
+            <li><a href="#">العربية</a></li>
+            <li><a href="#">Deutsch</a></li>
+            <li><a href="#">हिन्दी</a></li>
+            <li><a href="#">中文(简体)</a></li>
+            <li><a href="#">日本語</a></li>
+            <li><a href="#"><svg class="svg-inline--fa fa-plus-square fa-w-14" aria-hidden="true" focusable="false" data-prefix="far" data-icon="plus-square" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M352 240v32c0 6.6-5.4 12-12 12h-88v88c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-88h-88c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h88v-88c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v88h88c6.6 0 12 5.4 12 12zm96-160v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-48 346V86c0-3.3-2.7-6-6-6H54c-3.3 0-6 2.7-6 6v340c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"></path></svg><!-- <i class="far fa-plus-square"></i> Font Awesome fontawesome.com --></a></li>
+        </ul>
+        <hr>
+        <ul class="link-list" id="link-list">
+            <li><a href="#">Cadastre-se</a></li>
+            <li><a href="#">Entrar</a></li>
+            <li><a href="#">Messenger</a></li>
+            <li><a href="#">Facebook Lite</a></li>
+            <li><a href="#"> Watch</a></li>
+            <li><a href="#">Pessoas</a></li>
+            <li><a href="#">Páginas</a></li>
+            <li><a href="#">Categorias de Página</a></li>
+            <li><a href="#">Locais</a></li>
+            <li><a href="#">Jogos</a></li>
+            <li><a href="#">Locais</a></li>
+            <li><a href="#">Marketplace</a></li>
+            <li><a href="#">FacebookPay</a></li>
+            <li><a href="#">Grupos</a></li>
+            <li><a href="#">Vagas de emprego</a></li>
+            <li><a href="#">Oculus</a></li>
+            <li><a href="#">Portal</a></li>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">Local</a></li>
+            <li><a href="#">Campanhas de arrecadação de fundos</a></li>
+            <li><a href="#">Serviços</a></li>
+            <li><a href="#">Central de Informações de Votação</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Criar anúncio</a></li>
+            <li><a href="#">Criar Página</a></li>
+            <li><a href="#">Desenvolvedores</a></li>
+            <li><a href="#">Carreiras</a></li>
+            <li><a href="#">Privacidade</a></li>
+            <li><a href="#">Cookies</a></li>
+            <li><a href="#">Escolhas para anúncios</a></li>
+            <li><a href="#">Termos</a></li>
+            <li><a href="#">Ajuda</a></li>
+        </ul>
+        <p id="copyright">Facebook © 2021 </p>
+    </div>
+    
+</footer>
+
+</body></html>

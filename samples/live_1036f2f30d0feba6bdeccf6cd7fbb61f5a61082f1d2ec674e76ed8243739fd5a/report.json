@@ -1,0 +1,158 @@
+{
+  "candidate_id": "live_1036f2f30d0feba6bdeccf6cd7fbb61f5a61082f1d2ec674e76ed8243739fd5a",
+  "candidate_sha256": "c0530b4b5804df1530e55527b3d33930525372cf6e2f8e6141b04c6e4c7a8426",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "baobongda.info",
+  "requested_url": "https://keotructuyen88.com/",
+  "browser_final_url": "https://keotructuyen88.com/",
+  "source_urls": [
+    "baobongda.info"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 15523,
+      "source_url": "baobongda.info",
+      "source_hostname": "baobongda.info",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://keotructuyen88.com/",
+      "final_hostname": "keotructuyen88.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1296,
+      "checked_at": "2026-10-05T12:41:57.795299+00:00",
+      "error": null,
+      "normalized_source_url": "https://baobongda.info/",
+      "normalized_final_url": "https://keotructuyen88.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_1036f2f30d0feba6bdeccf6cd7fbb61f5a61082f1d2ec674e76ed8243739fd5a",
+    "representative_source_index": 15523,
+    "representative_source_url": "baobongda.info",
+    "representative_final_url": "https://keotructuyen88.com/",
+    "normalized_final_url": "https://keotructuyen88.com/",
+    "source_hostname": "baobongda.info",
+    "final_hostname": "keotructuyen88.com",
+    "source_urls": [
+      "baobongda.info"
+    ],
+    "provenance": [
+      {
+        "source_index": 15523,
+        "source_url": "baobongda.info",
+        "source_hostname": "baobongda.info",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://keotructuyen88.com/",
+        "final_hostname": "keotructuyen88.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1296,
+        "checked_at": "2026-10-05T12:41:57.795299+00:00",
+        "error": null,
+        "normalized_source_url": "https://baobongda.info/",
+        "normalized_final_url": "https://keotructuyen88.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Thương hiệu Kèo Trực Tuyến - Nhà cái KÈO TRỰC TUYẾN 88 uy tín VN",
+  "capture_timestamp": "2026-10-05T16:33:40.843562+00:00",
+  "dom_chars": 353982,
+  "screenshot_bytes": 330558,
+  "dom_sha256": "911474e0577bfdf6c29af9a4612330ec710d44a3418a3a5089abafef40d5be3e",
+  "screenshot_sha256": "2723c656abf87be97470fd5b4cc4aec7c8d100e06530984878a1478589f09a66",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://keotructuyen88.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://keotructuyen88.com/",
+    "browser_final_url": "https://keotructuyen88.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 5,
+    "method": 4
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 3492,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "timeout",
+    "original_capture_timestamp": "2026-10-05T14:35:09.828152+00:00",
+    "previous_report_sha256": "828940b434d611938ceb206fae91481fa5311f87020fdb0856496aab0a5ce60e",
+    "recovered_at": "2026-10-05T16:33:40.843562+00:00",
+    "result": "complete"
+  }
+}

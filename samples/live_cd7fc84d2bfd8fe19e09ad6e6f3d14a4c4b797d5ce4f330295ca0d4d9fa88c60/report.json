@@ -1,0 +1,156 @@
+{
+  "candidate_id": "live_cd7fc84d2bfd8fe19e09ad6e6f3d14a4c4b797d5ce4f330295ca0d4d9fa88c60",
+  "candidate_sha256": "0ceb728fc4e5001434b480b23ab6c063e5a78bfab7167dbfc00b18f4580271dc",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://www.go88v.live",
+  "requested_url": "https://betsmart24.com/",
+  "browser_final_url": "https://betsmart24.com/",
+  "source_urls": [
+    "https://www.go88v.live"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2739,
+      "source_url": "https://www.go88v.live",
+      "source_hostname": "www.go88v.live",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://betsmart24.com/",
+      "final_hostname": "betsmart24.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1472,
+      "checked_at": "2026-10-05T12:20:06.229775+00:00",
+      "error": null,
+      "normalized_source_url": "https://www.go88v.live/",
+      "normalized_final_url": "https://betsmart24.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_cd7fc84d2bfd8fe19e09ad6e6f3d14a4c4b797d5ce4f330295ca0d4d9fa88c60",
+    "representative_source_index": 2739,
+    "representative_source_url": "https://www.go88v.live",
+    "representative_final_url": "https://betsmart24.com/",
+    "normalized_final_url": "https://betsmart24.com/",
+    "source_hostname": "www.go88v.live",
+    "final_hostname": "betsmart24.com",
+    "source_urls": [
+      "https://www.go88v.live"
+    ],
+    "provenance": [
+      {
+        "source_index": 2739,
+        "source_url": "https://www.go88v.live",
+        "source_hostname": "www.go88v.live",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://betsmart24.com/",
+        "final_hostname": "betsmart24.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1472,
+        "checked_at": "2026-10-05T12:20:06.229775+00:00",
+        "error": null,
+        "normalized_source_url": "https://www.go88v.live/",
+        "normalized_final_url": "https://betsmart24.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Go8 ⭐️ Cá Cược Cùng go8.com Số 1 Châu Á - Đăng Ký +288K",
+  "capture_timestamp": "2026-10-05T16:51:16.657899+00:00",
+  "dom_chars": 157995,
+  "screenshot_bytes": 1308763,
+  "dom_sha256": "a58c1b8c339f7bd4d38fdecf87c5ae5536899da928e5c47fcdf5e016fd8c46ec",
+  "screenshot_sha256": "8ffbbf29a681f6acf5e175ecce007e0ea461ffa8ca6f1b166fc773923f1c9d75",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://betsmart24.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://betsmart24.com/",
+    "browser_final_url": "https://betsmart24.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 3960,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:55:56.893316+00:00",
+    "previous_report_sha256": "90379ad2b5faec25885341f4ca270bf5a8cffa844de8c07706f7465a6a0e953f",
+    "recovered_at": "2026-10-05T16:51:16.657899+00:00",
+    "result": "complete"
+  }
+}

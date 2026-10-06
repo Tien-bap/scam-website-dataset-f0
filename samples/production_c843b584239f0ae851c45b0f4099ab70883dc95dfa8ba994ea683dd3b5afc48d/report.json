@@ -1,0 +1,27 @@
+{
+  "original_url": "http://kiemthehoaphung.com/",
+  "hostname": "kiemthehoaphung.com",
+  "checked_at": "2026-10-04T13:39:30.761034+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0fde4-ea42-727b-918b-ab15446edca3",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-10-02T18:34:04.287Z",
+  "scan_original_url": "https://kiemthehoaphung.com/",
+  "final_url": "https://kiemthehoaphung.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4117,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.529,
+  "discovery": {
+    "batch_id": "590b31bd4900190ce2d749f9bc8fd5d095f7df3bf5232f52c73dea56aee69f29",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "original_url": "dichvucong.hokhauso.com",
+  "hostname": "dichvucong.hokhauso.com",
+  "checked_at": "2026-10-04T10:34:33.820724+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "0195bcb0-94f0-788f-9bf0-655677488d18",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-22T07:10:49.473Z",
+  "scan_original_url": "http://dichvucong.hokhauso.com/",
+  "final_url": "https://dichvucong.hokhauso.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 31,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.756
+}

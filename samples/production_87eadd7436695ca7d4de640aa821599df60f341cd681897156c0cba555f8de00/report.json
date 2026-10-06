@@ -1,0 +1,21 @@
+{
+  "original_url": "vip1-droppii.com",
+  "hostname": "vip1-droppii.com",
+  "checked_at": "2026-10-04T10:35:02.201056+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 2,
+  "selected_scan_uuid": "01958264-3f82-7000-b2b6-f88be7fec53d",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-10T23:30:01.233Z",
+  "scan_original_url": "http://vip1-droppii.com/",
+  "final_url": "https://vip1-droppii.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5755,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.696
+}

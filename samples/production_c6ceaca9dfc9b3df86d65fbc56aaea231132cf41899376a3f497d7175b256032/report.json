@@ -1,0 +1,27 @@
+{
+  "original_url": "https://chocolatemoonshineofmd.com/secured/",
+  "hostname": "chocolatemoonshineofmd.com",
+  "checked_at": "2026-10-04T16:10:13.561288+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a037bd-ec1a-74af-9e9e-d80f6b7cc3ff",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-25T07:06:42.678Z",
+  "scan_original_url": "http://chocolatemoonshineofmd.com/",
+  "final_url": "https://chocolatemoonshineofmd.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2922,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 50.794,
+  "discovery": {
+    "batch_id": "53d23d30bed5d5025c4ef65f986d275c13915a7caac648fc08eada36d8363699",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

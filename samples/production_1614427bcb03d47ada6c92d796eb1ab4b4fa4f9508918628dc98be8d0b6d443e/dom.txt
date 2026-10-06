@@ -1,0 +1,692 @@
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Luxury Limousine Toronto | Black Car &amp; Chauffeur Service</title>
+<meta name="description" content="Luxury black car and limousine service in Toronto and worldwide. Flight-tracked airport transfers, corporate travel, weddings and events. Book 24/7.">
+<link rel="canonical" href="https://luxurylimousinetoronto.com/">
+<meta name="theme-color" content="#FCFBF8">
+<meta name="robots" content="index, follow, max-image-preview:large">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Luxury Limousine Toronto">
+<meta property="og:title" content="Luxury Limousine Toronto | Black Car &amp; Chauffeur Service">
+<meta property="og:description" content="Luxury black car and limousine service in Toronto and worldwide. Flight-tracked airport transfers, corporate travel, weddings and events. Book 24/7.">
+<meta property="og:url" content="https://luxurylimousinetoronto.com/">
+<meta property="og:image" content="https://luxurylimousinetoronto.com/site-assets/img/chauffeur-door.jpg?v=1787911516">
+<meta property="og:image:alt" content="Luxury Limousine Toronto">
+<meta property="og:locale" content="en_CA">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="geo.region" content="CA-ON">
+<meta name="geo.placename" content="Toronto">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link rel="preconnect" href="https://book.mylimobiz.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&amp;family=Inter:wght@300;400;500;600&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/site-assets/css/style.css?v=1787917630">
+<link rel="icon" href="/site-assets/img/favicon.svg?v=1787912334" type="image/svg+xml">
+<link rel="preload" as="image" href="/site-assets/img/chauffeur-door.jpg?v=1787911516" fetchpriority="high">
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "LimousineService",
+    "@id": "https://luxurylimousinetoronto.com/#business",
+    "name": "Luxury Limousine Toronto",
+    "url": "https://luxurylimousinetoronto.com",
+    "image": "https://luxurylimousinetoronto.com/site-assets/img/hero.jpg?v=1787911516",
+    "telephone": "(855) 255-6622",
+    "email": "support@luxurylimousinetoronto.com",
+    "priceRange": "$$$",
+    "description": "Luxury black car, chauffeur and limousine service based in Toronto, serving clients worldwide through vetted network operators.",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+    },
+    "areaServed": [
+        {
+            "@type": "City",
+            "name": "Toronto"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "name": "Greater Toronto Area"
+        },
+        {
+            "@type": "Country",
+            "name": "Canada"
+        },
+        {
+            "@type": "Country",
+            "name": "United States"
+        }
+    ],
+    "openingHoursSpecification": [
+        {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+        }
+    ],
+    "potentialAction": {
+        "@type": "ReserveAction",
+        "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://book.mylimobiz.com/v4/limowwd",
+            "actionPlatform": [
+                "http://schema.org/DesktopWebPlatform",
+                "http://schema.org/MobileWebPlatform"
+            ]
+        },
+        "result": {
+            "@type": "Reservation",
+            "name": "Chauffeured vehicle reservation"
+        }
+    },
+    "memberOf": [
+        {
+            "@type": "Organization",
+            "name": "Limousine Worldwide Directory",
+            "url": "https://www.limousineworldwide.directory"
+        },
+        {
+            "@type": "Organization",
+            "name": "Limousine Association International",
+            "url": "https://www.limousineassociation.international"
+        }
+    ]
+}</script>
+</head><body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="hdr" id="hdr">
+  <div class="wrap hdr__in">
+    <a class="brand" href="/" aria-label="Luxury Limousine Toronto home">
+      <span class="brand__mark" aria-hidden="true">L</span>
+      <span class="brand__txt">
+        <span class="brand__name">Luxury Limousine</span>
+        <span class="brand__sub">Toronto · Worldwide</span>
+      </span>
+    </a>
+
+    <nav class="nav" aria-label="Primary">
+              <a href="/services" class="">Services</a>
+              <a href="/fleet" class="">Fleet</a>
+              <a href="/cities" class="">Cities</a>
+              <a href="/corporate" class="">Corporate</a>
+              <a href="/about" class="">About</a>
+              <a href="/contact" class="">Contact</a>
+          </nav>
+
+    <div class="hdr__cta">
+      <a class="hdr__tel" href="tel:+18552556622">(855) 255-6622</a>
+      <a class="btn btn--sm" href="/book">Reserve</a>
+    </div>
+
+    <button class="burger" id="burger" aria-label="Menu" aria-expanded="false" aria-controls="drawer">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<div class="drawer" id="drawer">
+      <a class="drawer__link" href="/services">Services</a>
+      <a class="drawer__link" href="/fleet">Fleet</a>
+      <a class="drawer__link" href="/cities">Cities</a>
+      <a class="drawer__link" href="/corporate">Corporate</a>
+      <a class="drawer__link" href="/about">About</a>
+      <a class="drawer__link" href="/contact">Contact</a>
+    <a class="drawer__link" href="/faq">FAQ</a>
+  <div class="drawer__foot">
+    <a class="btn btn--block" href="/book">Reserve a vehicle</a>
+    <a class="btn btn--ghost btn--block" href="tel:+18552556622">Call (855) 255-6622</a>
+  </div>
+</div>
+
+<main id="main">
+
+<!-- ============ HERO ============ -->
+<section class="hero">
+  <div class="hero__bg">
+    <img src="/site-assets/img/chauffeur-door.jpg?v=1787911516" alt="" fetchpriority="high" width="1880" height="1254">
+  </div>
+  <div class="wrap hero__in">
+    <div class="hero__grid">
+
+      <div class="rv in">
+        <p class="eyebrow">Toronto · Worldwide</p>
+        <h1>The car is already<br>waiting. <em>Arrive as<br>you intended.</em></h1>
+        <p class="hero__lede">Chauffeured black car and limousine service for people whose time is the expensive part of the journey. Reserve in a minute — we handle the flight, the traffic and the door.</p>
+        <div class="hero__meta">
+          <span>All-inclusive fares</span>
+          <span>Flight tracked</span>
+          <span>24/7 reservations</span>
+        </div>
+      </div>
+
+      <!-- ---- Limo Anywhere Quick Reservation widget ---- -->
+      <div class="bookcard rv in" data-delay="120">
+        <div class="bookcard__hd">
+          <strong>Reserve your vehicle</strong>
+          <span>Instant quote</span>
+        </div>
+        <div class="bookcard__bd la-widget" data-la-slot="">
+          <script src="https://book.mylimobiz.com/v4/Scripts/iframeResizer/iframeResizer.min.js" type="text/javascript"></script><iframe src="https://book.mylimobiz.com/v4/limowwd/widget/quickReservation?redirectUrl=https://luxurylimousinetoronto.com/book" width="100%" tabindex="0" frameborder="0" scrolling="no" allowtransparency="true" horizontalscrolling="no" verticalscrolling="no" allow="geolocation" class="ores4iframe" style="min-width: 100%; overflow: hidden; height: 677px;" id="iFrameResizer0"></iframe>
+          <div class="la-fallback" style="display:none">
+            <p>Our booking engine is taking a moment to load. You can reserve directly in the secure portal, or call us and we will do it for you.</p>
+            <a class="btn btn--block" href="https://book.mylimobiz.com/v4/limowwd" target="_blank" rel="noopener">Open reservation portal</a>
+            <a class="btn btn--ghost btn--block" style="--fg:#101014;--bd:rgba(0,0,0,.3)" href="tel:+18552556622">Call (855) 255-6622</a>
+          </div>
+          <script type="text/javascript" src="https://book.mylimobiz.com/v4/widgets/widget-loader.js"></script>
+        </div>
+        <div class="bookcard__ft">
+          <span>Prefer to speak to someone?</span>
+          <a href="tel:+18552556622">(855) 255-6622</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============ TRUST STRIP ============ -->
+<div class="strip">
+  <div class="wrap strip__in">
+    <div class="strip__i"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M12 2 4 5v6c0 5 3.4 9.4 8 11 4.6-1.6 8-6 8-11V5l-8-3Z"></path><path d="m9 12 2 2 4-4"></path></svg>Licensed &amp; insured</div>
+    <div class="strip__i"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M2 12h20M12 2a15 15 0 0 1 0 20 15 15 0 0 1 0-20Z"></path><circle cx="12" cy="12" r="10"></circle></svg>Worldwide coverage</div>
+    <div class="strip__i"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M17.8 19.2 16 11l3.5-3.5a2.1 2.1 0 0 0-3-3L13 8 4.8 6.2a.9.9 0 0 0-.8 1.5l5 4-2.5 2.5-2.2-.4-1 1 3.2 1.8L8.3 21l1-1-.4-2.2L11.4 15l4 5a.9.9 0 0 0 1.5-.8Z"></path></svg>Flight tracking</div>
+    <div class="strip__i"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3.2 1.9"></path></svg>24/7 dispatch</div>
+    <div class="strip__i"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M12 3 4 6.6v5c0 4.6 3.3 8.7 8 9.8 4.7-1.1 8-5.2 8-9.8v-5L12 3Z"></path><path d="M12 8.4v4.2M12 15.6h.01"></path></svg>LWD &amp; LAI member</div>
+  </div>
+</div>
+
+<!-- ============ THE STANDARD ============ -->
+<section class="section">
+  <div class="wrap">
+    <div class="hd-row rv">
+      <div>
+        <p class="eyebrow">The standard</p>
+        <h2>Six things we will not<br>negotiate on.</h2>
+      </div>
+      <p class="lede" style="max-width:44ch">Ground transport goes wrong in a small number of predictable ways. We have built the business around removing every one of them.</p>
+    </div>
+
+    <div class="promises rv">
+              <div class="promise">
+          <span class="promise__n">01</span>
+          <h3>All-inclusive pricing</h3>
+          <p>The fare you are quoted is the fare you pay. Tolls, parking, airport fees, wait time and gratuity are inside it. No surge pricing, and no line items added afterwards.</p>
+        </div>
+              <div class="promise">
+          <span class="promise__n">02</span>
+          <h3>Chauffeurs, not drivers</h3>
+          <p>Licensed, background-checked, dressed for the room and briefed on your trip before they leave the garage. They know the route before you get in.</p>
+        </div>
+              <div class="promise">
+          <span class="promise__n">03</span>
+          <h3>Flight tracking as standard</h3>
+          <p>We watch the tail number. Land early and we are already there; land late and the pickup moves with you at no extra cost.</p>
+        </div>
+              <div class="promise">
+          <span class="promise__n">04</span>
+          <h3>Reserve around the clock</h3>
+          <p>Book online in about a minute, any hour, from anywhere in the world. A dispatcher is reachable by phone for anything the form cannot answer.</p>
+        </div>
+              <div class="promise">
+          <span class="promise__n">05</span>
+          <h3>Licensed and insured</h3>
+          <p>Every vehicle we dispatch - ours or a network partner’s - carries commercial livery plates and current commercial insurance. We will show you the paperwork.</p>
+        </div>
+              <div class="promise">
+          <span class="promise__n">06</span>
+          <h3>One desk, worldwide</h3>
+          <p>Book Toronto and Tokyo the same way. Our network memberships mean a vetted operator meets you in cities we do not garage cars ourselves.</p>
+        </div>
+          </div>
+  </div>
+</section>
+
+<!-- ============ FLEET ============ -->
+<section class="section section--alt section--line">
+  <div class="wrap">
+    <div class="hd-row rv">
+      <div>
+        <p class="eyebrow">The fleet</p>
+        <h2>Choose the car for<br>the occasion.</h2>
+      </div>
+      <a class="link-arrow" href="/fleet">See the full fleet →</a>
+    </div>
+
+    <div class="grid grid-3">
+              <article class="card rv" data-delay="0">
+          <div class="card__img">
+            <img src="/site-assets/img/fleet-business.jpg?v=1787911566" alt="Business Class vehicle" loading="lazy" width="1880" height="1175">
+            <span class="card__tag">Business Class</span>
+          </div>
+          <div class="card__bd">
+            <h3>Business Class</h3>
+            <p>The everyday standard for airport runs, meetings and evenings out. A late-model executive sedan, professionally detailed, with a chauffeur in business dress.</p>
+            <div class="card__spec">
+              <span>Up to <b>3</b> guests</span>
+              <span><b>2</b> bags</span>
+            </div>
+          </div>
+        </article>
+              <article class="card rv" data-delay="40">
+          <div class="card__img">
+            <img src="/site-assets/img/fleet-first.jpg?v=1787911516" alt="First Class vehicle" loading="lazy" width="1880" height="1175">
+            <span class="card__tag">First Class</span>
+          </div>
+          <div class="card__bd">
+            <h3>First Class</h3>
+            <p>Our flagship sedan. Extended rear legroom, a quieter cabin and a softer ride - the car you book when the person in the back seat is the reason for the trip.</p>
+            <div class="card__spec">
+              <span>Up to <b>3</b> guests</span>
+              <span><b>2</b> bags</span>
+            </div>
+          </div>
+        </article>
+              <article class="card rv" data-delay="80">
+          <div class="card__img">
+            <img src="/site-assets/img/fleet-suv.jpg?v=1787911568" alt="Business SUV vehicle" loading="lazy" width="1880" height="1175">
+            <span class="card__tag">Business SUV</span>
+          </div>
+          <div class="card__bd">
+            <h3>Business SUV</h3>
+            <p>Full-size SUV with real luggage capacity. The right call for winter roads, ski weekends, golf clubs and families arriving on a long-haul flight.</p>
+            <div class="card__spec">
+              <span>Up to <b>5</b> guests</span>
+              <span><b>5</b> bags</span>
+            </div>
+          </div>
+        </article>
+              <article class="card rv" data-delay="120">
+          <div class="card__img">
+            <img src="/site-assets/img/fleet-van.jpg?v=1787911518" alt="Business Van vehicle" loading="lazy" width="1880" height="1175">
+            <span class="card__tag">Business Van</span>
+          </div>
+          <div class="card__bd">
+            <h3>Business Van</h3>
+            <p>Conference seating, standing height in the Sprinter, and room for a full project team plus their cases. One vehicle instead of three sedans.</p>
+            <div class="card__spec">
+              <span>Up to <b>7</b> guests</span>
+              <span><b>7</b> bags</span>
+            </div>
+          </div>
+        </article>
+              <article class="card rv" data-delay="160">
+          <div class="card__img">
+            <img src="/site-assets/img/fleet-stretch.jpg?v=1787911518" alt="Stretch Limousine vehicle" loading="lazy" width="1880" height="1175">
+            <span class="card__tag">Stretch Limousine</span>
+          </div>
+          <div class="card__bd">
+            <h3>Stretch Limousine</h3>
+            <p>The occasion car. Bench seating, bar, ambient lighting and a chauffeur who understands that the schedule belongs to the celebration, not the other way round.</p>
+            <div class="card__spec">
+              <span>Up to <b>14</b> guests</span>
+              <span><b>6</b> bags</span>
+            </div>
+          </div>
+        </article>
+      
+      <article class="card rv" style="justify-content:center">
+        <div class="card__bd" style="padding:2.4rem 1.6rem">
+          <p class="eyebrow">Not sure?</p>
+          <h3>Tell us the trip.<br>We will pick the car.</h3>
+          <p>Guests, luggage, weather, distance and how the day is meant to feel — give us those and we will recommend the right class and quote it in one reply.</p>
+          <div class="card__foot"><a class="btn" href="/contact">Ask a dispatcher</a></div>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ AIRPORT SPLIT ============ -->
+<section class="section">
+  <div class="wrap split">
+    <div class="split__media rv">
+      <img src="/site-assets/img/airport.jpg?v=1787911518" alt="Traveller crossing an airport terminal" loading="lazy">
+    </div>
+    <div class="rv" data-delay="100">
+      <p class="eyebrow">Airport transfers</p>
+      <h2>We are watching your<br>flight, not the clock.</h2>
+      <p class="lede">Give us a flight number and the pickup becomes our problem. We track the aircraft from pushback, adjust for early landings and delays, and your chauffeur is inside the terminal before the doors open.</p>
+      <ul class="tick">
+                  <li>We track your flight number and move the pickup with it - no charge for delays outside your control.</li>
+                  <li>Meet-and-greet at the arrivals door with a name board, or curbside if you prefer to move fast.</li>
+                  <li>Complimentary wait time after landing, so customs and baggage are never a race.</li>
+                  <li>One quoted, all-inclusive fare. Tolls, parking, airport fees and gratuity handled up front.</li>
+              </ul>
+      <div class="btn-row mt-md">
+        <a class="btn" href="/book">Book an airport transfer</a>
+        <a class="btn btn--ghost" href="/services#airport-transfers">How it works</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CORPORATE SPLIT ============ -->
+<section class="section section--alt section--line">
+  <div class="wrap split split--flip">
+    <div class="split__media rv">
+      <img src="/site-assets/img/chauffeur-luggage.jpg?v=1787911516" alt="Chauffeur loading luggage for a corporate traveller" loading="lazy">
+    </div>
+    <div class="rv" data-delay="100">
+      <p class="eyebrow">Corporate &amp; executive</p>
+      <h2>One account. Every<br>city. No surprises.</h2>
+      <p class="lede">Your assistants book, your travellers ride, and your finance team receives one clean invoice a month with cost centres already attached. The chauffeur your CEO likes stays the chauffeur your CEO gets.</p>
+      <ul class="tick">
+                  <li>Corporate accounts with monthly consolidated invoicing and cost-centre references on every trip.</li>
+                  <li>Named chauffeurs for regular executives, so the same person is at the door each week.</li>
+                  <li>Roadshow and multi-stop days managed as-directed, with the car held between meetings.</li>
+                  <li>Duty-of-care reporting: licensed operators, commercially insured vehicles, vetted chauffeurs.</li>
+              </ul>
+      <div class="btn-row mt-md">
+        <a class="btn" href="/corporate">Open a corporate account</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ HOW IT WORKS ============ -->
+<section class="section">
+  <div class="wrap">
+    <div class="center rv" style="margin-bottom:clamp(2.6rem,4vw,3.8rem)">
+      <p class="eyebrow eyebrow--center">How it works</p>
+      <h2>Four steps, about a minute.</h2>
+    </div>
+    <div class="steps rv">
+      <div class="step">
+        <h3>Tell us the journey</h3>
+        <p>Pickup, destination, date and time. Add a flight number and we will track it for you.</p>
+      </div>
+      <div class="step">
+        <h3>Choose your class</h3>
+        <p>Sedan, SUV, van or stretch — each with its all-inclusive price shown before you commit.</p>
+      </div>
+      <div class="step">
+        <h3>Confirm in seconds</h3>
+        <p>Secure payment, instant email confirmation, and the full itinerary in writing.</p>
+      </div>
+      <div class="step">
+        <h3>Meet your chauffeur</h3>
+        <p>Vehicle and chauffeur details land before pickup. Then simply walk out and get in.</p>
+      </div>
+    </div>
+    <div class="btn-row btn-row--center mt-lg rv">
+      <a class="btn" href="/book">Start a reservation</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CITIES ============ -->
+<section class="section section--alt section--line">
+  <div class="wrap">
+    <div class="hd-row rv">
+      <div>
+        <p class="eyebrow">Where we drive</p>
+        <h2>Home in Toronto.<br>Booked worldwide.</h2>
+      </div>
+      <p class="lede" style="max-width:44ch">We garage our own cars in the Greater Toronto Area. Everywhere else, our network memberships put a vetted operator at your door on the same brief.</p>
+    </div>
+
+    <div class="cities rv">
+              <a class="city" href="/cities">
+          <img src="/site-assets/img/city-toronto.jpg?v=1787911520" alt="Toronto skyline" loading="lazy">
+          <span class="city__lb">
+            <strong>Toronto</strong>
+            <span>Home city · own fleet</span>
+          </span>
+        </a>
+              <a class="city" href="/cities">
+          <img src="/site-assets/img/city-newyork.jpg?v=1787911520" alt="New York skyline" loading="lazy">
+          <span class="city__lb">
+            <strong>New York</strong>
+            <span>Network operator</span>
+          </span>
+        </a>
+              <a class="city" href="/cities">
+          <img src="/site-assets/img/city-london.jpg?v=1787911522" alt="London skyline" loading="lazy">
+          <span class="city__lb">
+            <strong>London</strong>
+            <span>Network operator</span>
+          </span>
+        </a>
+              <a class="city" href="/cities">
+          <img src="/site-assets/img/city-dubai.jpg?v=1787911522" alt="Dubai skyline" loading="lazy">
+          <span class="city__lb">
+            <strong>Dubai</strong>
+            <span>Network operator</span>
+          </span>
+        </a>
+              <a class="city" href="/cities">
+          <img src="/site-assets/img/city-paris.jpg?v=1787911524" alt="Paris skyline" loading="lazy">
+          <span class="city__lb">
+            <strong>Paris</strong>
+            <span>Network operator</span>
+          </span>
+        </a>
+          </div>
+
+    <div class="btn-row btn-row--center mt-lg rv">
+      <a class="btn btn--ghost" href="/cities">Every city we cover</a>
+      <a class="btn btn--ghost" href="/about">How we work</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MEMBERSHIPS ============ -->
+<section class="section">
+  <div class="wrap">
+    <div class="center rv" style="margin-bottom:clamp(2.4rem,4vw,3.4rem)">
+      <p class="eyebrow eyebrow--center">Accountable to more than ourselves</p>
+      <h2>Proud members of<br>LWD and LAI.</h2>
+      <p class="lede measure-center" style="margin-top:1.2rem">Anyone can print a business card that says chauffeur. Belonging to a professional network means our licensing, insurance and conduct are visible to somebody other than us — and it is how we place your trip safely in a city where we do not garage cars ourselves.</p>
+    </div>
+
+    <div class="memb">
+              <article class="crest rv" data-delay="0">
+          <div class="crest__top">
+            <a class="crest__seal" href="https://www.limousineworldwide.directory" target="_blank" rel="noopener" aria-label="Limousine Worldwide Directory – member">
+              <img src="/site-assets/img/logo-lwd.png?v=1787917464" alt="Limousine Worldwide Directory member logo" width="440" height="440" loading="lazy">
+            </a>
+            <div class="crest__ttl">
+              <span>Member in good standing</span>
+              <strong>Limousine Worldwide Directory</strong>
+            </div>
+          </div>
+          <p>The worldwide network of limousine companies, owner-operators, chauffeurs and allied businesses. Our listing keeps us accountable to a global standard of service, and gives our clients a vetted operator in cities where we do not garage cars ourselves.</p>
+          <a class="link-arrow" href="https://www.limousineworldwide.directory" target="_blank" rel="noopener">
+            LimousineWorldwide.Directory →
+          </a>
+        </article>
+              <article class="crest rv" data-delay="90">
+          <div class="crest__top">
+            <a class="crest__seal" href="https://www.limousineassociation.international" target="_blank" rel="noopener" aria-label="Limousine Association International – member">
+              <img src="/site-assets/img/logo-lai.png?v=1787917464" alt="Limousine Association International member logo" width="440" height="440" loading="lazy">
+            </a>
+            <div class="crest__ttl">
+              <span>Member in good standing</span>
+              <strong>Limousine Association International</strong>
+            </div>
+          </div>
+          <p>The international association for limousine operators, associated vendors and professional chauffeurs. Membership commits us to its standards of licensing, insurance, vehicle safety and chauffeur conduct on every journey we accept.</p>
+          <a class="link-arrow" href="https://www.limousineassociation.international" target="_blank" rel="noopener">
+            LimousineAssociation.International →
+          </a>
+        </article>
+          </div>
+  </div>
+</section>
+
+<!-- ============ TESTIMONIALS ============ -->
+<section class="section section--alt section--line">
+  <div class="wrap">
+    <div class="center rv" style="margin-bottom:clamp(2.4rem,4vw,3.4rem)">
+      <p class="eyebrow eyebrow--center">In their words</p>
+      <h2>What the ride feels like.</h2>
+    </div>
+    <div class="quotes">
+      <figure class="quote rv">
+        <div class="quote__stars" aria-label="Five out of five">★★★★★</div>
+        <blockquote>Our flight lost three hours in Frankfurt. Nobody called us, nobody charged us, and the car was simply there when we finally walked out at 2am.</blockquote>
+        <cite>— Private client, Pearson arrival</cite>
+      </figure>
+      <figure class="quote rv" data-delay="70">
+        <div class="quote__stars" aria-label="Five out of five">★★★★★</div>
+        <blockquote>Eleven executives, four days, three cities. One invoice at the end with the cost centres already on it. That alone is worth the account.</blockquote>
+        <cite>— Executive assistant, financial services</cite>
+      </figure>
+      <figure class="quote rv" data-delay="140">
+        <div class="quote__stars" aria-label="Five out of five">★★★★★</div>
+        <blockquote>The chauffeur had walked our wedding route the day before. He knew which entrance the photographer wanted. We never thought to ask for that.</blockquote>
+        <cite>— Wedding client, Toronto</cite>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ PREVIEW ============ -->
+<section class="section">
+  <div class="wrap">
+    <div class="hd-row rv">
+      <div>
+        <p class="eyebrow">Good to know</p>
+        <h2>Questions we are<br>asked most.</h2>
+      </div>
+      <a class="link-arrow" href="/faq">All questions →</a>
+    </div>
+
+    <div class="acc rv">
+              <div class="acc__item">
+          <button class="acc__q" aria-expanded="false" aria-controls="hq0">How far ahead should I book?</button>
+          <div class="acc__a" id="hq0"><div>For airport transfers and standard sedan work a few hours is usually enough, and we take same-day requests whenever a car is free. For stretch limousines, weddings, multi-vehicle convoys and peak dates such as prom season and New Year’s Eve, book several weeks ahead — those vehicles sell out first. See <a href="/fleet">the full fleet</a> for what each class seats.</div></div>
+        </div>
+              <div class="acc__item">
+          <button class="acc__q" aria-expanded="false" aria-controls="hq1">What is included in the price I am quoted?</button>
+          <div class="acc__a" id="hq1"><div>Everything ordinary to the trip: the vehicle, the chauffeur, fuel, tolls, airport fees, terminal parking, the included meet-and-greet wait time and gratuity. Extras appear only if you add them - additional stops, waiting beyond the included allowance, child seats, or an itinerary change on the day. The <a href="/book">reservation system</a> shows the total before you commit.</div></div>
+        </div>
+              <div class="acc__item">
+          <button class="acc__q" aria-expanded="false" aria-controls="hq2">What happens if my flight is delayed?</button>
+          <div class="acc__a" id="hq2"><div>Nothing you have to manage. We track your flight by number from the moment it pushes back and move your pickup automatically. Delays outside your control are not charged. Give us the flight number when you book and the rest is handled — we watch the same arrivals data you would check on <a href="https://www.torontopearson.com/" target="_blank" rel="noopener">Toronto Pearson (YYZ)</a>.</div></div>
+        </div>
+              <div class="acc__item">
+          <button class="acc__q" aria-expanded="false" aria-controls="hq3">How much wait time is included after landing?</button>
+          <div class="acc__a" id="hq3"><div>Domestic arrivals include a complimentary grace period after touchdown, and international arrivals include a longer one to allow for customs and baggage. Your confirmation states the exact allowance for your trip. The chauffeur will keep waiting past it, billed in fair increments rather than a flat penalty.</div></div>
+        </div>
+              <div class="acc__item">
+          <button class="acc__q" aria-expanded="false" aria-controls="hq4">Can I change or cancel a reservation?</button>
+          <div class="acc__a" id="hq4"><div>Yes. Changes and cancellations made in good time are free. Short-notice changes to specialty vehicles - stretch limousines, vans and multi-car bookings - may carry a fee, because the vehicle was held out of service for you. The exact window is shown on your confirmation before you commit.</div></div>
+        </div>
+          </div>
+  </div>
+</section>
+
+<!-- ============ CTA ============ -->
+<section class="section cta">
+  <div class="cta__bg"><img src="/site-assets/img/road-night.jpg?v=1787911520" alt="" loading="lazy"></div>
+  <div class="wrap cta__in">
+    <p class="eyebrow eyebrow--center rv">Ready when you are</p>
+    <h2 class="rv">Reserve in about a minute.</h2>
+    <p class="lede measure-center rv" style="margin-top:1rem">Online, around the clock, from anywhere in the world — or call the dispatch desk and a person will build the itinerary with you.</p>
+    <div class="btn-row btn-row--center mt-lg rv">
+      <a class="btn" href="/book">Book online now</a>
+      <a class="btn btn--ghost" href="tel:+18552556622">Call (855) 255-6622</a>
+    </div>
+    <p class="muted rv" style="margin-top:1.6rem;font-size:.9rem">
+      Or email us any time at
+      <a href="mailto:support@luxurylimousinetoronto.com" style="color:var(--gold);border-bottom:1px solid var(--gold-dim)">support@luxurylimousinetoronto.com</a>
+    </p>
+  </div>
+</section>
+
+</main>
+
+<footer class="ftr">
+  <div class="wrap">
+    <div class="ftr__grid">
+
+      <div class="ftr__about">
+        <a class="brand" href="/" style="margin-bottom:1.2rem">
+          <span class="brand__mark" aria-hidden="true">L</span>
+          <span class="brand__txt">
+            <span class="brand__name">Luxury Limousine</span>
+            <span class="brand__sub">Toronto · Worldwide</span>
+          </span>
+        </a>
+        <p>Chauffeured black car and limousine service based in Toronto, Ontario, Canada, booking worldwide through vetted operators in our professional networks. All-inclusive pricing, flight tracking as standard, and a reservation desk open around the clock.</p>
+        <div class="memb-badges" style="margin-top:1.4rem">
+                      <a class="memb-badge memb-badge--logo" href="https://www.limousineworldwide.directory" target="_blank" rel="noopener">
+              <img src="/site-assets/img/logo-lwd.png?v=1787917464" alt="Limousine Worldwide Directory member logo" width="440" height="440" loading="lazy">
+              <span><b>LWD</b> Member</span>
+            </a>
+                      <a class="memb-badge memb-badge--logo" href="https://www.limousineassociation.international" target="_blank" rel="noopener">
+              <img src="/site-assets/img/logo-lai.png?v=1787917464" alt="Limousine Association International member logo" width="440" height="440" loading="lazy">
+              <span><b>LAI</b> Member</span>
+            </a>
+                  </div>
+      </div>
+
+      <div>
+        <h5>Services</h5>
+        <ul>
+                      <li><a href="/services#airport-transfers">Airport Transfers</a></li>
+                      <li><a href="/services#corporate-travel">Corporate &amp; Executive</a></li>
+                      <li><a href="/services#hourly-as-directed">Hourly &amp; As-Directed</a></li>
+                      <li><a href="/services#weddings-events">Weddings &amp; Events</a></li>
+                      <li><a href="/services#intercity-long-distance">Intercity &amp; Long Distance</a></li>
+                      <li><a href="/services#global-black-car">Global Black Car</a></li>
+                  </ul>
+      </div>
+
+      <div>
+        <h5>Company</h5>
+        <ul>
+          <li><a href="/fleet">Our fleet</a></li>
+          <li><a href="/cities">Cities we serve</a></li>
+          <li><a href="/corporate">Corporate accounts</a></li>
+          <li><a href="/about">About us</a></li>
+          <li><a href="/faq">Frequently asked</a></li>
+          <li><a href="/contact">Contact</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5>Reservations</h5>
+        <ul>
+          <li><a href="/book">Book online 24/7</a></li>
+          <li><a href="tel:+18552556622">(855) 255-6622</a></li>
+          <li><a href="mailto:support@luxurylimousinetoronto.com">support@luxurylimousinetoronto.com</a></li>
+          <li><a href="https://book.mylimobiz.com/v4/limowwd" target="_blank" rel="noopener">Reservation portal</a></li>
+        </ul>
+        <a class="btn btn--sm" href="/book" style="margin-top:1.5rem">Reserve now</a>
+      </div>
+
+    </div>
+
+    <div class="ftr__bot">
+      <span>© 2026 Luxury Limousine Toronto. All rights reserved.</span>
+      <nav aria-label="Legal">
+        <a href="/privacy">Privacy</a>
+        <a href="/terms">Terms &amp; conditions</a>
+        <a href="/sitemap.xml">Sitemap</a>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+<script src="/site-assets/js/site.js?v=1787911934" defer=""></script>
+
+
+</body>

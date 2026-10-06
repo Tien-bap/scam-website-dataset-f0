@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.emailmeform.com/builder/form/f5eYgf8C8eWB5zVacv9xad1L",
+  "hostname": "www.emailmeform.com",
+  "checked_at": "2026-10-04T13:38:22.969068+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 36,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e5b5-4a6b-755c-9e2e-5675c9299de1",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-28T01:51:05.600Z",
+  "scan_original_url": "https://click-330321.icptrack.com/icp/relay.php?r=67320943&amp;msgid=1758773&amp;act=7D2A&amp;c=330321&amp;pid=3268666&amp;destination=https://www.emailmeform.com/builder/form/Ny0vMVR2Fp70b2n2Qs2&amp;cf=104993&amp;v=03f719d7a2ec4108e47600c4f82974f92bd60bda820703fbb74e9631d349c168",
+  "final_url": "https://www.emailmeform.com/builder/form/Ny0vMVR2Fp70b2n2Qs2",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 906,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.414,
+  "discovery": {
+    "batch_id": "d3e07c8109e5b9a2af2c924b3c1ea104e8f8a98e1439999e7c579c0130f6c722",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

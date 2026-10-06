@@ -1,0 +1,147 @@
+{
+  "candidate_id": "live_4d03f55220db60133cb9807d2c69d0ebf96e60e2cc508a9a637fc4d9201e9612",
+  "candidate_sha256": "02f085c3c30a09201d943e8b205b41c2c3783f449fd2093a4822a224e52ea353",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://lode88.ai/",
+  "requested_url": "https://lode88.tires/",
+  "browser_final_url": "https://lode88.tires/",
+  "source_urls": [
+    "https://lode88.ai/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 979,
+      "source_url": "https://lode88.ai/",
+      "source_hostname": "lode88.ai",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://lode88.tires/",
+      "final_hostname": "lode88.tires",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 774,
+      "checked_at": "2026-10-05T12:18:15.308224+00:00",
+      "error": null,
+      "normalized_source_url": "https://lode88.ai/",
+      "normalized_final_url": "https://lode88.tires/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_4d03f55220db60133cb9807d2c69d0ebf96e60e2cc508a9a637fc4d9201e9612",
+    "representative_source_index": 979,
+    "representative_source_url": "https://lode88.ai/",
+    "representative_final_url": "https://lode88.tires/",
+    "normalized_final_url": "https://lode88.tires/",
+    "source_hostname": "lode88.ai",
+    "final_hostname": "lode88.tires",
+    "source_urls": [
+      "https://lode88.ai/"
+    ],
+    "provenance": [
+      {
+        "source_index": 979,
+        "source_url": "https://lode88.ai/",
+        "source_hostname": "lode88.ai",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://lode88.tires/",
+        "final_hostname": "lode88.tires",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 774,
+        "checked_at": "2026-10-05T12:18:15.308224+00:00",
+        "error": null,
+        "normalized_source_url": "https://lode88.ai/",
+        "normalized_final_url": "https://lode88.tires/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Lode88 - Trang Chủ Nhà Cái Lô Đề Online 1 Ăn 900 Uy Tín",
+  "capture_timestamp": "2026-10-05T14:42:22.025572+00:00",
+  "dom_chars": 864887,
+  "screenshot_bytes": 305473,
+  "dom_sha256": "a07838ba32e6ecf21aba0da99c563e7fdb49bb5b1a80d6e907fb73b96da68819",
+  "screenshot_sha256": "67cfe4892122fe1b3bbddfd9e95c8ee492957e5dff9bcae3d05b3528598eab5b",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://lode88.tires/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://lode88.tires/",
+    "browser_final_url": "https://lode88.tires/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3563
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://survey.alchemer.com/s3/6348503/REUTZEL-PHARMACY/",
+  "hostname": "survey.alchemer.com",
+  "checked_at": "2026-10-04T14:50:42.049765+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 248,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a106c5-9e96-7768-8adf-26bfe50114e3",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-04T11:56:22.947Z",
+  "scan_original_url": "https://survey.alchemer.com/collab/9032715/GC-CEU-Quiz-Understanding-Clinical-Trials-from-a-Clinician-s-Perspective",
+  "final_url": "https://survey.alchemer.com/collab/9032715/GC-CEU-Quiz-Understanding-Clinical-Trials-from-a-Clinician-s-Perspective",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4152,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.673,
+  "discovery": {
+    "batch_id": "661f94ccb27d14a37d213e98e584832b353d8f5bc2ddc8d69bad75afdaf24237",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

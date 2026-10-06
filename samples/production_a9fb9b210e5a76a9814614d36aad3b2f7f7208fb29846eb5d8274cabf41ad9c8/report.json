@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.jade-corp.jp/wp-content/plugins/breadcrumb-navxt/includes/index.htm",
+  "hostname": "www.jade-corp.jp",
+  "checked_at": "2026-10-04T15:59:04.952531+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a03d7a-1891-716a-8009-184ecc040872",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-26T09:50:16.809Z",
+  "scan_original_url": "https://jade-corp.jp/",
+  "final_url": "https://www.jade-corp.jp/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1286,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.927,
+  "discovery": {
+    "batch_id": "cdce911b57347c321e9d7cc96d64d3878497d56af0f8bbfd9b6353a2cb1073b8",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

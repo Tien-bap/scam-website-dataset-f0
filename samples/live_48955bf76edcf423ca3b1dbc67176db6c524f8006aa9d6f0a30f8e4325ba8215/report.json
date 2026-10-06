@@ -1,0 +1,240 @@
+{
+  "candidate_id": "live_48955bf76edcf423ca3b1dbc67176db6c524f8006aa9d6f0a30f8e4325ba8215",
+  "candidate_sha256": "41786bc59fc3ddfab3050cf7f10922236c1be8e9ca399f647d1452c5e91dc3f9",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://vn-loan.com",
+  "requested_url": "https://vn-loan.com",
+  "browser_final_url": "https://vn-loan.com/",
+  "source_urls": [
+    "https://vn-loan.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1032,
+      "source_url": "https://vn-loan.com",
+      "source_hostname": "vn-loan.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://vn-loan.com",
+      "final_hostname": "vn-loan.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 62913,
+      "elapsed_ms": 787,
+      "checked_at": "2026-10-05T12:18:17.791864+00:00",
+      "error": null,
+      "normalized_source_url": "https://vn-loan.com/",
+      "normalized_final_url": "https://vn-loan.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_48955bf76edcf423ca3b1dbc67176db6c524f8006aa9d6f0a30f8e4325ba8215",
+    "representative_source_index": 1032,
+    "representative_source_url": "https://vn-loan.com",
+    "representative_final_url": "https://vn-loan.com",
+    "normalized_final_url": "https://vn-loan.com/",
+    "source_hostname": "vn-loan.com",
+    "final_hostname": "vn-loan.com",
+    "source_urls": [
+      "https://vn-loan.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 1032,
+        "source_url": "https://vn-loan.com",
+        "source_hostname": "vn-loan.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://vn-loan.com",
+        "final_hostname": "vn-loan.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 62913,
+        "elapsed_ms": 787,
+        "checked_at": "2026-10-05T12:18:17.791864+00:00",
+        "error": null,
+        "normalized_source_url": "https://vn-loan.com/",
+        "normalized_final_url": "https://vn-loan.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "commit_salvaged",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "VN Loan",
+  "capture_timestamp": "2026-10-06T02:42:16.580848+00:00",
+  "dom_chars": 60534,
+  "screenshot_bytes": 580145,
+  "dom_sha256": "411b6e10ba11f9b6674cc72f9ad5d1ee1afba36a1947fa2620765fc4dfa0a448",
+  "screenshot_sha256": "831d70c4b7ea31e7ea5cdf4b15cf22a13a07ec2d007f0d4f127919b23ca0834f",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://vn-loan.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://vn-loan.com",
+    "browser_final_url": "https://vn-loan.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 59,
+    "method": 11
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "dom_source": "rendered",
+  "recovery_strategy": "commit_fallback",
+  "timeline": [
+    {
+      "event": "context created",
+      "timestamp": "2026-10-06T02:42:16.590811+00:00",
+      "elapsed_ms": 12
+    },
+    {
+      "event": "goto(commit) start",
+      "timestamp": "2026-10-06T02:42:16.672969+00:00",
+      "elapsed_ms": 94
+    },
+    {
+      "event": "HTTP response: 200 https://vn-loan.com/",
+      "timestamp": "2026-10-06T02:42:17.239509+00:00",
+      "elapsed_ms": 661
+    },
+    {
+      "event": "response committed",
+      "timestamp": "2026-10-06T02:42:17.254522+00:00",
+      "elapsed_ms": 676
+    },
+    {
+      "event": "goto end: commit_failed",
+      "timestamp": "2026-10-06T02:42:17.254547+00:00",
+      "elapsed_ms": 676
+    },
+    {
+      "event": "settle start",
+      "timestamp": "2026-10-06T02:42:17.254561+00:00",
+      "elapsed_ms": 676
+    },
+    {
+      "event": "settle end",
+      "timestamp": "2026-10-06T02:42:21.256481+00:00",
+      "elapsed_ms": 4678
+    },
+    {
+      "event": "page.url: https://vn-loan.com/ HTTP: 200",
+      "timestamp": "2026-10-06T02:42:21.257949+00:00",
+      "elapsed_ms": 4679
+    },
+    {
+      "event": "title start",
+      "timestamp": "2026-10-06T02:42:21.257974+00:00",
+      "elapsed_ms": 4679
+    },
+    {
+      "event": "title end",
+      "timestamp": "2026-10-06T02:42:21.262624+00:00",
+      "elapsed_ms": 4684
+    },
+    {
+      "event": "content start",
+      "timestamp": "2026-10-06T02:42:21.262646+00:00",
+      "elapsed_ms": 4684
+    },
+    {
+      "event": "content end",
+      "timestamp": "2026-10-06T02:42:21.274284+00:00",
+      "elapsed_ms": 4695
+    },
+    {
+      "event": "screenshot start",
+      "timestamp": "2026-10-06T02:42:21.274407+00:00",
+      "elapsed_ms": 4696
+    },
+    {
+      "event": "screenshot end",
+      "timestamp": "2026-10-06T02:42:21.452558+00:00",
+      "elapsed_ms": 4874
+    },
+    {
+      "event": "context close start",
+      "timestamp": "2026-10-06T02:42:21.496797+00:00",
+      "elapsed_ms": 4918
+    },
+    {
+      "event": "context close end",
+      "timestamp": "2026-10-06T02:42:21.509793+00:00",
+      "elapsed_ms": 4931
+    }
+  ],
+  "artifact_errors": [],
+  "elapsed_ms": 4931,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T16:37:47.972072+00:00",
+    "previous_report_sha256": "8aa18205aebeb688c88d49f14a82da2ea3e9c87c2c0906190785eb8d85016598",
+    "recovered_at": "2026-10-06T02:42:16.580848+00:00",
+    "result": "commit_salvaged"
+  }
+}

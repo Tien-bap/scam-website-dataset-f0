@@ -1,0 +1,326 @@
+<!DOCTYPE html><html lang="vi"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CLMM Blog: Quản Lý Chi Tiêu &amp; Tài Chính Cá Nhân Thông Minh</title>
+<meta name="description" content="Blog tài chính cá nhân CLMM: hướng dẫn quản lý chi tiêu, dùng ví điện tử an toàn, thanh toán không tiền mặt và xây quỹ tiết kiệm cho người Việt.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="author" content="CLMM Blog">
+<link rel="canonical" href="https://clmm.cam/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="CLMM Blog">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:title" content="CLMM Blog: Quản Lý Chi Tiêu &amp; Tài Chính Cá Nhân Thông Minh">
+<meta property="og:description" content="Hướng dẫn quản lý chi tiêu, dùng ví điện tử an toàn và xây quỹ tiết kiệm cho người Việt.">
+<meta property="og:url" content="https://clmm.cam/">
+<meta property="og:image" content="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=modern%20flat%20illustration%20of%20personal%20finance%20planning%2C%20notebook%20calculator%20coins%20and%20smartphone%20wallet%20app%2C%20soft%20green%20and%20white%20palette%2C%20clean%20editorial%20style&amp;image_size=landscape_16_9">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="CLMM Blog: Quản Lý Chi Tiêu &amp; Tài Chính Cá Nhân">
+<meta name="twitter:description" content="Kiến thức tài chính cá nhân thực tế, dễ áp dụng cho người Việt.">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://clmm.cam/#website",
+      "url": "https://clmm.cam/",
+      "name": "CLMM Blog",
+      "inLanguage": "vi-VN",
+      "description": "Blog tài chính cá nhân dành cho người Việt.",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://clmm.cam/tim-kiem?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Blog",
+      "@id": "https://clmm.cam/#blog",
+      "url": "https://clmm.cam/",
+      "name": "CLMM Blog",
+      "isPartOf": { "@id": "https://clmm.cam/#website" }
+    }
+  ]
+}
+</script>
+<style>
+:root{
+  --bg:#ffffff; --ink:#12211a; --muted:#5b6b63;
+  --brand:#0f7a52; --brand-dark:#0a5e3f; --line:#e2eae6; --soft:#f4f8f6;
+  --wrap:1120px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+img{max-width:100%; height:auto; display:block}
+a{color:var(--brand-dark); text-decoration:none}
+a:hover{text-decoration:underline}
+a:focus-visible,button:focus-visible{outline:3px solid var(--brand); outline-offset:2px; border-radius:4px}
+.wrap{max-width:var(--wrap); margin:0 auto; padding:0 20px}
+.skip{position:absolute; left:-9999px}
+.skip:focus{left:12px; top:12px; z-index:99; background:#fff; padding:10px 14px; border:2px solid var(--brand)}
+
+.site-header{border-bottom:1px solid var(--line); background:#fff; position:sticky; top:0; z-index:20}
+.hdr{display:flex; align-items:center; justify-content:space-between; gap:16px; min-height:66px}
+.logo{font-weight:800; font-size:1.2rem; letter-spacing:-.02em; color:var(--ink)}
+.logo span{color:var(--brand)}
+.nav ul{display:flex; gap:22px; list-style:none; margin:0; padding:0; flex-wrap:wrap}
+.nav a{color:var(--muted); font-size:.94rem; font-weight:500}
+.nav a:hover,.nav a[aria-current="page"]{color:var(--brand-dark)}
+
+.hero{background:var(--soft); border-bottom:1px solid var(--line); padding:56px 0}
+.hero-grid{display:grid; grid-template-columns:1.05fr .95fr; gap:44px; align-items:center}
+.hero h1{font-size:2.3rem; line-height:1.22; margin:0 0 14px; letter-spacing:-.02em}
+.hero p{color:var(--muted); font-size:1.05rem; margin:0 0 22px}
+.btn{display:inline-block; background:var(--brand); color:#fff; padding:12px 22px; border-radius:8px; font-weight:600}
+.btn:hover{background:var(--brand-dark); text-decoration:none}
+.hero img{border-radius:14px; box-shadow:0 12px 34px rgba(12,60,42,.13)}
+
+.layout{display:grid; grid-template-columns:minmax(0,1fr) 320px; gap:48px; padding:56px 0}
+h2{font-size:1.6rem; margin:0 0 6px; letter-spacing:-.01em}
+h3{font-size:1.12rem; margin:0 0 8px; line-height:1.4}
+.sec-note{color:var(--muted); margin:0 0 26px; font-size:.96rem}
+section+section{margin-top:52px}
+
+.cards{display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:26px; list-style:none; margin:0; padding:0}
+.card{border:1px solid var(--line); border-radius:12px; overflow:hidden; display:flex; flex-direction:column; background:#fff}
+.card img{aspect-ratio:16/9; object-fit:cover}
+.card-body{padding:18px; display:flex; flex-direction:column; gap:8px; flex:1}
+.tag{align-self:flex-start; background:var(--soft); color:var(--brand-dark); font-size:.74rem; font-weight:700; text-transform:uppercase; letter-spacing:.05em; padding:4px 10px; border-radius:99px}
+.card p{margin:0; color:var(--muted); font-size:.93rem}
+.meta{font-size:.82rem; color:var(--muted); margin-top:auto}
+
+.guides{list-style:none; margin:0; padding:0; display:grid; gap:14px}
+.guides li{border-left:3px solid var(--brand); background:var(--soft); padding:14px 18px; border-radius:0 8px 8px 0}
+.guides a{font-weight:600}
+.guides p{margin:4px 0 0; color:var(--muted); font-size:.9rem}
+
+.sidebar{display:grid; gap:28px; align-content:start}
+.widget{border:1px solid var(--line); border-radius:12px; padding:20px}
+.widget h2{font-size:1.05rem; margin-bottom:12px}
+.widget ul{list-style:none; margin:0; padding:0; display:grid; gap:10px}
+.widget li{font-size:.92rem; padding-bottom:10px; border-bottom:1px solid var(--line)}
+.widget li:last-child{border-bottom:0; padding-bottom:0}
+.topics{display:flex; flex-wrap:wrap; gap:8px}
+.topics a{background:var(--soft); padding:6px 12px; border-radius:99px; font-size:.85rem; font-weight:500}
+
+.site-footer{background:#0d2b20; color:#c9ded5; padding:44px 0 26px; margin-top:24px}
+.foot-grid{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:32px}
+.site-footer h2{font-size:1rem; color:#fff; margin-bottom:12px}
+.site-footer a{color:#c9ded5; font-size:.92rem}
+.site-footer a:hover{color:#fff}
+.site-footer ul{list-style:none; margin:0; padding:0; display:grid; gap:8px}
+.copyright{border-top:1px solid #1d4436; margin-top:32px; padding-top:18px; font-size:.86rem}
+
+@media (max-width:900px){
+  .hero-grid,.layout,.cards,.foot-grid{grid-template-columns:1fr}
+  .hero{padding:40px 0}
+  .hero h1{font-size:1.85rem}
+  .layout{gap:44px; padding:40px 0}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Bỏ qua và tới nội dung chính</a>
+
+<header class="site-header">
+  <div class="wrap hdr">
+    <a class="logo" href="/">CLMM<span>.cam</span></a>
+    <nav class="nav" aria-label="Điều hướng chính">
+      <ul>
+        <li><a href="/" aria-current="page">Trang chủ</a></li>
+        <li><a href="/quan-ly-chi-tieu/">Quản lý chi tiêu</a></li>
+        <li><a href="/vi-dien-tu/">Ví điện tử</a></li>
+        <li><a href="/tiet-kiem/">Tiết kiệm</a></li>
+        <li><a href="/dau-tu-co-ban/">Đầu tư cơ bản</a></li>
+        <li><a href="/ve-chung-toi/">Về chúng tôi</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero" aria-labelledby="hero-title">
+  <div class="wrap hero-grid">
+    <div>
+      <h1 id="hero-title">Quản lý chi tiêu và tài chính cá nhân, bắt đầu từ những con số nhỏ</h1>
+      <p>CLMM Blog chia sẻ cách lập ngân sách, dùng ví điện tử an toàn và xây quỹ dự phòng bằng phương pháp đơn giản, áp dụng được ngay với thu nhập thực tế của người Việt.</p>
+      <a class="btn" href="https://gamebank.me/" target="_blank" rel="nofollow">Chơi Ngay</a>
+    </div>
+    <img src="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=modern%20flat%20illustration%20of%20personal%20finance%20planning%2C%20notebook%20with%20budget%20chart%2C%20calculator%2C%20coins%20and%20smartphone%20wallet%20app%2C%20soft%20green%20and%20white%20palette%2C%20clean%20editorial%20style&amp;image_size=landscape_4_3" width="760" height="570" alt="Minh họa lập kế hoạch tài chính cá nhân với sổ ngân sách, máy tính và ứng dụng ví điện tử trên điện thoại">
+  </div>
+</section>
+
+<div class="wrap layout">
+  <main id="main">
+    <section id="bai-moi" aria-labelledby="bai-moi-title">
+      <h2 id="bai-moi-title">Bài viết mới nhất</h2>
+      <p class="sec-note">Kiến thức tài chính cá nhân được cập nhật hằng tuần, tập trung vào việc bạn có thể làm ngay hôm nay.</p>
+
+      <ul class="cards">
+        <li class="card">
+          <img src="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=flat%20illustration%20of%20monthly%20budget%20planning%20with%20six%20labeled%20jars%20for%20money%20allocation%2C%20green%20and%20cream%20palette%2C%20minimal%20editorial%20style&amp;image_size=landscape_16_9" width="560" height="315" loading="lazy" alt="Minh họa phương pháp chia thu nhập vào sáu chiếc lọ ngân sách">
+          <div class="card-body">
+            <span class="tag">Quản lý chi tiêu</span>
+            <h3><a href="/quan-ly-chi-tieu/phuong-phap-6-chiec-lo/">Phương pháp 6 chiếc lọ: chia thu nhập sao cho không bị âm cuối tháng</a></h3>
+            <p>Cách phân bổ tỷ lệ phù hợp khi thu nhập chưa cao, kèm ví dụ tính toán cụ thể theo mức lương 10 triệu đồng.</p>
+            <p class="meta"><time datetime="2026-08-18">18/08/2026</time> · 9 phút đọc</p>
+          </div>
+        </li>
+
+        <li class="card">
+          <img src="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=flat%20illustration%20of%20secure%20mobile%20e-wallet%20payment%20with%20shield%20lock%20icon%20and%20smartphone%20QR%20code%2C%20green%20and%20white%20palette%2C%20minimal%20editorial%20style&amp;image_size=landscape_16_9" width="560" height="315" loading="lazy" alt="Minh họa thanh toán ví điện tử an toàn với biểu tượng khiên bảo mật và mã QR">
+          <div class="card-body">
+            <span class="tag">Ví điện tử</span>
+            <h3><a href="/vi-dien-tu/bao-mat-tai-khoan-vi-dien-tu/">7 thiết lập bảo mật cần bật ngay trên ví điện tử của bạn</a></h3>
+            <p>Từ xác thực hai lớp tới hạn mức giao dịch, đây là những thiết lập giúp giảm rủi ro mất tiền khi mất điện thoại.</p>
+            <p class="meta"><time datetime="2026-08-14">14/08/2026</time> · 7 phút đọc</p>
+          </div>
+        </li>
+
+        <li class="card">
+          <img src="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=flat%20illustration%20of%20emergency%20savings%20fund%20growing%2C%20piggy%20bank%20with%20upward%20arrow%20and%20calendar%2C%20soft%20green%20cream%20palette%2C%20minimal%20editorial%20style&amp;image_size=landscape_16_9" width="560" height="315" loading="lazy" alt="Minh họa quỹ dự phòng tăng trưởng với heo đất và mũi tên đi lên">
+          <div class="card-body">
+            <span class="tag">Tiết kiệm</span>
+            <h3><a href="/tiet-kiem/quy-du-phong-3-6-thang/">Quỹ dự phòng 3–6 tháng: cần bao nhiêu và gửi ở đâu?</a></h3>
+            <p>Công thức tính số tiền dự phòng theo chi phí sống thật, cùng so sánh các kênh giữ tiền có thanh khoản cao.</p>
+            <p class="meta"><time datetime="2026-08-09">09/08/2026</time> · 8 phút đọc</p>
+          </div>
+        </li>
+
+        <li class="card">
+          <img src="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=flat%20illustration%20of%20debt%20repayment%20strategy%2C%20descending%20stack%20of%20coins%20with%20checklist%20and%20pen%2C%20green%20and%20white%20palette%2C%20minimal%20editorial%20style&amp;image_size=landscape_16_9" width="560" height="315" loading="lazy" alt="Minh họa chiến lược trả nợ với cột tiền giảm dần và danh sách kiểm tra">
+          <div class="card-body">
+            <span class="tag">Quản lý nợ</span>
+            <h3><a href="/quan-ly-chi-tieu/tra-no-the-tin-dung/">Trả nợ thẻ tín dụng: chọn phương pháp snowball hay avalanche?</a></h3>
+            <p>So sánh hai chiến lược trả nợ phổ biến và cách chọn phương án phù hợp với tâm lý chi tiêu của bạn.</p>
+            <p class="meta"><time datetime="2026-08-04">04/08/2026</time> · 10 phút đọc</p>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="huong-dan">
+      <h2 id="huong-dan">Hướng dẫn nền tảng cho người mới</h2>
+      <p class="sec-note">Nếu bạn mới bắt đầu quản lý tài chính cá nhân, hãy đọc bốn bài này theo thứ tự.</p>
+      <ol class="guides">
+        <li>
+          <a href="/quan-ly-chi-tieu/ghi-chep-chi-tieu/">Bước 1: Ghi chép chi tiêu trong 30 ngày đầu</a>
+          <p>Biết tiền đi đâu là điều kiện bắt buộc trước khi lập bất kỳ ngân sách nào.</p>
+        </li>
+        <li>
+          <a href="/quan-ly-chi-tieu/lap-ngan-sach-50-30-20/">Bước 2: Lập ngân sách theo quy tắc 50/30/20</a>
+          <p>Chia nhu cầu thiết yếu, mong muốn và tiết kiệm bằng một khung đơn giản, dễ duy trì.</p>
+        </li>
+        <li>
+          <a href="/tiet-kiem/tu-dong-hoa-tiet-kiem/">Bước 3: Tự động hóa việc tiết kiệm</a>
+          <p>Thiết lập chuyển tiền định kỳ ngay sau ngày nhận lương để tiết kiệm không phụ thuộc ý chí.</p>
+        </li>
+        <li>
+          <a href="/dau-tu-co-ban/bat-dau-dau-tu-an-toan/">Bước 4: Tìm hiểu đầu tư sau khi đã có quỹ dự phòng</a>
+          <p>Nguyên tắc phân bổ rủi ro và các dấu hiệu nhận biết lời mời đầu tư không đáng tin.</p>
+        </li>
+      </ol>
+    </section>
+
+    <section aria-labelledby="chu-de">
+      <h2 id="chu-de">Chuyên mục chính</h2>
+      <p class="sec-note">Duyệt theo chủ đề bạn đang quan tâm.</p>
+      <ul class="cards">
+        <li class="card">
+          <div class="card-body">
+            <h3><a href="/quan-ly-chi-tieu/">Quản lý chi tiêu</a></h3>
+            <p>Ngân sách hằng tháng, theo dõi dòng tiền, cắt giảm chi phí không cần thiết và xử lý nợ.</p>
+          </div>
+        </li>
+        <li class="card">
+          <div class="card-body">
+            <h3><a href="/vi-dien-tu/">Ví điện tử &amp; thanh toán không tiền mặt</a></h3>
+            <p>So sánh tính năng, phí giao dịch, thiết lập bảo mật và cách xử lý khi giao dịch gặp lỗi.</p>
+          </div>
+        </li>
+        <li class="card">
+          <div class="card-body">
+            <h3><a href="/tiet-kiem/">Tiết kiệm</a></h3>
+            <p>Quỹ dự phòng, tiết kiệm theo mục tiêu và các phương pháp duy trì thói quen dài hạn.</p>
+          </div>
+        </li>
+        <li class="card">
+          <div class="card-body">
+            <h3><a href="/dau-tu-co-ban/">Đầu tư cơ bản</a></h3>
+            <p>Khái niệm nền tảng về lãi suất, lạm phát, phân bổ tài sản và quản trị rủi ro.</p>
+          </div>
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <aside class="sidebar" aria-label="Nội dung bổ trợ">
+    <section class="widget" aria-labelledby="pho-bien">
+      <h2 id="pho-bien">Bài viết được đọc nhiều</h2>
+      <ul>
+        <li><a href="/quan-ly-chi-tieu/lap-ngan-sach-50-30-20/">Quy tắc ngân sách 50/30/20 giải thích bằng ví dụ thật</a></li>
+        <li><a href="/vi-dien-tu/so-sanh-phi-giao-dich/">So sánh phí giao dịch giữa các ví điện tử phổ biến</a></li>
+        <li><a href="/tiet-kiem/tiet-kiem-khi-thu-nhap-thap/">Tiết kiệm thế nào khi thu nhập dưới 8 triệu đồng?</a></li>
+        <li><a href="/dau-tu-co-ban/lam-phat-anh-huong-tien-tiet-kiem/">Lạm phát ăn mòn tiền tiết kiệm của bạn ra sao?</a></li>
+      </ul>
+    </section>
+
+    <section class="widget" aria-labelledby="tu-khoa">
+      <h2 id="tu-khoa">Chủ đề quan tâm</h2>
+      <div class="topics">
+        <a href="/chu-de/ngan-sach/">ngân sách</a>
+        <a href="/chu-de/quy-du-phong/">quỹ dự phòng</a>
+        <a href="/chu-de/vi-dien-tu/">ví điện tử</a>
+        <a href="/chu-de/tra-no/">trả nợ</a>
+        <a href="/chu-de/lai-suat/">lãi suất</a>
+        <a href="/chu-de/thoi-quen-tai-chinh/">thói quen tài chính</a>
+      </div>
+    </section>
+
+    <section class="widget" aria-labelledby="luu-y">
+      <h2 id="luu-y">Lưu ý quan trọng</h2>
+      <p style="margin:0; color:var(--muted); font-size:.92rem">Nội dung trên CLMM Blog mang tính tham khảo, không phải lời khuyên đầu tư. Hãy đối chiếu với tình hình tài chính cá nhân trước khi ra quyết định. Xem thêm <a href="/mien-tru-trach-nhiem/">tuyên bố miễn trừ trách nhiệm</a>.</p>
+    </section>
+  </aside>
+</div>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <section aria-labelledby="ft-about">
+        <h2 id="ft-about">Về CLMM Blog</h2>
+        <p style="margin:0; font-size:.92rem">Blog tài chính cá nhân dành cho người Việt, tập trung vào kiến thức thực tế về quản lý chi tiêu, tiết kiệm và thanh toán an toàn.</p>
+      </section>
+      <nav aria-labelledby="ft-nav">
+        <h2 id="ft-nav">Chuyên mục</h2>
+        <ul>
+          <li><a href="/quan-ly-chi-tieu/">Quản lý chi tiêu</a></li>
+          <li><a href="/vi-dien-tu/">Ví điện tử</a></li>
+          <li><a href="/tiet-kiem/">Tiết kiệm</a></li>
+          <li><a href="/dau-tu-co-ban/">Đầu tư cơ bản</a></li>
+        </ul>
+      </nav>
+      <nav aria-labelledby="ft-info">
+        <h2 id="ft-info">Thông tin</h2>
+        <ul>
+          <li><a href="/ve-chung-toi/">Về chúng tôi</a></li>
+          <li><a href="/lien-he/">Liên hệ</a></li>
+          <li><a href="/chinh-sach-bao-mat/">Chính sách bảo mật</a></li>
+          <li><a href="/mien-tru-trach-nhiem/">Miễn trừ trách nhiệm</a></li>
+          <li><a href="/sitemap.xml">Sitemap</a></li>
+          <li><a href="https://gamebank.me" target="_blank" rel="nofollow noopener">GameBank.me (link ngoài)</a></li>
+        </ul>
+      </nav>
+    </div>
+    <p class="copyright">© 2026 CLMM Blog. Nội dung chỉ mang tính tham khảo, không phải lời khuyên tài chính.</p>
+  </div>
+</footer>
+
+
+</body></html>

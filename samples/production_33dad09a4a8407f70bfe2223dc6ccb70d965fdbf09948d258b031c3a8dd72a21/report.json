@@ -1,0 +1,27 @@
+{
+  "original_url": "https://appurl.io/0uQMKOR5oK",
+  "hostname": "appurl.io",
+  "checked_at": "2026-10-04T16:03:03.753147+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 9,
+  "candidates_checked": 3,
+  "selected_scan_uuid": "01a0f655-1390-723e-95e9-93e15576d170",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-01T07:20:07.477Z",
+  "scan_original_url": "https://appurl.io/nwxp7qwDjU",
+  "final_url": "https://appurl.io/nwxp7qwDjU",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 72517,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.388,
+  "discovery": {
+    "batch_id": "94a7501fc1d5180c9e70de7001260fe2fd424bd843eedc418ba1e309a2f8a901",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

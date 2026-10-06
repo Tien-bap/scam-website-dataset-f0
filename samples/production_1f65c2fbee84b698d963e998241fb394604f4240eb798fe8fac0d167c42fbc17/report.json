@@ -1,0 +1,27 @@
+{
+  "original_url": "https://fspestcontrol.com/newfile/office2020/office",
+  "hostname": "fspestcontrol.com",
+  "checked_at": "2026-10-04T15:06:05.191657+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0bb1f-5f57-7744-9081-27cfd8ffd9bf",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-19T19:23:17.246Z",
+  "scan_original_url": "https://fspestcontrol.com/",
+  "final_url": "https://fspestcontrol.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 501,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.114,
+  "discovery": {
+    "batch_id": "d6e5bd4588db63579917c9c2792138ba39b3ac09d6f6c297df094b04f6497dae",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

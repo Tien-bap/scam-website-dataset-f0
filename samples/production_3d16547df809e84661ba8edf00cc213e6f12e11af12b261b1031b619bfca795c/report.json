@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.officences.com/eur/login?id=dGw0bHVyQm5mZ1c5emZKWkFac2d4eTdqZFFqZUw2NWxhVW5wcXp3dTQ4VnVNK3VPV295cWNOSTE3dG1HbTJDLzlSWHMxSUN2QUJKaTQzaFZGdTE4eUJLTFIrbW9FTGQ4YS93NHRMVEVJRUptaVpRdnpwN0xySGZxUUFFc25jUlZlcExRRU0rajJrQnNDN1RIN1RISWg4dEJFc0U3RHZlZU5ua2lLeVhGcUZDMFhhd0J4M2FQc3pLNkJOWm5QVU5WTGg0eTdXWktXaVU3STB1RzdZWjY1NlNlUi9jREhpd1BMNXEvN0IvTWJkSCt3SUEyVWlWUWZTS1orU3N6S3RoaFhKWHU0eE43dExlZVk3WGZBbFZEK3RQNmsrQTBjcmNOT0tJazM5NVUvUCtNMzJiUEpZYVRUeEJEaW05OS9sSG0",
+  "hostname": "www.officences.com",
+  "checked_at": "2026-10-04T14:17:20.588917+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 17,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0f52f-28d2-74db-a2ea-7bc97c8f6185",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-01T01:58:33.298Z",
+  "scan_original_url": "https://www.officences.com/lam/ccd25372-eb59-436a-ad74-78a49d784cf3/22d18b36-4639-418c-9502-d68a69127e54/5510a9d0-01b1-467d-b895-cccb2ef06ee4/login?id=Z09SQUtPbFVhOFA5OWhMdS9hQU91SWlQQVJ0Y0IwYW41MHphMnN6WVYxRC9pQmw4VjRWalJlM3NTUlZEaXZsdml4MUs1bTdtR0JuaFRkZXJYaE81U25vdVhzNTh3c3hXUXRtMjJOc2RhbmVsNnVZcVQzR1FYUlRnOCtBMy9DcmVqdTFmR1lzU0ptOXA3YXphcG0xZ2ZRcFkySUtJQXZDTS9yWlBRQkJBc3JibGxpc1FqLzAwS1NyV0hvTTNjVkhWTWVSUjlkcGJuWlZyV1hrRXErb0dxcnhnMmM0bDJlLzZZK2Y0QWxJbjE0NWhtOC9sRis4ZjFJQUZKZndCb2wwTlNJVFIxSWJ4YVdESklMT2RsZHpKN2gwdlRPL05QVHFhTlRGaTFCZ0lsQUFGZEZtQ2tkWjBIRllnT1ZpNzJTSExyMEpNWENaWlNPdnFnajFYVnVueTQ0YmJrc1Z4a081L1lTdHo5SVozZGdRYXlFdFp1OUZSNnBqSDh6amtocFUzMzF4T1NyUEZpb1lEbjBMODNvZFBvV1I5ZlhjVDVkNDBCUVU4azlRa0JWUUxzV01ldWEzN3luMFBxWUoyZVZJOA",
+  "final_url": "https://www.officences.com/lam/ccd25372-eb59-436a-ad74-78a49d784cf3/22d18b36-4639-418c-9502-d68a69127e54/5510a9d0-01b1-467d-b895-cccb2ef06ee4/login?id=Z09SQUtPbFVhOFA5OWhMdS9hQU91SWlQQVJ0Y0IwYW41MHphMnN6WVYxRC9pQmw4VjRWalJlM3NTUlZEaXZsdml4MUs1bTdtR0JuaFRkZXJYaE81U25vdVhzNTh3c3hXUXRtMjJOc2RhbmVsNnVZcVQzR1FYUlRnOCtBMy9DcmVqdTFmR1lzU0ptOXA3YXphcG0xZ2ZRcFkySUtJQXZDTS9yWlBRQkJBc3JibGxpc1FqLzAwS1NyV0hvTTNjVkhWTWVSUjlkcGJuWlZyV1hrRXErb0dxcnhnMmM0bDJlLzZZK2Y0QWxJbjE0NWhtOC9sRis4ZjFJQUZKZndCb2wwTlNJVFIxSWJ4YVdESklMT2RsZHpKN2gwdlRPL05QVHFhTlRGaTFCZ0lsQUFGZEZtQ2tkWjBIRllnT1ZpNzJTSExyMEpNWENaWlNPdnFnajFYVnVueTQ0YmJrc1Z4a081L1lTdHo5SVozZGdRYXlFdFp1OUZSNnBqSDh6amtocFUzMzF4T1NyUEZpb1lEbjBMODNvZFBvV1I5ZlhjVDVkNDBCUVU4azlRa0JWUUxzV01ldWEzN3luMFBxWUoyZVZJOA",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 133,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.041,
+  "discovery": {
+    "batch_id": "77964bb45ae20c2a425531c50dbdb85b640603a7e8f6d8107aa181000553596f",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

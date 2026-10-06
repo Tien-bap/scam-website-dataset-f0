@@ -1,0 +1,27 @@
+{
+  "original_url": "https://muaacccf.com",
+  "hostname": "muaacccf.com",
+  "checked_at": "2026-10-04T13:34:36.183934+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a02823-1032-733a-a015-c0172da4fddb",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-08-22T06:23:11.755Z",
+  "scan_original_url": "https://gamecf.net/",
+  "final_url": "https://muaacccf.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2039,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.682,
+  "discovery": {
+    "batch_id": "88304fb32f971f030fd79a69b918e4299d2346f58e8160995c7f9b315ba5e2b9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://edupartner.co.in/new/Priv8/Priv8/index.html",
+  "hostname": "edupartner.co.in",
+  "checked_at": "2026-10-04T14:00:23.543034+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fccbd-be27-7239-b3ef-5d9a0988b0f2",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-04T12:27:02.120Z",
+  "scan_original_url": "http://edupartner.co.in/",
+  "final_url": "https://www.edupartner.co.in/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4362,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.784,
+  "discovery": {
+    "batch_id": "d99bf168f94b051117efa029231ebf93236c262282d6836b518c7b33d1766440",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

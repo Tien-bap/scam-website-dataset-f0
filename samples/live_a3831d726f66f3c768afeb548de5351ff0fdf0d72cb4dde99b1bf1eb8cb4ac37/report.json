@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_a3831d726f66f3c768afeb548de5351ff0fdf0d72cb4dde99b1bf1eb8cb4ac37",
+  "candidate_sha256": "6a7550b8938ae076614c2621e5a784e01b8cde0fba939827eb4d5c4ffd42baf9",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://thienhabet.sbs",
+  "requested_url": "https://mrfiscalidad.com.mx/",
+  "browser_final_url": "https://mrfiscalidad.com.mx/",
+  "source_urls": [
+    "https://thienhabet.sbs"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1730,
+      "source_url": "https://thienhabet.sbs",
+      "source_hostname": "thienhabet.sbs",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://mrfiscalidad.com.mx/",
+      "final_hostname": "mrfiscalidad.com.mx",
+      "redirect_count": 5,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3304,
+      "checked_at": "2026-10-05T12:19:06.100613+00:00",
+      "error": null,
+      "normalized_source_url": "https://thienhabet.sbs/",
+      "normalized_final_url": "https://mrfiscalidad.com.mx/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_a3831d726f66f3c768afeb548de5351ff0fdf0d72cb4dde99b1bf1eb8cb4ac37",
+    "representative_source_index": 1730,
+    "representative_source_url": "https://thienhabet.sbs",
+    "representative_final_url": "https://mrfiscalidad.com.mx/",
+    "normalized_final_url": "https://mrfiscalidad.com.mx/",
+    "source_hostname": "thienhabet.sbs",
+    "final_hostname": "mrfiscalidad.com.mx",
+    "source_urls": [
+      "https://thienhabet.sbs"
+    ],
+    "provenance": [
+      {
+        "source_index": 1730,
+        "source_url": "https://thienhabet.sbs",
+        "source_hostname": "thienhabet.sbs",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://mrfiscalidad.com.mx/",
+        "final_hostname": "mrfiscalidad.com.mx",
+        "redirect_count": 5,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3304,
+        "checked_at": "2026-10-05T12:19:06.100613+00:00",
+        "error": null,
+        "normalized_source_url": "https://thienhabet.sbs/",
+        "normalized_final_url": "https://mrfiscalidad.com.mx/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 5,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "TD88 - Điểm Đến Nhà Cái Giải Trí Đỉnh Cao TD88.COM",
+  "capture_timestamp": "2026-10-05T14:51:27.370632+00:00",
+  "dom_chars": 123329,
+  "screenshot_bytes": 622352,
+  "dom_sha256": "0a9443d36eb7286c01df0e8f8fbee5dae636dcd195ba81e472061c28a184c409",
+  "screenshot_sha256": "75a0cdf2e6265f16e3c5435eb42fc5b1cc5c8324340cbc9628a9c655303456f3",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://mrfiscalidad.com.mx/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://mrfiscalidad.com.mx/",
+    "browser_final_url": "https://mrfiscalidad.com.mx/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 5,
+    "method": 5
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5161
+}

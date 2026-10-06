@@ -1,0 +1,211 @@
+{
+  "candidate_id": "live_e3c8c8a1d059c9cc45c3a540388e054573bd6fb10fc3001dbc9e4d6e1de6ab73",
+  "candidate_sha256": "608a123bc0c43ee7a7b3d42ac3c5fb34f63381c225516152b88e6464a4409dd4",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://lfaires.github.io/Instagram/",
+  "requested_url": "https://lfaires.github.io/Instagram/",
+  "browser_final_url": "https://lfaires.github.io/Instagram/",
+  "source_urls": [
+    "http://lfaires.github.io/Instagram/",
+    "https://lfaires.github.io/Instagram/"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 89971,
+      "source_url": "https://lfaires.github.io/Instagram/",
+      "source_hostname": "lfaires.github.io",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://lfaires.github.io/Instagram/",
+      "final_hostname": "lfaires.github.io",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 9480,
+      "elapsed_ms": 2082,
+      "checked_at": "2026-10-05T13:16:15.684754+00:00",
+      "error": null,
+      "normalized_source_url": "https://lfaires.github.io/Instagram/",
+      "normalized_final_url": "https://lfaires.github.io/Instagram/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 114627,
+      "source_url": "http://lfaires.github.io/Instagram/",
+      "source_hostname": "lfaires.github.io",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://lfaires.github.io/Instagram/",
+      "final_hostname": "lfaires.github.io",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 9480,
+      "elapsed_ms": 541,
+      "checked_at": "2026-10-05T13:17:49.377076+00:00",
+      "error": null,
+      "normalized_source_url": "http://lfaires.github.io/Instagram/",
+      "normalized_final_url": "https://lfaires.github.io/Instagram/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_e3c8c8a1d059c9cc45c3a540388e054573bd6fb10fc3001dbc9e4d6e1de6ab73",
+    "representative_source_index": 89971,
+    "representative_source_url": "https://lfaires.github.io/Instagram/",
+    "representative_final_url": "https://lfaires.github.io/Instagram/",
+    "normalized_final_url": "https://lfaires.github.io/Instagram/",
+    "source_hostname": "lfaires.github.io",
+    "final_hostname": "lfaires.github.io",
+    "source_urls": [
+      "http://lfaires.github.io/Instagram/",
+      "https://lfaires.github.io/Instagram/"
+    ],
+    "provenance": [
+      {
+        "source_index": 89971,
+        "source_url": "https://lfaires.github.io/Instagram/",
+        "source_hostname": "lfaires.github.io",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://lfaires.github.io/Instagram/",
+        "final_hostname": "lfaires.github.io",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 9480,
+        "elapsed_ms": 2082,
+        "checked_at": "2026-10-05T13:16:15.684754+00:00",
+        "error": null,
+        "normalized_source_url": "https://lfaires.github.io/Instagram/",
+        "normalized_final_url": "https://lfaires.github.io/Instagram/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 114627,
+        "source_url": "http://lfaires.github.io/Instagram/",
+        "source_hostname": "lfaires.github.io",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://lfaires.github.io/Instagram/",
+        "final_hostname": "lfaires.github.io",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 9480,
+        "elapsed_ms": 541,
+        "checked_at": "2026-10-05T13:17:49.377076+00:00",
+        "error": null,
+        "normalized_source_url": "http://lfaires.github.io/Instagram/",
+        "normalized_final_url": "https://lfaires.github.io/Instagram/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 2,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Instagram",
+  "capture_timestamp": "2026-10-05T14:59:06.019942+00:00",
+  "dom_chars": 10131,
+  "screenshot_bytes": 471534,
+  "dom_sha256": "f0a8d0e354b996ea21e4983124f6f9b97a614621700817fcc524d63f73fc7ded",
+  "screenshot_sha256": "aa9fe7d68f878cfcdb9dabd29e46cc875b3803a3f3fce3e947349087c2f84040",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://lfaires.github.io/Instagram/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://lfaires.github.io/Instagram/",
+    "browser_final_url": "https://lfaires.github.io/Instagram/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3340
+}

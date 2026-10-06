@@ -1,0 +1,27 @@
+{
+  "original_url": "https://s.id/zZTS3",
+  "hostname": "s.id",
+  "checked_at": "2026-10-04T14:21:08.102223+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 128,
+  "candidates_checked": 2,
+  "selected_scan_uuid": "01a0b370-12a9-7418-a60b-6e26b2a246ba",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-18T07:34:31.362Z",
+  "scan_original_url": "https://s.id/3UYU4",
+  "final_url": "https://s.id/3UYU4?a=confirm",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2562,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.708,
+  "discovery": {
+    "batch_id": "f2eac6e49bafe0e05e629be9896453a5fe62d688927c5c7ea11599956c2fd4a4",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

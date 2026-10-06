@@ -1,0 +1,27 @@
+{
+  "original_url": "http://fr.wikimini.org/.investment/.rejected.html",
+  "hostname": "fr.wikimini.org",
+  "checked_at": "2026-10-04T13:59:12.153762+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a09a92-ff82-7499-9134-7106ce7d17bb",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-13T11:42:10.156Z",
+  "scan_original_url": "http://fr.wikimini.org/",
+  "final_url": "https://fr.wikimini.org/wiki/Accueil",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1873,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.858,
+  "discovery": {
+    "batch_id": "c43182b6b97cb05163b34c7a7c277ea54cd0a37a2424754cf79f4d45cf6d4507",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

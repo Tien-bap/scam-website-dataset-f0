@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_3e686602ca4d51ceb0dc3ffa3d94976bd97e6b7fc49bf630f3a84e31b4afa1f3",
+  "candidate_sha256": "9081983f38b5e3b5c26c9528572808c988f1f404606cfd13f314b0d44c56cdfc",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "allh5.com",
+  "requested_url": "https://allh5.com",
+  "browser_final_url": "https://allh5.com/",
+  "source_urls": [
+    "allh5.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11359,
+      "source_url": "allh5.com",
+      "source_hostname": "allh5.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://allh5.com",
+      "final_hostname": "allh5.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 7733,
+      "elapsed_ms": 703,
+      "checked_at": "2026-10-05T12:41:45.219738+00:00",
+      "error": null,
+      "normalized_source_url": "https://allh5.com/",
+      "normalized_final_url": "https://allh5.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_3e686602ca4d51ceb0dc3ffa3d94976bd97e6b7fc49bf630f3a84e31b4afa1f3",
+    "representative_source_index": 11359,
+    "representative_source_url": "allh5.com",
+    "representative_final_url": "https://allh5.com",
+    "normalized_final_url": "https://allh5.com/",
+    "source_hostname": "allh5.com",
+    "final_hostname": "allh5.com",
+    "source_urls": [
+      "allh5.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 11359,
+        "source_url": "allh5.com",
+        "source_hostname": "allh5.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://allh5.com",
+        "final_hostname": "allh5.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 7733,
+        "elapsed_ms": 703,
+        "checked_at": "2026-10-05T12:41:45.219738+00:00",
+        "error": null,
+        "normalized_source_url": "https://allh5.com/",
+        "normalized_final_url": "https://allh5.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "AllH5 Games - Play Free Online Games",
+  "capture_timestamp": "2026-10-05T14:40:56.656695+00:00",
+  "dom_chars": 24135,
+  "screenshot_bytes": 58218,
+  "dom_sha256": "e5aa8f293fd6952f43731a2a34f905b34b2361a826450d0c04f06e2c2d02eb9a",
+  "screenshot_sha256": "152c449e0969040ba1469c8d68a36ac2d0a19b267a4d5cbdbf74d67a5fdd725c",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://allh5.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://allh5.com",
+    "browser_final_url": "https://allh5.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "elapsed_ms": 2971
+}

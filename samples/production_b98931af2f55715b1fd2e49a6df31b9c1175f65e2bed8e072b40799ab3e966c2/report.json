@@ -1,0 +1,27 @@
+{
+  "original_url": "https://texpima.com/audio/audio/sharepoint.php?authlink=offb231101",
+  "hostname": "texpima.com",
+  "checked_at": "2026-10-04T14:53:03.090738+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a00b28-219c-76ee-95cd-9809d10d6494",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-16T15:19:46.375Z",
+  "scan_original_url": "http://texpima.com/",
+  "final_url": "https://texpima.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1147,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 7.119,
+  "discovery": {
+    "batch_id": "e064963d1cb14eb79e005351176d93368ccc82e5fbfe3654ca57757400a424c6",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

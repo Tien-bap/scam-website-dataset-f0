@@ -1,0 +1,27 @@
+{
+  "original_url": "https://nonveglovers.in/date/OfficeV4/authorize_client_id:azb8reqv-msey-mx4f-02ej-en0y82ugdr3z_amwj3o1qlud5fh89vg6x4zneri27stpybk0cphlgenomwztsx7f26u591aq8cy0j34rkbidvm7rqzjsn3e4ob8kulp9502xfvdyhci1gatw6?data=Y29tcHRhYmlsaXRlQGltYWZzLmNvbQ==",
+  "hostname": "nonveglovers.in",
+  "checked_at": "2026-10-04T15:39:19.205391+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fa6ad-5c7c-7255-b4c0-8c283e4451d0",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-28T03:03:44.332Z",
+  "scan_original_url": "http://nonveglovers.in/date/OfficeV4",
+  "final_url": "https://nonveglovers.in/date/OfficeV4",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4913,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 46.89,
+  "discovery": {
+    "batch_id": "d3228fcb333c4fa35e75a7e8f3d1bd5b117f6ec1ebf3c3305ad81e33e5822cc3",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

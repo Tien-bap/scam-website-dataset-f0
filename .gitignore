@@ -1,0 +1,15 @@
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+debug*/
+*.tmp
+.DS_Store
+.playwright*/
+review_data*/
+reviewer/runtime*/
+urlscan_runs/
+live_capture/
+live_check/
+*.backup-*/
+.f0-*-stage-*/

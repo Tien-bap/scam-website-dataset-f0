@@ -1,0 +1,41 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Father and Son Pest Control</title>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="fonts.css" type="text/css" charset="utf-8">
+</head><body>
+<div id="web_container">
+<div id="header">
+<div id="logo"><img src="images/logo.png" alt=" " width="257" height="257"></div>
+<div id="header_contact_box">
+<div id="contact" align="center"> <span>Llame hoy para un <br>
+Estimado&nbsp;<strong></strong>Gratis&nbsp;</span>
+<h1>Tel: <span>787-607-6682</span></h1>
+Email: <a href="mailto:hvelez@FSPestControl.com">hvelez@FSPestControl.com </a></div></div></div>
+<div id="content_aria">
+<div id="garantiz_box">
+Todos Nuestro Servicios <br>
+están <span>Garantizados!</span></div>
+<div id="service_box">
+<div id="pest_icon"></div>
+<h1>Servicios</h1>
+<ul>
+<li>Cucarachas</li>
+<li>Hormigas</li>
+<li>Ratones</li>
+<li>Pulgas</li>
+<li>Garrapatas</li>
+<li>Comején Subterráneo</li>
+<li>Comején Arbóreo</li>
+<li>Polilla</li>
+<li>Servicios Especiales</li></ul></div>
+<div style="clear: both"></div>
+<div id="content_box_footer">
+<div id="content_left_box">Somos una compañía  especializada en el control de plagas y exterminación. Brindamos nuestro servicio en toda la isla a residencias, comercios e industrias.</div>
+<div id="connect_box">
+<h1>Connect with us</h1><a href="https://www.facebook.com/groups/405967762844882/" target="new"><img src="images/Facebook.png" width="40" alt=" "></a> <a href="#"><img src="images/Twitter.png" width="40" alt=" "></a><a href="#"><img src="images/youtube.png" width="40" alt=" "></a><a href="#"><img src="images/Google%20plus.png" width="40" alt=" "></a></div></div>
+<div style="clear: both"></div></div></div>
+<div id="footer">
+<div class="footer">2013 © Father and Son Pest Control &nbsp;<span class="Apple-tab-span" style="white-space: pre">																						</span>&nbsp; &nbsp; &nbsp; &nbsp;Powered and design by: Tres Digital Solutions</div></div>
+
+</body>

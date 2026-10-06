@@ -1,0 +1,27 @@
+{
+  "original_url": "https://tradexbay.com/niy",
+  "hostname": "tradexbay.com",
+  "checked_at": "2026-10-04T14:33:03.225711+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0af5e-ec5a-7204-89f2-ecd846a98595",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-17T12:37:48.111Z",
+  "scan_original_url": "http://tradexbay.com/",
+  "final_url": "https://www.tradexbay.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2630,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.226,
+  "discovery": {
+    "batch_id": "eac33d382f12b34b7a615ca447bc5dfca7d4590caec67ebf11774d6575af04f5",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

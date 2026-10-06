@@ -1,0 +1,27 @@
+{
+  "original_url": "https://lapdatwifi.vn/ud/Owa/index.html",
+  "hostname": "lapdatwifi.vn",
+  "checked_at": "2026-10-04T15:54:03.258652+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a011c2-b2a0-722a-8996-d9282c66e854",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-17T22:06:23.002Z",
+  "scan_original_url": "https://lapdatwifi.vn/",
+  "final_url": "https://lapdatwifi.vn/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 8553,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.968,
+  "discovery": {
+    "batch_id": "a9a074be8630b010ecfd18938564743601423997b7ffeb5b1a05e3bd2b4650cf",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

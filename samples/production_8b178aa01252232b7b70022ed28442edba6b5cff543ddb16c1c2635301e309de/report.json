@@ -1,0 +1,21 @@
+{
+  "original_url": "amzzcbe-vn.com",
+  "hostname": "amzzcbe-vn.com",
+  "checked_at": "2026-10-04T10:33:49.571618+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 7,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "0195a867-7e2f-7333-8aae-3a39e6ca3080",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-18T08:38:45.715Z",
+  "scan_original_url": "https://amzzcbe-vn.com/",
+  "final_url": "https://amzzcbe-vn.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 13466,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.691
+}

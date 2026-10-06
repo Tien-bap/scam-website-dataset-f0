@@ -1,0 +1,27 @@
+{
+  "original_url": "http://nahcheworld.com/wp-content/plugins/easybusy/MIDE/MicrosoftAccount.html",
+  "hostname": "nahcheworld.com",
+  "checked_at": "2026-10-04T16:00:03.633825+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 30,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0a8e6-c9dd-755d-b4d0-365f6167cc68",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-16T06:28:19.387Z",
+  "scan_original_url": "https://nahcheworld.com/",
+  "final_url": "https://nahcheworld.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 31,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.692,
+  "discovery": {
+    "batch_id": "44cf26ffa5df4074962e0eec8e647b02e06566e138ee1bcb1f572a4e89f7cdeb",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

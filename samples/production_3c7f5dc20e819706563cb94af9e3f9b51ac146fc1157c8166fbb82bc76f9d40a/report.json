@@ -1,0 +1,27 @@
+{
+  "original_url": "http://thelabbasketballtraining.com/moda",
+  "hostname": "thelabbasketballtraining.com",
+  "checked_at": "2026-10-04T15:37:21.568034+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0bf06-87e9-746c-a64c-696c6ff54a22",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-20T13:34:54.802Z",
+  "scan_original_url": "http://thelabbasketballtraining.com/",
+  "final_url": "https://thelabbasketballtraining.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1146,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 42.819,
+  "discovery": {
+    "batch_id": "e2519f59aab518da9d880ec9884bcfa6450ac311ec5d7f93dc7ee29a18e055b4",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

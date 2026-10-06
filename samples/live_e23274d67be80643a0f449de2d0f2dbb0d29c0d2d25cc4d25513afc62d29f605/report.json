@@ -1,0 +1,147 @@
+{
+  "candidate_id": "live_e23274d67be80643a0f449de2d0f2dbb0d29c0d2d25cc4d25513afc62d29f605",
+  "candidate_sha256": "ad7ec98e8263f0e267cd7ca787717eb864c6b21e0af738dca971b98b2e47e93b",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://clmm.ca",
+  "requested_url": "https://clmm.ca",
+  "browser_final_url": "https://clmm.ca/",
+  "source_urls": [
+    "https://clmm.ca"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 3991,
+      "source_url": "https://clmm.ca",
+      "source_hostname": "clmm.ca",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://clmm.ca",
+      "final_hostname": "clmm.ca",
+      "redirect_count": 0,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 487,
+      "checked_at": "2026-10-05T12:40:53.206647+00:00",
+      "error": null,
+      "normalized_source_url": "https://clmm.ca/",
+      "normalized_final_url": "https://clmm.ca/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_e23274d67be80643a0f449de2d0f2dbb0d29c0d2d25cc4d25513afc62d29f605",
+    "representative_source_index": 3991,
+    "representative_source_url": "https://clmm.ca",
+    "representative_final_url": "https://clmm.ca",
+    "normalized_final_url": "https://clmm.ca/",
+    "source_hostname": "clmm.ca",
+    "final_hostname": "clmm.ca",
+    "source_urls": [
+      "https://clmm.ca"
+    ],
+    "provenance": [
+      {
+        "source_index": 3991,
+        "source_url": "https://clmm.ca",
+        "source_hostname": "clmm.ca",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://clmm.ca",
+        "final_hostname": "clmm.ca",
+        "redirect_count": 0,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 487,
+        "checked_at": "2026-10-05T12:40:53.206647+00:00",
+        "error": null,
+        "normalized_source_url": "https://clmm.ca/",
+        "normalized_final_url": "https://clmm.ca/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "timeout",
+  "capture_status": "partial",
+  "technical_complete": true,
+  "title": "clmm.ca",
+  "capture_timestamp": "2026-10-05T14:58:49.561981+00:00",
+  "dom_chars": 84703,
+  "screenshot_bytes": 24453,
+  "dom_sha256": "a10182ce231c085caed3924baa05037160a583d1130cd4e9abd28397ddb08270",
+  "screenshot_sha256": "f37d7b81893a068fff9d639056ea23f2d94816c424a6f461740ff3eac78cc74c",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://clmm.ca/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://clmm.ca",
+    "browser_final_url": "https://clmm.ca/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": "Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://clmm.ca/\", waiting until \"domcontentloaded\"\n",
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 16632
+}

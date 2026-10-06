@@ -1,0 +1,27 @@
+{
+  "original_url": "https://yocredit.net",
+  "hostname": "yocredit.net",
+  "checked_at": "2026-10-04T13:34:29.507377+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 6,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e0b0-d6fa-7110-b73e-c13fc6377fd3",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-09-27T02:28:12.647Z",
+  "scan_original_url": "https://www.yocredit.net/",
+  "final_url": "https://yocredit.net/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5518,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.715,
+  "discovery": {
+    "batch_id": "ab09da604a5fe30cc151ef3e9478f2b69745c475a87269df6ccc2c63adb4941f",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

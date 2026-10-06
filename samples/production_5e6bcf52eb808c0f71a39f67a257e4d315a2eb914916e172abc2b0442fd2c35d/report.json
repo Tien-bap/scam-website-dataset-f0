@@ -1,0 +1,27 @@
+{
+  "original_url": "bithumb.icu",
+  "hostname": "bithumb.icu",
+  "checked_at": "2026-10-04T13:38:02.101691+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f755a-b46b-73ac-b5eb-91135824f2fc",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-18T13:11:52.298Z",
+  "scan_original_url": "https://bithumb.icu/",
+  "final_url": "https://bithumb.icu/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 268,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.824,
+  "discovery": {
+    "batch_id": "8c05ee4b38c3206c9279c3940f0f00151d2769d634fabc02412c882c06c9771b",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

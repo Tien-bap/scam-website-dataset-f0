@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_982d0f2112f10562e42aae472c870017ca8a5def3efcf7c359d319243b529c07",
+  "candidate_sha256": "60b41d9092eed631c135917376dd374bca4c0dc7d8b4fc09f303e886390d6d3b",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://we2blocks.com/wp-Document/Office/",
+  "requested_url": "https://we2blocks.com/wp-Document/Office/",
+  "browser_final_url": "https://we2blocks.com/wp-Document/Office/",
+  "source_urls": [
+    "http://we2blocks.com/wp-Document/Office/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 90678,
+      "source_url": "http://we2blocks.com/wp-Document/Office/",
+      "source_hostname": "we2blocks.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://we2blocks.com/wp-Document/Office/",
+      "final_hostname": "we2blocks.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3113,
+      "checked_at": "2026-10-05T13:16:12.763228+00:00",
+      "error": null,
+      "normalized_source_url": "http://we2blocks.com/wp-Document/Office/",
+      "normalized_final_url": "https://we2blocks.com/wp-Document/Office/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_982d0f2112f10562e42aae472c870017ca8a5def3efcf7c359d319243b529c07",
+    "representative_source_index": 90678,
+    "representative_source_url": "http://we2blocks.com/wp-Document/Office/",
+    "representative_final_url": "https://we2blocks.com/wp-Document/Office/",
+    "normalized_final_url": "https://we2blocks.com/wp-Document/Office/",
+    "source_hostname": "we2blocks.com",
+    "final_hostname": "we2blocks.com",
+    "source_urls": [
+      "http://we2blocks.com/wp-Document/Office/"
+    ],
+    "provenance": [
+      {
+        "source_index": 90678,
+        "source_url": "http://we2blocks.com/wp-Document/Office/",
+        "source_hostname": "we2blocks.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://we2blocks.com/wp-Document/Office/",
+        "final_hostname": "we2blocks.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3113,
+        "checked_at": "2026-10-05T13:16:12.763228+00:00",
+        "error": null,
+        "normalized_source_url": "http://we2blocks.com/wp-Document/Office/",
+        "normalized_final_url": "https://we2blocks.com/wp-Document/Office/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "We2Blocks LLP — Blockchain Training, Consultation and Development",
+  "capture_timestamp": "2026-10-05T14:50:12.482351+00:00",
+  "dom_chars": 384454,
+  "screenshot_bytes": 612796,
+  "dom_sha256": "69e3a0134672418fa2fc6016655a7e10ac574f70a4de959926ad441a07352086",
+  "screenshot_sha256": "fd5ba37e3a1fbc881b4fe5cd5238324d58f591bf82b10a3a856c93953f100acb",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://we2blocks.com/wp-Document/Office/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://we2blocks.com/wp-Document/Office/",
+    "browser_final_url": "https://we2blocks.com/wp-Document/Office/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 5625
+}

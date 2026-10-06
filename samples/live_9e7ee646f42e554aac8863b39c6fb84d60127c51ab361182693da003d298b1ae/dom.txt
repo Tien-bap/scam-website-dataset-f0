@@ -1,0 +1,48 @@
+<!DOCTYPE html><html lang="es"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prosemec — Pronto</title>
+<meta name="description" content="Sellos mecánicos y reparación de bombas hidráulicas en Santiago. Fabricamos el sello que necesita en días.">
+<link rel="icon" href="/logo.jpg">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  @font-face {
+    font-family: "Outfit";
+    src: url("/fonts/outfit-var.woff2") format("woff2-variations");
+    font-weight: 100 900; font-display: swap;
+  }
+  body {
+    min-height: 100dvh; display: flex; align-items: flex-end;
+    background: #17171a; color: #f2f2f0;
+    font-family: "Outfit", system-ui, sans-serif; line-height: 1.6; padding: 2rem;
+    position: relative;
+  }
+  .bg { position: fixed; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; }
+  .scrim { position: fixed; inset: 0; z-index: -1;
+    background: linear-gradient(200deg, rgba(11,6,131,.15) 0%, rgba(10,10,14,.28) 45%, rgba(10,10,14,.82) 100%); }
+  main { max-width: 36rem; padding: 4rem 0 2.5rem; }
+  img.logo { height: 44px; width: auto; border-radius: 8px; margin-bottom: 1.6rem; }
+  h1 { font-size: clamp(2.2rem, 6vw, 3.6rem); line-height: 1.05; letter-spacing: -0.03em; font-weight: 600; text-wrap: balance; }
+  h1 span { color: #b9bcff; }
+  p { margin-top: 1.2rem; font-size: 1.12rem; max-width: 42ch; color: rgba(245,245,242,.9); }
+  a.btn {
+    display: inline-flex; margin-top: 2rem; background: #f6f5f2; color: #070437;
+    text-decoration: none; font-weight: 600; font-size: .95rem; padding: .85rem 1.6rem; border-radius: 999px;
+    transition: background .2s ease;
+  }
+  a.btn:hover { background: #fff; }
+  footer { margin-top: 3rem; font-size: .85rem; color: rgba(245,245,242,.65); }
+</style>
+</head>
+<body>
+<img class="bg" src="/images/v4-hero.jpg" alt="" aria-hidden="true">
+<div class="scrim"></div>
+<main>
+  <img class="logo" src="/logo.jpg" alt="Prosemec">
+  <h1>Sellos mecánicos y bombas hidráulicas. <span>En días, no semanas.</span></h1>
+  <p>Nuestro nuevo sitio web está en construcción, pero nosotros ya estamos operando. Escríbanos y resolvemos su fuga.</p>
+  <a class="btn" href="mailto:ventas@prosemec.cl">ventas@prosemec.cl</a>
+  <footer>Prosemec · Díaz Sagredo 845, Quinta Normal, Santiago · +56 2 2401 5283</footer>
+</main>
+
+</body></html>

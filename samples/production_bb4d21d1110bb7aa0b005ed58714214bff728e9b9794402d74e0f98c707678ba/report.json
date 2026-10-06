@@ -1,0 +1,21 @@
+{
+  "original_url": "hdsaisonfinanceweb.com",
+  "hostname": "hdsaisonfinanceweb.com",
+  "checked_at": "2026-10-04T10:34:49.573826+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01957ea8-8f5b-7885-ac0e-79b4fc0d6596",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-10T06:05:46.665Z",
+  "scan_original_url": "http://hdsaisonfinanceweb.com/",
+  "final_url": "https://hdsaisonfinanceweb.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2303,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 5.665
+}

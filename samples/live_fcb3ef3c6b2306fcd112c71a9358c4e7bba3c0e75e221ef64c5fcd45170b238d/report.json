@@ -1,0 +1,213 @@
+{
+  "candidate_id": "live_fcb3ef3c6b2306fcd112c71a9358c4e7bba3c0e75e221ef64c5fcd45170b238d",
+  "candidate_sha256": "254e8198ea909621f18543749903db70eb7e498aa3114d45b6a8d46c0251f7d5",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://may88.in",
+  "requested_url": "https://may88.fish/",
+  "browser_final_url": "https://may88.fish/",
+  "source_urls": [
+    "https://may88.in",
+    "https://may88.vip"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 1206,
+      "source_url": "https://may88.in",
+      "source_hostname": "may88.in",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://may88.fish/",
+      "final_hostname": "may88.fish",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 740,
+      "checked_at": "2026-10-05T12:18:33.393746+00:00",
+      "error": null,
+      "normalized_source_url": "https://may88.in/",
+      "normalized_final_url": "https://may88.fish/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 3026,
+      "source_url": "https://may88.vip",
+      "source_hostname": "may88.vip",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://may88.fish/",
+      "final_hostname": "may88.fish",
+      "redirect_count": 1,
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 630,
+      "checked_at": "2026-10-05T12:40:48.209975+00:00",
+      "error": null,
+      "normalized_source_url": "https://may88.vip/",
+      "normalized_final_url": "https://may88.fish/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_fcb3ef3c6b2306fcd112c71a9358c4e7bba3c0e75e221ef64c5fcd45170b238d",
+    "representative_source_index": 1206,
+    "representative_source_url": "https://may88.in",
+    "representative_final_url": "https://may88.fish/",
+    "normalized_final_url": "https://may88.fish/",
+    "source_hostname": "may88.in",
+    "final_hostname": "may88.fish",
+    "source_urls": [
+      "https://may88.in",
+      "https://may88.vip"
+    ],
+    "provenance": [
+      {
+        "source_index": 1206,
+        "source_url": "https://may88.in",
+        "source_hostname": "may88.in",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://may88.fish/",
+        "final_hostname": "may88.fish",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 740,
+        "checked_at": "2026-10-05T12:18:33.393746+00:00",
+        "error": null,
+        "normalized_source_url": "https://may88.in/",
+        "normalized_final_url": "https://may88.fish/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 3026,
+        "source_url": "https://may88.vip",
+        "source_hostname": "may88.vip",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://may88.fish/",
+        "final_hostname": "may88.fish",
+        "redirect_count": 1,
+        "content_type": "text/html;charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 630,
+        "checked_at": "2026-10-05T12:40:48.209975+00:00",
+        "error": null,
+        "normalized_source_url": "https://may88.vip/",
+        "normalized_final_url": "https://may88.fish/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 2,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "May88 - Nhà Cái Cá Cược Bóng Đá & Casino Uy Tín Số 1",
+  "capture_timestamp": "2026-10-05T15:01:23.964012+00:00",
+  "dom_chars": 2618904,
+  "screenshot_bytes": 167473,
+  "dom_sha256": "42ef75bff193bc3ac38006cfa01b8af05a9674121c3d66b1862a2b14c2e351a0",
+  "screenshot_sha256": "ad182f2cee34b14b31e81f80bdae7b3b49032ee678d8ad38c0e0888faa300d5d",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://may88.fish/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://may88.fish/",
+    "browser_final_url": "https://may88.fish/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 8421
+}

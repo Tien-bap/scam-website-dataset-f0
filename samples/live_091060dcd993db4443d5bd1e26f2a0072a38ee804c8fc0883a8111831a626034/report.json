@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_091060dcd993db4443d5bd1e26f2a0072a38ee804c8fc0883a8111831a626034",
+  "candidate_sha256": "1393e8e59b5e9348d4bb877ee9ea094929b4a5f67ba1933ae11e63f879b0d3cf",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://cltx.in",
+  "requested_url": "https://app.celitix.com/",
+  "browser_final_url": "https://app.celitix.com/login",
+  "source_urls": [
+    "http://cltx.in"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 3003,
+      "source_url": "http://cltx.in",
+      "source_hostname": "cltx.in",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://app.celitix.com/",
+      "final_hostname": "app.celitix.com",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 2149,
+      "elapsed_ms": 942,
+      "checked_at": "2026-10-05T12:40:47.470698+00:00",
+      "error": null,
+      "normalized_source_url": "http://cltx.in/",
+      "normalized_final_url": "https://app.celitix.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_091060dcd993db4443d5bd1e26f2a0072a38ee804c8fc0883a8111831a626034",
+    "representative_source_index": 3003,
+    "representative_source_url": "http://cltx.in",
+    "representative_final_url": "https://app.celitix.com/",
+    "normalized_final_url": "https://app.celitix.com/",
+    "source_hostname": "cltx.in",
+    "final_hostname": "app.celitix.com",
+    "source_urls": [
+      "http://cltx.in"
+    ],
+    "provenance": [
+      {
+        "source_index": 3003,
+        "source_url": "http://cltx.in",
+        "source_hostname": "cltx.in",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://app.celitix.com/",
+        "final_hostname": "app.celitix.com",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 2149,
+        "elapsed_ms": 942,
+        "checked_at": "2026-10-05T12:40:47.470698+00:00",
+        "error": null,
+        "normalized_source_url": "http://cltx.in/",
+        "normalized_final_url": "https://app.celitix.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Nex-Gen CPaaS",
+  "capture_timestamp": "2026-10-05T14:34:33.835459+00:00",
+  "dom_chars": 12641,
+  "screenshot_bytes": 138964,
+  "dom_sha256": "608d80b2cdd979dc4b0353fb31384191f625133d0f8795d91bcdf4ecae196381",
+  "screenshot_sha256": "4af8f51bf2b6ce9e81494854bceae9032f0aa6fa9a96f59ec1f2f7913a9c841c",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://app.celitix.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://app.celitix.com/",
+    "browser_final_url": "https://app.celitix.com/login",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4257
+}

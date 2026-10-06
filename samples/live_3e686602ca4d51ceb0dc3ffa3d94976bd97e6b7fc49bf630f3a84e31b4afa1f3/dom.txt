@@ -1,0 +1,320 @@
+<!DOCTYPE html><html lang="en" style="user-select: none; -webkit-user-drag: none;"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AllH5 Games - Play Free Online Games</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="data.js"></script>
+
+    <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" crossorigin="anonymous"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/23318865409/ihuntergame_land_banner_top', ['fluid', [336, 280], [250, 250], [300, 250]], 'div-gpt-ad-1769063080748-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/23318865409/ihuntergame_land_banner_center', [[250, 250], [336, 280], [300, 250], 'fluid'], 'div-gpt-ad-1769063162196-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/23318865409/ihuntergame_land_banner_bottom', ['fluid', [250, 250], [300, 250], [336, 280]], 'div-gpt-ad-1769063218786-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+</head>
+<body>
+    <div class="manual-ad" style="text-align: center;padding: 10px; display: flex;flex-direction: column; align-items: center; overflow:hidden;margin-top:1px;">
+      <!-- /23318865409/ihuntergame_land_banner_top -->
+      <div id="div-gpt-ad-1769063080748-0" style="min-width: 250px; min-height: 250px;">
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1769063080748-0'); });
+        </script>
+      </div>
+    </div>
+
+    <header class="header">
+        <div class="header-content container">
+            <a draggable="false" href="index.html" class="logo-link">
+                <!-- <img draggable="false" src="images/logo.png" alt="AllH5 Games Logo" class="logo-img"> -->
+                <h1 style="color:white;">AllH5 Games</h1>
+            </a>
+            <nav id="main-top-nav" class="top-nav">
+            <a href="index.html?category=Simulation" class="nav-item" draggable="false"><img src="images/ico_simulation.png" class="category-icon" draggable="false">Simulation</a><a href="index.html?category=Casual" class="nav-item" draggable="false"><img src="images/ico_casual.png" class="category-icon" draggable="false">Casual</a><a href="index.html?category=Puzzle" class="nav-item" draggable="false"><img src="images/ico_puzzle.png" class="category-icon" draggable="false">Puzzle</a><a href="index.html?category=Action" class="nav-item" draggable="false"><img src="images/ico_action.png" class="category-icon" draggable="false">Action</a><a href="index.html?category=Adventure" class="nav-item" draggable="false"><img src="images/ico_adventure.png" class="category-icon" draggable="false">Adventure</a><a href="index.html?category=Racing" class="nav-item" draggable="false"><img src="images/ico_racing.png" class="category-icon" draggable="false">Racing</a><a href="index.html?category=Dress-up" class="nav-item" draggable="false"><img src="images/ico_dress-up.png" class="category-icon" draggable="false">Dress-up</a><a href="index.html?category=Shooting" class="nav-item" draggable="false"><img src="images/ico_shooting.png" class="category-icon" draggable="false">Shooting</a></nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="game-section">
+            <h2 class="section-title">Hot Games</h2>
+            <div id="hot-games-list" class="game-grid">
+                <a href="details.html?id=10" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Barbie Artistic Eye Makeup.jpg" alt="Barbie Artistic Eye Makeup" class="game-icon">
+                <span class="game-title-hidden">Barbie Artistic Eye Makeup</span>
+            </a><a href="details.html?id=13" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Brick Surfer.jpg" alt="Brick Surfer" class="game-icon">
+                <span class="game-title-hidden">Brick Surfer</span>
+            </a><a href="details.html?id=24" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Christmas Candy.jpg" alt="Christmas Candy" class="game-icon">
+                <span class="game-title-hidden">Christmas Candy</span>
+            </a><a href="details.html?id=16" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Bubble Witch Shooter Magical Saga.jpg" alt="Bubble Witch Shooter Magical Saga" class="game-icon">
+                <span class="game-title-hidden">Bubble Witch Shooter Magical Saga</span>
+            </a><a href="details.html?id=1" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Among Us Online.jpg" alt="Among Us Online" class="game-icon">
+                <span class="game-title-hidden">Among Us Online</span>
+            </a><a href="details.html?id=17" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Capybara Go.jpg" alt="Capybara Go" class="game-icon">
+                <span class="game-title-hidden">Capybara Go</span>
+            </a><a href="details.html?id=20" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Cat Rescue.jpg" alt="Cat Rescue" class="game-icon">
+                <span class="game-title-hidden">Cat Rescue</span>
+            </a><a href="details.html?id=2" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Animal Shape Puzzle.jpg" alt="Animal Shape Puzzle" class="game-icon">
+                <span class="game-title-hidden">Animal Shape Puzzle</span>
+            </a><a href="details.html?id=3" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Ants Io.jpg" alt="Ants Io" class="game-icon">
+                <span class="game-title-hidden">Ants Io</span>
+            </a><a href="details.html?id=11" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Barbie S Emergency Surgery.jpg" alt="Barbie S Emergency Surgery" class="game-icon">
+                <span class="game-title-hidden">Barbie S Emergency Surgery</span>
+            </a><a href="details.html?id=21" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Cave Golf.jpg" alt="Cave Golf" class="game-icon">
+                <span class="game-title-hidden">Cave Golf</span>
+            </a><a href="details.html?id=23" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Chain Cube 2048 3D.jpg" alt="Chain Cube 2048 3D" class="game-icon">
+                <span class="game-title-hidden">Chain Cube 2048 3D</span>
+            </a><a href="details.html?id=14" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Bridge Race 3D.jpg" alt="Bridge Race 3D" class="game-icon">
+                <span class="game-title-hidden">Bridge Race 3D</span>
+            </a><a href="details.html?id=4" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Apple Worm.jpg" alt="Apple Worm" class="game-icon">
+                <span class="game-title-hidden">Apple Worm</span>
+            </a><a href="details.html?id=5" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Archer Warrior.jpg" alt="Archer Warrior" class="game-icon">
+                <span class="game-title-hidden">Archer Warrior</span>
+            </a><a href="details.html?id=6" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Arrows Adventure.jpg" alt="Arrows Adventure" class="game-icon">
+                <span class="game-title-hidden">Arrows Adventure</span>
+            </a><a href="details.html?id=19" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Castle Escape Plan.jpg" alt="Castle Escape Plan" class="game-icon">
+                <span class="game-title-hidden">Castle Escape Plan</span>
+            </a><a href="details.html?id=12" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Blob Runner 3D.jpg" alt="Blob Runner 3D" class="game-icon">
+                <span class="game-title-hidden">Blob Runner 3D</span>
+            </a><a href="details.html?id=18" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Car Paint.jpg" alt="Car Paint" class="game-icon">
+                <span class="game-title-hidden">Car Paint</span>
+            </a><a href="details.html?id=7" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Autocross Madness.jpg" alt="Autocross Madness" class="game-icon">
+                <span class="game-title-hidden">Autocross Madness</span>
+            </a><a href="details.html?id=8" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Bakery Shop.jpg" alt="Bakery Shop" class="game-icon">
+                <span class="game-title-hidden">Bakery Shop</span>
+            </a><a href="details.html?id=9" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Balloons Creator.jpg" alt="Balloons Creator" class="game-icon">
+                <span class="game-title-hidden">Balloons Creator</span>
+            </a><a href="details.html?id=15" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Bubble CRUSHER.jpg" alt="Bubble CRUSHER" class="game-icon">
+                <span class="game-title-hidden">Bubble CRUSHER</span>
+            </a><a href="details.html?id=22" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Chain Color Sort.jpg" alt="Chain Color Sort" class="game-icon">
+                <span class="game-title-hidden">Chain Color Sort</span>
+            </a></div>
+        </section>
+
+        <section class="category-section">
+            <h2 class="section-title">Popular Game Categories</h2>
+            <div id="category-list" class="category-grid">
+                <a href="index.html?category=Simulation" class="category-tile" draggable="false"><img src="images/logo_simulation.png" class="category-logo" draggable="false">Simulation</a><a href="index.html?category=Casual" class="category-tile" draggable="false"><img src="images/logo_casual.png" class="category-logo" draggable="false">Casual</a><a href="index.html?category=Puzzle" class="category-tile" draggable="false"><img src="images/logo_puzzle.png" class="category-logo" draggable="false">Puzzle</a><a href="index.html?category=Action" class="category-tile" draggable="false"><img src="images/logo_action.png" class="category-logo" draggable="false">Action</a><a href="index.html?category=Adventure" class="category-tile" draggable="false"><img src="images/logo_adventure.png" class="category-logo" draggable="false">Adventure</a><a href="index.html?category=Racing" class="category-tile" draggable="false"><img src="images/logo_racing.png" class="category-logo" draggable="false">Racing</a><a href="index.html?category=Dress-up" class="category-tile" draggable="false"><img src="images/logo_dress-up.png" class="category-logo" draggable="false">Dress-up</a><a href="index.html?category=Shooting" class="category-tile" draggable="false"><img src="images/logo_shooting.png" class="category-logo" draggable="false">Shooting</a><a href="index.html?category=Strategy" class="category-tile" draggable="false"><img src="images/logo_strategy.png" class="category-logo" draggable="false">Strategy</a></div>
+        </section>
+
+        <div class="manual-ad" style="text-align: center;padding: 10px; display: flex;flex-direction: column; align-items: center; overflow:hidden;margin-top:1px;">
+          <!-- /23318865409/ihuntergame_land_banner_center -->
+          <div id="div-gpt-ad-1769063162196-0" style="min-width: 250px; min-height: 250px;">
+            <script>
+              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1769063162196-0'); });
+            </script>
+          </div>
+        </div>
+
+        <section class="game-section">
+            <h2 class="section-title">More Games</h2>
+            <div id="more-games-list" class="game-grid">
+                 <a href="details.html?id=5" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Archer Warrior.jpg" alt="Archer Warrior" class="game-icon">
+                <span class="game-title-hidden">Archer Warrior</span>
+            </a><a href="details.html?id=7" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Autocross Madness.jpg" alt="Autocross Madness" class="game-icon">
+                <span class="game-title-hidden">Autocross Madness</span>
+            </a><a href="details.html?id=60" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Goods Master 3D.jpg" alt="Goods Master 3D" class="game-icon">
+                <span class="game-title-hidden">Goods Master 3D</span>
+            </a><a href="details.html?id=24" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Christmas Candy.jpg" alt="Christmas Candy" class="game-icon">
+                <span class="game-title-hidden">Christmas Candy</span>
+            </a><a href="details.html?id=58" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Gem Stack.jpg" alt="Gem Stack" class="game-icon">
+                <span class="game-title-hidden">Gem Stack</span>
+            </a><a href="details.html?id=41" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Draw Pen Rush.jpg" alt="Draw Pen Rush" class="game-icon">
+                <span class="game-title-hidden">Draw Pen Rush</span>
+            </a><a href="details.html?id=25" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Christmas Math.jpg" alt="Christmas Math" class="game-icon">
+                <span class="game-title-hidden">Christmas Math</span>
+            </a><a href="details.html?id=61" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Halloween Bubble Shooter.jpg" alt="Halloween Bubble Shooter" class="game-icon">
+                <span class="game-title-hidden">Halloween Bubble Shooter</span>
+            </a><a href="details.html?id=49" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Fat Race 3D.jpg" alt="Fat Race 3D" class="game-icon">
+                <span class="game-title-hidden">Fat Race 3D</span>
+            </a><a href="details.html?id=38" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Draw Climber Online.jpg" alt="Draw Climber Online" class="game-icon">
+                <span class="game-title-hidden">Draw Climber Online</span>
+            </a><a href="details.html?id=50" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Feed Pac.jpg" alt="Feed Pac" class="game-icon">
+                <span class="game-title-hidden">Feed Pac</span>
+            </a><a href="details.html?id=13" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Brick Surfer.jpg" alt="Brick Surfer" class="game-icon">
+                <span class="game-title-hidden">Brick Surfer</span>
+            </a><a href="details.html?id=51" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Find Out.jpg" alt="Find Out" class="game-icon">
+                <span class="game-title-hidden">Find Out</span>
+            </a><a href="details.html?id=17" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Capybara Go.jpg" alt="Capybara Go" class="game-icon">
+                <span class="game-title-hidden">Capybara Go</span>
+            </a><a href="details.html?id=54" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Fruit Action.jpg" alt="Fruit Action" class="game-icon">
+                <span class="game-title-hidden">Fruit Action</span>
+            </a><a href="details.html?id=4" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Apple Worm.jpg" alt="Apple Worm" class="game-icon">
+                <span class="game-title-hidden">Apple Worm</span>
+            </a><a href="details.html?id=11" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Barbie S Emergency Surgery.jpg" alt="Barbie S Emergency Surgery" class="game-icon">
+                <span class="game-title-hidden">Barbie S Emergency Surgery</span>
+            </a><a href="details.html?id=3" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Ants Io.jpg" alt="Ants Io" class="game-icon">
+                <span class="game-title-hidden">Ants Io</span>
+            </a><a href="details.html?id=40" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Draw Machine Duel.jpg" alt="Draw Machine Duel" class="game-icon">
+                <span class="game-title-hidden">Draw Machine Duel</span>
+            </a><a href="details.html?id=37" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Donut Stack.jpg" alt="Donut Stack" class="game-icon">
+                <span class="game-title-hidden">Donut Stack</span>
+            </a><a href="details.html?id=44" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Emoji Game.jpg" alt="Emoji Game" class="game-icon">
+                <span class="game-title-hidden">Emoji Game</span>
+            </a><a href="details.html?id=19" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Castle Escape Plan.jpg" alt="Castle Escape Plan" class="game-icon">
+                <span class="game-title-hidden">Castle Escape Plan</span>
+            </a><a href="details.html?id=48" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Fat 2 Fit.jpg" alt="Fat 2 Fit" class="game-icon">
+                <span class="game-title-hidden">Fat 2 Fit</span>
+            </a><a href="details.html?id=39" class="game-tile game-info-img" draggable="false">
+                <img draggable="false" src="images/Draw Defence.jpg" alt="Draw Defence" class="game-icon">
+                <span class="game-title-hidden">Draw Defence</span>
+            </a></div>
+        </section>
+    </main>
+
+      <div class="manual-ad" style="text-align: center;padding: 10px; display: flex;flex-direction: column; align-items: center; overflow:hidden;margin-top:1px;">
+        <!-- /23318865409/ihuntergame_land_banner_bottom -->
+        <div id="div-gpt-ad-1769063218786-0" style="min-width: 250px; min-height: 250px;">
+          <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1769063218786-0'); });
+          </script>
+        </div>
+      </div>
+
+    <footer class="footer">
+        <div class="footer-links">
+            <a draggable="false" href="https://policies.google.com/terms?hl=en&amp;gl=ZZ" class="game-out-link">The terms of service</a> |
+            <a draggable="false" href="https://policies.google.com/privacy?hl=en&amp;gl=ZZ" class="game-out-link">Privacy Policy</a> |
+            <a draggable="false" href="https://policies.google.com/technologies/cookies" class="game-out-link">Cookies</a>
+        </div>
+        <p>© 2024 - 2025 · AllH5 Games</p>
+    </footer>
+
+    <script>
+        function createGameTile(game) {
+            const tile = document.createElement('a');
+            tile.href = `details.html?id=${game.id}`;
+            tile.className = 'game-tile game-info-img';
+            tile.innerHTML = `
+                <img draggable="false" src="${game.image}" alt="${game.title}" class="game-icon">
+                <span class="game-title-hidden">${game.title}</span>
+            `;
+            tile.draggable = false
+            return tile;
+        }
+
+        function createCategoryTile(category) {
+            const tile = document.createElement('a');
+            tile.href = `index.html?category=${encodeURIComponent(category)}`;
+            tile.className = 'category-tile';
+            tile.draggable = false
+            // tile.textContent = category;
+
+            const img = document.createElement('img');
+            img.src = 'images/logo_' + category.toLowerCase() + '.png';
+            img.className = 'category-logo';
+            img.draggable = false
+
+            tile.appendChild(img);
+            tile.appendChild(document.createTextNode(category));
+
+            return tile;
+        }
+
+        function loadTopNavCategories() {
+            const topNav = document.getElementById('main-top-nav');
+            
+            const topCategories = CATEGORIES.slice(0, 8); 
+
+            topCategories.forEach(category => {
+                const navItem = document.createElement('a');
+                navItem.href = `index.html?category=${encodeURIComponent(category)}`;
+                navItem.className = 'nav-item';
+                navItem.draggable = false
+
+                const img = document.createElement('img');
+                img.src = 'images/ico_' + category.toLowerCase() + '.png';
+                img.className = 'category-icon';
+                img.draggable = false
+
+                navItem.appendChild(img);
+                navItem.appendChild(document.createTextNode(category));
+
+                topNav.appendChild(navItem);
+            });
+        }
+        document.addEventListener('DOMContentLoaded', () => {
+            const hotGamesList = document.getElementById('hot-games-list');
+            const moreGamesList = document.getElementById('more-games-list');
+            const categoryList = document.getElementById('category-list');
+
+            const params = new URLSearchParams(window.location.search);
+            const curCategory = params.get('category')
+
+            loadTopNavCategories();
+
+            const hotGames = GAME_DATA.getRandomHotGame(24, curCategory);
+            hotGames.forEach(game => {
+                hotGamesList.appendChild(createGameTile(game));
+            });
+            
+            const moreGames = GAME_DATA.getRandomMoreGame(24, curCategory); // Use the same games for demonstration
+            moreGames.forEach(game => {
+                moreGamesList.appendChild(createGameTile(game));
+            });
+
+            CATEGORIES.forEach(category => {
+                categoryList.appendChild(createCategoryTile(category));
+            });
+        });
+    </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;8e09f49b6dbc425abc4d0104075d903b&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+</body></html>

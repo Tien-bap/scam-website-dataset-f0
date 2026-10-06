@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_d3304b8fe5ef5dd84408ca4145ee7cb76b1458dccbae77328ade4f1e5728f898",
+  "candidate_sha256": "08078203002da529be69a8d35c32950235aa681d6b6b77fe00ed5143bac9173c",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://fucons.com.vn/Qb419gf5857645426/?eby=usa&mur=amVubmlmZXIudGhvbWFzQGNvLmNsYXkubW4udXM=",
+  "requested_url": "https://fucons.com.vn",
+  "browser_final_url": "https://fucons.com.vn/",
+  "source_urls": [
+    "http://fucons.com.vn/Qb419gf5857645426/?eby=usa&mur=amVubmlmZXIudGhvbWFzQGNvLmNsYXkubW4udXM="
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 92886,
+      "source_url": "http://fucons.com.vn/Qb419gf5857645426/?eby=usa&mur=amVubmlmZXIudGhvbWFzQGNvLmNsYXkubW4udXM=",
+      "source_hostname": "fucons.com.vn",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://fucons.com.vn",
+      "final_hostname": "fucons.com.vn",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2542,
+      "checked_at": "2026-10-05T13:16:16.615092+00:00",
+      "error": null,
+      "normalized_source_url": "http://fucons.com.vn/Qb419gf5857645426/?eby=usa&mur=amVubmlmZXIudGhvbWFzQGNvLmNsYXkubW4udXM=",
+      "normalized_final_url": "https://fucons.com.vn/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_d3304b8fe5ef5dd84408ca4145ee7cb76b1458dccbae77328ade4f1e5728f898",
+    "representative_source_index": 92886,
+    "representative_source_url": "http://fucons.com.vn/Qb419gf5857645426/?eby=usa&mur=amVubmlmZXIudGhvbWFzQGNvLmNsYXkubW4udXM=",
+    "representative_final_url": "https://fucons.com.vn",
+    "normalized_final_url": "https://fucons.com.vn/",
+    "source_hostname": "fucons.com.vn",
+    "final_hostname": "fucons.com.vn",
+    "source_urls": [
+      "http://fucons.com.vn/Qb419gf5857645426/?eby=usa&mur=amVubmlmZXIudGhvbWFzQGNvLmNsYXkubW4udXM="
+    ],
+    "provenance": [
+      {
+        "source_index": 92886,
+        "source_url": "http://fucons.com.vn/Qb419gf5857645426/?eby=usa&mur=amVubmlmZXIudGhvbWFzQGNvLmNsYXkubW4udXM=",
+        "source_hostname": "fucons.com.vn",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://fucons.com.vn",
+        "final_hostname": "fucons.com.vn",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2542,
+        "checked_at": "2026-10-05T13:16:16.615092+00:00",
+        "error": null,
+        "normalized_source_url": "http://fucons.com.vn/Qb419gf5857645426/?eby=usa&mur=amVubmlmZXIudGhvbWFzQGNvLmNsYXkubW4udXM=",
+        "normalized_final_url": "https://fucons.com.vn/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Trang chủ - FUCONS",
+  "capture_timestamp": "2026-10-05T14:56:44.058869+00:00",
+  "dom_chars": 103558,
+  "screenshot_bytes": 1461644,
+  "dom_sha256": "42b1e451ccdc724e583e55a0c39a05372d7a865743ca97c8c189433098ae9272",
+  "screenshot_sha256": "927fa8826465baba67ee108561155239fa1030b5d21404dbf1f34014eed581d7",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://fucons.com.vn/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://fucons.com.vn",
+    "browser_final_url": "https://fucons.com.vn/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 8
+  },
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "elapsed_ms": 3774
+}

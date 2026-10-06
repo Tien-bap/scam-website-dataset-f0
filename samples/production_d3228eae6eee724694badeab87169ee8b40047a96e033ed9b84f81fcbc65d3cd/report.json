@@ -1,0 +1,27 @@
+{
+  "original_url": "http://bankimseed.com/now/Secure",
+  "hostname": "bankimseed.com",
+  "checked_at": "2026-10-04T14:04:28.921166+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 5,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b627-dc47-74bc-bf1c-f4d152fe0150",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-18T20:14:31.110Z",
+  "scan_original_url": "https://bankimseed.com/",
+  "final_url": "https://bankimseed.com/front/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1930,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.301,
+  "discovery": {
+    "batch_id": "28eace6e321a75d70c0b84ad67dea2df439b48e7003a6c9a9efb90b6e9b4fa9e",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

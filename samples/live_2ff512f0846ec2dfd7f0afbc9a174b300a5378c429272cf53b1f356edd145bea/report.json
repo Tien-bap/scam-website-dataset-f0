@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_2ff512f0846ec2dfd7f0afbc9a174b300a5378c429272cf53b1f356edd145bea",
+  "candidate_sha256": "f3bd8e96d412958f2a0447ef2bdf4cfa28aefab191477801c759b32c133f6451",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+  "requested_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+  "browser_final_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+  "source_urls": [
+    "https://droid-janderson.github.io/Replica-pagina-login-facebook/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 83610,
+      "source_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+      "source_hostname": "droid-janderson.github.io",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+      "final_hostname": "droid-janderson.github.io",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 8212,
+      "elapsed_ms": 1903,
+      "checked_at": "2026-10-05T13:02:21.247239+00:00",
+      "error": null,
+      "normalized_source_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+      "normalized_final_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_2ff512f0846ec2dfd7f0afbc9a174b300a5378c429272cf53b1f356edd145bea",
+    "representative_source_index": 83610,
+    "representative_source_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+    "representative_final_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+    "normalized_final_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+    "source_hostname": "droid-janderson.github.io",
+    "final_hostname": "droid-janderson.github.io",
+    "source_urls": [
+      "https://droid-janderson.github.io/Replica-pagina-login-facebook/"
+    ],
+    "provenance": [
+      {
+        "source_index": 83610,
+        "source_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+        "source_hostname": "droid-janderson.github.io",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+        "final_hostname": "droid-janderson.github.io",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 8212,
+        "elapsed_ms": 1903,
+        "checked_at": "2026-10-05T13:02:21.247239+00:00",
+        "error": null,
+        "normalized_source_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+        "normalized_final_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Facebook - entre ou cadastre-se",
+  "capture_timestamp": "2026-10-05T14:39:16.499298+00:00",
+  "dom_chars": 8151,
+  "screenshot_bytes": 124893,
+  "dom_sha256": "8692b706ffdcf724725838a6b23ce1227b81a0752a61e1b388652fa119988cc6",
+  "screenshot_sha256": "f2629121548fa2628b0789dbd558b3d0987f078eabda82b17792d5506596693f",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+    "browser_final_url": "https://droid-janderson.github.io/Replica-pagina-login-facebook/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3226
+}

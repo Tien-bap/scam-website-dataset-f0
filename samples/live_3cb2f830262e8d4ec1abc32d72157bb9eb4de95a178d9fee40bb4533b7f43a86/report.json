@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_3cb2f830262e8d4ec1abc32d72157bb9eb4de95a178d9fee40bb4533b7f43a86",
+  "candidate_sha256": "00e48c56282c714e4fe9282f3d70eb0b0f3b1befc408cd9c71f97f92f8b44183",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "topcvvn.com",
+  "requested_url": "https://topcvvn.com",
+  "browser_final_url": "https://topcvvn.com/",
+  "source_urls": [
+    "topcvvn.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 177,
+      "source_url": "topcvvn.com",
+      "source_hostname": "topcvvn.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://topcvvn.com",
+      "final_hostname": "topcvvn.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2219,
+      "checked_at": "2026-10-05T12:17:35.983414+00:00",
+      "error": null,
+      "normalized_source_url": "https://topcvvn.com/",
+      "normalized_final_url": "https://topcvvn.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_3cb2f830262e8d4ec1abc32d72157bb9eb4de95a178d9fee40bb4533b7f43a86",
+    "representative_source_index": 177,
+    "representative_source_url": "topcvvn.com",
+    "representative_final_url": "https://topcvvn.com",
+    "normalized_final_url": "https://topcvvn.com/",
+    "source_hostname": "topcvvn.com",
+    "final_hostname": "topcvvn.com",
+    "source_urls": [
+      "topcvvn.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 177,
+        "source_url": "topcvvn.com",
+        "source_hostname": "topcvvn.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://topcvvn.com",
+        "final_hostname": "topcvvn.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2219,
+        "checked_at": "2026-10-05T12:17:35.983414+00:00",
+        "error": null,
+        "normalized_source_url": "https://topcvvn.com/",
+        "normalized_final_url": "https://topcvvn.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "timeout",
+  "capture_status": "partial",
+  "technical_complete": true,
+  "title": "Website số 1 tạo CV ấn tượng, tìm việc làm chất lượng",
+  "capture_timestamp": "2026-10-05T14:40:47.694710+00:00",
+  "dom_chars": 211715,
+  "screenshot_bytes": 258568,
+  "dom_sha256": "20083b127d4c078c639af5f6f77e8e2c97110f1fa70b3d6af794761293f00574",
+  "screenshot_sha256": "b1a894a1da641d82697c501202fdbbfc2b27939a0000013cabf5d6039e15c1e9",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://topcvvn.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://topcvvn.com",
+    "browser_final_url": "https://topcvvn.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": "Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://topcvvn.com/\", waiting until \"domcontentloaded\"\n",
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 16825
+}

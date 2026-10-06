@@ -1,0 +1,27 @@
+{
+  "original_url": "https://onbet88.org",
+  "hostname": "onbet88.org",
+  "checked_at": "2026-10-04T13:34:18.722142+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0f5d8-4c72-717f-8453-d813cc23d244",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-10-01T05:03:14.307Z",
+  "scan_original_url": "http://onbet88.org/",
+  "final_url": "https://onbet88.org/admin/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 311,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.61,
+  "discovery": {
+    "batch_id": "b0525d6f46bab0ef4574c10b1e1a32a2d8019f0797c6d988b0e997f326b06fa7",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

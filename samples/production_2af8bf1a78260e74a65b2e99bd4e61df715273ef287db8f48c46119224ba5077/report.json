@@ -1,0 +1,27 @@
+{
+  "original_url": "https://objectstorage.ap-tokyo-1.oraclecloud.com/n/nrk24jblisuj/b/lightning/o/login.html",
+  "hostname": "objectstorage.ap-tokyo-1.oraclecloud.com",
+  "checked_at": "2026-10-04T14:51:02.917609+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a037aa-b0fd-773f-8d3e-ba47c2fe7ec2",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-25T06:45:35.829Z",
+  "scan_original_url": "https://objectstorage.ap-tokyo-1.oraclecloud.com/n/nr362ffcdry3/b/bucket-20260813-1430/o/index.html",
+  "final_url": "https://objectstorage.ap-tokyo-1.oraclecloud.com/n/nr362ffcdry3/b/bucket-20260813-1430/o/index.html",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 41,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.727,
+  "discovery": {
+    "batch_id": "e3f55352c54e4d1ad663abfa5aead12bb8eeb8d289d7f60d14e3541058191684",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

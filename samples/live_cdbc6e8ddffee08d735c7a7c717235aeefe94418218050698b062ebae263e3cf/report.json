@@ -1,0 +1,757 @@
+{
+  "candidate_id": "live_cdbc6e8ddffee08d735c7a7c717235aeefe94418218050698b062ebae263e3cf",
+  "candidate_sha256": "5cdac064d2ddc3ad89efd401c7abdd78265a4090968a6251fd974336f2b9f886",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://smallspark.space/chile/onedrive-drive/index.php",
+  "requested_url": "https://smallspark.space",
+  "browser_final_url": "https://smallspark.space/",
+  "source_urls": [
+    "http://smallspark.space/bier/css/onedrive-drive/invalid.php",
+    "http://smallspark.space/elr/index.htm",
+    "http://smallspark.space/pho/onedrive-drive/index.php/",
+    "http://www.smallspark.space/cypress/css/onedrive-drive/",
+    "https://smallspark.space/bier/css/onedrive-drive/index.php",
+    "https://smallspark.space/chile/onedrive-drive/index.php",
+    "https://smallspark.space/doc/onedrive-drive/index.php",
+    "https://smallspark.space/hmr/onedrive-drive/index.php",
+    "https://smallspark.space/new/mfile/index.php?utm_source=onedrive&",
+    "https://smallspark.space/win/mfile/index.php?_branch_match_id=888024990791235468&utm_source=onedrive&utm_campaign=onedrive&utm_medium=onedrive"
+  ],
+  "source_count": 10,
+  "provenance": [
+    {
+      "source_index": 20235,
+      "source_url": "https://smallspark.space/chile/onedrive-drive/index.php",
+      "source_hostname": "smallspark.space",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://smallspark.space",
+      "final_hostname": "smallspark.space",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3058,
+      "checked_at": "2026-10-05T13:12:45.273545+00:00",
+      "error": null,
+      "normalized_source_url": "https://smallspark.space/chile/onedrive-drive/index.php",
+      "normalized_final_url": "https://smallspark.space/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 55904,
+      "source_url": "http://smallspark.space/elr/index.htm",
+      "source_hostname": "smallspark.space",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://smallspark.space",
+      "final_hostname": "smallspark.space",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3188,
+      "checked_at": "2026-10-05T13:18:16.453695+00:00",
+      "error": null,
+      "normalized_source_url": "http://smallspark.space/elr/index.htm",
+      "normalized_final_url": "https://smallspark.space/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 55908,
+      "source_url": "http://www.smallspark.space/cypress/css/onedrive-drive/",
+      "source_hostname": "www.smallspark.space",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://smallspark.space",
+      "final_hostname": "smallspark.space",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4613,
+      "checked_at": "2026-10-05T12:54:06.505221+00:00",
+      "error": null,
+      "normalized_source_url": "http://www.smallspark.space/cypress/css/onedrive-drive/",
+      "normalized_final_url": "https://smallspark.space/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 56073,
+      "source_url": "https://smallspark.space/doc/onedrive-drive/index.php",
+      "source_hostname": "smallspark.space",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://smallspark.space",
+      "final_hostname": "smallspark.space",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2462,
+      "checked_at": "2026-10-05T13:18:22.114907+00:00",
+      "error": null,
+      "normalized_source_url": "https://smallspark.space/doc/onedrive-drive/index.php",
+      "normalized_final_url": "https://smallspark.space/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 59574,
+      "source_url": "http://smallspark.space/bier/css/onedrive-drive/invalid.php",
+      "source_hostname": "smallspark.space",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://smallspark.space",
+      "final_hostname": "smallspark.space",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2529,
+      "checked_at": "2026-10-05T13:18:26.221118+00:00",
+      "error": null,
+      "normalized_source_url": "http://smallspark.space/bier/css/onedrive-drive/invalid.php",
+      "normalized_final_url": "https://smallspark.space/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 60197,
+      "source_url": "https://smallspark.space/bier/css/onedrive-drive/index.php",
+      "source_hostname": "smallspark.space",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://smallspark.space",
+      "final_hostname": "smallspark.space",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2941,
+      "checked_at": "2026-10-05T13:18:28.799117+00:00",
+      "error": null,
+      "normalized_source_url": "https://smallspark.space/bier/css/onedrive-drive/index.php",
+      "normalized_final_url": "https://smallspark.space/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 63452,
+      "source_url": "http://smallspark.space/pho/onedrive-drive/index.php/",
+      "source_hostname": "smallspark.space",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://smallspark.space",
+      "final_hostname": "smallspark.space",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2348,
+      "checked_at": "2026-10-05T13:18:30.839589+00:00",
+      "error": null,
+      "normalized_source_url": "http://smallspark.space/pho/onedrive-drive/index.php/",
+      "normalized_final_url": "https://smallspark.space/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 64827,
+      "source_url": "https://smallspark.space/hmr/onedrive-drive/index.php",
+      "source_hostname": "smallspark.space",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://smallspark.space",
+      "final_hostname": "smallspark.space",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2312,
+      "checked_at": "2026-10-05T13:18:34.048142+00:00",
+      "error": null,
+      "normalized_source_url": "https://smallspark.space/hmr/onedrive-drive/index.php",
+      "normalized_final_url": "https://smallspark.space/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 66417,
+      "source_url": "https://smallspark.space/new/mfile/index.php?utm_source=onedrive&",
+      "source_hostname": "smallspark.space",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://smallspark.space",
+      "final_hostname": "smallspark.space",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2258,
+      "checked_at": "2026-10-05T13:18:36.791064+00:00",
+      "error": null,
+      "normalized_source_url": "https://smallspark.space/new/mfile/index.php?utm_source=onedrive&",
+      "normalized_final_url": "https://smallspark.space/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 66810,
+      "source_url": "https://smallspark.space/win/mfile/index.php?_branch_match_id=888024990791235468&utm_source=onedrive&utm_campaign=onedrive&utm_medium=onedrive",
+      "source_hostname": "smallspark.space",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://smallspark.space",
+      "final_hostname": "smallspark.space",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3419,
+      "checked_at": "2026-10-05T12:12:00.998926+00:00",
+      "error": null,
+      "normalized_source_url": "https://smallspark.space/win/mfile/index.php?_branch_match_id=888024990791235468&utm_source=onedrive&utm_campaign=onedrive&utm_medium=onedrive",
+      "normalized_final_url": "https://smallspark.space/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_cdbc6e8ddffee08d735c7a7c717235aeefe94418218050698b062ebae263e3cf",
+    "representative_source_index": 20235,
+    "representative_source_url": "https://smallspark.space/chile/onedrive-drive/index.php",
+    "representative_final_url": "https://smallspark.space",
+    "normalized_final_url": "https://smallspark.space/",
+    "source_hostname": "smallspark.space",
+    "final_hostname": "smallspark.space",
+    "source_urls": [
+      "http://smallspark.space/bier/css/onedrive-drive/invalid.php",
+      "http://smallspark.space/elr/index.htm",
+      "http://smallspark.space/pho/onedrive-drive/index.php/",
+      "http://www.smallspark.space/cypress/css/onedrive-drive/",
+      "https://smallspark.space/bier/css/onedrive-drive/index.php",
+      "https://smallspark.space/chile/onedrive-drive/index.php",
+      "https://smallspark.space/doc/onedrive-drive/index.php",
+      "https://smallspark.space/hmr/onedrive-drive/index.php",
+      "https://smallspark.space/new/mfile/index.php?utm_source=onedrive&",
+      "https://smallspark.space/win/mfile/index.php?_branch_match_id=888024990791235468&utm_source=onedrive&utm_campaign=onedrive&utm_medium=onedrive"
+    ],
+    "provenance": [
+      {
+        "source_index": 20235,
+        "source_url": "https://smallspark.space/chile/onedrive-drive/index.php",
+        "source_hostname": "smallspark.space",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://smallspark.space",
+        "final_hostname": "smallspark.space",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3058,
+        "checked_at": "2026-10-05T13:12:45.273545+00:00",
+        "error": null,
+        "normalized_source_url": "https://smallspark.space/chile/onedrive-drive/index.php",
+        "normalized_final_url": "https://smallspark.space/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 55904,
+        "source_url": "http://smallspark.space/elr/index.htm",
+        "source_hostname": "smallspark.space",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://smallspark.space",
+        "final_hostname": "smallspark.space",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3188,
+        "checked_at": "2026-10-05T13:18:16.453695+00:00",
+        "error": null,
+        "normalized_source_url": "http://smallspark.space/elr/index.htm",
+        "normalized_final_url": "https://smallspark.space/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 55908,
+        "source_url": "http://www.smallspark.space/cypress/css/onedrive-drive/",
+        "source_hostname": "www.smallspark.space",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://smallspark.space",
+        "final_hostname": "smallspark.space",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4613,
+        "checked_at": "2026-10-05T12:54:06.505221+00:00",
+        "error": null,
+        "normalized_source_url": "http://www.smallspark.space/cypress/css/onedrive-drive/",
+        "normalized_final_url": "https://smallspark.space/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 56073,
+        "source_url": "https://smallspark.space/doc/onedrive-drive/index.php",
+        "source_hostname": "smallspark.space",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://smallspark.space",
+        "final_hostname": "smallspark.space",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2462,
+        "checked_at": "2026-10-05T13:18:22.114907+00:00",
+        "error": null,
+        "normalized_source_url": "https://smallspark.space/doc/onedrive-drive/index.php",
+        "normalized_final_url": "https://smallspark.space/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 59574,
+        "source_url": "http://smallspark.space/bier/css/onedrive-drive/invalid.php",
+        "source_hostname": "smallspark.space",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://smallspark.space",
+        "final_hostname": "smallspark.space",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2529,
+        "checked_at": "2026-10-05T13:18:26.221118+00:00",
+        "error": null,
+        "normalized_source_url": "http://smallspark.space/bier/css/onedrive-drive/invalid.php",
+        "normalized_final_url": "https://smallspark.space/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 60197,
+        "source_url": "https://smallspark.space/bier/css/onedrive-drive/index.php",
+        "source_hostname": "smallspark.space",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://smallspark.space",
+        "final_hostname": "smallspark.space",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2941,
+        "checked_at": "2026-10-05T13:18:28.799117+00:00",
+        "error": null,
+        "normalized_source_url": "https://smallspark.space/bier/css/onedrive-drive/index.php",
+        "normalized_final_url": "https://smallspark.space/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 63452,
+        "source_url": "http://smallspark.space/pho/onedrive-drive/index.php/",
+        "source_hostname": "smallspark.space",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://smallspark.space",
+        "final_hostname": "smallspark.space",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2348,
+        "checked_at": "2026-10-05T13:18:30.839589+00:00",
+        "error": null,
+        "normalized_source_url": "http://smallspark.space/pho/onedrive-drive/index.php/",
+        "normalized_final_url": "https://smallspark.space/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 64827,
+        "source_url": "https://smallspark.space/hmr/onedrive-drive/index.php",
+        "source_hostname": "smallspark.space",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://smallspark.space",
+        "final_hostname": "smallspark.space",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2312,
+        "checked_at": "2026-10-05T13:18:34.048142+00:00",
+        "error": null,
+        "normalized_source_url": "https://smallspark.space/hmr/onedrive-drive/index.php",
+        "normalized_final_url": "https://smallspark.space/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 66417,
+        "source_url": "https://smallspark.space/new/mfile/index.php?utm_source=onedrive&",
+        "source_hostname": "smallspark.space",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://smallspark.space",
+        "final_hostname": "smallspark.space",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2258,
+        "checked_at": "2026-10-05T13:18:36.791064+00:00",
+        "error": null,
+        "normalized_source_url": "https://smallspark.space/new/mfile/index.php?utm_source=onedrive&",
+        "normalized_final_url": "https://smallspark.space/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 66810,
+        "source_url": "https://smallspark.space/win/mfile/index.php?_branch_match_id=888024990791235468&utm_source=onedrive&utm_campaign=onedrive&utm_medium=onedrive",
+        "source_hostname": "smallspark.space",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://smallspark.space",
+        "final_hostname": "smallspark.space",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3419,
+        "checked_at": "2026-10-05T12:12:00.998926+00:00",
+        "error": null,
+        "normalized_source_url": "https://smallspark.space/win/mfile/index.php?_branch_match_id=888024990791235468&utm_source=onedrive&utm_campaign=onedrive&utm_medium=onedrive",
+        "normalized_final_url": "https://smallspark.space/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 10,
+    "unique_source_url_count": 10,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Casino Utan Svensk Licens 2026 – Spela Fritt Utan Spelpaus",
+  "capture_timestamp": "2026-10-05T14:55:58.072869+00:00",
+  "dom_chars": 196445,
+  "screenshot_bytes": 196605,
+  "dom_sha256": "729cf4f00fc4d93e950d7084fb632d464466108580ffd51b37003f4efe701077",
+  "screenshot_sha256": "816f29aeabc575fc0742c841e66599be10edb0ce82120259d0306acf15e4f631",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://smallspark.space/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://smallspark.space",
+    "browser_final_url": "https://smallspark.space/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 10219
+}

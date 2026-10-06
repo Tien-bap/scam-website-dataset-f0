@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_fa1ac0a98d65ac7387aed6a5660388d76a72ae38257ebd7191cf1845941462c3",
+  "candidate_sha256": "ba6842e800c14e2ab2f6faa7ecc12022b825ead693dbe5fb75741c87fa4733f3",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "u2sto.xyz",
+  "requested_url": "https://app.u2sto.xyz/",
+  "browser_final_url": "https://app.u2sto.xyz/",
+  "source_urls": [
+    "u2sto.xyz"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2221,
+      "source_url": "u2sto.xyz",
+      "source_hostname": "u2sto.xyz",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://app.u2sto.xyz/",
+      "final_hostname": "app.u2sto.xyz",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 2136,
+      "elapsed_ms": 784,
+      "checked_at": "2026-10-05T12:19:35.499139+00:00",
+      "error": null,
+      "normalized_source_url": "https://u2sto.xyz/",
+      "normalized_final_url": "https://app.u2sto.xyz/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_fa1ac0a98d65ac7387aed6a5660388d76a72ae38257ebd7191cf1845941462c3",
+    "representative_source_index": 2221,
+    "representative_source_url": "u2sto.xyz",
+    "representative_final_url": "https://app.u2sto.xyz/",
+    "normalized_final_url": "https://app.u2sto.xyz/",
+    "source_hostname": "u2sto.xyz",
+    "final_hostname": "app.u2sto.xyz",
+    "source_urls": [
+      "u2sto.xyz"
+    ],
+    "provenance": [
+      {
+        "source_index": 2221,
+        "source_url": "u2sto.xyz",
+        "source_hostname": "u2sto.xyz",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://app.u2sto.xyz/",
+        "final_hostname": "app.u2sto.xyz",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 2136,
+        "elapsed_ms": 784,
+        "checked_at": "2026-10-05T12:19:35.499139+00:00",
+        "error": null,
+        "normalized_source_url": "https://u2sto.xyz/",
+        "normalized_final_url": "https://app.u2sto.xyz/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Dashboard - U2VENTURE",
+  "capture_timestamp": "2026-10-05T15:01:10.512248+00:00",
+  "dom_chars": 68135,
+  "screenshot_bytes": 48131,
+  "dom_sha256": "25ed32c2811fe97d2c4677f1c4e1e2324e69f6d5899e188c452a43db971bbfba",
+  "screenshot_sha256": "a24fd7f930f2d336560abcf84b867ad30f209bf621d055b6a3e04c3e5e7e9a6b",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://app.u2sto.xyz/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://app.u2sto.xyz/",
+    "browser_final_url": "https://app.u2sto.xyz/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 2
+  },
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "elapsed_ms": 3339
+}

@@ -1,0 +1,239 @@
+{
+  "candidate_id": "live_2056154cbaacc69aacecd35e2fe9b7ad38093403f700a3cc74897d642c0b180b",
+  "candidate_sha256": "6f9c487ef8208e262bc89127c76cf4556df5968385f4b195c88ea129ab1576c5",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://taxidienbentre.com/",
+  "requested_url": "https://taxidienbentre.com/",
+  "browser_final_url": "https://taxidienbentre.com/",
+  "source_urls": [
+    "https://taxidienbentre.com/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 540,
+      "source_url": "https://taxidienbentre.com/",
+      "source_hostname": "taxidienbentre.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://taxidienbentre.com/",
+      "final_hostname": "taxidienbentre.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1170,
+      "checked_at": "2026-10-05T12:17:52.473862+00:00",
+      "error": null,
+      "normalized_source_url": "https://taxidienbentre.com/",
+      "normalized_final_url": "https://taxidienbentre.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_2056154cbaacc69aacecd35e2fe9b7ad38093403f700a3cc74897d642c0b180b",
+    "representative_source_index": 540,
+    "representative_source_url": "https://taxidienbentre.com/",
+    "representative_final_url": "https://taxidienbentre.com/",
+    "normalized_final_url": "https://taxidienbentre.com/",
+    "source_hostname": "taxidienbentre.com",
+    "final_hostname": "taxidienbentre.com",
+    "source_urls": [
+      "https://taxidienbentre.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 540,
+        "source_url": "https://taxidienbentre.com/",
+        "source_hostname": "taxidienbentre.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://taxidienbentre.com/",
+        "final_hostname": "taxidienbentre.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1170,
+        "checked_at": "2026-10-05T12:17:52.473862+00:00",
+        "error": null,
+        "normalized_source_url": "https://taxidienbentre.com/",
+        "normalized_final_url": "https://taxidienbentre.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "commit_salvaged",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Taxi Bến Tre – Đặt Xe Nhanh Chóng, Đưa Đón Tận Nơi",
+  "capture_timestamp": "2026-10-06T02:42:08.995578+00:00",
+  "dom_chars": 303988,
+  "screenshot_bytes": 532640,
+  "dom_sha256": "f65b44b76d3ab1655b1f4a7432180cf895261a20aef2273edcc16b3ba7a36a26",
+  "screenshot_sha256": "4c559a020a5dd269f00ee269ea76ebae06faae5db47886723d27a0cd1b7c424e",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://taxidienbentre.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://taxidienbentre.com/",
+    "browser_final_url": "https://taxidienbentre.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 16
+  },
+  "blocked_responses": 3,
+  "downloaded_files": 0,
+  "dom_source": "rendered",
+  "recovery_strategy": "commit_fallback",
+  "timeline": [
+    {
+      "event": "context created",
+      "timestamp": "2026-10-06T02:42:09.004980+00:00",
+      "elapsed_ms": 16
+    },
+    {
+      "event": "goto(commit) start",
+      "timestamp": "2026-10-06T02:42:09.054023+00:00",
+      "elapsed_ms": 65
+    },
+    {
+      "event": "HTTP response: 200 https://taxidienbentre.com/",
+      "timestamp": "2026-10-06T02:42:10.142982+00:00",
+      "elapsed_ms": 1154
+    },
+    {
+      "event": "response committed",
+      "timestamp": "2026-10-06T02:42:10.148038+00:00",
+      "elapsed_ms": 1159
+    },
+    {
+      "event": "goto end: commit_failed",
+      "timestamp": "2026-10-06T02:42:10.148067+00:00",
+      "elapsed_ms": 1159
+    },
+    {
+      "event": "settle start",
+      "timestamp": "2026-10-06T02:42:10.148083+00:00",
+      "elapsed_ms": 1159
+    },
+    {
+      "event": "settle end",
+      "timestamp": "2026-10-06T02:42:14.148386+00:00",
+      "elapsed_ms": 5159
+    },
+    {
+      "event": "page.url: https://taxidienbentre.com/ HTTP: 200",
+      "timestamp": "2026-10-06T02:42:14.157180+00:00",
+      "elapsed_ms": 5168
+    },
+    {
+      "event": "title start",
+      "timestamp": "2026-10-06T02:42:14.157197+00:00",
+      "elapsed_ms": 5168
+    },
+    {
+      "event": "title end",
+      "timestamp": "2026-10-06T02:42:14.189065+00:00",
+      "elapsed_ms": 5200
+    },
+    {
+      "event": "content start",
+      "timestamp": "2026-10-06T02:42:14.189088+00:00",
+      "elapsed_ms": 5200
+    },
+    {
+      "event": "content end",
+      "timestamp": "2026-10-06T02:42:14.230373+00:00",
+      "elapsed_ms": 5241
+    },
+    {
+      "event": "screenshot start",
+      "timestamp": "2026-10-06T02:42:14.230926+00:00",
+      "elapsed_ms": 5242
+    },
+    {
+      "event": "screenshot end",
+      "timestamp": "2026-10-06T02:42:14.463408+00:00",
+      "elapsed_ms": 5474
+    },
+    {
+      "event": "context close start",
+      "timestamp": "2026-10-06T02:42:14.504669+00:00",
+      "elapsed_ms": 5515
+    },
+    {
+      "event": "context close end",
+      "timestamp": "2026-10-06T02:42:14.517498+00:00",
+      "elapsed_ms": 5528
+    }
+  ],
+  "artifact_errors": [],
+  "elapsed_ms": 5528,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T16:34:49.099492+00:00",
+    "previous_report_sha256": "6ea1ea14edb7b36bde7f5bfa56f618b54bf35284d80b21d89074f13738fccce6",
+    "recovered_at": "2026-10-06T02:42:08.995578+00:00",
+    "result": "commit_salvaged"
+  }
+}

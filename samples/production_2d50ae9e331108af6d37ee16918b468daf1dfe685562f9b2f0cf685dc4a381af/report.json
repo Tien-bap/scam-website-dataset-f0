@@ -1,0 +1,27 @@
+{
+  "original_url": "https://www.mesharepoint.com/nam/login?id=SDlraVRXL2pqSkFiRzY1UlFhS3lxZzVjQmllekpCYmtkbkJSR3U4eWI4c2srM09heDI0SG94L3ZMYWFuMDhURWVuOWQ5YkIrU2kxSG1NV0dVditjTVdvSmpzZ3d2ejVYMS8xL29BTUFDa0FlVE5wcW1RaHc5ajU0UjQva1I5V3VrdmNBL2k3SFdiRHUxd0RxYnZMa2w0YWRnVnVWTzRkZlN4ZEQ5UGZUU3JIeHF5SXlWNmxMcnF1aWtVb3JmTHNnaUxtTFIxTWZSWFNrOGRFWmgrVGd4UFpoVmNHUU5jeis3UlVGcTQ2TVg3MmRCWVVIdHpZdWxhNFBzUVlPMDhINjUzMmFwKzhaZGRQbEc1NzR0d09tc2V5MUxEWnRoT1N1Nk40WFY0SmwwWk9SQlpjbldoOU5lTzUxQUI5anBidmo",
+  "hostname": "www.mesharepoint.com",
+  "checked_at": "2026-10-04T13:57:41.877123+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 38,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0f797-70b2-7331-8791-811a9ad07195",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-01T13:11:39.810Z",
+  "scan_original_url": "https://www.mesharepoint.com/eur/74bd1827-cdbf-4093-b0ee-6d7d7f34a0f8/f9b7e376-8fff-41e2-8681-44ca0fcc6a9d/8215f3a4-8bc1-456e-9c48-6cdf93707838/landing?id=UG9BZ3FsZzFUU1gyRXp2aVA4Y0IwTEZuaS9zak1SY2V4ZjdzT09iRUhERDJIRlhmd3YwMDhGWDNGZGFZdU9LcjVISW54KzZTZ3VRVmxwVWY1RXVPd28vbjd1U0JMaE5GOGtST201MXp1MkI5YS9TRnNsTnF6QnFZdUVFV2hCV0ZzTjVCaWN3WDdManpXYTV5WElOUmNxRVFoa1dhd3MwTzRBb24yOWkvazJ4M2hCSGdpRjFzWnNzMmxmVGZMMGtGN0RIVTh5UVFBbTlxRE9YNnBCMysxUHdYbERRQkk0cCttLzhwRHQ0bFFZT0JMNUZwcmJ0M1lIWHBxckdFUWZJdktteitSRFR6bHdJUEkyM3BlcWlwTFZXUU5uOEFBcmR4RHI0SHBYa28wNWJ4UFd1ZzdjbmtJQlBXTXkyVk1VTHNnMXBZMjU2V0lhaWxJampEMnF2WDVmd2V1V0xTY3ROMjdybmhKTzJtRll5OUhUQ2dDc09Pbm84S1c1NHJ6cTZmaGpnamErUExCRWdJK0R5TGY3T012UT09",
+  "final_url": "https://www.mesharepoint.com/eur/74bd1827-cdbf-4093-b0ee-6d7d7f34a0f8/f9b7e376-8fff-41e2-8681-44ca0fcc6a9d/8215f3a4-8bc1-456e-9c48-6cdf93707838/landing?id=UG9BZ3FsZzFUU1gyRXp2aVA4Y0IwTEZuaS9zak1SY2V4ZjdzT09iRUhERDJIRlhmd3YwMDhGWDNGZGFZdU9LcjVISW54KzZTZ3VRVmxwVWY1RXVPd28vbjd1U0JMaE5GOGtST201MXp1MkI5YS9TRnNsTnF6QnFZdUVFV2hCV0ZzTjVCaWN3WDdManpXYTV5WElOUmNxRVFoa1dhd3MwTzRBb24yOWkvazJ4M2hCSGdpRjFzWnNzMmxmVGZMMGtGN0RIVTh5UVFBbTlxRE9YNnBCMysxUHdYbERRQkk0cCttLzhwRHQ0bFFZT0JMNUZwcmJ0M1lIWHBxckdFUWZJdktteitSRFR6bHdJUEkyM3BlcWlwTFZXUU5uOEFBcmR4RHI0SHBYa28wNWJ4UFd1ZzdjbmtJQlBXTXkyVk1VTHNnMXBZMjU2V0lhaWxJampEMnF2WDVmd2V1V0xTY3ROMjdybmhKTzJtRll5OUhUQ2dDc09Pbm84S1c1NHJ6cTZmaGpnamErUExCRWdJK0R5TGY3T012UT09",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2666,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.524,
+  "discovery": {
+    "batch_id": "1c093f01da9eb9c1df103d0cb5924951733935b390d26598acf09d5ffe8d8863",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

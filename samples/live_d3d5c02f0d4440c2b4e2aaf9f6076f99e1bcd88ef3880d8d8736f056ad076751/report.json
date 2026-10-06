@@ -1,0 +1,239 @@
+{
+  "candidate_id": "live_d3d5c02f0d4440c2b4e2aaf9f6076f99e1bcd88ef3880d8d8736f056ad076751",
+  "candidate_sha256": "4180a5260de49436d090c08dbe4597e4c88515f377ee4580f6af6e25c1c079f3",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://vietjets.com.vn",
+  "requested_url": "https://vietjets.com.vn",
+  "browser_final_url": "https://vietjets.com.vn/",
+  "source_urls": [
+    "https://vietjets.com.vn"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11602,
+      "source_url": "https://vietjets.com.vn",
+      "source_hostname": "vietjets.com.vn",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://vietjets.com.vn",
+      "final_hostname": "vietjets.com.vn",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1170,
+      "checked_at": "2026-10-05T12:41:47.625495+00:00",
+      "error": null,
+      "normalized_source_url": "https://vietjets.com.vn/",
+      "normalized_final_url": "https://vietjets.com.vn/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_d3d5c02f0d4440c2b4e2aaf9f6076f99e1bcd88ef3880d8d8736f056ad076751",
+    "representative_source_index": 11602,
+    "representative_source_url": "https://vietjets.com.vn",
+    "representative_final_url": "https://vietjets.com.vn",
+    "normalized_final_url": "https://vietjets.com.vn/",
+    "source_hostname": "vietjets.com.vn",
+    "final_hostname": "vietjets.com.vn",
+    "source_urls": [
+      "https://vietjets.com.vn"
+    ],
+    "provenance": [
+      {
+        "source_index": 11602,
+        "source_url": "https://vietjets.com.vn",
+        "source_hostname": "vietjets.com.vn",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://vietjets.com.vn",
+        "final_hostname": "vietjets.com.vn",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1170,
+        "checked_at": "2026-10-05T12:41:47.625495+00:00",
+        "error": null,
+        "normalized_source_url": "https://vietjets.com.vn/",
+        "normalized_final_url": "https://vietjets.com.vn/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "nojs_salvaged",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Vietjet Agency | Vé máy bay giá chỉ từ 58.OOO VNĐ",
+  "capture_timestamp": "2026-10-06T04:50:30.366873+00:00",
+  "dom_chars": 100462,
+  "screenshot_bytes": 276146,
+  "dom_sha256": "f26dd625140614087dd662f0b30cb83a0ba3ccddc379631605668f48231c12ab",
+  "screenshot_sha256": "7a5343501e1f01d5c47f5d6f616f7de077b279560808aa8ff8bffee54435e77e",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://vietjets.com.vn/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://vietjets.com.vn",
+    "browser_final_url": "https://vietjets.com.vn/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "dom_source": "rendered",
+  "recovery_strategy": "javascript_disabled_fallback",
+  "capture_strategy": "javascript_disabled_fallback",
+  "javascript_enabled": false,
+  "timeline": [
+    {
+      "event": "context created",
+      "timestamp": "2026-10-06T04:50:30.389713+00:00",
+      "elapsed_ms": 26
+    },
+    {
+      "event": "goto(commit) start",
+      "timestamp": "2026-10-06T04:50:30.489182+00:00",
+      "elapsed_ms": 125
+    },
+    {
+      "event": "HTTP response: 200 https://vietjets.com.vn/",
+      "timestamp": "2026-10-06T04:50:31.119943+00:00",
+      "elapsed_ms": 756
+    },
+    {
+      "event": "response committed",
+      "timestamp": "2026-10-06T04:50:31.125568+00:00",
+      "elapsed_ms": 762
+    },
+    {
+      "event": "goto end: commit_failed",
+      "timestamp": "2026-10-06T04:50:31.125591+00:00",
+      "elapsed_ms": 762
+    },
+    {
+      "event": "settle start",
+      "timestamp": "2026-10-06T04:50:31.125608+00:00",
+      "elapsed_ms": 762
+    },
+    {
+      "event": "settle end",
+      "timestamp": "2026-10-06T04:50:35.126714+00:00",
+      "elapsed_ms": 4763
+    },
+    {
+      "event": "page.url: https://vietjets.com.vn/ HTTP: 200",
+      "timestamp": "2026-10-06T04:50:35.128315+00:00",
+      "elapsed_ms": 4765
+    },
+    {
+      "event": "title start",
+      "timestamp": "2026-10-06T04:50:35.128334+00:00",
+      "elapsed_ms": 4765
+    },
+    {
+      "event": "title end",
+      "timestamp": "2026-10-06T04:50:35.135717+00:00",
+      "elapsed_ms": 4772
+    },
+    {
+      "event": "content start",
+      "timestamp": "2026-10-06T04:50:35.135740+00:00",
+      "elapsed_ms": 4772
+    },
+    {
+      "event": "content end",
+      "timestamp": "2026-10-06T04:50:35.150721+00:00",
+      "elapsed_ms": 4787
+    },
+    {
+      "event": "screenshot start",
+      "timestamp": "2026-10-06T04:50:35.150832+00:00",
+      "elapsed_ms": 4787
+    },
+    {
+      "event": "screenshot end",
+      "timestamp": "2026-10-06T04:50:35.346669+00:00",
+      "elapsed_ms": 4983
+    },
+    {
+      "event": "context close start",
+      "timestamp": "2026-10-06T04:50:35.374929+00:00",
+      "elapsed_ms": 5011
+    },
+    {
+      "event": "context close end",
+      "timestamp": "2026-10-06T04:50:35.383751+00:00",
+      "elapsed_ms": 5020
+    }
+  ],
+  "artifact_errors": [],
+  "elapsed_ms": 5020,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "commit_failed",
+    "original_capture_timestamp": "2026-10-06T02:43:25.038959+00:00",
+    "previous_report_sha256": "b299812d3ac7eb38d7f29dd18b1456d65fea0bc7be19b8dc087d50cb1d8f2267",
+    "recovered_at": "2026-10-06T04:50:30.366873+00:00",
+    "result": "nojs_salvaged"
+  }
+}

@@ -1,0 +1,1765 @@
+<!DOCTYPE html><html lang="vi"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>qh88 – Trải Nghiệm Game Hot Mobile Nhận Ngay Vòng Quay Miễn Phí</title>
+  <meta name="description" content="qh88 – Sân chơi cá cược trực tuyến uy tín dành cho người Việt. Cược thể thao, casino live, nổ hũ, đá gà và nhiều hơn nữa. Nạp rút siêu tốc qua MoMo, VNPay, Vietcombank.">
+  <link rel="canonical" href="https://qh88.app/">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://qh88.app/">
+  <meta property="og:title" content="qh88 – Nhà Cái Cá Cược Trực Tuyến Hàng Đầu Việt Nam">
+  <meta property="og:description" content="qh88 – Sân chơi cá cược trực tuyến uy tín dành cho người Việt. Cược thể thao, casino live, nổ hũ, đá gà và nhiều hơn nữa. Nạp rút siêu tốc qua MoMo, VNPay, Vietcombank.">
+  <meta property="og:image" content="https://qh88.app/img/2AO2ZPEE1O.jpg">
+  <meta property="og:locale" content="vi_VN">
+  <meta property="og:site_name" content="qh88">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="qh88 – Nhà Cái Cá Cược Trực Tuyến Hàng Đầu Việt Nam">
+  <meta name="twitter:description" content="qh88 – Sân chơi cá cược trực tuyến uy tín dành cho người Việt. Cược thể thao, casino live, nổ hũ, đá gà và nhiều hơn nữa.">
+  <meta name="twitter:image" content="https://qh88.app/img/2AO2ZPEE1O.jpg">
+
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+  <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&amp;display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --orange:   #fb923c;
+      --cream:    #fef3c7;
+      --green:    #84cc16;
+      --navy:     #1e293b;
+      --navy-mid: #273549;
+      --navy-lt:  #334155;
+      --text-lt:  #f1f5f9;
+      --text-muted-lt: #94a3b8;
+      --border-col: rgba(251,146,60,0.25);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      font-family: 'Be Vietnam Pro', sans-serif;
+      background-color: var(--navy);
+      color: var(--text-lt);
+      overflow-x: hidden;
+    }
+
+    /* ─── NAVBAR ─── */
+    .navbar {
+      background-color: rgba(30,41,59,0.97);
+      border-bottom: 2px solid var(--orange);
+      padding: 0.6rem 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 1050;
+      backdrop-filter: blur(8px);
+    }
+    .navbar-brand img { height: 42px; }
+    .navbar-nav .nav-link {
+      color: var(--text-lt) !important;
+      font-weight: 500;
+      font-size: 0.88rem;
+      padding: 0.45rem 0.7rem;
+      transition: color 0.2s;
+      white-space: nowrap;
+    }
+    .navbar-nav .nav-link:hover,
+    .navbar-nav .nav-link.active {
+      color: var(--orange) !important;
+    }
+    .navbar-toggler { border-color: var(--orange); }
+    .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23fb923c' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+
+    /* ─── HERO ─── */
+    .hero-section {
+      background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #1a3040 100%);
+      padding: 90px 0 70px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero-section::before {
+      content: '';
+      position: absolute;
+      top: -80px; right: -80px;
+      width: 450px; height: 450px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(251,146,60,0.18) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-section::after {
+      content: '';
+      position: absolute;
+      bottom: -100px; left: -60px;
+      width: 380px; height: 380px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(132,204,22,0.12) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-badge {
+      display: inline-block;
+      background: var(--orange);
+      color: #fff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      padding: 4px 14px;
+      border-radius: 20px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+    }
+    .hero-section h1 {
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      font-weight: 900;
+      line-height: 1.2;
+      color: #fff;
+    }
+    .hero-section h1 span { color: var(--orange); }
+    .hero-section p.lead {
+      color: var(--text-muted-lt);
+      font-size: 1.05rem;
+      max-width: 540px;
+    }
+    .btn-hero-primary {
+      background: var(--orange);
+      color: #fff;
+      font-weight: 700;
+      border: none;
+      padding: 14px 36px;
+      border-radius: 50px;
+      font-size: 1rem;
+      transition: transform 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .btn-hero-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(251,146,60,0.45);
+      color: #fff;
+    }
+    .btn-hero-secondary {
+      background: transparent;
+      color: var(--cream);
+      font-weight: 600;
+      border: 2px solid rgba(254,243,199,0.4);
+      padding: 13px 30px;
+      border-radius: 50px;
+      font-size: 1rem;
+      transition: border-color 0.2s, color 0.2s;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .btn-hero-secondary:hover {
+      border-color: var(--cream);
+      color: var(--cream);
+    }
+    .hero-stat-box {
+      background: rgba(255,255,255,0.06);
+      border: 1px solid var(--border-col);
+      border-radius: 16px;
+      padding: 18px 22px;
+      text-align: center;
+    }
+    .hero-stat-box .stat-num {
+      font-size: 1.7rem;
+      font-weight: 900;
+      color: var(--orange);
+    }
+    .hero-stat-box .stat-label {
+      font-size: 0.78rem;
+      color: var(--text-muted-lt);
+      margin-top: 4px;
+    }
+
+    /* ─── SECTION TITLES ─── */
+    .section-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--green);
+      margin-bottom: 0.4rem;
+    }
+    .section-title {
+      font-size: clamp(1.5rem, 3.5vw, 2.3rem);
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.25;
+    }
+    .section-title span { color: var(--orange); }
+    .section-sub {
+      color: var(--text-muted-lt);
+      font-size: 0.97rem;
+      max-width: 600px;
+    }
+
+    /* ─── CATEGORY CARDS ─── */
+    .cat-section { background: var(--navy-mid); padding: 64px 0; }
+    .cat-card {
+      background: linear-gradient(160deg, var(--navy-lt), #1e293b);
+      border: 1px solid var(--border-col);
+      border-radius: 18px;
+      padding: 26px 18px;
+      text-align: center;
+      cursor: pointer;
+      transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s;
+      position: relative;
+      overflow: hidden;
+      text-decoration: none;
+      display: block;
+    }
+    .cat-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 12px 32px rgba(251,146,60,0.28);
+      border-color: var(--orange);
+    }
+    .cat-card .cat-icon {
+      font-size: 2.4rem;
+      margin-bottom: 10px;
+      display: block;
+    }
+    .cat-card .cat-name {
+      font-weight: 700;
+      font-size: 0.95rem;
+      color: #fff;
+    }
+    .cat-card .cat-count {
+      font-size: 0.75rem;
+      color: var(--text-muted-lt);
+      margin-top: 4px;
+    }
+    .cat-card .badge-hot {
+      position: absolute;
+      top: 10px; right: 10px;
+      background: var(--orange);
+      color: #fff;
+      font-size: 0.6rem;
+      font-weight: 800;
+      padding: 2px 8px;
+      border-radius: 20px;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+    }
+    .cat-card .badge-new {
+      position: absolute;
+      top: 10px; right: 10px;
+      background: var(--green);
+      color: #1e293b;
+      font-size: 0.6rem;
+      font-weight: 800;
+      padding: 2px 8px;
+      border-radius: 20px;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+    }
+    .cat-scroll-wrapper {
+      overflow-x: auto;
+      padding-bottom: 8px;
+      scrollbar-width: thin;
+      scrollbar-color: var(--orange) var(--navy);
+    }
+    .cat-scroll-wrapper::-webkit-scrollbar { height: 5px; }
+    .cat-scroll-wrapper::-webkit-scrollbar-thumb { background: var(--orange); border-radius: 10px; }
+    .cat-scroll-inner {
+      display: flex;
+      gap: 14px;
+      min-width: max-content;
+      padding: 4px 2px 8px;
+    }
+    .cat-scroll-inner .cat-card { width: 140px; flex-shrink: 0; }
+
+    /* ─── FEATURED IMAGE ─── */
+    .featured-img {
+      width: 100%;
+      border-radius: 18px;
+      display: block;
+      object-fit: cover;
+    }
+
+    /* ─── WINNERS TICKER ─── */
+    .winners-section { background: var(--navy); padding: 56px 0; }
+    .winner-card {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border-col);
+      border-left: 4px solid var(--orange);
+      border-radius: 12px;
+      padding: 14px 18px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .winner-avatar {
+      width: 42px; height: 42px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--orange), #f59e0b);
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 800; font-size: 1rem; color: #fff;
+      flex-shrink: 0;
+    }
+    .winner-name { font-weight: 700; font-size: 0.9rem; color: #fff; }
+    .winner-game { font-size: 0.78rem; color: var(--text-muted-lt); }
+    .winner-amount { font-weight: 800; color: var(--green); font-size: 1rem; margin-left: auto; white-space: nowrap; }
+    .winner-time { font-size: 0.7rem; color: var(--text-muted-lt); }
+
+    /* ─── JACKPOT ─── */
+    .jackpot-section {
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      padding: 72px 0;
+      position: relative;
+      overflow: hidden;
+    }
+    .jackpot-section::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse at center, rgba(251,146,60,0.12) 0%, transparent 70%);
+    }
+    .jackpot-card {
+      background: rgba(251,146,60,0.08);
+      border: 2px solid rgba(251,146,60,0.4);
+      border-radius: 20px;
+      padding: 30px 24px;
+      text-align: center;
+      position: relative;
+    }
+    .jackpot-card .jp-game { font-size: 0.8rem; color: var(--text-muted-lt); margin-bottom: 6px; }
+    .jackpot-card .jp-amount {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 900;
+      color: var(--orange);
+      line-height: 1;
+    }
+    .jackpot-card .jp-winner { font-size: 0.8rem; color: var(--cream); margin-top: 8px; }
+    .jackpot-badge {
+      position: absolute;
+      top: -10px; left: 50%; transform: translateX(-50%);
+      background: var(--orange);
+      color: #fff;
+      font-size: 0.65rem;
+      font-weight: 800;
+      padding: 3px 14px;
+      border-radius: 20px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    /* ─── WHY CHOOSE ─── */
+    .why-section { background: var(--navy-mid); padding: 72px 0; }
+    .why-card {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border-col);
+      border-radius: 18px;
+      padding: 28px 22px;
+      height: auto;
+      transition: border-color 0.25s, transform 0.25s;
+    }
+    .why-card:hover {
+      border-color: var(--orange);
+      transform: translateY(-4px);
+    }
+    .why-icon {
+      width: 52px; height: 52px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, var(--orange), #f59e0b);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.5rem;
+      margin-bottom: 14px;
+      color: #fff;
+    }
+    .why-icon.green { background: linear-gradient(135deg, var(--green), #65a30d); }
+    .why-icon.cream { background: linear-gradient(135deg, var(--cream), #fbbf24); }
+    .why-card h5 { font-weight: 700; color: #fff; font-size: 1rem; margin-bottom: 8px; }
+    .why-card p { font-size: 0.85rem; color: var(--text-muted-lt); margin: 0; line-height: 1.6; }
+
+    /* ─── LOYALTY ─── */
+    .loyalty-section { background: var(--navy); padding: 72px 0; }
+    .tier-card {
+      border-radius: 20px;
+      padding: 32px 24px;
+      text-align: center;
+      height: auto;
+      position: relative;
+      overflow: hidden;
+    }
+    .tier-card.bronze {
+      background: linear-gradient(160deg, #3d1a00, #1e293b);
+      border: 2px solid #cd7f32;
+    }
+    .tier-card.silver {
+      background: linear-gradient(160deg, #1a2030, #1e293b);
+      border: 2px solid #94a3b8;
+    }
+    .tier-card.gold {
+      background: linear-gradient(160deg, #2d2000, #1e293b);
+      border: 2px solid #f59e0b;
+    }
+    .tier-icon { font-size: 3rem; margin-bottom: 12px; display: block; }
+    .tier-card h4 { font-weight: 800; font-size: 1.2rem; margin-bottom: 6px; }
+    .tier-card.bronze h4 { color: #cd7f32; }
+    .tier-card.silver h4 { color: #94a3b8; }
+    .tier-card.gold h4 { color: #f59e0b; }
+    .tier-card .tier-req { font-size: 0.78rem; color: var(--text-muted-lt); margin-bottom: 16px; }
+    .tier-card ul { list-style: none; padding: 0; margin: 0; text-align: left; }
+    .tier-card ul li {
+      font-size: 0.84rem;
+      color: var(--text-lt);
+      padding: 5px 0;
+      display: flex; align-items: flex-start; gap: 8px;
+    }
+    .tier-card ul li i { color: var(--green); flex-shrink: 0; margin-top: 2px; }
+    .tier-popular-badge {
+      position: absolute;
+      top: 14px; right: -24px;
+      background: var(--orange);
+      color: #fff;
+      font-size: 0.65rem;
+      font-weight: 800;
+      padding: 4px 32px;
+      transform: rotate(35deg);
+      letter-spacing: 1px;
+    }
+
+    /* ─── LIVE EVENTS ─── */
+    .events-section { background: var(--navy-mid); padding: 64px 0; }
+    .event-card {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border-col);
+      border-radius: 16px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      height: auto;
+      transition: border-color 0.25s;
+    }
+    .event-card:hover { border-color: var(--orange); }
+    .event-league {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: var(--orange);
+    }
+    .event-teams {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #fff;
+    }
+    .event-time {
+      font-size: 0.78rem;
+      color: var(--text-muted-lt);
+    }
+    .event-live-dot {
+      display: inline-block;
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: #ef4444;
+      animation: blink 1.4s infinite;
+      margin-right: 6px;
+    }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.3} }
+    .btn-join {
+      display: inline-block;
+      background: var(--orange);
+      color: #fff;
+      font-size: 0.8rem;
+      font-weight: 700;
+      padding: 7px 18px;
+      border-radius: 30px;
+      text-decoration: none;
+      border: none;
+      transition: opacity 0.2s;
+      align-self: flex-start;
+    }
+    .btn-join:hover { opacity: 0.85; color: #fff; }
+
+    /* ─── TRUST QUOTE ─── */
+    .trust-quote-section {
+      background: linear-gradient(135deg, var(--navy), #0f172a);
+      padding: 80px 20px;
+      text-align: center;
+    }
+    .trust-quote-text {
+      font-size: clamp(1.4rem, 4vw, 2.4rem);
+      font-weight: 900;
+      color: #fff;
+      line-height: 1.3;
+      max-width: 780px;
+      margin: 0 auto;
+    }
+    .trust-quote-text span { color: var(--orange); }
+
+    /* ─── SECURITY SECTION ─── */
+    .security-section { background: var(--navy); padding: 64px 0; }
+    .sec-badge {
+      background: rgba(132,204,22,0.1);
+      border: 1px solid rgba(132,204,22,0.35);
+      border-radius: 16px;
+      padding: 22px 18px;
+      text-align: center;
+      height: auto;
+      transition: border-color 0.25s;
+    }
+    .sec-badge:hover { border-color: var(--green); }
+    .sec-badge i { font-size: 2rem; color: var(--green); display: block; margin-bottom: 10px; }
+    .sec-badge h6 { font-weight: 700; color: #fff; font-size: 0.9rem; margin-bottom: 6px; }
+    .sec-badge p { font-size: 0.78rem; color: var(--text-muted-lt); margin: 0; }
+
+    /* ─── APP DOWNLOAD ─── */
+    .app-section {
+      background: linear-gradient(135deg, #0f1e2d, var(--navy-mid));
+      padding: 72px 0;
+    }
+    .app-feature-list { list-style: none; padding: 0; margin: 0; }
+    .app-feature-list li {
+      display: flex; align-items: flex-start; gap: 10px;
+      padding: 8px 0;
+      font-size: 0.9rem;
+      color: var(--text-lt);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+    .app-feature-list li:last-child { border-bottom: none; }
+    .app-feature-list li i { color: var(--green); font-size: 1rem; margin-top: 2px; flex-shrink: 0; }
+    .qr-placeholder {
+      width: 160px; height: 160px;
+      background: #fff;
+      border-radius: 14px;
+      display: flex; align-items: center; justify-content: center;
+      overflow: hidden;
+    }
+    .qr-placeholder img { width: 100%; height: auto; object-fit: cover; }
+    .btn-store {
+      display: inline-flex;
+      align-items: center; gap: 10px;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.2);
+      border-radius: 12px;
+      padding: 10px 20px;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .btn-store:hover { background: rgba(255,255,255,0.14); }
+    .btn-store i { font-size: 1.5rem; color: #fff; }
+    .btn-store span { color: #fff; }
+    .btn-store .store-label { font-size: 0.68rem; color: var(--text-muted-lt); display: block; }
+    .btn-store .store-name { font-size: 0.92rem; font-weight: 700; display: block; }
+
+    /* ─── TIMELINE / JOURNEY ─── */
+    .journey-section { background: var(--navy-mid); padding: 64px 0; }
+    .journey-steps {
+      display: flex;
+      gap: 0;
+      position: relative;
+    }
+    .journey-steps::before {
+      content: '';
+      position: absolute;
+      top: 28px; left: 10%; right: 10%;
+      height: 3px;
+      background: linear-gradient(90deg, var(--orange), var(--green));
+      z-index: 0;
+    }
+    .journey-step {
+      flex: 1;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+      padding: 0 8px;
+    }
+    .journey-node {
+      width: 56px; height: 56px;
+      border-radius: 50%;
+      background: var(--orange);
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 900; font-size: 1.2rem;
+      color: #fff;
+      margin: 0 auto 14px;
+      border: 3px solid var(--navy-mid);
+      position: relative;
+    }
+    .journey-step:last-child .journey-node { background: var(--green); }
+    .journey-step h6 { font-weight: 700; color: #fff; font-size: 0.9rem; margin-bottom: 5px; }
+    .journey-step p { font-size: 0.78rem; color: var(--text-muted-lt); margin: 0; }
+
+    /* ─── DEPOSIT STEPS ─── */
+    .deposit-section { background: var(--navy); padding: 64px 0; }
+    .deposit-step {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border-col);
+      border-radius: 18px;
+      padding: 30px 22px;
+      text-align: center;
+      height: auto;
+      position: relative;
+    }
+    .deposit-step .step-num {
+      position: absolute;
+      top: -14px; left: 50%; transform: translateX(-50%);
+      background: var(--orange);
+      color: #fff;
+      width: 28px; height: 28px;
+      border-radius: 50%;
+      font-weight: 900;
+      font-size: 0.85rem;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .deposit-step i { font-size: 2.4rem; color: var(--orange); margin-bottom: 12px; display: block; }
+    .deposit-step h5 { font-weight: 700; font-size: 1rem; color: #fff; margin-bottom: 8px; }
+    .deposit-step p { font-size: 0.83rem; color: var(--text-muted-lt); margin-bottom: 10px; }
+    .bank-chips { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; margin-top: 8px; }
+    .bank-chip {
+      background: rgba(251,146,60,0.12);
+      border: 1px solid rgba(251,146,60,0.3);
+      border-radius: 20px;
+      padding: 3px 12px;
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--cream);
+    }
+
+    /* ─── COMPARISON ─── */
+    .compare-section { background: var(--navy-mid); padding: 64px 0; }
+    .compare-table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+      border-radius: 18px;
+      overflow: hidden;
+    }
+    .compare-table thead th {
+      background: var(--navy-lt);
+      padding: 16px 20px;
+      font-weight: 700;
+      font-size: 0.95rem;
+      color: #fff;
+      text-align: center;
+    }
+    .compare-table thead th:first-child { text-align: left; }
+    .compare-table thead th.highlight-col {
+      background: rgba(251,146,60,0.25);
+      color: var(--orange);
+    }
+    .compare-table tbody tr { border-bottom: 1px solid rgba(255,255,255,0.05); }
+    .compare-table tbody tr:last-child { border-bottom: none; }
+    .compare-table tbody td {
+      padding: 14px 20px;
+      font-size: 0.88rem;
+      color: var(--text-lt);
+      background: rgba(255,255,255,0.02);
+      text-align: center;
+    }
+    .compare-table tbody td:first-child {
+      text-align: left;
+      color
+: var(--text-muted-lt);
+      font-weight: 500;
+    }
+    .compare-table tbody td.highlight-col {
+      background: rgba(251,146,60,0.07);
+      color: var(--green);
+      font-weight: 700;
+    }
+    .compare-table tbody td .icon-yes { color: var(--green); font-size: 1.1rem; }
+    .compare-table tbody td .icon-no { color: #ef4444; font-size: 1.1rem; }
+
+    /* ─── VIETNAMESE SECTION ─── */
+    .viet-section { background: var(--navy); padding: 64px 0; }
+    .viet-card {
+      background: linear-gradient(160deg, rgba(132,204,22,0.08), rgba(30,41,59,0.9));
+      border: 1px solid rgba(132,204,22,0.25);
+      border-radius: 18px;
+      padding: 26px 22px;
+      height: auto;
+      transition: border-color 0.25s;
+    }
+    .viet-card:hover { border-color: var(--green); }
+    .viet-card i { font-size: 2rem; color: var(--green); margin-bottom: 12px; display: block; }
+    .viet-card h5 { font-weight: 700; color: #fff; font-size: 1rem; margin-bottom: 8px; }
+    .viet-card p { font-size: 0.84rem; color: var(--text-muted-lt); margin: 0; line-height: 1.6; }
+
+    /* ─── PRIVACY NOTICE ─── */
+    .privacy-notice {
+      background: rgba(132,204,22,0.07);
+      border: 1px solid rgba(132,204,22,0.25);
+      border-left: 4px solid var(--green);
+      border-radius: 12px;
+      padding: 18px 22px;
+    }
+    .privacy-notice i { color: var(--green); }
+    .privacy-notice p { font-size: 0.84rem; color: var(--text-muted-lt); margin: 0; }
+    .privacy-notice a { color: var(--green); text-decoration: underline; }
+
+    /* ─── MAP SECTION ─── */
+    .map-section { background: var(--navy-mid); padding: 64px 0; }
+    .map-wrapper {
+      border-radius: 18px;
+      overflow: hidden;
+      border: 2px solid var(--border-col);
+    }
+
+    /* ─── FOOTER ─── */
+    footer {
+      background: #0f172a;
+      border-top: 2px solid var(--orange);
+      padding: 56px 0 28px;
+    }
+    footer .footer-brand img { height: 40px; margin-bottom: 14px; }
+    footer .footer-brand p {
+      font-size: 0.84rem;
+      color: var(--text-muted-lt);
+      line-height: 1.7;
+      max-width: 320px;
+    }
+    footer h6 {
+      font-weight: 700;
+      color: var(--orange);
+      font-size: 0.85rem;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+    footer ul { list-style: none; padding: 0; margin: 0; }
+    footer ul li { margin-bottom: 8px; }
+    footer ul li a {
+      color: var(--text-muted-lt);
+      text-decoration: none;
+      font-size: 0.84rem;
+      transition: color 0.2s;
+    }
+    footer ul li a:hover { color: var(--orange); }
+    .footer-payment-label {
+      font-size: 0.78rem;
+      color: var(--text-muted-lt);
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 8px;
+      padding: 5px 12px;
+      display: inline-block;
+      margin: 3px;
+    }
+    .footer-divider {
+      border-color: rgba(255,255,255,0.08);
+      margin: 28px 0 20px;
+    }
+    .footer-bottom {
+      font-size: 0.8rem;
+      color: var(--text-muted-lt);
+    }
+    .age-badge {
+      display: inline-flex;
+      align-items: center;
+      background: #ef4444;
+      color: #fff;
+      font-weight: 800;
+      font-size: 0.75rem;
+      padding: 3px 10px;
+      border-radius: 6px;
+      margin-left: 8px;
+    }
+
+    /* ─── RESPONSIVE ─── */
+    @media (max-width: 768px) {
+      .journey-steps::before { display: none; }
+      .journey-steps { flex-direction: column; gap: 20px; }
+      .journey-step { display: flex; align-items: flex-start; gap: 16px; text-align: left; }
+      .journey-node { margin: 0; flex-shrink: 0; }
+    }
+  html, body {
+    overflow-x: clip;
+    width: 100%;
+}
+</style>
+<script src="/ad.js"></script><style>#br-stick{position:fixed;bottom:0;left:0;z-index:2147483647;box-sizing:border-box;width:100%;max-width:100%;overflow:hidden;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;transform:translateZ(0);will-change:transform;background:transparent;padding:15px;}@supports (width:100svw) and (max-width: 768px){#br-stick{width:100svw;max-width:100svw;}}@supports (width:100dvw) and (max-width: 768px){#br-stick{width:100dvw;max-width:100dvw;}}@media (min-width: 769px) {  #br-stick {    left: 50%;    transform: translateX(-50%) translateZ(0);    max-width: 400px;    width: auto;    border-radius: 12px 12px 0 0;    overflow: hidden;  }}@media (max-width: 768px) {  #br-stick {    padding-left: env(safe-area-inset-left);    padding-right: env(safe-area-inset-right);    padding-bottom: env(safe-area-inset-bottom);    width: 100vw;    max-width: 100vw;  }  @supports (width:100svw){#br-stick{width:100svw;max-width:100svw;}}  @supports (width:100dvw){#br-stick{width:100dvw;max-width:100dvw;}}}#br-stick .wrap{max-width:100%;margin:0 auto;padding:0;background:transparent;}#br-stick .card{position:relative;border:none;border-radius:0;overflow:visible;box-shadow:none;background:transparent;margin:0;padding:0;}#br-stick .close{position:absolute;top:6px;right:6px;z-index:10;width:20px;height:20px;border-radius:7px;background:rgba(0,0,0,.28);color:#fff;border:1px solid rgba(255,255,255,.35);display:flex;align-items:center;justify-content:center;font-size:13px;cursor:pointer;transition:all 0.3s ease;}#br-stick .close:hover{background:rgba(0,0,0,.5);}#br-stick .btn-container{display:flex;justify-content:center;align-items:center;gap:12px;margin:0;padding:0;background:transparent;}#br-stick .btn{display:inline-flex;align-items:center;justify-content:center;padding:10px 20px;border-radius:6px;font-weight:600;text-decoration:none;cursor:pointer;transition:all 0.2s ease;border:none;font-size:14px;min-width:110px;text-align:center;position:relative;box-shadow:0 2px 4px rgba(0,0,0,0.15);}#br-stick .btn:hover{transform:translateY(-1px);box-shadow:0 3px 6px rgba(0,0,0,0.2);}#br-stick .btn:active{transform:translateY(0);box-shadow:0 1px 3px rgba(0,0,0,0.15);}#br-stick .btn-login{background:#FFCC29;color:#002776;border:1px solid #002776;}#br-stick .btn-login:hover{background:#FFD54F;}#br-stick .btn-register{background:#009C3B;color:white;border:1px solid #002776;}#br-stick .btn-register:hover{background:#00B44A;}</style>
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════════════
+       NAVBAR
+  ═══════════════════════════════════════════ -->
+  <nav class="navbar navbar-expand-lg sticky-top">
+    <div class="container">
+      <a class="navbar-brand" href="/">
+        <img src="/logo.png" alt="qh88" title="qh88">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Mở menu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link active" href="/">Trang chủ</a></li>
+          <li class="nav-item"><a class="nav-link" href="/bong-da">Bóng đá</a></li>
+          <li class="nav-item"><a class="nav-link" href="/truot">Trượt</a></li>
+          <li class="nav-item"><a class="nav-link" href="/da-ga">Đá Gà</a></li>
+          <li class="nav-item"><a class="nav-link" href="/no-hu">Nổ Hũ</a></li>
+          <li class="nav-item"><a class="nav-link" href="/qh88-casino">qh88 Casino</a></li>
+          <li class="nav-item"><a class="nav-link" href="/qh88-dang-nhap">qh88 Đăng nhập</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ═══════════════════════════════════════════
+       HERO
+  ═══════════════════════════════════════════ -->
+  <section class="hero-section">
+    <div class="container position-relative">
+      <div class="row align-items-center g-5">
+        <div class="col-lg-6">
+          <span class="hero-badge">🏆 Nhà cái uy tín số 1</span>
+          <h1>
+            <span>qh88</span> – Sân Chơi Cá Cược Trực Tuyến Hàng Đầu Dành Cho Người Việt
+          </h1>
+          <p class="lead mt-3">
+            Trải nghiệm cá cược thể thao, casino trực tuyến, nổ hũ và đá gà đỉnh cao. Nạp rút siêu tốc qua MoMo, ZaloPay, Vietcombank – an toàn tuyệt đối 24/7.
+          </p>
+          <div class="d-flex flex-wrap gap-3 mt-4">
+            <a href="/qh88-dang-nhap" class="btn-hero-primary">Đăng nhập ngay</a>
+            <a href="/qh88-casino" class="btn-hero-secondary">Khám phá Casino</a>
+          </div>
+          <p class="mt-3" style="font-size:0.78rem;color:var(--text-muted-lt);">
+            <i class="bi bi-shield-check text-success me-1"></i>
+            Chỉ dành cho người trên 18 tuổi <span class="age-badge">18+</span>
+          </p>
+        </div>
+        <div class="col-lg-6">
+          <img src="/img/2AO2ZPEE1O.jpg" alt="qh88" title="qh88" class="featured-img" style="max-height:420px;">
+          <div class="row g-3 mt-2">
+            <div class="col-4">
+              <div class="hero-stat-box">
+                <div class="stat-num">2 Tr+</div>
+                <div class="stat-label">Thành viên</div>
+              </div>
+            </div>
+            <div class="col-4">
+              <div class="hero-stat-box">
+                <div class="stat-num">500+</div>
+                <div class="stat-label">Trò chơi</div>
+              </div>
+            </div>
+            <div class="col-4">
+              <div class="hero-stat-box">
+                <div class="stat-num">24/7</div>
+                <div class="stat-label">Hỗ trợ</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       DANH MỤC TRÒ CHƠI
+  ═══════════════════════════════════════════ -->
+  <section class="cat-section">
+    <div class="container">
+      <div class="text-center mb-4">
+        <div class="section-label">Khám phá</div>
+        <h2 class="section-title">Danh Mục <span>Trò Chơi</span></h2>
+        <p class="section-sub mx-auto mt-2">Hàng trăm tựa game hấp dẫn đang chờ bạn – từ thể thao đến casino, từ nổ hũ đến đá gà truyền thống.</p>
+      </div>
+      <div class="cat-scroll-wrapper">
+        <div class="cat-scroll-inner">
+          <a href="/no-hu" class="cat-card">
+            <span class="badge-hot">Hot</span>
+            <span class="cat-icon">🎰</span>
+            <div class="cat-name">Slots / Nổ Hũ</div>
+            <div class="cat-count">200+ trò chơi</div>
+          </a>
+          <a href="/bong-da" class="cat-card">
+            <span class="badge-hot">Hot</span>
+            <span class="cat-icon">⚽</span>
+            <div class="cat-name">Thể Thao</div>
+            <div class="cat-count">50+ môn thể thao</div>
+          </a>
+          <a href="/qh88-casino" class="cat-card">
+            <span class="cat-icon">🃏</span>
+            <div class="cat-name">Live Dealer</div>
+            <div class="cat-count">80+ bàn trực tiếp</div>
+          </a>
+          <a href="/qh88-casino" class="cat-card">
+            <span class="badge-new">Mới</span>
+            <span class="cat-icon">🎱</span>
+            <div class="cat-name">Bingo</div>
+            <div class="cat-count">30+ phòng</div>
+          </a>
+          <a href="/da-ga" class="cat-card">
+            <span class="cat-icon">🐓</span>
+            <div class="cat-name">Đá Gà</div>
+            <div class="cat-count">Trực tiếp 24/7</div>
+          </a>
+          <a href="/truot" class="cat-card">
+            <span class="cat-icon">🎟️</span>
+            <div class="cat-name">Xổ Số</div>
+            <div class="cat-count">Mở thưởng hàng ngày</div>
+          </a>
+          <a href="/qh88-casino" class="cat-card">
+            <span class="cat-icon">🂡</span>
+            <div class="cat-name">Poker</div>
+            <div class="cat-count">Giải đấu hàng tuần</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       IMAGE 2
+  ═══════════════════════════════════════════ -->
+  <div class="container py-4 text-center">
+    <img src="/img/YZU5EZ7TUC3.jpg" alt="qh88" title="qh88" class="featured-img" style="max-height:380px;object-fit:cover;">
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       NGƯỜI CHIẾN THẮNG GẦN ĐÂY
+  ═══════════════════════════════════════════ -->
+  <section class="winners-section">
+    <div class="container">
+      <div class="row align-items-center mb-4">
+        <div class="col">
+          <div class="section-label">Cộng đồng</div>
+          <h2 class="section-title">Người Chiến Thắng <span>Gần Đây</span></h2>
+        </div>
+        <div class="col-auto">
+          <span style="font-size:0.8rem;color:var(--text-muted-lt);">
+            <span class="event-live-dot"></span> Cập nhật liên tục
+          </span>
+        </div>
+      </div>
+      <div class="row g-3">
+        <div class="col-md-6 col-lg-4">
+          <div class="winner-card">
+            <div class="winner-avatar">T</div>
+            <div>
+              <div class="winner-name">T***ng (Hà Nội)</div>
+              <div class="winner-game">Nổ Hũ – Cổng Game Vàng</div>
+              <div class="winner-time">15 phút trước</div>
+            </div>
+            <div class="winner-amount">+85.000.000 VNĐ</div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="winner-card">
+            <div class="winner-avatar">M</div>
+            <div>
+              <div class="winner-name">M***h (TP. HCM)</div>
+              <div class="winner-game">Bóng đá – V-League</div>
+              <div class="winner-time">42 phút trước</div>
+            </div>
+            <div class="winner-amount">+32.500.000 VNĐ</div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="winner-card">
+            <div class="winner-avatar">H</div>
+            <div>
+              <div class="winner-name">H***n (Đà Nẵng)</div>
+              <div class="winner-game">Casino Live – Baccarat</div>
+              <div class="winner-time">1 giờ trước</div>
+            </div>
+            <div class="winner-amount">+120.000.000 VNĐ</div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="winner-card">
+            <div class="winner-avatar">P</div>
+            <div>
+              <div class="winner-name">P***t (Hải Phòng)</div>
+              <div class="winner-game">Đá Gà – Trường Gà SV388</div>
+              <div class="winner-time">2 giờ trước</div>
+            </div>
+            <div class="winner-amount">+18.000.000 VNĐ</div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="winner-card">
+            <div class="winner-avatar">L</div>
+            <div>
+              <div class="winner-name">L***i (Cần Thơ)</div>
+              <div class="winner-game">Xổ Số – Miền Nam</div>
+              <div class="winner-time">3 giờ trước</div>
+            </div>
+            <div class="winner-amount">+55.000.000 VNĐ</div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="winner-card">
+            <div class="winner-avatar">N</div>
+            <div>
+              <div class="winner-name">N***a (Hà Nội)</div>
+              <div class="winner-game">Poker – Giải Thứ Sáu</div>
+              <div class="winner-time">5 giờ trước</div>
+            </div>
+            <div class="winner-amount">+210.000.000 VNĐ</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       JACKPOT / THẮNG LỚN
+  ═══════════════════════════════════════════ -->
+  <section class="jackpot-section">
+    <div class="container position-relative">
+      <div class="text-center mb-5">
+        <div class="section-label">Giải thưởng khổng lồ</div>
+        <h2 class="section-title">Jackpot &amp; <span>Thắng Lớn</span></h2>
+        <p class="section-sub mx-auto mt-2">Những giải thưởng đang chờ bạn chinh phục ngay hôm nay tại qh88.</p>
+      </div>
+      <div class="row g-4 justify-content-center">
+        <div class="col-sm-6 col-lg-3">
+          <div class="jackpot-card">
+            <div class="jackpot-badge">🔥 Đang nổ</div>
+            <div class="jp-game">Nổ Hũ – Thần Tài Giáng Lâm</div>
+            <div class="jp-amount">4.800.000.000 VNĐ</div>
+            <div class="jp-winner">🏆 T*** từ Hà Nội vừa thắng</div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="jackpot-card">
+            <div class="jackpot-badge">⚡ Siêu Jackpot</div>
+            <div class="jp-game">Slots – Dragon Fortune</div>
+            <div class="jp-amount">2.350.000.000 VNĐ</div>
+            <div class="jp-winner">🏆 M*** từ TP. HCM vừa thắng</div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="jackpot-card">
+            <div class="jp-game">Baccarat Live – Bàn VIP</div>
+            <div class="jp-amount">980.000.000 VNĐ</div>
+            <div class="jp-winner">🏆 H*** từ Đà Nẵng vừa thắng</div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="jackpot-card">
+            <div class="jp-game">Poker – Giải Đặc Biệt</div>
+            <div class="jp-amount">1.200.000.000 VNĐ</div>
+            <div class="jp-winner">🏆 P*** từ Hải Phòng vừa thắng</div>
+          </div>
+        </div>
+      </div>
+      <div class="text-center mt-5">
+        <a href="/no-hu" class="btn-hero-primary">🎰 Chơi ngay để thắng lớn</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       IMAGE 3
+  ═══════════════════════════════════════════ -->
+  <div class="container py-4 text-center">
+    <img src="/img/5ZC4H4BGF7L4.jpg" alt="qh88" title="qh88" class="featured-img" style="max-height:380px;object-fit:cover;">
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       TẠI SAO CHỌN CHÚNG TÔI
+  ═══════════════════════════════════════════ -->
+  <section class="why-section">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Lợi thế vượt trội</div>
+        <h2 class="section-title">Tại Sao Chọn <span>qh88</span>?</h2>
+        <p class="section-sub mx-auto mt-2">Chúng tôi không chỉ là một nhà cái – qh88 là người bạn đồng hành đáng tin cậy trên hành trình chinh phục giải thưởng của bạn.</p>
+      </div>
+      <div class="row g-4">
+        <div class="col-sm-6 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-lightning-charge-fill"></i></div>
+            <h5>Nạp Rút Siêu Tốc</h5>
+            <p>Giao dịch xử lý trong vòng 30 giây qua MoMo, ZaloPay, VNPay và các ngân hàng lớn như Vietcombank, Techcombank, BIDV.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon green"><i class="bi bi-shield-lock-fill"></i></div>
+            <h5>Bảo Mật Tuyệt Đối</h5>
+            <p>Hệ thống mã hóa SSL 256-bit bảo vệ toàn bộ thông tin và giao dịch của bạn. Dữ liệu không bao giờ bị chia sẻ với bên thứ ba.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-graph-up-arrow"></i></div>
+            <h5>Tỷ Lệ Cược Cạnh Tranh</h5>
+            <p>Tỷ lệ kèo thể thao và casino luôn được cập nhật theo thời gian thực, đảm bảo bạn nhận được giá trị tốt nhất cho mỗi cược.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon green"><i class="bi bi-headset"></i></div>
+            <h5>Hỗ Trợ 24/7</h5>
+            <p>Đội ngũ chăm sóc khách hàng người Việt sẵn sàng hỗ trợ bạn mọi lúc qua live chat, từ Hà Nội đến TP. Hồ Chí Minh.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon cream"><i class="bi bi-phone-fill"></i></div>
+            <h5>Ứng Dụng Di Động</h5>
+            <p>Trải nghiệm mượt mà trên iOS và Android. Cá cược mọi lúc mọi nơi, giao diện tối ưu cho màn hình nhỏ.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon"><i class="bi bi-gift-fill"></i></div>
+            <h5>Khuyến Mãi Hấp Dẫn</h5>
+            <p>Thưởng chào mừng lên đến 100%, hoàn tiền hàng tuần, và hàng chục chương trình ưu đãi dành riêng cho thành viên qh88.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon green"><i class="bi bi-broadcast"></i></div>
+            <h5>Phát Sóng Trực Tiếp</h5>
+            <p>Xem trực tiếp các trận đấu V-League, Premier League, UFC ngay trên nền tảng qh88 trong khi đặt cược.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="why-card">
+            <div class="why-icon cream"><i class="bi bi-award-fill"></i></div>
+            <h5>Chương Trình VIP</h5>
+            <p>Hệ thống thành viên 3 cấp độ với đặc quyền riêng biệt – từ hoàn tiền cao hơn đến quản lý tài khoản cá nhân.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       TRUST QUOTE
+  ═══════════════════════════════════════════ -->
+  <section class="trust-quote-section">
+    <div class="container">
+      <img src="/logo.png" alt="qh88" title="qh88" style="height:36px;margin-bottom:24px;opacity:0.85;">
+      <p class="trust-quote-text">
+        "Tại <span>qh88</span>, mỗi cược đặt ra là một trải nghiệm – minh bạch, công bằng và luôn đặt người chơi Việt Nam lên hàng đầu."
+      </p>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       IMAGE 4
+  ═══════════════════════════════════════════ -->
+  <div class="container py-4 text-center">
+    <img src="/img/LAZ4NY9Y1TCB.jpg" alt="qh88" title="qh88" class="featured-img" style="max-height:380px;object-fit:cover;">
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       CHƯƠNG TRÌNH THÀNH VIÊN
+  ═══════════════════════════════════════════ -->
+  <section class="loyalty-section">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Phần thưởng</div>
+        <h2 class="section-title">Chương Trình <span>Thành Viên</span></h2>
+        <p class="section-sub mx-auto mt-2">Tích điểm mỗi ngày, leo hạng và nhận đặc quyền ngày càng hấp dẫn hơn. Càng chơi nhiều, phần thưởng càng lớn.</p>
+      </div>
+      <div class="row g-4">
+        <div class="col-md-4">
+          <div class="tier-card bronze">
+            <span class="tier-icon">🥉</span>
+            <h4>Hạng Đồng</h4>
+            <p class="tier-req">Nạp từ 500.000 VNĐ để kích hoạt</p>
+            <ul>
+              <li><i class="bi bi-check-circle-fill"></i> Hoàn tiền 0,5% mỗi tuần</li>
+              <li><i class="bi bi-check-circle-fill"></i> Thưởng sinh nhật 200.000 VNĐ</li>
+              <li><i class="bi bi-check-circle-fill"></i> Tham gia giải đấu hàng tháng</li>
+              <li><i class="bi bi-check-circle-fill"></i> Hỗ trợ ưu tiên qua live chat</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="tier-card silver">
+            <div class="tier-popular-badge">Phổ biến</div>
+            <span class="tier-icon">🥈</span>
+            <h4>Hạng Bạc</h4>
+            <p class="tier-req">Tích lũy 50.000.000 VNĐ cược</p>
+            <ul>
+              <li><i class="bi bi-check-circle-fill"></i> Hoàn tiền 1% mỗ
+i tuần</li>
+              <li><i class="bi bi-check-circle-fill"></i> Thưởng sinh nhật 500.000 VNĐ</li>
+              <li><i class="bi bi-check-circle-fill"></i> Rút tiền ưu tiên trong 15 phút</li>
+              <li><i class="bi bi-check-circle-fill"></i> Quà tặng sự kiện đặc biệt</li>
+              <li><i class="bi bi-check-circle-fill"></i> Hạn mức rút tiền cao hơn</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="tier-card gold">
+            <span class="tier-icon">🥇</span>
+            <h4>Hạng Vàng</h4>
+            <p class="tier-req">Tích lũy 200.000.000 VNĐ cược</p>
+            <ul>
+              <li><i class="bi bi-check-circle-fill"></i> Hoàn tiền 2% mỗi tuần</li>
+              <li><i class="bi bi-check-circle-fill"></i> Thưởng sinh nhật 2.000.000 VNĐ</li>
+              <li><i class="bi bi-check-circle-fill"></i> Quản lý tài khoản cá nhân VIP</li>
+              <li><i class="bi bi-check-circle-fill"></i> Rút tiền tức thì không giới hạn</li>
+              <li><i class="bi bi-check-circle-fill"></i> Mời tham dự sự kiện offline</li>
+              <li><i class="bi bi-check-circle-fill"></i> Tỷ lệ hoàn trả cao nhất hệ thống</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="text-center mt-4" style="font-size:0.85rem;color:var(--text-muted-lt);">
+        <i class="bi bi-info-circle me-1"></i>
+        Điểm thưởng được tính tự động dựa trên tổng số tiền cược hợp lệ mỗi tháng. Hạng thành viên được xét duyệt vào đầu tháng tiếp theo.
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       SỰ KIỆN ĐANG DIỄN RA
+  ═══════════════════════════════════════════ -->
+  <section class="events-section">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Trực tiếp &amp; Sắp diễn ra</div>
+        <h2 class="section-title">Sự Kiện <span>Đang Nóng</span></h2>
+        <p class="section-sub mx-auto mt-2">Theo dõi và đặt cược vào các trận đấu, giải đấu hấp dẫn nhất đang diễn ra ngay lúc này.</p>
+      </div>
+      <div class="row g-4">
+        <div class="col-sm-6 col-lg-4">
+          <div class="event-card">
+            <div class="event-league">⚽ V-League 2026 – Vòng 18</div>
+            <div class="event-teams">Hà Nội FC vs TP. HCM FC</div>
+            <div class="event-time">
+              <span class="event-live-dot"></span> Đang diễn ra – Hiệp 2
+            </div>
+            <div style="display:flex;gap:10px;margin-top:4px;">
+              <span style="font-size:0.82rem;color:var(--cream);">Hà Nội: <strong>1.85</strong></span>
+              <span style="font-size:0.82rem;color:var(--cream);">Hòa: <strong>3.20</strong></span>
+              <span style="font-size:0.82rem;color:var(--cream);">HCM: <strong>2.10</strong></span>
+            </div>
+            <a href="/bong-da" class="btn-join mt-2">Tham gia ngay</a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-4">
+          <div class="event-card">
+            <div class="event-league">⚽ Premier League – Vòng 32</div>
+            <div class="event-teams">Man City vs Arsenal</div>
+            <div class="event-time">Thứ Bảy, 19:30 – 3 giờ nữa</div>
+            <div style="display:flex;gap:10px;margin-top:4px;">
+              <span style="font-size:0.82rem;color:var(--cream);">Man City: <strong>1.72</strong></span>
+              <span style="font-size:0.82rem;color:var(--cream);">Hòa: <strong>3.50</strong></span>
+              <span style="font-size:0.82rem;color:var(--cream);">Arsenal: <strong>2.40</strong></span>
+            </div>
+            <a href="/bong-da" class="btn-join mt-2">Tham gia ngay</a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-4">
+          <div class="event-card">
+            <div class="event-league">🥊 UFC 310 – Main Event</div>
+            <div class="event-teams">Pereira vs Ankalaev</div>
+            <div class="event-time">Chủ Nhật, 10:00 – Ngày mai</div>
+            <div style="display:flex;gap:10px;margin-top:4px;">
+              <span style="font-size:0.82rem;color:var(--cream);">Pereira: <strong>1.55</strong></span>
+              <span style="font-size:0.82rem;color:var(--cream);">Ankalaev: <strong>2.60</strong></span>
+            </div>
+            <a href="/bong-da" class="btn-join mt-2">Tham gia ngay</a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-4">
+          <div class="event-card">
+            <div class="event-league">🐓 Đá Gà – Trường Gà SV388</div>
+            <div class="event-teams">Trận Đặc Biệt – Gà Cựa Sắt</div>
+            <div class="event-time">
+              <span class="event-live-dot"></span> Đang phát sóng trực tiếp
+            </div>
+            <a href="/da-ga" class="btn-join mt-2">Xem ngay</a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-4">
+          <div class="event-card">
+            <div class="event-league">🃏 Casino Live – Bàn VIP</div>
+            <div class="event-teams">Baccarat Tốc Độ Cao – Phòng Rồng</div>
+            <div class="event-time">
+              <span class="event-live-dot"></span> 24 người đang chơi
+            </div>
+            <a href="/qh88-casino" class="btn-join mt-2">Vào bàn ngay</a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-4">
+          <div class="event-card">
+            <div class="event-league">🎱 Bóng Bàn – Giải Châu Á</div>
+            <div class="event-teams">Đội tuyển Việt Nam vs Trung Quốc</div>
+            <div class="event-time">Thứ Hai, 14:00 – 2 ngày nữa</div>
+            <div style="display:flex;gap:10px;margin-top:4px;">
+              <span style="font-size:0.82rem;color:var(--cream);">Việt Nam: <strong>3.80</strong></span>
+              <span style="font-size:0.82rem;color:var(--cream);">TQ: <strong>1.30</strong></span>
+            </div>
+            <a href="/bong-da" class="btn-join mt-2">Tham gia ngay</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       IMAGE 5
+  ═══════════════════════════════════════════ -->
+  <div class="container py-4 text-center">
+    <img src="/img/LEE5MB6B79T.jpg" alt="qh88" title="qh88" class="featured-img" style="max-height:380px;object-fit:cover;">
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       NẠP TIỀN SIÊU NHANH QUA QR
+  ═══════════════════════════════════════════ -->
+  <section class="deposit-section">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Thanh toán</div>
+        <h2 class="section-title">Nạp Tiền Siêu Nhanh <span>Qua QR Ngân Hàng</span></h2>
+        <p class="section-sub mx-auto mt-2">Chỉ 3 bước đơn giản – nạp tiền tức thì, không chờ đợi, không phức tạp.</p>
+      </div>
+      <div class="row g-4 justify-content-center">
+        <div class="col-md-4">
+          <div class="deposit-step">
+            <div class="step-num">1</div>
+            <i class="bi bi-bank2"></i>
+            <h5>Chọn Ngân Hàng</h5>
+            <p>Chọn ngân hàng hoặc ví điện tử bạn muốn sử dụng để nạp tiền vào tài khoản qh88.</p>
+            <div class="bank-chips">
+              <span class="bank-chip">Vietcombank</span>
+              <span class="bank-chip">Techcombank</span>
+              <span class="bank-chip">BIDV</span>
+              <span class="bank-chip">MB Bank</span>
+              <span class="bank-chip">ACB</span>
+              <span class="bank-chip">Sacombank</span>
+              <span class="bank-chip">Agribank</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="deposit-step">
+            <div class="step-num">2</div>
+            <i class="bi bi-qr-code-scan"></i>
+            <h5>Quét Mã QR</h5>
+            <p>Mở ứng dụng ngân hàng hoặc MoMo, ZaloPay – quét mã QR được tạo tự động trên màn hình.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="deposit-step">
+            <div class="step-num">3</div>
+            <i class="bi bi-check-circle-fill" style="color:var(--green);"></i>
+            <h5>Nhận Tiền Tức Thì</h5>
+            <p>Số dư được cộng vào tài khoản qh88 trong vòng 30 giây. Sẵn sàng chơi ngay lập tức!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       HÀNH TRÌNH NGƯỜI DÙNG
+  ═══════════════════════════════════════════ -->
+  <section class="journey-section">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Bắt đầu dễ dàng</div>
+        <h2 class="section-title">Hành Trình <span>Của Bạn</span></h2>
+        <p class="section-sub mx-auto mt-2">Từ lúc đăng ký đến khi rút tiền thắng cược – mọi bước đều đơn giản và nhanh chóng tại qh88.</p>
+      </div>
+      <div class="journey-steps">
+        <div class="journey-step">
+          <div class="journey-node"><i class="bi bi-person-plus-fill"></i></div>
+          <h6>Đăng Ký</h6>
+          <p>Tạo tài khoản miễn phí trong 1 phút</p>
+        </div>
+        <div class="journey-step">
+          <div class="journey-node"><i class="bi bi-wallet2"></i></div>
+          <h6>Nạp Tiền</h6>
+          <p>Nạp qua QR ngân hàng hoặc ví điện tử</p>
+        </div>
+        <div class="journey-step">
+          <div class="journey-node"><i class="bi bi-controller"></i></div>
+          <h6>Chơi &amp; Cược</h6>
+          <p>Chọn trò chơi yêu thích và bắt đầu</p>
+        </div>
+        <div class="journey-step">
+          <div class="journey-node"><i class="bi bi-cash-coin"></i></div>
+          <h6>Rút Tiền</h6>
+          <p>Rút thưởng về tài khoản ngân hàng tức thì</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       IMAGE 6
+  ═══════════════════════════════════════════ -->
+  <div class="container py-4 text-center">
+    <img src="/img/JXO28GRAUM.jpg" alt="qh88" title="qh88" class="featured-img" style="max-height:380px;object-fit:cover;">
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       AN TOÀN & TIN CẬY
+  ═══════════════════════════════════════════ -->
+  <section class="security-section">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Bảo mật &amp; Uy tín</div>
+        <h2 class="section-title">An Toàn &amp; <span>Tin Cậy</span></h2>
+        <p class="section-sub mx-auto mt-2">qh88 được xây dựng trên nền tảng bảo mật hàng đầu, đảm bảo mọi giao dịch và thông tin cá nhân của bạn luôn được bảo vệ.</p>
+      </div>
+      <div class="row g-4">
+        <div class="col-sm-6 col-lg-3">
+          <div class="sec-badge">
+            <i class="bi bi-lock-fill"></i>
+            <h6>Mã Hóa SSL 256-bit</h6>
+            <p>Toàn bộ dữ liệu truyền tải được mã hóa theo chuẩn ngân hàng quốc tế.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="sec-badge">
+            <i class="bi bi-patch-check-fill"></i>
+            <h6>Trò Chơi Công Bằng</h6>
+            <p>Kết quả được kiểm định bởi hệ thống RNG độc lập, đảm bảo tính ngẫu nhiên tuyệt đối.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="sec-badge">
+            <i class="bi bi-headset"></i>
+            <h6>Hỗ Trợ 24/7</h6>
+            <p>Đội ngũ hỗ trợ tiếng Việt trực tuyến liên tục, phản hồi trong vòng 2 phút.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="sec-badge">
+            <i class="bi bi-eye-slash-fill"></i>
+            <h6>Bảo Mật Thông Tin</h6>
+            <p>Thông tin cá nhân và lịch sử giao dịch được bảo mật tuyệt đối, không chia sẻ bên thứ ba.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       DÀNH RIÊNG CHO NGƯỜI VIỆT
+  ═══════════════════════════════════════════ -->
+  <section class="viet-section">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Bản địa hóa</div>
+        <h2 class="section-title">Dành Riêng Cho <span>Người Việt</span></h2>
+        <p class="section-sub mx-auto mt-2">qh88 được thiết kế từ đầu để phục vụ người dùng Việt Nam – từ ngôn ngữ, tiền tệ đến phương thức thanh toán.</p>
+      </div>
+      <div class="row g-4">
+        <div class="col-sm-6 col-lg-3">
+          <div class="viet-card">
+            <i class="bi bi-translate"></i>
+            <h5>Giao Diện Tiếng Việt</h5>
+            <p>Toàn bộ nền tảng được Việt hóa hoàn toàn – không cần biết tiếng Anh vẫn chơi được dễ dàng.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="viet-card">
+            <i class="bi bi-currency-exchange"></i>
+            <h5>Tiền Đồng Việt Nam</h5>
+            <p>Mọi giao dịch đều thực hiện bằng VNĐ. Không cần đổi ngoại tệ, không mất phí chuyển đổi.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="viet-card">
+            <i class="bi bi-phone"></i>
+            <h5>Thanh Toán Nội Địa</h5>
+            <p>Hỗ trợ MoMo, ZaloPay, VNPay, ViettelPay và tất cả ngân hàng lớn tại Việt Nam.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-3">
+          <div class="viet-card">
+            <i class="bi bi-clock-history"></i>
+            <h5>Giờ Hỗ Trợ Việt Nam</h5>
+            <p>Đội ngũ CSKH hoạt động theo múi giờ Việt Nam (GMT+7), phục vụ từ Hà Nội đến Cần Thơ.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       IMAGE 7
+  ═══════════════════════════════════════════ -->
+  <div class="container py-4 text-center">
+    <img src="/img/9IQMS6OOMB2.jpg" alt="qh88" title="qh88" class="featured-img" style="max-height:380px;object-fit:cover;">
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       SO SÁNH
+  ═══════════════════════════════════════════ -->
+  <section class="compare-section">
+    <div class="container">
+      <div class="text-center mb-5">
+        <div class="section-label">Vì sao qh88 khác biệt</div>
+        <h2 class="section-title">qh88 So Với <span>Phương Thức Truyền Thống</span></h2>
+        <p class="section-sub mx-auto mt-2">Xem tại sao ngày càng nhiều người Việt chuyển sang trải nghiệm cá cược trực tuyến tại qh88.</p>
+      </div>
+      <div class="table-responsive">
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th>Tiêu chí</th>
+              <th class="highlight-col">qh88 Trực Tuyến</th>
+              <th>Phương Thức Truyền Thống</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Thời gian giao dịch</td>
+              <td class="highlight-col">Tức thì – dưới 30 giây</td>
+              <td>Vài giờ đến vài ngày</td>
+            </tr>
+            <tr>
+              <td>Truy cập</td>
+              <td class="highlight-col">24/7 – mọi thiết bị</td>
+              <td>Giờ hành chính, địa điểm cố định</td>
+            </tr>
+            <tr>
+              <td>Bảo mật thông tin</td>
+              <td class="highlight-col"><i class="icon-yes bi bi-check-circle-fill"></i> SSL 256-bit</td>
+              <td><i class="icon-no bi bi-x-circle-fill"></i> Rủi ro cao hơn</td>
+            </tr>
+            <tr>
+              <td>Đa dạng trò chơi</td>
+              <td class="highlight-col">500+ tựa game</td>
+              <td>Hạn chế theo địa điểm</td>
+            </tr>
+            <tr>
+              <td>Khuyến mãi &amp; thưởng</td>
+              <td class="highlight-col"><i class="icon-yes bi bi-check-circle-fill"></i> Hàng chục ưu đãi</td>
+              <td><i class="icon-no bi bi-x-circle-fill"></i> Không có</td>
+            </tr>
+            <tr>
+              <td>Hỗ trợ khách hàng</td>
+              <td class="highlight-col">24/7 tiếng Việt</td>
+              <td>Hạn chế hoặc không có</td>
+            </tr>
+            <tr>
+              <td>Theo dõi lịch sử cược</td>
+              <td class="highlight-col"><i class="icon-yes bi bi-check-circle-fill"></i> Đầy đủ, minh bạch</td>
+              <td><i class="icon-no bi bi-x-circle-fill"></i> Khó theo dõi</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       TẢI ỨNG DỤNG
+  ═══════════════════════════════════════════ -->
+  <section class="app-section">
+    <div class="container">
+      <div class="row align-items-center g-5">
+        <div class="col-lg-6">
+          <div class="section-label">Di động</div>
+          <h2 class="section-title">Tải Ứng Dụng <span>qh88</span></h2>
+          <p class="section-sub mt-2 mb-4">Mang toàn bộ trải nghiệm cá cược vào lòng bàn tay. Ứng dụng qh88 tối ưu cho cả iOS và Android, mượt mà và nhanh chóng.</p>
+          <ul class="app-feature-list mb-4">
+            <li><i class="bi bi-check-circle-fill"></i> Giao diện tối ưu cho màn hình di động</li>
+            <li><i class="bi bi-check-circle-fill"></i> Thông báo kết quả trận đấu tức thì</li>
+            <li><i class="bi bi-check-circle-fill"></i> Nạp rút tiền chỉ với vài chạm</li>
+            <li><i class="bi bi-check-circle-fill"></i> Xem trực tiếp V-League và các giải quốc tế</li>
+            <li><i class="bi bi-check-circle-fill"></i> Bảo mật sinh trắc học (vân tay / Face ID)</li>
+            <li><i class="bi bi-check-circle-fill"></i> Hoạt động ổn định trên 3G/4G/5G và WiFi</li>
+          </ul>
+          <div class="d-flex flex-wrap gap-3">
+            <a href="/qh88-dang-nhap" class="btn-store">
+              <i class="bi bi-apple"></i>
+              <span>
+                <span class="store-label">Tải về trên</span>
+                <span class="store-name">App Store</span>
+              </span>
+            </a>
+            <a href="/qh88-dang-nhap" class="btn-store">
+              <i class="bi bi-google-play"></i>
+              <span>
+                <span class="store-label">Tải về trên</span>
+                <span class="store-name">Google Play</span>
+              </span>
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-6 text-center">
+          <div class="d-flex align-items-center justify-content-center gap-4 flex-wrap">
+            <div>
+              <div class="qr-placeholder mx-auto mb-3">
+                <img src="/img/KCWV5GU4SBC.jpg" alt="qh88" title="qh88">
+              </div>
+              <p style="font-size:0.8rem;color:var(--text-muted-lt);">Quét QR để tải ứng dụng</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       CHÍNH SÁCH BẢO MẬT NOTICE
+  ═══════════════════════════════════════════ -->
+  <section style="background:var(--navy-mid);padding:40px 0;">
+    <div class="container">
+      <div class="privacy-notice">
+        <div class="d-flex align-items-start gap-3">
+          <i class="bi bi-shield-check fs-4 mt-1"></i>
+          <div>
+            <strong style="color:#fff;font-size:0.95rem;">Chính Sách Bảo Mật &amp; Quyền Riêng Tư</strong>
+            <p class="mt-1">
+              qh88 cam kết bảo vệ thông tin cá nhân của bạn theo tiêu chuẩn bảo mật quốc tế. Chúng tôi không bao giờ chia sẻ, bán hoặc tiết lộ dữ liệu của bạn cho bên thứ ba khi chưa có sự đồng ý. Mọi giao dịch được mã hóa SSL 256-bit. Để biết thêm chi tiết, vui lòng xem
+              <a href="/chinh-sach-bao-mat">Chính sách bảo mật đầy đủ</a> của chúng tôi.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       BẢN ĐỒ
+  ═══════════════════════════════════════════ -->
+  <section class="map-section">
+    <div class="container">
+      <div class="text-center mb-4">
+        <div class="section-label">Hiện diện tại Việt Nam</div>
+        <h2 class="section-title">Chúng Tôi <span>Ở Đây</span></h2>
+        <p class="section-sub mx-auto mt-2">qh88 phục vụ người chơi trên toàn lãnh thổ Việt Nam, từ Hà Nội đến TP. Hồ Chí Minh và Đà Nẵng.</p>
+      </div>
+      <div class="map-wrapper">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.0966703830!2d105.8341598!3d21.0277644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab9bd9861ca1%3A0xe7887f7b72ca17a9!2zSMOgIE5buZaSBIb8OgbiBLaeG6v20!5e0!3m2!1svi!2svn!4v1699000000000!5m2!1svi!2svn" width="100%" height="400" style="border:0;display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="qh88 – Bản đồ Hà Nội, Việt Nam">
+        </iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       FOOTER
+  ═══════════════════════════════════════════ -->
+  <footer>
+    <div class="container">
+      <div class="row g-5">
+
+        <!-- Cột 1: Thương hiệu -->
+        <div class="col-lg-4">
+          <div class="footer-brand">
+            <img src="/logo.png" alt="qh88" title="qh88">
+            <p>
+              qh88 là nền tảng cá cược trực tuyến uy tín hàng đầu dành cho người dùng Việt Nam. Chúng tôi cung cấp đa dạng trò chơi từ thể thao, casino live, nổ hũ, đá gà đến xổ số – tất cả trong một ứng dụng duy nhất. Với hệ thống bảo mật tiên tiến, giao dịch tức thì và đội ngũ hỗ trợ tiếng Việt 24/7, qh88 mang đến trải nghiệm cá cược an toàn, minh bạch và thú vị nhất cho cộng đồng người chơi từ Hà Nội, TP. Hồ Chí Minh đến Đà Nẵng và khắp cả nước.
+            </p>
+            <p style="margin-top:10px;">
+              <span class="age-badge" style="margin-left:0;">18+</span>
+              <span style="font-size:0.78rem;margin-left:8px;">Chỉ dành cho người trên 18 tuổi</span>
+            </p>
+          </div>
+        </div>
+
+        <!-- Cột 2: Liên kết -->
+        <div class="col-sm-6 col-lg-2">
+          <h6>Liên Kết</h6>
+          <ul>
+            <li><a href="/ve-chung-toi">Về chúng tôi</a></li>
+            <li><a href="/dieu-khoan-dieu-kien">Điều khoản &amp; Điều kiện</a></li>
+            <li><a href="/chinh-sach-bao-mat">Chính sách bảo mật</a></li>
+            <li><a href="/choi-co-trach-nhiem">Chơi có trách nhiệm</a></li>
+            <li><a href="/cau-hoi-thuong-gap">Câu hỏi thường gặp</a></li>
+            <li><a href="/sitemap.xml">Sitemap</a></li>
+          </ul>
+        </div>
+
+        <!-- Cột 3: Trò chơi -->
+        <div class="col-sm-6 col-lg-2">
+          <h6>Trò Chơi</h6>
+          <ul>
+            <li><a href="/bong-da">Bóng đá</a></li>
+            <li><a href="/truot">Trượt</a></li>
+            <li><a href="/da-ga">Đá Gà</a></li>
+            <li><a href="/no-hu">Nổ Hũ</a></li>
+            <li><a href="/qh88-casino">qh88 Casino</a></li>
+            <li><a href="/qh88-dang-nhap">qh88 Đăng nhập</a></li>
+          </ul>
+        </div>
+
+        <!-- Cột 4: Thanh toán & Liên hệ -->
+        <div class="col-lg-4">
+          <h6>Phương Thức Thanh Toán</h6>
+          <div class="mb-3">
+            <span class="footer-payment-label">MoMo</span>
+            <span class="footer-payment-label">ZaloPay</span>
+            <span class="footer-payment-label">VNPay</span>
+            <span class="footer-payment-label">ViettelPay</span>
+            <span class="footer-payment-label">Vietcombank</span>
+            <span class="footer-payment-label">Techcombank</span>
+            <span class="footer-payment-label">BIDV</span>
+            <span class="footer-payment-label">MB Bank</span>
+            <span class="footer-payment-label">Agribank</span>
+          </div>
+          <h6 class="mt-3">Liên Hệ</h6>
+          <p style="font-size:0.84rem;color:var(--text-muted-lt);margin-bottom:6px;">
+            <i class="bi bi-envelope me-2"></i>
+            <span>support@qh88.app</span>
+          </p>
+          <p style="font-size:0.84rem;color:var(--text-muted-lt);margin-bottom:0;">
+            <i class="bi bi-clock me-2"></i>
+            Hỗ trợ 24/7 – Tất cả các ngày trong tuần
+          </p>
+        </div>
+
+      </div>
+
+      <hr class="footer-divider">
+
+      <div class="d-flex flex-wrap justify-content-between align-items-center gap-3 footer-bottom">
+        <p class="mb-0">© 2026 qh88. Bảo lưu mọi quyền.</p>
+        <p class="mb-0">
+          qh88 cam kết cờ bạc có trách nhiệm.
+          <a href="/choi-co-trach-nhiem" style="color:var(--orange);text-decoration:none;">Tìm hiểu thêm</a>
+        </p>
+      </div>
+
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Schema ld+json -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "qh88",
+    "url": "https://qh88.app/",
+    "logo": "https://qh88.app/logo.png",
+    "description": "qh88 là nền tảng cá cược trực tuyến uy tín hàng đầu dành cho người dùng Việt Nam. Cá cược thể thao, casino live, nổ hũ, đá gà và xổ số.",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "availableLanguage": "Vietnamese",
+      "hoursAvailable": "Mo-Su 00:00-23:59"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Vietnam"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "qh88",
+    "url": "https://qh88.app/",
+    "inLanguage": "vi",
+    "description": "Sân chơi cá cược trực tuyến uy tín dành cho người Việt – thể thao, casino, nổ hũ, đá gà, xổ số."
+  }
+  </script>
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;311c06bc71d44d49bf45eb3357d38bad&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a45d292159bbdb88',t:'MTc5MTIxMTAwOA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; visibility: hidden;"></iframe>
+
+<div id="br-stick" style="left: 50%; transform: translateX(-50%) translateZ(0px); max-width: 400px; width: auto; bottom: 0px;"><div class="wrap">  <div class="card" role="region" aria-label="Đăng ký và Đăng nhập">    <button class="close" aria-label="Fechar" type="button">×</button>    <div class="btn-container">      <a href="https://www.fv88my.vip?a=142558" class="btn btn-register" target="_blank" rel="nofollow noopener noreferrer">Đăng Ký</a>      <a href="https://www.fv88my.vip?a=142558" class="btn btn-login" target="_blank" rel="nofollow noopener noreferrer">Đăng Nhập</a>    </div>  </div></div></div></body></html>

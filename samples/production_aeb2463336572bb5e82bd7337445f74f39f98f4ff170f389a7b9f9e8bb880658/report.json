@@ -1,0 +1,27 @@
+{
+  "original_url": "https://standupcircus.net/cm/",
+  "hostname": "standupcircus.net",
+  "checked_at": "2026-10-04T14:20:21.287253+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a06a34-a049-73e1-8042-f6f8fa80cf0a",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-04T02:17:15.675Z",
+  "scan_original_url": "http://standupcircus.net/",
+  "final_url": "https://standupcircus.net/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 31260,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 43.01,
+  "discovery": {
+    "batch_id": "cc8d4c11fc44cfe0cdaae17a2bf68ad6bb8780a4d1c95ab6e89ac2f8409bedab",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

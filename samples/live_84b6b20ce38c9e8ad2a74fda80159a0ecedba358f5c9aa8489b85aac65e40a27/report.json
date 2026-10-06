@@ -1,0 +1,561 @@
+{
+  "candidate_id": "live_84b6b20ce38c9e8ad2a74fda80159a0ecedba358f5c9aa8489b85aac65e40a27",
+  "candidate_sha256": "031d30195555118ae0b7b97d8056c723c8191db348539ee6eebd9041ac1f4dca",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://dombarreto.g12.br/portal/wp-content/wppa-depot/bid/information.php?access.x718949955&&data.x=en_c41563fc9f45c2fb0c958fb93",
+  "requested_url": "https://dombarreto.com/",
+  "browser_final_url": "https://dombarreto.com/",
+  "source_urls": [
+    "http://dombarreto.g12.br/portal/wp-content/languages/bid/login.php",
+    "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x333901975&&data.x=en_a8e19a5e0631cb635598914ae",
+    "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x36387231&&data.x=en_3ae36ccca530594e47930981b",
+    "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x530171395&&data.x=en_5ffe3cfe6e56b23b73bbdaa5d",
+    "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x854587740&&data.x=en_af0ee47a45915884311ff855c",
+    "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/login.php",
+    "http://dombarreto.g12.br/portal/wp-content/wppa-depot/bid/information.php?access.x718949955&&data.x=en_c41563fc9f45c2fb0c958fb93"
+  ],
+  "source_count": 7,
+  "provenance": [
+    {
+      "source_index": 95433,
+      "source_url": "http://dombarreto.g12.br/portal/wp-content/wppa-depot/bid/information.php?access.x718949955&&data.x=en_c41563fc9f45c2fb0c958fb93",
+      "source_hostname": "dombarreto.g12.br",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://dombarreto.com/",
+      "final_hostname": "dombarreto.com",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 6619,
+      "checked_at": "2026-10-05T13:16:28.995242+00:00",
+      "error": null,
+      "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/wppa-depot/bid/information.php?access.x718949955&&data.x=en_c41563fc9f45c2fb0c958fb93",
+      "normalized_final_url": "https://dombarreto.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 109348,
+      "source_url": "http://dombarreto.g12.br/portal/wp-content/languages/bid/login.php",
+      "source_hostname": "dombarreto.g12.br",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://dombarreto.com/",
+      "final_hostname": "dombarreto.com",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3995,
+      "checked_at": "2026-10-05T13:18:12.783525+00:00",
+      "error": null,
+      "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/languages/bid/login.php",
+      "normalized_final_url": "https://dombarreto.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 111792,
+      "source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x530171395&&data.x=en_5ffe3cfe6e56b23b73bbdaa5d",
+      "source_hostname": "dombarreto.g12.br",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://dombarreto.com/",
+      "final_hostname": "dombarreto.com",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3256,
+      "checked_at": "2026-10-05T13:18:20.497645+00:00",
+      "error": null,
+      "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x530171395&&data.x=en_5ffe3cfe6e56b23b73bbdaa5d",
+      "normalized_final_url": "https://dombarreto.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 115077,
+      "source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x36387231&&data.x=en_3ae36ccca530594e47930981b",
+      "source_hostname": "dombarreto.g12.br",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://dombarreto.com/",
+      "final_hostname": "dombarreto.com",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3127,
+      "checked_at": "2026-10-05T13:18:25.097863+00:00",
+      "error": null,
+      "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x36387231&&data.x=en_3ae36ccca530594e47930981b",
+      "normalized_final_url": "https://dombarreto.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 115078,
+      "source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x333901975&&data.x=en_a8e19a5e0631cb635598914ae",
+      "source_hostname": "dombarreto.g12.br",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://dombarreto.com/",
+      "final_hostname": "dombarreto.com",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3132,
+      "checked_at": "2026-10-05T13:18:27.978740+00:00",
+      "error": null,
+      "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x333901975&&data.x=en_a8e19a5e0631cb635598914ae",
+      "normalized_final_url": "https://dombarreto.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 115079,
+      "source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/login.php",
+      "source_hostname": "dombarreto.g12.br",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://dombarreto.com/",
+      "final_hostname": "dombarreto.com",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3108,
+      "checked_at": "2026-10-05T13:18:30.285728+00:00",
+      "error": null,
+      "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/login.php",
+      "normalized_final_url": "https://dombarreto.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 115080,
+      "source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x854587740&&data.x=en_af0ee47a45915884311ff855c",
+      "source_hostname": "dombarreto.g12.br",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://dombarreto.com/",
+      "final_hostname": "dombarreto.com",
+      "redirect_count": 3,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 3127,
+      "checked_at": "2026-10-05T13:18:32.080170+00:00",
+      "error": null,
+      "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x854587740&&data.x=en_af0ee47a45915884311ff855c",
+      "normalized_final_url": "https://dombarreto.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_84b6b20ce38c9e8ad2a74fda80159a0ecedba358f5c9aa8489b85aac65e40a27",
+    "representative_source_index": 95433,
+    "representative_source_url": "http://dombarreto.g12.br/portal/wp-content/wppa-depot/bid/information.php?access.x718949955&&data.x=en_c41563fc9f45c2fb0c958fb93",
+    "representative_final_url": "https://dombarreto.com/",
+    "normalized_final_url": "https://dombarreto.com/",
+    "source_hostname": "dombarreto.g12.br",
+    "final_hostname": "dombarreto.com",
+    "source_urls": [
+      "http://dombarreto.g12.br/portal/wp-content/languages/bid/login.php",
+      "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x333901975&&data.x=en_a8e19a5e0631cb635598914ae",
+      "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x36387231&&data.x=en_3ae36ccca530594e47930981b",
+      "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x530171395&&data.x=en_5ffe3cfe6e56b23b73bbdaa5d",
+      "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x854587740&&data.x=en_af0ee47a45915884311ff855c",
+      "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/login.php",
+      "http://dombarreto.g12.br/portal/wp-content/wppa-depot/bid/information.php?access.x718949955&&data.x=en_c41563fc9f45c2fb0c958fb93"
+    ],
+    "provenance": [
+      {
+        "source_index": 95433,
+        "source_url": "http://dombarreto.g12.br/portal/wp-content/wppa-depot/bid/information.php?access.x718949955&&data.x=en_c41563fc9f45c2fb0c958fb93",
+        "source_hostname": "dombarreto.g12.br",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://dombarreto.com/",
+        "final_hostname": "dombarreto.com",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 6619,
+        "checked_at": "2026-10-05T13:16:28.995242+00:00",
+        "error": null,
+        "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/wppa-depot/bid/information.php?access.x718949955&&data.x=en_c41563fc9f45c2fb0c958fb93",
+        "normalized_final_url": "https://dombarreto.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 109348,
+        "source_url": "http://dombarreto.g12.br/portal/wp-content/languages/bid/login.php",
+        "source_hostname": "dombarreto.g12.br",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://dombarreto.com/",
+        "final_hostname": "dombarreto.com",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3995,
+        "checked_at": "2026-10-05T13:18:12.783525+00:00",
+        "error": null,
+        "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/languages/bid/login.php",
+        "normalized_final_url": "https://dombarreto.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 111792,
+        "source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x530171395&&data.x=en_5ffe3cfe6e56b23b73bbdaa5d",
+        "source_hostname": "dombarreto.g12.br",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://dombarreto.com/",
+        "final_hostname": "dombarreto.com",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3256,
+        "checked_at": "2026-10-05T13:18:20.497645+00:00",
+        "error": null,
+        "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x530171395&&data.x=en_5ffe3cfe6e56b23b73bbdaa5d",
+        "normalized_final_url": "https://dombarreto.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 115077,
+        "source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x36387231&&data.x=en_3ae36ccca530594e47930981b",
+        "source_hostname": "dombarreto.g12.br",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://dombarreto.com/",
+        "final_hostname": "dombarreto.com",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3127,
+        "checked_at": "2026-10-05T13:18:25.097863+00:00",
+        "error": null,
+        "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x36387231&&data.x=en_3ae36ccca530594e47930981b",
+        "normalized_final_url": "https://dombarreto.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 115078,
+        "source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x333901975&&data.x=en_a8e19a5e0631cb635598914ae",
+        "source_hostname": "dombarreto.g12.br",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://dombarreto.com/",
+        "final_hostname": "dombarreto.com",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3132,
+        "checked_at": "2026-10-05T13:18:27.978740+00:00",
+        "error": null,
+        "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x333901975&&data.x=en_a8e19a5e0631cb635598914ae",
+        "normalized_final_url": "https://dombarreto.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 115079,
+        "source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/login.php",
+        "source_hostname": "dombarreto.g12.br",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://dombarreto.com/",
+        "final_hostname": "dombarreto.com",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3108,
+        "checked_at": "2026-10-05T13:18:30.285728+00:00",
+        "error": null,
+        "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/login.php",
+        "normalized_final_url": "https://dombarreto.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 115080,
+        "source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x854587740&&data.x=en_af0ee47a45915884311ff855c",
+        "source_hostname": "dombarreto.g12.br",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://dombarreto.com/",
+        "final_hostname": "dombarreto.com",
+        "redirect_count": 3,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 3127,
+        "checked_at": "2026-10-05T13:18:32.080170+00:00",
+        "error": null,
+        "normalized_source_url": "http://dombarreto.g12.br/portal/wp-content/themes/sahifa/bid/information.php?access.x854587740&&data.x=en_af0ee47a45915884311ff855c",
+        "normalized_final_url": "https://dombarreto.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 7,
+    "unique_source_url_count": 7,
+    "http_status": 200,
+    "redirect_count": 3,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Página Inicial - Instituto Dom Barreto",
+  "capture_timestamp": "2026-10-05T16:43:01.846344+00:00",
+  "dom_chars": 87606,
+  "screenshot_bytes": 127736,
+  "dom_sha256": "e353c9c8e2eba451255d8dedd979c50da8b06da32d26f727d228f43ae90b321e",
+  "screenshot_sha256": "39e66434eb9c96ae5c80f5b7d4d81e81f16c091e03bc825006f1acbb27cbf8f6",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://dombarreto.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://dombarreto.com/",
+    "browser_final_url": "https://dombarreto.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 6,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 9805,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:48:17.828767+00:00",
+    "previous_report_sha256": "6ad8ca07cbe90089b3277d022272368721dfbc85d53d107ae48f52a1aaf57ac1",
+    "recovered_at": "2026-10-05T16:43:01.846344+00:00",
+    "result": "complete"
+  }
+}

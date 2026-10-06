@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_46618b80833f73d5e16809a3e4745d13dfa12fd39c9cf501c31fba0836fa2102",
+  "candidate_sha256": "59cf278c8ad80ab4b24389c745bb9058840d324846f3100999d47eb2daeda2bc",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://clmm.bet",
+  "requested_url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+  "browser_final_url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+  "source_urls": [
+    "https://clmm.bet"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 3949,
+      "source_url": "https://clmm.bet",
+      "source_hostname": "clmm.bet",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+      "final_hostname": "expireddomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 41597,
+      "elapsed_ms": 949,
+      "checked_at": "2026-10-05T12:40:53.096951+00:00",
+      "error": null,
+      "normalized_source_url": "https://clmm.bet/",
+      "normalized_final_url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_46618b80833f73d5e16809a3e4745d13dfa12fd39c9cf501c31fba0836fa2102",
+    "representative_source_index": 3949,
+    "representative_source_url": "https://clmm.bet",
+    "representative_final_url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+    "normalized_final_url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+    "source_hostname": "clmm.bet",
+    "final_hostname": "expireddomains.com",
+    "source_urls": [
+      "https://clmm.bet"
+    ],
+    "provenance": [
+      {
+        "source_index": 3949,
+        "source_url": "https://clmm.bet",
+        "source_hostname": "clmm.bet",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+        "final_hostname": "expireddomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 41597,
+        "elapsed_ms": 949,
+        "checked_at": "2026-10-05T12:40:53.096951+00:00",
+        "error": null,
+        "normalized_source_url": "https://clmm.bet/",
+        "normalized_final_url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Get clmm.bet — Afternic / GoDaddy | ExpiredDomains.com",
+  "capture_timestamp": "2026-10-05T14:41:37.647027+00:00",
+  "dom_chars": 41902,
+  "screenshot_bytes": 155140,
+  "dom_sha256": "df0c1fa602337d3cc6c8dac45d8205c3fda954f4c6b2978b4ac971f3c293658a",
+  "screenshot_sha256": "9af8194e1d8195be1009d42571b650ec5ba928155b8453ee39d47e7ddc410b7d",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+    "browser_final_url": "https://expireddomains.com/domain/clmm.bet?utm_source=redi",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 1,
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2651
+}

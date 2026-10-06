@@ -1,0 +1,27 @@
+{
+  "original_url": "freefiremembership.com",
+  "hostname": "freefiremembership.com",
+  "checked_at": "2026-10-04T13:39:20.454824+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a1047e-fbd2-76bc-857a-ff21a08da4e7",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-04T01:19:59.064Z",
+  "scan_original_url": "http://freefiremembership.com/5_15472_557_114_143178_134308_1_0_38_64267.",
+  "final_url": "http://freefiremembership.com/news?q=This%20link%20is%20not%20allowed%20to%20be%20clicked!%20/5_15472_557_114_143178_134308_1_0_38_64267.",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 6679,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.804,
+  "discovery": {
+    "batch_id": "ac02a83a073d01de74769d4cc252ef62d55bab64c630d9a60eb526fe79587224",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

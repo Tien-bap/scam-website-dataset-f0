@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_a3a0286eb519788ca3e0132764690c3571d1fe3f57d06b3a9a3d3be7832a0b6f",
+  "candidate_sha256": "f5f87ebbd65886ff33457ba93b91e080cdfcb8455187f02c304943fb3f355a7e",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "vaer.top",
+  "requested_url": "https://vaer.top",
+  "browser_final_url": "https://vaer.top/",
+  "source_urls": [
+    "vaer.top"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 11440,
+      "source_url": "vaer.top",
+      "source_hostname": "vaer.top",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://vaer.top",
+      "final_hostname": "vaer.top",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 4985,
+      "elapsed_ms": 440,
+      "checked_at": "2026-10-05T12:41:46.333643+00:00",
+      "error": null,
+      "normalized_source_url": "https://vaer.top/",
+      "normalized_final_url": "https://vaer.top/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_a3a0286eb519788ca3e0132764690c3571d1fe3f57d06b3a9a3d3be7832a0b6f",
+    "representative_source_index": 11440,
+    "representative_source_url": "vaer.top",
+    "representative_final_url": "https://vaer.top",
+    "normalized_final_url": "https://vaer.top/",
+    "source_hostname": "vaer.top",
+    "final_hostname": "vaer.top",
+    "source_urls": [
+      "vaer.top"
+    ],
+    "provenance": [
+      {
+        "source_index": 11440,
+        "source_url": "vaer.top",
+        "source_hostname": "vaer.top",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://vaer.top",
+        "final_hostname": "vaer.top",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 4985,
+        "elapsed_ms": 440,
+        "checked_at": "2026-10-05T12:41:46.333643+00:00",
+        "error": null,
+        "normalized_source_url": "https://vaer.top/",
+        "normalized_final_url": "https://vaer.top/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "timeout",
+  "capture_status": "partial",
+  "technical_complete": true,
+  "title": "K8凯发·天生赢家",
+  "capture_timestamp": "2026-10-05T14:51:30.431175+00:00",
+  "dom_chars": 4097,
+  "screenshot_bytes": 1181478,
+  "dom_sha256": "fefdc5b23b59499a0ecbf60eb11b555c79ebaead1fc009b4d4aed179183a15a8",
+  "screenshot_sha256": "6c8f4608cf427623b4d7f07d23c6ab5d4c2bdca1077eb63ce72deedcdfd9ece6",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://vaer.top/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://vaer.top",
+    "browser_final_url": "https://vaer.top/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": "Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://vaer.top/\", waiting until \"domcontentloaded\"\n",
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 16944
+}

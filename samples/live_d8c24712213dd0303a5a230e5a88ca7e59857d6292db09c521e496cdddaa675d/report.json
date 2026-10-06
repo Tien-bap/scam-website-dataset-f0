@@ -1,0 +1,161 @@
+{
+  "candidate_id": "live_d8c24712213dd0303a5a230e5a88ca7e59857d6292db09c521e496cdddaa675d",
+  "candidate_sha256": "85459f82bbab2d48a26405897e370194fde8dded7853433ef7b72f8d4b27d3c5",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://fonixpizza.no/New%20Order/share.php",
+  "requested_url": "https://www.davisandshirtliff.ug/",
+  "browser_final_url": "https://rusvile.lt/",
+  "source_urls": [
+    "https://fonixpizza.no/New%20Order/share.php"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 114408,
+      "source_url": "https://fonixpizza.no/New%20Order/share.php",
+      "source_hostname": "fonixpizza.no",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.davisandshirtliff.ug/",
+      "final_hostname": "www.davisandshirtliff.ug",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1365,
+      "checked_at": "2026-10-05T13:18:14.018934+00:00",
+      "error": null,
+      "normalized_source_url": "https://fonixpizza.no/New%20Order/share.php",
+      "normalized_final_url": "https://www.davisandshirtliff.ug/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_d8c24712213dd0303a5a230e5a88ca7e59857d6292db09c521e496cdddaa675d",
+    "representative_source_index": 114408,
+    "representative_source_url": "https://fonixpizza.no/New%20Order/share.php",
+    "representative_final_url": "https://www.davisandshirtliff.ug/",
+    "normalized_final_url": "https://www.davisandshirtliff.ug/",
+    "source_hostname": "fonixpizza.no",
+    "final_hostname": "www.davisandshirtliff.ug",
+    "source_urls": [
+      "https://fonixpizza.no/New%20Order/share.php"
+    ],
+    "provenance": [
+      {
+        "source_index": 114408,
+        "source_url": "https://fonixpizza.no/New%20Order/share.php",
+        "source_hostname": "fonixpizza.no",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.davisandshirtliff.ug/",
+        "final_hostname": "www.davisandshirtliff.ug",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1365,
+        "checked_at": "2026-10-05T13:18:14.018934+00:00",
+        "error": null,
+        "normalized_source_url": "https://fonixpizza.no/New%20Order/share.php",
+        "normalized_final_url": "https://www.davisandshirtliff.ug/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "APINAGA Rumah Slot Jackpot APINAGA Link Maxwin Malam Ini Gampang Menang Gacor Abis !",
+  "capture_timestamp": "2026-10-05T16:52:46.618411+00:00",
+  "dom_chars": 429786,
+  "screenshot_bytes": 592069,
+  "dom_sha256": "9335751329984de83fa4612cc087fbdfbb8186a0213df73b8647f27fa4605093",
+  "screenshot_sha256": "1bc53a98c8184053257d087118692b62e891ec0465e06e94b5c2ac199bd4741f",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_challenge"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://www.davisandshirtliff.ug/",
+      "http_status": 301
+    },
+    {
+      "url": "https://rusvile.lt/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.davisandshirtliff.ug/",
+    "browser_final_url": "https://rusvile.lt/",
+    "url_changed": true,
+    "cross_hostname": true,
+    "http_redirect_count": 1
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 4426,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "timeout",
+    "original_capture_timestamp": "2026-10-05T14:57:35.501754+00:00",
+    "previous_report_sha256": "568a608969b617c27c923114c62f755605fcab02ab94a7fb31c6667a40abc0c8",
+    "recovered_at": "2026-10-05T16:52:46.618411+00:00",
+    "result": "complete"
+  }
+}

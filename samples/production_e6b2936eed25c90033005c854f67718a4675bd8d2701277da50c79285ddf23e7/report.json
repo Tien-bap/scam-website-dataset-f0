@@ -1,0 +1,27 @@
+{
+  "original_url": "https://midasglitter.com/midas/dropbox/DropBox.com/DropBox",
+  "hostname": "midasglitter.com",
+  "checked_at": "2026-10-04T14:18:19.547549+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a08ada-779b-76a8-83d0-52e7fc063f35",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-10T10:26:21.023Z",
+  "scan_original_url": "https://midasglitter.com/",
+  "final_url": "https://midasglitter.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1627,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 43.715,
+  "discovery": {
+    "batch_id": "8927945ec259f89fb2a827db2c9738367fe158773e47156305c6f4dded81ded2",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

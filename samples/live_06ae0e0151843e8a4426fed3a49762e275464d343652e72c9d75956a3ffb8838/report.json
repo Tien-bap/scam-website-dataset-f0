@@ -1,0 +1,156 @@
+{
+  "candidate_id": "live_06ae0e0151843e8a4426fed3a49762e275464d343652e72c9d75956a3ffb8838",
+  "candidate_sha256": "50306a98a571e9b901e26e3d77ac5e72d7de16e60c66d45dfb9cd32674e08a2b",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://cakhiatv.boo",
+  "requested_url": "https://jyothienterprises.in/",
+  "browser_final_url": "https://jyothienterprises.in/",
+  "source_urls": [
+    "https://cakhiatv.boo"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1220,
+      "source_url": "https://cakhiatv.boo",
+      "source_hostname": "cakhiatv.boo",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://jyothienterprises.in/",
+      "final_hostname": "jyothienterprises.in",
+      "redirect_count": 4,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2454,
+      "checked_at": "2026-10-05T12:18:36.072942+00:00",
+      "error": null,
+      "normalized_source_url": "https://cakhiatv.boo/",
+      "normalized_final_url": "https://jyothienterprises.in/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_06ae0e0151843e8a4426fed3a49762e275464d343652e72c9d75956a3ffb8838",
+    "representative_source_index": 1220,
+    "representative_source_url": "https://cakhiatv.boo",
+    "representative_final_url": "https://jyothienterprises.in/",
+    "normalized_final_url": "https://jyothienterprises.in/",
+    "source_hostname": "cakhiatv.boo",
+    "final_hostname": "jyothienterprises.in",
+    "source_urls": [
+      "https://cakhiatv.boo"
+    ],
+    "provenance": [
+      {
+        "source_index": 1220,
+        "source_url": "https://cakhiatv.boo",
+        "source_hostname": "cakhiatv.boo",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://jyothienterprises.in/",
+        "final_hostname": "jyothienterprises.in",
+        "redirect_count": 4,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2454,
+        "checked_at": "2026-10-05T12:18:36.072942+00:00",
+        "error": null,
+        "normalized_source_url": "https://cakhiatv.boo/",
+        "normalized_final_url": "https://jyothienterprises.in/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 4,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Kèo Nhà Cái 5 ⭐️ Cập Nhật Tỷ Lệ Kèo Nhà Cái Mới Nhất 10/2026",
+  "capture_timestamp": "2026-10-05T16:33:10.736788+00:00",
+  "dom_chars": 294750,
+  "screenshot_bytes": 334853,
+  "dom_sha256": "4044e0af0a5d41b22b185af7aac8c96905a631596f038c7d9ce53bd6bb35bcb8",
+  "screenshot_sha256": "b23e749c31f22f76156aae4bb07bc82fe9d55ff9a8178d957165b7d1c4da130c",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://jyothienterprises.in/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://jyothienterprises.in/",
+    "browser_final_url": "https://jyothienterprises.in/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 5313,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:34:12.025524+00:00",
+    "previous_report_sha256": "50da08093b7ebbe51cb6fcdbb440efdf1dcf5270225f4240704f87b47c483c7a",
+    "recovered_at": "2026-10-05T16:33:10.736788+00:00",
+    "result": "complete"
+  }
+}

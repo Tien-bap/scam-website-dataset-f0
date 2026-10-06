@@ -1,0 +1,27 @@
+{
+  "original_url": "http://trianglepoolservice.com/.AHC/office",
+  "hostname": "trianglepoolservice.com",
+  "checked_at": "2026-10-04T16:08:17.173540+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0223c-3c07-751b-b982-dc9d6c5c35e1",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-21T02:52:56.259Z",
+  "scan_original_url": "https://www.trianglepoolservice.com/",
+  "final_url": "https://trianglepoolservice.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2398,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 48.434,
+  "discovery": {
+    "batch_id": "f48d44976d56f7b263fd65aaec909bf97e212191b2aae78e263ae31ad0889cc0",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

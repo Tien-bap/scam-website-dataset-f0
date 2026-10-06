@@ -1,0 +1,27 @@
+{
+  "original_url": "https://go88.tv",
+  "hostname": "go88.tv",
+  "checked_at": "2026-10-04T13:33:48.549672+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f56f5-26c3-706c-be9a-36571c9232e2",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-12T15:32:20.392Z",
+  "scan_original_url": "https://go88.tv/matt-wilson-ceo/",
+  "final_url": "https://go88.tv/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 32763,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.169,
+  "discovery": {
+    "batch_id": "a2240b8250961b01aba1a3a4d25c129aee3e79ee91088063fb1d2b81f4e3745a",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://kilts.fr/opg/",
+  "hostname": "kilts.fr",
+  "checked_at": "2026-10-04T14:17:06.064769+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0a835-3853-765a-82f2-3d2391b2689d",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-16T03:14:25.654Z",
+  "scan_original_url": "http://kilts.fr/",
+  "final_url": "https://kilts.fr/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 29465,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.953,
+  "discovery": {
+    "batch_id": "acf9267f5db3277fdec0bd64675f3d4fc4383205b11fbd39447b65a3abe1dae0",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

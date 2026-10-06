@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_17fcb03789c9b9b825e95d13b9c2702a4f8adaadf7c28756cee35ae632077817",
+  "candidate_sha256": "41c34f04d05a7089b89321a851c91b4b70b14654842b2412985dd4b7f4e510fe",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://qh88.vin",
+  "requested_url": "https://qh88rcb.jp.net/",
+  "browser_final_url": "https://qh88rcb.jp.net/",
+  "source_urls": [
+    "https://qh88.vin"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2978,
+      "source_url": "https://qh88.vin",
+      "source_hostname": "qh88.vin",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://qh88rcb.jp.net/",
+      "final_hostname": "qh88rcb.jp.net",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 959,
+      "checked_at": "2026-10-05T12:40:46.627581+00:00",
+      "error": null,
+      "normalized_source_url": "https://qh88.vin/",
+      "normalized_final_url": "https://qh88rcb.jp.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_17fcb03789c9b9b825e95d13b9c2702a4f8adaadf7c28756cee35ae632077817",
+    "representative_source_index": 2978,
+    "representative_source_url": "https://qh88.vin",
+    "representative_final_url": "https://qh88rcb.jp.net/",
+    "normalized_final_url": "https://qh88rcb.jp.net/",
+    "source_hostname": "qh88.vin",
+    "final_hostname": "qh88rcb.jp.net",
+    "source_urls": [
+      "https://qh88.vin"
+    ],
+    "provenance": [
+      {
+        "source_index": 2978,
+        "source_url": "https://qh88.vin",
+        "source_hostname": "qh88.vin",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://qh88rcb.jp.net/",
+        "final_hostname": "qh88rcb.jp.net",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 959,
+        "checked_at": "2026-10-05T12:40:46.627581+00:00",
+        "error": null,
+        "normalized_source_url": "https://qh88.vin/",
+        "normalized_final_url": "https://qh88rcb.jp.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "QH88RCB.JP.NET – Trang Chủ QH88 Chính Thức Mới Nhất 2026",
+  "capture_timestamp": "2026-10-05T14:36:05.409313+00:00",
+  "dom_chars": 127843,
+  "screenshot_bytes": 654430,
+  "dom_sha256": "7f16571a3966bb646520d063aec09c8468d6d0cd4f3a00946b385d522fe9d761",
+  "screenshot_sha256": "92f244fa552d1b01cd39f00474e3409c6887083f097fe840ce56ae82be26c703",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://qh88rcb.jp.net/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://qh88rcb.jp.net/",
+    "browser_final_url": "https://qh88rcb.jp.net/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 7531
+}

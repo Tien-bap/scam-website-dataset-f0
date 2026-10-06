@@ -1,0 +1,120 @@
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="never">
+    <title>Cổng Dịch vụ công Quốc gia</title>
+    <meta name="description" content="Cổng Dịch vụ công Quốc gia hỗ trợ thông tin, đăng ký thủ tục hành chính như đổi giấy phép lái xe, nộp thuế điện tử, thông báo khuyến mại, cấp lại thẻ BHYT, cấp điện mới...">
+
+    <meta property="og:title" content="Cổng Dịch vụ công Quốc gia">
+    <meta name="description" property="og:description" content="Cổng Dịch vụ công Quốc gia hỗ trợ thông tin, đăng ký thủ tục hành chính như đổi giấy phép lái xe, nộp thuế điện tử, thông báo khuyến mại, cấp lại thẻ BHYT, cấp điện mới...">
+    <meta property="og:image" content="./assets/og_image.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Cổng Dịch vụ công Quốc gia">
+    <meta name="twitter:description" content="Cổng Dịch vụ công Quốc gia hỗ trợ thông tin, đăng ký thủ tục hành chính như đổi giấy phép lái xe, nộp thuế điện tử, thông báo khuyến mại, cấp lại thẻ BHYT, cấp điện mới...">
+    <meta name="twitter:image" content="./assets/twitter_image.png">
+
+    <link rel="icon" href="./logo.png">
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        margin: auto;
+        padding: 0;
+        max-width: 750px;
+      }
+
+      .header {
+        width: 100%;
+      }
+      
+      a {
+        text-decoration: none;
+        color: #1E2F41;
+      }
+
+      .operate {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        height: 40px;
+        padding-bottom: 10px;
+      }
+      .item {
+        width: 45%;
+        height: 40px;
+        color: #1E2F41;
+        border: solid 1px #CE7A58;
+        border-radius: 3px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: 600;
+        z-index: 9999;
+      }
+
+      .bg {
+        width: 100%;
+      }
+
+      .link {
+        display: inline-block;
+        width: 82px;
+        position: fixed;
+        background-color: #158ee9;
+        text-align: center;
+        font-size: 13px;
+        line-height: 1.6;
+        border-radius: 5px;
+        padding: 10px 5px;
+        box-sizing: border-box;
+        right: 10px;
+        bottom: 250px;
+        z-index: 99999;
+        box-shadow: 0px 12px 32px 4px rgb(0 0 0 / 4%),
+          0px 8px 20px rgb(0 0 0 / 8%);
+      }
+
+      .link img {
+        width: 90%;
+      }
+
+      .link p {
+        display: inline-block;
+        border-top: 1px solid #eaeaea;
+        margin-top: 10px;
+        margin-bottom: 0;
+        padding-top: 10px;
+        color: #ffffff;
+        font-size: 14px;
+        font-weight: bold;
+      }
+    </style>
+  </head><body>
+    <div>
+      <img src="./assets/header.png" alt="" draggable="false" class="header">
+      <div class="operate">
+        <div class="item" onclick="alertInfo()">Tải xuống IOS</div>
+        <div class="item">
+          <a target="_blank" href="/assets/images">Tải xuống Android</a>
+        </div>
+      </div>
+      <img src="./assets/bg.png" alt="" draggable="false" class="bg">
+    </div>
+
+
+    <script>
+      if (/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent)) {
+        document.body.style.display = "none"
+      }
+      function alertInfo() {
+        alert("Hệ thống đang được nâng cấp!");
+      }
+    </script>
+  
+
+</body>

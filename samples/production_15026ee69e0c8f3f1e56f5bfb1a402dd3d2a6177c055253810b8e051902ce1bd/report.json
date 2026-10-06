@@ -1,0 +1,27 @@
+{
+  "original_url": "http://s.yam.com/byGcI/",
+  "hostname": "s.yam.com",
+  "checked_at": "2026-10-04T14:06:25.685485+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 12,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0a41a-6003-74b8-94a2-d793f62aa3db",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-15T08:06:36.478Z",
+  "scan_original_url": "http://s.yam.com/",
+  "final_url": "https://s.yam.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 772,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 39.946,
+  "discovery": {
+    "batch_id": "f2029f3ff99d6dbe0279384bc71841e71e7857d162203987dd4ce66a097661e7",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://tropigasnatural.com/wp-admin/user/LOGIN",
+  "hostname": "tropigasnatural.com",
+  "checked_at": "2026-10-04T14:22:05.906901+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b1be-1ee5-75c3-9273-e350819a4f08",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-17T23:40:30.883Z",
+  "scan_original_url": "http://tropigasnatural.com/",
+  "final_url": "https://tropigasnatural.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1849,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.198,
+  "discovery": {
+    "batch_id": "8afc6bb9f3e0df894ea4b986ab25384abefb0250e4ff9f5d2ce1a4d53ea676d1",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

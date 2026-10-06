@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_8c1f9e788bbade13f84c64c7cc47ed227481983195fa499211fb172751ab1add",
+  "candidate_sha256": "8dd74cb96aca025d1483c958136de0d3dde4af120f1ba207197975c7afd0ed60",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+  "requested_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+  "browser_final_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+  "source_urls": [
+    "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU="
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 105164,
+      "source_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+      "source_hostname": "notteroyridesenter.no",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+      "final_hostname": "notteroyridesenter.no",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 5439,
+      "elapsed_ms": 1752,
+      "checked_at": "2026-10-05T13:08:18.082436+00:00",
+      "error": null,
+      "normalized_source_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+      "normalized_final_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_8c1f9e788bbade13f84c64c7cc47ed227481983195fa499211fb172751ab1add",
+    "representative_source_index": 105164,
+    "representative_source_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+    "representative_final_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+    "normalized_final_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+    "source_hostname": "notteroyridesenter.no",
+    "final_hostname": "notteroyridesenter.no",
+    "source_urls": [
+      "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU="
+    ],
+    "provenance": [
+      {
+        "source_index": 105164,
+        "source_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+        "source_hostname": "notteroyridesenter.no",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+        "final_hostname": "notteroyridesenter.no",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 5439,
+        "elapsed_ms": 1752,
+        "checked_at": "2026-10-05T13:08:18.082436+00:00",
+        "error": null,
+        "normalized_source_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+        "normalized_final_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "notteroyridesenter.no is parked",
+  "capture_timestamp": "2026-10-05T14:49:01.438961+00:00",
+  "dom_chars": 5056,
+  "screenshot_bytes": 37946,
+  "dom_sha256": "a2e97291de6d5de89827e43f54f24b72ef2cc379e6f0499e44ad763d95333c02",
+  "screenshot_sha256": "332ee2778fb583cf1c792de8782add9f18dbdd6d15ff87649a6ce1bf97ea1dea",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+    "browser_final_url": "http://notteroyridesenter.no/Qb419gf5857645426/?eby=usa&mur=bWFya0BtYXJrLmhhZ2VybWFuLm5hbWU=",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2439
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://masterbanking24h.weebly.com",
+  "hostname": "masterbanking24h.weebly.com",
+  "checked_at": "2026-10-04T13:33:51.820241+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fbd04-c40e-774c-a184-28846b4fbd9e",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-08-01T11:10:40.649Z",
+  "scan_original_url": "https://masterbanking24h.weebly.com/",
+  "final_url": "https://masterbanking24h.weebly.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 405,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.048,
+  "discovery": {
+    "batch_id": "9f97cff528fa010c49ce1ea1fe44de9fb5fb0b0c1c5b5b70c24bd408638be8de",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

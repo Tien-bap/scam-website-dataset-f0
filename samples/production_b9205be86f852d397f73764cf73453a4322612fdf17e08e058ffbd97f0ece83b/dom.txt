@@ -1,0 +1,894 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Đổi thẻ cào thành tiền mặt chiết khấu cực thấp, đổi thẻ cào 247, không qua trung gian. Tốc độ sử lý cực nhanh 5s/thẻ, rút tiền miễn phí, bảo mật 2 lớp, hỗ trợ khách hàng 24/7 .">
+    <meta name="keywords" content="Đổi thẻ cào thành tiền mặt, đổi thẻ cào sang tiền mặt, xử lý nhanh, rút tiền trong vòng vài giây uy tín nhanh chóng, đổi thẻ cào thành tiền mặt chiết khấu cực rẻ xử lý thẻ trực tiếp cực nhanh 5s/thẻ, rút tiền miễn phí, an toàn, bảo mật, chính xác, uy tín nhất việt nam, hỗ trợ khách hàng 24/7, đổi thẻ cào thành tiền mặt, doi the cao thanh tiên mat, đổi thẻ cào sang tiền mặt, đổi thẻ cào, đổi thẻ game, gạch thẻ cào, web đổi thẻ uy tín, đổi thẻ cào uy tín, đổi thẻ cào ra tiền mặt, doithecao, đổi thẻ cào 247, doithecao, đổi thẻ zing ra tiền, đổi thẻ garena ra tiền, đổi thẻ cào sang momo, đổi thẻ vcoin thành tiền, đổi thẻ scoin thành tiền, đổi thẻ điện thoại, đổi thẻ game, cách đổi thẻ cào,Cách đổi thẻ cào thành tiền mặt, đổi thẻ cào, Cách đổi thẻ cào sang Momo, API đổi thẻ cào, Web đổi thẻ cào, Đổi thẻ điện thoại thành tiền mặt,... Chiết khấu thấp, xử lý nhanh, bảo mật, an toàn, tư vấn hỗ trợ khách hàng 24/7">
+    <meta property="og:image" content="/public/client/images/image_758369.png">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap&amp;subset=vietnamese,latin-ext" rel="stylesheet">
+    <link href="/public/client/css/multizoom.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="/public/client/css/css.css?v=1.1" rel="stylesheet">
+    <link rel="icon" type="image/png" href="/public/client/images/favicon_215192.png">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script><style>:root{--swal2-outline: 0 0 0 3px rgba(100, 150, 200, 0.5);--swal2-container-padding: 0.625em;--swal2-backdrop: rgba(0, 0, 0, 0.4);--swal2-backdrop-transition: background-color 0.15s;--swal2-width: 32em;--swal2-padding: 0 0 1.25em;--swal2-border: none;--swal2-border-radius: 0.3125rem;--swal2-background: white;--swal2-color: #545454;--swal2-show-animation: swal2-show 0.3s;--swal2-hide-animation: swal2-hide 0.15s forwards;--swal2-icon-zoom: 1;--swal2-title-padding: 0.8em 1em 0;--swal2-html-container-padding: 1em 1.6em 0.3em;--swal2-input-border: 1px solid #d9d9d9;--swal2-input-border-radius: 0.1875em;--swal2-input-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.06), 0 0 0 3px transparent;--swal2-input-background: transparent;--swal2-input-transition: border-color 0.2s, box-shadow 0.2s;--swal2-input-hover-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.06), 0 0 0 3px transparent;--swal2-input-focus-border: 1px solid #b4dbed;--swal2-input-focus-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.06), 0 0 0 3px rgba(100, 150, 200, 0.5);--swal2-progress-step-background: #add8e6;--swal2-validation-message-background: #f0f0f0;--swal2-validation-message-color: #666;--swal2-footer-border-color: #eee;--swal2-footer-background: transparent;--swal2-footer-color: inherit;--swal2-timer-progress-bar-background: rgba(0, 0, 0, 0.3);--swal2-close-button-position: initial;--swal2-close-button-inset: auto;--swal2-close-button-font-size: 2.5em;--swal2-close-button-color: #ccc;--swal2-close-button-transition: color 0.2s, box-shadow 0.2s;--swal2-close-button-outline: initial;--swal2-close-button-box-shadow: inset 0 0 0 3px transparent;--swal2-close-button-focus-box-shadow: inset var(--swal2-outline);--swal2-close-button-hover-transform: none;--swal2-actions-justify-content: center;--swal2-actions-width: auto;--swal2-actions-margin: 1.25em auto 0;--swal2-actions-padding: 0;--swal2-actions-border-radius: 0;--swal2-actions-background: transparent;--swal2-action-button-transition: background-color 0.2s, box-shadow 0.2s;--swal2-action-button-hover: black 10%;--swal2-action-button-active: black 10%;--swal2-confirm-button-box-shadow: none;--swal2-confirm-button-border-radius: 0.25em;--swal2-confirm-button-background-color: #7066e0;--swal2-confirm-button-color: #fff;--swal2-deny-button-box-shadow: none;--swal2-deny-button-border-radius: 0.25em;--swal2-deny-button-background-color: #dc3741;--swal2-deny-button-color: #fff;--swal2-cancel-button-box-shadow: none;--swal2-cancel-button-border-radius: 0.25em;--swal2-cancel-button-background-color: #6e7881;--swal2-cancel-button-color: #fff;--swal2-toast-show-animation: swal2-toast-show 0.5s;--swal2-toast-hide-animation: swal2-toast-hide 0.1s forwards;--swal2-toast-border: none;--swal2-toast-box-shadow: 0 0 1px hsl(0deg 0% 0% / 0.075), 0 1px 2px hsl(0deg 0% 0% / 0.075), 1px 2px 4px hsl(0deg 0% 0% / 0.075), 1px 3px 8px hsl(0deg 0% 0% / 0.075), 2px 4px 16px hsl(0deg 0% 0% / 0.075)}[data-swal2-theme=dark]{--swal2-dark-theme-black: #19191a;--swal2-dark-theme-white: #e1e1e1;--swal2-background: var(--swal2-dark-theme-black);--swal2-color: var(--swal2-dark-theme-white);--swal2-footer-border-color: #555;--swal2-input-background: color-mix(in srgb, var(--swal2-dark-theme-black), var(--swal2-dark-theme-white) 10%);--swal2-validation-message-background: color-mix( in srgb, var(--swal2-dark-theme-black), var(--swal2-dark-theme-white) 10% );--swal2-validation-message-color: var(--swal2-dark-theme-white);--swal2-timer-progress-bar-background: rgba(255, 255, 255, 0.7)}@media(prefers-color-scheme: dark){[data-swal2-theme=auto]{--swal2-dark-theme-black: #19191a;--swal2-dark-theme-white: #e1e1e1;--swal2-background: var(--swal2-dark-theme-black);--swal2-color: var(--swal2-dark-theme-white);--swal2-footer-border-color: #555;--swal2-input-background: color-mix(in srgb, var(--swal2-dark-theme-black), var(--swal2-dark-theme-white) 10%);--swal2-validation-message-background: color-mix( in srgb, var(--swal2-dark-theme-black), var(--swal2-dark-theme-white) 10% );--swal2-validation-message-color: var(--swal2-dark-theme-white);--swal2-timer-progress-bar-background: rgba(255, 255, 255, 0.7)}}body.swal2-shown:not(.swal2-no-backdrop,.swal2-toast-shown){overflow:hidden}body.swal2-height-auto{height:auto !important}body.swal2-no-backdrop .swal2-container{background-color:rgba(0,0,0,0) !important;pointer-events:none}body.swal2-no-backdrop .swal2-container .swal2-popup{pointer-events:auto}body.swal2-no-backdrop .swal2-container .swal2-modal{box-shadow:0 0 10px var(--swal2-backdrop)}body.swal2-toast-shown .swal2-container{box-sizing:border-box;width:360px;max-width:100%;background-color:rgba(0,0,0,0);pointer-events:none}body.swal2-toast-shown .swal2-container.swal2-top{inset:0 auto auto 50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-top-end,body.swal2-toast-shown .swal2-container.swal2-top-right{inset:0 0 auto auto}body.swal2-toast-shown .swal2-container.swal2-top-start,body.swal2-toast-shown .swal2-container.swal2-top-left{inset:0 auto auto 0}body.swal2-toast-shown .swal2-container.swal2-center-start,body.swal2-toast-shown .swal2-container.swal2-center-left{inset:50% auto auto 0;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-center{inset:50% auto auto 50%;transform:translate(-50%, -50%)}body.swal2-toast-shown .swal2-container.swal2-center-end,body.swal2-toast-shown .swal2-container.swal2-center-right{inset:50% 0 auto auto;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-start,body.swal2-toast-shown .swal2-container.swal2-bottom-left{inset:auto auto 0 0}body.swal2-toast-shown .swal2-container.swal2-bottom{inset:auto auto 0 50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-end,body.swal2-toast-shown .swal2-container.swal2-bottom-right{inset:auto 0 0 auto}@media print{body.swal2-shown:not(.swal2-no-backdrop,.swal2-toast-shown){overflow-y:scroll !important}body.swal2-shown:not(.swal2-no-backdrop,.swal2-toast-shown)>[aria-hidden=true]{display:none}body.swal2-shown:not(.swal2-no-backdrop,.swal2-toast-shown) .swal2-container{position:static !important}}div:where(.swal2-container){display:grid;position:fixed;z-index:1060;inset:0;box-sizing:border-box;grid-template-areas:"top-start     top            top-end" "center-start  center         center-end" "bottom-start  bottom-center  bottom-end";grid-template-rows:minmax(min-content, auto) minmax(min-content, auto) minmax(min-content, auto);height:100%;padding:var(--swal2-container-padding);overflow-x:hidden;transition:var(--swal2-backdrop-transition);-webkit-overflow-scrolling:touch}div:where(.swal2-container).swal2-backdrop-show,div:where(.swal2-container).swal2-noanimation{background:var(--swal2-backdrop)}div:where(.swal2-container).swal2-backdrop-hide{background:rgba(0,0,0,0) !important}div:where(.swal2-container).swal2-top-start,div:where(.swal2-container).swal2-center-start,div:where(.swal2-container).swal2-bottom-start{grid-template-columns:minmax(0, 1fr) auto auto}div:where(.swal2-container).swal2-top,div:where(.swal2-container).swal2-center,div:where(.swal2-container).swal2-bottom{grid-template-columns:auto minmax(0, 1fr) auto}div:where(.swal2-container).swal2-top-end,div:where(.swal2-container).swal2-center-end,div:where(.swal2-container).swal2-bottom-end{grid-template-columns:auto auto minmax(0, 1fr)}div:where(.swal2-container).swal2-top-start>.swal2-popup{align-self:start}div:where(.swal2-container).swal2-top>.swal2-popup{grid-column:2;place-self:start center}div:where(.swal2-container).swal2-top-end>.swal2-popup,div:where(.swal2-container).swal2-top-right>.swal2-popup{grid-column:3;place-self:start end}div:where(.swal2-container).swal2-center-start>.swal2-popup,div:where(.swal2-container).swal2-center-left>.swal2-popup{grid-row:2;align-self:center}div:where(.swal2-container).swal2-center>.swal2-popup{grid-column:2;grid-row:2;place-self:center center}div:where(.swal2-container).swal2-center-end>.swal2-popup,div:where(.swal2-container).swal2-center-right>.swal2-popup{grid-column:3;grid-row:2;place-self:center end}div:where(.swal2-container).swal2-bottom-start>.swal2-popup,div:where(.swal2-container).swal2-bottom-left>.swal2-popup{grid-column:1;grid-row:3;align-self:end}div:where(.swal2-container).swal2-bottom>.swal2-popup{grid-column:2;grid-row:3;place-self:end center}div:where(.swal2-container).swal2-bottom-end>.swal2-popup,div:where(.swal2-container).swal2-bottom-right>.swal2-popup{grid-column:3;grid-row:3;place-self:end end}div:where(.swal2-container).swal2-grow-row>.swal2-popup,div:where(.swal2-container).swal2-grow-fullscreen>.swal2-popup{grid-column:1/4;width:100%}div:where(.swal2-container).swal2-grow-column>.swal2-popup,div:where(.swal2-container).swal2-grow-fullscreen>.swal2-popup{grid-row:1/4;align-self:stretch}div:where(.swal2-container).swal2-no-transition{transition:none !important}div:where(.swal2-container)[popover]{width:auto;border:0}div:where(.swal2-container) div:where(.swal2-popup){display:none;position:relative;box-sizing:border-box;grid-template-columns:minmax(0, 100%);width:var(--swal2-width);max-width:100%;padding:var(--swal2-padding);border:var(--swal2-border);border-radius:var(--swal2-border-radius);background:var(--swal2-background);color:var(--swal2-color);font-family:inherit;font-size:1rem}div:where(.swal2-container) div:where(.swal2-popup):focus{outline:none}div:where(.swal2-container) div:where(.swal2-popup).swal2-loading{overflow-y:hidden}div:where(.swal2-container) div:where(.swal2-popup).swal2-draggable{cursor:grab}div:where(.swal2-container) div:where(.swal2-popup).swal2-draggable div:where(.swal2-icon){cursor:grab}div:where(.swal2-container) div:where(.swal2-popup).swal2-dragging{cursor:grabbing}div:where(.swal2-container) div:where(.swal2-popup).swal2-dragging div:where(.swal2-icon){cursor:grabbing}div:where(.swal2-container) h2:where(.swal2-title){position:relative;max-width:100%;margin:0;padding:var(--swal2-title-padding);color:inherit;font-size:1.875em;font-weight:600;text-align:center;text-transform:none;overflow-wrap:break-word;cursor:initial}div:where(.swal2-container) div:where(.swal2-actions){display:flex;z-index:1;box-sizing:border-box;flex-wrap:wrap;align-items:center;justify-content:var(--swal2-actions-justify-content);width:var(--swal2-actions-width);margin:var(--swal2-actions-margin);padding:var(--swal2-actions-padding);border-radius:var(--swal2-actions-border-radius);background:var(--swal2-actions-background)}div:where(.swal2-container) div:where(.swal2-loader){display:none;align-items:center;justify-content:center;width:2.2em;height:2.2em;margin:0 1.875em;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border-width:.25em;border-style:solid;border-radius:100%;border-color:#2778c4 rgba(0,0,0,0) #2778c4 rgba(0,0,0,0)}div:where(.swal2-container) button:where(.swal2-styled){margin:.3125em;padding:.625em 1.1em;transition:var(--swal2-action-button-transition);border:none;box-shadow:0 0 0 3px rgba(0,0,0,0);font-weight:500}div:where(.swal2-container) button:where(.swal2-styled):not([disabled]){cursor:pointer}div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-confirm){border-radius:var(--swal2-confirm-button-border-radius);background:initial;background-color:var(--swal2-confirm-button-background-color);box-shadow:var(--swal2-confirm-button-box-shadow);color:var(--swal2-confirm-button-color);font-size:1em}div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-confirm):hover{background-color:color-mix(in srgb, var(--swal2-confirm-button-background-color), var(--swal2-action-button-hover))}div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-confirm):active{background-color:color-mix(in srgb, var(--swal2-confirm-button-background-color), var(--swal2-action-button-active))}div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-deny){border-radius:var(--swal2-deny-button-border-radius);background:initial;background-color:var(--swal2-deny-button-background-color);box-shadow:var(--swal2-deny-button-box-shadow);color:var(--swal2-deny-button-color);font-size:1em}div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-deny):hover{background-color:color-mix(in srgb, var(--swal2-deny-button-background-color), var(--swal2-action-button-hover))}div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-deny):active{background-color:color-mix(in srgb, var(--swal2-deny-button-background-color), var(--swal2-action-button-active))}div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-cancel){border-radius:var(--swal2-cancel-button-border-radius);background:initial;background-color:var(--swal2-cancel-button-background-color);box-shadow:var(--swal2-cancel-button-box-shadow);color:var(--swal2-cancel-button-color);font-size:1em}div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-cancel):hover{background-color:color-mix(in srgb, var(--swal2-cancel-button-background-color), var(--swal2-action-button-hover))}div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-cancel):active{background-color:color-mix(in srgb, var(--swal2-cancel-button-background-color), var(--swal2-action-button-active))}div:where(.swal2-container) button:where(.swal2-styled):focus-visible{outline:none;box-shadow:var(--swal2-action-button-focus-box-shadow)}div:where(.swal2-container) button:where(.swal2-styled)[disabled]:not(.swal2-loading){opacity:.4}div:where(.swal2-container) button:where(.swal2-styled)::-moz-focus-inner{border:0}div:where(.swal2-container) div:where(.swal2-footer){margin:1em 0 0;padding:1em 1em 0;border-top:1px solid var(--swal2-footer-border-color);background:var(--swal2-footer-background);color:var(--swal2-footer-color);font-size:1em;text-align:center;cursor:initial}div:where(.swal2-container) .swal2-timer-progress-bar-container{position:absolute;right:0;bottom:0;left:0;grid-column:auto !important;overflow:hidden;border-bottom-right-radius:var(--swal2-border-radius);border-bottom-left-radius:var(--swal2-border-radius)}div:where(.swal2-container) div:where(.swal2-timer-progress-bar){width:100%;height:.25em;background:var(--swal2-timer-progress-bar-background)}div:where(.swal2-container) img:where(.swal2-image){max-width:100%;margin:2em auto 1em;cursor:initial}div:where(.swal2-container) button:where(.swal2-close){position:var(--swal2-close-button-position);inset:var(--swal2-close-button-inset);z-index:2;align-items:center;justify-content:center;width:1.2em;height:1.2em;margin-top:0;margin-right:0;margin-bottom:-1.2em;padding:0;overflow:hidden;transition:var(--swal2-close-button-transition);border:none;border-radius:var(--swal2-border-radius);outline:var(--swal2-close-button-outline);background:rgba(0,0,0,0);color:var(--swal2-close-button-color);font-family:monospace;font-size:var(--swal2-close-button-font-size);cursor:pointer;justify-self:end}div:where(.swal2-container) button:where(.swal2-close):hover{transform:var(--swal2-close-button-hover-transform);background:rgba(0,0,0,0);color:#f27474}div:where(.swal2-container) button:where(.swal2-close):focus-visible{outline:none;box-shadow:var(--swal2-close-button-focus-box-shadow)}div:where(.swal2-container) button:where(.swal2-close)::-moz-focus-inner{border:0}div:where(.swal2-container) div:where(.swal2-html-container){z-index:1;justify-content:center;margin:0;padding:var(--swal2-html-container-padding);overflow:auto;color:inherit;font-size:1.125em;font-weight:normal;line-height:normal;text-align:center;overflow-wrap:break-word;word-break:break-word;cursor:initial}div:where(.swal2-container) input:where(.swal2-input),div:where(.swal2-container) input:where(.swal2-file),div:where(.swal2-container) textarea:where(.swal2-textarea),div:where(.swal2-container) select:where(.swal2-select),div:where(.swal2-container) div:where(.swal2-radio),div:where(.swal2-container) label:where(.swal2-checkbox){margin:1em 2em 3px}div:where(.swal2-container) input:where(.swal2-input),div:where(.swal2-container) input:where(.swal2-file),div:where(.swal2-container) textarea:where(.swal2-textarea){box-sizing:border-box;width:auto;transition:var(--swal2-input-transition);border:var(--swal2-input-border);border-radius:var(--swal2-input-border-radius);background:var(--swal2-input-background);box-shadow:var(--swal2-input-box-shadow);color:inherit;font-size:1.125em}div:where(.swal2-container) input:where(.swal2-input).swal2-inputerror,div:where(.swal2-container) input:where(.swal2-file).swal2-inputerror,div:where(.swal2-container) textarea:where(.swal2-textarea).swal2-inputerror{border-color:#f27474 !important;box-shadow:0 0 2px #f27474 !important}div:where(.swal2-container) input:where(.swal2-input):hover,div:where(.swal2-container) input:where(.swal2-file):hover,div:where(.swal2-container) textarea:where(.swal2-textarea):hover{box-shadow:var(--swal2-input-hover-box-shadow)}div:where(.swal2-container) input:where(.swal2-input):focus,div:where(.swal2-container) input:where(.swal2-file):focus,div:where(.swal2-container) textarea:where(.swal2-textarea):focus{border:var(--swal2-input-focus-border);outline:none;box-shadow:var(--swal2-input-focus-box-shadow)}div:where(.swal2-container) input:where(.swal2-input)::placeholder,div:where(.swal2-container) input:where(.swal2-file)::placeholder,div:where(.swal2-container) textarea:where(.swal2-textarea)::placeholder{color:#ccc}div:where(.swal2-container) .swal2-range{margin:1em 2em 3px;background:var(--swal2-background)}div:where(.swal2-container) .swal2-range input{width:80%}div:where(.swal2-container) .swal2-range output{width:20%;color:inherit;font-weight:600;text-align:center}div:where(.swal2-container) .swal2-range input,div:where(.swal2-container) .swal2-range output{height:2.625em;padding:0;font-size:1.125em;line-height:2.625em}div:where(.swal2-container) .swal2-input{height:2.625em;padding:0 .75em}div:where(.swal2-container) .swal2-file{width:75%;margin-right:auto;margin-left:auto;background:var(--swal2-input-background);font-size:1.125em}div:where(.swal2-container) .swal2-textarea{height:6.75em;padding:.75em}div:where(.swal2-container) .swal2-select{min-width:50%;max-width:100%;padding:.375em .625em;background:var(--swal2-input-background);color:inherit;font-size:1.125em}div:where(.swal2-container) .swal2-radio,div:where(.swal2-container) .swal2-checkbox{align-items:center;justify-content:center;background:var(--swal2-background);color:inherit}div:where(.swal2-container) .swal2-radio label,div:where(.swal2-container) .swal2-checkbox label{margin:0 .6em;font-size:1.125em}div:where(.swal2-container) .swal2-radio input,div:where(.swal2-container) .swal2-checkbox input{flex-shrink:0;margin:0 .4em}div:where(.swal2-container) label:where(.swal2-input-label){display:flex;justify-content:center;margin:1em auto 0}div:where(.swal2-container) div:where(.swal2-validation-message){align-items:center;justify-content:center;margin:1em 0 0;padding:.625em;overflow:hidden;background:var(--swal2-validation-message-background);color:var(--swal2-validation-message-color);font-size:1em;font-weight:300}div:where(.swal2-container) div:where(.swal2-validation-message)::before{content:"!";display:inline-block;width:1.5em;min-width:1.5em;height:1.5em;margin:0 .625em;border-radius:50%;background-color:#f27474;color:#fff;font-weight:600;line-height:1.5em;text-align:center}div:where(.swal2-container) .swal2-progress-steps{flex-wrap:wrap;align-items:center;max-width:100%;margin:1.25em auto;padding:0;background:rgba(0,0,0,0);font-weight:600}div:where(.swal2-container) .swal2-progress-steps li{display:inline-block;position:relative}div:where(.swal2-container) .swal2-progress-steps .swal2-progress-step{z-index:20;flex-shrink:0;width:2em;height:2em;border-radius:2em;background:#2778c4;color:#fff;line-height:2em;text-align:center}div:where(.swal2-container) .swal2-progress-steps .swal2-progress-step.swal2-active-progress-step{background:#2778c4}div:where(.swal2-container) .swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step{background:var(--swal2-progress-step-background);color:#fff}div:where(.swal2-container) .swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step-line{background:var(--swal2-progress-step-background)}div:where(.swal2-container) .swal2-progress-steps .swal2-progress-step-line{z-index:10;flex-shrink:0;width:2.5em;height:.4em;margin:0 -1px;background:#2778c4}div:where(.swal2-icon){position:relative;box-sizing:content-box;justify-content:center;width:5em;height:5em;margin:2.5em auto .6em;zoom:var(--swal2-icon-zoom);border:.25em solid rgba(0,0,0,0);border-radius:50%;border-color:#000;font-family:inherit;line-height:5em;cursor:default;user-select:none}div:where(.swal2-icon) .swal2-icon-content{display:flex;align-items:center;font-size:3.75em}div:where(.swal2-icon).swal2-error{border-color:#f27474;color:#f27474}div:where(.swal2-icon).swal2-error .swal2-x-mark{position:relative;flex-grow:1}div:where(.swal2-icon).swal2-error [class^=swal2-x-mark-line]{display:block;position:absolute;top:2.3125em;width:2.9375em;height:.3125em;border-radius:.125em;background-color:#f27474}div:where(.swal2-icon).swal2-error [class^=swal2-x-mark-line][class$=left]{left:1.0625em;transform:rotate(45deg)}div:where(.swal2-icon).swal2-error [class^=swal2-x-mark-line][class$=right]{right:1em;transform:rotate(-45deg)}div:where(.swal2-icon).swal2-error.swal2-icon-show{animation:swal2-animate-error-icon .5s}div:where(.swal2-icon).swal2-error.swal2-icon-show .swal2-x-mark{animation:swal2-animate-error-x-mark .5s}div:where(.swal2-icon).swal2-warning{border-color:#f8bb86;color:#f8bb86}div:where(.swal2-icon).swal2-warning.swal2-icon-show{animation:swal2-animate-error-icon .5s}div:where(.swal2-icon).swal2-warning.swal2-icon-show .swal2-icon-content{animation:swal2-animate-i-mark .5s}div:where(.swal2-icon).swal2-info{border-color:#3fc3ee;color:#3fc3ee}div:where(.swal2-icon).swal2-info.swal2-icon-show{animation:swal2-animate-error-icon .5s}div:where(.swal2-icon).swal2-info.swal2-icon-show .swal2-icon-content{animation:swal2-animate-i-mark .8s}div:where(.swal2-icon).swal2-question{border-color:#87adbd;color:#87adbd}div:where(.swal2-icon).swal2-question.swal2-icon-show{animation:swal2-animate-error-icon .5s}div:where(.swal2-icon).swal2-question.swal2-icon-show .swal2-icon-content{animation:swal2-animate-question-mark .8s}div:where(.swal2-icon).swal2-success{border-color:#a5dc86;color:#a5dc86}div:where(.swal2-icon).swal2-success [class^=swal2-success-circular-line]{position:absolute;width:3.75em;height:7.5em;border-radius:50%}div:where(.swal2-icon).swal2-success [class^=swal2-success-circular-line][class$=left]{top:-0.4375em;left:-2.0635em;transform:rotate(-45deg);transform-origin:3.75em 3.75em;border-radius:7.5em 0 0 7.5em}div:where(.swal2-icon).swal2-success [class^=swal2-success-circular-line][class$=right]{top:-0.6875em;left:1.875em;transform:rotate(-45deg);transform-origin:0 3.75em;border-radius:0 7.5em 7.5em 0}div:where(.swal2-icon).swal2-success .swal2-success-ring{position:absolute;z-index:2;top:-0.25em;left:-0.25em;box-sizing:content-box;width:100%;height:100%;border:.25em solid rgba(165,220,134,.3);border-radius:50%}div:where(.swal2-icon).swal2-success .swal2-success-fix{position:absolute;z-index:1;top:.5em;left:1.625em;width:.4375em;height:5.625em;transform:rotate(-45deg)}div:where(.swal2-icon).swal2-success [class^=swal2-success-line]{display:block;position:absolute;z-index:2;height:.3125em;border-radius:.125em;background-color:#a5dc86}div:where(.swal2-icon).swal2-success [class^=swal2-success-line][class$=tip]{top:2.875em;left:.8125em;width:1.5625em;transform:rotate(45deg)}div:where(.swal2-icon).swal2-success [class^=swal2-success-line][class$=long]{top:2.375em;right:.5em;width:2.9375em;transform:rotate(-45deg)}div:where(.swal2-icon).swal2-success.swal2-icon-show .swal2-success-line-tip{animation:swal2-animate-success-line-tip .75s}div:where(.swal2-icon).swal2-success.swal2-icon-show .swal2-success-line-long{animation:swal2-animate-success-line-long .75s}div:where(.swal2-icon).swal2-success.swal2-icon-show .swal2-success-circular-line-right{animation:swal2-rotate-success-circular-line 4.25s ease-in}[class^=swal2]{-webkit-tap-highlight-color:rgba(0,0,0,0)}.swal2-show{animation:var(--swal2-show-animation)}.swal2-hide{animation:var(--swal2-hide-animation)}.swal2-noanimation{transition:none}.swal2-scrollbar-measure{position:absolute;top:-9999px;width:50px;height:50px;overflow:scroll}.swal2-rtl .swal2-close{margin-right:initial;margin-left:0}.swal2-rtl .swal2-timer-progress-bar{right:0;left:auto}.swal2-toast{box-sizing:border-box;grid-column:1/4 !important;grid-row:1/4 !important;grid-template-columns:min-content auto min-content;padding:1em;overflow-y:hidden;border:var(--swal2-toast-border);background:var(--swal2-background);box-shadow:var(--swal2-toast-box-shadow);pointer-events:auto}.swal2-toast>*{grid-column:2}.swal2-toast h2:where(.swal2-title){margin:.5em 1em;padding:0;font-size:1em;text-align:initial}.swal2-toast .swal2-loading{justify-content:center}.swal2-toast input:where(.swal2-input){height:2em;margin:.5em;font-size:1em}.swal2-toast .swal2-validation-message{font-size:1em}.swal2-toast div:where(.swal2-footer){margin:.5em 0 0;padding:.5em 0 0;font-size:.8em}.swal2-toast button:where(.swal2-close){grid-column:3/3;grid-row:1/99;align-self:center;width:.8em;height:.8em;margin:0;font-size:2em}.swal2-toast div:where(.swal2-html-container){margin:.5em 1em;padding:0;overflow:initial;font-size:1em;text-align:initial}.swal2-toast div:where(.swal2-html-container):empty{padding:0}.swal2-toast .swal2-loader{grid-column:1;grid-row:1/99;align-self:center;width:2em;height:2em;margin:.25em}.swal2-toast .swal2-icon{grid-column:1;grid-row:1/99;align-self:center;width:2em;min-width:2em;height:2em;margin:0 .5em 0 0}.swal2-toast .swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:1.8em;font-weight:bold}.swal2-toast .swal2-icon.swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line]{top:.875em;width:1.375em}.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:.3125em}.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:.3125em}.swal2-toast div:where(.swal2-actions){justify-content:flex-start;height:auto;margin:0;margin-top:.5em;padding:0 .5em}.swal2-toast button:where(.swal2-styled){margin:.25em .5em;padding:.4em .6em;font-size:1em}.swal2-toast .swal2-success{border-color:#a5dc86}.swal2-toast .swal2-success [class^=swal2-success-circular-line]{position:absolute;width:1.6em;height:3em;border-radius:50%}.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left]{top:-0.8em;left:-0.5em;transform:rotate(-45deg);transform-origin:2em 2em;border-radius:4em 0 0 4em}.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right]{top:-0.25em;left:.9375em;transform-origin:0 1.5em;border-radius:0 4em 4em 0}.swal2-toast .swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-toast .swal2-success .swal2-success-fix{top:0;left:.4375em;width:.4375em;height:2.6875em}.swal2-toast .swal2-success [class^=swal2-success-line]{height:.3125em}.swal2-toast .swal2-success [class^=swal2-success-line][class$=tip]{top:1.125em;left:.1875em;width:.75em}.swal2-toast .swal2-success [class^=swal2-success-line][class$=long]{top:.9375em;right:.1875em;width:1.375em}.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-tip{animation:swal2-toast-animate-success-line-tip .75s}.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-long{animation:swal2-toast-animate-success-line-long .75s}.swal2-toast.swal2-show{animation:var(--swal2-toast-show-animation)}.swal2-toast.swal2-hide{animation:var(--swal2-toast-hide-animation)}@keyframes swal2-show{0%{transform:translate3d(0, -50px, 0) scale(0.9);opacity:0}100%{transform:translate3d(0, 0, 0) scale(1);opacity:1}}@keyframes swal2-hide{0%{transform:translate3d(0, 0, 0) scale(1);opacity:1}100%{transform:translate3d(0, -50px, 0) scale(0.9);opacity:0}}@keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-0.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(0.4);opacity:0}50%{margin-top:1.625em;transform:scale(0.4);opacity:0}80%{margin-top:-0.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0deg);opacity:1}}@keyframes swal2-rotate-loading{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}@keyframes swal2-animate-question-mark{0%{transform:rotateY(-360deg)}100%{transform:rotateY(0)}}@keyframes swal2-animate-i-mark{0%{transform:rotateZ(45deg);opacity:0}25%{transform:rotateZ(-25deg);opacity:.4}50%{transform:rotateZ(15deg);opacity:.8}75%{transform:rotateZ(-5deg);opacity:1}100%{transform:rotateX(0);opacity:1}}@keyframes swal2-toast-show{0%{transform:translateY(-0.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(0.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0deg)}}@keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-0.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}</style>
+    <script src="/public/client/js/client.js"></script>
+    <style>
+        .bootbox.fade:not(.show) {
+            opacity: 1;
+        }
+
+        .modal.fade .modal-dialog {
+            -webkit-transition: none !important;
+            -moz-transition: none !important;
+            -o-transition: none !important;
+            transition: none !important;
+            transform: none !important;
+            -webkit-transform: none !important;
+        }
+
+        .listCard,
+        .listPrice {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .card-price {
+            display: inline-block;
+        }
+
+        .outOfStock .cardhome {
+            border-color: black;
+        }
+
+        .card-price p {
+            text-align: center;
+            font-weight: 600;
+            font-size: 13px;
+        }
+
+        .card-price .pricebuy {
+            color: red;
+        }
+
+        .box_game {
+            margin: 5px 0;
+        }
+
+        .triangle {
+            display: none;
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: 0 30px 28px 0;
+            border-color: transparent #f20000 transparent transparent;
+        }
+
+        .disabled .triangle {
+            border-color: transparent #f7a01d transparent transparent;
+        }
+
+        .triangle .glyphicon.small {
+            color: #fff;
+            position: absolute;
+            right: -25px;
+            top: 3px;
+            font-size: 10px;
+        }
+
+        .active .triangle {
+            display: block;
+        }
+    </style>
+    <!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-XZ42RYE4VF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XZ42RYE4VF');
+</script>
+</head><body>
+    <div id="wrapper">
+        <div class="fixed">
+            <div id="header">
+                <div class="container">
+                    <div id="logo">
+                        <a href="/">
+                            <img src="/public/client/images/logo_901076.PNG" alt="logo">
+                        </a>
+                    </div>
+                    <div id="user-area">
+                                                    <ul>
+                                <li><a href="/account/login" class="btn btn-light btn-login"><i class="fas fa-sign-in-alt"></i> Đăng nhập </a></li>
+                                <li><a href="/account/register" class="btn btn-light btn-register"><i class="fas fa-user-plus"></i> Đăng ký </a></li>
+                            </ul>
+                                            </div>
+                    <div id="menu">
+                        <div id="nav-toggle">
+                            <div id="menu-button"><i class="fa fa-bars"></i></div>
+                        </div>
+                        <div id="closemenu"><i class="fas fa-times-circle"></i> Ẩn menu </div>
+                        <div id="menuchinh" class="ddsmoothmenu">
+                            <ul>
+                                <li><a href="/"><span> Đổi thẻ cào </span></a></li>
+                                <li>
+                                    <a href="/withdraw/money"><span> Rút tiền </span></a>
+                                </li>
+                                <li>
+                                    <a href="/list/bank/user"><span> Ngân hàng</span></a>
+                                </li>
+                                <li>
+                                    <a href="/news/huong-dan-doi-the-cao-thanh-tien-mat-chi-tiet-tai-doithecaocomvn"><span> Hướng dẫn </span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><title> Đổi Thẻ Cào Thành Tiền Mặt - Đổi Thẻ Cào 247 - Đổi Thẻ Cào Sang Momo </title>
+<div class="container">
+    <div id="slideshow">
+        <div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1700px; height: 520px; overflow: hidden; visibility: hidden; z-index:0 !important;">
+            <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
+                <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 1700px; height: 520px;"></div>
+                <div style="position: absolute; display: block; background: url(/public/client/images/blank.gif) no-repeat center center; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+            </div>
+            <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 1700px; height: 520px; overflow: hidden;">
+                                    <div data-p="112.50" style="display: none;">
+                        <a><img data-u="image" src="/public/client/images/banner_459817.png" alt="banner"></a>
+                    </div>
+                                    <div data-p="112.50" style="display: none;">
+                        <a><img data-u="image" src="/public/client/images/banner_282195.png" alt="banner"></a>
+                    </div>
+                                    <div data-p="112.50" style="display: none;">
+                        <a><img data-u="image" src="/public/client/images/banner_496071.png" alt="banner"></a>
+                    </div>
+                                    <div data-p="112.50" style="display: none;">
+                        <a><img data-u="image" src="/public/client/images/banner_315421.png" alt="banner"></a>
+                    </div>
+                            </div>
+            <div data-u="navigator" class="jssorb01">
+                <div data-u="prototype"></div>
+            </div>
+            <span data-u="arrowleft" class="jssora05l" data-autocenter="2"></span>
+            <span data-u="arrowright" class="jssora05r" data-autocenter="2"></span>
+        </div>
+    </div>
+</div>
+<div class="d-none">
+    <div class="container mt-3">
+        <div class="breadcrumb">
+            <ol>
+                <li>
+                    <a href="/"><i class="fas fa-home"></i><span> Trang chủ </span></a>
+                </li>
+            </ol>
+        </div>
+    </div>
+</div>
+<div ng-app="App">
+    <div class="container">
+        <h1 class="mb-3 d-none"> Đổi thẻ cào thành tiền mặt uy tín nhanh chóng </h1>
+    </div>
+    <div class="container ng-cloak">
+        <div class="row" ng-controller="List">
+            <div class="col-md-7">
+                <div class="boxbody_tbl">
+                    <div class="boxbody_top">
+                        <h2>
+                            <span> Đổi thẻ cào thành tiền mặt </span>
+                        </h2>
+                    </div>
+                    <div class="boxbody_body">
+                        <div class="row-group">
+                            <div id="list-postcard">
+                                <div class="irow row-group" style="margin-bottom: 10px;">
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-xl-12">
+                                                <label class="control-label" style="padding-top:7px"><b> Loại thẻ </b> <i class="text-danger"> (Click để chọn) </i></label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="listCard">
+                                                                                    <span class="cardhome rounded-lg overflow-hidden" data-value="10000,20000,30000,50000,100000,200000,300000,500000,1000000" data-telco="VIETTEL">
+                                                <img style="width:100px" src="/public/client/images/recharge_card_image_819059.png">
+                                                <span class="triangle"><span class="glyphicon glyphicon-ok small"></span></span>
+                                            </span>
+                                                                                    <span class="cardhome rounded-lg overflow-hidden" data-value="10000,20000,30000,50000,100000,200000,300000,500000" data-telco="VINAPHONE">
+                                                <img style="width:100px" src="/public/client/images/recharge_card_image_785024.jpg">
+                                                <span class="triangle"><span class="glyphicon glyphicon-ok small"></span></span>
+                                            </span>
+                                                                                    <span class="cardhome rounded-lg overflow-hidden" data-value="10000,20000,30000,50000,100000,200000,300000,500000" data-telco="MOBIFONE">
+                                                <img style="width:100px" src="/public/client/images/recharge_card_image_728093.jpg">
+                                                <span class="triangle"><span class="glyphicon glyphicon-ok small"></span></span>
+                                            </span>
+                                                                                    <span class="cardhome rounded-lg overflow-hidden" data-value="20000,30000,50000,100000,200000,300000,500000" data-telco="VNMOBI">
+                                                <img style="width:100px" src="/public/client/images/recharge_card_image_242795.png">
+                                                <span class="triangle"><span class="glyphicon glyphicon-ok small"></span></span>
+                                            </span>
+                                                                                    <span class="cardhome rounded-lg overflow-hidden" data-value="20000,50000,100000,200000,500000" data-telco="GARENA">
+                                                <img style="width:100px" src="/public/client/images/recharge_card_image_291575.png">
+                                                <span class="triangle"><span class="glyphicon glyphicon-ok small"></span></span>
+                                            </span>
+                                                                                    <span class="cardhome rounded-lg overflow-hidden" data-value="20000,50000,100000,200000,300000,500000,1000000,2000000,5000000,10000000" data-telco="VCOIN">
+                                                <img style="width:100px" src="/public/client/images/recharge_card_image_149582.png">
+                                                <span class="triangle"><span class="glyphicon glyphicon-ok small"></span></span>
+                                            </span>
+                                                                                    <span class="cardhome rounded-lg overflow-hidden" data-value="10000,20000,50000,100000,200000,500000,1000000" data-telco="ZING">
+                                                <img style="width:100px" src="/public/client/images/recharge_card_image_779089.png">
+                                                <span class="triangle"><span class="glyphicon glyphicon-ok small"></span></span>
+                                            </span>
+                                                                                    <span class="cardhome rounded-lg overflow-hidden" data-value="20000,50000,100000,200000,300000,500000,1000000,2000000,5000000" data-telco="SCOIN">
+                                                <img style="width:100px" src="/public/client/images/recharge_card_image_817572.png">
+                                                <span class="triangle"><span class="glyphicon glyphicon-ok small"></span></span>
+                                            </span>
+                                                                                    <span class="cardhome rounded-lg overflow-hidden" data-value="100000,200000,300000,500000,1000000,2000000,5000000,10000000" data-telco="GATE">
+                                                <img style="width:100px" src="/public/client/images/recharge_card_image_805038.png">
+                                                <span class="triangle"><span class="glyphicon glyphicon-ok small"></span></span>
+                                            </span>
+                                                                                    <span class="cardhome rounded-lg overflow-hidden" data-value="50000,100000,200000,500000" data-telco="APPOTA">
+                                                <img style="width:100px" src="/public/client/images/recharge_card_image_455168.png">
+                                                <span class="triangle"><span class="glyphicon glyphicon-ok small"></span></span>
+                                            </span>
+                                                                            </div>
+                                    <div class="form-group mt-3">
+                                        <div class="row">
+                                            <div class="col-12 mb-2">
+                                                <label class="control-label" style="padding-top:7px"><b> Mệnh giá <span class="text-danger">*</span></b></label>
+                                            </div>
+                                            <div class="col-12">
+                                                <select id="amount" class="form-select custom-select">
+                                                    <option value=""> Chọn mệnh giá </option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-12 mb-2">
+                                                <label class="control-label" style="padding-top:7px"><b> Mã thẻ <span class="text-danger">*</span></b></label>
+                                            </div>
+                                            <div class="col-12">
+                                                <input class="form-control" type="text" placeholder="Mã thẻ" id="code">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group has-danger">
+                                        <div class="row">
+                                            <div class="col-12 mb-2">
+                                                <label class="control-label" style="padding-top:7px"><b> Serial <span class="text-danger">*</span></b></label>
+                                            </div>
+                                            <div class="col-12">
+                                                <input class="form-control" type="text" placeholder="Serial" id="serial">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group form-actions">
+                            <div class="row">
+                                <div class="col-12 text-center">
+                                    <button type="submit" class="button text-bold px-5 rounded-pill" onclick="recharge_card()"><i class="fas fa-paper-plane"></i> Gửi Thẻ Cào </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="result-card" style="display:none;"></div>
+                        <div class="alert alert-warning p-2 text-left mt-3">
+                            <p><span style="padding: 0px; margin: 0px; outline: 0px; border: 0px; color: rgb(0, 0, 0); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;">⭐ Lưu ý: <b>Xem kĩ mệnh giá trước khi gửi thẻ cào</b></span></p><p><span style="padding: 0px; margin: 0px; outline: 0px; border: 0px; color: rgb(0, 0, 0); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;">⭐&nbsp;</span><font color="#330099" style="padding: 0px; margin: 0px; outline: 0px; border: 0px; font-family: Tahoma, sans-serif, arial, Helvetica; font-weight: 700;">Khiếu Nại GỌI&nbsp;</font><font color="#ff0000" style="padding: 0px; margin: 0px; outline: 0px; border: 0px; color: rgb(255, 0, 0); font-family: Tahoma, sans-serif, arial, Helvetica; font-weight: 700;">0702 576 915</font></p><p>Lưu ý:&nbsp;<span style="font-weight: bolder; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;">Sai mệnh giá - 70% của mệnh giá nhỏ hơn&nbsp;</span><span style="color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;">(Quý khách&nbsp;cần&nbsp;xem kỹ mệnh giá)&nbsp;</span><span style="color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;">sai mệnh giá không hỗ trợ</span><span style="font-size: 1rem;">.&nbsp;</span><b>SPAM THẺ SAI SẼ KHOÁ TÀI KHOẢN</b>.</p><p><span style="font-weight: bolder; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 12px;">* Nếu gửi nhầm Mã Thẻ, có thể đổi bằng cách gửi lại đúng mã thẻ, chỉ thay 1 ký tự trong seri. Ví dụ: seri gốc&nbsp;<span style="color: rgb(231, 76, 60);">66666</span>&nbsp;→ đổi thành&nbsp;<span style="color: rgb(39, 174, 96);">66667</span></span></p>                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="boxbody_tbl">
+                    <div class="boxbody_top">
+                        <h2><span><i class="fas fa-volume-up"></i> Thông báo cập nhật </span></h2>
+                    </div>
+                    <div class="boxbody_body">
+                        <div class="notification">
+                            <div class="notification-content">
+                                <p style="margin-bottom: 5px; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;"><span style="padding: 0px; margin: 0px; outline: 0px; border: 0px; color: rgb(255, 0, 0); font-size: 18px; font-family: Arial, Helvetica, sans-serif;"><span style="padding: 0px; margin: 0px; outline: 0px; border: 0px; font-size: 14px;"><span style="padding: 0px; margin: 0px; outline: 0px; border: 0px; color: rgb(0, 0, 0);">Chào mừng bạn đã đến với trang web đổi thẻ cào thành tiền mặt&nbsp;<span style="padding: 0px; margin: 0px; outline: 0px; font-weight: bolder; border: 0px;"><a href="https://doithecao.com.vn/" target="_blank">DOITHECAO.COM.VN</a></span></span></span></span><br></p><p style="margin-bottom: 5px; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;">►&nbsp;<span style="font-weight: bolder;">Website Đổi Thẻ Cào 247 Rút Tiền Auto Tự Động 24/24</span></p><p style="margin-bottom: 5px; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;">►&nbsp;Quý khách cần điền đúng Seri, Cố tình điền sai khiếu nại web sẽ&nbsp;<span style="font-weight: bolder;">KHÔNG</span>&nbsp;xử lý.</p><p style="margin-bottom: 5px; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;">►&nbsp;<span style="font-weight: bolder; text-align: -webkit-center;">Cam kết</span><span style="font-weight: bolder; text-align: -webkit-center;">&nbsp;</span><span style="font-weight: bolder; text-align: -webkit-center; color: rgb(231, 76, 60);">không để giá ảo</span><span style="font-weight: bolder; text-align: -webkit-center;">&nbsp;</span><span style="font-weight: bolder; text-align: -webkit-center;">nạp&nbsp;</span><span style="font-weight: bolder; text-align: -webkit-center; color: rgb(231, 76, 60);">100%</span><span style="font-weight: bolder; text-align: -webkit-center;">&nbsp;</span><span style="font-weight: bolder; text-align: -webkit-center; color: rgb(192, 57, 43);">nạp tự động</span><span style="font-weight: bolder; text-align: -webkit-center;">,</span><span style="font-weight: bolder; text-align: -webkit-center;">&nbsp;</span><span style="font-weight: bolder; text-align: -webkit-center; color: rgb(41, 128, 185);">đối soát thông kê chi tiết rõ ràng, không nuốt thẻ như các web nạp thủ công mệnh giá 200+&nbsp;</span><img alt="" data-widget="image" height="13" src="https://i.imgur.com/wbthTmj.gif" width="26" style="text-align: center;"></p><p style="margin-bottom: 5px; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;"><span times="" new="" roman",="" times,="" serif;="" font-size:="" 16px;"="" style="color: rgb(0, 0, 0);">⭐&nbsp;</span><span times="" new="" roman",="" times,="" serif;="" font-size:="" 16px;"="" style="padding: 0px; margin: 0px; outline: 0px; font-weight: bolder; border: 0px; color: rgb(0, 0, 0);">Gạch thẻ cào&nbsp;tốc độ sử lý cực nhanh 5s/ thẻ</span></p><p style="margin-bottom: 5px; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;"><span style="padding: 0px; margin: 0px; outline: 0px; font-weight: bolder; border: 0px; color: rgb(0, 0, 0); font-family: " times="" new="" roman",="" times,="" serif;="" font-size:="" 16px;"=""><span style="font-weight: 400;">⭐</span><span style="padding: 0px; margin: 0px; outline: 0px; font-weight: bolder; border: 0px;">&nbsp;Chiết khấu đổi thẻ cào tốt và&nbsp;thấp&nbsp;nhất thị trường</span></span></p><p style="margin-bottom: 5px; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;"><span style="padding: 0px; margin: 0px; outline: 0px; font-weight: bolder; border: 0px; color: rgb(0, 0, 0); font-family: " times="" new="" roman",="" times,="" serif;="" font-size:="" 16px;"=""><span style="padding: 0px; margin: 0px; outline: 0px; font-weight: bolder; border: 0px;"><span style="font-weight: 400;">⭐</span><span style="padding: 0px; margin: 0px; outline: 0px; font-weight: bolder; border: 0px;">Rút tiền về ATM, MOMO, … miễn phí. Nhận tiền sau 1 phút</span></span></span></p><p style="margin-bottom: 5px; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;"><span style="color: rgb(0, 0, 0);">⭐</span><span style="color: rgb(0, 0, 0); padding: 0px; margin: 0px; outline: 0px; border: 0px; font-family: Tahoma, sans-serif, arial, Helvetica; font-size: 16px;"><span style="color: rgb(51, 0, 153); font-weight: 700;">DoiTheCao.Com.VN</span>&nbsp;</span><span style="color: rgb(0, 0, 0); padding: 0px; margin: 0px; outline: 0px; border: 0px; font-family: Tahoma, sans-serif, arial, Helvetica; font-size: 16px;">Uy tín hoạt đông hơn 9 năm trong lĩnh vực đổi thẻ cào sang tiền mặt,&nbsp;</span><em style="color: rgb(0, 0, 0); padding: 0px; margin: 0px; outline: 0px; border: 0px; font-family: Tahoma, sans-serif, arial, Helvetica; font-size: 16px;"><span style="padding: 0px; margin: 0px; outline: 0px; border: 0px;">"Uy tín - chuyên nghiệp - tậm tâm"&nbsp;</span></em><span style="color: rgb(0, 0, 0); padding: 0px; margin: 0px; outline: 0px; border: 0px; font-family: Tahoma, sans-serif, arial, Helvetica; font-size: 16px;">luôn là điều chúng tôi hướng đến</span></p><p style="margin-bottom: 5px; color: rgb(35, 35, 35); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 14px;"><span style="padding: 0px; margin: 0px; outline: 0px; border: 0px; font-family: Tahoma, sans-serif, arial, Helvetica; font-size: 18px; color: rgb(51, 0, 153);"><span style="padding: 0px; margin: 0px; outline: 0px; font-weight: bolder; border: 0px;"><span style="padding: 0px; margin: 0px; outline: 0px; border: 0px; font-size: 16px;">Trang web&nbsp;DoiTheCao.Com.VN hoạt động 24/7 kể cả ngày lễ tết,&nbsp;giao dịch đổi thẻ và rút tiền bất cứ lúc nào, hoàn toàn tự động !</span></span></span></p>                            </div>
+                            <span class="float-right noti-more-button d-block d-lg-none"><i class="fas fa-plus-circle"></i> Xem thêm </span>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+
+    <div class="container">
+        <div class="boxbody_tbl">
+            <div class="boxbody_top"><span> BẢNG PHÍ ĐỔI THẺ CÀO </span></div>
+            <div class="boxbody_body">
+                                    <p class="alert alert-danger"> Vui Lòng Đăng Nhập Để Xem BẢNG PHÍ ĐỔI THẺ CÀO 27-07-2026  </p>
+                            </div>
+        </div>
+    </div>
+    <div id="box-why">
+        <div class="container border-top">
+            <div class="home-title"><span> Tại sao nên chọn doithecao.com.vn </span></div>
+            <div>
+                <p> Với những ưu điểm nổi trội và tối ưu so với những đơn vị khác, doithecao.com.vn đã là địa chỉ tin cậy và thường xuyên sử dụng của nhiều khách hàng! </p>
+            </div>
+            <div class="row">
+                                    <div class="col-lg-3 col-sm-6 col-xs-6">
+                        <div class="box-why">
+                            <img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/answer_442158.png" alt="WEBSITE ĐỔI THẺ CÀO UY TÍN 24/7">
+                            <h3 class="title"> WEBSITE ĐỔI THẺ CÀO UY TÍN 24/7 </h3>
+                            <div class="summary">
+                                DoiTheCao.Com.VN với hơn 12 năm hoạt động và hơn + 100.500 thành viên tham gia, uy tín đã được cộng đồng công nhận. Hệ thống áp dụng công nghệ bảo mật 2 lớp,Giao dịch đều được mã hóa an toàn.                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-3 col-sm-6 col-xs-6">
+                        <div class="box-why">
+                            <img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/answer_184034.png" alt="THANH TOÁN ĐA DẠNG">
+                            <h3 class="title"> THANH TOÁN ĐA DẠNG </h3>
+                            <div class="summary">
+                                Website hỗ trợ nhiều phương thức thanh toán, miễn phí rút tiền, có thể kể đến như rút tiền về tài khoản ngân hàng ATM, Ví điện tử MoMo, ZAL0 pay,... Đều được xử lý tự động trong vài giây.                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-3 col-sm-6 col-xs-6">
+                        <div class="box-why">
+                            <img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/answer_834966.png" alt="Mức Phí Rẻ, Nhiều Ưu Đãi">
+                            <h3 class="title"> Mức Phí Rẻ, Nhiều Ưu Đãi </h3>
+                            <div class="summary">
+                                Tự động 100%, Tốc độ xử lý cực nhanh, Rút tiền tự động cam kết chiết khấu tốt nhất thị trường hiện nay, không qua bên trung gian.Sử dụng công nghệ bảo mật 2 lớp , giúp khách hàng yên tâm khi sử dụng.                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-3 col-sm-6 col-xs-6">
+                        <div class="box-why">
+                            <img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/answer_168738.jpg" alt="Đổi thẻ cào tự động 24/7">
+                            <h3 class="title"> Đổi thẻ cào tự động 24/7 </h3>
+                            <div class="summary">
+                                Hệ thống đổi thẻ cào thành tiền mặt hoạt động tự động 24/7. Luôn luôn có đội ngủ hỗ trợ khách hàng khi gặp lỗi Dịch vụ hoạt động xuyên suốt 24/7, làm việc cả ngày nghỉ lễ tết. Nhân viên tư vấn hỗ trợ tận tình                            </div>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    <div class="container border-top" id="box-comment">
+        <div class="home-title"><span> Khách hàng nói gì về dịch vụ của chúng tôi </span></div>
+        <div class="category-desc">
+            <p><span style="font-size:16px;"> Cảm ơn quý khách đã tin tưởng và sử dụng dịch vụ&nbsp;<a href="https://doithecao.com.vn">đổi thẻ cào thành tiền mặt </a>trên website doithecao.com.vn của chúng tôi, chúng tôi luôn lắng nghe để xây dựng và ngày một tốt hơn! </span></p>
+        </div>
+        <div id="owl-comment" class="owl-carousel">
+                            <div class="customer-comment">
+                    <div class="comment-content">
+                        <div class="comment-img">
+                            <img class="owl-lazy" data-src="/public/client/images/answer_447821.jpg" alt="Em Hoàng ( game pubg )">
+                        </div>
+                    </div>
+                    <div class="comment-summary">
+                        <p class="comment-star">
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                        </p>
+                        <div class="font-italic">
+                            Em hay vào Web doithecao.com.vn để chuyển đổi từ the viettel sang garena, em thấy ở đây dịch vụ tự động nhanh chóng, chi phí thấp. em cảm ơn doithecao.com.vn nhiều ạ.                        </div>
+                        <span class="title"> Em Hoàng ( game pubg ) </span>
+                    </div>
+                </div>
+                            <div class="customer-comment">
+                    <div class="comment-content">
+                        <div class="comment-img">
+                            <img class="owl-lazy" data-src="/public/client/images/answer_359883.jpg" alt="Thu Lê (Kiên Giang)">
+                        </div>
+                    </div>
+                    <div class="comment-summary">
+                        <p class="comment-star">
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                        </p>
+                        <div class="font-italic">
+                            Mình đã đổi thẻ cào ở Doithecao.com.vn rất nhiều lần, dịch vụ uy tín, mức phí tốt hơn rất nhiều bên. Đặc biệt các anh chị ở đây hỗ trợ rất nhiệt tình.                        </div>
+                        <span class="title"> Thu Lê (Kiên Giang) </span>
+                    </div>
+                </div>
+                            <div class="customer-comment">
+                    <div class="comment-content">
+                        <div class="comment-img">
+                            <img class="owl-lazy" data-src="/public/client/images/answer_287625.png" alt="Thu Nguyễn - Gia Lai">
+                        </div>
+                    </div>
+                    <div class="comment-summary">
+                        <p class="comment-star">
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                        </p>
+                        <div class="font-italic">
+                            Rút tiền nhận được rất nhanh, mức phí hợp lý. Các anh/chị ở đây hỗ trợ rất nhiệt tình. thanks !                        </div>
+                        <span class="title"> Thu Nguyễn - Gia Lai </span>
+                    </div>
+                </div>
+                            <div class="customer-comment">
+                    <div class="comment-content">
+                        <div class="comment-img">
+                            <img class="owl-lazy" data-src="/public/client/images/answer_403788.png" alt="Thuỳ Linh - Đà Nẵng">
+                        </div>
+                    </div>
+                    <div class="comment-summary">
+                        <p class="comment-star">
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                            <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8.56866 0.735723C8.76184 0.406232 9.23816 0.406233 9.43134 0.735724L11.8095 4.7922C11.88 4.91244 11.9975 4.9978 12.1337 5.02768L16.7265 6.03597C17.0996 6.11787 17.2468 6.57089 16.9931 6.85642L13.8701 10.3717C13.7775 10.476 13.7326 10.6141 13.7463 10.7528L14.2066 15.4324C14.244 15.8125 13.8586 16.0925 13.5087 15.9395L9.20032 14.0556C9.07261 13.9998 8.92739 13.9998 8.79968 14.0556L4.49134 15.9395C4.14139 16.0925 3.75603 15.8125 3.79342 15.4324L4.25375 10.7528C4.26739 10.6141 4.22252 10.476 4.12994 10.3717L1.00692 6.85642C0.753246 6.57089 0.900439 6.11787 1.2735 6.03597L5.86634 5.02768C6.00248 4.9978 6.11996 4.91244 6.19046 4.7922L8.56866 0.735723Z" fill="#bf0000"></path>
+                            </svg>
+                        </p>
+                        <div class="font-italic">
+                            Em mua nhầm thẻ cào, nhờ biết tới doithecao.com.vn mà em đã đổi sang tiền mặt thành công, thao tác dễ dàng. Em cảm ơn công ty rất nhiều !                        </div>
+                        <span class="title"> Thuỳ Linh - Đà Nẵng </span>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+<div class="container" id="box-news">
+    <div class="about-us-content">
+        <div class="row">
+            <div class="col-7">
+                <div class="home-title"><a href="/list/news"> Tin tức </a></div>
+            </div>
+            <div class="col-5 text-right" style="margin-top:-6px">
+                <a href="/list/news"> Xem thêm <i class="fas fa-angle-double-right"></i></a>
+            </div>
+        </div>
+        <div id="owl-news" class="owl-carousel">
+                            <div class="news-vertical">
+                    <a href="/news/huong-dan-doi-the-cao-sang-usdt-nhanh-chong-an-toan-moi-nhat" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_108977.jpg" alt="Hướng Dẫn Đổi Thẻ Cào Sang USDT Nhanh Chóng, An Toàn Mới Nhất"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 2 ngày trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 8 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/huong-dan-doi-the-cao-sang-usdt-nhanh-chong-an-toan-moi-nhat"> Hướng Dẫn Đổi Thẻ Cào Sang USDT Nhanh Chóng, An Toàn Mới Nhất </a>
+                        </div>
+                        <div class="summary">
+                            <p> Hướng Dẫn Đổi Thẻ Cào Sang USDT Nhanh Chóng, An Toàn Mới Nhất </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/cach-doi-the-cao-thanh-tien-mat-uy-tin-chiet-khau-thap-tai-doithecaocomvn" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_830436.jpg" alt="Cách Đổi Thẻ Cào Thành Tiền Mặt Uy Tín, Chiết Khấu Thấp Tại Doithecao.com.vn"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 5 tháng trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 1.150 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/cach-doi-the-cao-thanh-tien-mat-uy-tin-chiet-khau-thap-tai-doithecaocomvn"> Cách Đổi Thẻ Cào Thành Tiền Mặt Uy Tín, Chiết Khấu Thấp Tại Doithecao.com.vn </a>
+                        </div>
+                        <div class="summary">
+                            <p> Cách Đổi Thẻ Cào Thành Tiền Mặt Uy Tín, Chiết Khấu Thấp Tại Doithecao.com.vn </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/cach-kiem-tra-the-vcoin-da-nap-chua-cuc-don-gian" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_816594.png" alt="Cách kiểm tra thẻ Vcoin đã nạp chưa cực đơn giản"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 7 tháng trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 1.904 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/cach-kiem-tra-the-vcoin-da-nap-chua-cuc-don-gian"> Cách kiểm tra thẻ Vcoin đã nạp chưa cực đơn giản </a>
+                        </div>
+                        <div class="summary">
+                            <p> Cách kiểm tra thẻ Vcoin đã nạp chưa cực đơn giản </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/dich-vu-doi-the-garena-sang-tien-mat-uy-tin-so-1--giai-phap-tai-chinh-toi-uu-cho-game-thu" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_764895.jpg" alt="Dịch Vụ Đổi Thẻ Garena Sang Tiền Mặt Uy Tín Số #1 – Giải Pháp Tài Chính Tối Ưu Cho Game Thủ"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 9 tháng trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 1.996 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/dich-vu-doi-the-garena-sang-tien-mat-uy-tin-so-1--giai-phap-tai-chinh-toi-uu-cho-game-thu"> Dịch Vụ Đổi Thẻ Garena Sang Tiền Mặt Uy Tín Số #1 – Giải Pháp Tài Chính Tối Ưu Cho Game Thủ </a>
+                        </div>
+                        <div class="summary">
+                            <p> Dịch Vụ Đổi Thẻ Garena Sang Tiền Mặt Uy Tín Số #1 – Giải Pháp Tài Chính Tối Ưu Cho Game Thủ </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/doi-the-cao-thanh-tien-vao-vi-momo-nhanh-chong-phi-thap-nhat" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_688590.jpg" alt="Đổi Thẻ Cào Thành Tiền Vào Ví Momo Nhanh Chóng, Phí Thấp Nhất"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 9 tháng trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 1.837 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/doi-the-cao-thanh-tien-vao-vi-momo-nhanh-chong-phi-thap-nhat"> Đổi Thẻ Cào Thành Tiền Vào Ví Momo Nhanh Chóng, Phí Thấp Nhất </a>
+                        </div>
+                        <div class="summary">
+                            <p> Đổi Thẻ Cào Thành Tiền Vào Ví Momo Nhanh Chóng, Phí Thấp Nhất </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/huong-dan-kiem-tra-the-cao-da-su-dung-hay-chua" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_511516.jpg" alt="HƯỚNG DẪN KIỂM TRA THẺ CÀO ĐÃ SỬ DỤNG HAY CHƯA"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 1 năm trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 3.308 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/huong-dan-kiem-tra-the-cao-da-su-dung-hay-chua"> HƯỚNG DẪN KIỂM TRA THẺ CÀO ĐÃ SỬ DỤNG HAY CHƯA </a>
+                        </div>
+                        <div class="summary">
+                            <p> HƯỚNG DẪN KIỂM TRA THẺ CÀO ĐÃ SỬ DỤNG HAY CHƯA </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/doi-the-cao-sieu-toc---nhan-tien-mat-chuyen-khoan-ngan-hang-vi-dien-tu" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_122576.jpg" alt="Đổi Thẻ Cào Siêu Tốc - Nhận Tiền Mặt, Chuyển Khoản Ngân Hàng, Ví Điện Tử..."></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 1 năm trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 3.005 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/doi-the-cao-sieu-toc---nhan-tien-mat-chuyen-khoan-ngan-hang-vi-dien-tu"> Đổi Thẻ Cào Siêu Tốc - Nhận Tiền Mặt, Chuyển Khoản Ngân Hàng, Ví Điện Tử... </a>
+                        </div>
+                        <div class="summary">
+                            <p> Đổi Thẻ Cào Siêu Tốc - Nhận Tiền Mặt, Chuyển Khoản Ngân Hàng, Ví Điện Tử... </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/canh-bao-nap-xu-tiktok-qua-the-cao--can-than-lua-dao" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_740125.jpg" alt="Cảnh Báo: Nạp Xu TikTok Qua Thẻ Cào – Cẩn Thận Lừa Đảo!"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 1 năm trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 2.737 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/canh-bao-nap-xu-tiktok-qua-the-cao--can-than-lua-dao"> Cảnh Báo: Nạp Xu TikTok Qua Thẻ Cào – Cẩn Thận Lừa Đảo! </a>
+                        </div>
+                        <div class="summary">
+                            <p> Cảnh Báo: Nạp Xu TikTok Qua Thẻ Cào – Cẩn Thận Lừa Đảo! </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/huong-dan-nap-robux-chinh-hang-tai-vng--canh-bao-nap-robux-lau" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_245250.png" alt="HƯỚNG DẪN NẠP ROBUX CHÍNH HÃNG TẠI VNG – CẢNH BÁO NẠP ROBUX LẬU!"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 1 năm trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 3.055 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/huong-dan-nap-robux-chinh-hang-tai-vng--canh-bao-nap-robux-lau"> HƯỚNG DẪN NẠP ROBUX CHÍNH HÃNG TẠI VNG – CẢNH BÁO NẠP ROBUX LẬU! </a>
+                        </div>
+                        <div class="summary">
+                            <p> HƯỚNG DẪN NẠP ROBUX CHÍNH HÃNG TẠI VNG – CẢNH BÁO NẠP ROBUX LẬU! </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/cac-cach-kiem-tra-the-dien-thoai-the-game-da-su-dung-hay-chua" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_746640.jpg" alt="Các cách kiểm tra thẻ điện thoại, thẻ game đã sử dụng hay chưa?"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 1 năm trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 2.429 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/cac-cach-kiem-tra-the-dien-thoai-the-game-da-su-dung-hay-chua"> Các cách kiểm tra thẻ điện thoại, thẻ game đã sử dụng hay chưa? </a>
+                        </div>
+                        <div class="summary">
+                            <p> Các cách kiểm tra thẻ điện thoại, thẻ game đã sử dụng hay chưa? </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/doithecaocomvn-lieu-co-uy-tin-hay-khong" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_427032.png" alt="DoiTheCao.Com.VN liệu có uy tín hay không?"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 1 năm trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 2.786 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/doithecaocomvn-lieu-co-uy-tin-hay-khong"> DoiTheCao.Com.VN liệu có uy tín hay không? </a>
+                        </div>
+                        <div class="summary">
+                            <p> DoiTheCao.Com.VN liệu có uy tín hay không? </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/huong-dan-rut-tien-tu-doithecaocomvn-ve-atm-mien-phi" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_564164.png" alt="Hướng Dẫn Rút Tiền Từ DoiTheCao.Com.VN Về ATM Miễn Phí"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 1 năm trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 2.277 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/huong-dan-rut-tien-tu-doithecaocomvn-ve-atm-mien-phi"> Hướng Dẫn Rút Tiền Từ DoiTheCao.Com.VN Về ATM Miễn Phí </a>
+                        </div>
+                        <div class="summary">
+                            <p> Hướng Dẫn Rút Tiền Từ DoiTheCao.Com.VN Về ATM Miễn Phí </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/doi-the-cao-thanh-tien-mat-nhanh-chong-uy-tin" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_703017.png" alt="Đổi Thẻ Cào Thành Tiền Mặt Nhanh Chóng, Uy Tín"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 1 năm trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 2.908 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/doi-the-cao-thanh-tien-mat-nhanh-chong-uy-tin"> Đổi Thẻ Cào Thành Tiền Mặt Nhanh Chóng, Uy Tín </a>
+                        </div>
+                        <div class="summary">
+                            <p> Đổi Thẻ Cào Thành Tiền Mặt Nhanh Chóng, Uy Tín </p>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-vertical">
+                    <a href="/news/huong-dan-doi-the-cao-thanh-tien-mat-chi-tiet-tai-doithecaocomvn" class="flash">
+                        <div class="news-vertical-img"><img class="lazy" src="/public/client/images/blank.gif" data-original="/public/client/images/news_323818.png" alt="Hướng dẫn đổi thẻ cào thành tiền mặt chi tiết tại Doithecao.com.vn"></div>
+                    </a>
+                    <p class="posted-date">
+                        <span><i class="far fa-calendar-alt"></i> 1 năm trước </span>
+                        <span><i class="fa fa-eye" aria-hidden="true"></i> 39.416 </span>
+                    </p>
+                    <div class="news-vertical-content">
+                        <div class="title">
+                            <a href="/news/huong-dan-doi-the-cao-thanh-tien-mat-chi-tiet-tai-doithecaocomvn"> Hướng dẫn đổi thẻ cào thành tiền mặt chi tiết tại Doithecao.com.vn </a>
+                        </div>
+                        <div class="summary">
+                            <p> Hướng dẫn đổi thẻ cào thành tiền mặt chi tiết tại Doithecao.com.vn </p>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+<div class="container">
+    <div class="about-us-content">
+        <p style="font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="line-height: 21px; color: rgb(0, 0, 0);"><span style="font-size: 16px; line-height: 24px;"></span></span></p><h2 be="" vietnam="" pro",="" sans-serif;="" color:="" rgb(52,="" 58,="" 64);="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" letter-spacing:="" 0.32px;="" orphans:="" 2;="" text-align:="" start;="" text-indent:="" 0px;="" text-transform:="" none;="" widows:="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" background-color:="" rgb(255,="" 255,="" 255);="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" initial;"="" style="padding: 0px; margin: 20px 0px; outline: 0px; font-weight: 600; line-height: 1.4; font-size: 18px; border: 0px; color: rgb(51, 51, 51); font-family: Tahoma, sans-serif, arial, Helvetica; text-align: justify;">Giới Thiệu&nbsp;Về DoiTheCao.Com.VN</h2><p style="font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="line-height: 21px; color: rgb(0, 0, 0);"><span style="font-size: 16px; line-height: 24px;">Nếu bạn đang tìm kiếm một giải pháp an toàn và nhanh chóng để&nbsp;<em><span style="font-weight: bolder;">đổi thẻ cào thành tiền mặt</span></em>, hãy truy cập ngay vào&nbsp;<span style="font-weight: bolder;">DoiTheCao.Com.VN</span>. Với giao diện thân thiện và quy trình đơn giản, bạn có thể thực hiện giao dịch chỉ trong vài phút mà không cần phải rời khỏi nhà.&nbsp;<span style="font-weight: 700;">DoiTheCao.Com.VN</span>&nbsp;cam kết mang đến cho bạn dịch vụ uy tín, bảo mật thông tin và hỗ trợ khách hàng 24/7. Dù bạn có thẻ điện thoại từ bất kỳ nhà mạng nào,&nbsp;<span style="font-weight: 700;">DoiTheCao.Com.VN</span>&nbsp;sẽ giúp bạn đổi thành tiền mặt một cách thuận tiện và nhanh chóng. Trải nghiệm ngay hôm nay và tận hưởng sự tiện lợi mà&nbsp;<span style="font-weight: 700;">DoiTheCao.Com.VN</span>&nbsp;mang lại!</span></span></p><h2 style="color: rgb(33, 37, 41); font-family: " open="" sans";="" text-align:="" justify;"=""><span style="font-size: 18px; line-height: 27px;"><span style="font-size: 14px; line-height: 21px; font-family: Arial, Helvetica, sans-serif;"><span style="line-height: 21px; color: rgb(0, 0, 0);"><span style="font-weight: bolder;">2. Đổi thẻ thành tiền mặt tại&nbsp;</span></span></span></span><span style="color: rgb(0, 0, 0); font-weight: 700; font-size: 1rem;">DoiTheCao.Com.VN</span></h2><p style="font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="font-size: 16px; line-height: 24px;"><span style="font-size: 14px; line-height: 21px; color: rgb(0, 0, 0);">Trang web</span>&nbsp;</span><a href="https://DoiTheCao.Com.VN/" target="_blank">DoiTheCao.Com.VN</a><span style="font-size: 16px; line-height: 24px;"><span style="font-size: 14px; line-height: 21px; font-family: Arial, Helvetica, sans-serif;"><span style="font-weight: bolder;"></span></span>&nbsp;<span style="font-size: 14px; line-height: 21px; color: rgb(0, 0, 0);">là một trang web uy tín và được nhiều người tin dùng để đổi thẻ cào thành tiền mặt. Điều này giúp bạn có thể chuyển đổi thẻ cào của mình thành tiền mặt một cách dễ dàng và an toàn.</span></span></p><p style="font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="font-size: 16px; line-height: 24px;"><span style="font-size: 14px; line-height: 21px; color: rgb(0, 0, 0);">Quá trình đổi thẻ tại trang web&nbsp;<span style="font-size: 16px; font-weight: 700;">DoiTheCao.Com.VN</span>&nbsp;rất đơn giản:</span></span></p><p style="font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="color: rgb(0, 0, 0); text-align: justify;">Bước 1: Đăng nhập vào tài khoản của bạn hoặc tạo tài khoản mới nếu bạn chưa có tài khoản trên trang web.</span></p><p style="font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="color: rgb(0, 0, 0); text-align: justify;">Bước 2: Nhập thông tin thẻ cào bạn muốn đổi và chờ xác nhận từ hệ thống.</span></p><p style="font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="color: rgb(0, 0, 0); text-align: justify;">Bước 3: Hoàn tất giao dịch và đặt lệnh rút tiền.</span></p><p style="font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="font-size: 16px; line-height: 24px;"><span style="font-size: 14px; line-height: 21px; color: rgb(0, 0, 0);">Sau khi bạn hoàn tất giao dịch, số tiền tương ứng sẽ được chuyển vào tài khoản của bạn</span></span></p><p style="font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="font-size: 16px; line-height: 24px;"><span style="font-size: 14px; line-height: 21px; color: rgb(0, 0, 0);">Trang web&nbsp;<span style="font-size: 16px; font-weight: 700;">DoiTheCao.Com.VN</span>&nbsp;cam kết đảm bảo đổi thẻ cào với mức giá hấp dẫn và nhanh chóng để đáp ứng nhu cầu của bạn.</span></span></p><h2 style="color: rgb(33, 37, 41); font-family: " open="" sans";="" text-align:="" justify;"=""><span style="font-size: 18px; line-height: 27px;"><span style="font-size: 14px; line-height: 21px; font-family: Arial, Helvetica, sans-serif;"><span style="line-height: 21px; color: rgb(0, 0, 0);"><span style="font-weight: bolder;">3. Lợi ích khi đổi thẻ cào thành tiền mặt tại&nbsp;</span></span></span></span><span style="color: rgb(0, 0, 0); font-weight: 700; font-size: 1rem;">DoiTheCao.Com.VN</span></h2><p style="font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="font-size: 16px; line-height: 24px;"><span style="font-size: 14px; line-height: 21px; color: rgb(0, 0, 0);">Việc đổi thẻ cào thành tiền mặt tại trang web&nbsp;<span style="font-size: 16px; font-weight: 700;">DoiTheCao.Com.VN</span>&nbsp;mang lại nhiều lợi ích cho bạn:</span></span></p><ul style="font-family: " open="" sans";="" font-size:="" 15px;"=""><li><p style="margin-bottom: 0px; font-size: 14px; line-height: 21px; text-align: justify;"><span style="font-size: 16px; line-height: 24px;"><span style="font-size: 14px; line-height: 21px; color: rgb(0, 0, 0);">Uy tín và an toàn:&nbsp;<span style="font-size: 16px; font-weight: 700;">DoiTheCao.Com.VN</span>&nbsp;là một địa chỉ uy tín và được nhiều người tin dùng trong&nbsp;<span style="font-weight: bolder;">12 năm qua</span>. Quá trình đổi thẻ cào được thực hiện an toàn và bảo mật.</span></span></p></li><li><p style="margin-bottom: 0px; font-size: 14px; line-height: 21px; text-align: justify;"><span style="font-size: 16px; line-height: 24px;"><span style="font-size: 14px; line-height: 21px; color: rgb(0, 0, 0);">Giao dịch nhanh chóng: Thời gian xử lý thẻ nhanh chóng chỉ&nbsp;<span style="font-weight: bolder;">1s/1 thẻ</span>.</span></span></p></li><li><p style="margin-bottom: 0px; font-size: 14px; line-height: 21px; text-align: justify;"><span style="font-size: 16px; line-height: 24px;"><span style="font-size: 14px; line-height: 21px; color: rgb(0, 0, 0);">Hỗ trợ khách hàng: Hỗ trợ khách hàng 24/7&nbsp;<span style="font-weight: bolder;">(kể cả ngày lễ và chủ nhật)</span>.</span></span></p></li></ul><p style="margin-bottom: 0px; font-size: 14px; line-height: 21px; font-family: " open="" sans";="" text-align:="" justify;"=""><span style="font-size: 16px; line-height: 24px;"><span style="font-size: 14px; line-height: 21px; color: rgb(0, 0, 0);">Nếu bạn đang cân nhắc đổi thẻ cào thành tiền mặt, trang web&nbsp;<span style="font-size: 16px; font-weight: 700;">DoiTheCao.Com.VN</span>&nbsp;là một sự lựa chọn đáng tin cậy để thực hiện giao dịch nhanh chóng và tiện lợi.</span></span></p>    </div>
+</div>
+<div id="footer">
+    <div id="box-customer">
+        <div class="container">
+            <p class="bold h4 text-left"> Đối tác thanh toán </p>
+            <div id="owl-customer" class="owl-carousel">
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_200823.png" alt="1">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_251186.png" alt="2">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_949749.png" alt="3">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_305001.png" alt="4">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_419377.png" alt="5">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_463377.png" alt="6">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_589390.png" alt="7">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_914008.png" alt="8">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_162929.png" alt="9">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_734268.png" alt="10">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_674102.png" alt="11">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_803918.png" alt="12">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_474669.png" alt="13">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_897431.jpg" alt="14">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_640799.jpg" alt="15">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_371223.png" alt="16">
+                    </div>
+                                    <div class="customer-item">
+                        <img src="/public/client/images/partner_704603.png" alt="17">
+                    </div>
+                            </div>
+        </div>
+        <div class="container mt-3">
+            <p class="bold h4 text-left"> Khách hàng tiêu biểu </p>
+            <div class="box-customer-wrap w-100 overflow-hidden">
+                <div class="customer-slide">
+                                            <div class="customer-item">
+                            <img src="/public/client/images/client_481744.png" alt="1">
+                        </div>
+                                            <div class="customer-item">
+                            <img src="/public/client/images/client_985418.png" alt="2">
+                        </div>
+                                            <div class="customer-item">
+                            <img src="/public/client/images/client_546906.png" alt="3">
+                        </div>
+                                            <div class="customer-item">
+                            <img src="/public/client/images/client_343185.png" alt="4">
+                        </div>
+                                            <div class="customer-item">
+                            <img src="/public/client/images/client_881101.png" alt="5">
+                        </div>
+                                            <div class="customer-item">
+                            <img src="/public/client/images/client_508448.png" alt="6">
+                        </div>
+                                            <div class="customer-item">
+                            <img src="/public/client/images/client_915734.png" alt="7">
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6 mb-3 order-lg-2" id="footer-policy">
+                <p class="title"> Quy định &amp; chính sách </p>
+                <ul>
+                    <li>
+                        <a href="/giai-quyet-khieu-nai-tt1685.html">
+                            <i class="fas fa-caret-right"></i> Chính sách sử dụng
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/dieu-khoan-su-dung-tt1684.html">
+                            <i class="fas fa-caret-right"></i> Điều khoản sử dụng
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/giai-quyet-khieu-nai-tt1839.html">
+                            <i class="fas fa-caret-right"></i> Giải quyết khiếu nại
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-2 col-sm-6 mb-3 order-lg-3" id="footer-facebook">
+                <div>
+                    <p class="title"> Theo dõi chúng tôi: </p>
+                    <div id="social-icon">
+                        <a class="social" rel="nofollow" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a class="social" rel="nofollow" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a class="social" rel="nofollow" target="_blank"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7 mb-3 order-lg-1" id="footer-info">
+                <div class="row layout-row">
+                    <div class="layout-column-one col-md-6 layout-column">
+                        <p style="text-align: justify;"><strong><span style="font-size:16px;"> Về chúng tôi </span></strong><br>
+                            doithecao.com.vn - Đổi thẻ cào thành tiền mặt chiết khấu cực thấp, đổi thẻ cào 247, không qua trung gian. Tốc độ sử lý cực nhanh 5s/thẻ, rút tiền miễn phí, bảo mật 2 lớp, hỗ trợ khách hàng 24/7 .                        </p>
+                    </div>
+                    <div class="layout-column-two col-md-6 layout-column">
+                        <div style="letter-spacing:0px;"><strong><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-size:16px;"> Thông tin liên hệ: </span></span></strong><br>
+                            <span aria-hidden="true" class="fa fa-envelope"></span><b> Email </b> : <a class="__cf_email__"> support@doithecao.com.vn </a><br>
+                            <span aria-hidden="true" class="fa fa-globe"></span><b> Website </b> : <a href="https://doithecao.com.vn"> doithecao.com.vn </a>
+                        </div>
+                        <p><span aria-hidden="true" class="fa fa-map-marker"></span><strong> Địa chỉ: </strong> 30a Đ. Hồ Xuân Hương, Phường 7, Quận 2, Hồ Chí Minh </p>
+                </div>
+                <p><span style="color: rgb(0, 0, 0); font-family: " helvetica="" neue",="" helvetica,="" arial,="" sans-serif;="" font-size:="" 14px;="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" font-weight:="" 400;="" letter-spacing:="" orphans:="" 2;="" text-align:="" left;="" text-indent:="" 0px;="" text-transform:="" none;="" widows:="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" background-color:="" rgb(255,="" 255,="" 255);="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" display:="" inline="" !important;="" float:="" none;"=""></span><span style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: " helvetica="" neue",="" helvetica,="" arial,="" sans-serif;="" font-size:="" 14px;="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" font-weight:="" 400;="" letter-spacing:="" orphans:="" 2;="" text-align:="" left;="" text-indent:="" 0px;="" text-transform:="" none;="" widows:="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" initial;"=""></span></p>
+                <p><img alt="Appstore" src="/public/client/images/apple.png" style="width: 120px; height: 30px;"> <img alt="Chplay" src="/public/client/images/chplay.png" style="width: 120px; height: 30px;"></p>
+            </div>
+        </div>
+        <div id="footer-designed">
+            <div class="container"> Copyright 2026 <a href="//doithecao.com.vn"> DoiTheCao.Com.VN </a>. Đổi thẻ cào sang tiền mặt | Đổi thẻ cào 247 ! </div>
+        </div>
+    </div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-1.10.0.min.js"></script>
+<script src="https://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script type="text/javascript">
+    jQuery.browser = {};
+    (function() {
+        jQuery.browser.msie = false;
+        jQuery.browser.version = 0;
+        if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+            jQuery.browser.msie = true;
+            jQuery.browser.version = RegExp.$1;
+        }
+    })();
+</script>
+<script src="/public/client/js/pnotify.min.js"></script></div></body>

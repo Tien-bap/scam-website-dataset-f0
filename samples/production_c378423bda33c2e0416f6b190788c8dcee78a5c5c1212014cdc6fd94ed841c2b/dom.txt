@@ -1,0 +1,534 @@
+<head>       
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+	<link rel="preconnect" href="https://www.googletagmanager.com">
+	<link rel="preconnect" href="https://www.google-analytics.com">	
+    <meta name="description" content="Website rút gọn link Bitly hỗ trợ rút gọn link, thu gọn link, làm ngắn link, short link hoàn toàn miễn phí. Dễ dàng và nhanh chóng chia sẻ trên mọi nền tảng mạng xã hội">
+    <meta name="keywords" content="">
+	<meta name="google-adsense-account" content="ca-pub-8239066857601435">
+	
+    <!-- Open Graph Tags -->
+    <meta property="og:type" content="website">
+	<meta property="og:url" content="https://bitly.com.vn">
+	<meta property="og:title" content="Rút gọn link Bitly | Tạo link ngắn nhanh chóng và miễn phí">
+	<meta property="og:description" content="Website rút gọn link Bitly hỗ trợ rút gọn link, thu gọn link, làm ngắn link, short link hoàn toàn miễn phí. Dễ dàng và nhanh chóng chia sẻ trên mọi nền tảng mạng xã hội">
+	<link rel="icon" href="https://bitly.com.vn/favicon.ico" type="image/x-icon">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@bitly_com_vn">
+	<meta name="twitter:title" content="Rút gọn link Bitly | Tạo link ngắn nhanh chóng và miễn phí">
+	<meta name="twitter:description" content="Website rút gọn link Bitly hỗ trợ rút gọn link, thu gọn link, làm ngắn link, short link hoàn toàn miễn phí. Dễ dàng và nhanh chóng chia sẻ trên mọi nền tảng mạng xã hội">
+	<meta name="twitter:creator" content="@bitly_com_vn">
+	<link rel="canonical" href="https://bitly.com.vn">
+	 
+
+    <title>Rút gọn link Bitly | Tạo link ngắn nhanh chóng và miễn phí</title> 
+        
+    <!-- Bootstrap core CSS -->
+    <link href="https://bitly.com.vn/static/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Component CSS -->    
+    <link rel="stylesheet" type="text/css" href="https://bitly.com.vn/themes/saas/style.css">
+    <link rel="stylesheet" type="text/css" href="https://bitly.com.vn/static/css/components.min.css">
+    <link rel="stylesheet" type="text/css" href="https://bitly.com.vn/static/css/fa-all.min.css">
+    <!-- Required Javascript Files -->
+    <script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202608110101/show_ads_impl_fy2021.js?bust=122880417"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://bitly.com.vn/static/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://bitly.com.vn/static/application.fn.js"></script>
+	<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2398899576884105" crossorigin="anonymous" data-checked-head="true"></script>	 
+    <script type="text/javascript">
+      var appurl="https://bitly.com.vn";
+      var token="0218c71f521b9b3244eed6ffe56f31e5";
+    </script>  
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/datepicker/0.6.4/datepicker.min.js?v=0.6.4"></script>
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/datepicker/0.6.4/datepicker.min.css?v=0.6.4">
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/chosen/1.1.0/chosen.jquery.min.js?v=1.1.0"></script>
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.1/icheck.min.js?v=1.0.1"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.15/clipboard.min.js?v=1.5.15"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.devbridge-autocomplete/1.4.10/jquery.autocomplete.min.js?v=1.1.5"></script>
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/pace/0.4.17/pace.js?v=0.4.17"></script>
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&amp;display=swap">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<style type="text/css">body{font-family: 'Montserrat' !important;}</style>
+	        
+    <script type="text/javascript" src="https://bitly.com.vn/static/application.js"></script><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">  
+    <script type="text/javascript" src="https://bitly.com.vn/static/server.js"></script>    
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head><body class="light home   pace-done" id="body" style=""><div class="pace  pace-inactive"><div class="pace-progress" data-progress-text="100%" data-progress="99" style="width: 100%;">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+    <a href="#body" id="back-to-top"><i class="glyphicon glyphicon-chevron-up"></i></a>
+          
+        <header>
+          <div class="navbar" role="navigation">
+            <div class="container">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" aria-label="navbar toggle">
+                  <span class="ti-menu"></span>
+                </button>
+                <a class="navbar-brand" href="https://bitly.com.vn" title="Rút gọn link Bily.com.vn">
+                                    <img src="https://bitly.com.vn/content/auto_site_logo.png" alt="Rút gọn link Bily.com.vn" width="86px" height="40px">
+                                  </a>
+              </div>
+              <div class="navbar-collapse collapse">
+                <div class="navbar-collapse collapse"><ul class="nav navbar-nav navbar-right"><li><a href="https://bitly.com.vn/#mainto" rel="custom">Tính năng</a></li><li><a href="https://bitly.com.vn/pricing">Bảng giá</a></li><li><a href="https://bitly.com.vn/blog">Blog</a></li><li><a href="https://bitly.com.vn/user/login">Đăng nhập</a></li><li><a href="https://bitly.com.vn/user/register" class="active">Bắt đầu</a></li></ul></div>              </div>
+            </div>
+          </div>    
+        </header>      
+            
+    <section class="section-featured">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1>Bitly - Rút gọn link, làm ngắn link, thu gọn link và short link.</h1>
+        <p class="description">Website hỗ trợ rút gọn link, thu gọn link, làm ngắn link, short link hoàn toàn miễn phí, với Bitly.com.vn bạn có thể chia sẻ trên mạng xã hội, google, youtube, facebook, cốc cốc</p>
+          <div class="shortener-simple">
+            <div class="share-this"></div>
+            <form action="https://bitly.com.vn/shorten" id="main-form" method="post">
+              <div class="main-form">
+                <div class="row" id="single">
+                  <div class="col-sm-11">
+                    <div class="input-group">
+                      <span class="input-group-addon"><i class="glyphicon glyphicon-link"></i></span>
+                      <input type="text" class="form-control main-input" name="url" value="" placeholder="Ví dụ: https://super-long-link.com/shorten-it" autocomplete="off">
+                    </div>                 
+                  </div>
+                  <div class="col-sm-1">
+                    <button class="btn btn-secondary btn-block main-button" id="shortenurl" type="submit" aria-label="Rút gọn"><span>Rút gọn</span> <i class="ti-link"></i></button>
+                    <button class="btn btn-primary btn-block main-button" id="copyurl" type="button" onclick="checkCookie1();"><span>Sao chép</span><i class="ti-clipboard"></i></button>
+                  </div>
+                </div>
+              </div>
+              <div id="captcha" style="display:none">
+                              </div>
+              <input type="hidden" value="c4b1a53f6bf3c2e5fb485d4e472c9aeb">
+            </form><!--/.form--> 
+			<div class="ajax"></div>
+          </div>  
+
+        <a href="https://bitly.com.vn/user/register" class="btn btn-primary">Bắt đầu</a>
+        <a href="#mainto" class="btn btn-transparent scroll">Xem thêm</a>      
+      </div>   
+  
+    </div>   
+
+  </div>  
+</section>
+<section class="section-secondary" id="mainto">
+  <div class="container">
+    <h2 class="text-center feature-h">
+      Rút gọn link Bitly, lưu giữ link rút gọn miễn phí vĩnh viễn        
+    </h2>
+    <p class="text-center feature-p">
+      Không đơn thuần chỉ là một link ngắn. Rút gọn link Bitly cung cấp cho bạn một công cụ miễn phí nhưng đầy mạnh mẽ, cho phép bạn thu thập rất nhiều dữ liệu về khách hàng và hành vi của họ.    </p>
+    <div class="row feature">
+      <div class="col-sm-7 image">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="panelette panelette-grad1">
+              <h3>
+                <i class="glyphicon glyphicon-screenshot"></i>
+                Target.              </h3>
+              <p>
+                Target khách hàng mục tiêu để tăng phạm vi tiếp cận và chuyển hướng họ đến trang liên quan. Thêm Pixel để re-target lại trong chiến dịch quảng cáo.              </p>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="panelette panelette-grad">
+              <h3>
+                <i class="glyphicon glyphicon-fire"></i>
+                Measure.              </h3>
+              <p>
+                Chia sẻ liên kết của bạn với mạng và đo lường dữ liệu để tối ưu hóa hiệu suất chiến dịch tiếp thị của bạn. Tiếp cận đối tượng phù hợp với nhu cầu của bạn.              </p>                
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-5 info">
+        <h3>
+          <i class="glyphicon glyphicon-send"></i>
+          <small>Reach &amp; increase sales.</small>
+          Hoàn hảo cho việc bán hàng và tiếp thị        </h3>
+        <p>
+          Thấu hiểu người dùng và khách hàng của bạn sẽ giúp bạn tăng tỷ lệ chuyển đổi. Chỉ một link rút gọn có thể cho phép bạn theo dõi mọi thứ: lượt click, nguồn click, vị trí địa lý, thiết bị truy cập... Tất cả dữ liệu đều có sẵn để bạn phân tích.        </p>
+      </div>      
+    </div>                
+  </div>          
+</section>
+<section class="section-blue section-split">
+  <div class="tilted-grad"></div>
+  <div class="container">
+    <div class="row feature">
+      <div class="col-md-6">
+        <div class="split-content info">
+          <i class="glyphicon glyphicon-filter"></i>
+          <h3>
+            <small>Target interested users.</small>
+            Powerful tools that work          </h3>
+          <p>
+            Nhắm mục tiêu của bạn và hiểu rõ hơn về hành vi của khách hàng nhằm cung cấp cho họ trải nghiệm tốt hơn. Chúng tôi cung cấp cho bạn nhiều công cụ mạnh mẽ để tiếp cận họ tốt hơn.          </p>          
+        </div>        
+      </div>
+      <div class="col-md-6">
+        <div class="split-content info">
+          <i class="glyphicon glyphicon-tasks"></i>
+          <h3>
+            <small>Control on each and everything.</small>
+            Complete control on your links          </h3>
+          <p>
+            Nâng cấp lên tài khoản Pro để toàn quyền kiểm soát các liên kết của bạn. Sử dụng tính năng API nâng cao của chúng tôi để linh hoạt cho bất kỳ mục đích sử dụng nào của bạn          </p>        
+        </div>
+      </div>
+    </div>          
+    <div class="row">
+      <div class="col-md-6">
+		<div id="panel-preview">
+			<img src="/themes/saas/assets/images/rut-gon-link-bitly-banner.webp" alt="Rút gọn link Bitly banner">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="featurette">
+          <div class="row">
+            <div class="col-sm-6">
+              <i class="glyphicon glyphicon-globe"></i>
+              <h3>Nhắm mục tiêu</h3>
+              <p>Điều hướng liên kết theo khu vực địa lý hoặc từng thiết bị của khách hàng.</p>
+            </div>    
+            <div class="col-sm-6">
+              <i class="glyphicon glyphicon-star"></i>
+              <h3>Miền tùy chỉnh</h3>
+              <p>Dễ dàng để rút gọn link với domain của chính bạn. Chuyên nghiệp hơn, độc đáo hơn.</p>
+            </div>  
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <i class="glyphicon glyphicon-asterisk"></i>
+              <h3>Thống kê</h3>
+              <p>Cung cấp thống kê chi tiết nguồn truy cập vào link rút gọn của bạn theo thời gian thực.</p>
+            </div>
+            <div class="col-sm-6">
+              <i class="glyphicon glyphicon-qrcode"></i>
+              <h3>Advanced QR Code</h3>
+              <p>Tạo QR Code động và dễ dàng tùy biến màu sắc, họa tiết, logo của QR Code.</p>
+            </div>       
+          </div>  
+        </div>        
+      </div>
+    </div>
+  </div>      
+</section>
+<section class="section-c2a"> 
+  <div class="tilted-grad-reverse"></div>
+  <div class="container">
+    <div class="actionbar">
+      <div class="row">
+        <div class="col-sm-7">
+          <h2 class="feature-h">Bạn đã sẵn sàng để bắt đầu?</h2>
+          <p>Tạo ngay tài khoản miễn phí tại website rút gọn link Bitly và bắt đầu chiến dịch tiếp thị của bạn ngay bây giờ. Tiếp cận khách hàng một cách hiệu quả bằng tất cả các công cụ bạn cần.</p>    
+          <p><a href="https://bitly.com.vn/pricing" class="btn btn-primary btn-round">Đăng ký ngay</a></p>      
+        </div>
+        <div class="col-sm-5">
+          <i class="ti-pie-chart"></i>
+        </div>
+      </div>
+    </div>
+    <div class="faq-home">
+      <div class="row">
+	    <h2 class="text-center feature-h">Câu hỏi thường gặp</h2>
+        <div class="col-sm-6">
+			<div class="accordion" id="FAQ">
+			  <div class="card">
+				<div class="card-header" id="FAQ1">
+				  <h2 class="mb-0 h4">
+					<span data-toggle="collapse" data-target="#collapse1" aria-controls="collapse1">
+						<i class="ti-angle-down"></i> Rút gọn link là gì?
+					</span>
+				  </h2>
+				</div>
+
+				<div id="collapse1" class="collapse" aria-labelledby="FAQ1" data-parent="#FAQ">
+				  <div class="card-body text-justify">
+					Rút gọn link là thao tác rút ngắn một liên kết dài thành một liên kết ngắn hơn. Khi người dùng truy cập vào link rút gọn sẽ được tự động chuyển hướng đến trang đích ban đầu.
+				  </div>
+				</div>
+			  </div>
+			  <hr>
+			  <div class="card">
+				<div class="card-header" id="FAQ2">
+				  <h2 class="mb-0 h4">
+					<span data-toggle="collapse" data-target="#collapse2" aria-controls="collapse2">
+					  <i class="ti-angle-down"></i> Tại sao cần rút gọn link?
+					</span>
+				  </h2>
+				</div>
+				<div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#FAQ">
+				  <div class="card-body text-justify">
+					Mục đích của việc rút gọn link là làm cho đường dẫn dễ dàng chia sẻ và quản lý hơn, đặc biệt là trên các nền tảng có giới hạn về độ dài của đường dẫn, như Twitter hoặc trong các tin nhắn văn bản (SMS).
+				  </div>
+				</div>
+			  </div>
+			  <hr>
+			  <div class="card">
+				<div class="card-header" id="FAQ3">
+				  <h2 class="mb-0 h4">
+					<span data-toggle="collapse" data-target="#collapse3" aria-controls="collapse3">
+					  <i class="ti-angle-down"></i> Tạo QR Code miễn phí bằng cách nào?
+					</span>
+				  </h2>
+				</div>
+				<div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#FAQ">
+				  <div class="card-body text-justify">
+					<p> 
+						Bạn có thể sử dụng trình tạo <a href="https://qr.edu.vn" target="_blank">QR Code miễn phí</a> để tạo QR Code nâng cao cho mình. Kết hợp cùng với rút gọn link Bitly để tạo các QR Code động một cách dễ dàng và linh hoạt.
+					</p>
+				  </div>
+				</div>
+			  </div>
+			  <hr>
+			  <div class="card">
+				<div class="card-header" id="FAQ3">
+				  <h2 class="mb-0 h4">
+					<span data-toggle="collapse" data-target="#collapse4" aria-controls="collapse4">
+					  <i class="ti-angle-down"></i> Ưu điểm của dịch vụ rút gọn link là gì?
+					</span>
+				  </h2>
+				</div>
+				<div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#FAQ">
+				  <div class="card-body text-justify">
+					<p> 
+						Sử dụng dịch vụ rút gọn link giúp bạn theo dõi lượt nhấp vào đường dẫn, cung cấp thống kê và thông tin về hoạt động trên Internet, bảo mật và giảm độ dài của đường dẫn.
+					</p>
+				  </div>
+				</div>
+			  </div>
+			  <hr>
+			  <div class="card">
+				<div class="card-header" id="FAQ5">
+				  <h2 class="mb-0 h4">
+					<span data-toggle="collapse" data-target="#collapse5" aria-controls="collapse5">
+					  <i class="ti-angle-down"></i> Nhược điểm khi sử dụng dịch vụ rút gọn link?
+					</span>
+				  </h2>
+				</div>
+				<div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#FAQ">
+				  <div class="card-body text-justify">
+					<p> 
+						Một số nhược điểm sau đây có thể gặp phải nếu bạn chọn các trang rút gọn link kém uy tín. Bao gồm phụ thuộc vào dịch vụ thứ ba, nguy cơ link rút gọn bị mất kết nối nếu dịch vụ rút gọn link đó ngừng hoạt động, và sự không minh bạch khi người dùng không biết link rút gọn dẫn đến đâu trừ khi họ nhấp vào nó.
+					</p>
+				  </div>
+				</div>
+			  </div>	
+			  <hr>			  
+			</div>
+        </div>
+		<div class="col-sm-6">
+			  <div class="card">
+				<div class="card-header" id="FAQ6">
+				  <h2 class="mb-0 h4">
+					<span data-toggle="collapse" data-target="#collapse6" aria-controls="collapse6">
+					  <i class="ti-angle-down"></i> Làm thế nào để kiểm tra trang đích của link rút gọn?
+					</span>
+				  </h2>
+				</div>
+				<div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#FAQ">
+				  <div class="card-body text-justify">
+					<p> 
+						Bạn có thể xem thống kê chi tiết của link rút gọn, trong đó có thể xem trang dích của một link rút gọn bất kỳ bằng cách thêm "+" vào cuối đường link đó. Ví dụ: "https://bitly.com.vn/abc+" 
+					</p>
+				  </div>
+				</div>
+			  </div>
+			  <hr>
+			  <div class="card">
+				<div class="card-header" id="FAQ7">
+				  <h2 class="mb-0 h4">
+					<span data-toggle="collapse" data-target="#collapse7" aria-controls="collapse7">
+					  <i class="ti-angle-down"></i> Cách đổi tên đường link theo ý muốn?
+					</span>
+				  </h2>
+				</div>
+				<div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#FAQ">
+				  <div class="card-body text-justify">
+					<p> 
+						Website rút gọn link Bitly cho phép bạn tùy chỉnh đường link rút gọn của mình, nghĩa là bạn có thể tùy chọn phần đường dẫn mở rộng của link rút gọn. Việc này giúp cho link rút gọn trở nên dễ nhớ và thể hiện tính cá nhân nhiều hơn.
+					</p>
+				  </div>
+				</div>
+			  </div>
+			  <hr>
+			  <div class="card">
+				<div class="card-header" id="FAQ8">
+				  <h2 class="mb-0 h4">
+					<span data-toggle="collapse" data-target="#collapse8" aria-controls="collapse8">
+					  <i class="ti-angle-down"></i> Dịch vụ rút gọn link Bitly có mất phí không?
+					</span>
+				  </h2>
+				</div>
+				<div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#FAQ">
+				  <div class="card-body text-justify">
+					<p> 
+						Website Rút gọn link Bitly cung cấp phiên bản miễn phí và phiên bản trả phí với các tính năng mở rộng. Các tính năng bổ sung bao gồm: sửa, xóa link gốc, Pixel, tên miền tùy chỉnh... Bạn có thể tham khảo tại link <a href="https://bitly.com.vn/pricing">https://bitly.com.vn/pricing</a>
+					</p>
+				  </div>
+				</div>
+			  </div>
+			  <hr>
+			  <div class="card">
+				<div class="card-header" id="FAQ9">
+				  <h2 class="mb-0 h4">
+					<span data-toggle="collapse" data-target="#collapse9" aria-controls="collapse9">
+					  <i class="ti-angle-down"></i> Link rút gọn trên Bitly.com.vn có lưu giữ vĩnh viễn không?
+					</span>
+				  </h2>
+				</div>
+				<div id="collapse9" class="collapse" aria-labelledby="heading9" data-parent="#FAQ">
+				  <div class="card-body text-justify">
+					<p> 
+						Tất cả các link rút gọn được tạo bởi website rút gọn link Bitly.com.vn đều được lưu giữ vĩnh viễn. Ngoại trừ các đường link được tạo bởi tài khoản miễn phí không phát sinh bất kỳ lượt truy cập nào trong vòng 30 ngày. Những đường link này sẽ được tự động xóa khỏi hệ thống để đảm bảo tài nguyên.
+					</p>
+				  </div>
+				</div>
+			  </div>
+			  <hr>
+			  <div class="card">
+				<div class="card-header" id="FAQ10">
+				  <h2 class="mb-0 h4">
+					<span data-toggle="collapse" data-target="#collapse10" aria-controls="collapse10">
+					  <i class="ti-angle-down"></i> Các hướng dẫn chi tiết để rút gọn link hiệu quả?
+					</span>
+				  </h2>
+				</div>
+				<div id="collapse10" class="collapse" aria-labelledby="heading10" data-parent="#FAQ">
+				  <div class="card-body text-justify">
+					<p> 
+						Bạn có thể truy cập các bài viết sau đây để rút gọn link hiệu quả hơn: </p><p><span id="widget_latest_posts"><span data-id="12">- <a href="https://bitly.com.vn/blog/nhung-ly-do-khien-lien-ket-bi-vo-hieu-hoa">Những lý do khiến liên kết bị vô hiệu hóa</a> (<span class="time">7 months ago</span>)</span><br><span data-id="11">- <a href="https://bitly.com.vn/blog/huong-dan-rut-gon-link-spotify-don-gian">Hướng dẫn rút gọn link Spotify đơn giản</a> (<span class="time">2 years ago</span>)</span><br><span data-id="10">- <a href="https://bitly.com.vn/blog/google-ngung-hoat-dong-dich-vu-rut-gon-link-goo-gl:-nhung-dieu-ban-can-biet">Dịch vụ rút gọn link goo.gl ngừng hoạt động: Những điều bạn cần biết</a> (<span class="time">2 years ago</span>)</span><br><span data-id="8">- <a href="https://bitly.com.vn/blog/rut-gon-link-kiem-tien">Danh sách 10 trang web rút gọn link kiếm tiền uy tín năm 2024</a> (<span class="time">2 years ago</span>)</span><br><span data-id="7">- <a href="https://bitly.com.vn/blog/rut-gon-link-bitly-tren-dien-thoai">Hướng dẫn rút gọn link Bitly trên điện thoại di động</a> (<span class="time">3 years ago</span>)</span><br></span></p>
+					<p></p>
+				  </div>
+				</div>
+			  </div>	
+			  <hr>			  
+        </div>
+      </div>
+    </div>	
+                <div class="stats">
+        <h2 class="text-center feature-h">Cảm ơn bạn đã tin chọn</h2>
+        <div class="row">
+          <div class="col-sm-4">
+            <strong>Phục vụ</strong>      
+            <h3><span class="thisCounter">17,352,324</span> <p>Links</p></h3>
+          </div>
+          <div class="col-sm-4">
+            <strong>Lượt truy cập</strong>      
+            <h3><span class="thisCounter">1,241,808,282</span> <p> Click</p></h3>
+          </div>
+          <div class="col-sm-4">
+            <strong>Người dùng</strong>
+            <h3><span class="thisCounter">1,812,819</span> <p>Users</p></h3>
+          </div>
+        </div>           
+      </div>    
+    	
+  </div>
+</section>
+
+            <footer class="main">
+        <div class="container">
+                      <img src="https://bitly.com.vn/content/auto_site_logo.png" alt="Rút gọn link Bitly | Tạo link ngắn nhanh chóng và miễn phí" height="30" width="65px">
+                    <p class="description">Website hỗ trợ rút gọn link, thu gọn link, làm ngắn link, short link hoàn toàn miễn phí, với Bitly.com.vn bạn có thể chia sẻ trên mạng xã hội, google, youtube, facebook, cốc cốc<br><br>
+		  <a href="https://bitly.com.vn/icon-facebook" target="_blank" style="margin:0px;padding:0px">Icon Facebook</a> | <a href="https://no.com.vn" target="_blank" style="margin:0px;padding:0px">Ghi chú online</a>
+		  </p>
+          <ul class="social-icons">
+                          <li><a href="https://facebook.com/bitly.com.vn" target="_blank" aria-label="Connect us on Facebook"><i class="ti-facebook"></i></a></li>
+                                      <li><a href="https://twitter.com/bitly_com_vn" target="_blank" aria-label="Connect us on Twitter"><i class="ti-twitter"></i></a></li>
+                      </ul>
+		  
+          <div class="row">
+            <div class="col-sm-5">
+              <p>2026 © Bitly.com.vn |<a href="/page/mien-tru-trach-nhiem-phap-ly" target="_blank">Thông báo miễn trừ trách nhiệm</a></p>
+            </div>
+            <div class="col-sm-7 text-right">
+              			  <a href="/page/about" title="Giới thiệu">Giới thiệu</a>
+                                    <a href="https://bitly.com.vn/blog" title="Blog">Blog</a>
+                                                              <a href="https://bitly.com.vn/report" title="Báo cáo link">Báo cáo link</a> 
+                    					<a href="https://bitly.com.vn/page/terms" title="Điều khoản và điều kiện sử dụng">Tearms</a>
+					<a href="https://bitly.com.vn/page/privacy" title="Chính sách Bảo mật">Privacy</a>					
+              <a href="https://bitly.com.vn/contact" title="Liên hệ">Liên hệ</a>
+              <div class="languages">
+                <a href="#lang" id="show-language"><i class="ti-world"></i> Vi</a>
+                <div class="langs">
+                  <a href="?lang=en">English</a><a href="?lang=vi">Việt Nam</a>                </div>          
+              </div>                            
+            </div>
+          </div>
+        </div>
+      </footer>      
+      
+    	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "Organization",
+		"name": "Rút gọn link Bitly",
+		"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "08 Trần Đình Xu, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh",
+			"addressLocality": "Thành phố Hồ Chí Minh",
+			"addressRegion": "",
+			"postalCode": "700900"
+		},
+		"image": "https://lh3.googleusercontent.com/p/AF1QipPgYKUrr10ozno5mk3duPeGYHHsbm88RcfWfaj_",
+		"email": "contact@bitly.com.vn",
+		"telePhone": "+842877789666",
+		"url": "https://bitly.com.vn",
+		"openingHours": "Mo,Tu,We,Th,Fr,Sa 09:00-18:00",
+		"openingHoursSpecification": [ {
+			"@type": "OpeningHoursSpecification",
+			"dayOfWeek": [
+				"Monday",
+				"Tuesday",
+				"Wednesday",
+				"Thursday",
+				"Friday",
+				"Saturday"
+			],
+			"opens": "09:00",
+			"closes": "18:00"
+		} ],
+		"geo": {
+			"@type": "GeoCoordinates",
+			"latitude": "10.759135694852125",
+			"longitude": "106.69231388255065"
+		},
+		"priceRange":"$"
+
+	}
+	</script><ins class="adsbygoogle adsbygoogle-noablate" data-ad-hi="true" data-adsbygoogle-status="done" style="display: none !important;" data-ad-status="unfilled"><div id="aswift_0_host" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"><iframe id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;min-height:auto;max-height:none;min-width:auto;max-width:none;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-2398899576884105&amp;output=html&amp;adk=293675617&amp;adf=814277786&amp;abgtt=6&amp;lmt=1786610959&amp;plat=9%3A134250504%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&amp;format=0x0&amp;url=https%3A%2F%2Fbitly.com.vn%2F&amp;pra=5&amp;asro=0&amp;itsi=-1&amp;aimartd=4&amp;aieuf=1&amp;aicrs=1&amp;uach=WyJMaW51eCIsIiIsIng4NiIsIiIsIjE1MS4wLjc5MjIuMTM3IixudWxsLDAsbnVsbCwiNjQiLFtbIkNocm9taXVtIiwiMTUxLjAuNzkyMi4xMDgiXSxbIkdvb2dsZSBDaHJvbWUiLCIxNTEuMC43OTIyLjEwOCJdLFsiTm90PUE_QnJhbmQiLCI5OS4wLjAuMCJdXSwwXQ..&amp;dt=1786610959235&amp;bpp=653&amp;bdt=617&amp;idt=653&amp;shv=r20260811&amp;mjsv=m202608110101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;eoidce=1&amp;nras=1&amp;correlator=1754871401032&amp;frm=20&amp;pv=2&amp;u_tz=120&amp;u_his=2&amp;u_h=1200&amp;u_w=1600&amp;u_ah=1200&amp;u_aw=1600&amp;u_cd=24&amp;u_sd=1&amp;dmc=32&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1600&amp;bih=1200&amp;scr_x=0&amp;scr_y=0&amp;eid=95397129%2C122880127%2C122880417&amp;oid=2&amp;pvsid=6108136695812592&amp;tmod=1392357419&amp;uas=0&amp;nvt=1&amp;fsapi=1&amp;fc=1920&amp;brdim=190%2C190%2C190%2C190%2C1600%2C0%2C1600%2C1285%2C1600%2C1200&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=32768&amp;bc=31&amp;plas=212x945_l%7C212x945_r&amp;bz=1&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=692" data-google-container-id="a!1" tabindex="0" title="Advertisement" aria-label="Advertisement" data-load-complete="true"></iframe></div></ins>
+    <script type="text/javascript">
+        var lang = {"del":"X\u00f3a","url":"URL","count":"Country","copied":"\u0110\u00e3 sao ch\u00e9p","geo":"Geotargeting data for","error":"Link b\u1ea1n v\u1eeba nh\u1eadp kh\u00f4ng h\u1ee3p l\u1ec7. H\u00e3y nh\u1eadp 1 link h\u1ee3p l\u1ec7 b\u1eaft \u0111\u1ea7u b\u1eb1ng http:\/\/ ho\u1eb7c https:\/\/","success":"\u0110\u01b0\u1eddng d\u1eabn r\u00fat g\u1ecdn \u0111\u00e3 \u0111\u01b0\u1ee3c t\u1ea1o th\u00e0nh c\u00f4ng. B\u1ea5m <strong>Sao ch\u00e9p<\/strong> ho\u1eb7c ph\u00edm <strong>CTRL+C<\/strong>","stats":"Xem th\u1ed1ng k\u00ea truy c\u1eadp c\u1ee7a link r\u00fat g\u1ecdn t\u1ea1i link sau","copy":"\u0110\u00e3 sao ch\u00e9p","from":"Redirect from","to":"Redirect to","share":"Chia s\u1ebb","congrats":"\u0110\u01b0\u1eddng d\u1eabn r\u00fat g\u1ecdn \u0111\u00e3 \u0111\u01b0\u1ee3c t\u1ea1o th\u00e0nh c\u00f4ng.","qr":"L\u01b0u QR Code","continue":"Ti\u1ebfp t\u1ee5c","cookie":"\ud83c\udf6a This website uses cookies to ensure you get the best experience on our website.","cookieok":"Got it!","cookiemore":"Xem th\u00eam","couponinvalid":"The coupon enter is not valid","minurl":"You must select at least 1 url.","minsearch":"Keyword must be more than 3 characters!","typed":["Marketers.","Influencers.","Youtubers.","Artists.","Corporate.","Everyone."],"modal":{"title":"Are you sure you want to proceed?","proceed":"Proceed","cancel":"Cancel","close":"\u0110\u00f3ng","content":"Note that this action is permanent. Once you click proceed, you <strong>may not undo<\/strong> this. Click anywhere outside this modal or click <a href='#close' class='close-modal'>close<\/a> to close this."}};
+  </script> 
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
+	<script>
+									$(document).ready(function() {
+										$('.thisCounter').counterUp();
+									});									
+								</script>
+	    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.6/typed.min.js"></script>
+    <script type="text/javascript" src="https://bitly.com.vn/themes/saas/assets/js/main.js"></script>
+	<!-- Google tag (gtag.js) -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MH273F4MDE"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-MH273F4MDE');
+	</script>	
+	
+	
+</body>

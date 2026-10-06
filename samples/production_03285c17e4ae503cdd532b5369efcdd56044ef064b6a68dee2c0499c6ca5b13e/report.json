@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.stralt.co.za/xc/true/",
+  "hostname": "www.stralt.co.za",
+  "checked_at": "2026-10-04T14:20:13.723089+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0b9dc-63bc-70ea-b6bf-d787b87cbcdb",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-19T13:30:30.416Z",
+  "scan_original_url": "http://stralt.co.za/",
+  "final_url": "https://www.stralt.co.za/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2614,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.595,
+  "discovery": {
+    "batch_id": "a8d14fc9cff1e6fe297f9cff84abea678889fcec49e63e08e158a5c519eda931",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

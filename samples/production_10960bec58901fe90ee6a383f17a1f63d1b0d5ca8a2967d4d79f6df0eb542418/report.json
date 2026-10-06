@@ -1,0 +1,27 @@
+{
+  "original_url": "https://abre.ai/c4Qe",
+  "hostname": "abre.ai",
+  "checked_at": "2026-10-04T14:56:12.394105+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 28,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0ddcc-ed70-7656-8000-3ceba9600e17",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-26T12:59:57.027Z",
+  "scan_original_url": "http://abre.ai/",
+  "final_url": "https://abre.ai/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1259,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 50.218,
+  "discovery": {
+    "batch_id": "c83f27c63d3a30bf5277324f43c279d5da042a05656f0ad1db105d4aa74d87df",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

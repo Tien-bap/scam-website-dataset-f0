@@ -1,0 +1,27 @@
+{
+  "original_url": "http://webuyitback.co.za/wp-admin/fb.com/FaceBook/",
+  "hostname": "webuyitback.co.za",
+  "checked_at": "2026-10-04T14:03:46.086881+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f948c-9a39-76b8-8f48-d0c983e70d2f",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-24T14:34:47.744Z",
+  "scan_original_url": "http://webuyitback.co.za/",
+  "final_url": "https://www.webuyitback.co.za/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1049,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 18.368,
+  "discovery": {
+    "batch_id": "1edd7de150a9320862658ae50d844f70386b4febf75d953178bb55063b81a64c",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_5556bbf8f10b6647f9a654ea0a5506db48519654c61ee07fa826907bf3e475d3",
+  "candidate_sha256": "13322f8a8cb6d97dd83cb88f53b962d5aeca36f11eb38a961176b8f19f6696ae",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://vnexpress.hanoivnpt.com",
+  "requested_url": "https://vnexpress.hanoivnpt.com",
+  "browser_final_url": "https://vnexpress.hanoivnpt.com/",
+  "source_urls": [
+    "https://vnexpress.hanoivnpt.com"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 373,
+      "source_url": "https://vnexpress.hanoivnpt.com",
+      "source_hostname": "vnexpress.hanoivnpt.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://vnexpress.hanoivnpt.com",
+      "final_hostname": "vnexpress.hanoivnpt.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 4929,
+      "elapsed_ms": 570,
+      "checked_at": "2026-10-05T12:17:40.691606+00:00",
+      "error": null,
+      "normalized_source_url": "https://vnexpress.hanoivnpt.com/",
+      "normalized_final_url": "https://vnexpress.hanoivnpt.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_5556bbf8f10b6647f9a654ea0a5506db48519654c61ee07fa826907bf3e475d3",
+    "representative_source_index": 373,
+    "representative_source_url": "https://vnexpress.hanoivnpt.com",
+    "representative_final_url": "https://vnexpress.hanoivnpt.com",
+    "normalized_final_url": "https://vnexpress.hanoivnpt.com/",
+    "source_hostname": "vnexpress.hanoivnpt.com",
+    "final_hostname": "vnexpress.hanoivnpt.com",
+    "source_urls": [
+      "https://vnexpress.hanoivnpt.com"
+    ],
+    "provenance": [
+      {
+        "source_index": 373,
+        "source_url": "https://vnexpress.hanoivnpt.com",
+        "source_hostname": "vnexpress.hanoivnpt.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://vnexpress.hanoivnpt.com",
+        "final_hostname": "vnexpress.hanoivnpt.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 4929,
+        "elapsed_ms": 570,
+        "checked_at": "2026-10-05T12:17:40.691606+00:00",
+        "error": null,
+        "normalized_source_url": "https://vnexpress.hanoivnpt.com/",
+        "normalized_final_url": "https://vnexpress.hanoivnpt.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "MU88 AE Casino Chính Thức",
+  "capture_timestamp": "2026-10-05T14:43:05.206243+00:00",
+  "dom_chars": 5357,
+  "screenshot_bytes": 943092,
+  "dom_sha256": "ae26ae24f729aef8a38eb4969a9aeea0bebdbc22472c047c6e7cbad650399a86",
+  "screenshot_sha256": "e4a338f0e7b7d9b1f82c32bf934f5892f636846ee54c727eaf288abf09941f53",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://vnexpress.hanoivnpt.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://vnexpress.hanoivnpt.com",
+    "browser_final_url": "https://vnexpress.hanoivnpt.com/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 2,
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3083
+}

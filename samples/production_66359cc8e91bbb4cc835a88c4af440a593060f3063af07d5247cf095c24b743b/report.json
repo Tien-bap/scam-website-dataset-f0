@@ -1,0 +1,21 @@
+{
+  "original_url": "vingroupfund.com",
+  "hostname": "vingroupfund.com",
+  "checked_at": "2026-10-04T10:34:07.325909+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "0195825f-aecd-7000-b59a-2f007cee59b6",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-10T23:24:31.960Z",
+  "scan_original_url": "http://vingroupfund.com/",
+  "final_url": "https://vingroupfund.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1673,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.251
+}

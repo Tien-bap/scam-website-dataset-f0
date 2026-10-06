@@ -1,0 +1,226 @@
+{
+  "candidate_id": "live_27251355ddfec3db605b76a8233459dc55a03cb4224b5afa79ebc21f1fe6f3dd",
+  "candidate_sha256": "265d45863b2ee20bfef72df8a476b1014cc79b432b1c6e37a599511c73c8ac20",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://bwmbjj.cashconsultores.com/",
+  "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+  "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+  "source_urls": [
+    "https://bwmbjj.cashconsultores.com/",
+    "https://pnvfgi.cashconsultores.com/"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 82929,
+      "source_url": "https://bwmbjj.cashconsultores.com/",
+      "source_hostname": "bwmbjj.cashconsultores.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 45550,
+      "elapsed_ms": 2249,
+      "checked_at": "2026-10-05T13:02:08.451810+00:00",
+      "error": null,
+      "normalized_source_url": "https://bwmbjj.cashconsultores.com/",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 118255,
+      "source_url": "https://pnvfgi.cashconsultores.com/",
+      "source_hostname": "pnvfgi.cashconsultores.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+      "final_hostname": "www.hugedomains.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 45550,
+      "elapsed_ms": 4750,
+      "checked_at": "2026-10-05T13:11:40.998603+00:00",
+      "error": null,
+      "normalized_source_url": "https://pnvfgi.cashconsultores.com/",
+      "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_27251355ddfec3db605b76a8233459dc55a03cb4224b5afa79ebc21f1fe6f3dd",
+    "representative_source_index": 82929,
+    "representative_source_url": "https://bwmbjj.cashconsultores.com/",
+    "representative_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+    "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+    "source_hostname": "bwmbjj.cashconsultores.com",
+    "final_hostname": "www.hugedomains.com",
+    "source_urls": [
+      "https://bwmbjj.cashconsultores.com/",
+      "https://pnvfgi.cashconsultores.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 82929,
+        "source_url": "https://bwmbjj.cashconsultores.com/",
+        "source_hostname": "bwmbjj.cashconsultores.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 45550,
+        "elapsed_ms": 2249,
+        "checked_at": "2026-10-05T13:02:08.451810+00:00",
+        "error": null,
+        "normalized_source_url": "https://bwmbjj.cashconsultores.com/",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 118255,
+        "source_url": "https://pnvfgi.cashconsultores.com/",
+        "source_hostname": "pnvfgi.cashconsultores.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+        "final_hostname": "www.hugedomains.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 45550,
+        "elapsed_ms": 4750,
+        "checked_at": "2026-10-05T13:11:40.998603+00:00",
+        "error": null,
+        "normalized_source_url": "https://pnvfgi.cashconsultores.com/",
+        "normalized_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 2,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "CashConsultores.com is for sale | HugeDomains",
+  "capture_timestamp": "2026-10-05T16:35:34.187075+00:00",
+  "dom_chars": 83765,
+  "screenshot_bytes": 96796,
+  "dom_sha256": "75e30dcd3a5e97662254cd50f93c8ee0a2e8deb364f96ef0a3ccc0da74df89aa",
+  "screenshot_sha256": "58d9ff026a13b499c808233f41cad0ebc77fbf9e2df24969a1a562aee4a4f276",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_parking_page"
+  ],
+  "navigation_chain": [
+    {
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+    "browser_final_url": "https://www.hugedomains.com/domain_profile.cfm?d=cashconsultores.com",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 5,
+    "resource": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 3490,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "timeout",
+    "original_capture_timestamp": "2026-10-05T14:37:54.729917+00:00",
+    "previous_report_sha256": "a3ec8bbd3133709c739374393bb425657d03de71f25a77216a6ab363af392f4f",
+    "recovered_at": "2026-10-05T16:35:34.187075+00:00",
+    "result": "complete"
+  }
+}

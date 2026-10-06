@@ -1,0 +1,21 @@
+{
+  "original_url": "vnvctuyendung.com",
+  "hostname": "vnvctuyendung.com",
+  "checked_at": "2026-10-04T10:34:53.374609+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "0195828f-78eb-7001-85e0-d693c92080a6",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-11T00:16:56.498Z",
+  "scan_original_url": "http://vnvctuyendung.com/",
+  "final_url": "https://www.vnvctuyendung.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 889,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.112
+}

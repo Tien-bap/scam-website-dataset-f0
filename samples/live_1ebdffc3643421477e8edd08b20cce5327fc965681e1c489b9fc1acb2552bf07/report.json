@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_1ebdffc3643421477e8edd08b20cce5327fc965681e1c489b9fc1acb2552bf07",
+  "candidate_sha256": "eae4281efb715ce5a19cc5b26dd64cdcd7be80a82e6ba79bcd06f991243a619d",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+  "requested_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+  "browser_final_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+  "source_urls": [
+    "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 111504,
+      "source_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+      "source_hostname": "a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+      "final_hostname": "a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 43440,
+      "elapsed_ms": 676,
+      "checked_at": "2026-10-05T13:14:09.182175+00:00",
+      "error": null,
+      "normalized_source_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+      "normalized_final_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_1ebdffc3643421477e8edd08b20cce5327fc965681e1c489b9fc1acb2552bf07",
+    "representative_source_index": 111504,
+    "representative_source_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+    "representative_final_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+    "normalized_final_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+    "source_hostname": "a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com",
+    "final_hostname": "a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com",
+    "source_urls": [
+      "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html"
+    ],
+    "provenance": [
+      {
+        "source_index": 111504,
+        "source_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+        "source_hostname": "a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+        "final_hostname": "a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 43440,
+        "elapsed_ms": 676,
+        "checked_at": "2026-10-05T13:14:09.182175+00:00",
+        "error": null,
+        "normalized_source_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+        "normalized_final_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "PayPal.Me",
+  "capture_timestamp": "2026-10-05T14:36:44.062114+00:00",
+  "dom_chars": 24910,
+  "screenshot_bytes": 60701,
+  "dom_sha256": "d7a3587e792d6822c087843d32e791e2fba85d39a883c520d27b650d75a09c6d",
+  "screenshot_sha256": "b1d8e0eabb3215a4a7c5b9d484f105692a8277a5662ed625bb6bb32ed61d00bb",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+    "browser_final_url": "http://a5f201cb-2489-40c2-849a-d843b004b723.htmlcomponentservice.com/get_draft?id=a5f201_ad2aa8d0b3931cdb3d212117521c80f8.html",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3922
+}

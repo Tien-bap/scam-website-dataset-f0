@@ -1,0 +1,27 @@
+{
+  "original_url": "https://doithecao.com.vn",
+  "hostname": "doithecao.com.vn",
+  "checked_at": "2026-10-04T13:34:40.602206+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fa1d3-81c8-707c-98c7-70c4d6c31058",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-07-27T04:27:36.520Z",
+  "scan_original_url": "http://doithecao.com.vn/",
+  "final_url": "https://doithecao.com.vn/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 8024,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.614,
+  "discovery": {
+    "batch_id": "ddc8b5fece87e904897f2093bcf7df79d3dc09abca81fb1b02381e0ecc5539e3",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

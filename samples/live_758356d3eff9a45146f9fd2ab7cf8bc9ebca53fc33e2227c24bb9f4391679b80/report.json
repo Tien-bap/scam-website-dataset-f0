@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_758356d3eff9a45146f9fd2ab7cf8bc9ebca53fc33e2227c24bb9f4391679b80",
+  "candidate_sha256": "69b5639dd11906520a4c7ddf16f7d4c08ca5b9ddf3724a94719d94c258582153",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://grup-viral-hot.duckdns.org/",
+  "requested_url": "http://grup-viral-hot.duckdns.org/",
+  "browser_final_url": "http://grup-viral-hot.duckdns.org/login",
+  "source_urls": [
+    "http://grup-viral-hot.duckdns.org/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 34337,
+      "source_url": "http://grup-viral-hot.duckdns.org/",
+      "source_hostname": "grup-viral-hot.duckdns.org",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://grup-viral-hot.duckdns.org/",
+      "final_hostname": "grup-viral-hot.duckdns.org",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 553,
+      "elapsed_ms": 2596,
+      "checked_at": "2026-10-05T12:47:35.986892+00:00",
+      "error": null,
+      "normalized_source_url": "http://grup-viral-hot.duckdns.org/",
+      "normalized_final_url": "http://grup-viral-hot.duckdns.org/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_758356d3eff9a45146f9fd2ab7cf8bc9ebca53fc33e2227c24bb9f4391679b80",
+    "representative_source_index": 34337,
+    "representative_source_url": "http://grup-viral-hot.duckdns.org/",
+    "representative_final_url": "http://grup-viral-hot.duckdns.org/",
+    "normalized_final_url": "http://grup-viral-hot.duckdns.org/",
+    "source_hostname": "grup-viral-hot.duckdns.org",
+    "final_hostname": "grup-viral-hot.duckdns.org",
+    "source_urls": [
+      "http://grup-viral-hot.duckdns.org/"
+    ],
+    "provenance": [
+      {
+        "source_index": 34337,
+        "source_url": "http://grup-viral-hot.duckdns.org/",
+        "source_hostname": "grup-viral-hot.duckdns.org",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://grup-viral-hot.duckdns.org/",
+        "final_hostname": "grup-viral-hot.duckdns.org",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 553,
+        "elapsed_ms": 2596,
+        "checked_at": "2026-10-05T12:47:35.986892+00:00",
+        "error": null,
+        "normalized_source_url": "http://grup-viral-hot.duckdns.org/",
+        "normalized_final_url": "http://grup-viral-hot.duckdns.org/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Usulan Alat Kesehatan",
+  "capture_timestamp": "2026-10-05T14:46:46.343265+00:00",
+  "dom_chars": 35389,
+  "screenshot_bytes": 394234,
+  "dom_sha256": "b6e2b9d3cd22214212e38f5de279b445ece8002ba1505d6f2a0a63977f6593f7",
+  "screenshot_sha256": "4582fb64cefc8346c3e39e408ca8ffb590a24f52475955aeabdec4a3f22fb83b",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://grup-viral-hot.duckdns.org/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://grup-viral-hot.duckdns.org/",
+    "browser_final_url": "http://grup-viral-hot.duckdns.org/login",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4000
+}

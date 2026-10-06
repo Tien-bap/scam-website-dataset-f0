@@ -1,0 +1,21 @@
+{
+  "original_url": "kbank.hotrokhachhang-khuyenmaithe-thang11.com.vn",
+  "hostname": "kbank.hotrokhachhang-khuyenmaithe-thang11.com.vn",
+  "checked_at": "2026-10-04T10:35:05.991138+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 2,
+  "selected_scan_uuid": "793ffef0-d3b3-4320-a506-b5b5acdc8334",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2024-11-15T08:29:08.044Z",
+  "scan_original_url": "https://kbank.hotrokhachhang-khuyenmaithe-thang11.com.vn/",
+  "final_url": "https://kbank.hotrokhachhang-khuyenmaithe-thang11.com.vn/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 7797,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.832
+}

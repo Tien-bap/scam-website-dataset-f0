@@ -1,0 +1,21 @@
+{
+  "original_url": "doitacchienluoc.com",
+  "hostname": "doitacchienluoc.com",
+  "checked_at": "2026-10-04T10:33:56.267408+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 8,
+  "candidates_checked": 5,
+  "selected_scan_uuid": "01972537-d4e6-73ce-b9e9-33ed92acb017",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-05-31T07:21:55.884Z",
+  "scan_original_url": "https://doitacchienluoc.com/",
+  "final_url": "https://www.0533win.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 10904,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 8.318
+}

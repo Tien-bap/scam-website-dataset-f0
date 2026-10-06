@@ -1,0 +1,27 @@
+{
+  "original_url": "https://dbs.applerewardsstore.com/",
+  "hostname": "dbs.applerewardsstore.com",
+  "checked_at": "2026-10-04T16:05:10.468653+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 2,
+  "selected_scan_uuid": "019f88ff-5178-7598-9c60-784711a1e9b2",
+  "match_kind": "exact_url",
+  "capture_timestamp": "2026-07-22T08:44:30.535Z",
+  "scan_original_url": "https://dbs.applerewardsstore.com/",
+  "final_url": "https://dbs.applerewardsstore.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2762,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 53.812,
+  "discovery": {
+    "batch_id": "db1aa8f27de42d43a0343bc46853780733c06c9591546d9bc1adde67d52b939f",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,2123 @@
+<!DOCTYPE html><html lang="vi"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <link rel="icon" type="image/x-icon" href="https://gmi.vietjet.net/images/meta-icon.ico">
+
+    <link rel="stylesheet" href="/wp-content/themes/flight-booking/style.css?ver=1.1.6" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/_fonts.css?ver=1.1" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/_keyframes.css?ver=1.0" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/_defined.css?ver=1.4" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/_reset.css?ver=1.0" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/header.css?ver=1.12" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/global.css?ver=1.5" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/home.css?ver=2.11" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/footer.css?ver=1.5" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/template/form-flight-search/form-choose-airports.css?ver=1.1.6" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/form-flight-search.css?ver=1.9" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/libs/custom/jquery-ui-custom.min.css?ver=1.1" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/datepicker.css?ver=1.11" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/libs/swiper.min.css?ver=6.8" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/template/chat-widget/chatBox.css?ver=1.0.1" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/template/home/content-3-banner.css?ver=1.1.3" as="style" onload="this.onload=null;this.rel='stylesheet'" media="screen"><noscript><link rel="stylesheet" href="/wp-content/themes/flight-booking/style.css?ver=1.1.6" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/_fonts.css?ver=1.1" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/_keyframes.css?ver=1.0" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/_defined.css?ver=1.4" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/_reset.css?ver=1.0" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/header.css?ver=1.12" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/global.css?ver=1.5" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/home.css?ver=2.11" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/footer.css?ver=1.5" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/template/form-flight-search/form-choose-airports.css?ver=1.1.6" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/form-flight-search.css?ver=1.9" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/libs/custom/jquery-ui-custom.min.css?ver=1.1" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/datepicker.css?ver=1.11" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/libs/swiper.min.css?ver=6.8" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/template/chat-widget/chatBox.css?ver=1.0.1" media="screen"><link rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/template/home/content-3-banner.css?ver=1.1.3" media="screen"></noscript>  <!-- SEO Meta Tag --><title>Săn vé máy bay giá rẻ, đặt vé đoàn</title><meta name="description" content="Đại lý vé máy bay trong nước và quốc tế. Tìm chuyến bay theo cách của bạn, chuyện còn lại để chúng tôi lo. Cần là có, tìm là thấy giá vé."><meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"><link rel="canonical" href="https://vietjet.net">
+<meta property="og:locale" content="vi_VN"><meta property="og:type" content="website"><meta property="og:site_name" content="Săn vé máy bay Vietjet net"><meta property="og:title" content="Săn vé máy bay giá rẻ, đặt vé đoàn"><meta property="og:description" content="Đại lý vé máy bay trong nước và quốc tế. Tìm chuyến bay theo cách của bạn, chuyện còn lại để chúng tôi lo. Cần là có, tìm là thấy giá vé."><meta property="og:url" content="https://vietjet.net"><meta property="og:image" content="https://gmi.vietjet.net/uploads/2024/10/Ve-may-bay-Vietjet-net-1.webp"><meta property="og:image:secure_url" content="https://gmi.vietjet.net/uploads/2024/10/Ve-may-bay-Vietjet-net-1.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:type" content="image/webp"><!-- End SEO Meta Tag --><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-9QVGHLVBDW&amp;cx=c&amp;gtm=4e6a10h2"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-17128393072&amp;cx=c&amp;gtm=4e6a10h2"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NCSR25TM"></script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TravelAgency",
+  "name": "Công ty TNHH Minh Hồng Võ",
+  "slogan": "Săn vé máy bay giá rẻ, đặt vé đoàn trong nước quốc tế",
+  "description": "Tìm chuyến bay theo cách của bạn, chuyện còn lại để chúng tôi lo. Giá vé máy bay hôm nay, ngày mai và trong tháng. Cần là có, tìm là thấy giá",
+  "logo": "https://gmi.vietjet.net/images/vietjet-net-logo.svg",
+  "image": "https://gmi.vietjet.net/uploads/2024/10/Ve-may-bay-Vietjet-net-1.webp",
+  "@id": "https://vietjet.net/#agency",
+  "url": "https://vietjet.net/",
+  "sameAs": [
+    "https://www.linkedin.com/company/vietjetnet",
+    "https://x.com/vietjetnet",
+    "https://medium.com/@vietjetnet",
+    "https://www.behance.net/vietjetnet",
+    "https://www.instagram.com/vietjetnet",
+    "https://www.pinterest.com/vietjetnet",
+    "https://www.tumblr.com/vietjetnet",
+    "https://about.me/vietjetnet"
+  ],
+  "telephone": "+84919330802",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "252/12 Nguyen Thuong Hien Street, Ward 1, Go Vap District",
+    "addressLocality": "Ho Chi Minh City",
+    "postalCode": "71410",
+    "addressCountry": "VN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "10.807319",
+    "longitude": "106.683800"
+  },
+  "priceRange": "600000 VND - 10000000 VND",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "08:00",
+      "closes": "21:00"
+    }
+  ]
+}
+</script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NCSR25TM');</script>
+<!-- End Google Tag Manager --><link rel="dns-prefetch" href="//gmi.vietjet.net">
+<script type="text/javascript" id="jquery-core-js-extra">
+/* <![CDATA[ */
+var gb_var = {"siteurl":"https:\/\/vietjet.net","tempurl":"\/wp-content\/themes\/flight-booking","images_dir":"https:\/\/gmi.vietjet.net\/images","uploads_dir":"https:\/\/gmi.vietjet.net\/uploads","tempurl_images":"https:\/\/gmi.vietjet.net\/images\/airlines","session_fl_btn_search":"6bddbea1f9e168845f","endpoint_ajax":"https:\/\/vietjet.net\/ajax"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vietjet.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/libs/custom/jquery-ui-custom.min.js?ver=1.1" id="jquery-ui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/home.js?ver=1.14" id="home-js" defer="defer" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://vietjet.net/wp-json/">            <link fetchpriority="high" rel="preload" href="https://gmi.vietjet.net/images/logo.webp" as="image" type="image/webp">
+        <link fetchpriority="high" rel="preload" href="https://gmi.vietjet.net/uploads/2026/05/du-lich-he-gia-dinh.webp" as="image" type="image/webp">
+ <link fetchpriority="high" rel="preload" href="https://gmi.vietjet.net/uploads/2022/07/ve-may-bay-ha-noi-phu-quoc.webp" as="image" type="image/webp">
+<link fetchpriority="high" rel="preload" href="https://gmi.vietjet.net/uploads/2026/05/dat-ve-doan-sai-gon-nha-trang-1-scaled.webp" as="image" type="image/webp">    <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17128393072/?random=1791212045207&amp;cv=11&amp;fst=1791212045207&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be6a10h2v9221710167z89208623976za20gzb9208623976zd9208623976xecxf1&amp;gcd=13l3l3R3l5l1&amp;dma=0&amp;tag_exp=115938465~115938468~117227716~118897920~118897930~120213116~120385423~120469145~120469153~121280970&amp;u_w=1365&amp;u_h=768&amp;url=https%3A%2F%2Fvietjet.net%2F&amp;rcb=4&amp;frm=0&amp;tiba=S%C4%83n%20v%C3%A9%20m%C3%A1y%20bay%20gi%C3%A1%20r%E1%BA%BB%2C%20%C4%91%E1%BA%B7t%20v%C3%A9%20%C4%91o%C3%A0n&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=2071369690.1791212045&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&amp;uamb=0&amp;uam=&amp;uap=Linux&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script><link id="Loading-css" rel="stylesheet" href="/wp-content/themes/flight-booking/assets/css/elements/Loading.css?ver=1.1"><style id="support-widget-styles">
+                :root {
+                    --chat-primary: #1F7A4D;
+                    --chat-bg: #f6fbf4;
+                    --chat-surface: #ffffff;
+                    --chat-border: #E2E5E4;
+                    --chat-text: #1A1F1C;
+                    --chat-text-muted: #6B7670;
+                    --chat-agent-bubble: #e5e9e3;
+                    --chat-user-bubble: var(--chat-primary);
+                }
+                #sw-container {
+                    position: fixed;
+                    bottom: 120px;
+                    right: 24px;
+                    z-index: 22;
+                    font-family: 'Inter', sans-serif, Arial;
+                    color: var(--chat-text);
+                }
+                .sw-launcher {
+                    width: 54px; height: 54px;
+                    cursor: pointer;
+                    transition: transform 0.2s ease, opacity 0.2s;
+                    position: absolute; bottom: 0; right: -1px;
+                    z-index: 24 !important;
+                    -webkit-backface-visibility: hidden;
+                    backface-visibility: hidden;
+                    -webkit-transform: translateZ(0);
+                    transform: translateZ(0);
+                }
+                .sw-launcher:hover { transform: scale(1.05); }
+                .sw-launcher.sw-hidden { opacity: 0; pointer-events: none; transform: scale(0.8); }
+                .sw-launcher-circle, .sw-launcher-circle-fill {
+                    border-radius: 100%;
+                    transition: .5s;
+                    position: absolute;
+                    transform-origin: 50% 50%;
+                }
+                .sw-launcher-circle {
+                    top: 0; left: 0; width: 60px; height: 60px;
+                    border: 2px solid var(--chat-primary);
+                    -webkit-animation: 1.2s ease-in-out infinite btn-wschat-circle-animation;
+                    animation: 1.2s ease-in-out infinite btn-wschat-circle-animation;
+                    opacity: .5;
+                }
+                .sw-launcher-circle-fill {
+                    width: 50px; height: 50px; top: 5px; left: 5px;
+                    border: 2px solid transparent;
+                    -webkit-animation: 2.3s ease-in-out infinite btn-wschat-circle-fill-animation;
+                    animation: 2.3s ease-in-out infinite btn-wschat-circle-fill-animation;
+                    background-color: var(--chat-primary);
+                    opacity: .4 !important;
+                }
+                .sw-launcher-icon {
+                    width: 40px; height: 40px; top: 10px; left: 10px;
+                    position: absolute;
+                    border-radius: 100%;
+                    background-color: var(--chat-primary);
+                    color: white;
+                    display: flex; align-items: center; justify-content: center;
+                    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+                    -webkit-animation: 1s ease-in-out infinite btn-wschat-img-circle-animation;
+                    animation: 1s ease-in-out infinite btn-wschat-img-circle-animation;
+                    transform-origin: 50% 50%;
+                }
+                .sw-launcher-icon svg {
+                    width: 24px; height: 24px;
+                }
+                .sw-badge {
+                    position: absolute; top: -4px; right: -4px;
+                    background-color: #FF0000; color: white;
+                    font-size: 10px; font-weight: bold;
+                    width: 18px; height: 18px; border-radius: 50%;
+                    display: flex; align-items: center; justify-content: center;
+                    border: 2px solid white;
+                    z-index: 10;
+                }
+                .sw-notification-bubble {
+                    position: absolute;
+                    bottom: 60px;
+                    right: -7px;
+                    width: 290px;
+                    background-color: var(--chat-surface);
+                    border: 1px solid var(--chat-border);
+                    border-radius: 16px;
+                    padding: 12px 30px 12px 16px;
+                    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+                    font-size: 14px;
+                    line-height: 1.5;
+                    color: var(--chat-text);
+                    z-index: 25;
+                    transition: opacity 0.3s ease, transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+                    opacity: 0;
+                    transform: translateY(12px) scale(0.95);
+                    pointer-events: none;
+                }
+                .sw-notification-bubble.sw-show {
+                    opacity: 1;
+                    transform: translateY(0) scale(1);
+                    pointer-events: auto;
+                }
+                .sw-notification-bubble::after {
+                    content: '';
+                    position: absolute;
+                    bottom: -8px;
+                    right: 22px;
+                    width: 0;
+                    height: 0;
+                    border-left: 8px solid transparent;
+                    border-right: 8px solid transparent;
+                    border-top: 8px solid var(--chat-surface);
+                }
+                .sw-notification-bubble::before {
+                    content: '';
+                    position: absolute;
+                    bottom: -9px;
+                    right: 22px;
+                    width: 0;
+                    height: 0;
+                    border-left: 8px solid transparent;
+                    border-right: 8px solid transparent;
+                    border-top: 8px solid var(--chat-border);
+                }
+                .sw-notification-close {
+                    position: absolute;
+                    top: 8px;
+                    right: 8px;
+                    width: 20px;
+                    height: 20px;
+                    border: none;
+                    background: transparent;
+                    cursor: pointer;
+                    color: var(--chat-text-muted);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    padding: 0;
+                    border-radius: 50%;
+                    transition: background-color 0.2s, color 0.2s;
+                }
+                .sw-notification-close:hover {
+                    background-color: var(--chat-agent-bubble);
+                    color: var(--chat-text);
+                }
+                .sw-notification-close svg {
+                    width: 12px;
+                    height: 12px;
+                }
+
+                @keyframes btn-wschat-circle-animation {
+                    0% { transform: rotate(0) scale(.5) skew(1deg); opacity: .1 }
+                    30% { transform: rotate(0) scale(.7) skew(1deg); opacity: .5 }
+                    100% { transform: rotate(0) scale(1) skew(1deg); opacity: .1 }
+                }
+                @-webkit-keyframes btn-wschat-circle-animation {
+                    0% { -webkit-transform: rotate(0) scale(.5) skew(1deg); opacity: .1 }
+                    30% { -webkit-transform: rotate(0) scale(.7) skew(1deg); opacity: .5 }
+                    100% { -webkit-transform: rotate(0) scale(1) skew(1deg); opacity: .1 }
+                }
+                @keyframes btn-wschat-circle-fill-animation {
+                    0%, 100% { transform: rotate(0) scale(.7) skew(1deg); opacity: .2 }
+                    50% { transform: rotate(0) scale(1) skew(1deg); opacity: .2 }
+                }
+                @-webkit-keyframes btn-wschat-circle-fill-animation {
+                    0%, 100% { -webkit-transform: rotate(0) scale(.7) skew(1deg); opacity: .2 }
+                    50% { -webkit-transform: rotate(0) scale(1) skew(1deg); opacity: .2 }
+                }
+                @keyframes btn-wschat-img-circle-animation {
+                    0%, 50%, 100% { transform: rotate(0) scale(1) skew(1deg) }
+                    10%, 30% { transform: rotate(-25deg) scale(1) skew(1deg) }
+                    20%, 40% { transform: rotate(25deg) scale(1) skew(1deg) }
+                }
+                @-webkit-keyframes btn-wschat-img-circle-animation {
+                    0%, 50%, 100% { -webkit-transform: rotate(0) scale(1) skew(1deg) }
+                    10%, 30% { -webkit-transform: rotate(-25deg) scale(1) skew(1deg) }
+                    20%, 40% { -webkit-transform: rotate(25deg) scale(1) skew(1deg) }
+                }
+
+                .sw-panel {
+                    width: 350px; height: 480px;
+                    background-color: var(--chat-surface); border-radius: 28px;
+                    box-shadow: 0 12px 48px rgba(0,0,0,0.15);
+                    display: flex; flex-direction: column; overflow: hidden;
+                    position: absolute; bottom: 0; right: 0;
+                    transform-origin: bottom right;
+                    transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.3s ease;
+                    opacity: 0; pointer-events: none;
+                    transform: scale(0.85) translateY(20px);
+                    overscroll-behavior: contain;
+                }
+                .sw-panel.sw-active {
+                    opacity: 1; pointer-events: all;
+                    transform: scale(1) translateY(0);
+                }
+
+                @keyframes slideInRight {
+                    from { opacity: 0; transform: translateX(20px) scale(0.95); }
+                    to   { opacity: 1; transform: translateX(0) scale(1); }
+                }
+                @keyframes slideInLeft {
+                    from { opacity: 0; transform: translateX(-20px) scale(0.95); }
+                    to   { opacity: 1; transform: translateX(0) scale(1); }
+                }
+                @keyframes slideUpFade {
+                    from { opacity: 0; transform: translateY(10px); }
+                    to   { opacity: 1; transform: translateY(0); }
+                }
+
+                .sw-header {
+                    background-color: var(--chat-primary); height: 40px;
+                    display: flex; align-items: center; justify-content: space-between;
+                    padding: 0 16px; flex-shrink: 0; color: white;
+                    position: relative; z-index: 1;
+                }
+                .sw-header-info { display: flex; align-items: center; gap: 12px; min-width: 0; }
+                .sw-header-icon {
+                    width: 38px; height: 38px; border-radius: 50%;
+                    border: 1px solid rgba(255,255,255,0.55);
+                    background: rgba(255,255,255,0.16);
+                    color: white; display: flex; align-items: center; justify-content: center;
+                    flex: 0 0 auto;
+                }
+                .sw-header-icon svg { width: 20px; height: 20px; }
+                .sw-header-text { display: flex; gap: 20px; }
+                .sw-header-text h3 { margin: 0; font-size: 20px; font-weight: 600; line-height: 1.2; }
+                .sw-status { font-size: 18px; opacity: 0.9; display: flex; align-items: center; gap: 4px; font-weight: 600; }
+                .sw-status-dot { width: 16px; height: 16px; background-color: #4ade80; border: 1px solid rgba(255,255,255,0.5); border-radius: 50%; }
+                .sw-status-dot--offline { background-color: #f59e0b; animation: swStatusPulse 1.5s ease-in-out infinite; }
+                @keyframes swStatusPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+
+                .sw-btn-close {
+                    background: transparent; border: none; color: white; cursor: pointer;
+                    width: 40px; height: 40px; border-radius: 50%;
+                    display: flex; align-items: center; justify-content: center;
+                }
+                .sw-btn-close:hover { background-color: rgba(255,255,255,0.1); }
+
+                .sw-prechat {
+                    position: absolute; top: calc(64px + env(safe-area-inset-top, 0px)); left: 0; right: 0; bottom: 0;
+                    background: var(--chat-bg); z-index: 10;
+                    display: flex; flex-direction: column;
+                    align-items: center; justify-content: center;
+                    padding: 32px 24px; gap: 14px;
+                    overscroll-behavior: contain;
+                }
+                .sw-prechat.sw-hidden { display: none; }
+                .sw-prechat p {
+                    margin: 0; text-align: center;
+                    font-size: 14px; line-height: 1.6; color: var(--chat-text);
+                }
+                .sw-prechat-input {
+                    width: 100%; height: 44px; box-sizing: border-box;
+                    border: 1px solid var(--chat-border); border-radius: 22px;
+                    padding: 0 16px; font-size: 14px; outline: none;
+                    background: var(--chat-surface); color: var(--chat-text);
+                    transition: border-color 0.2s, box-shadow 0.2s;
+                }
+                .sw-prechat-input:focus {
+                    border-color: var(--chat-primary);
+                    box-shadow: 0 0 0 2px rgba(31, 122, 77, 0.1);
+                }
+                .sw-prechat-error {
+                    font-size: 12px; color: #e53e3e;
+                    text-align: center; min-height: 16px; margin: -4px 0;
+                }
+                .sw-prechat-btn {
+                    width: 100%; height: 44px;
+                    background: var(--chat-primary); color: white;
+                    border: none; border-radius: 22px;
+                    font-size: 15px; font-weight: 600; cursor: pointer;
+                    transition: opacity 0.2s, transform 0.2s;
+                }
+                .sw-prechat-btn:hover { opacity: 0.9; transform: translateY(-1px); }
+                .sw-prechat-btn:active { transform: translateY(0); }
+
+                .sw-messages {
+                    flex: 1; background-color: var(--chat-bg); padding: 16px;
+                    overflow-y: auto; overflow-x: hidden; display: flex; flex-direction: column;
+                    overscroll-behavior: contain;
+                }
+                .sw-messages::-webkit-scrollbar { width: 6px; }
+                .sw-messages::-webkit-scrollbar-thumb { background-color: #ccc; border-radius: 3px; }
+
+                .sw-msg-row { display: flex; align-items: flex-end; gap: 8px; width: 100%; margin-top: 16px; }
+                .sw-msg-row:first-child { margin-top: 0; }
+                .sw-msg-row.sw-grouped { margin-top: 2px; }
+                .sw-msg-row.sw-out { justify-content: flex-end; animation: slideInRight 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) forwards; }
+                .sw-msg-row.sw-in  { animation: slideInLeft 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) forwards; }
+                .sw-msg-row.sw-msg-failed .sw-bubble-out { opacity: 0.75; box-shadow: 0 0 0 1px #dc2626 inset; }
+                .sw-resend-btn { background: none; border: none; color: #dc2626; cursor: pointer; font-size: 11px; padding: 0; margin-left: 4px; text-decoration: underline; }
+                .sw-resend-btn:hover { opacity: 0.8; }
+                .sw-msg-avatar { width: 28px; height: 28px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
+                .sw-local-typing-bubble {
+                    align-items: center; background-color: var(--chat-agent-bubble);
+                    border-radius: 20px; border-bottom-left-radius: 4px;
+                    display: flex; gap: 4px; min-height: 34px; padding: 0 14px;
+                }
+                .sw-local-typing-dot {
+                    animation: swTypingDot 1.2s infinite ease-in-out;
+                    background: var(--chat-text-muted); border-radius: 50%;
+                    display: block; height: 5px; opacity: .35; width: 5px;
+                }
+                .sw-local-typing-dot:nth-child(2) { animation-delay: .16s; }
+                .sw-local-typing-dot:nth-child(3) { animation-delay: .32s; }
+                @keyframes swTypingDot {
+                    0%, 80%, 100% { opacity: .35; transform: translateY(0); }
+                    40% { opacity: 1; transform: translateY(-3px); }
+                }
+                .sw-bubble {
+                    position: relative; cursor: pointer; outline: none;
+                    padding: 10px 16px; border-radius: 20px;
+                    font-size: 14px; line-height: 1.4; 
+                    word-wrap: break-word; overflow-wrap: break-word;
+                    width: fit-content; max-width: 100%; box-sizing: border-box;
+                }
+                .sw-bubble-in  { background-color: var(--chat-agent-bubble); border-bottom-left-radius: 4px; }
+                .sw-bubble-out { background-color: var(--chat-user-bubble); color: white; border-bottom-right-radius: 4px; }
+                /* Khối code: mặt tối cố định, vì nó nằm trong bubble màu của cả
+                   hai phía. Giữ khớp với .msgr-code-block bên Messenger. */
+                .sw-code-block {
+                    margin: 4px 0; overflow: hidden; border-radius: 8px;
+                    border: 1px solid rgba(255,255,255,0.12);
+                    background-color: #1b2027; color: #e3e6ea;
+                }
+                .sw-code-head {
+                    display: flex; align-items: center; justify-content: space-between;
+                    gap: 8px; padding: 4px 8px 4px 10px;
+                    background-color: rgba(255,255,255,0.06);
+                }
+                .sw-code-lang { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11px; color: #9aa4b2; }
+                .sw-code-copy {
+                    border: 0; background: none; cursor: pointer; border-radius: 6px;
+                    padding: 2px 6px; font-size: 11px; color: #9aa4b2;
+                }
+                .sw-code-copy:hover { background-color: rgba(255,255,255,0.08); }
+                .sw-code-block pre {
+                    margin: 0; padding: 10px 12px; overflow-x: auto;
+                    /* pre chứ không pre-wrap: thụt lề mới là thứ cần giữ. */
+                    white-space: pre;
+                    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                    font-size: 12px; line-height: 1.5;
+                }
+                .sw-code-block code { font: inherit; background: none; padding: 0; }
+                /* Trích dẫn: xám cố định chứ không currentColor, vì .sw-bubble-out
+                   là nền màu chữ trắng nên viền theo currentColor sẽ chìm hẳn.
+                   Bắt buộc gắn với blockquote: card báo giá cũng mang class
+                   .sw-quote, dính padding của rule này là lệch nguyên card. */
+                blockquote.sw-quote {
+                    margin: 4px 0; padding: 2px 0 2px 10px; border-radius: 0 6px 6px 0;
+                    border-left: 3px solid rgba(127,127,127,0.45);
+                    background-color: rgba(127,127,127,0.10);
+                }
+                .sw-bubble-italic { font-style: italic; }
+                .sw-timestamp  { font-size: 11px; color: var(--chat-text-muted); text-align: right; margin-top: 4px; margin-right: 4px; }
+                
+                .sw-time-tooltip {
+                    position: absolute; top: 50%; transform: translateY(-50%);
+                    font-size: 11px; background: rgba(0,0,0,0.7); color: #fff;
+                    padding: 4px 8px; border-radius: 12px; white-space: nowrap;
+                    opacity: 0; pointer-events: none; transition: opacity 0.2s ease; z-index: 10;
+                }
+                .sw-bubble-out .sw-time-tooltip { right: 100%; margin-right: 8px; }
+                .sw-bubble-in .sw-time-tooltip  { left: 100%; margin-left: 8px; }
+                .sw-bubble:hover .sw-time-tooltip, .sw-bubble:focus .sw-time-tooltip { opacity: 1; }
+                .sw-system-msg { width: 100%; text-align: center; font-size: 12px; color: var(--chat-text-muted); padding: 4px 0; font-style: italic; }
+
+                /* ── Trích dẫn tin được reply (chỉ tin của tư vấn viên) ── */
+                .sw-reply-quote {
+                    display: flex; flex-direction: column; gap: 2px; cursor: pointer;
+                    max-width: 100%; box-sizing: border-box; margin-bottom: 6px;
+                    padding: 6px 12px; border-left: 3px solid var(--chat-primary);
+                    background-color: rgba(0,0,0,0.05); border-radius: 8px;
+                    font-size: 12px; line-height: 1.4; transition: background-color 0.15s ease;
+                }
+                .sw-reply-quote:hover { background-color: rgba(0,0,0,0.09); }
+                .sw-reply-author { font-weight: 600; color: var(--chat-primary); }
+                .sw-reply-text { color: var(--chat-text-muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+                .sw-reply-quote.sw-reply-missing { color: var(--chat-text-muted); font-style: italic; cursor: default; }
+                .sw-reply-quote.sw-reply-missing:hover { background-color: rgba(0,0,0,0.05); }
+                .sw-msg-row.sw-msg-highlight .sw-bubble { animation: swHighlight 1.5s ease; }
+                @keyframes swHighlight {
+                    0%, 60% { box-shadow: 0 0 0 2px var(--chat-primary); }
+                    100% { box-shadow: 0 0 0 2px rgba(0,0,0,0); }
+                }
+
+                /* ── Link detection styles ── */
+                .sw-bubble a.sw-link {
+                    color: #0f7bf3;
+                    text-decoration: underline;
+                    word-break: break-all;
+                    cursor: pointer;
+                }
+                .sw-bubble a.sw-link:hover { opacity: 0.82; }
+                /* Link trong bubble của user (nền xanh đậm) — sáng hơn để đọc được */
+                .sw-bubble-out a.sw-link { color: #c7e3ff; }
+                .sw-bubble-out a.sw-link:hover { color: #ffffff; }
+                /* Domain nhạy cảm */
+                .sw-bubble .sw-link-warn {
+                    color: #e53e3e;
+                    cursor: default;
+                    font-style: italic;
+                    word-break: break-all;
+                }
+                .sw-bubble-out .sw-link-warn { color: #ffb3b3; }
+
+                .sw-btn-attach { display: none; }
+                .sw-file-input { display: none; }
+                .sw-preview-area { display: none !important; }
+
+                .sw-msg-image {
+                    max-width: 100%; border-radius: 12px; margin-bottom: 6px;
+                    cursor: pointer; border: 1px solid var(--chat-border); transition: filter 0.2s;
+                }
+                .sw-msg-image:hover { filter: brightness(0.95); }
+
+                .ec-cw__file-card { align-items: center; background: #fff; border: 1px solid var(--chat-border); border-radius: 10px; color: var(--chat-text); display: flex; gap: 10px; max-width: 260px; min-width: 180px; padding: 10px 12px; text-decoration: none; margin-bottom: 6px; }
+                .ec-cw__file-card:hover { background: #f8fafc; }
+                .ec-cw__file-card-icon { flex: none; font-size: 22px; line-height: 1; }
+                .ec-cw__file-card-info { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+                .ec-cw__file-card-name { font-size: 13px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+                .ec-cw__file-card-ext { color: #64748b; font-size: 11px; font-weight: 700; letter-spacing: .3px; text-transform: uppercase; }
+
+                .sw-input-area {
+                    min-height: 56px; background-color: var(--chat-surface);
+                    border-top: 1px solid var(--chat-border);
+                    display: flex; align-items: flex-end; padding: 8px 16px; gap: 8px; flex-shrink: 0;
+                }
+                .sw-input-box {
+                    flex: 1; min-height: 40px; background-color: #f1f5ee; border-radius: 20px;
+                    display: flex; align-items: center; padding: 10px 16px; box-sizing: border-box;
+                    border: 1px solid var(--chat-border); transition: border-color 0.2s, box-shadow 0.2s;
+                }
+                .sw-input-box:focus-within {
+                    border-color: var(--chat-primary);
+                    box-shadow: 0 0 0 2px rgba(31, 122, 77, 0.1);
+                }
+                .sw-input-box textarea {
+                    width: 100% !important; background: transparent !important; 
+                    border: none !important; outline: none !important; box-shadow: none !important;
+                    font-size: 14px !important; color: var(--chat-text) !important; resize: none !important;
+                    font-family: inherit !important; line-height: 20px !important; height: 20px;
+                    max-height: 100px; overflow-y: auto !important; 
+                    box-sizing: border-box !important; padding: 0 !important; margin: 0 !important;
+                }
+                .sw-btn-send {
+                    width: 40px; height: 40px; border-radius: 50%; border: none;
+                    display: flex; align-items: center; justify-content: center;
+                    cursor: pointer; transition: background 0.2s, transform 0.2s;
+                    background-color: var(--chat-primary); color: white;
+                }
+                .sw-btn-send:not(:disabled):hover  { transform: scale(1.1); }
+                .sw-btn-send:not(:disabled):active { transform: scale(0.95); }
+                .sw-btn-send:disabled { background-color: var(--chat-border); color: var(--chat-text-muted); cursor: not-allowed; }
+
+                html.sw-body-lock, body.sw-body-lock {
+                    overflow: hidden !important;
+                }
+                body.sw-body-lock-fixed {
+                    position: fixed !important;
+                    width: 100% !important;
+                    top: var(--sw-scroll-y, 0) !important;
+                    left: 0 !important;
+                    overflow: hidden !important;
+                    touch-action: none !important;
+                }
+                .sw-session-overlay {
+                    position: absolute;
+                    inset: 0;
+                    background: rgba(0,0,0,0.55);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    z-index: 99;
+                    border-radius: inherit;
+                }
+                .sw-session-overlay__box {
+                    background: #fff;
+                    border-radius: 12px;
+                    padding: 24px 20px;
+                    text-align: center;
+                    max-width: 240px;
+                }
+                .sw-session-overlay__msg {
+                    margin: 0 0 16px;
+                    font-size: 14px;
+                    color: #333;
+                }
+                .sw-session-overlay__btn {
+                    background: var(--chat-primary);
+                    color: #fff;
+                    border: none;
+                    border-radius: 8px;
+                    padding: 10px 24px;
+                    font-size: 14px;
+                    cursor: pointer;
+                }
+                .sw-session-overlay__btn:hover { opacity: 0.88; }
+
+                .sw-quote-select:disabled {
+                    opacity: 0.5 !important;
+                    cursor: not-allowed !important;
+                }
+                .sw-quote-select.selected {
+                    background: #e0e0e0 !important;
+                    color: #757575 !important;
+                    border: 1px solid #d6d6d6 !important;
+                }
+                /* "Xem thêm N chuyến" trông như nút nên bỏ tam giác của WebKit cũ;
+                   tiêu đề chiều đi/về thì giữ tam giác làm affordance. */
+                .sw-quote-more > summary::-webkit-details-marker { display: none; }
+                /* Mở rồi thì nút thành "Thu gọn" và tụt xuống dưới danh sách vừa bung
+                   (order trên flex container), để không đọc nhầm là còn chuyến nữa. */
+                .sw-quote-more[open] { display: flex; flex-direction: column; }
+                .sw-quote-more[open] > summary { order: 1; }
+                .sw-quote-more[open] > summary .sw-quote-more-show { display: none; }
+                .sw-quote-more[open] > summary .sw-quote-more-hide { display: inline !important; }
+
+                .sw-image-viewer-trigger {
+                    background: none; border: none; padding: 0; cursor: pointer; display: block; width: fit-content; margin-bottom: 6px; border-radius: 12px; overflow: hidden;
+                }
+                .sw-image-viewer-trigger .sw-msg-image { margin-bottom: 0; }
+
+                .sw-header-actions { display: flex; align-items: center; gap: 4px; }
+
+                /* Expand/collapse btn ẩn trên desktop, chỉ hiện khi media query mobile override */
+                .sw-btn-expand { display: none; }
+                .sw-btn-expand {
+                    background: transparent; border: none; color: white; cursor: pointer;
+                    width: 40px; height: 40px; border-radius: 50%;
+                    display: none; align-items: center; justify-content: center;
+                }
+                .sw-btn-expand:hover { background-color: rgba(255,255,255,0.1); }
+
+                @media (max-width: 578px) {
+                    /* ── Keyframes cho expand / collapse ── */
+                    @keyframes sw-expand {
+                        from { transform: scale(0.93); opacity: 0.85; }
+                        to   { transform: scale(1);    opacity: 1; }
+                    }
+                    @keyframes sw-collapse {
+                        from { transform: scale(1.05); opacity: 0.9; }
+                        to   { transform: scale(1);    opacity: 1; }
+                    }
+
+                    /* ── Bottom sheet (mặc định mobile) ── */
+                    .sw-panel {
+                        position: fixed;
+                        bottom: 16px; left: 16px; right: 16px;
+                        top: auto; width: 88%;
+                        margin: auto;
+                        height: 60%; max-height: 70%;
+                        border-radius: 16px;
+                        transform-origin: bottom center;
+                        z-index: 22;
+                        /* transition layout properties cho expand/collapse */
+                        transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+                                    opacity 0.3s ease,
+                                    border-radius 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+                                    bottom 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+                                    left   0.35s cubic-bezier(0.4, 0, 0.2, 1),
+                                    right  0.35s cubic-bezier(0.4, 0, 0.2, 1),
+                                    height 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+                    }
+                    /* animation classes — JS add/remove sau mỗi toggle */
+                    .sw-panel.sw-anim-expand   { animation: sw-expand   0.35s cubic-bezier(0.34, 1.3, 0.64, 1) forwards; }
+                    .sw-panel.sw-anim-collapse { animation: sw-collapse  0.3s  cubic-bezier(0.4, 0, 0.2, 1)    forwards; }
+
+                    /* ── Full screen khi user bấm expand ── */
+                    .sw-panel.sw-fullscreen {
+                        top: 0; left: 0; right: 0; bottom: 0;
+                        max-height: 100dvh;
+                        width: 100%; height: 100%;
+                        border-radius: 0;
+                        transform-origin: bottom center;
+                    }
+                    /* ── Prechat mode: dialog căng giữa màn hình ── */
+                    .sw-panel.sw-prechat-mode {
+                        top: 50% !important;
+                        bottom: auto !important;
+                        left: 16px !important;
+                        right: 16px !important;
+                        width: auto !important;
+                        height: auto !important;
+                        min-height: 0 !important;
+                        max-height: none !important;
+                        transform: translateY(-50%) !important;
+                        border-radius: 16px !important;
+                        box-shadow: 0 12px 40px rgba(0,0,0,0.2) !important;
+                    }
+                    .sw-panel.sw-prechat-mode .sw-header {
+                        border-radius: 16px 16px 0 0 !important;
+                    }
+                    .sw-panel.sw-prechat-mode .sw-btn-expand { display: none !important; }
+                    .sw-panel.sw-prechat-mode .sw-prechat {
+                        position: relative !important;
+                        top: auto !important; left: auto !important; right: auto !important; bottom: auto !important;
+                        border-radius: 0 0 16px 16px !important;
+                        padding-bottom: 24px !important;
+                    }
+                    .sw-panel.sw-prechat-mode .sw-messages,
+                    .sw-panel.sw-prechat-mode .sw-input-area {
+                        display: none !important;
+                    }
+                    .sw-prechat-input,
+                    .sw-input-box textarea {
+                        font-size: 16px !important;
+                    }
+                    .sw-input-area {
+                        padding-bottom: calc(8px + env(safe-area-inset-bottom, 0px));
+                    }
+                    .sw-launcher {
+                        position: relative;
+                    }
+                    .sw-notification-bubble {
+                        right: -20px;
+                        bottom: 65px;
+                        width: calc(100vw - 48px);
+                        max-width: 270px;
+                    }
+                    .sw-notification-bubble::after, .sw-notification-bubble::before {
+                        right: 35px;
+                    }
+                    /* Hiện nút expand/collapse trên mobile */
+                    .sw-btn-expand { display: flex; }
+
+                    .sw-global-overlay {
+                        position: fixed;
+                        inset: 0;
+                        background-color: rgba(0, 0, 0, 0.5);
+                        z-index: 0;
+                        opacity: 0;
+                        pointer-events: none;
+                        transition: opacity 0.3s ease;
+                    }
+                    .sw-global-overlay.sw-active {
+                        opacity: 1;
+                        pointer-events: auto;
+                    }
+                }
+            </style><script src="https://chat.timchuyenbay.net/client/src/ui/components/shared/image-viewer.js?ver=1.2.8" defer="defer"></script><script src="https://chat.timchuyenbay.net/client/widget/detect-link/LinkDetector.js?ver=1.2.8" defer="defer"></script><script src="https://chat.timchuyenbay.net/client/widget/quote/QuoteSelector.js?ver=1.2.8" defer="defer"></script><script src="https://chat.timchuyenbay.net/client/widget/common/DeviceFingerprint.js?ver=1.2.8" defer="defer"></script><script src="https://chat.timchuyenbay.net/client/widget/common/attachment-core.js?ver=1.2.8" defer="defer"></script><script src="https://chat.timchuyenbay.net/client/widget/greeting/GreetingEngine.js?ver=1.2.8" defer="defer"></script><style id="siv-image-viewer-styles">
+                .siv-image-viewer {
+                    align-items: center; background: rgba(0,0,0,.88); bottom: 0; display: none;
+                    justify-content: center; left: 0; padding: 24px; position: fixed; right: 0; top: 0; z-index: 100000;
+                    font-family: 'Inter', sans-serif, Arial;
+                }
+                .siv-image-viewer.is-open { display: flex; }
+                .siv-image-viewer-stage {
+                    align-items: center; cursor: grab; display: flex; height: 100%; justify-content: center;
+                    overflow: hidden; position: relative; touch-action: none; width: 100%; z-index: 1;
+                }
+                .siv-image-viewer-stage.is-dragging { cursor: grabbing; }
+                .siv-image-viewer-img {
+                    border-radius: 4px; box-shadow: 0 18px 60px rgba(0,0,0,.35); display: block;
+                    max-height: 88vh; max-width: 92vw;
+                    transform: translate(var(--siv-image-pan-x,0px),var(--siv-image-pan-y,0px)) scale(var(--siv-image-zoom,1));
+                    transform-origin: center center; transition: transform .12s ease;
+                    user-select: none; -webkit-user-drag: none;
+                }
+                .siv-image-viewer-toolbar {
+                    align-items: center; background: rgba(0,0,0,.5); border-radius: 8px;
+                    bottom: 24px; display: flex; gap: 12px; left: 50%; padding: 8px 16px;
+                    position: absolute; transform: translateX(-50%); z-index: 2;
+                }
+                .siv-image-viewer-toolbar button {
+                    align-items: center; background: transparent; border: none; color: #fff; cursor: pointer;
+                    display: flex; font-size: 20px; height: 32px; justify-content: center; width: 32px; border-radius: 4px;
+                }
+                .siv-image-viewer-toolbar button:hover { background: rgba(255,255,255,.2); }
+                .siv-image-viewer-zoom { color: #fff; font-size: 14px; font-weight: 500; min-width: 48px; text-align: center; }
+                .siv-image-viewer-close {
+                    align-items: center; background: rgba(0,0,0,.5); border: none; border-radius: 50%;
+                    color: #fff; cursor: pointer; display: flex; height: 40px; justify-content: center;
+                    position: absolute; right: 24px; top: 24px; width: 40px; z-index: 2;
+                }
+                .siv-image-viewer-close:hover { background: rgba(255,255,255,.2); }
+                .siv-image-viewer-sender {
+                    align-items: center; bottom: 24px; display: flex; gap: 12px;
+                    position: absolute; right: 24px; z-index: 2; background: rgba(0,0,0,.5);
+                    padding: 8px 16px 8px 8px; border-radius: 30px;
+                }
+                .siv-image-viewer-sender[hidden] { display: none; }
+                .siv-image-viewer-avatar {
+                    align-items: center; background: #1F7A4D; border-radius: 50%; color: #fff;
+                    display: flex; font-size: 14px; font-weight: 600; height: 32px; justify-content: center; width: 32px;
+                }
+                .siv-image-viewer-meta { display: flex; flex-direction: column; }
+                .siv-image-viewer-name { color: #fff; font-size: 14px; font-weight: 500; }
+                .siv-image-viewer-time { color: rgba(255,255,255,.7); font-size: 12px; }
+                @media (max-width: 578px) {
+                    .siv-image-viewer-sender {
+                        top: calc(16px + env(safe-area-inset-top, 8px));
+                        left: calc(16px + env(safe-area-inset-left, 8px));
+                        bottom: auto;
+                        right: auto;
+                    }
+                    .siv-image-viewer-close {
+                        top: calc(16px + env(safe-area-inset-top, 8px));
+                        right: calc(16px + env(safe-area-inset-right, 8px));
+                    }
+                }
+            </style><script src="https://chat.timchuyenbay.net/client/widget/markdown/markdown-renderer.js?ver=1.2.8" defer="defer"></script></head>
+
+<body class="home blog">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCSR25TM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header id="tcb_header" class="header-has-scroll-sticky">
+    <button class="hidden-button" style="display:none" data-click="trap button"></button>
+    <div class="mainContainer">
+        <div class="inside-header">
+            <div class="header_logo header_element">
+                <a href="https://vietjet.net">
+                    <img fetchpriority="high" src="https://gmi.vietjet.net/images/logo.webp" width="200" height="52" alt="Vé máy bay Tìm Chuyến Bay" onerror="this.outerHTML='&lt;span class=\'text_insteadof_logo\'&gt;Vietjet (.net)&lt;/span&gt;'">
+                </a>
+            </div>
+            <div class="header_nav--wrap header_element">
+                                    <div class="header_nav">
+                        <ul id="menu-main-menu-mobile" class="header-nav__menu"><li id="menu-item-65266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65266"><a href="https://vietjet.net/vietjet-gia-re">Vé nội địa</a></li>
+<li id="menu-item-65270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65270"><a href="https://vietjet.net/ve-quoc-te-gia-re">Vé quốc tế</a></li>
+<li id="menu-item-65269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65269"><a href="https://vietjet.net/vietjet-khuyen-mai">Vé khuyến mãi</a></li>
+<li id="menu-item-65268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65268"><a href="https://vietjet.net/tin-tong-hop">Tin tổng hợp</a></li>
+<li id="menu-item-65267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65267"><a href="https://vietjet.net/ban-tin-hang-khong">Bản tin hàng không</a></li>
+</ul>                    </div>
+                                <div class="scrolling_words-container">
+                    <div class="box-scrolling_word">
+                        <ul class="scrolling_word_box_ul_input">
+                                                                    <li>
+                                            <a data-click="call hotline_number" href="tel:02866509900" class="text-brand">028 6650 9900</a>
+                                        </li>
+                                                                    <li>
+                                            <a data-click="call hotline_number" href="tel:0906668586" class="text-brand">090 666 8586</a>
+                                        </li>
+                                                                    <li>
+                                            <a data-click="call hotline_number" href="tel:0911236600" class="text-brand">091 123 6600</a>
+                                        </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header><main role="main">
+    
+<section class="frm-search frm-search-primary frm-search-home">
+    
+<section id="search_flight">
+    <form class="search-flight-form" method="POST" action="https://vietjet.net/chon-hanh-trinh" id="frmFlightSearch" name="frmFlightSearch">
+        <div class="search-frm">
+            <div class="frm-top">
+                <div class="box-direction direction-tab radio-container">
+                    <div class="direction-radio selection" data-label="one-way" data-click="flight-type one-way">
+                        <label for="one-way" class="transition-all cursor-pointer">Một chiều</label>
+                        <input type="radio" name="triptype" id="one-way" value="1" checked="">
+                    </div>
+                    <div class="direction-radio " data-label="round-trip" data-click="flight-type round-trip">
+                        <label for="round-trip" class="transition-all cursor-pointer text-default">Khứ hồi</label>
+                        <input type="radio" name="triptype" id="round-trip" value="0">
+                    </div>
+                </div>
+                            </div>
+            <div class="frm-bottom">
+                <div class="box-location">
+                                            <div class="box-frm">
+                            <div class="wrap-input label-from_override">
+                                <div class="d-inline-flex flex-grow position-relative">
+                                    <label for="depinput" class="label-box transition-all">Từ</label>
+                                    <input id="depinput" class="location-input text-default" for="list__dep" value="Hồ Chí Minh (SGN)" code="SGN" placeholder="Chọn điểm khởi hành" autocomplete="off" readonly="">
+                                </div>
+                            </div>
+                            <div id="listDep" class="listDep d-none">
+                                <!-- Desktop -->
+                                <div class="flight_from_destination"></div>
+                            </div>
+                        </div>
+                                            <div class="box-frm">
+                            <div class="wrap-input label-from_override">
+                                <div class="d-inline-flex flex-grow position-relative">
+                                    <label for="desinput" class="label-box transition-all">Đến</label>
+                                    <input id="desinput" class="location-input text-default" for="list__des" value="Hà Nội (HAN)" code="HAN" placeholder="Chọn điểm đến" autocomplete="off" readonly="">
+                                </div>
+                            </div>
+                            <div id="listDes" class="listDes d-none">
+                                <!-- Desktop -->
+                                <div class="flight_to_destination"></div>
+                            </div>
+                        </div>
+                                        <div class="swap-value">
+                        <svg id="rostate" width="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="transition-all">
+                            <path fill-rule="evenodd" d="M14.6403 5.2477a.7483.7483 0 0 1 1.0612.0084l4.0871 4.1684a.7555.7555 0 0 1 .1573.8195.7502.7502 0 0 1-.6921.4623H6.8305c-.4145 0-.7504-.3373-.7504-.7533 0-.4161.336-.7534.7504-.7534h10.6317L14.632 6.3131a.7556.7556 0 0 1 .0083-1.0654ZM9.368 18.8148a.7483.7483 0 0 1-1.0611-.0084l-4.087-4.1684a.7555.7555 0 0 1-.1574-.8195.7503.7503 0 0 1 .6921-.4623H17.178c.4144 0 .7503.3373.7503.7533 0 .4161-.3359.7534-.7503.7534H6.5463l2.8301 2.8865a.7555.7555 0 0 1-.0083 1.0654Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </div>
+                </div>
+                <div class="box-date">
+                    <div class="box-frm box-departure">
+                        <div class="wrap-input label-from_override">
+                            <div class="d-inline-flex flex-grow position-relative">
+                                <label for="depdate" class="label-box">Ngày đi</label>
+                                <input type="text" name="depdate" id="depdate" class="date-search depdate" value="06/10/2026" autocomplete="off" inputmode="none" readonly="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-frm box-return ps-2">
+                        <div class="wrap-input label-from_override">
+                            <div class="d-inline-flex flex-grow position-relative">
+                                <label for="retdate" class="label-box">Ngày về</label>
+                                <input type="text" name="retdate" id="retdate" class="date-search retdate" value="" autocomplete="off" inputmode="none" readonly="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-travellers overflow-visible position-relative">
+                    <div class="box-frm trigger-input-passengers">
+                        <div class="d-flex flex-column">
+                            <label class="label-box">Hành khách</label>
+                            <p class="value-box text-default"><span id="traveller_qty">1</span> Hành khách</p>
+                        </div>
+                    </div>
+                    <div class="dropdown-box-inner fullmobile" style="display:none;">
+                        <div class="box-header">
+                            <button type="button" class="btn btn-close-fullmobile close-fullmobile">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#000" class="bi bi-chevron-left" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd" d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0"></path>
+                                </svg>
+                            </button>
+                            <p class="box__title">Hành khách</p>
+                        </div>
+                        <div class="box-passengers">
+                            <div class="d-flex items-center row-adult">
+                                <div class="title-people">
+                                    <div class="title-box">
+                                        <p class="label-pass">Người lớn</p>
+                                        <p class="des-pass">12 tuổi trở lên</p>
+                                    </div>
+                                </div>
+                                <div class="box-people type-adult">
+                                    <div class="btn-group flex-between" role="group">
+                                        <button type="button" id="btn-minus-adult" class="type-count disabled" act="minus" pass-type="adult">
+                                            <svg width="16" height="16" viewBox="0 0 24 24" focusable="false" class="fill">
+                                                <path d="M20 13H4v-2h16v2z"></path>
+                                            </svg>
+                                        </button>
+                                        <input type="text" name="adult" id="count-adult" class="input-value" value="1" aria-label="count-adult" readonly="readonly">
+                                        <button type="button" id="btn-plus-adult" class="type-count" act="plus" pass-type="adult">
+                                            <svg width="16" height="16" viewBox="0 0 24 24" focusable="false" class="fill">
+                                                <path d="M20 13h-7v7h-2v-7H4v-2h7V4h2v7h7v2z"></path>
+                                            </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="d-flex items-center row-child py-2">
+                                <div class="title-people">
+                                    <div class="title-box">
+                                        <p class="label-pass">Trẻ em</p>
+                                        <p class="des-pass">2 - 12 tuổi</p>
+                                    </div>
+                                </div>
+                                <div class="box-people type-child">
+                                    <div class="btn-group flex-between" role="group">
+                                        <button type="button" id="btn-minus-child" class="type-count disabled" act="minus" pass-type="child">
+                                            <svg width="16" height="16" viewBox="0 0 24 24" focusable="false" class="fill">
+                                                <path d="M20 13H4v-2h16v2z"></path>
+                                            </svg>
+                                        </button>
+                                        <input type="text" name="child" id="count-child" class="input-value" value="0" aria-label="count-child" readonly="readonly">
+                                        <button type="button" id="btn-plus-child" class="type-count" act="plus" pass-type="child">
+                                            <svg width="16" height="16" viewBox="0 0 24 24" focusable="false" class="fill">
+                                                <path d="M20 13h-7v7h-2v-7H4v-2h7V4h2v7h7v2z"></path>
+                                            </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="d-flex items-center row-infant">
+                                <div class="title-people">
+                                    <div class="title-box">
+                                        <p class="label-pass">Em bé</p>
+                                        <p class="des-pass">Dưới 2 tuổi</p>
+                                    </div>
+                                </div>
+                                <div class="box-people type-infant">
+                                    <div class="btn-group flex-between" role="group">
+                                        <button type="button" id="btn-minus-infant" class="type-count disabled" act="minus" pass-type="infant">
+                                            <svg width="16" height="16" viewBox="0 0 24 24" focusable="false" class="fill">
+                                                <path d="M20 13H4v-2h16v2z"></path>
+                                            </svg>
+                                        </button>
+                                        <input type="text" name="infant" id="count-infant" class="input-value" value="0" aria-label="count-infant" readonly="readonly">
+                                        <button type="button" id="btn-plus-infant" class="type-count" act="plus" pass-type="infant">
+                                            <svg width="16" height="16" viewBox="0 0 24 24" focusable="false" class="fill">
+                                                <path d="M20 13h-7v7h-2v-7H4v-2h7V4h2v7h7v2z"></path>
+                                            </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="box-confirm flex-between d-none show-mobile">
+                            <p class="value-box text-default"><span id="traveller_qty_mobile">1</span> Hành khách</p>
+                            <button class="close-fullmobile" type="button">Xác nhận</button>
+                        </div>
+                    </div>
+                </div>
+
+                
+        <div style="position: absolute; left: -9999px; top: -9999px;" aria-hidden="true">
+            <label for="pot_user_personal_website">Leave this field empty</label>
+            <input type="text" id="pot_user_personal_website" name="user_personal_website" value="" tabindex="-1" autocomplete="nope">
+        </div>                <input type="hidden" class="bhv_hf" name="bhv_score" value="">                <input type="hidden" name="csrf_token" value="e1b7abd0461f485a90b21f37412e92dcfa452a6ded788ea7b0efb5036a464171">                <input type="hidden" name="dep" id="dep" class="dep" value="SGN">
+                <input type="hidden" name="des" id="des" class="des" value="HAN">
+                <input type="hidden" name="price-depart" id="priceInputDepart" value="">
+                <input type="hidden" name="price-return" id="priceInputReturn" value="">
+
+                <button type="submit" class="submit-search" name="btnsearch" id="btnsearch " data-click="search-flight">
+                    <span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" style="user-select:none;display:inline-block" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" data-testid="SearchIcon">
+                            <path fill-rule="evenodd" d="M17.2177 11.1111c0 3.0858-2.5114 5.5873-5.6095 5.5873-3.098 0-5.6096-2.5015-5.6096-5.5873s2.5115-5.5873 5.6096-5.5873c3.0981 0 5.6095 2.5015 5.6095 5.5873Zm-1.1663 5.5665c-1.2194.9669-2.7635 1.5446-4.4432 1.5446-3.943 0-7.1395-3.1837-7.1395-7.1111C4.4688 7.1837 7.6653 4 11.6082 4s7.1394 3.1837 7.1394 7.1111c0 1.7055-.6027 3.2707-1.6076 4.4959l3.1047 3.0923a.7598.7598 0 0 1 0 1.0775.767.767 0 0 1-1.0818 0l-3.1115-3.0992Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </span>
+                    Tìm chuyến bay
+                </button>
+            </div>
+        </div>
+    </form>
+</section>
+
+<script>
+    if (!window.bhv_tracker_bound) {
+        window.bhv_tracker_bound = true;
+        (function() {
+            var t=Date.now(), m=0, s=0, k=0, c=0;
+            window._bhv_csrf_refreshed = Date.now();
+            document.addEventListener('mousemove', function(){ m++; }, {passive: true});
+            document.addEventListener('scroll', function(){ s++; }, {passive: true});
+            document.addEventListener('keydown', function(){ k++; }, {passive: true});
+            document.addEventListener('touchstart', function(){ c++; }, {passive: true});
+            document.addEventListener('click', function(){ c++; }, {passive: true});
+            document.addEventListener('submit', function(e) {
+                if (!e.target || e.target.tagName !== 'FORM') return;
+                var ip = e.target.querySelector('.bhv_hf');
+                if (ip) {
+                    var p = {t: Date.now()-t, m: Math.min(m,999), s: Math.min(s,999), k: Math.min(k,999), c: c};
+                    ip.value = btoa(JSON.stringify(p));
+                }
+                var _now = Date.now();
+                if (!window._bhv_csrf_refreshed || (_now - window._bhv_csrf_refreshed) >= 300000) {
+                    e.preventDefault();
+                    var form = e.target;
+                    var ajaxUrl = (typeof gb_var !== 'undefined' && gb_var.endpoint_ajax) ? gb_var.endpoint_ajax : '';
+                    if (!ajaxUrl) { form.submit(); return; }
+                    var xhr = new XMLHttpRequest();
+                    xhr.open('POST', ajaxUrl, true);
+                    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+                    xhr.onload = xhr.onerror = xhr.ontimeout = function() {
+                        window._bhv_csrf_refreshed = Date.now();
+                        if (xhr.responseText) {
+                            try {
+                                var res = JSON.parse(xhr.responseText);
+                                if (res.error === 0 && res.csrf_token) {
+                                    var inputs = document.querySelectorAll('input[name="csrf_token"]');
+                                    for (var i = 0; i < inputs.length; i++) inputs[i].value = res.csrf_token;
+                                }
+                            } catch(e2) {}
+                        }
+                        form.submit();
+                    };
+                    xhr.send('action=refresh_csrf');
+                }
+            });
+
+        })();
+    }
+</script></section>
+<style>
+    .frm-search-home {
+        margin: 1.5rem 0 1.5rem 0;
+    }
+    .frm-search-home #search_flight {
+        max-width: 1240px;
+        margin: auto;
+    }
+    @media (max-width: 768px) {
+        .frm-search-home {
+            margin: 0.5rem 0 1rem 0;
+            padding: 0 12px;
+        }
+    }
+</style>
+    <!-- MIDDLE -->
+    <section class="mainContainer" role="main">
+	<section class="section-slider-home-banner">
+    <div class="container mx-auto">
+        <div class="swiper-section-slider-home-banner swiper">
+            <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                        <div class="ribbon-home-banner">
+                            <div class="ribbon-wrap">
+                                <span class="ribbon-text-home-banner">Địa điểm du lịch hè</span>
+                            </div>
+                        </div>
+                        <a href="https://vietjet.net/tin-tong-hop/he-nay-ca-nha-di-choi-dau.html" aria-label="Địa điểm du lịch hè" data-click="offer-post Địa điểm du lịch hè">
+                            <div class="flex justify-center rounded-lg">
+                                <img fetchpriority="high" src="https://gmi.vietjet.net/uploads/2026/05/du-lich-he-gia-dinh.webp" class="rounded-lg" alt="Địa điểm du lịch hè">
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <div class="ribbon-home-banner">
+                            <div class="ribbon-wrap">
+                                <span class="ribbon-text-home-banner">Vé máy bay Hà Nội Phú Quốc</span>
+                            </div>
+                        </div>
+                        <a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-ha-noi-phu-quoc.html" aria-label="Vé máy bay Hà Nội Phú Quốc" data-click="offer-post Vé máy bay Hà Nội Phú Quốc">
+                            <div class="flex justify-center rounded-lg">
+                                <img fetchpriority="high" src="https://gmi.vietjet.net/uploads/2022/07/ve-may-bay-ha-noi-phu-quoc.webp" class="rounded-lg" alt="Vé máy bay Hà Nội Phú Quốc">
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <div class="ribbon-home-banner">
+                            <div class="ribbon-wrap">
+                                <span class="ribbon-text-home-banner">Đặt vé đoàn Sài Gòn Phú Quốc</span>
+                            </div>
+                        </div>
+                        <a href="https://vietjet.net/vietjet-gia-re/dat-ve-doan-sai-gon-phu-quoc.html" aria-label="Đặt vé đoàn Sài Gòn Phú Quốc" data-click="offer-post Đặt vé đoàn Sài Gòn Phú Quốc">
+                            <div class="flex justify-center rounded-lg">
+                                <img fetchpriority="high" src="https://gmi.vietjet.net/uploads/2026/05/dat-ve-doan-sai-gon-nha-trang-1-scaled.webp" class="rounded-lg" alt="Đặt vé đoàn Sài Gòn Phú Quốc">
+                            </div>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</section>
+<section id="sales-off" class="section-sales-off">
+    <h5 class="sales-off__title text-default pl-2">
+        <a href="/san-ve-may-bay-gia-re">
+            Săn vé máy bay giá rẻ 2027        </a>
+    </h5>
+    
+    <p class="sales-off__desc text-secondary pl-2">Vietjet, Vietnam Airlines và Bamboo Airways</p>
+    <div class="sales-off__banner">
+        <div class="position-relative w-25">
+            <svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M75 145.5C113.936 145.5 145.5 113.936 145.5 75C145.5 36.0639 113.936 4.5 75 4.5C36.0639 4.5 4.5 36.0639 4.5 75C4.5 113.936 36.0639 145.5 75 145.5ZM75 146C114.212 146 146 114.212 146 75C146 35.7878 114.212 4 75 4C35.7878 4 4 35.7878 4 75C4 114.212 35.7878 146 75 146Z" fill="white"></path>
+                <path d="M89.9997 147C91.6565 147 93.003 145.657 93.0072 144C93.0113 142.343 91.6715 141 90.0146 141C88.3578 141 87.0113 142.343 87.0072 144C87.003 145.657 88.3428 147 89.9997 147Z" fill="#FFE961"></path>
+                <path d="M145.5 83C146.329 83 147.002 82.3284 147.004 81.5C147.006 80.6716 146.336 80 145.508 80C144.679 80 144.006 80.6716 144.004 81.5C144.002 82.3284 144.672 83 145.5 83Z" fill="#FFC30D"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M75.3616 30.1809C50.9768 30.1956 31.1808 50.0455 31.1475 74.5183C31.1143 98.9912 50.8564 118.817 75.2412 118.802C90.77 118.793 104.438 110.74 112.326 98.5706L112.675 98.796C104.713 111.078 90.9166 119.208 75.2406 119.218C50.625 119.233 30.6986 99.2194 30.7322 74.5186C30.7658 49.8177 50.7466 29.7804 75.3622 29.7656C99.9778 29.7507 119.904 49.7639 119.871 74.4648C119.862 80.5257 118.653 86.3062 116.469 91.5792L116.085 91.4209C118.249 86.1974 119.447 80.4706 119.455 74.465C119.489 49.9922 99.7464 30.1662 75.3616 30.1809Z" fill="white"></path>
+                <path d="M115 91.0567C115.545 94.1261 115.958 94.5247 119.057 94.9798C115.972 95.5225 115.571 95.9326 115.114 99.0161C114.568 95.9468 114.156 95.5482 111.057 95.0931C114.142 94.5504 114.543 94.1403 115 91.0567Z" fill="white"></path>
+            </svg>
+            <img loading="lazy" width="100" height="115" alt="sales off flight" class="" src="https://gmi.vietjet.net/images/sales-plane.webp">
+        </div>
+        <p class="main-text">Đặt vé đoàn công ty du lịch trong nước quốc tế</p>        <div class="sales-off__content">
+            <p class="font-medium mb-2" style="font-style: italic;">Giảm đến 30%</p><a href="/dat-ve-doan"><p class="multiple_booking_link"><strong>Đặt vé đoàn</strong></p><p class="text-end multiple_booking_link"><strong>nhiều người!</strong></p></a>        </div>
+    </div>
+</section>
+
+<style>
+    .main-text{
+        font-size: 22px;
+        font-weight: 700;
+        color: #2f4c76;
+    }
+    .multiple_booking_link{
+        text-decoration: underline;
+        color: var(--mutiple-booking-link-color) !important;
+        font-size: 18px !important;
+    }
+    @media screen and (max-width: 578px) {
+        .multiple_booking_link{
+            font-size: 16px !important;
+        }
+    }
+</style>
+    <section id="cheap-flight-stories" class="section-home section-tab-home-3 block-news-travel-stories">
+        <h2 class="home-title">Vé máy bay quốc tế</h2>
+        <div class="news-slider swiper-container-horizontal">
+            <div class="news-slider__wrp swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+                
+                        <div class="news-slider__item swiper-slide swiper-slide-active" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-my.html" data-click="travel-post Vé máy bay đi Mỹ">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/Ve-may-bay-di-my-1.webp" alt="Tìm chuyến bay Vé máy bay đi Mỹ" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Mỹ<br>
+                                    <span class="compare-price">15.500.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide swiper-slide-next" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-uc.html" data-click="travel-post Vé máy bay đi Úc">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/Ve-may-bay-di-uc-1.webp" alt="Tìm chuyến bay Vé máy bay đi Úc" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Úc<br>
+                                    <span class="compare-price">9.700.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-thai-lan.html" data-click="travel-post Vé máy bay đi Thái Lan">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/Ve-may-bay-di-Thai-Lan-1.webp" alt="Tìm chuyến bay Vé máy bay đi Thái Lan" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Thái Lan<br>
+                                    <span class="compare-price">1.900.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-anh.html" data-click="travel-post Vé máy bay đi Anh">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/ve-may-bay-di-anh-1.webp" alt="Tìm chuyến bay Vé máy bay đi Anh" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Anh<br>
+                                    <span class="compare-price">17.700.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-han-quoc.html" data-click="travel-post Vé máy bay đi Hàn Quốc">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/Ve-may-bay-di-han-quoc-1.webp" alt="Tìm chuyến bay Vé máy bay đi Hàn Quốc" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Hàn Quốc<br>
+                                    <span class="compare-price">9.200.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-nhat-ban.html" data-click="travel-post Vé máy bay đi Nhật Bản">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/ve-may-bay-di-nhat-ban-1.webp" alt="Tìm chuyến bay Vé máy bay đi Nhật Bản" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Nhật Bản<br>
+                                    <span class="compare-price">8.400.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-singapore.html" data-click="travel-post Vé máy bay đi Singapore">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/Ve-may-bay-di-singapore.webp" alt="Tìm chuyến bay Vé máy bay đi Singapore" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Singapore<br>
+                                    <span class="compare-price">2.800.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-hongkong.html" data-click="travel-post Vé máy bay đi Hong Kong">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/Ve-may-bay-di-hong-kong.webp" alt="Tìm chuyến bay Vé máy bay đi Hong Kong" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Hong Kong<br>
+                                    <span class="compare-price">3.800.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-dai-loan.html" data-click="travel-post Vé máy bay đi Đài Loan">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/Ve-may-bay-di-dai-loan.webp" alt="Tìm chuyến bay Vé máy bay đi Đài Loan" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Đài Loan<br>
+                                    <span class="compare-price">3.600.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-malaysia.html" data-click="travel-post Vé máy bay đi Malaysia">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/Ve-may-bay-di-malaysia.webp" alt="Tìm chuyến bay Vé máy bay đi Malaysia" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Malaysia<br>
+                                    <span class="compare-price">2.500.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ve-quoc-te-gia-re/ve-may-bay-di-phap.html" data-click="travel-post Vé máy bay đi Pháp">
+                                <div class="cheap-flight-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2023/12/Ve-may-bay-di-phap.webp" alt="Tìm chuyến bay Vé máy bay đi Pháp" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="cheap-flight-slider__content">
+                                    Vé máy bay đi Pháp<br>
+                                    <span class="compare-price">12.400.000</span>
+                                </p>
+                            </a>
+                            
+                        </div>
+                            </div>
+            <div class="news-slider__ctr">
+                <div class="news-slider__arrows hide-mobile">
+                    <button class="news-slider__arrow news-slider-prev hidden swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true">
+                        <span class="icon-font">
+                            <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="user-select: none; display: inline-block;"><path fill-rule="evenodd" d="M15.2875 17.7707c-.2905.2983-.7699.3066-1.0708.0187L8.7313 12.54A.7474.7474 0 0 1 8.5 12a.7474.7474 0 0 1 .2313-.54l5.4854-5.2494c.3009-.288.7803-.2796 1.0708.0187a.746.746 0 0 1-.0188 1.0613L10.3476 12l4.9211 4.7094a.7459.7459 0 0 1 .0188 1.0613Z" clip-rule="evenodd"></path></svg>
+                        </span>
+                    </button>
+                    <button class="news-slider__arrow news-slider-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false">
+                        <span class="icon-font">
+                            <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="user-select: none; display: inline-block;"><path fill-rule="evenodd" d="M8.7125 6.2293c.2905-.2983.77-.3066 1.0708-.0187l5.4854 5.2494A.7474.7474 0 0 1 15.5 12a.7474.7474 0 0 1-.2313.54l-5.4854 5.2494c-.3009.2879-.7803.2796-1.0708-.0187a.7459.7459 0 0 1 .0188-1.0613L13.6524 12 8.7313 7.2906a.746.746 0 0 1-.0188-1.0614Z" clip-rule="evenodd"></path></svg>
+                        </span>
+                    </button>
+                </div>
+                <div class="news-slider__pagination"></div>
+            </div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+    </section>
+
+    <section id="news-travel-stories" class="section-home section-tab-home-3 block-news-travel-stories">
+        <h2 class="home-title">Vé máy bay khuyến mãi</h2>
+        <div class="news-slider swiper-container-horizontal">
+            <div class="news-slider__wrp swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+                
+                        <div class="news-slider__item swiper-slide swiper-slide-active" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/qua-lien-tay" data-click="travel-post Quét mã ngay - Quà liền tay">
+                                <div class="news-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2024/07/quet-ma-nhan-qua-tai-timchuyenbay.webp" alt="Tìm chuyến bay Quét mã ngay - Quà liền tay" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="news-slider__content">
+                                    Quét mã ngay - Quà liền tay                                </p>
+                            </a>
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide swiper-slide-next" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/vietjet-gia-re/ve-may-bay-gia-re-thang-11.html" data-click="travel-post Vé máy bay giá rẻ tháng 11">
+                                <div class="news-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2025/10/ve-may-bay-gia-re-thang-11.webp" alt="Tìm chuyến bay Vé máy bay giá rẻ tháng 11" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="news-slider__content">
+                                    Vé máy bay giá rẻ tháng 11                                </p>
+                            </a>
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/vietjet-khuyen-mai/vietjet-khuyen-mai-0-dong-12h-trua.html" data-click="travel-post Vietjet khuyến mãi 0 đồng 12h trưa">
+                                <div class="news-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2025/09/vietjet_net_banner.png" alt="Tìm chuyến bay Vietjet khuyến mãi 0 đồng 12h trưa" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="news-slider__content">
+                                    Vietjet khuyến mãi 0 đồng 12h trưa                                </p>
+                            </a>
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/vietjet-gia-re/bang-gia-ve-may-bay-vietjet-air.html" data-click="travel-post Bảng giá vé máy bay Vietjet Air">
+                                <div class="news-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2025/09/schedule_filghts_banner.png" alt="Tìm chuyến bay Bảng giá vé máy bay Vietjet Air" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="news-slider__content">
+                                    Bảng giá vé máy bay Vietjet Air                                </p>
+                            </a>
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/ban-tin-hang-khong/lich-bay-hom-nay.html" data-click="travel-post Lịch bay hôm nay các hãng hàng không">
+                                <div class="news-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2024/01/gia-ve-may-bay.webp" alt="Tìm chuyến bay Lịch bay hôm nay các hãng hàng không" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="news-slider__content">
+                                    Lịch bay hôm nay các hãng hàng không                                </p>
+                            </a>
+                        </div>
+                
+                        <div class="news-slider__item swiper-slide" style="width: 242.5px; margin-right: 20px;">
+                            <a href="/vietjet-gia-re/huong-dan-dat-ve-may-bay-cho-doan.html" data-click="travel-post Hướng dẫn đặt vé máy bay đoàn">
+                                <div class="news-slider__img">
+                                    <img src="https://gmi.vietjet.net/uploads/2024/08/dat-ve-may-bay-doan.webp" alt="Tìm chuyến bay Hướng dẫn đặt vé máy bay đoàn" loading="lazy">
+                                    <div class="img-backdrop"></div>
+                                </div>
+                                <p class="news-slider__content">
+                                    Hướng dẫn đặt vé máy bay đoàn                                </p>
+                            </a>
+                        </div>
+                            </div>
+            <div class="news-slider__ctr">
+                <div class="news-slider__arrows hide-mobile">
+                    <button class="news-slider__arrow news-slider-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true">
+                        <span class="icon-font">
+                            <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="user-select: none; display: inline-block;"><path fill-rule="evenodd" d="M15.2875 17.7707c-.2905.2983-.7699.3066-1.0708.0187L8.7313 12.54A.7474.7474 0 0 1 8.5 12a.7474.7474 0 0 1 .2313-.54l5.4854-5.2494c.3009-.288.7803-.2796 1.0708.0187a.746.746 0 0 1-.0188 1.0613L10.3476 12l4.9211 4.7094a.7459.7459 0 0 1 .0188 1.0613Z" clip-rule="evenodd"></path></svg>
+                        </span>
+                    </button>
+                    <button class="news-slider__arrow news-slider-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false">
+                        <span class="icon-font">
+                            <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="user-select: none; display: inline-block;"><path fill-rule="evenodd" d="M8.7125 6.2293c.2905-.2983.77-.3066 1.0708-.0187l5.4854 5.2494A.7474.7474 0 0 1 15.5 12a.7474.7474 0 0 1-.2313.54l-5.4854 5.2494c-.3009.2879-.7803.2796-1.0708-.0187a.7459.7459 0 0 1 .0188-1.0613L13.6524 12 8.7313 7.2906a.746.746 0 0 1-.0188-1.0614Z" clip-rule="evenodd"></path></svg>
+                        </span>
+                    </button>
+                </div>
+                <div class="news-slider__pagination"></div>
+            </div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+    </section>
+<section id="popular-domestic-airlines" class="section-home block-popular-domestic-airlines">
+                    <h2 class="home-title">Đối tác các hãng hàng không trong nước và quốc tế</h2>
+                    <p class="title-description">Chúng tôi là <strong>đại lý</strong> vé máy bay nội địa và quốc tế. Xin lưu ý để tránh nhầm lẫn! Tổng đài vé máy bay hỗ trợ bạn 24/7. Cần là có, tìm là thấy giá vé tốt nhất. Hãy tìm chuyến bay theo cách của bạn, chuyện còn lại để chúng tôi lo. Dịch vụ 5 sao  mảng vé máy bay, khách sạn (đặt chỗ, book phòng, xe đưa đón). </p>
+                    <div class="group-domestic">
+                        <div class="item-airline"><img class="py-5" src="https://gmi.vietjet.net/uploads/2025/06/United-airlines.webp" alt="Vé máy bay United Airlines" loading="lazy" width="50" height="40" decoding="async"></div><div class="item-airline">
+                        <a href="/ve-theo-hang/ve-may-bay-qatar-airways.html" arial-label="Vé máy bay Qatar Airways" data-click="domestic Vé máy bay Qatar Airways">
+                            <img class="py-5" src="https://gmi.vietjet.net/uploads/2024/08/Qatar-Airways-logo.webp" alt="Vé máy bay Qatar Airways" loading="lazy" width="50" height="40" decoding="async">
+                            <p class="body-md text-link font-medium" style="display: none;">Vé máy bay Qatar Airways</p>
+                        </a></div><div class="item-airline">
+                        <a href="/ve-theo-hang/ve-may-bay-eva-airlines.html" arial-label="Vé máy bay Eva Air" data-click="domestic Vé máy bay Eva Air">
+                            <img class="py-5" src="https://gmi.vietjet.net/uploads/2024/08/eva-air-logo.webp" alt="Vé máy bay Eva Air" loading="lazy" width="50" height="40" decoding="async">
+                            <p class="body-md text-link font-medium" style="display: none;">Vé máy bay Eva Air</p>
+                        </a></div><div class="item-airline"><img class="py-5" src="https://gmi.vietjet.net/uploads/2025/06/japan-airlines.webp" alt="Vé máy bay Japan Airlines" loading="lazy" width="50" height="40" decoding="async"></div><div class="item-airline">
+                        <a href="/ve-theo-hang/ve-may-bay-singapore-airlines.html" arial-label="Vé máy bay Singapore Airlines" data-click="domestic Vé máy bay Singapore Airlines">
+                            <img class="py-5" src="https://gmi.vietjet.net/uploads/2024/08/Singapore-Airlines-logo.webp" alt="Vé máy bay Singapore Airlines" loading="lazy" width="50" height="40" decoding="async">
+                            <p class="body-md text-link font-medium" style="display: none;">Vé máy bay Singapore Airlines</p>
+                        </a></div><div class="item-airline">
+                        <a href="/ve-theo-hang/ve-may-bay-korean-airlines.html" arial-label="Vé máy bay Korean Airlines" data-click="domestic Vé máy bay Korean Airlines">
+                            <img class="py-5" src="https://gmi.vietjet.net/uploads/2025/10/korean-air.webp" alt="Vé máy bay Korean Airlines" loading="lazy" width="50" height="40" decoding="async">
+                            <p class="body-md text-link font-medium" style="display: none;">Vé máy bay Korean Airlines</p>
+                        </a></div>
+                    </div>
+                </section><section id="about-us" class="section-home block-about-us">
+                <h2 class="home-title"><strong>Đặt vé máy bay giá rẻ trực tuyến, đặt vé đoàn cả nhà nhiều người</strong></h2>
+            <div class="content">
+                        Vé máy bay Vietjet (.net) là đại lý của các hãng hàng không nội địa và quốc tế. Chúng tôi phục vụ thao tác đặt giữ chỗ của bạn tuân thủ theo chính sách của Hãng trong từng thời điểm. Vui lòng dùng thông tin chính xác khi đặt vé.       </div>
+    </section>                    <section id="faq" class="section-home faq">
+                <h2 class="home-title">Câu hỏi thường gặp</h2>
+                <div class="faq-accordion">
+                    <div class="faq-columns"><div class="faq-column"><div class="accordion-item">
+                    <button id="accordion-button-0" aria-expanded="false" data-click="FAQ 0">
+                        <span class="accordion-title">Tại sao nên đặt vé máy bay ở đây</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p style="margin-bottom:10px">Vietjet (.net) là đại lý vé máy bay chính thức của các hãng hàng không nội địa và quốc tế. Khác biệt lớn nhất khi đặt vé tại đây chính là sự hỗ trợ tận tình. Nếu Quý khách tự đặt vé mà xảy ra sai sót, việc xử lý sẽ vô cùng phức tạp, thậm chí là mất vé. Đặt qua Vietjet (.net), chúng tôi cam kết kiểm tra kỹ lưỡng và nếu có bất kỳ sai sót nào xuất phát từ phía chúng tôi (như nhập sai thông tin tên, ngày bay... gây ảnh hưởng đến chuyến đi), <strong>Quý khách sẽ được đền bù 100%.</strong> Ngoài ra, khách hàng còn chọn chúng tôi vì:</p>
+<ul>
+<li><strong>Hỗ trợ 24/7:</strong> Tổng đài sẵn sàng giải đáp thắc mắc mọi lúc, kể cả ngày lễ hay Tết để việc săn vé máy bay giá rẻ trở nên dễ dàng hơn bao giờ hết.</li>
+<li><strong>Hệ thống thông minh, dễ sử dụng:</strong> Giao diện thân thiện giúp bạn nhanh chóng tìm kiếm và đặt vé máy bay chỉ trong vài bước đơn giản.</li>
+<li><strong>Tiết kiệm thời gian:</strong> Không cần truy cập nhiều website để so sánh giá từ các hãng hàng không, mọi thông tin đều được tổng hợp tại một nơi.</li>
+<li><strong>Giá vé cập nhật thời gian thực:</strong> Luôn mang đến vé máy bay giá rẻ nhất từ tất cả các hãng hàng không, giúp bạn tiết kiệm tối đa.</li>
+<li><strong>Thanh toán linh hoạt:</strong> Nhiều phương thức thanh toán an toàn như chuyển khoản qua ngân hàng, cổng thanh toán quốc tế (Visa/MasterCard), tiền mặt.</li>
+<li><strong>Ưu đãi hấp dẫn mỗi ngày:</strong> Nhiều chương trình khuyến mãi dành cho cả khách hàng mới và cũ, giúp bạn dễ dàng sở hữu vé máy bay giá rẻ.</li>
+</ul></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-1" aria-expanded="false" data-click="FAQ 1">
+                        <span class="accordion-title">Đặt vé máy bay giá rẻ như thế nào?</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p style="margin-bottom:10px">Đặt vé máy bay tại Vietjet (.net) luôn là giá rẻ. Bạn có thể thực hiện theo các bước sau:</p>
+<ul style="list-style:decimal">
+<li>Truy cập Vietjet (.net) ngay tại trang chủ, nhập thông tin hành trình và bấm "tìm chuyến bay".</li>
+<li>Giá vé máy bay hiển thị từ thấp đến cao (đây là giá cuối cùng đã bao gồm thuế phí và tổng tiền tất cả hành khách mà bạn đã chọn). Sau đó, bạn chọn một chuyến bay phù hợp.</li>
+<li>Nhập thông tin hành khách (thông tin giống với giấy tờ tùy thân, trường hợp sai thông tin liên hệ thay đổi ngay trước khi thanh toán)</li>
+<li>Chọn phương thức thanh toán, sau đó bấm Đặt vé.</li>
+<li>Nhân viên của Vietjet (.net) sẽ liên hệ hỗ trợ ngay trong giây lát.</li>
+</ul>
+<p>Sau khi thanh toán thành công, code vé sẽ được gửi qua thông tin bạn cung cấp ban đầu gồm Số điện thoại, Email hoặc Zalo OA.</p></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-2" aria-expanded="false" data-click="FAQ 2">
+                        <span class="accordion-title">Phương thức thanh toán thuận tiện</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p><strong>Vietjet (.net)</strong> chấp nhận thanh toán vé máy bay qua nhiều hình thức :</p>
+<ul>
+<li>Chuyển khoản ngân hàng (đây là phương thức tối ưu, nhanh chóng và an toàn)</li>
+<li>Thanh toán online bằng Visa/Mastercard thông qua Onepay</li>
+<li>Thanh toán tiền mặt tại văn phòng</li>
+<li>Giáo vé tại nhà - thu tiền (chỉ áp dụng tại TP. HCM)</li>
+</ul></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-3" aria-expanded="false" data-click="FAQ 3">
+                        <span class="accordion-title">Mẹo săn vé máy bay giá rẻ 2026</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p style="margin-bottom:10px">Tiện ích săn vé máy bay giá rẻ giúp người dùng dễ dàng tìm kiếm và đặt vé máy bay với mức giá tốt nhất. Nó cho phép so sánh giá vé theo thời gian thực từ nhiều hãng hàng không, bao gồm: Vietjet, Vietnam Airlines, Bamboo Airways. Đảm bảo người dùng có thể tìm được chuyến bay phù hợp với nhu cầu và ngân sách của mình.</p>
+<p style="margin-bottom:10px">Để sử dụng công cụ này, chỉ cần thực hiện các bước sau:</p>
+<ul style="list-style: decimal;">
+<li>Tại khung tìm chuyến bay của <a href="https://vietjet.net/">Vietjet (.net)</a>, tích chọn "Tìm vé rẻ nhất"</li>
+<li>Nhập thông tin hành trình:</li>
+<ul>
+<li>Điểm đi và điểm đến.</li>
+<li>Loại vé (một chiều hoặc khứ hồi).</li>
+<li>Thời điểm đi và về (nếu có).</li>
+</ul>
+<li>Bấm nút "Tìm chuyến bay". Hệ thống sẽ hiển thị giá vé rẻ nhất theo ngày (giá cơ bản)</li>
+<li>Bấm chọn vé có giá tốt để xem chi tiết và đặt vé.</li>
+</ul>
+<p><em>Lưu ý: đến bước này hệ thống sẽ hiển thị giá vé tổng của tất cả hành khách đã chọn ban đầu (đã bao gồm thuế và phí), hiểu đơn giản là giá vé cuối cùng mà bạn phải thanh toán.</em></p></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-4" aria-expanded="false" data-click="FAQ 4">
+                        <span class="accordion-title">Ngày nào trong tuần đặt vé giá rẻ?</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><ul>
+<li>Dựa trên thông tin được phân tích từ các chuyến bay nội địa, quốc tế và kinh nghiệm chung của nhiều hành khách, vé máy bay thường rẻ hơn vào các ngày từ thứ hai đến thứ năm, vì đây là thời điểm ít người đi công tác hoặc du lịch so với cuối tuần (thứ sáu, thứ bảy, chủ nhật). Trong đó, <strong>thứ ba </strong>và<strong> thứ tư</strong> được nhắc đến nhiều nhất như những ngày có giá vé thấp nhất. Lý do là vì giữa tuần, nhu cầu di chuyển giảm dẫn đến có nhiều ghế trống trên các chuyến bay, các hãng hàng không thường giảm giá để thu hút khách.</li>
+<li>Ngoài ra, một số hãng bay tại Việt Nam như Bamboo Airways còn có chương trình khuyến mãi đặc biệt vào thứ tư (ví dụ: "Chào thứ 4, Bamboo vô tư"), điều này càng cho thấy thứ tư là một ngày thường có giá vé hấp dẫn.</li>
+<li>Tóm lại, thời điểm ngày thường (không tính các dịp lễ, Tết hoặc sự kiện đặc biệt), <strong>thứ ba </strong>và<strong> thứ tư</strong> là hai ngày trong tuần mà bạn có thể tìm thấy vé máy bay giá rẻ nhất.</li>
+</ul></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-5" aria-expanded="false" data-click="FAQ 5">
+                        <span class="accordion-title">Đặt vé đoàn có rẻ hơn nhiều không?</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p>Đặt vé máy bay theo đoàn <strong>có thể rẻ hơn nhưng không phải trong mọi trường hợp, </strong>điều này phụ thuộc vào nhiều yếu tố như đặt sớm, chọn đại lý uy tín hoặc tránh mùa cao điểm. </p>
+<ul>
+<li>Đặt vé máy bay theo đoàn có thể rẻ hơn nếu đặt sớm (1-3 tháng) và tránh cao điểm như lễ, Tết.</li>
+<li>Đặt vé đoàn tại Vietjet (.net) có thể nhận được chiết khấu lên đến 30%</li>
+<li>Có đội nhân viên chuyên biệt hỗ trợ xử lý vé đoàn cho công ty, tổ chức, đoàn thể.</li>
+<li>Ưu điểm: Giảm giá phí dịch vụ, hỗ trợ check-in đồng bộ, linh hoạt thay đổi lịch trình.</li>
+</ul></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-6" aria-expanded="false" data-click="FAQ 6">
+                        <span class="accordion-title">Vé cận là điều nên hạn chế xảy ra</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p style="margin-bottom:10px">Đặt vé máy bay phút cuối hay còn gọi là vé cận ngày có rẻ không? Để trả lời câu hỏi này, chúng ta cần xem xét cách giá vé máy bay hoạt động.</p>
+<p style="margin-bottom:10px">Giá vé máy bay thường bị ảnh hưởng bởi:</p>
+<ul>
+<li><strong>Nhu cầu</strong>: Khi nhu cầu đi lại tăng (ví dụ: mùa cao điểm, lễ hội) thì giá vé thường cao hơn.</li>
+<li><strong>Số lượng ghế trống</strong>: Nếu còn ít ghế, hãng hàng không có thể tăng giá để tối ưu hóa lợi nhuận.</li>
+</ul>
+<p style="margin-bottom:10px">Trong <strong>hầu hết các trường hợp</strong>, đặt vé máy bay phút cuối <strong>không rẻ hơn</strong>.</p>
+<ul>
+<li>Giá vé thường tăng khi ngày bay đến gần vì nhu cầu cao và số ghế trống giảm.</li>
+<li>Các hãng hàng không thường áp dụng chiến lược tăng giá dần khi thời gian bay cận kề để tận dụng tâm lý "cần gấp" của hành khách.</li>
+</ul>
+<p>Đặt vé máy bay cận ngày thì giá không rẻ vì thường chỉ còn hạng ghế thương gia. Để chắc chắn tiết kiệm, hãy lên kế hoạch và đặt vé từ trước đó 1 - 2 tháng.</p></div>
+                </div></div><div class="faq-column"><div class="accordion-item">
+                    <button id="accordion-button-7" aria-expanded="false" data-click="FAQ 7">
+                        <span class="accordion-title">Cách kiểm tra vé máy bay đã đặt xong</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p>Có thể kiểm tra vé máy bay đã đặt tại đại lý, phòng vé hoặc trực tiếp trên website của các Hãng hàng không. Bạn đặt tại hệ thống Vietjet (.net) hãy liên hệ ngay tổng đài có sẵn của chúng tôi. Hoặc bạn có thể xem cách kiểm tra vé máy bay đã đặt các hãng tại <a href="https://vietjet.net/ban-tin-hang-khong/huong-dan-kiem-tra-ve-may-bay-da-dat.html">bài viết này</a>.</p></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-8" aria-expanded="false" data-click="FAQ 8">
+                        <span class="accordion-title">Check in online là như thế nào nhỉ?</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p>Check in online giúp bạn không cần xếp hàng chờ làm thủ tục, có thể trực tiếp ra quầy an ninh. Xem hướng dẫn check in online tại các bài viết sau:</p>
+<ul>
+<li><a href="https://vietjet.net/ban-tin-hang-khong/check-in-online-vietjet-air.html">Check in online Vietjet</a></li>
+<li><a href="https://vietjet.net/ban-tin-hang-khong/check-in-online-vietnam-airlines.html">Check in online Vietnam Airlines</a></li>
+<li><a href="https://vietjet.net/ban-tin-hang-khong/check-in-online-bamboo-airways.html">Check in online Bamboo Airways</a></li>
+</ul></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-9" aria-expanded="false" data-click="FAQ 9">
+                        <span class="accordion-title">Tôi cần cung cấp thông tin gì khi đặt vé?</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p style="margin-bottom:10px">Khi đặt vé máy bay nội địa hay quốc tế, bạn cần chuẩn bị đầy đủ một số thông tin cá nhân và chi tiết chuyến đi để đảm bảo quá trình đặt vé diễn ra thuận lợi. Dưới đây là các thông tin cơ bản cần cung cấp:</p>
+<h4><strong>Đặt vé nội địa</strong></h4>
+<ul>
+<li><strong>Họ và tên:</strong> Phải trùng khớp với giấy tờ tùy thân (CCCD hoặc Hộ chiếu).</li>
+<li><strong>Ngày sinh:</strong> Xác định đúng độ tuổi để hưởng chính sách giá vé, ưu đãi dành cho trẻ em hoặc người lớn tuổi.</li>
+<li><strong>Số điện thoại và email:</strong> Dùng để liên hệ, nhận thông báo thay đổi lịch bay hoặc các thông tin khẩn cấp.</li>
+<li><strong>Số CCCD/Hộ chiếu:</strong> Các hãng yêu cầu cung cấp thông tin này để đối chiếu khi làm thủ tục.</li>
+</ul>
+<h4><strong>Đặt vé quốc tế</strong></h4>
+<ul>
+<li>
+<strong>Họ và tên:</strong> Phải khớp chính xác với thông tin trên hộ chiếu.</li>
+<li><strong>Ngày sinh:</strong> Nhằm đảm bảo tính chính xác trong hồ sơ cá nhân.</li>
+<li><strong>Số điện thoại và email:</strong> Để nhận thông tin cập nhật và liên lạc khi cần thiết.</li>
+<li><strong>Thông tin hộ chiếu:</strong> Số hộ chiếu, ngày cấp, ngày hết hạn và quốc gia cấp.</li>
+<li><strong>Visa (nếu có):</strong> Một số điểm đến yêu cầu visa nhập cảnh, do đó thông tin visa và các giấy tờ liên quan có thể cần thiết.</li>
+</ul>
+<p><em>Bạn cần tư vấn và hỗ trợ ngay hãy liên hệ tổng đài vé máy bay giá rẻ của Vietjet (.net). Chúng tôi có đội ngũ nhân viên phục vụ 24/7, cả lễ và Tết.</em></p></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-10" aria-expanded="false" data-click="FAQ 10">
+                        <span class="accordion-title">Hành khách đi máy bay cần giấy tờ gì?</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p style="margin-bottom: 10px;">Giấy tờ cần mang khi đi máy bay phụ thuộc vào loại chuyến bay (nội địa hay quốc tế) và đối tượng hành khách (người lớn hay trẻ em).</p>
+<h4><span style="color: deepskyblue;">➤</span><strong>Chuyến bay nội địa</strong></h4>
+<p><strong>Người lớn: </strong>Cần mang theo một trong các loại CMND/CCCD/Hộ chiếu hoặc Giấy phép lái xe là bản chính, còn hiệu lực.</p>
+<p><strong>Trẻ em:</strong></p>
+<ul>
+<li><strong>Giấy chứng sinh </strong>(nếu em bé dưới 2 tuổi)</li>
+<li><strong>Giấy khai sinh:</strong> Để xác minh tuổi và mối quan hệ với người lớn đi kèm</li>
+</ul>
+<p><span style="color: deepskyblue;">➤</span><strong>Chuyến bay quốc tế</strong></p>
+<p><strong>Người lớn:</strong></p>
+<ul>
+<li><strong>Hộ chiếu:</strong> Phải còn hiệu lực theo quy định của điểm đến.</li>
+<li><strong>Visa (nếu yêu cầu):</strong> Tùy vào quy định của quốc gia đến.</li>
+<li><strong>Các giấy tờ bổ sung:</strong> Một số trường hợp có thể cần thêm giấy chứng nhận tiêm chủng hoặc giấy xác nhận sức khỏe (đặc biệt trong thời điểm có dịch bệnh).</li>
+</ul>
+<p><strong>Trẻ em:</strong></p>
+<ul>
+<li><strong>Hộ chiếu:</strong> Cũng cần còn hiệu lực theo yêu cầu của quốc gia đến.</li>
+<li><strong>Visa (nếu yêu cầu):</strong> Nếu quốc gia đến yêu cầu visa cho trẻ em.</li>
+<li><strong>Giấy khai sinh:</strong> Để chứng minh mối quan hệ với người đi cùng, đặc biệt khi chỉ có cha mẹ hoặc người giám hộ đi cùng.</li>
+<li><strong>Giấy ủy quyền:</strong> Nếu trẻ em đi cùng người không phải cha mẹ hợp pháp, cần có giấy ủy quyền từ cha mẹ hoặc người giám hộ hợp pháp.</li>
+</ul>
+<p><em>Lưu ý: các yêu cầu cụ thể có thể thay đổi theo từng hãng hàng không và theo quy định của cơ quan chức năng tại từng quốc gia.</em></p></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-11" aria-expanded="false" data-click="FAQ 11">
+                        <span class="accordion-title">Chuyến bay bị trễ hoặc hủy thì sao?</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p style="margin-bottom: 10px;">Khi chuyến bay bị trễ hoặc hủy, bạn có thể làm theo các bước sau để xử lý tình huống một cách hiệu quả:</p>
+<p><span style="color: deepskyblue;">➤</span><strong> Giữ bình tĩnh và kiểm tra thông tin</strong></p>
+<ul>
+<li>Đừng hoảng loạn. Hầu hết các hãng hàng không có quy trình để hỗ trợ hành khách trong trường hợp này.</li>
+<li>Kiểm tra email, tin nhắn, nghe thông báo qua loa hoặc màn hình ở sân bay về lý do trễ hoặc hủy chuyến</li>
+</ul>
+<p><span style="color: deepskyblue;">➤</span><strong> Liên hệ với hãng hàng không</strong>: Tại sân bay, bạn đi đến quầy dịch vụ khách hàng của hãng hàng không hoặc tìm nhân viên hỗ trợ. Họ sẽ hướng dẫn bạn làm các bước tiếp theo.</p>
+<p><span style="color: deepskyblue;">➤</span><strong> Tìm hiểu các lựa chọn thay thế</strong></p>
+<ul>
+<li><strong>Đổi chuyến bay khác</strong>: Hỏi về các chuyến bay khác cùng ngày hoặc ngày tiếp theo. Một số hãng cho phép chuyển đổi miễn phí trong trường hợp khẩn cấp.</li>
+<li><strong>Hãng hàng không khác</strong>: Nếu hãng của bạn không có giải pháp, kiểm tra các hãng khác để đặt vé mới. Mặc dù bạn có thể phải tự thanh toán trước và sau đó yêu cầu hoàn lại từ hãng ban đầu.</li>
+</ul></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-12" aria-expanded="false" data-click="FAQ 12">
+                        <span class="accordion-title">Nên đến sân bay trước bao lâu nhỉ ?</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p style="margin-bottom: 10px;">Thời gian bạn nên đến sân bay trước giờ bay phụ thuộc vào nhiều yếu tố, bao gồm hãng hàng không, loại chuyến bay (nội địa hay quốc tế), quy trình check-in và tình hình giao thông. Dưới đây là khuyến nghị chung dựa trên tình hình thực tế các sân bay tại Việt Nam.</p>
+<h4><span style="color: deepskyblue;">➤ </span><strong>Chuyến bay nội địa (Việt Nam)</strong></h4>
+<ul>
+<li><strong>Thời gian khuyến nghị:</strong> Bạn nên đến sân bay ít nhất <strong>2 giờ</strong> trước giờ khởi hành.</li>
+<li><strong>Lý do:</strong>
+<ul>
+<li>Quy trình check-in, làm thủ tục an ninh và kiểm tra vé thường nhanh hơn so với chuyến bay quốc tế.</li>
+<li>Các sân bay lớn như Tân Sơn Nhất (TP.HCM) hoặc Nội Bài (Hà Nội) có thể đông đúc, đặc biệt vào giờ cao điểm hoặc ngày lễ.</li>
+<li>Nếu bạn check-in trực tuyến trước, thời gian có thể giảm xuống còn <strong>1,5 giờ</strong>, nhưng vẫn cần thời gian để gửi hành lý (nếu có) và đi qua khu vực kiểm tra an ninh.</li>
+</ul>
+</li>
+</ul>
+<h4><span style="color: deepskyblue;">➤ </span><strong>Chuyến bay quốc tế</strong></h4>
+<ul>
+<li><strong>Thời gian khuyến nghị:</strong> Bạn nên đến sân bay ít nhất <strong>3 giờ</strong> trước giờ khởi hành và tốt nhất là <strong>4 giờ</strong> nếu đi từ các sân bay lớn hoặc đến các điểm quốc tế (như Mỹ, châu Âu).</li>
+<li><strong>Lý do:</strong>
+<ul>
+<li>Quy trình kiểm tra visa, hải quan, an ninh và nhập cảnh thường mất nhiều thời gian hơn.</li>
+<li>Một số sân bay quốc tế có quy định nghiêm ngặt về kiểm tra an ninh và kiểm tra hộ chiếu.</li>
+<li>Nếu bạn cần đổi tiền, mua sắm hoặc ăn uống trước khi bay, thời gian 3-4 giờ sẽ giúp bạn thoải mái hơn.</li>
+</ul>
+</li>
+</ul></div>
+                </div><div class="accordion-item">
+                    <button id="accordion-button-13" aria-expanded="false" data-click="FAQ 13">
+                        <span class="accordion-title">Muốn đổi ngày bay, giờ bay thì làm như thế nào? Hãng hàng không hỗ trợ ra sao.</span>
+                        <svg width="1em" height="1em" font-size="1.5rem" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M17.7707 8.7125c.2983.2905.3066.77.0187 1.0708L12.54 15.2687A.7474.7474 0 0 1 12 15.5a.7474.7474 0 0 1-.54-.2313L6.2106 9.7833c-.288-.3009-.2796-.7803.0187-1.0708a.746.746 0 0 1 1.0613.0188L12 13.6524l4.7094-4.9211a.7459.7459 0 0 1 1.0613-.0188Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </button>
+                    <div class="accordion-content"><p>Để thay đổi ngày và giờ bay, bạn gọi đến nơi đặt vé ban đầu nhờ họ hỗ trợ. Nếu đặt vé tại Vietjet (.net), hãy gọi bằng số điện thoại khi đặt vé đến tổng đài của chúng tôi, cung cấp thông tin theo yêu cầu.</p>
+<p><strong>Lưu ý</strong>:</p>
+<ul>
+<li>Đổi vé sẽ mất phí đổi và phí chênh lệch giá vé (nếu có).</li>
+<li>Đảm bảo vé còn trong thời gian đổi (thường là từ 24h - 48h trước giờ bay)</li>
+<li>Kiểm tra email xác nhận hoặc tin nhắn sau khi đổi.</li>
+</ul></div>
+                </div></div><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Tại sao nên đặt vé máy bay ở đây",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vietjet (.net) là đại lý vé máy bay chính thức của các hãng hàng không nội địa và quốc tế. Khác biệt lớn nhất khi đặt vé tại đây chính là sự hỗ trợ tận tình. Nếu Quý khách tự đặt vé mà xảy ra sai sót, việc xử lý sẽ vô cùng phức tạp, thậm chí là mất vé. Đặt qua Vietjet (.net), chúng tôi cam kết kiểm tra kỹ lưỡng và nếu có bất kỳ sai sót nào xuất phát từ phía chúng tôi (như nhập sai thông tin tên, ngày bay... gây ảnh hưởng đến chuyến đi), Quý khách sẽ được đền bù 100%. Ngoài ra, khách hàng còn chọn chúng tôi vì: Hỗ trợ 24/7: Tổng đài sẵn sàng giải đáp thắc mắc mọi lúc, kể cả ngày lễ hay Tết để việc săn vé máy bay giá rẻ trở nên dễ dàng hơn bao giờ hết. Hệ thống thông minh, dễ sử dụng: Giao diện thân thiện giúp bạn nhanh chóng tìm kiếm và đặt vé máy bay chỉ trong vài bước đơn giản. Tiết kiệm thời gian: Không cần truy cập nhiều website để so sánh giá từ các hãng hàng không, mọi thông tin đều được tổng hợp tại một nơi. Giá vé cập nhật thời gian thực: Luôn mang đến vé máy bay giá rẻ nhất từ tất cả các hãng hàng không, giúp bạn tiết kiệm tối đa. Thanh toán linh hoạt: Nhiều phương thức thanh toán an toàn như chuyển khoản qua ngân hàng, cổng thanh toán quốc tế (Visa/MasterCard), tiền mặt. Ưu đãi hấp dẫn mỗi ngày: Nhiều chương trình khuyến mãi dành cho cả khách hàng mới và cũ, giúp bạn dễ dàng sở hữu vé máy bay giá rẻ."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Đặt vé máy bay giá rẻ như thế nào?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Đặt vé máy bay tại Vietjet (.net) luôn là giá rẻ. Bạn có thể thực hiện theo các bước sau: Truy cập Vietjet (.net) ngay tại trang chủ, nhập thông tin hành trình và bấm tìm chuyến bay . Giá vé máy bay hiển thị từ thấp đến cao (đây là giá cuối cùng đã bao gồm thuế phí và tổng tiền tất cả hành khách mà bạn đã chọn). Sau đó, bạn chọn một chuyến bay phù hợp. Nhập thông tin hành khách (thông tin giống với giấy tờ tùy thân, trường hợp sai thông tin liên hệ thay đổi ngay trước khi thanh toán) Chọn phương thức thanh toán, sau đó bấm Đặt vé. Nhân viên của Vietjet (.net) sẽ liên hệ hỗ trợ ngay trong giây lát. Sau khi thanh toán thành công, code vé sẽ được gửi qua thông tin bạn cung cấp ban đầu gồm Số điện thoại, Email hoặc Zalo OA."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Phương thức thanh toán thuận tiện",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vietjet (.net) chấp nhận thanh toán vé máy bay qua nhiều hình thức : Chuyển khoản ngân hàng (đây là phương thức tối ưu, nhanh chóng và an toàn) Thanh toán online bằng Visa/Mastercard thông qua Onepay Thanh toán tiền mặt tại văn phòng Giáo vé tại nhà - thu tiền (chỉ áp dụng tại TP. HCM)"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Mẹo săn vé máy bay giá rẻ 2026",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tiện ích săn vé máy bay giá rẻ giúp người dùng dễ dàng tìm kiếm và đặt vé máy bay với mức giá tốt nhất. Nó cho phép so sánh giá vé theo thời gian thực từ nhiều hãng hàng không, bao gồm: Vietjet, Vietnam Airlines, Bamboo Airways. Đảm bảo người dùng có thể tìm được chuyến bay phù hợp với nhu cầu và ngân sách của mình. Để sử dụng công cụ này, chỉ cần thực hiện các bước sau: Tại khung tìm chuyến bay của Vietjet (.net), tích chọn Tìm vé rẻ nhất Nhập thông tin hành trình: Điểm đi và điểm đến. Loại vé (một chiều hoặc khứ hồi). Thời điểm đi và về (nếu có). Bấm nút Tìm chuyến bay . Hệ thống sẽ hiển thị giá vé rẻ nhất theo ngày (giá cơ bản) Bấm chọn vé có giá tốt để xem chi tiết và đặt vé. Lưu ý: đến bước này hệ thống sẽ hiển thị giá vé tổng của tất cả hành khách đã chọn ban đầu (đã bao gồm thuế và phí), hiểu đơn giản là giá vé cuối cùng mà bạn phải thanh toán."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Ngày nào trong tuần đặt vé giá rẻ?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dựa trên thông tin được phân tích từ các chuyến bay nội địa, quốc tế và kinh nghiệm chung của nhiều hành khách, vé máy bay thường rẻ hơn vào các ngày từ thứ hai đến thứ năm, vì đây là thời điểm ít người đi công tác hoặc du lịch so với cuối tuần (thứ sáu, thứ bảy, chủ nhật). Trong đó, thứ ba và thứ tư được nhắc đến nhiều nhất như những ngày có giá vé thấp nhất. Lý do là vì giữa tuần, nhu cầu di chuyển giảm dẫn đến có nhiều ghế trống trên các chuyến bay, các hãng hàng không thường giảm giá để thu hút khách. Ngoài ra, một số hãng bay tại Việt Nam như Bamboo Airways còn có chương trình khuyến mãi đặc biệt vào thứ tư (ví dụ: Chào thứ 4, Bamboo vô tư ), điều này càng cho thấy thứ tư là một ngày thường có giá vé hấp dẫn. Tóm lại, thời điểm ngày thường (không tính các dịp lễ, Tết hoặc sự kiện đặc biệt), thứ ba và thứ tư là hai ngày trong tuần mà bạn có thể tìm thấy vé máy bay giá rẻ nhất."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Đặt vé đoàn có rẻ hơn nhiều không?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Đặt vé máy bay theo đoàn có thể rẻ hơn nhưng không phải trong mọi trường hợp, điều này phụ thuộc vào nhiều yếu tố như đặt sớm, chọn đại lý uy tín hoặc tránh mùa cao điểm. Đặt vé máy bay theo đoàn có thể rẻ hơn nếu đặt sớm (1-3 tháng) và tránh cao điểm như lễ, Tết. Đặt vé đoàn tại Vietjet (.net) có thể nhận được chiết khấu lên đến 30% Có đội nhân viên chuyên biệt hỗ trợ xử lý vé đoàn cho công ty, tổ chức, đoàn thể. Ưu điểm: Giảm giá phí dịch vụ, hỗ trợ check-in đồng bộ, linh hoạt thay đổi lịch trình."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Vé cận là điều nên hạn chế xảy ra",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Đặt vé máy bay phút cuối hay còn gọi là vé cận ngày có rẻ không? Để trả lời câu hỏi này, chúng ta cần xem xét cách giá vé máy bay hoạt động. Giá vé máy bay thường bị ảnh hưởng bởi: Nhu cầu: Khi nhu cầu đi lại tăng (ví dụ: mùa cao điểm, lễ hội) thì giá vé thường cao hơn. Số lượng ghế trống: Nếu còn ít ghế, hãng hàng không có thể tăng giá để tối ưu hóa lợi nhuận. Trong hầu hết các trường hợp, đặt vé máy bay phút cuối không rẻ hơn. Giá vé thường tăng khi ngày bay đến gần vì nhu cầu cao và số ghế trống giảm. Các hãng hàng không thường áp dụng chiến lược tăng giá dần khi thời gian bay cận kề để tận dụng tâm lý cần gấp của hành khách. Đặt vé máy bay cận ngày thì giá không rẻ vì thường chỉ còn hạng ghế thương gia. Để chắc chắn tiết kiệm, hãy lên kế hoạch và đặt vé từ trước đó 1 - 2 tháng."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Cách kiểm tra vé máy bay đã đặt xong",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Có thể kiểm tra vé máy bay đã đặt tại đại lý, phòng vé hoặc trực tiếp trên website của các Hãng hàng không. Bạn đặt tại hệ thống Vietjet (.net) hãy liên hệ ngay tổng đài có sẵn của chúng tôi. Hoặc bạn có thể xem cách kiểm tra vé máy bay đã đặt các hãng tại bài viết này."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Check in online là như thế nào nhỉ?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check in online giúp bạn không cần xếp hàng chờ làm thủ tục, có thể trực tiếp ra quầy an ninh. Xem hướng dẫn check in online tại các bài viết sau: Check in online Vietjet Check in online Vietnam Airlines Check in online Bamboo Airways"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Tôi cần cung cấp thông tin gì khi đặt vé?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khi đặt vé máy bay nội địa hay quốc tế, bạn cần chuẩn bị đầy đủ một số thông tin cá nhân và chi tiết chuyến đi để đảm bảo quá trình đặt vé diễn ra thuận lợi. Dưới đây là các thông tin cơ bản cần cung cấp: Đặt vé nội địa Họ và tên: Phải trùng khớp với giấy tờ tùy thân (CCCD hoặc Hộ chiếu). Ngày sinh: Xác định đúng độ tuổi để hưởng chính sách giá vé, ưu đãi dành cho trẻ em hoặc người lớn tuổi. Số điện thoại và email: Dùng để liên hệ, nhận thông báo thay đổi lịch bay hoặc các thông tin khẩn cấp. Số CCCD/Hộ chiếu: Các hãng yêu cầu cung cấp thông tin này để đối chiếu khi làm thủ tục. Đặt vé quốc tế Họ và tên: Phải khớp chính xác với thông tin trên hộ chiếu. Ngày sinh: Nhằm đảm bảo tính chính xác trong hồ sơ cá nhân. Số điện thoại và email: Để nhận thông tin cập nhật và liên lạc khi cần thiết. Thông tin hộ chiếu: Số hộ chiếu, ngày cấp, ngày hết hạn và quốc gia cấp. Visa (nếu có): Một số điểm đến yêu cầu visa nhập cảnh, do đó thông tin visa và các giấy tờ liên quan có thể cần thiết. Bạn cần tư vấn và hỗ trợ ngay hãy liên hệ tổng đài vé máy bay giá rẻ của Vietjet (.net). Chúng tôi có đội ngũ nhân viên phục vụ 24/7, cả lễ và Tết."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Hành khách đi máy bay cần giấy tờ gì?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Giấy tờ cần mang khi đi máy bay phụ thuộc vào loại chuyến bay (nội địa hay quốc tế) và đối tượng hành khách (người lớn hay trẻ em). ➤Chuyến bay nội địa Người lớn: Cần mang theo một trong các loại CMND/CCCD/Hộ chiếu hoặc Giấy phép lái xe là bản chính, còn hiệu lực. Trẻ em: Giấy chứng sinh (nếu em bé dưới 2 tuổi) Giấy khai sinh: Để xác minh tuổi và mối quan hệ với người lớn đi kèm ➤Chuyến bay quốc tế Người lớn: Hộ chiếu: Phải còn hiệu lực theo quy định của điểm đến. Visa (nếu yêu cầu): Tùy vào quy định của quốc gia đến. Các giấy tờ bổ sung: Một số trường hợp có thể cần thêm giấy chứng nhận tiêm chủng hoặc giấy xác nhận sức khỏe (đặc biệt trong thời điểm có dịch bệnh). Trẻ em: Hộ chiếu: Cũng cần còn hiệu lực theo yêu cầu của quốc gia đến. Visa (nếu yêu cầu): Nếu quốc gia đến yêu cầu visa cho trẻ em. Giấy khai sinh: Để chứng minh mối quan hệ với người đi cùng, đặc biệt khi chỉ có cha mẹ hoặc người giám hộ đi cùng. Giấy ủy quyền: Nếu trẻ em đi cùng người không phải cha mẹ hợp pháp, cần có giấy ủy quyền từ cha mẹ hoặc người giám hộ hợp pháp. Lưu ý: các yêu cầu cụ thể có thể thay đổi theo từng hãng hàng không và theo quy định của cơ quan chức năng tại từng quốc gia."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Chuyến bay bị trễ hoặc hủy thì sao?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khi chuyến bay bị trễ hoặc hủy, bạn có thể làm theo các bước sau để xử lý tình huống một cách hiệu quả: ➤ Giữ bình tĩnh và kiểm tra thông tin Đừng hoảng loạn. Hầu hết các hãng hàng không có quy trình để hỗ trợ hành khách trong trường hợp này. Kiểm tra email, tin nhắn, nghe thông báo qua loa hoặc màn hình ở sân bay về lý do trễ hoặc hủy chuyến ➤ Liên hệ với hãng hàng không: Tại sân bay, bạn đi đến quầy dịch vụ khách hàng của hãng hàng không hoặc tìm nhân viên hỗ trợ. Họ sẽ hướng dẫn bạn làm các bước tiếp theo. ➤ Tìm hiểu các lựa chọn thay thế Đổi chuyến bay khác: Hỏi về các chuyến bay khác cùng ngày hoặc ngày tiếp theo. Một số hãng cho phép chuyển đổi miễn phí trong trường hợp khẩn cấp. Hãng hàng không khác: Nếu hãng của bạn không có giải pháp, kiểm tra các hãng khác để đặt vé mới. Mặc dù bạn có thể phải tự thanh toán trước và sau đó yêu cầu hoàn lại từ hãng ban đầu."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Nên đến sân bay trước bao lâu nhỉ ?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thời gian bạn nên đến sân bay trước giờ bay phụ thuộc vào nhiều yếu tố, bao gồm hãng hàng không, loại chuyến bay (nội địa hay quốc tế), quy trình check-in và tình hình giao thông. Dưới đây là khuyến nghị chung dựa trên tình hình thực tế các sân bay tại Việt Nam. ➤ Chuyến bay nội địa (Việt Nam) Thời gian khuyến nghị: Bạn nên đến sân bay ít nhất 2 giờ trước giờ khởi hành. Lý do: Quy trình check-in, làm thủ tục an ninh và kiểm tra vé thường nhanh hơn so với chuyến bay quốc tế. Các sân bay lớn như Tân Sơn Nhất (TP.HCM) hoặc Nội Bài (Hà Nội) có thể đông đúc, đặc biệt vào giờ cao điểm hoặc ngày lễ. Nếu bạn check-in trực tuyến trước, thời gian có thể giảm xuống còn 1,5 giờ, nhưng vẫn cần thời gian để gửi hành lý (nếu có) và đi qua khu vực kiểm tra an ninh. ➤ Chuyến bay quốc tế Thời gian khuyến nghị: Bạn nên đến sân bay ít nhất 3 giờ trước giờ khởi hành và tốt nhất là 4 giờ nếu đi từ các sân bay lớn hoặc đến các điểm quốc tế (như Mỹ, châu Âu). Lý do: Quy trình kiểm tra visa, hải quan, an ninh và nhập cảnh thường mất nhiều thời gian hơn. Một số sân bay quốc tế có quy định nghiêm ngặt về kiểm tra an ninh và kiểm tra hộ chiếu. Nếu bạn cần đổi tiền, mua sắm hoặc ăn uống trước khi bay, thời gian 3-4 giờ sẽ giúp bạn thoải mái hơn."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Muốn đổi ngày bay, giờ bay thì làm như thế nào? Hãng hàng không hỗ trợ ra sao.",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Để thay đổi ngày và giờ bay, bạn gọi đến nơi đặt vé ban đầu nhờ họ hỗ trợ. Nếu đặt vé tại Vietjet (.net), hãy gọi bằng số điện thoại khi đặt vé đến tổng đài của chúng tôi, cung cấp thông tin theo yêu cầu. Lưu ý: Đổi vé sẽ mất phí đổi và phí chênh lệch giá vé (nếu có). Đảm bảo vé còn trong thời gian đổi (thường là từ 24h - 48h trước giờ bay) Kiểm tra email xác nhận hoặc tin nhắn sau khi đổi."
+            }
+        }
+    ]
+}</script></div><div class="see-more text-center"><a href="/cau-hoi-thuong-gap" class="btn btn-default ml-auto px-4" aria-label="Xem thêm các câu hỏi khác" name="see-more" title="Xem thêm các câu hỏi khác">Xem thêm các câu hỏi khác</a></div>                </div>
+            </section>
+        </section>    <!-- END MIDDLE -->
+</main>
+<footer id="tcb_footer" role="contentinfo">
+    <section class="footer-navtabs" id="footer-navtabs" data-scroll="footer-tab">
+                    <div class="mainContainer">
+                        <div class="navtabs-wrap"><ul class="tabs__nav-list"><li class="tabs__nav-item active" data-click="tab-flight Vé máy bay đi Hà Nội">Vé máy bay đi Hà Nội</li><li class="tabs__nav-item " data-click="tab-flight Vé máy bay đi Sài Gòn">Vé máy bay đi Sài Gòn</li><li class="tabs__nav-item " data-click="tab-flight Vé máy bay đi Đà Nẵng">Vé máy bay đi Đà Nẵng</li><li class="tabs__nav-item " data-click="tab-flight Vé máy bay đi Phú Quốc">Vé máy bay đi Phú Quốc</li><li class="tabs__nav-item " data-click="tab-flight Vé máy bay đi Hải Phòng">Vé máy bay đi Hải Phòng</li></ul><div class="tabs__panels"><div class="tabs__panel active"><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-sai-gon-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Sài Gòn Hà Nội">
+                                    <p>Vé máy bay Sài Gòn Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-da-nang-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Đà Nẵng Hà Nội">
+                                    <p>Vé máy bay Đà Nẵng Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-phu-quoc-di-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Phú Quốc Hà Nội">
+                                    <p>Vé máy bay Phú Quốc Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-nha-trang-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Nha Trang Hà Nội">
+                                    <p>Vé máy bay Nha Trang Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-pleiku-di-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Pleiku Hà Nội">
+                                    <p>Vé máy bay Pleiku Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-dong-hoi-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Đồng Hới Hà Nội">
+                                    <p>Vé máy bay Đồng Hới Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-dien-bien-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Điện Biên Hà Nội">
+                                    <p>Vé máy bay Điện Biên Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-can-tho-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Cần Thơ Hà Nội">
+                                    <p>Vé máy bay Cần Thơ Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-chu-lai-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Chu Lai Hà Nội">
+                                    <p>Vé máy bay Chu Lai Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-quy-nhon-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Quy Nhơn Hà Nội">
+                                    <p>Vé máy bay Quy Nhơn Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-da-lat-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Đà Lạt Hà Nội">
+                                    <p>Vé máy bay Đà Lạt Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-tuy-hoa-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Tuy Hòa Hà Nội">
+                                    <p>Vé máy bay Tuy Hòa Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-buon-me-thuot-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Buôn Mê Thuột Hà Nội">
+                                    <p>Vé máy bay Buôn Mê Thuột Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-vinh-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Vinh Hà Nội">
+                                    <p>Vé máy bay Vinh Hà Nội</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-hue-ha-noi.html" class="panel--item" data-click="flight-post Vé máy bay Huế Hà Nội">
+                                    <p>Vé máy bay Huế Hà Nội</p>
+                                </a></div><div class="tabs__panel "><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-ha-noi-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Hà Nội Sài Gòn">
+                                    <p>Vé máy bay Hà Nội Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-da-nang-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Đà Nẵng Sài Gòn">
+                                    <p>Vé máy bay Đà Nẵng Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-phu-quoc-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Phú Quốc Sài Gòn">
+                                    <p>Vé máy bay Phú Quốc Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-hai-phong-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Hải Phòng Sài Gòn ">
+                                    <p>Vé máy bay Hải Phòng Sài Gòn </p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-vinh-di-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Vinh Sài Gòn">
+                                    <p>Vé máy bay Vinh Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-van-don-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Vân Đồn Sài Gòn">
+                                    <p>Vé máy bay Vân Đồn Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-tuy-hoa-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Tuy Hòa Sài Gòn">
+                                    <p>Vé máy bay Tuy Hòa Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-quy-nhon-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Quy Nhơn Sài Gòn">
+                                    <p>Vé máy bay Quy Nhơn Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-pleiku-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Pleiku Sài Gòn">
+                                    <p>Vé máy bay Pleiku Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-nha-trang-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Nha Trang Sài Gòn">
+                                    <p>Vé máy bay Nha Trang Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-hue-di-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Huế Sài Gòn">
+                                    <p>Vé máy bay Huế Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-dong-hoi-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Đồng Hới Sài Gòn">
+                                    <p>Vé máy bay Đồng Hới Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-da-lat-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Đà Lạt Sài Gòn">
+                                    <p>Vé máy bay Đà Lạt Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-con-dao-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Côn Đảo Sài Gòn">
+                                    <p>Vé máy bay Côn Đảo Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/gia-ve-may-bay-thanh-hoa-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Thanh Hóa Sài Gòn">
+                                    <p>Vé máy bay Thanh Hóa Sài Gòn</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-buon-thuot-di-sai-gon.html" class="panel--item" data-click="flight-post Vé máy bay Buôn Mê Thuột Sài Gòn">
+                                    <p>Vé máy bay Buôn Mê Thuột Sài Gòn</p>
+                                </a></div><div class="tabs__panel "><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-ha-noi-da-nang.html" class="panel--item" data-click="flight-post Vé máy bay Hà Nội Đà Nẵng">
+                                    <p>Vé máy bay Hà Nội Đà Nẵng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-sai-gon-da-nang.html" class="panel--item" data-click="flight-post Vé máy bay Sài Gòn Đà Nẵng">
+                                    <p>Vé máy bay Sài Gòn Đà Nẵng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-phu-quoc-da-nang.html" class="panel--item" data-click="flight-post Vé máy bay Phú Quốc Đà Nẵng">
+                                    <p>Vé máy bay Phú Quốc Đà Nẵng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-hai-phong-da-nang.html" class="panel--item" data-click="flight-post Vé máy bay Hải Phòng Đà Nẵng">
+                                    <p>Vé máy bay Hải Phòng Đà Nẵng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-vinh-da-nang.html" class="panel--item" data-click="flight-post Vé máy bay Vinh Đà Nẵng">
+                                    <p>Vé máy bay Vinh Đà Nẵng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-nha-trang-da-nang.html" class="panel--item" data-click="flight-post Vé máy bay Nha Trang Đà Nẵng">
+                                    <p>Vé máy bay Nha Trang Đà Nẵng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-da-lat-da-nang.html" class="panel--item" data-click="flight-post Vé máy bay Đà Lạt Đà Nẵng">
+                                    <p>Vé máy bay Đà Lạt Đà Nẵng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-can-tho-da-nang.html" class="panel--item" data-click="flight-post Vé máy bay Cần Thơ Đà Nẵng">
+                                    <p>Vé máy bay Cần Thơ Đà Nẵng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-buon-me-thuot-da-nang.html" class="panel--item" data-click="flight-post Vé máy bay Buôn Ma Thuột Đà Nẵng">
+                                    <p>Vé máy bay Buôn Ma Thuột Đà Nẵng</p>
+                                </a></div><div class="tabs__panel "><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-ha-noi-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Hà Nội Phú Quốc">
+                                    <p>Vé máy bay Hà Nội Phú Quốc</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-tu-sai-gon-di-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Sài Gòn Phú Quốc">
+                                    <p>Vé máy bay Sài Gòn Phú Quốc</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-da-nang-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Đà Nẵng Phú Quốc">
+                                    <p>Vé máy bay Đà Nẵng Phú Quốc</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-hai-phong-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Hải Phòng Phú Quốc">
+                                    <p>Vé máy bay Hải Phòng Phú Quốc</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-vinh-di-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Vinh Phú Quốc">
+                                    <p>Vé máy bay Vinh Phú Quốc</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-thanh-hoa-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Thanh Hóa Phú Quốc">
+                                    <p>Vé máy bay Thanh Hóa Phú Quốc</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-nha-trang-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Nha Trang Phú Quốc">
+                                    <p>Vé máy bay Nha Trang Phú Quốc</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-hue-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Huế Phú Quốc">
+                                    <p>Vé máy bay Huế Phú Quốc</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-da-lat-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Đà Lạt Phú Quốc">
+                                    <p>Vé máy bay Đà Lạt Phú Quốc</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-can-tho-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Cần Thơ Phú Quốc">
+                                    <p>Vé máy bay Cần Thơ Phú Quốc</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-buon-ma-thuot-di-phu-quoc.html" class="panel--item" data-click="flight-post Vé máy bay Buôn Ma Thuột Phú Quốc">
+                                    <p>Vé máy bay Buôn Ma Thuột Phú Quốc</p>
+                                </a></div><div class="tabs__panel "><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-sai-gon-hai-phong.html" class="panel--item" data-click="flight-post Vé máy bay Sài Gòn Hải Phòng">
+                                    <p>Vé máy bay Sài Gòn Hải Phòng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-da-nang-hai-phong.html" class="panel--item" data-click="flight-post Vé máy bay Đà Nẵng Hải Phòng">
+                                    <p>Vé máy bay Đà Nẵng Hải Phòng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-phu-quoc-hai-phong.html" class="panel--item" data-click="flight-post Vé máy bay Phú Quốc Hải Phòng">
+                                    <p>Vé máy bay Phú Quốc Hải Phòng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-nha-trang-hai-phong.html" class="panel--item" data-click="flight-post Vé máy bay Nha Trang Hải Phòng">
+                                    <p>Vé máy bay Nha Trang Hải Phòng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-pleiku-di-hai-phong.html" class="panel--item" data-click="flight-post Vé máy bay Pleiku Hải Phòng">
+                                    <p>Vé máy bay Pleiku Hải Phòng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-da-lat-hai-phong.html" class="panel--item" data-click="flight-post Vé máy bay Đà Lạt Hải Phòng">
+                                    <p>Vé máy bay Đà Lạt Hải Phòng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-can-tho-hai-phong.html" class="panel--item" data-click="flight-post Vé máy bay Cần Thơ Hải Phòng">
+                                    <p>Vé máy bay Cần Thơ Hải Phòng</p>
+                                </a><a href="https://vietjet.net/vietjet-gia-re/ve-may-bay-buon-me-thuot-hai-phong.html" class="panel--item" data-click="flight-post Vé máy bay Buôn Ma Thuột Hải Phòng">
+                                    <p>Vé máy bay Buôn Ma Thuột Hải Phòng</p>
+                                </a></div></div></div>
+                    </div>
+                </section><section class="footer-copyright" id="footer-copyright">
+    <div class="mainContainer">
+        <div class="footer-copyright__wrap">
+                                        <div class="copyright-part">
+                    <h2>Chính sách</h2>
+                    <ul class="list-part__footer">
+                        <li class="text-default" data-click="footer-part Chính sách bảo mật"><a arial-label="footer-part" href="/chinh-sach-bao-mat">Chính sách bảo mật</a></li><li class="text-default" data-click="footer-part Điều khoản sử dụng"><a arial-label="footer-part" href="/dieu-khoan-su-dung">Điều khoản sử dụng</a></li><li class="text-default" data-click="footer-part Hình thức thanh toán"><a arial-label="footer-part" href="/hinh-thuc-thanh-toan">Hình thức thanh toán</a></li><li class="text-default" data-click="footer-part Chính sách đại lý"><a arial-label="footer-part" href="/ho-tro-dai-ly">Chính sách đại lý</a></li>                    </ul>
+                </div>
+                            <div class="copyright-part">
+                    <h2>Các quy định</h2>
+                    <ul class="list-part__footer">
+                        <li class="text-default" data-click="footer-part Yêu cầu giấy tờ"><a arial-label="footer-part" href="/yeu-cau-giay-to">Yêu cầu giấy tờ</a></li><li class="text-default" data-click="footer-part Thủ tục sân bay"><a arial-label="footer-part" href="/thu-tuc-san-bay">Thủ tục sân bay</a></li><li class="text-default" data-click="footer-part Hoàn đổi vé"><a arial-label="footer-part" href="/hoan-doi-ve">Hoàn đổi vé</a></li><li class="text-default" data-click="footer-part Điều kiện hành lý"><a arial-label="footer-part" href="/hanh-ly-khi-di-may-bay">Điều kiện hành lý</a></li>                    </ul>
+                </div>
+                            <div class="copyright-part">
+                    <h2>Về chúng tôi</h2>
+                    <ul class="list-part__footer">
+                        <li class="text-default" data-click="footer-part Giới thiệu"><a arial-label="footer-part" href="/gioi-thieu">Giới thiệu</a></li><li class="text-default" data-click="footer-part Liên hệ chúng tôi"><a arial-label="footer-part" href="/lien-he">Liên hệ chúng tôi</a></li><li class="text-default" data-click="footer-part Hướng dẫn đặt vé"><a arial-label="footer-part" href="/huong-dan-dat-ve">Hướng dẫn đặt vé</a></li><li class="text-default" data-click="footer-part Điều kiện giá vé"><a arial-label="footer-part" href="/dieu-kien-gia-ve">Điều kiện giá vé</a></li>                    </ul>
+                </div>
+                            <div class="copyright-part">
+                    <h2>Săn vé máy bay giá rẻ cùng Vietjet (.net)</h2>
+                    <ul class="list-part__footer">
+                        <li class="text-default">
+                                    <p class="">138 Nguyễn Thượng Hiền, P. Hạnh Thông, TP. HCM</p>
+                                </li><li class="text-default">
+                                    <p class="">info@vietjet.net - Hotline: <a href="tel:02866509900">028 6650 9900</a></p>
+                                </li><li class="text-default">
+                                    <p class="">Cty TNHH Giao Nhanh VN - MST: 0317590421</p>
+                                </li><li class="text-default">
+                                    <p class="flex-start gap-1">
+                                <a data-click="visit facebook" class="social" target="_blank" href="https://www.facebook.com/timchuyenbayvn" arial-label="facebook">
+                                    <img src="https://gmi.vietjet.net/images/footer/facebook.svg" alt="Facebook">
+                                </a>
+                                <a data-click="visit Tiktok" class="social" target="_blank" href="https://www.tiktok.com/@timchuyenbay" arial-label="tiktok">
+                                    <img src="https://gmi.vietjet.net/images/footer/tiktok.svg" alt="Tiktok">
+                                </a>
+                                <a data-click="visit youtube" class="social" target="_blank" href="https://www.youtube.com/@timchuyenbay" arial-label="youtube">
+                                    <img src="https://gmi.vietjet.net/images/footer/youtube.svg" alt="Youtube">
+                                </a>
+                                <a class="policy" target="_blank" href="http://online.gov.vn/Home/WebDetails/121905" arial-label="bo cong thuong logo">
+                                    <img src="https://gmi.vietjet.net/images/footer/Bo-cong-thuong-logo.webp" width="94" height="35" alt="Bo cong thuong logo">
+                                </a>
+                                <a class="policy" href="https://vietjet.net" arial-label="DMCA logo">
+                                    <img src="https://gmi.vietjet.net/images/footer/DMCA-logo.webp" width="94" height="35" alt="DMCA logo">
+                                </a>
+                            </p>
+                                </li>                    </ul>
+                </div>
+                    </div>
+        <div class="certificate_of_business_registration">
+                    </div>
+    </div>
+</section><div class="d-flex flex-column gap-2">
+            <div class="btn-support btn-zalo-support">
+            <a data-click="visit zalo" href="https://zalo.me/2941581384627345950" target="_blank" title="Hỗ trợ qua Zalo Tìm Chuyến Bay">
+                <div class="btn-zalo-circle"></div>
+                <div class="btn-zalo-circle-fill"></div>
+                <div class="btn-img-circle zalo-img-circle" style="background-image: url(https://gmi.vietjet.net/images/icon-zalo.svg);"></div>
+            </a>
+        </div>
+        <!-- <div class="zalo-chat-widget" data-oaid="2941581384627345950" data-welcome-message="Rất vui khi được hỗ trợ bạn!" data-autopopup="3" data-width="350" data-height="350"></div>
+        <script src="https://sp.zalo.me/plugins/sdk.js"></script> -->
+    </div></footer>
+
+<script type="text/javascript" id="uat-tracking-js-extra">
+/* <![CDATA[ */
+var uatSettings = {"root":"https:\/\/vietjet.net\/wp-json\/","nonce":"96325de765","admin_url":"\/wp-admin\/admin-ajax.php","heatmap":{"active":false},"cfg":{"flush_interval":30000,"heartbeat_interval":90000,"batch_size":50,"conversion_urls":[],"auto_track_rules":[{"event_type":"click","selector":".header__logo","element":"home_btn","element_value":"vietjetnet home"}]}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/ua-tracker/assets/js/tracking.js?ver=1.3.11" id="uat-tracking-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/custom_date_lunnar.js?ver=1.0" id="custom-date-lunnar-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="Loading-js-extra">
+/* <![CDATA[ */
+var varsLoading = {"id":"Loading-css","csslink":"\/wp-content\/themes\/flight-booking\/assets\/css\/elements\/Loading.css?ver=1.1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/elements/Loading.js?ver=1.0" id="Loading-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/global.js?ver=1.17" id="global-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/header.js?ver=1.5" id="header-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/libs/swiper.min.js?ver=6.7" id="swiper-ui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="chat-context-js-extra">
+/* <![CDATA[ */
+var ChatPageInfo = {"pageType":"home"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/template/external/chat-context.js?ver=1.0.2" id="chat-context-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/locations.js?ver=1.0" id="locations-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/form-choose-airports.js?ver=1.1.4" id="choose-airports-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/form-flight-search.js?ver=2.2" id="flight-search-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="datacheap-js-extra">
+/* <![CDATA[ */
+var datacheap = {"cheaptickets_token":"","cheaptickets_url":"https:\/\/data.cheaptickets.vn\/api\/v1\/update_best_price","cheaptickets_page":"https:\/\/vietjet.net\/crawl-journey-price"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/datacheap.js?ver=1.9" id="datacheap-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="/wp-content/themes/flight-booking/assets/js/footer.js?ver=1.6" id="footer-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="support-widget-v1-js-before">
+/* <![CDATA[ */
+window.SupportWidgetConfig = {"wsUrl":"wss:\/\/chat.timchuyenbay.net","title":"Chat","primaryColor":"#1F7A4D","avatarUrl":"data:image\/svg+xml;utf8,%3Csvg%20height%3D%2264px%22%20width%3D%2264px%22%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%20xml%3Aspace%3D%22preserve%22%20fill%3D%22%23000000%22%3E%3Cg%20id%3D%22SVGRepo_bgCarrier%22%20stroke-width%3D%220%22%3E%3C%2Fg%3E%3Cg%20id%3D%22SVGRepo_tracerCarrier%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3C%2Fg%3E%3Cg%20id%3D%22SVGRepo_iconCarrier%22%3E%20%3Cpath%20style%3D%22fill%3A%235A4146%3B%22%20d%3D%22M423.683%2C315.569c0.052%2C7.011-4.099%2C13.325-10.46%2C16.275c-40.022%2C18.564-95.66%2C30.088-157.224%2C30.088%20s-117.202-11.523-157.225-30.088c-6.36-2.951-10.511-9.265-10.46-16.275C89.57%2C147.062%2C120.395%2C0%2C256%2C0%20S422.43%2C147.062%2C423.683%2C315.569z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23E6AF78%3B%22%20d%3D%22M317.793%2C342.844v-42.706H194.207v42.706c0%2C11.399-7.294%2C21.519-18.109%2C25.123l-84.126%2C28.042%20c-18.023%2C6.008-30.179%2C22.875-30.179%2C41.873v56.463c0%2C9.751%2C7.904%2C17.655%2C17.655%2C17.655h353.103c9.751%2C0%2C17.655-7.904%2C17.655-17.655%20v-56.463c0-18.998-12.157-35.865-30.18-41.873l-84.126-28.042C325.087%2C364.362%2C317.793%2C354.242%2C317.793%2C342.844z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23D29B6E%3B%22%20d%3D%22M194.207%2C342.844c0%2C10.685-6.453%2C20.173-16.161%2C24.298c98.92%2C16.858%2C139.72-53.762%2C139.72-53.762%20l0.028-0.019v-13.223H194.207V342.844z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23E4EAF6%3B%22%20d%3D%22M420.026%2C396.009l-68.74-22.913c-32.717%2C44.385-70.904%2C69.187-95.286%2C77.111%20c-24.382-7.924-62.569-32.726-95.286-77.111l-68.74%2C22.913c-18.024%2C6.008-30.18%2C22.875-30.18%2C41.873v56.463%20c0%2C9.75%2C7.905%2C17.655%2C17.655%2C17.655h353.103c9.75%2C0%2C17.655-7.905%2C17.655-17.655v-56.463%20C450.207%2C418.883%2C438.05%2C402.017%2C420.026%2C396.009z%22%3E%3C%2Fpath%3E%20%3Cg%3E%20%3Cpath%20style%3D%22fill%3A%23D7DEED%3B%22%20d%3D%22M122.071%2C457.519l-48.97-48.97c-7.06%2C7.908-11.308%2C18.219-11.308%2C29.332v56.463%20c0%2C9.751%2C7.904%2C17.655%2C17.655%2C17.655h52.966v-29.512C132.414%2C473.123%2C128.694%2C464.142%2C122.071%2C457.519z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23D7DEED%3B%22%20d%3D%22M389.929%2C457.519l48.97-48.97c7.06%2C7.908%2C11.308%2C18.219%2C11.308%2C29.332v56.463%20c0%2C9.751-7.904%2C17.655-17.655%2C17.655h-52.966v-29.512C379.586%2C473.123%2C383.306%2C464.142%2C389.929%2C457.519z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23D7DEED%3B%22%20d%3D%22M146.505%2C383.569c35.457%2C48.108%2C76.991%2C74.643%2C104.039%2C83.431L256%2C468.77l5.457-1.771%20c27.048-8.789%2C68.582-35.324%2C104.039-83.431l3.166-4.682l-17.376-5.792c-32.716%2C44.386-70.903%2C69.188-95.285%2C77.112%20c-24.382-7.924-62.569-32.726-95.286-77.111l-17.376%2C5.792L146.505%2C383.569z%22%3E%3C%2Fpath%3E%20%3C%2Fg%3E%20%3Cpath%20style%3D%22fill%3A%23707487%3B%22%20d%3D%22M142.72%2C185.469l-10.251-0.033c-9.772-0.031-17.711%2C7.883-17.711%2C17.655v34.899%20c0%2C9.888%2C8.12%2C17.848%2C18.007%2C17.652l15.215-0.303L142.72%2C185.469z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%2365687A%3B%22%20d%3D%22M132.47%2C185.436c-0.02%2C0-0.036%2C0.006-0.056%2C0.006v70.172c0.119%2C0%2C0.232%2C0.031%2C0.352%2C0.029%20l15.215-0.303l-5.26-69.869L132.47%2C185.436z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23707487%3B%22%20d%3D%22M369.28%2C185.469l10.251-0.033c9.772-0.031%2C17.711%2C7.883%2C17.711%2C17.655v34.899%20c0%2C9.888-8.12%2C17.848-18.007%2C17.652l-15.215-0.303L369.28%2C185.469z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%2365687A%3B%22%20d%3D%22M379.53%2C185.436c0.02%2C0%2C0.036%2C0.006%2C0.056%2C0.006v70.172c-0.119%2C0-0.232%2C0.031-0.352%2C0.029%20l-15.215-0.303l5.26-69.869L379.53%2C185.436z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23F0C087%3B%22%20d%3D%22M141.241%2C105.931v38.061c0%2C15.816%2C0.607%2C31.625%2C1.82%2C47.393l5.087%2C66.129%20c1.216%2C15.807%2C9.448%2C30.238%2C22.435%2C39.329l53.308%2C37.315c9.407%2C6.585%2C20.612%2C10.118%2C32.095%2C10.118h0.026%20c11.482%2C0%2C22.688-3.532%2C32.095-10.118l53.308-37.315c12.988-9.091%2C21.22-23.522%2C22.435-39.329l5.087-66.129%20c1.213-15.768%2C1.82-31.578%2C1.82-47.393v-38.061H141.241z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23E6AF78%3B%22%20d%3D%22M370.097%2C105.931H141.241v38.063c0%2C4.905%2C0.166%2C9.806%2C0.282%2C14.709l0%2C0v0.003%20c0.14%2C5.895%2C0.364%2C11.785%2C0.673%2C17.673c0%2C0.001%2C0%2C0.003%2C0%2C0.003v0.001c0.263%2C5.002%2C0.481%2C10.006%2C0.865%2C15.001l5.087%2C66.129%20c1.216%2C15.807%2C9.448%2C30.238%2C22.436%2C39.329l53.308%2C37.315c9.407%2C6.584%2C20.612%2C10.116%2C32.095%2C10.116%20c-14.166%2C0-29.735-24.384-39.503-42.876c-6.435-12.181-9.869-25.684-10.126-39.458l-1.491-79.928%20c-0.118-6.356%2C4.487-11.763%2C10.75-12.85c47.34-8.216%2C84.919-21.641%2C106.401-31.126c17.03%2C28.15%2C39.46%2C36.57%2C42.368%2C37.564%20l2.777%2C0.949h2.631c0.31-5.882%2C0.536-11.766%2C0.679-17.655L370.097%2C105.931z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%235A4146%3B%22%20d%3D%22M132.414%2C97.103v61.793c104.585%2C0%2C184.198-36.41%2C197.532-44.455%20c14.33%2C35.627%2C40.151%2C44.455%2C40.151%2C44.455h9.49V97.103H132.414z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23464655%3B%22%20d%3D%22M379.234%2C255.641l-15.147-0.301c-6.74%2C12.245-26.929%2C32.295-87.123%2C32.295v17.655%20c80.439%2C0%2C101.08-34.278%2C106.324-50.073C381.98%2C255.496%2C380.632%2C255.669%2C379.234%2C255.641z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%235B5D6E%3B%22%20d%3D%22M269.241%2C308.966h-8.828c-7.313%2C0-13.241-5.929-13.241-13.241l0%2C0%20c0-7.313%2C5.929-13.241%2C13.241-13.241h8.828c7.313%2C0%2C13.241%2C5.929%2C13.241%2C13.241l0%2C0%20C282.483%2C303.037%2C276.554%2C308.966%2C269.241%2C308.966z%22%3E%3C%2Fpath%3E%20%3C%2Fg%3E%3C%2Fsvg%3E","agentAvatarUrl":"data:image\/svg+xml;utf8,%3Csvg%20height%3D%2264px%22%20width%3D%2264px%22%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20512%20512%22%20xml%3Aspace%3D%22preserve%22%20fill%3D%22%23000000%22%3E%3Cg%20id%3D%22SVGRepo_bgCarrier%22%20stroke-width%3D%220%22%3E%3C%2Fg%3E%3Cg%20id%3D%22SVGRepo_tracerCarrier%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3C%2Fg%3E%3Cg%20id%3D%22SVGRepo_iconCarrier%22%3E%20%3Cpath%20style%3D%22fill%3A%235A4146%3B%22%20d%3D%22M423.683%2C315.569c0.052%2C7.011-4.099%2C13.325-10.46%2C16.275c-40.022%2C18.564-95.66%2C30.088-157.224%2C30.088%20s-117.202-11.523-157.225-30.088c-6.36-2.951-10.511-9.265-10.46-16.275C89.57%2C147.062%2C120.395%2C0%2C256%2C0%20S422.43%2C147.062%2C423.683%2C315.569z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23E6AF78%3B%22%20d%3D%22M317.793%2C342.844v-42.706H194.207v42.706c0%2C11.399-7.294%2C21.519-18.109%2C25.123l-84.126%2C28.042%20c-18.023%2C6.008-30.179%2C22.875-30.179%2C41.873v56.463c0%2C9.751%2C7.904%2C17.655%2C17.655%2C17.655h353.103c9.751%2C0%2C17.655-7.904%2C17.655-17.655%20v-56.463c0-18.998-12.157-35.865-30.18-41.873l-84.126-28.042C325.087%2C364.362%2C317.793%2C354.242%2C317.793%2C342.844z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23D29B6E%3B%22%20d%3D%22M194.207%2C342.844c0%2C10.685-6.453%2C20.173-16.161%2C24.298c98.92%2C16.858%2C139.72-53.762%2C139.72-53.762%20l0.028-0.019v-13.223H194.207V342.844z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23E4EAF6%3B%22%20d%3D%22M420.026%2C396.009l-68.74-22.913c-32.717%2C44.385-70.904%2C69.187-95.286%2C77.111%20c-24.382-7.924-62.569-32.726-95.286-77.111l-68.74%2C22.913c-18.024%2C6.008-30.18%2C22.875-30.18%2C41.873v56.463%20c0%2C9.75%2C7.905%2C17.655%2C17.655%2C17.655h353.103c9.75%2C0%2C17.655-7.905%2C17.655-17.655v-56.463%20C450.207%2C418.883%2C438.05%2C402.017%2C420.026%2C396.009z%22%3E%3C%2Fpath%3E%20%3Cg%3E%20%3Cpath%20style%3D%22fill%3A%23D7DEED%3B%22%20d%3D%22M122.071%2C457.519l-48.97-48.97c-7.06%2C7.908-11.308%2C18.219-11.308%2C29.332v56.463%20c0%2C9.751%2C7.904%2C17.655%2C17.655%2C17.655h52.966v-29.512C132.414%2C473.123%2C128.694%2C464.142%2C122.071%2C457.519z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23D7DEED%3B%22%20d%3D%22M389.929%2C457.519l48.97-48.97c7.06%2C7.908%2C11.308%2C18.219%2C11.308%2C29.332v56.463%20c0%2C9.751-7.904%2C17.655-17.655%2C17.655h-52.966v-29.512C379.586%2C473.123%2C383.306%2C464.142%2C389.929%2C457.519z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23D7DEED%3B%22%20d%3D%22M146.505%2C383.569c35.457%2C48.108%2C76.991%2C74.643%2C104.039%2C83.431L256%2C468.77l5.457-1.771%20c27.048-8.789%2C68.582-35.324%2C104.039-83.431l3.166-4.682l-17.376-5.792c-32.716%2C44.386-70.903%2C69.188-95.285%2C77.112%20c-24.382-7.924-62.569-32.726-95.286-77.111l-17.376%2C5.792L146.505%2C383.569z%22%3E%3C%2Fpath%3E%20%3C%2Fg%3E%20%3Cpath%20style%3D%22fill%3A%23707487%3B%22%20d%3D%22M142.72%2C185.469l-10.251-0.033c-9.772-0.031-17.711%2C7.883-17.711%2C17.655v34.899%20c0%2C9.888%2C8.12%2C17.848%2C18.007%2C17.652l15.215-0.303L142.72%2C185.469z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%2365687A%3B%22%20d%3D%22M132.47%2C185.436c-0.02%2C0-0.036%2C0.006-0.056%2C0.006v70.172c0.119%2C0%2C0.232%2C0.031%2C0.352%2C0.029%20l15.215-0.303l-5.26-69.869L132.47%2C185.436z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23707487%3B%22%20d%3D%22M369.28%2C185.469l10.251-0.033c9.772-0.031%2C17.711%2C7.883%2C17.711%2C17.655v34.899%20c0%2C9.888-8.12%2C17.848-18.007%2C17.652l-15.215-0.303L369.28%2C185.469z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%2365687A%3B%22%20d%3D%22M379.53%2C185.436c0.02%2C0%2C0.036%2C0.006%2C0.056%2C0.006v70.172c-0.119%2C0-0.232%2C0.031-0.352%2C0.029%20l-15.215-0.303l5.26-69.869L379.53%2C185.436z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23F0C087%3B%22%20d%3D%22M141.241%2C105.931v38.061c0%2C15.816%2C0.607%2C31.625%2C1.82%2C47.393l5.087%2C66.129%20c1.216%2C15.807%2C9.448%2C30.238%2C22.435%2C39.329l53.308%2C37.315c9.407%2C6.585%2C20.612%2C10.118%2C32.095%2C10.118h0.026%20c11.482%2C0%2C22.688-3.532%2C32.095-10.118l53.308-37.315c12.988-9.091%2C21.22-23.522%2C22.435-39.329l5.087-66.129%20c1.213-15.768%2C1.82-31.578%2C1.82-47.393v-38.061H141.241z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23E6AF78%3B%22%20d%3D%22M370.097%2C105.931H141.241v38.063c0%2C4.905%2C0.166%2C9.806%2C0.282%2C14.709l0%2C0v0.003%20c0.14%2C5.895%2C0.364%2C11.785%2C0.673%2C17.673c0%2C0.001%2C0%2C0.003%2C0%2C0.003v0.001c0.263%2C5.002%2C0.481%2C10.006%2C0.865%2C15.001l5.087%2C66.129%20c1.216%2C15.807%2C9.448%2C30.238%2C22.436%2C39.329l53.308%2C37.315c9.407%2C6.584%2C20.612%2C10.116%2C32.095%2C10.116%20c-14.166%2C0-29.735-24.384-39.503-42.876c-6.435-12.181-9.869-25.684-10.126-39.458l-1.491-79.928%20c-0.118-6.356%2C4.487-11.763%2C10.75-12.85c47.34-8.216%2C84.919-21.641%2C106.401-31.126c17.03%2C28.15%2C39.46%2C36.57%2C42.368%2C37.564%20l2.777%2C0.949h2.631c0.31-5.882%2C0.536-11.766%2C0.679-17.655L370.097%2C105.931z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%235A4146%3B%22%20d%3D%22M132.414%2C97.103v61.793c104.585%2C0%2C184.198-36.41%2C197.532-44.455%20c14.33%2C35.627%2C40.151%2C44.455%2C40.151%2C44.455h9.49V97.103H132.414z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%23464655%3B%22%20d%3D%22M379.234%2C255.641l-15.147-0.301c-6.74%2C12.245-26.929%2C32.295-87.123%2C32.295v17.655%20c80.439%2C0%2C101.08-34.278%2C106.324-50.073C381.98%2C255.496%2C380.632%2C255.669%2C379.234%2C255.641z%22%3E%3C%2Fpath%3E%20%3Cpath%20style%3D%22fill%3A%235B5D6E%3B%22%20d%3D%22M269.241%2C308.966h-8.828c-7.313%2C0-13.241-5.929-13.241-13.241l0%2C0%20c0-7.313%2C5.929-13.241%2C13.241-13.241h8.828c7.313%2C0%2C13.241%2C5.929%2C13.241%2C13.241l0%2C0%20C282.483%2C303.037%2C276.554%2C308.966%2C269.241%2C308.966z%22%3E%3C%2Fpath%3E%20%3C%2Fg%3E%3C%2Fsvg%3E","prechatGreeting":"Vui l\u00f2ng nh\u1eadp s\u1ed1 \u0110T \u0111\u1ec3 chat v\u1edbi nh\u00e2n vi\u00ean h\u1ed7 tr\u1ee3 c\u1ee7a ch\u00fang t\u00f4i. Xin c\u00e1m \u01a1n!","welcomeMessage":"","greetingDelayMin":60000,"greetingDelayMax":60000,"greeting":{"typingDelay":2000,"sequences":{"home":{"messages":["B\u1ea1n mu\u1ed1n s\u0103n v\u00e9 m\u00e1y bay gi\u00e1 r\u1ebb? H\u00e3y \u0111\u1ec3 m\u00ecnh h\u1ed7 tr\u1ee3!"]},"generic":{"messages":["B\u1ea1n c\u1ea7n h\u1ed7 tr\u1ee3 v\u1ec1 v\u00e9 m\u00e1y bay? Nh\u00e2n vi\u00ean lu\u00f4n s\u1eb5n s\u00e0ng \u2014 nh\u1eafn tin ngay!"]}},"followUp":{"messages":["Vui l\u00f2ng ch\u1edd m\u1ed9t ch\u00fat \u1ea1 \ud83d\ude0a\ud83d\ude0a","_\u0110ang x\u1eed l\u00fd, ch\u1edd ch\u00fat ngen_","_Nh\u00e2n vi\u00ean \u0111ang b\u1eadn, ch\u1edd ch\u00fat nha_","B\u1ea1n quan t\u00e2m zalo cty m\u00ecnh nh\u00e9. \u0110\u1ed9i h\u1ed7 tr\u1ee3 s\u1ebd ph\u1ee5c v\u1ee5 247. \nhttps:\/\/zalo.me\/timchuyenbay\/"],"typingDelay":2000,"noAutoOpenOn":["passenger","payment","payment_noamount","complete"]}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://chat.timchuyenbay.net/client/support-widget.js?ver=1.0.21" id="support-widget-v1-js" defer="defer" data-wp-strategy="defer"></script>
+
+<div id="portal-root"></div>
+
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;611ea9c0f41e43d6a70614b10a300718&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+<div id="sw-container">
+                <div class="sw-global-overlay" id="sw-global-overlay"></div>
+                <div class="sw-launcher" id="sw-launcher">
+                    <div class="sw-launcher-circle"></div>
+                    <div class="sw-launcher-circle-fill"></div>
+                    <div class="sw-launcher-icon">
+                        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"></path></svg>
+                        <div class="sw-badge" id="sw-badge" style="display: none;">0</div>
+                    </div>
+                </div>
+
+                <div class="sw-panel sw-prechat-mode" id="sw-panel">
+                    <div class="sw-header">
+                        <div class="sw-header-info">
+                            <div class="sw-header-text">
+                                <h3>Chat</h3>
+                                <div class="sw-status">
+                                    <span class="sw-status-dot" id="sw-status-dot"></span>
+                                    <span id="sw-status-text">Online</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sw-header-actions">
+                            <button class="sw-btn-expand" id="sw-btn-expand" aria-label="Phóng to">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
+                            </button>
+                            <button class="sw-btn-close" id="sw-btn-close" aria-label="Đóng">
+                                <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>
+                            </button>
+                        </div>
+                    </div>
+
+	                    <!-- Pre-chat phone form (covers messages + input until phone submitted) -->
+                    <div class="sw-prechat" id="sw-prechat">
+                        <p id="sw-prechat-greeting">Vui lòng nhập số ĐT để chat với nhân viên hỗ trợ của chúng tôi. Xin cám ơn!</p>
+                        <input type="tel" id="sw-prechat-phone" class="sw-prechat-input" placeholder="0912 345 678" autocomplete="tel">
+                        <div class="sw-prechat-error" id="sw-prechat-error"></div>
+                        <button class="sw-prechat-btn" id="sw-prechat-btn">Bắt đầu chat</button>
+                    </div>
+
+                    <div class="sw-messages" id="sw-messages"></div>
+
+                    <div class="sw-input-area">
+                        <div class="sw-input-box">
+                            <textarea id="sw-input" rows="1" placeholder="Nhập tin nhắn..." autocomplete="off"></textarea>
+                        </div>
+                        <button class="sw-btn-send" id="sw-btn-send" disabled="" aria-label="Gửi">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4Z"></path><path d="M22 2 11 13"></path></svg>
+                        </button>
+                    </div>
+                </div>
+            </div><div class="siv-image-viewer" aria-hidden="true">
+                <div class="siv-image-viewer-toolbar" role="toolbar" aria-label="Adjust image">
+                    <button type="button" class="siv-image-viewer-zoom-out" aria-label="Zoom out">−</button>
+                    <div class="siv-image-viewer-zoom">100%</div>
+                    <button type="button" class="siv-image-viewer-zoom-in" aria-label="Zoom in">+</button>
+                    <button type="button" class="siv-image-viewer-reset" aria-label="Reset">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><path d="M3 3v5h5"></path></svg>
+                    </button>
+                </div>
+                <button type="button" class="siv-image-viewer-close" aria-label="Close">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>
+                </button>
+                <div class="siv-image-viewer-sender">
+                    <div class="siv-image-viewer-avatar"></div>
+                    <div class="siv-image-viewer-meta">
+                        <div class="siv-image-viewer-name"></div>
+                        <div class="siv-image-viewer-time"></div>
+                    </div>
+                </div>
+                <div class="siv-image-viewer-stage">
+                    <img class="siv-image-viewer-img" src="" alt="">
+                </div>
+            </div></body></html>

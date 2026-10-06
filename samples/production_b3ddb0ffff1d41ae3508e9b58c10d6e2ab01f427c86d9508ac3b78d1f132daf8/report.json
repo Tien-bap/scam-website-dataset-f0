@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.amazon.sa/a/c/r/s6fvOUzwmWRd1DzciTX4VqZxb/",
+  "hostname": "www.amazon.sa",
+  "checked_at": "2026-10-04T16:07:08.572691+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 30,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a10492-ed89-7284-9527-1e631d19a94f",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-04T01:41:56.395Z",
+  "scan_original_url": "https://www.amazon.sa/dp/B0HJ9ZYZQR?ref=cm_sw_r_cso_wa_apin_dp_KQ4K1WMCSH312T7D3ED1&ref_=cm_sw_r_cso_wa_apin_dp_KQ4K1WMCSH312T7D3ED1&social_share=cm_sw_r_cso_wa_apin_dp_KQ4K1WMCSH312T7D3ED1",
+  "final_url": "https://www.amazon.sa/dp/B0HJ9ZYZQR?ref=cm_sw_r_cso_wa_apin_dp_KQ4K1WMCSH312T7D3ED1&ref_=cm_sw_r_cso_wa_apin_dp_KQ4K1WMCSH312T7D3ED1&social_share=cm_sw_r_cso_wa_apin_dp_KQ4K1WMCSH312T7D3ED1",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 58055,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.171,
+  "discovery": {
+    "batch_id": "784d34bd59d2944852437c0ca2b9b55fd68326f8ef0ec5b4e5aba3912136b54c",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

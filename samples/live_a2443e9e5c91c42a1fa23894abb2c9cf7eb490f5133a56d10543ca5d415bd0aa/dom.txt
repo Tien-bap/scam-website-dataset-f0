@@ -1,0 +1,573 @@
+<!DOCTYPE html><html lang="vi"><head><meta http-equiv="content-type" content="text/html;charset=UTF-8">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=1300">
+<meta name="robots" content="index, follow">
+<meta name="keywords" content="võ lâm truyền kỳ, vltk, công thành chiến, võ lâm miễn phí, võ lâm, võ lâm free, võ lâm lậu, vo lam truyen ky, cong thanh chien, vo lam mien phi, vo lam, vo lam lau, vo lam free, vo lam private, võ lâm private">
+<meta name="description" content="Phiên bản Chuẩn CTC 2005. Cân bằng các môn phái. Cùng trải nghiệm quá khứ Võ Lâm hào hùng của năm 2005 như PK, săn boss Hoàng Kim, Công Thành Chiến, ">
+<meta property="og:type" content="game.achievement">
+<meta property="og:title" content="Võ lâm thiên đế - Phiên Bản Chuẩn CTC 2005">
+<meta property="og:description" content="Phiên bản Chuẩn CTC 2005. Cân bằng các môn phái. Cùng trải nghiệm quá khứ Võ Lâm hào hùng của năm 2005 như PK, săn boss Hoàng Kim, Công Thành Chiến, ">
+<meta property="og:image" content="./templates/web_skins/skinmoi/templates/images/share.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+<title>Võ lâm thiên đế</title>
+
+<link rel="shortcut icon" href="./templates/web_skins/skinmoi/templates/images/favicon.png">
+
+<link href="./templates/web_skins/skinmoi/templates/css/style.css?v=394929744" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css?v=314165682" rel="stylesheet">
+<link href="./templates/web_skins/skinmoi/templates/css/css2?v=751925712" rel="stylesheet">
+<link rel="stylesheet" href="./templates/web_skins/skinmoi/templates/css/main.css?v=1148704449">
+ <link rel="stylesheet" href="./templates/web_skins/skinmoi/templates/css/aos.css?v=1178785011"> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<style>.swal2-popup.swal2-toast{flex-direction:row;align-items:center;width:auto;padding:.625em;overflow-y:hidden;background:#fff;box-shadow:0 0 .625em #d9d9d9}.swal2-popup.swal2-toast .swal2-header{flex-direction:row;padding:0}.swal2-popup.swal2-toast .swal2-title{flex-grow:1;justify-content:flex-start;margin:0 .6em;font-size:1em}.swal2-popup.swal2-toast .swal2-footer{margin:.5em 0 0;padding:.5em 0 0;font-size:.8em}.swal2-popup.swal2-toast .swal2-close{position:static;width:.8em;height:.8em;line-height:.8}.swal2-popup.swal2-toast .swal2-content{justify-content:flex-start;padding:0;font-size:1em}.swal2-popup.swal2-toast .swal2-icon{width:2em;min-width:2em;height:2em;margin:0}.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:1.8em;font-weight:700}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{font-size:.25em}}.swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line]{top:.875em;width:1.375em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:.3125em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:.3125em}.swal2-popup.swal2-toast .swal2-actions{flex-basis:auto!important;width:auto;height:auto;margin:0 .3125em}.swal2-popup.swal2-toast .swal2-styled{margin:0 .3125em;padding:.3125em .625em;font-size:1em}.swal2-popup.swal2-toast .swal2-styled:focus{box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(50,100,150,.4)}.swal2-popup.swal2-toast .swal2-success{border-color:#a5dc86}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line]{position:absolute;width:1.6em;height:3em;transform:rotate(45deg);border-radius:50%}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.8em;left:-.5em;transform:rotate(-45deg);transform-origin:2em 2em;border-radius:4em 0 0 4em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.25em;left:.9375em;transform-origin:0 1.5em;border-radius:0 4em 4em 0}.swal2-popup.swal2-toast .swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-success .swal2-success-fix{top:0;left:.4375em;width:.4375em;height:2.6875em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line]{height:.3125em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=tip]{top:1.125em;left:.1875em;width:.75em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=long]{top:.9375em;right:.1875em;width:1.375em}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-tip{-webkit-animation:swal2-toast-animate-success-line-tip .75s;animation:swal2-toast-animate-success-line-tip .75s}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-long{-webkit-animation:swal2-toast-animate-success-line-long .75s;animation:swal2-toast-animate-success-line-long .75s}.swal2-popup.swal2-toast.swal2-show{-webkit-animation:swal2-toast-show .5s;animation:swal2-toast-show .5s}.swal2-popup.swal2-toast.swal2-hide{-webkit-animation:swal2-toast-hide .1s forwards;animation:swal2-toast-hide .1s forwards}.swal2-container{display:flex;position:fixed;z-index:1060;top:0;right:0;bottom:0;left:0;flex-direction:row;align-items:center;justify-content:center;padding:.625em;overflow-x:hidden;transition:background-color .1s;-webkit-overflow-scrolling:touch}.swal2-container.swal2-backdrop-show,.swal2-container.swal2-noanimation{background:rgba(0,0,0,.4)}.swal2-container.swal2-backdrop-hide{background:0 0!important}.swal2-container.swal2-top{align-items:flex-start}.swal2-container.swal2-top-left,.swal2-container.swal2-top-start{align-items:flex-start;justify-content:flex-start}.swal2-container.swal2-top-end,.swal2-container.swal2-top-right{align-items:flex-start;justify-content:flex-end}.swal2-container.swal2-center{align-items:center}.swal2-container.swal2-center-left,.swal2-container.swal2-center-start{align-items:center;justify-content:flex-start}.swal2-container.swal2-center-end,.swal2-container.swal2-center-right{align-items:center;justify-content:flex-end}.swal2-container.swal2-bottom{align-items:flex-end}.swal2-container.swal2-bottom-left,.swal2-container.swal2-bottom-start{align-items:flex-end;justify-content:flex-start}.swal2-container.swal2-bottom-end,.swal2-container.swal2-bottom-right{align-items:flex-end;justify-content:flex-end}.swal2-container.swal2-bottom-end>:first-child,.swal2-container.swal2-bottom-left>:first-child,.swal2-container.swal2-bottom-right>:first-child,.swal2-container.swal2-bottom-start>:first-child,.swal2-container.swal2-bottom>:first-child{margin-top:auto}.swal2-container.swal2-grow-fullscreen>.swal2-modal{display:flex!important;flex:1;align-self:stretch;justify-content:center}.swal2-container.swal2-grow-row>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-grow-column{flex:1;flex-direction:column}.swal2-container.swal2-grow-column.swal2-bottom,.swal2-container.swal2-grow-column.swal2-center,.swal2-container.swal2-grow-column.swal2-top{align-items:center}.swal2-container.swal2-grow-column.swal2-bottom-left,.swal2-container.swal2-grow-column.swal2-bottom-start,.swal2-container.swal2-grow-column.swal2-center-left,.swal2-container.swal2-grow-column.swal2-center-start,.swal2-container.swal2-grow-column.swal2-top-left,.swal2-container.swal2-grow-column.swal2-top-start{align-items:flex-start}.swal2-container.swal2-grow-column.swal2-bottom-end,.swal2-container.swal2-grow-column.swal2-bottom-right,.swal2-container.swal2-grow-column.swal2-center-end,.swal2-container.swal2-grow-column.swal2-center-right,.swal2-container.swal2-grow-column.swal2-top-end,.swal2-container.swal2-grow-column.swal2-top-right{align-items:flex-end}.swal2-container.swal2-grow-column>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-no-transition{transition:none!important}.swal2-container:not(.swal2-top):not(.swal2-top-start):not(.swal2-top-end):not(.swal2-top-left):not(.swal2-top-right):not(.swal2-center-start):not(.swal2-center-end):not(.swal2-center-left):not(.swal2-center-right):not(.swal2-bottom):not(.swal2-bottom-start):not(.swal2-bottom-end):not(.swal2-bottom-left):not(.swal2-bottom-right):not(.swal2-grow-fullscreen)>.swal2-modal{margin:auto}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-container .swal2-modal{margin:0!important}}.swal2-popup{display:none;position:relative;box-sizing:border-box;flex-direction:column;justify-content:center;width:32em;max-width:100%;padding:1.25em;border:none;border-radius:.3125em;background:#fff;font-family:inherit;font-size:1rem}.swal2-popup:focus{outline:0}.swal2-popup.swal2-loading{overflow-y:hidden}.swal2-header{display:flex;flex-direction:column;align-items:center;padding:0 1.8em}.swal2-title{position:relative;max-width:100%;margin:0 0 .4em;padding:0;color:#595959;font-size:1.875em;font-weight:600;text-align:center;text-transform:none;word-wrap:break-word}.swal2-actions{display:flex;z-index:1;flex-wrap:wrap;align-items:center;justify-content:center;width:100%;margin:1.25em auto 0}.swal2-actions:not(.swal2-loading) .swal2-styled[disabled]{opacity:.4}.swal2-actions:not(.swal2-loading) .swal2-styled:hover{background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1))}.swal2-actions:not(.swal2-loading) .swal2-styled:active{background-image:linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2))}.swal2-actions.swal2-loading .swal2-styled.swal2-confirm{box-sizing:border-box;width:2.5em;height:2.5em;margin:.46875em;padding:0;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border:.25em solid transparent;border-radius:100%;border-color:transparent;background-color:transparent!important;color:transparent!important;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-actions.swal2-loading .swal2-styled.swal2-cancel{margin-right:30px;margin-left:30px}.swal2-actions.swal2-loading :not(.swal2-styled).swal2-confirm::after{content:"";display:inline-block;width:15px;height:15px;margin-left:5px;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border:3px solid #999;border-radius:50%;border-right-color:transparent;box-shadow:1px 1px 1px #fff}.swal2-styled{margin:.3125em;padding:.625em 2em;box-shadow:none;font-weight:500}.swal2-styled:not([disabled]){cursor:pointer}.swal2-styled.swal2-confirm{border:0;border-radius:.25em;background:initial;background-color:#3085d6;color:#fff;font-size:1.0625em}.swal2-styled.swal2-cancel{border:0;border-radius:.25em;background:initial;background-color:#aaa;color:#fff;font-size:1.0625em}.swal2-styled:focus{outline:0;box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(50,100,150,.4)}.swal2-styled::-moz-focus-inner{border:0}.swal2-footer{justify-content:center;margin:1.25em 0 0;padding:1em 0 0;border-top:1px solid #eee;color:#545454;font-size:1em}.swal2-timer-progress-bar-container{position:absolute;right:0;bottom:0;left:0;height:.25em;overflow:hidden;border-bottom-right-radius:.3125em;border-bottom-left-radius:.3125em}.swal2-timer-progress-bar{width:100%;height:.25em;background:rgba(0,0,0,.2)}.swal2-image{max-width:100%;margin:1.25em auto}.swal2-close{position:absolute;z-index:2;top:0;right:0;align-items:center;justify-content:center;width:1.2em;height:1.2em;padding:0;overflow:hidden;transition:color .1s ease-out;border:none;border-radius:0;background:0 0;color:#ccc;font-family:serif;font-size:2.5em;line-height:1.2;cursor:pointer}.swal2-close:hover{transform:none;background:0 0;color:#f27474}.swal2-close::-moz-focus-inner{border:0}.swal2-content{z-index:1;justify-content:center;margin:0;padding:0 1.6em;color:#545454;font-size:1.125em;font-weight:400;line-height:normal;text-align:center;word-wrap:break-word}.swal2-checkbox,.swal2-file,.swal2-input,.swal2-radio,.swal2-select,.swal2-textarea{margin:1em auto}.swal2-file,.swal2-input,.swal2-textarea{box-sizing:border-box;width:100%;transition:border-color .3s,box-shadow .3s;border:1px solid #d9d9d9;border-radius:.1875em;background:inherit;box-shadow:inset 0 1px 1px rgba(0,0,0,.06);color:inherit;font-size:1.125em}.swal2-file.swal2-inputerror,.swal2-input.swal2-inputerror,.swal2-textarea.swal2-inputerror{border-color:#f27474!important;box-shadow:0 0 2px #f27474!important}.swal2-file:focus,.swal2-input:focus,.swal2-textarea:focus{border:1px solid #b4dbed;outline:0;box-shadow:0 0 3px #c4e6f5}.swal2-file::-moz-placeholder,.swal2-input::-moz-placeholder,.swal2-textarea::-moz-placeholder{color:#ccc}.swal2-file:-ms-input-placeholder,.swal2-input:-ms-input-placeholder,.swal2-textarea:-ms-input-placeholder{color:#ccc}.swal2-file::-ms-input-placeholder,.swal2-input::-ms-input-placeholder,.swal2-textarea::-ms-input-placeholder{color:#ccc}.swal2-file::placeholder,.swal2-input::placeholder,.swal2-textarea::placeholder{color:#ccc}.swal2-range{margin:1em auto;background:#fff}.swal2-range input{width:80%}.swal2-range output{width:20%;color:inherit;font-weight:600;text-align:center}.swal2-range input,.swal2-range output{height:2.625em;padding:0;font-size:1.125em;line-height:2.625em}.swal2-input{height:2.625em;padding:0 .75em}.swal2-input[type=number]{max-width:10em}.swal2-file{background:inherit;font-size:1.125em}.swal2-textarea{height:6.75em;padding:.75em}.swal2-select{min-width:50%;max-width:100%;padding:.375em .625em;background:inherit;color:inherit;font-size:1.125em}.swal2-checkbox,.swal2-radio{align-items:center;justify-content:center;background:#fff;color:inherit}.swal2-checkbox label,.swal2-radio label{margin:0 .6em;font-size:1.125em}.swal2-checkbox input,.swal2-radio input{margin:0 .4em}.swal2-validation-message{display:none;align-items:center;justify-content:center;padding:.625em;overflow:hidden;background:#f0f0f0;color:#666;font-size:1em;font-weight:300}.swal2-validation-message::before{content:"!";display:inline-block;width:1.5em;min-width:1.5em;height:1.5em;margin:0 .625em;border-radius:50%;background-color:#f27474;color:#fff;font-weight:600;line-height:1.5em;text-align:center}.swal2-icon{position:relative;box-sizing:content-box;justify-content:center;width:5em;height:5em;margin:1.25em auto 1.875em;border:.25em solid transparent;border-radius:50%;font-family:inherit;line-height:5em;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:3.75em}.swal2-icon.swal2-error{border-color:#f27474;color:#f27474}.swal2-icon.swal2-error .swal2-x-mark{position:relative;flex-grow:1}.swal2-icon.swal2-error [class^=swal2-x-mark-line]{display:block;position:absolute;top:2.3125em;width:2.9375em;height:.3125em;border-radius:.125em;background-color:#f27474}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:1.0625em;transform:rotate(45deg)}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:1em;transform:rotate(-45deg)}.swal2-icon.swal2-error.swal2-icon-show{-webkit-animation:swal2-animate-error-icon .5s;animation:swal2-animate-error-icon .5s}.swal2-icon.swal2-error.swal2-icon-show .swal2-x-mark{-webkit-animation:swal2-animate-error-x-mark .5s;animation:swal2-animate-error-x-mark .5s}.swal2-icon.swal2-warning{border-color:#facea8;color:#f8bb86}.swal2-icon.swal2-info{border-color:#9de0f6;color:#3fc3ee}.swal2-icon.swal2-question{border-color:#c9dae1;color:#87adbd}.swal2-icon.swal2-success{border-color:#a5dc86;color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-circular-line]{position:absolute;width:3.75em;height:7.5em;transform:rotate(45deg);border-radius:50%}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.4375em;left:-2.0635em;transform:rotate(-45deg);transform-origin:3.75em 3.75em;border-radius:7.5em 0 0 7.5em}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.6875em;left:1.875em;transform:rotate(-45deg);transform-origin:0 3.75em;border-radius:0 7.5em 7.5em 0}.swal2-icon.swal2-success .swal2-success-ring{position:absolute;z-index:2;top:-.25em;left:-.25em;box-sizing:content-box;width:100%;height:100%;border:.25em solid rgba(165,220,134,.3);border-radius:50%}.swal2-icon.swal2-success .swal2-success-fix{position:absolute;z-index:1;top:.5em;left:1.625em;width:.4375em;height:5.625em;transform:rotate(-45deg)}.swal2-icon.swal2-success [class^=swal2-success-line]{display:block;position:absolute;z-index:2;height:.3125em;border-radius:.125em;background-color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-line][class$=tip]{top:2.875em;left:.8125em;width:1.5625em;transform:rotate(45deg)}.swal2-icon.swal2-success [class^=swal2-success-line][class$=long]{top:2.375em;right:.5em;width:2.9375em;transform:rotate(-45deg)}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-tip{-webkit-animation:swal2-animate-success-line-tip .75s;animation:swal2-animate-success-line-tip .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-long{-webkit-animation:swal2-animate-success-line-long .75s;animation:swal2-animate-success-line-long .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-circular-line-right{-webkit-animation:swal2-rotate-success-circular-line 4.25s ease-in;animation:swal2-rotate-success-circular-line 4.25s ease-in}.swal2-progress-steps{align-items:center;margin:0 0 1.25em;padding:0;background:inherit;font-weight:600}.swal2-progress-steps li{display:inline-block;position:relative}.swal2-progress-steps .swal2-progress-step{z-index:20;width:2em;height:2em;border-radius:2em;background:#3085d6;color:#fff;line-height:2em;text-align:center}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step{background:#3085d6}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step{background:#add8e6;color:#fff}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step-line{background:#add8e6}.swal2-progress-steps .swal2-progress-step-line{z-index:10;width:2.5em;height:.4em;margin:0 -1px;background:#3085d6}[class^=swal2]{-webkit-tap-highlight-color:transparent}.swal2-show{-webkit-animation:swal2-show .3s;animation:swal2-show .3s}.swal2-hide{-webkit-animation:swal2-hide .15s forwards;animation:swal2-hide .15s forwards}.swal2-noanimation{transition:none}.swal2-scrollbar-measure{position:absolute;top:-9999px;width:50px;height:50px;overflow:scroll}.swal2-rtl .swal2-close{right:auto;left:0}.swal2-rtl .swal2-timer-progress-bar{right:0;left:auto}@supports (-ms-accelerator:true){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@-moz-document url-prefix(){.swal2-close:focus{outline:2px solid rgba(50,100,150,.4)}}@-webkit-keyframes swal2-toast-show{0%{transform:translateY(-.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0)}}@keyframes swal2-toast-show{0%{transform:translateY(-.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0)}}@-webkit-keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@-webkit-keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@-webkit-keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@-webkit-keyframes swal2-show{0%{transform:scale(.7)}45%{transform:scale(1.05)}80%{transform:scale(.95)}100%{transform:scale(1)}}@keyframes swal2-show{0%{transform:scale(.7)}45%{transform:scale(1.05)}80%{transform:scale(.95)}100%{transform:scale(1)}}@-webkit-keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(.5);opacity:0}}@keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(.5);opacity:0}}@-webkit-keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@-webkit-keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@-webkit-keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@-webkit-keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(.4);opacity:0}50%{margin-top:1.625em;transform:scale(.4);opacity:0}80%{margin-top:-.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(.4);opacity:0}50%{margin-top:1.625em;transform:scale(.4);opacity:0}80%{margin-top:-.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@-webkit-keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0);opacity:1}}@keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0);opacity:1}}@-webkit-keyframes swal2-rotate-loading{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}@keyframes swal2-rotate-loading{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow:hidden}body.swal2-height-auto{height:auto!important}body.swal2-no-backdrop .swal2-container{top:auto;right:auto;bottom:auto;left:auto;max-width:calc(100% - .625em * 2);background-color:transparent!important}body.swal2-no-backdrop .swal2-container>.swal2-modal{box-shadow:0 0 10px rgba(0,0,0,.4)}body.swal2-no-backdrop .swal2-container.swal2-top{top:0;left:50%;transform:translateX(-50%)}body.swal2-no-backdrop .swal2-container.swal2-top-left,body.swal2-no-backdrop .swal2-container.swal2-top-start{top:0;left:0}body.swal2-no-backdrop .swal2-container.swal2-top-end,body.swal2-no-backdrop .swal2-container.swal2-top-right{top:0;right:0}body.swal2-no-backdrop .swal2-container.swal2-center{top:50%;left:50%;transform:translate(-50%,-50%)}body.swal2-no-backdrop .swal2-container.swal2-center-left,body.swal2-no-backdrop .swal2-container.swal2-center-start{top:50%;left:0;transform:translateY(-50%)}body.swal2-no-backdrop .swal2-container.swal2-center-end,body.swal2-no-backdrop .swal2-container.swal2-center-right{top:50%;right:0;transform:translateY(-50%)}body.swal2-no-backdrop .swal2-container.swal2-bottom{bottom:0;left:50%;transform:translateX(-50%)}body.swal2-no-backdrop .swal2-container.swal2-bottom-left,body.swal2-no-backdrop .swal2-container.swal2-bottom-start{bottom:0;left:0}body.swal2-no-backdrop .swal2-container.swal2-bottom-end,body.swal2-no-backdrop .swal2-container.swal2-bottom-right{right:0;bottom:0}@media print{body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow-y:scroll!important}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown)>[aria-hidden=true]{display:none}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) .swal2-container{position:static!important}}body.swal2-toast-shown .swal2-container{background-color:transparent}body.swal2-toast-shown .swal2-container.swal2-top{top:0;right:auto;bottom:auto;left:50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-top-end,body.swal2-toast-shown .swal2-container.swal2-top-right{top:0;right:0;bottom:auto;left:auto}body.swal2-toast-shown .swal2-container.swal2-top-left,body.swal2-toast-shown .swal2-container.swal2-top-start{top:0;right:auto;bottom:auto;left:0}body.swal2-toast-shown .swal2-container.swal2-center-left,body.swal2-toast-shown .swal2-container.swal2-center-start{top:50%;right:auto;bottom:auto;left:0;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-center{top:50%;right:auto;bottom:auto;left:50%;transform:translate(-50%,-50%)}body.swal2-toast-shown .swal2-container.swal2-center-end,body.swal2-toast-shown .swal2-container.swal2-center-right{top:50%;right:0;bottom:auto;left:auto;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-left,body.swal2-toast-shown .swal2-container.swal2-bottom-start{top:auto;right:auto;bottom:0;left:0}body.swal2-toast-shown .swal2-container.swal2-bottom{top:auto;right:auto;bottom:0;left:50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-end,body.swal2-toast-shown .swal2-container.swal2-bottom-right{top:auto;right:0;bottom:0;left:auto}body.swal2-toast-column .swal2-toast{flex-direction:column;align-items:stretch}body.swal2-toast-column .swal2-toast .swal2-actions{flex:1;align-self:stretch;height:2.2em;margin-top:.3125em}body.swal2-toast-column .swal2-toast .swal2-loading{justify-content:center}body.swal2-toast-column .swal2-toast .swal2-input{height:2em;margin:.3125em auto;font-size:1em}body.swal2-toast-column .swal2-toast .swal2-validation-message{font-size:1em}</style></head>
+<!-- <style type="text/css"> -->
+            <!-- .snow-container{position:fixed;width:100%;max-width:100%;z-index:99999;pointer-events:none;overflow:hidden;top:0;height:100%} -->
+            <!-- .snow{display:block;position:absolute;z-index:2;top:0;right:0;bottom:0;left:0;pointer-events:none;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0);-webkit-animation:snow linear infinite;animation:snow linear infinite} -->
+            <!-- .snow.foreground{background-image:url("https://dl6rt3mwcjzxg.cloudfront.net/assets/snow/snow-large-075d267ecbc42e3564c8ed43516dd557.png");-webkit-animation-duration:15s;animation-duration:10s} -->
+            <!-- .snow.foreground.layered{-webkit-animation-delay:7.5s;animation-delay:7.5s} -->
+            <!-- .snow.middleground{background-image:url(https://dl6rt3mwcjzxg.cloudfront.net/assets/snow/snow-medium-0b8a5e0732315b68e1f54185be7a1ad9.png);-webkit-animation-duration:20s;animation-duration:15s} -->
+            <!-- .snow.middleground.layered{-webkit-animation-delay:10s;animation-delay:10s} -->
+            <!-- .snow.background{background-image:url(https://dl6rt3mwcjzxg.cloudfront.net/assets/snow/snow-small-1ecd03b1fce08c24e064ff8c0a72c519.png);-webkit-animation-duration:25s;animation-duration:20s} -->
+            <!-- .snow.background.layered{-webkit-animation-delay:12.5s;animation-delay:12.5s} -->
+            <!-- @-webkit-keyframes snow{0%{-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}100%{-webkit-transform:translate3d(5%,100%,0);transform:translate3d(5%,100%,0)}} -->
+            <!-- @keyframes snow{0%{-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}100%{-webkit-transform:translate3d(5%,100%,0);transform:translate3d(5%,100%,0)}} -->
+        <!-- </style> -->
+        <!-- <div class='snow-container'> -->
+            <!-- <div class='snow foreground'></div> -->
+            <!-- <div class='snow foreground layered'></div> -->
+            <!-- <div class='snow middleground'></div> -->
+            <!-- <div class='snow middleground layered'></div> -->
+            <!-- <div class='snow background'></div> -->
+            <!-- <div class='snow background layered'></div> -->
+        <!-- </div> --> 
+
+
+<body>
+    <div class="wrapper">
+
+    <header class="header">
+    <div class="age18"></div>
+    <div class="navbar-nav">
+        <div class="container">
+		
+            <h1 class="logo">
+                <a href="https://vlthiende.com">
+                    <img src="./templates/web_skins/skinmoi/templates/images/logo.png" alt="">
+                </a>
+            </h1>
+            <ul>
+                                    <li><a target="" class="active" href="https://vlthiende.com">
+                            Trang chủ
+                        </a>
+                    </li>
+                                    <li><a target="" class="" href="tintuc-1.html">
+                            Tin Tức
+                        </a>
+                    </li>
+                                    <li><a target="" class="" href="sukien-1.html">
+                            Sự Kiện
+                        </a>
+                    </li>
+                                    <li><a target="" class="" href="huongdan-1.html">
+                            Hướng Dẫn
+                        </a>
+                    </li>
+                                    <li><a target="" class="" href="tintuc-1.html">
+                            Đặc Sắc
+                        </a>
+                    </li>
+                                <li>
+
+					<form action="search.php" class="search">
+							<input class="keyword" type="text" id="search" name="search" placeholder="Nhập từ khoá tìm kiếm" autofocus="" required="">
+							<button class="submit-btn" type="submit"><i class="fas fa-search"></i></button>
+
+					</form>
+					
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="container animatedParent">
+	
+	<!--
+        <div class="animated fadeInDownShort go">
+            <img class="text" src="./templates/text.png" alt="">
+        </div>
+	-->
+
+
+<div class="info-reg-gift-top m-auto p-relative d-flex a-center j-center t-center">
+
+            
+            <a href="/tai_tro_choi.html" rel="register-popup" class="reg-fast img-tg-reg">
+                <img src="./templates/web_skins/skinmoi/templates/images/dlgame.png" data-src="./templates/web_skins/skinmoi/templates/images/dlgame.png" class="img-taigam-reg img-loading-custom loaded">
+            </a>
+            
+            <div class="num-all-moiban-infotop p-relative t-upper f-uvnllq_b d-flex a-center j-center">
+            <a href="https://id.vlthiende.com" rel="register-popup" class="reg-fast img-tg-reg">
+                <img src="./templates/web_skins/skinmoi/templates/images/reg-fast.png" data-src="./templates/web_skins/skinmoi/templates/images/reg-fast.png" class="img-taigam-reg img-loading-custom loaded">
+            </a>
+            </div>
+            <div class="num-all-moiban-infotop p-relative t-upper f-uvnllq_b d-flex a-center j-center">
+            <a href="https://id.vlthiende.com" rel="register-popup" class="reg-fast img-tg-reg">
+                <img src="./templates/web_skins/skinmoi/templates/images/qltk.png" data-src="./templates/web_skins/skinmoi/templates/images/qltk.png" class="img-taigam-reg img-loading-custom loaded">
+            </a>
+            </div>
+            <div class="num-all-moiban-infotop p-relative t-upper f-uvnllq_b d-flex a-center j-center">
+            <a href="https://id.vlthiende.com" rel="register-popup" class="reg-fast img-tg-reg">
+                <img src="./templates/web_skins/skinmoi/templates/images/napthe1.png" data-src="./templates/web_skins/skinmoi/templates/images/napthe1.png" class="img-taigam-reg img-loading-custom loaded">
+            </a>
+            </div>
+        </div>
+
+
+    </div>
+</header>    <!--==================== MAIN ====================-->
+    
+        <!--==================== HOME ====================-->
+        
+            
+<!--==================== CENTER CONTAINER ====================-->
+<!-- content -->
+
+<div class="section-1">
+        <div class="container">
+            <div class="swiper-container banner-slider swiper-container-initialized swiper-container-horizontal">
+             <div class="swiper-wrapper" style="transform: translate3d(-1515px, 0px, 0px); transition-duration: 0ms;">
+    Thư mục ảnh không tồn tại.    
+
+                                    </div>
+             <div class="swiper-pagination swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span></div>
+         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+<!-- <img src="./templates/web_skins/skinmoi/templates/images/img-news.png" alt="" class="img-left-rank"> -->
+
+<div class="news">
+    <ul class="nav news-tab">
+
+				
+        <li onclick="GetNewsData(1)"><a class="active" href="javascript:;" role="tab" data-tab="tin-tuc">Tin tức</a></li>
+        <li onclick="GetNewsData(2)"><a href="javascript:;" role="tab" data-tab="su-kien" class="">Sự kiện</a></li>
+        <li onclick="GetNewsData(3)"><a href="javascript:;" role="tab" data-tab="huong-dan" class="">Hướng dẫn</a></li>
+    </ul>
+    <div class="tab-content">
+        <div class="active" id="news-tab-1" style="">
+            <ul class="news-list" id="NewsBox">
+			
+                
+						<li class="highlight">
+							<a class="news-title" href="Thongbao_tinhnang.html" title="Tính Năng Hoạt Động máy chủ : Biện Kinh">
+								<img src="./templates/web_skins/skinmoi/templates/images/news-new-icon.jpg" alt="">
+								<span>Tính Năng Hoạt Động máy chủ : Biện Kinh</span>
+								<time class="news-time" datetime="31-07">31-07</time>
+							</a>
+						</li>
+					
+						<li>
+							<a class="news-title" href="napthe_2026.html" title="Nạp Kim Nguyên Bảo + Mốc Vip Server Biện Kinh">
+								<span><img src="" alt="">  Nạp Kim Nguyên Bảo + Mốc Vip Server Biện Kinh</span>
+								<time class="news-time" datetime="31-07">31-07</time>
+							</a>
+						</li>
+					
+						<li>
+							<a class="news-title" href="tai_tro_choi.html" title="Đường dẫn tải game và hướng dẫn cài đặt trò chơi">
+								<span><img src="" alt="">  Đường dẫn tải game và hướng dẫn cài đặt trò chơi</span>
+								<time class="news-time" datetime="29-06">29-06</time>
+							</a>
+						</li>
+					
+						<li>
+							<a class="news-title" href="thongbao_2026.html" title="Giới Thiệu Máy Chủ : Biện Kinh Open Chính thức 04/07/2026">
+								<span><img src="" alt="">  Giới Thiệu Máy Chủ : Biện Kinh Open Chính thức 04/07/2026</span>
+								<time class="news-time" datetime="28-06">28-06</time>
+							</a>
+						</li>
+					
+						<li>
+							<a class="news-title" href="sukien_2026.html" title="Thông Tin Sự Kiện Alphatest máy chủ  Biện Kinh (4/07/2026)">
+								<span><img src="" alt="">  Thông Tin Sự Kiện Alphatest máy chủ  Biện Kinh (4/07/2026)</span>
+								<time class="news-time" datetime="28-06">28-06</time>
+							</a>
+						</li>
+					
+                        </ul>
+            <a class="news-more" id="loadMore" title="xem thêm" href="tintuc-1.html">
+            <img src="./templates/web_skins/skinmoi/templates/images/xemthem-btn.jpg" alt="">
+        </a>
+		
+            </div>
+
+    </div>
+
+</div>
+<div class="buttons">
+    <a href="/tai_tro_choi.html">
+        <img src="./templates/web_skins/skinmoi/templates/images/taigame-btn.png" alt="">
+    </a>
+    <a class="call-popup" href="facebook.com/vlthiende" data-popup="popup-giftcode">
+        <img src="./templates/web_skins/skinmoi/templates/images/giftcode-btn.png" alt="">
+    </a>
+    <a href="facebook.com/vlthiende" target="_blank">
+        <img src="./templates/web_skins/skinmoi/templates/images/hotro-btn.png" alt="">
+    </a>
+</div>
+
+        </div>
+</div>
+
+<script>
+
+function GetNewsData(Sel) {
+    let v_obj, v_key, v_ReceivedNum;
+
+    if (Sel == 1) {
+        v_obj = "GetNews";
+        v_key = "GetNews_kjfawuya7fiw";
+        v_ReceivedNum = 16851;
+        //$("#btn_TinTuc").css({'background':'#fff', 'color':'#000', 'border-color': '#fff'});
+        //$("#btn_SuKien").css({'background':'none', 'color':'#fff', 'border-color': '#e0c8ab'});
+        //$("#btn_TinhNang").css({'background':'none', 'color':'#fff', 'border-color': '#e0c8ab'});
+    } else if (Sel == 2) {
+        v_obj = "GetEvents";
+        v_key = "GetEvents_kjfawuya7fiw";
+        v_ReceivedNum = 1654;
+        //$("#btn_TinTuc").css({'background':'none', 'color':'#fff', 'border-color': '#e0c8ab'});
+        //$("#btn_SuKien").css({'background':'#fff', 'color':'#000', 'border-color': '#fff'});
+        //$("#btn_TinhNang").css({'background':'none', 'color':'#fff', 'border-color': '#e0c8ab'});
+    } else if (Sel == 3) {
+        v_obj = "GetTinhNang";
+        v_key = "GetTinhNang_kjfawuya7fiw";
+        v_ReceivedNum = 1984;
+        //$("#btn_TinTuc").css({'background':'none', 'color':'#fff', 'border-color': '#e0c8ab'});
+        //$("#btn_SuKien").css({'background':'none', 'color':'#fff', 'border-color': '#e0c8ab'});
+        //$("#btn_TinhNang").css({'background':'#fff', 'color':'#000', 'border-color': '#fff'});
+    }
+
+    $.ajax({
+        type: "POST",
+        cache: false,
+        url: "templates/web_skins/skinmoi/skin_body_right.php?action=" + v_obj,
+        data: {v_key:v_key},
+        dataType: "json",
+        success: function (data) {
+            if(data.v_ReceivedNum == v_ReceivedNum){
+                $("#NewsBox").empty();
+                $("#NewsBox").append(data.ReceivedData);
+            }
+            else if(data.v_ReceivedNum == 0){
+                $("#NewsBox").empty();
+                $("#NewsBox").append(data.ReceivedData);
+            }
+        },
+        error: function () {
+            return;
+        }
+    });
+    var tabUrls = {
+        1: 'tintuc-1.html',
+        2: 'sukien-1.html',
+        3: 'huongdan-1.html'
+    };
+    document.getElementById('loadMore').setAttribute('href', tabUrls[Sel]);
+}
+
+function ErrorPage(Sel, c_Msg) {
+    if (Sel == 0) {
+        $('body').append("<div id='ErrorPage' onclick='ErrorPage(1)' style='width: 100%;height: 100%;position: fixed;top: 0;background: rgba(0, 0, 0, 0.68);'><div style='position: fixed;text-align: center;width: 779px;background: #fff;top: 0;padding: 36px 0;border-radius: 12px;margin: 20% 0 0 20%;'><a>"+ c_Msg +"</a></div><div>");
+    } else if (Sel == 1) {
+        $('#ErrorPage').remove();
+    }
+}
+
+$(document).ready(function() {
+    GetNewsData(1);
+});
+
+</script>
+		
+				<div class="character section-2">
+    <div class="container">
+        <h2 class="section-title">
+            <img src="./templates/web_skins/skinmoi/templates/images/title-nhanvat.png" alt="">
+        </h2>
+    </div>
+    <div class="character-block">
+        <ul class="character-tab">
+                            <li><a class="active" href="javascript:;" role="tab1" data-tab="dacsac-tab-kim">  Kim </a></li>
+                            <li><a href="javascript:;" role="tab1" data-tab="dacsac-tab-moc" class="">  Mộc</a></li>
+                            <li><a href="javascript:;" role="tab1" data-tab="dacsac-tab-thuy" class="">  Thuỷ</a></li>
+                            <li><a href="javascript:;" role="tab1" data-tab="dacsac-tab-hoa" class="">  Hoả</a></li>
+							<li><a href="javascript:;" role="tab1" data-tab="dacsac-tab-hoa" class="">  Thổ</a></li>
+                    </ul>
+        <div class="tab-content character">
+                                            <div class="active" id="dacsac-tab-kim" style="">
+                    <div class="swiper-container character-swiper-large character-swiper-large-1 swiper-container-initialized swiper-container-horizontal">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+                                                            <div class="swiper-slide swiper-slide-active" style="width: 1500px;">
+                                    <div class="character-content">
+                                        <div class="character-info">
+                                            <h2 class="character-name">Hệ Kim</h2>
+                                            <div class="intro">
+                                                <p>Người thuộc Hành Kim có sức mạnh hơn người, thân thể cường tráng; khi thăng cấp sinh mạng sẽ được tăng
+													lên rất nhanh, tác dụng khi luyện tập ngoại công cũng mạnh hơn thấy rõ. Mỗi khi sinh mạng tăng lên một
+													cấp thì ngoại công cũng tăng lên rất nhiờu. Người thuộc hành Kim luyện tập nội công thì sẽ bất lợi.</p>
+                                            </div>
+                                        </div>
+                                        <img src="./templates/web_skins/skinmoi/templates/images/kim.png" alt="Hệ Kim">
+                                    </div>
+                                </div>
+                                                    </div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <div class="swiper-container character-swiper-nav character-swiper-nav-1 swiper-container-initialized swiper-container-vertical swiper-container-thumbs">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+
+                                                    </div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                </div>
+                                            <div class="" id="dacsac-tab-moc" style="display: none;">
+                    <div class="swiper-container character-swiper-large character-swiper-large-2 swiper-container-initialized swiper-container-horizontal">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+                                                            <div class="swiper-slide swiper-slide-active" style="width: 1500px;">
+                                    <div class="character-content">
+                                        <div class="character-info">
+                                            <h2 class="character-name">Hệ Mộc</h2>
+                                            <div class="intro">
+											<p>Thuộc hành Mộc thì thân pháp linh hoạt, phản ứng nhanh nhẹn nhưng khi thăng cấp + luyện ngoại công thì việc tăng sinh mạng không thể hiện rõ. Do thể chất nên luyện công có phần bất lợi.</p>
+                                            </div>
+                                        </div>
+                                        <img src="./templates/web_skins/skinmoi/templates/images/moc.png" alt="Triệu Vân">
+                                    </div>
+                                </div>
+                                                    </div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <div class="swiper-container character-swiper-nav character-swiper-nav-2 swiper-container-initialized swiper-container-vertical swiper-container-thumbs">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+
+                                                    </div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                </div>
+                                            <div class="" id="dacsac-tab-thuy" style="display: none;">
+                    <div class="swiper-container character-swiper-large character-swiper-large-3 swiper-container-initialized swiper-container-horizontal">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+                                                            <div class="swiper-slide swiper-slide-active" style="width: 1500px;">
+                                    <div class="character-content">
+                                        <div class="character-info">
+                                            <h2 class="character-name">Hệ thuỷ</h2>
+                                            <div class="intro">
+											<p>Người thuộc hành Thủy có các loại thuộc tính tương đối bình thường, không có gì là đặc biệt, cũng không có thuộc tính nào mạnh nhất cả.
+											</p>
+                                            </div>
+                                        </div>
+                                        <img src="./templates/web_skins/skinmoi/templates/images/thuy.png" alt="Tiểu Kiều">
+                                    </div>
+                                </div>
+                                                    </div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <div class="swiper-container character-swiper-nav character-swiper-nav-3 swiper-container-initialized swiper-container-vertical swiper-container-thumbs">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+
+                                                    </div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                </div>
+                                            <div class="" id="dacsac-tab-hoa" style="display: none;">
+                    <div class="swiper-container character-swiper-large character-swiper-large-4 swiper-container-initialized swiper-container-horizontal">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+                                                            <div class="swiper-slide swiper-slide-active" style="width: 1500px;">
+                                    <div class="character-content">
+                                        <div class="character-info">
+                                            <h2 class="character-name">Hệ Hoả</h2>
+                                            <div class="intro">
+											<p>Người thuộc hành Hờa là những người cường tráng, có sức mạnh tương đương với những người của hệ Kim, tu luyện nội công đặc thù đúng cách cũng có thể mang lại hiệu quả tốt.</p>                                            </div>
+                                        </div>
+                                        <img src="./templates/web_skins/skinmoi/templates/images/hoa.png" alt="Chúc Dung">
+                                    </div>
+                                </div>
+
+                                                    </div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <div class="swiper-container character-swiper-nav character-swiper-nav-4 swiper-container-initialized swiper-container-vertical swiper-container-thumbs">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+                                                    </div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                </div>
+				
+				
+				
+                    </div>
+    </div>
+</div>		
+
+<div class="anchor open frame" data-delay="1100" data-root-margin="0px" data-threshold="0.1">
+    <div class="btn-tai-dk">
+        <a href="/tai_tro_choi.html" target="_blank" class="btn-tai-game  d-flex a-center j-center"></a>
+    </div>
+    <div class="link-4nut d-flex a-center j-center">
+        <a href="https://id.vlthiende.com" rel="register-popup" class="link-register a100  d-flex a-center j-center">
+            <img src="./templates/web_skins/skinmoi/templates/images/navright/img-4nut1.png" data-src="./templates/web_skins/skinmoi/templates/images/navright/img-4nut1.png" style="width: 40px;height: 41px;" class="img-loading-custom loaded">
+            <span>Đăng ký</span>
+        </a>
+        <a target="_blank" href="https://id.vlthiende.com" class="a100 link-napthe  d-flex a-center j-center">
+            <img src="./templates/web_skins/skinmoi/templates/images/navright/img-4nut2.png" data-src="./templates/web_skins/skinmoi/templates/images/navright/img-4nut2.png" style="width: 27px;height: 37px;" class="img-loading-custom loaded">
+            <span>NAP KIM</span>
+        </a>
+        <a target="_blank" href="facebook.com/vlthiende" class="a100 link-napvang  d-flex a-center j-center">
+		   <i class="fa fa-facebook-official" aria-hidden="true" style="font-size:30px; color: #8f7a52;"></i>
+            <span>Fanpage</span>
+        </a>
+        <a target="_blank" href="facebook.com/vlthiende" class="a100 link-giftcode  d-flex a-center j-center">
+
+
+			<i class="fa fa-users" aria-hidden="true" style="font-size:30px; color: #8f7a52;"></i>
+            <span>Nhóm</span>
+        </a>
+    </div>
+
+
+
+
+    <a style="display: block;" class="go-top">
+        <img src="./templates/web_skins/skinmoi/templates/images/navright/top.png" data-src="./templates/web_skins/skinmoi/templates/images/navright/top.png" style="width: 49px;height: 85px;" class="img-gotop img-loading-custom loaded">
+    </a>
+    <span class="i-control i-control-open c-pointer">
+      <span class="i-txt"></span>
+    </span>
+</div>
+
+ </div>
+ <div class="footer">
+    <ul class="footer-item">
+        <li><a href="https://vlthiende.com" target="_blank" title="Điều khoản sử dụng">Điều khoản sử dụng</a> |</li>
+        <li><a href="https://vlthiende.com" target="_blank" title="Cài đặt và gỡ bỏ">Cài đặt và gỡ bỏ</a> |</li>
+        <li><a href="https://vlthiende.com" target="_blank" title="Bảo mật">Bảo mật</a> |</li>
+        <li><a href="https://vlthiende.com" target="_blank" title="Thanh toán">Thanh toán</a></li>
+    </ul>
+    <div class="copyright">
+        <!-- <img class="cmn" src="./templates/logo.png" alt=""> -->
+        <div class="address">
+            Do Võ lâm thiên đế phát hành tại Việt Nam.<br>
+            Địa chỉ - 85 Nguyễn Chí Thanh, Phường Láng Hạ, Quận Đống Đa, Hà Nội. Số Điện Thoại : 0909.999.999
+        </div>
+     <!--   <img class="img18" src="./templates/game18.png" alt=""> -->
+    </div>
+</div>  
+
+        <script src="./templates/web_skins/skinmoi/templates/js/swiper.min.js"></script>
+        <script src="./templates/web_skins/skinmoi/templates/js/jquery.fancybox.js"></script>
+        <script src="./templates/web_skins/skinmoi/templates/js/css3-animate-it.js"></script>
+        <script src="./templates/web_skins/skinmoi/templates/js/jquery.nice-select.js"></script>
+        <script src="./templates/web_skins/skinmoi/templates/js/main.js?v=319574572"></script>
+
+        <script src="./templates/web_skins/skinmoi/templates/js/sweetalert2@9.js"></script>
+        
+    <script src="./templates/web_skins/skinmoi/templates/js/md5.js"></script>
+    <script src="./templates/web_skins/skinmoi/templates/js/jquery.cookie.js"></script>
+
+
+
+
+
+<script>
+
+    // anchor click Nav Right
+    $('.i-control').click(function () {
+        $('.anchor').toggleClass('open');
+        $(this).toggleClass('i-control-open'); // active bg btn
+    });
+
+    // gotop
+    var offset = 1080
+    anchor = $('.demo')
+    go_top = $('.go-top');
+
+    $(window).scroll(function () {
+        ($(this).scrollTop() < offset) ? anchor.removeClass('run') : anchor.addClass('run');
+    });
+
+    go_top.click(function () {
+        $('html,body').animate({scrollTop: 0}, 50);
+    });
+	
+</script> 
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var imgSrc = "";
+        var popup1Link = "";
+
+        if (imgSrc && popup1Link) {
+            var popup1 = document.createElement("div");
+            popup1.id = "popup1";
+            popup1.className = "popup1";
+            popup1.style.display = "none";
+
+            var img = document.createElement("img");
+            img.src = imgSrc;
+            img.alt = "popup1 Image";
+
+            img.addEventListener("click", function() {
+                window.location.href = popup1Link; 
+            });
+
+            popup1.appendChild(img);
+
+            var closeBtn = document.createElement("button");
+            closeBtn.id = "closeBtn";
+            closeBtn.textContent = "Đóng";
+
+            closeBtn.addEventListener("click", function() {
+                popup1.style.display = "none";
+                sessionStorage.setItem("popup1ClosedTime", Date.now());
+            });
+
+            popup1.appendChild(closeBtn);
+            document.body.appendChild(popup1);
+
+            var closedTime = sessionStorage.getItem("popup1ClosedTime");
+            if (!closedTime || (Date.now() - closedTime > 10000)) {
+                popup1.style.display = "block";
+            }
+
+            setTimeout(function() {
+                popup1.style.display = "none";
+                sessionStorage.setItem("popup1ClosedTime", Date.now());
+            }, 1 * 60 * 1000); // 5 phút tính bằng mili giây
+        }
+    });
+</script>
+
+<style>
+    .popup1 {
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: white;
+        padding: 20px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        z-index: 9999;
+    }
+
+    .popup1 img {
+        max-width: 100%;
+        height: auto;
+        cursor: pointer; /* Đổi con trỏ thành hình bàn tay khi di chuột qua ảnh */
+    }
+
+    #closeBtn {
+        display: block;
+        margin-top: 10px;
+    }
+</style>
+
+</body></html>

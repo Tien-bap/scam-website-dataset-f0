@@ -1,0 +1,27 @@
+{
+  "original_url": "https://deliveryparts.cl/fc/new/",
+  "hostname": "deliveryparts.cl",
+  "checked_at": "2026-10-04T13:43:23.128634+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e989-d052-71ca-8102-268ef6928282",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-28T19:42:07.644Z",
+  "scan_original_url": "http://deliveryparts.cl/",
+  "final_url": "https://deliveryparts.cl/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 362,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.882,
+  "discovery": {
+    "batch_id": "0bb87b5741b6583ae6525d460446424ddbfc66e6203ffe899a05be1b54d4e041",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

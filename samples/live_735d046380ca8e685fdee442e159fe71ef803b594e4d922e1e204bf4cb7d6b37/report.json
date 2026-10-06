@@ -1,0 +1,146 @@
+{
+  "candidate_id": "live_735d046380ca8e685fdee442e159fe71ef803b594e4d922e1e204bf4cb7d6b37",
+  "candidate_sha256": "3e93f79b3b1115815f1f27e16aa0b1e41c74ace1c34c70ca37381c7e7d96421c",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "toiyeuthethao.net",
+  "requested_url": "https://kovi-noord.nl/",
+  "browser_final_url": "https://kovi-noord.nl/",
+  "source_urls": [
+    "toiyeuthethao.net"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 15512,
+      "source_url": "toiyeuthethao.net",
+      "source_hostname": "toiyeuthethao.net",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://kovi-noord.nl/",
+      "final_hostname": "kovi-noord.nl",
+      "redirect_count": 2,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 4934,
+      "checked_at": "2026-10-05T12:41:57.590995+00:00",
+      "error": null,
+      "normalized_source_url": "https://toiyeuthethao.net/",
+      "normalized_final_url": "https://kovi-noord.nl/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_735d046380ca8e685fdee442e159fe71ef803b594e4d922e1e204bf4cb7d6b37",
+    "representative_source_index": 15512,
+    "representative_source_url": "toiyeuthethao.net",
+    "representative_final_url": "https://kovi-noord.nl/",
+    "normalized_final_url": "https://kovi-noord.nl/",
+    "source_hostname": "toiyeuthethao.net",
+    "final_hostname": "kovi-noord.nl",
+    "source_urls": [
+      "toiyeuthethao.net"
+    ],
+    "provenance": [
+      {
+        "source_index": 15512,
+        "source_url": "toiyeuthethao.net",
+        "source_hostname": "toiyeuthethao.net",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://kovi-noord.nl/",
+        "final_hostname": "kovi-noord.nl",
+        "redirect_count": 2,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 4934,
+        "checked_at": "2026-10-05T12:41:57.590995+00:00",
+        "error": null,
+        "normalized_source_url": "https://toiyeuthethao.net/",
+        "normalized_final_url": "https://kovi-noord.nl/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 2,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "DEBET Kovi-noord.nl - Link Vào Debet Đăng Ký Chơi +38,888,000",
+  "capture_timestamp": "2026-10-05T14:46:33.701240+00:00",
+  "dom_chars": 174245,
+  "screenshot_bytes": 116889,
+  "dom_sha256": "871d23d08301f0c5c45d73f8cf3cac2b3b187d1b7ff0b0a8283597c487a6dcd5",
+  "screenshot_sha256": "b904186a545ad59cbbae5a49f2d0e7b6776b979f7ac2489a81dcb035a25123c6",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://kovi-noord.nl/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://kovi-noord.nl/",
+    "browser_final_url": "https://kovi-noord.nl/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 4022
+}

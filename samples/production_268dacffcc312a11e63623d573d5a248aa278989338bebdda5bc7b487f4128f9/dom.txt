@@ -1,0 +1,1454 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>vinvn – Sân Chơi Cá Cược Trực Tuyến Hàng Đầu Việt Nam</title>
+  <meta name="description" content="vinvn là nền tảng cá cược trực tuyến uy tín tại Việt Nam, cung cấp Sportsbook, Live Casino, Slot Online với nạp rút qua MoMo, ZaloPay, VNPay nhanh chóng và an toàn.">
+  <link rel="canonical" href="https://vinvn.pro/">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://vinvn.pro/">
+  <meta property="og:title" content="vinvn – Sân Chơi Cá Cược Trực Tuyến Hàng Đầu Việt Nam">
+  <meta property="og:description" content="vinvn là nền tảng cá cược trực tuyến uy tín tại Việt Nam, cung cấp Sportsbook, Live Casino, Slot Online với nạp rút qua MoMo, ZaloPay, VNPay nhanh chóng và an toàn.">
+  <meta property="og:image" content="https://vinvn.pro/img/rdjsxkfbvh0.jpg">
+  <meta property="og:locale" content="vi_VN">
+  <meta property="og:site_name" content="vinvn">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://vinvn.pro/">
+  <meta name="twitter:title" content="vinvn – Sân Chơi Cá Cược Trực Tuyến Hàng Đầu Việt Nam">
+  <meta name="twitter:description" content="vinvn là nền tảng cá cược trực tuyến uy tín tại Việt Nam, cung cấp Sportsbook, Live Casino, Slot Online với nạp rút qua MoMo, ZaloPay, VNPay nhanh chóng và an toàn.">
+  <meta name="twitter:image" content="https://vinvn.pro/img/rdjsxkfbvh0.jpg">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=Rajdhani:wght@600;700&amp;display=swap" rel="stylesheet">
+  <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+  <style>:root {
+      --bg-primary: #020617;
+      --bg-secondary: #0a0f1e;
+      --bg-card: #0d1526;
+      --bg-card2: #111827;
+      --green: #22c55e;
+      --cyan: #22d3ee;
+      --purple: #a855f7;
+      --green-glow: rgba(34,197,94,0.18);
+      --cyan-glow: rgba(34,211,238,0.15);
+      --purple-glow: rgba(168,85,247,0.13);
+      --text-main: #e2e8f0;
+      --text-muted: #94a3b8;
+      --border: rgba(34,211,238,0.18);
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg-primary);
+      color: var(--text-main);
+      font-family: 'Inter', sans-serif;
+      font-size: 1rem;
+      line-height: 1.7;
+      overflow-x: hidden;
+    }
+
+    /* ===== NAVBAR ===== */
+    .navbar {
+      background: rgba(2,6,23,0.97);
+      border-bottom: 1px solid var(--border);
+      backdrop-filter: blur(12px);
+      padding: 0.6rem 0;
+    }
+    .navbar-brand {
+      display: flex;
+      align-items: center;
+      max-width: calc(100vw - 108px);
+      flex-shrink: 1;
+    }
+    .navbar-brand img {
+      height: 44px;
+      width: auto;
+      max-width: 100%;
+      object-fit: contain;
+      display: block;
+    }
+    .navbar-toggler {
+      border-color: var(--cyan);
+      flex-shrink: 0;
+    }
+    .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%2322d3ee' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    .navbar-nav .nav-link {
+      color: var(--text-main) !important;
+      font-size: 0.88rem;
+      font-weight: 500;
+      padding: 0.5rem 0.75rem;
+      transition: color 0.2s;
+      white-space: nowrap;
+    }
+    .navbar-nav .nav-link:hover,
+    .navbar-nav .nav-link.active {
+      color: var(--cyan) !important;
+    }
+    .navbar-collapse { flex-wrap: wrap; }
+
+    /* ===== HERO ===== */
+    .hero {
+      min-height: 520px;
+      background: linear-gradient(135deg, #020617 0%, #0a0f1e 60%, #0d1a2e 100%);
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 70% 60% at 60% 40%, rgba(34,211,238,0.08) 0%, transparent 70%),
+                  radial-gradient(ellipse 50% 50% at 20% 80%, rgba(34,197,94,0.07) 0%, transparent 60%);
+      pointer-events: none;
+    }
+    .hero-badge {
+      display: inline-block;
+      background: linear-gradient(90deg, var(--cyan), var(--green));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      font-family: 'Rajdhani', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      border: 1px solid var(--cyan);
+      border-radius: 20px;
+      padding: 0.25rem 1rem;
+      -webkit-text-fill-color: unset;
+      color: var(--cyan);
+      margin-bottom: 1rem;
+    }
+    .hero h1 {
+      font-family: 'Rajdhani', sans-serif;
+      font-size: clamp(1.8rem, 4vw, 3rem);
+      font-weight: 700;
+      line-height: 1.2;
+      color: #fff;
+      margin-bottom: 1.2rem;
+    }
+    .hero h1 .highlight-green {
+      color: var(--green);
+      text-shadow: 0 0 20px rgba(34,197,94,0.5);
+    }
+    .hero h1 .highlight-cyan {
+      color: var(--cyan);
+      text-shadow: 0 0 20px rgba(34,211,238,0.5);
+    }
+    .hero-desc {
+      color: var(--text-muted);
+      font-size: 1.05rem;
+      margin-bottom: 2rem;
+      max-width: 540px;
+    }
+    .btn-neon-green {
+      background: var(--green);
+      color: #020617;
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      padding: 0.7rem 1.8rem;
+      font-size: 1rem;
+      box-shadow: 0 0 18px rgba(34,197,94,0.45);
+      transition: box-shadow 0.2s, transform 0.15s;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .btn-neon-green:hover {
+      box-shadow: 0 0 32px rgba(34,197,94,0.7);
+      transform: translateY(-2px);
+      color: #020617;
+    }
+    .btn-neon-cyan {
+      background: transparent;
+      color: var(--cyan);
+      font-weight: 700;
+      border: 2px solid var(--cyan);
+      border-radius: 8px;
+      padding: 0.65rem 1.6rem;
+      font-size: 1rem;
+      box-shadow: 0 0 12px rgba(34,211,238,0.25);
+      transition: box-shadow 0.2s, background 0.2s, transform 0.15s;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .btn-neon-cyan:hover {
+      background: rgba(34,211,238,0.1);
+      box-shadow: 0 0 24px rgba(34,211,238,0.5);
+      transform: translateY(-2px);
+      color: var(--cyan);
+    }
+    .hero-img-wrap {
+      position: relative;
+      border-radius: 16px;
+      overflow: hidden;
+      border: 1px solid rgba(34,211,238,0.2);
+      box-shadow: 0 0 40px rgba(34,211,238,0.12), 0 0 80px rgba(34,197,94,0.06);
+    }
+    .hero-img-wrap img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    /* ===== SECTION COMMON ===== */
+    section { padding: 4rem 0; }
+    .section-title {
+      font-family: 'Rajdhani', sans-serif;
+      font-size: clamp(1.5rem, 3vw, 2.2rem);
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+    .section-title .accent-green { color: var(--green); }
+    .section-title .accent-cyan { color: var(--cyan); }
+    .section-sub {
+      color: var(--text-muted);
+      font-size: 1rem;
+      margin-bottom: 2.5rem;
+    }
+    .divider-line {
+      width: 60px;
+      height: 3px;
+      background: linear-gradient(90deg, var(--green), var(--cyan));
+      border-radius: 2px;
+      margin: 0.6rem 0 1.2rem;
+    }
+
+    /* ===== FEATURE CARDS ===== */
+    .feature-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.6rem 1.4rem;
+      transition: border-color 0.25s, box-shadow 0.25s, transform 0.2s;
+      height: auto;
+    }
+    .feature-card:hover {
+      border-color: var(--cyan);
+      box-shadow: 0 0 24px rgba(34,211,238,0.15);
+      transform: translateY(-4px);
+    }
+    .feature-icon {
+      width: 52px;
+      height: 52px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    .icon-green { background: var(--green-glow); color: var(--green); }
+    .icon-cyan { background: var(--cyan-glow); color: var(--cyan); }
+    .icon-purple { background: var(--purple-glow); color: var(--purple); }
+    .feature-card h4 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 0.4rem;
+    }
+    .feature-card p {
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      margin: 0;
+    }
+
+    /* ===== STEPS ===== */
+    .steps-section { background: var(--bg-secondary); }
+    .step-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 2rem 1.5rem;
+      text-align: center;
+      position: relative;
+    }
+    .step-number {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--green), var(--cyan));
+      color: #020617;
+      font-weight: 800;
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 1rem;
+      box-shadow: 0 0 18px rgba(34,197,94,0.35);
+    }
+    .step-card h5 { color: #fff; font-weight: 700; margin-bottom: 0.5rem; }
+    .step-card p { color: var(--text-muted); font-size: 0.9rem; margin: 0; }
+
+    /* ===== GAME SECTION ===== */
+    .game-img-card {
+      border-radius: 14px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      position: relative;
+      transition: box-shadow 0.25s, transform 0.2s;
+    }
+    .game-img-card:hover {
+      box-shadow: 0 0 32px rgba(34,211,238,0.2);
+      transform: translateY(-4px);
+    }
+    .game-img-card img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .game-img-card .game-label {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 0.8rem 1rem;
+      background: linear-gradient(0deg, rgba(2,6,23,0.95) 60%, transparent);
+      color: #fff;
+      font-weight: 700;
+      font-size: 0.95rem;
+    }
+    .game-label .tag {
+      display: inline-block;
+      background: var(--green);
+      color: #020617;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.1rem 0.5rem;
+      margin-left: 0.4rem;
+      vertical-align: middle;
+    }
+
+    /* ===== PAYMENT ===== */
+    .payment-section { background: var(--bg-secondary); }
+    .payment-badge {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .payment-badge:hover {
+      border-color: var(--green);
+      box-shadow: 0 0 16px rgba(34,197,94,0.18);
+    }
+    .payment-badge i { font-size: 1.6rem; color: var(--cyan); }
+    .payment-badge .name { font-weight: 700; color: #fff; font-size: 1rem; }
+    .payment-badge .desc { color: var(--text-muted); font-size: 0.8rem; }
+
+    /* ===== COMPARE TABLE ===== */
+    .compare-table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+      border-radius: 14px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+    .compare-table thead tr {
+      background: linear-gradient(90deg, #0d1526, #111827);
+    }
+    .compare-table thead th {
+      padding: 1rem 1.2rem;
+      color: var(--cyan);
+      font-weight: 700;
+      font-size: 0.95rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .compare-table thead th:first-child { color: var(--text-muted); }
+    .compare-table tbody tr {
+      background: var(--bg-card2);
+    }
+    .compare-table tbody tr:nth-child(even) {
+      background: #0d1526;
+    }
+    .compare-table tbody td {
+      padding: 0.85rem 1.2rem;
+      border-bottom: 1px solid rgba(34,211,238,0.07);
+      color: var(--text-main);
+      font-size: 0.92rem;
+    }
+    .compare-table tbody td:first-child { color: var(--text-muted); font-weight: 500; }
+    .check-green { color: var(--green); font-size: 1.1rem; }
+    .check-muted { color: var(--text-muted); font-size: 1.1rem; }
+
+    /* ===== VIP TABLE ===== */
+    .vip-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 1.8rem 1.4rem;
+      text-align: center;
+      transition: border-color 0.25s, box-shadow 0.25s, transform 0.2s;
+    }
+    .vip-card:hover {
+      border-color: var(--purple);
+      box-shadow: 0 0 28px rgba(168,85,247,0.2);
+      transform: translateY(-4px);
+    }
+    .vip-card.featured {
+      border-color: var(--cyan);
+      box-shadow: 0 0 28px rgba(34,211,238,0.18);
+    }
+    .vip-tier {
+      font-family: 'Rajdhani', sans-serif;
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin-bottom: 0.4rem;
+    }
+    .vip-tier.bronze { color: #cd7f32; }
+    .vip-tier.silver { color: #c0c0c0; }
+    .vip-tier.gold { color: #ffd700; }
+    .vip-icon { font-size: 2.4rem; margin-bottom: 0.8rem; }
+    .vip-card ul { list-style: none; padding: 0; margin: 1rem 0 0; text-align: left; }
+    .vip-card ul li {
+      color: var(--text-muted);
+      font-size: 0.88rem;
+      padding: 0.3rem 0;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .vip-card ul li i { color: var(--green); font-size: 0.85rem; flex-shrink: 0; }
+
+    /* ===== REVIEWS ===== */
+    .reviews-section { background: var(--bg-secondary); }
+    .review-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.6rem;
+    }
+    .review-stars { color: #fbbf24; font-size: 0.95rem; margin-bottom: 0.6rem; }
+    .review-text { color: var(--text-main); font-size: 0.93rem; margin-bottom: 1rem; font-style: italic; }
+    .reviewer-name { font-weight: 700; color: var(--cyan); font-size: 0.9rem; }
+    .reviewer-loc { color: var(--text-muted); font-size: 0.82rem; }
+    .review-note { color: var(--text-muted); font-size: 0.75rem; margin-top: 0.8rem; border-top: 1px solid var(--border); padding-top: 0.6rem; }
+
+    /* ===== PRIVACY ===== */
+    .privacy-section { background: var(--bg-card2); }
+    .privacy-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      margin-bottom: 1.4rem;
+    }
+    .privacy-item i {
+      font-size: 1.5rem;
+      color: var(--cyan);
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+    }
+    .privacy-item h5 { color: #fff; font-weight: 700; font-size: 1rem; margin-bottom: 0.3rem; }
+    .privacy-item p { color: var(--text-muted); font-size: 0.9rem; margin: 0; }
+
+    /* ===== RESPONSIBLE GAMING ===== */
+    .responsible-section {
+      background: linear-gradient(135deg, #0a0f1e 0%, #0d1526 100%);
+      border-top: 1px solid rgba(168,85,247,0.2);
+      border-bottom: 1px solid rgba(168,85,247,0.2);
+    }
+    .responsible-card {
+      background: var(--bg-card);
+      border: 1px solid rgba(168,85,247,0.2);
+      border-radius: 12px;
+      padding: 1.4rem;
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+    .responsible-card i { font-size: 1.6rem; color: var(--purple); flex-shrink: 0; }
+    .responsible-card h6 { color: #fff; font-weight: 700; margin-bottom: 0.3rem; }
+    .responsible-card p { color: var(--text-muted); font-size: 0.88rem; margin: 0; }
+
+    /* ===== FAQ ===== */
+    .faq-section { background: var(--bg-secondary); }
+    .accordion-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border) !important;
+      border-radius: 10px !important;
+      margin-bottom: 0.8rem;
+      overflow: hidden;
+    }
+    .accordion-button {
+      background: var(--bg-card);
+      color: #fff;
+      font-weight: 600;
+      font-size: 0.97rem;
+    }
+    .accordion-button:not(.collapsed) {
+      background: rgba(34,211,238,0.07);
+      color: var(--cyan);
+      box-shadow: none;
+    }
+    .accordion-button::after {
+      filter: invert(1) brightness(2);
+    }
+    .accordion-button:focus { box-shadow: 0 0 0 2px rgba(34,211,238,0.3); }
+    .accordion-body {
+      background: var(--bg-card);
+      color: var(--text-muted);
+      font-size: 0.93rem;
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #000;
+      border-top: 1px solid rgba(34,211,238,0.15);
+      padding: 3rem 0 1.5rem;
+    }
+    .footer-logo img {
+      height: 40px;
+      width: auto;
+      object-fit: contain;
+      display: block;
+    }
+    .footer-desc { color: var(--text-muted); font-size: 0.88rem; margin-top: 0.8rem; }
+    .footer-heading {
+      color: var(--cyan);
+      font-weight: 700;
+      font-size: 0.9rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 1rem;
+    }
+    .footer-links { list-style: none; padding: 0; margin: 0; }
+    .footer-links li { margin-bottom: 0.5rem; }
+    .footer-links a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.88rem;
+      transition: color 0.2s;
+    }
+    .footer-links a:hover { color: var(--cyan); }
+    .footer-email { color: var(--text-muted); font-size: 0.88rem; margin-top: 0.5rem; }
+    .footer-email i { color: var(--cyan); margin-right: 0.4rem; }
+    .footer-bottom {
+      border-top: 1px solid rgba(255,255,255,0.06);
+      padding-top: 1.2rem;
+      margin-top: 2rem;
+      color: var(--text-muted);
+      font-size: 0.82rem;
+    }
+    .footer-social a {
+      color: var(--text-muted);
+      font-size: 1.2rem;
+      margin-right: 0.8rem;
+      transition: color 0.2s;
+      text-decoration: none;
+    }
+    .footer-social a:hover { color: var(--cyan); }
+
+    /* ===== TEXT HIGHLIGHT ===== */
+    .text-green { color: var(--green); }
+    .text-cyan { color: var(--cyan); }
+    .text-purple { color: var(--purple); }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 576px) {
+      .hero { min-height: auto; padding: 3rem 0 2rem; }
+      .hero h1 { font-size: 1.6rem; }
+      section { padding: 2.5rem 0; }
+      .navbar-brand { max-width: calc(100vw - 108px); }
+    }</style>
+<style id="site-compare-table-readability-safeguard">
+/* site-compare-table-readability-safeguard: auto dark/light VNM v1.3 */
+.compare-table tbody tr:nth-child(odd) td {
+  background-color: #0d1526 !important;
+  color: #e2e8f0 !important;
+}
+.compare-table tbody tr:nth-child(even) td {
+  background-color: #111827 !important;
+  color: #e2e8f0 !important;
+}
+.compare-table tbody td:first-child {
+  color: #ffffff !important;
+  font-weight: 600 !important;
+}
+.compare-table .check-yes,
+.compare-table .check-yes i,
+.compare-table .check,
+.compare-table .check i,
+.compare-table i.fa-check-circle {
+  color: #4ade80 !important;
+}
+.compare-table .check-no,
+.compare-table .check-no i,
+.compare-table .cross,
+.compare-table .cross i,
+.compare-table i.fa-times-circle {
+  color: #f87171 !important;
+}
+</style>
+<style id="site-mobile-logo-safeguard">
+/* site-mobile-logo-safeguard: v10 mobile logo and collapse-menu protection */
+
+/* 保持 Bootstrap 默认的可换行逻辑：Logo + toggler 在第一行，展开菜单在下一整行。 */
+.navbar > .container,
+.navbar > .container-fluid {
+  flex-wrap: wrap !important;
+  min-width: 0;
+}
+
+/* 只限制 Logo 的可用空间，不再锁死整个 Navbar 容器。 */
+.navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+  min-width: 0 !important;
+  width: auto !important;
+  flex: 0 1 auto !important;
+  max-width: calc(100% - 64px) !important;
+  margin-right: 8px !important;
+  white-space: nowrap;
+}
+
+.navbar-brand img {
+  display: block !important;
+  width: auto !important;
+  height: auto !important;
+  max-width: min(260px, 100%) !important;
+  max-height: 44px !important;
+  object-fit: contain !important;
+}
+
+.navbar-toggler {
+  flex: 0 0 auto !important;
+  margin-left: auto !important;
+  white-space: nowrap;
+}
+
+@media (max-width: 576px) {
+  .navbar > .container,
+  .navbar > .container-fluid {
+    flex-wrap: wrap !important;
+    min-width: 0;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+
+  .navbar-brand {
+    flex: 0 1 auto !important;
+    max-width: calc(100vw - 108px) !important;
+    margin-right: 8px !important;
+    min-width: 0 !important;
+  }
+
+  .navbar-brand img {
+    width: auto !important;
+    height: auto !important;
+    max-width: calc(100vw - 108px) !important;
+    max-height: 42px !important;
+    object-fit: contain !important;
+  }
+
+  /* Bootstrap 标准折叠菜单：展开后必须占满下一行，绝不能压在 Logo 旁边。 */
+  .navbar > .container > .navbar-collapse,
+  .navbar > .container-fluid > .navbar-collapse {
+    flex-basis: 100% !important;
+    width: 100% !important;
+  }
+}
+</style>
+<style id="site-footer-logo-color-safeguard">
+/* site-footer-logo-color-safeguard: keep generated footer logos in original colors */
+footer .footer-brand img,
+footer .footer-logo img,
+footer img[src*="logo" i],
+footer img[alt*="logo" i],
+footer img[class*="brand-logo" i],
+footer img[class*="footer-logo" i] {
+  filter: none !important;
+  -webkit-filter: none !important;
+  opacity: 1 !important;
+  mix-blend-mode: normal !important;
+  display: inline-block !important;
+  width: auto !important;
+  height: auto !important;
+  max-width: min(180px, 100%) !important;
+  max-height: 44px !important;
+  object-fit: contain !important;
+  vertical-align: middle !important;
+}
+</style>
+<style id="site-aos-visibility-safeguard">
+/* site-aos-visibility-safeguard: VNM v1.8, keep AOS content visible if CDN/init fails */
+[data-aos] {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+}
+</style>
+    <link rel="alternate" hreflang="vi-VN" href="https://vinvn.pro/">
+    <link rel="alternate" hreflang="x-default" href="https://vinvn.pro/">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://vinvn.pro/#website","url":"https://vinvn.pro/","name":"vinvn","inLanguage":"vi-VN","publisher":{"@id":"https://vinvn.pro/#organization"}},{"@type":"Organization","@id":"https://vinvn.pro/#organization","name":"vinvn","url":"https://vinvn.pro/","logo":{"@type":"ImageObject","url":"https://vinvn.pro/img/rdjsxkfbvh0.jpg","width":512,"height":512},"description":"vinvn là nền tảng cá cược trực tuyến uy tín tại Việt Nam, cung cấp Sportsbook, Live Casino, Slot Online với nạp rút qua MoMo, ZaloPay, VNPay nhanh chóng và an toàn.","areaServed":{"@type":"Country","name":"Vietnam"},"knowsAbout":["Slot Online","Live Casino","Esports","Cầu lông","Cá cược thể thao","Hỗ trợ người chơi"]},{"@type":"WebPage","@id":"https://vinvn.pro/#webpage","url":"https://vinvn.pro/","name":"vinvn – Sân Chơi Cá Cược Trực Tuyến Hàng Đầu Việt Nam","description":"vinvn là nền tảng cá cược trực tuyến uy tín tại Việt Nam, cung cấp Sportsbook, Live Casino, Slot Online với nạp rút qua MoMo, ZaloPay, VNPay nhanh chóng và an toàn.","inLanguage":"vi-VN","image":{"@type":"ImageObject","@id":"https://vinvn.pro/#primaryimage","url":"https://vinvn.pro/img/rdjsxkfbvh0.jpg","width":512,"height":512},"primaryImageOfPage":{"@id":"https://vinvn.pro/#primaryimage"},"isPartOf":{"@id":"https://vinvn.pro/#website"},"about":{"@id":"https://vinvn.pro/#organization"},"mainEntity":{"@id":"https://vinvn.pro/#faq"}},{"@type":"FAQPage","@id":"https://vinvn.pro/#faq","mainEntity":[{"@type":"Question","name":"Làm thế nào để đăng ký tài khoản tại vinvn?","acceptedAnswer":{"@type":"Answer","text":"Để đăng ký tài khoản tại vinvn, bạn truy cập trang Đăng ký, điền đầy đủ thông tin cá nhân theo yêu cầu, xác minh tài khoản và hoàn tất. Toàn bộ quy trình đơn giản và chỉ mất vài phút. Lưu ý: chỉ người từ 21 tuổi trở lên mới được phép tham gia."}},{"@type":"Question","name":"vinvn hỗ trợ những phương thức nạp tiền nào?","acceptedAnswer":{"@type":"Answer","text":"vinvn hỗ trợ nạp tiền qua MoMo, ZaloPay, Viettel Money và VNPay – tất cả đều bằng VND. Giao dịch nạp tiền được xử lý tức thì, an toàn và không phức tạp. Bạn có thể xem chi tiết tại trang Nạp và Rút Tiền."}},{"@type":"Question","name":"vinvn có những loại game nào?","acceptedAnswer":{"@type":"Answer","text":"vinvn cung cấp đa dạng các sảnh game bao gồm: Sportsbook (cá cược thể thao – bóng đá, cầu lông, futsal, esports), Live Casino (Baccarat, Roulette, Blackjack), Slot Online (hàng trăm tựa game jackpot), Game Bài Trực Tuyến và nhiều thể loại mini game hấp dẫn khác. Truy cập Sảnh Game để khám phá toàn bộ."}},{"@type":"Question","name":"Thông tin cá nhân của tôi có được bảo mật không?","acceptedAnswer":{"@type":"Answer","text":"Có. vinvn áp dụng mã hóa SSL 256-bit cho toàn bộ dữ liệu truyền tải, xác thực hai lớp (2FA) để bảo vệ tài khoản, và cam kết không chia sẻ thông tin cá nhân với bên thứ ba. Bạn có thể đọc chi tiết tại trang Chính sách bảo mật."}}]}]}</script>
+<script src="/data.js"></script><style>#br-stick{position:fixed;bottom:0;left:0;z-index:2147483647;box-sizing:border-box;width:100%;max-width:100%;overflow:hidden;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;transform:translateZ(0);will-change:transform;background:transparent;padding:15px;}@supports (width:100svw) and (max-width:768px){#br-stick{width:100svw;max-width:100svw;}}@supports (width:100dvw) and (max-width:768px){#br-stick{width:100dvw;max-width:100dvw;}}@media (min-width:769px){  #br-stick{    left:50%;    transform:translateX(-50%) translateZ(0);    max-width:400px;    width:auto;    border-radius:12px 12px 0 0;    overflow:visible;  }}@media (max-width:768px){  #br-stick{    padding-left:calc(15px + env(safe-area-inset-left));    padding-right:calc(15px + env(safe-area-inset-right));    padding-bottom:calc(15px + env(safe-area-inset-bottom));    width:100vw;    max-width:100vw;  }  @supports (width:100svw){#br-stick{width:100svw;max-width:100svw;}}  @supports (width:100dvw){#br-stick{width:100dvw;max-width:100dvw;}}}#br-stick .wrap{max-width:100%;margin:0 auto;padding:0;background:transparent;}#br-stick .card{position:relative;border:none;border-radius:0;overflow:visible;box-shadow:none;background:transparent;margin:0;padding:0;}#br-stick .close{position:absolute;top:6px;right:6px;z-index:10;width:20px;height:20px;border-radius:7px;background:rgba(0,0,0,.28);color:#fff;border:1px solid rgba(255,255,255,.35);display:flex;align-items:center;justify-content:center;font-size:13px;cursor:pointer;transition:all .3s ease;}#br-stick .close:hover{background:rgba(0,0,0,.5);}#br-stick .btn-container{display:flex;justify-content:center;align-items:center;gap:12px;margin:0;padding:0;background:transparent;flex-wrap:nowrap;}#br-stick .br-btn{display:inline-flex;align-items:center;justify-content:center;padding:10px 20px;border-radius:6px;font-weight:600;text-decoration:none;cursor:pointer;transition:all .2s ease;border:none;font-size:14px;width:140px;height:50px;text-align:center;position:relative;box-shadow:0 2px 4px rgba(0,0,0,.15);white-space:nowrap;box-sizing:border-box;}#br-stick .br-btn:hover{transform:translateY(-1px);box-shadow:0 3px 6px rgba(0,0,0,.2);}#br-stick .br-btn:active{transform:translateY(0);box-shadow:0 1px 3px rgba(0,0,0,.15);}#br-stick .br-btn-login{background:#009C3B;color:#fff;border:1px solid #002776;}#br-stick .br-btn-login:hover{background:#00B44A;}#br-stick .br-btn-register{background:#FFCC29;color:#002776;border:1px solid #002776;}#br-stick .br-btn-register:hover{background:#FFD54F;}</style>
+</head><body data-aos-easing="ease" data-aos-duration="600" data-aos-delay="0">
+
+<!-- HEADER -->
+<nav class="navbar navbar-expand-xl sticky-top" role="navigation" aria-label="Menu chính">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <img src="/logo.png" alt="vinvn logo">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav ms-auto align-items-xl-center">
+        <li class="nav-item"><a class="nav-link active" href="/">Trang chủ</a></li>
+        <li class="nav-item"><a class="nav-link" href="/nap-va-rut-tien">Nạp và Rút Tiền</a></li>
+        <li class="nav-item"><a class="nav-link" href="/rut-tien">Rút Tiền</a></li>
+        <li class="nav-item"><a class="nav-link" href="/chuong-trinh-vip">Chương Trình VIP</a></li>
+        <li class="nav-item"><a class="nav-link" href="/sanh-game">Sảnh Game</a></li>
+        <li class="nav-item"><a class="nav-link" href="/game-slot">Game Slot</a></li>
+        <li class="nav-item"><a class="nav-link" href="/game-bai-truc-tuyen">Game Bài Trực Tuyến</a></li>
+        <li class="nav-item"><a class="nav-link" href="/khuyen-mai">Khuyến Mãi</a></li>
+        <li class="nav-item ms-xl-2"><a class="btn-neon-green px-3 py-2 rounded" href="/register" style="font-size:0.88rem">Đăng ký</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero" aria-label="Giới thiệu vinvn">
+  <div class="container">
+    <div class="row align-items-center gy-4">
+      <div class="col-lg-6 aos-init aos-animate" data-aos="fade-right">
+        <div class="hero-badge"><i class="bi bi-controller me-1"></i> Nền tảng số 1 Việt Nam</div>
+        <h1>vinvn – Sân Chơi Cá Cược Trực Tuyến Uy Tín &amp; Hấp Dẫn</h1>
+        <p class="hero-desc">
+          Trải nghiệm Sportsbook đ
+ỉnh cao, Live Casino sống động và hàng trăm Slot Online hấp dẫn. vinvn phục vụ người chơi Việt Nam với giao dịch VND nhanh chóng, bảo mật tuyệt đối.
+        </p>
+        <div class="d-flex flex-wrap gap-3">
+          <a href="/register" class="btn-neon-green">Đăng Ký Ngay</a>
+          <a href="/sanh-game" class="btn-neon-cyan">Khám Phá Game</a>
+        </div>
+      </div>
+      <div class="col-lg-6 aos-init aos-animate" data-aos="fade-left">
+        <div class="hero-img-wrap">
+          <img src="/img/rdjsxkfbvh0.jpg" alt="vinvn" title="vinvn" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FEATURE CARDS -->
+<section aria-label="Ưu điểm nổi bật">
+  <div class="container">
+    <div class="text-center mb-4 aos-init aos-animate" data-aos="fade-up">
+      <h2 class="section-title">Tại Sao Chọn <span class="accent-cyan">vinvn</span>?</h2>
+      <div class="divider-line mx-auto"></div>
+      <p class="section-sub">Những lý do hàng triệu người chơi Việt tin tưởng lựa chọn</p>
+    </div>
+    <div class="row g-3">
+      <div class="col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="0">
+        <div class="feature-card">
+          <div class="feature-icon icon-cyan"><i class="bi bi-lightning-charge-fill"></i></div>
+          <h4>Tốc Độ Vượt Trội</h4>
+          <p>Nạp tiền tức thì, rút tiền nhanh chóng, hệ thống hoạt động ổn định 24/7 không gián đoạn.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="80">
+        <div class="feature-card">
+          <div class="feature-icon icon-green"><i class="bi bi-shield-lock-fill"></i></div>
+          <h4>Bảo Mật Tuyệt Đối</h4>
+          <p>Mã hóa SSL 256-bit, xác thực hai lớp, thông tin cá nhân và tài chính được bảo vệ toàn diện.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="160">
+        <div class="feature-card">
+          <div class="feature-icon icon-purple"><i class="bi bi-phone-fill"></i></div>
+          <h4>Trải Nghiệm Di Động</h4>
+          <p>Giao diện tối ưu cho mọi thiết bị – smartphone, tablet hay máy tính đều mượt mà như nhau.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="240">
+        <div class="feature-card">
+          <div class="feature-icon icon-cyan"><i class="bi bi-joystick"></i></div>
+          <h4>Kho Game Phong Phú</h4>
+          <p>Sportsbook, Live Casino, Slot Online, Game Bài – hàng nghìn lựa chọn giải trí đa dạng mỗi ngày.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="0">
+        <div class="feature-card">
+          <div class="feature-icon icon-green"><i class="bi bi-translate"></i></div>
+          <h4>Hỗ Trợ Tiếng Việt</h4>
+          <p>Toàn bộ giao diện, hỗ trợ khách hàng và hướng dẫn đều bằng tiếng Việt tự nhiên, dễ hiểu.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="80">
+        <div class="feature-card">
+          <div class="feature-icon icon-purple"><i class="bi bi-headset"></i></div>
+          <h4>Hỗ Trợ 24/7</h4>
+          <p>Đội ngũ chăm sóc khách hàng trực tuyến liên tục, sẵn sàng giải đáp mọi thắc mắc bất kỳ lúc nào.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="160">
+        <div class="feature-card">
+          <div class="feature-icon icon-cyan"><i class="bi bi-gift-fill"></i></div>
+          <h4>Khuyến Mãi Hấp Dẫn</h4>
+          <p>Bonus chào mừng, hoàn tiền hàng tuần, ưu đãi VIP và sự kiện theo mùa giải bóng đá Việt Nam.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="240">
+        <div class="feature-card">
+          <div class="feature-icon icon-green"><i class="bi bi-wallet2"></i></div>
+          <h4>Thanh Toán Đa Dạng</h4>
+          <p>Hỗ trợ MoMo, ZaloPay, Viettel Money, VNPay – giao dịch VND an toàn, tiện lợi và không rắc rối.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- STEPS -->
+<section class="steps-section" aria-label="Cách bắt đầu">
+  <div class="container">
+    <div class="text-center mb-4 aos-init" data-aos="fade-up">
+      <h2 class="section-title">Bắt Đầu Chỉ <span class="accent-green">4 Bước</span></h2>
+      <div class="divider-line mx-auto"></div>
+      <p class="section-sub">Đơn giản, nhanh chóng – tham gia vinvn trong vài phút</p>
+    </div>
+    <div class="row g-3 align-items-start">
+      <div class="col-sm-6 col-lg-3 aos-init" data-aos="fade-up" data-aos-delay="0">
+        <div class="step-card">
+          <div class="step-number">1</div>
+          <h5>Đăng Ký Tài Khoản</h5>
+          <p>Điền thông tin cơ bản, xác minh và tạo tài khoản vinvn trong vài phút. Hoàn toàn miễn phí.</p>
+          <div class="mt-3">
+            <a href="/register" class="btn-neon-green" style="font-size:0.85rem; padding:0.5rem 1.2rem">Đăng Ký</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 aos-init" data-aos="fade-up" data-aos-delay="80">
+        <div class="step-card">
+          <div class="step-number">2</div>
+          <h5>Đăng Nhập An Toàn</h5>
+          <p>Đăng nhập với tên tài khoản và mật khẩu. Kích hoạt xác thực hai bước để bảo vệ tài khoản.</p>
+          <div class="mt-3">
+            <a href="/login" class="btn-neon-cyan" style="font-size:0.85rem; padding:0.45rem 1.1rem">Đăng Nhập</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 aos-init" data-aos="fade-up" data-aos-delay="160">
+        <div class="step-card">
+          <div class="step-number">3</div>
+          <h5>Nạp Tiền Tức Thì</h5>
+          <p>Chọn MoMo, ZaloPay, VNPay hoặc Viettel Money – nạp tiền VND tức thì, xử lý nhanh và an toàn.</p>
+          <div class="mt-3">
+            <a href="/nap-va-rut-tien" class="btn-neon-cyan" style="font-size:0.85rem; padding:0.45rem 1.1rem">Tìm Hiểu</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 aos-init" data-aos="fade-up" data-aos-delay="240">
+        <div class="step-card">
+          <div class="step-number">4</div>
+          <h5>Khám Phá &amp; Chơi</h5>
+          <p>Tự do chọn Sportsbook theo V.League, Live Casino trực tiếp, Slot Online hay Game Bài yêu thích.</p>
+          <div class="mt-3">
+            <a href="/sanh-game" class="btn-neon-green" style="font-size:0.85rem; padding:0.5rem 1.2rem">Vào Sảnh</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- GAME SHOWCASE -->
+<section aria-label="Sảnh game nổi bật">
+  <div class="container">
+    <div class="text-center mb-4 aos-init" data-aos="fade-up">
+      <h2 class="section-title">Sảnh Game <span class="accent-cyan">Đa Dạng</span></h2>
+      <div class="divider-line mx-auto"></div>
+      <p class="section-sub">Từ bóng đá V.League đến Live Casino – vinvn có tất cả</p>
+    </div>
+    <div class="row g-3 align-items-start">
+      <div class="col-md-6 col-lg-4 aos-init" data-aos="zoom-in" data-aos-delay="0">
+        <div class="game-img-card">
+          <img src="/img/04iykg7vujj.jpg" alt="vinvn" title="vinvn" class="img-fluid">
+          <div class="game-label">Sportsbook – Bóng Đá <span class="tag">HOT</span></div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 aos-init" data-aos="zoom-in" data-aos-delay="80">
+        <div class="game-img-card">
+          <img src="/img/fsfa4hfpo01.jpg" alt="vinvn" title="vinvn" class="img-fluid">
+          <div class="game-label">Live Casino Trực Tiếp <span class="tag">LIVE</span></div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 aos-init" data-aos="zoom-in" data-aos-delay="160">
+        <div class="game-img-card">
+          <img src="/img/qbnahw4kh0.jpg" alt="vinvn" title="vinvn" class="img-fluid">
+          <div class="game-label">Slot Online – Jackpot Lớn <span class="tag">NEW</span></div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 aos-init" data-aos="zoom-in" data-aos-delay="0">
+        <div class="game-img-card">
+          <img src="/img/gzk7luhx.jpg" alt="vinvn" title="vinvn" class="img-fluid">
+          <div class="game-label">Game Bài Trực Tuyến</div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 aos-init" data-aos="zoom-in" data-aos-delay="80">
+        <div class="game-img-card">
+          <img src="/img/fts2s3h.jpg" alt="vinvn" title="vinvn" class="img-fluid">
+          <div class="game-label">Esports &amp; Thể Thao Ảo <span class="tag">HOT</span></div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 aos-init" data-aos="zoom-in" data-aos-delay="160">
+        <div class="game-img-card">
+          <img src="/img/d80krow8y.jpg" alt="vinvn" title="vinvn" class="img-fluid">
+          <div class="game-label">Xổ Số &amp; Mini Game</div>
+        </div>
+      </div>
+    </div>
+    <div class="text-center mt-4">
+      <a href="/sanh-game" class="btn-neon-cyan">Xem Toàn Bộ Sảnh Game</a>
+    </div>
+  </div>
+</section>
+
+<!-- PAYMENT -->
+<section class="payment-section" aria-label="Phương thức thanh toán">
+  <div class="container">
+    <div class="row align-items-start gy-4">
+      <div class="col-lg-5 aos-init" data-aos="fade-right">
+        <h2 class="section-title">Nạp Rút <span class="accent-green">Siêu Nhanh</span></h2>
+        <div class="divider-line"></div>
+        <p style="color:var(--text-muted); font-size:0.95rem; margin-bottom:1.5rem">
+          vinvn hỗ trợ đầy đủ các ví điện tử phổ biến nhất tại Việt Nam. Tất cả giao dịch đều bằng VND, nạp tiền tức thì và rút tiền thuận tiện với thanh toán an toàn tuyệt đối.
+        </p>
+        <img src="/img/zr5ro4pq2927.jpg" alt="vinvn" title="vinvn" class="img-fluid rounded-3" style="border:1px solid var(--border)">
+      </div>
+      <div class="col-lg-7 aos-init" data-aos="fade-left">
+        <div class="row g-3">
+          <div class="col-sm-6">
+            <div class="payment-badge">
+              <i class="bi bi-phone"></i>
+              <div>
+                <div class="name">MoMo</div>
+                <div class="desc">Nạp tức thì – Tiền về nhanh</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="payment-badge">
+              <i class="bi bi-credit-card-2-front"></i>
+              <div>
+                <div class="name">ZaloPay</div>
+                <div class="desc">Xử lý nhanh – An toàn cao</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="payment-badge">
+              <i class="bi bi-sim"></i>
+              <div>
+                <div class="name">Viettel Money</div>
+                <div class="desc">Giao dịch ổn định – Tiện lợi</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="payment-badge">
+              <i class="bi bi-bank"></i>
+              <div>
+                <div class="name">VNPay</div>
+                <div class="desc">Liên kết ngân hàng – Bảo mật</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-12">
+            <div class="feature-card mt-1" style="background:var(--bg-primary)">
+              <h5 style="color:#fff; font-weight:700; margin-bottom:0.8rem"><i class="bi bi-info-circle text-cyan me-2"></i>Cam Kết Giao Dịch</h5>
+              <ul style="list-style:none; padding:0; margin:0; color:var(--text-muted); font-size:0.9rem">
+                <li class="mb-2"><i class="bi bi-check-circle-fill text-green me-2"></i>Nạp tiền tức thì, số dư cập nhật ngay lập tức</li>
+                <li class="mb-2"><i class="bi bi-check-circle-fill text-green me-2"></i>Rút tiền thuận tiện, tiền về nhanh và ổn định</li>
+                <li class="mb-2"><i class="bi bi-check-circle-fill text-green me-2"></i>Mã hóa toàn bộ dữ liệu tài chính, không rò rỉ</li>
+                <li><i class="bi bi-check-circle-fill text-green me-2"></i>Hỗ trợ xử lý nhanh mọi vấn đề giao dịch 24/7</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- COMPARE TABLE -->
+<section aria-label="So sánh nền tảng">
+  <div class="container">
+    <div class="text-center mb-4 aos-init" data-aos="fade-up">
+      <h2 class="section-title">So Sánh <span class="accent-cyan">Tính Năng</span></h2>
+      <div class="divider-line mx-auto"></div>
+      <p class="section-sub">Nhìn tổng quan những gì vinvn mang lại cho người chơi Việt Nam</p>
+    </div>
+    <div class="table-responsive aos-init" data-aos="fade-up">
+      <table class="compare-table">
+        <thead>
+          <tr>
+            <th>Tính năng</th>
+            <th><i class="bi bi-star-fill me-1"></i>vinvn</th>
+            <th>Nền tảng thông thường</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Giao diện tiếng Việt toàn phần</td>
+            <td><i class="bi bi-check-circle-fill check-green"></i> Có</td>
+            <td><i class="bi bi-dash-circle check-muted"></i> Một phần</td>
+          </tr>
+          <tr>
+            <td>Nạp tiền tức thì qua ví VN</td>
+            <td><i class="bi bi-check-circle-fill check-green"></i> MoMo, ZaloPay, VNPay, Viettel Money</td>
+            <td><i class="bi bi-dash-circle check-muted"></i> Giới hạn</td>
+          </tr>
+          <tr>
+            <td>Cá cược bóng đá V.League, AFF Cup</td>
+            <td><i class="bi bi-check-circle-fill check-green"></i> Đầy đủ</td>
+            <td><i class="bi bi-dash-circle check-muted"></i> Hạn chế</td>
+          </tr>
+          <tr>
+            <td>Live Casino phát sóng trực tiếp</td>
+            <td><i class="bi bi-check-circle-fill check-green"></i> 24/7</td>
+            <td><i class="bi bi-dash-circle check-muted"></i> Không liên tục</td>
+          </tr>
+          <tr>
+            <td>Chương trình VIP &amp; tích điểm</td>
+            <td><i class="bi bi-check-circle-fill check-green"></i> Nhiều cấp bậc</td>
+            <td><i class="bi bi-dash-circle check-muted"></i> Cơ bản</td>
+          </tr>
+          <tr>
+            <td>Hỗ trợ khách hàng tiếng Việt</td>
+            <td><i class="bi bi-check-circle-fill check-green"></i> 24/7</td>
+            <td><i class="bi bi-dash-circle check-muted"></i> Giờ hành chính</td>
+          </tr>
+          <tr>
+            <td>Bảo mật SSL &amp; xác thực 2 lớp</td>
+            <td><i class="bi bi-check-circle-fill check-green"></i> Có</td>
+            <td><i class="bi bi-dash-circle check-muted"></i> Tùy nhà cung cấp</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="text-center mt-3" style="color:var(--text-muted); font-size:0.82rem">* Bảng so sánh mang tính tham khảo dựa trên các tiêu chí phổ biến trong ngành.</p>
+  </div>
+</section>
+
+<!-- VIP -->
+<section class="steps-section" aria-label="Chương trình VIP">
+  <div class="container">
+    <div class="text-center mb-4 aos-init" data-aos="fade-up">
+      <h2 class="section-title">Chương Trình <span class="accent-purple">VIP</span></h2>
+      <div class="divider-line mx-auto"></div>
+      <p class="section-sub">Càng chơi càng nhận nhiều đặc quyền – không có phí ẩn</p>
+    </div>
+    <div class="row g-3 align-items-start">
+      <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-delay="0">
+        <div class="vip-card">
+          <div class="vip-icon">🥉</div>
+          <div class="vip-tier bronze">Hạng Đồng</div>
+          <p style="color:var(--text-muted); font-size:0.85rem; margin-top:0.3rem">Dành cho thành viên mới</p>
+          <ul>
+            <li><i class="bi bi-check-circle-fill"></i>Bonus chào mừng thành viên</li>
+            <li><i class="bi bi-check-circle-fill"></i>Tích điểm cơ bản mỗi giao dịch</li>
+            <li><i class="bi bi-check-circle-fill"></i>Truy cập toàn bộ sảnh game</li>
+            <li><i class="bi bi-check-circle-fill"></i>Hỗ trợ chat trực tuyến</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-delay="100">
+        <div class="vip-card featured">
+          <div class="vip-icon">🥈</div>
+          <div class="vip-tier silver">Hạng Bạc</div>
+          <p style="color:var(--cyan); font-size:0.85rem; margin-top:0.3rem">Phổ biến nhất</p>
+          <ul>
+            <li><i class="bi bi-check-circle-fill"></i>Tất cả quyền lợi Hạng Đồng</li>
+            <li><i class="bi bi-check-circle-fill"></i>Tỷ lệ tích điểm cao hơn</li>
+            <li><i class="bi bi-check-circle-fill"></i>Hoàn tiền cược hàng tuần</li>
+            <li><i class="bi bi-check-circle-fill"></i>Khuyến mãi sinh nhật đặc biệt</li>
+            <li><i class="bi bi-check-circle-fill"></i>Ưu tiên xử lý rút tiền</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-delay="200">
+        <div class="vip-card">
+          <div class="vip-icon">🏆</div>
+          <div class="vip-tier gold">Hạng Vàng</div>
+          <p style="color:#ffd700; font-size:0.85rem; margin-top:0.3rem">Đặc quyền cao nhất</p>
+          <ul>
+            <li><i class="bi bi-check-circle-fill"></i>Tất cả quyền lợi Hạng Bạc</li>
+            <li><i class="bi bi-check-circle-fill"></i>Tích điểm ưu tiên tối đa</li>
+            <li><i class="bi bi-check-circle-fill"></i>Quản lý tài khoản VIP riêng</li>
+            <li><i class="bi bi-check-circle-fill"></i>Ưu đãi sự kiện thể thao lớn</li>
+            <li><i class="bi bi-check-circle-fill"></i>Hạn mức giao dịch ưu tiên</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <p class="text-center mt-3" style="color:var(--text-muted); font-size:0.82rem">* Quyền lợi VIP có thể thay đổi theo từng thời kỳ. Không có đảm bảo lợi nhuận từ bất kỳ cấp bậc nào.</p>
+    <div class="text-center mt-3">
+      <a href="/chuong-trinh-vip" class="btn-neon-cyan">Xem Chi Tiết Chương Trình VIP</a>
+    </div>
+  </div>
+</section>
+
+<!-- PRIVACY -->
+<section class="privacy-section" aria-label="Chính sách bảo mật" id="privacy-overview">
+  <div class="container">
+    <div class="row align-items-start gy-4">
+      <div class="col-lg-5 aos-init" data-aos="fade-right">
+        <h2 class="section-title">Chính Sách <span class="accent-cyan">Bảo Mật</span></h2>
+        <div class="divider-line"></div>
+        <p style="color:var(--text-muted); font-size:0.95rem; margin-bottom:1.5rem">
+          vinvn coi trọng quyền riêng tư của người dùng. Mọi thông tin cá nhân và giao dịch tài chính đều được bảo vệ bằng công nghệ mã hóa tiên tiến nhất. Dưới đây là các nguyên tắc bảo mật cốt lõi chúng tôi cam kết thực hiện.
+        </p>
+        <a href="/privacy-policy" class="btn-neon-cyan" style="font-size:0.88rem">Đọc Chính Sách Đầy Đủ</a>
+      </div>
+      <div class="col-lg-7 aos-init" data-aos="fade-left">
+        <div class="privacy-item">
+          <i class="bi bi-lock-fill"></i>
+          <div>
+            <h5>Mã Hóa Dữ Liệu SSL 256-bit</h5>
+            <p>Toàn bộ dữ liệu truyền tải giữa thiết bị của bạn và hệ thống vinvn được mã hóa end-to-end, không thể bị đánh chặn bởi bên thứ ba.</p>
+          </div>
+        </div>
+        <div class="privacy-item">
+          <i class="bi bi-person-lock"></i>
+          <div>
+            <h5>Không Chia Sẻ Thông Tin Cá Nhân</h5>
+            <p>Dữ liệu cá nhân của bạn không bao giờ được bán, trao đổi hay chia sẻ với bên thứ ba vì mục đích thương mại khi chưa có sự đồng ý.</p>
+          </div>
+        </div>
+        <div class="privacy-item">
+          <i class="bi bi-shield-check"></i>
+          <div>
+            <h5>Xác Thực Hai Lớp (2FA)</h5>
+            <p>Tùy chọn bảo vệ tài khoản bằng xác thực hai bước, ngăn chặn truy cập trái phép dù mật khẩu
+bị lộ.</p>
+          </div>
+        </div>
+        <div class="privacy-item">
+          <i class="bi bi-eye-slash"></i>
+          <div>
+            <h5>Quyền Xóa &amp; Chỉnh Sửa Dữ Liệu</h5>
+            <p>Người dùng có quyền yêu cầu xem, chỉnh sửa hoặc xóa thông tin cá nhân của mình bất kỳ lúc nào thông qua bộ phận hỗ trợ.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="reviews-section" aria-label="Nhận xét người dùng">
+  <div class="container">
+    <div class="text-center mb-4 aos-init" data-aos="fade-up">
+      <h2 class="section-title">Người Chơi <span class="accent-green">Nói Gì</span>?</h2>
+      <div class="divider-line mx-auto"></div>
+      <p class="section-sub">Ý kiến minh họa từ cộng đồng người chơi tại Việt Nam</p>
+    </div>
+    <div class="row g-3 align-items-start">
+      <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-delay="0">
+        <div class="review-card">
+          <div class="review-stars">
+            <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+          </div>
+          <p class="review-text">"Mình dùng vinvn để cá cược V.League và AFF Cup, giao diện tiếng Việt rõ ràng, nạp qua MoMo tức thì, rất tiện. Tỷ lệ cược cũng cạnh tranh so với nhiều nơi khác."</p>
+          <div class="reviewer-name">Anh T.H.</div>
+          <div class="reviewer-loc"><i class="bi bi-geo-alt-fill me-1"></i>TP. Hồ Chí Minh</div>
+          <div class="review-note">* Nhận xét mang tính minh họa, chưa qua xác minh độc lập.</div>
+        </div>
+      </div>
+      <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-delay="100">
+        <div class="review-card">
+          <div class="review-stars">
+            <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i>
+          </div>
+          <p class="review-text">"Live Casino ở vinvn chạy mượt trên điện thoại, dealer người thật rất chuyên nghiệp. Rút tiền qua ZaloPay nhanh, không phải chờ lâu như mình từng lo ngại."</p>
+          <div class="reviewer-name">Chị M.L.</div>
+          <div class="reviewer-loc"><i class="bi bi-geo-alt-fill me-1"></i>Hà Nội</div>
+          <div class="review-note">* Nhận xét mang tính minh họa, chưa qua xác minh độc lập.</div>
+        </div>
+      </div>
+      <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-delay="200">
+        <div class="review-card">
+          <div class="review-stars">
+            <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+          </div>
+          <p class="review-text">"Mình thích nhất là Slot Online ở vinvn – có hàng trăm game, đồ họa đẹp và jackpot khá lớn. Đội hỗ trợ phản hồi nhanh bằng tiếng Việt, cảm giác được quan tâm thiệt sự."</p>
+          <div class="reviewer-name">Anh Q.B.</div>
+          <div class="reviewer-loc"><i class="bi bi-geo-alt-fill me-1"></i>Đà Nẵng</div>
+          <div class="review-note">* Nhận xét mang tính minh họa, chưa qua xác minh độc lập.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RESPONSIBLE GAMING -->
+<section class="responsible-section" aria-label="Chơi có trách nhiệm" id="responsible-gaming-overview">
+  <div class="container">
+    <div class="text-center mb-4 aos-init" data-aos="fade-up">
+      <h2 class="section-title">Chơi Có <span class="accent-purple">Trách Nhiệm</span></h2>
+      <div class="divider-line mx-auto"></div>
+      <p class="section-sub">vinvn cam kết xây dựng môi trường giải trí lành mạnh, an toàn và có kiểm soát</p>
+    </div>
+    <div class="row g-3 align-items-start">
+      <div class="col-md-6 col-lg-3 aos-init" data-aos="fade-up" data-aos-delay="0">
+        <div class="responsible-card">
+          <i class="bi bi-wallet2"></i>
+          <div>
+            <h6>Giới Hạn Ngân Sách</h6>
+            <p>Chỉ dùng số tiền bạn sẵn sàng chi tiêu. Đặt giới hạn nạp tiền theo ngày hoặc tuần để kiểm soát chi tiêu tốt hơn.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-3 aos-init" data-aos="fade-up" data-aos-delay="80">
+        <div class="responsible-card">
+          <i class="bi bi-clock"></i>
+          <div>
+            <h6>Giới Hạn Thời Gian</h6>
+            <p>Theo dõi thời gian chơi của bản thân. Nghỉ ngơi thường xuyên và không để giải trí ảnh hưởng đến cuộc sống hàng ngày.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-3 aos-init" data-aos="fade-up" data-aos-delay="160">
+        <div class="responsible-card">
+          <i class="bi bi-person-check"></i>
+          <div>
+            <h6>Tự Kiểm Soát</h6>
+            <p>Nếu cảm thấy khó kiểm soát, hãy liên hệ bộ phận hỗ trợ để kích hoạt tính năng tự loại trừ hoặc tạm khóa tài khoản.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-3 aos-init" data-aos="fade-up" data-aos-delay="240">
+        <div class="responsible-card">
+          <i class="bi bi-person-badge"></i>
+          <div>
+            <h6>Chỉ Dành Cho 21+</h6>
+            <p>vinvn chỉ phục vụ người chơi từ 21 tuổi trở lên. Nghiêm cấm người chưa đủ tuổi tham gia dưới mọi hình thức.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="text-center mt-4">
+      <a href="/responsible-gaming" class="btn-neon-cyan" style="font-size:0.9rem">Tìm Hiểu Thêm Về Chơi Có Trách Nhiệm</a>
+    </div>
+  </div>
+</section>
+
+<!-- CONTENT BODY -->
+<section aria-label="Giới thiệu vinvn chi tiết">
+  <div class="container">
+    <div class="row align-items-start gy-4">
+      <div class="col-lg-8 aos-init" data-aos="fade-right">
+        <h2 class="section-title mb-2">vinvn – <span class="accent-cyan">Nền Tảng Giải Trí</span> Toàn Diện Cho Người Việt</h2>
+        <div class="divider-line"></div>
+        <p>Trong bối cảnh thị trường giải trí trực tuyến tại Việt Nam ngày càng phát triển mạnh mẽ, <strong class="text-cyan">vinvn</strong> nổi lên như một điểm đến đáng tin cậy, nơi người chơi có thể tận hưởng đa dạng các hình thức giải trí từ cá cược thể thao, Live Casino cho đến Slot Online – tất cả trong một nền tảng thống nhất, giao diện hoàn toàn tiếng Việt.</p>
+
+        <h3 class="mt-4 mb-2" style="color:#fff; font-size:1.15rem; font-weight:700">Sportsbook – Theo Dõi Và Cá Cược Bóng Đá Việt Nam</h3>
+        <p>Bóng đá luôn là môn thể thao được yêu thích nhất tại Việt Nam. <strong class="text-green">vinvn</strong> cung cấp sảnh Sportsbook đầy đủ với các giải đấu hot nhất như V.League, Cúp Quốc gia Việt Nam, AFF Cup, và đội tuyển Việt Nam thi đấu quốc tế. Người chơi có thể đặt cược theo thời gian thực, theo dõi tỷ lệ cập nhật liên tục và tận hưởng không khí bóng đá đúng nghĩa. Bên cạnh bóng đá, vinvn còn hỗ trợ cá cược cầu lông, bóng chuyền, futsal và esports – những bộ môn đang ngày càng thu hút giới trẻ Việt Nam.</p>
+
+        <h3 class="mt-4 mb-2" style="color:#fff; font-size:1.15rem; font-weight:700">Live Casino – Trải Nghiệm Sòng Bài Thực Tế Tại Nhà</h3>
+        <p>Sảnh Live Casino của <strong class="text-cyan">vinvn</strong> mang đến trải nghiệm sòng bài thực thụ ngay trên màn hình. Với hệ thống phát sóng trực tiếp chất lượng cao, người chơi có thể tham gia các bàn Baccarat, Roulette, Blackjack, Poker cùng dealer người thật chuyên nghiệp 24/7. Giao diện thân thiện, âm thanh sống động và tốc độ kết nối ổn định tạo nên trải nghiệm không kém gì sòng bài thực tế.</p>
+
+        <h3 class="mt-4 mb-2" style="color:#fff; font-size:1.15rem; font-weight:700">Slot Online – Hàng Trăm Lựa Chọn, Jackpot Hấp Dẫn</h3>
+        <p>Kho Slot Online tại <strong class="text-green">vinvn</strong> tập hợp hàng trăm tựa game từ các nhà cung cấp hàng đầu thế giới. Từ slot cổ điển 3 cuộn đến video slot hiện đại với tính năng free spin, bonus round và progressive jackpot – người chơi luôn có lựa chọn phù hợp với sở thích và ngân sách của mình. Giao diện slot được tối ưu cho cả máy tính lẫn điện thoại di động, đảm bảo trải nghiệm mượt mà mọi lúc mọi nơi.</p>
+
+        <h3 class="mt-4 mb-2" style="color:#fff; font-size:1.15rem; font-weight:700">Thanh Toán VND – Nhanh, Tiện Và An Toàn</h3>
+        <p><strong class="text-cyan">vinvn</strong> hỗ trợ giao dịch hoàn toàn bằng VND thông qua các ví điện tử phổ biến nhất tại Việt Nam gồm MoMo, ZaloPay, Viettel Money và VNPay. Người chơi có thể nạp tiền tức thì mà không cần chờ đợi, rút tiền thuận tiện với tiền về nhanh và an toàn. Mọi giao dịch đều được mã hóa và bảo vệ theo tiêu chuẩn bảo mật cao nhất.</p>
+      </div>
+      <div class="col-lg-4 aos-init" data-aos="fade-left">
+        <div class="feature-card mb-3">
+          <h5 style="color:var(--cyan); font-weight:700; margin-bottom:1rem"><i class="bi bi-trophy-fill me-2"></i>Điểm Nổi Bật</h5>
+          <ul style="list-style:none; padding:0; margin:0; color:var(--text-muted); font-size:0.9rem">
+            <li class="mb-2"><i class="bi bi-check2-circle text-green me-2"></i>Sảnh game đa dạng, cập nhật liên tục</li>
+            <li class="mb-2"><i class="bi bi-check2-circle text-green me-2"></i>Kèo bóng đá V.League &amp; quốc tế</li>
+            <li class="mb-2"><i class="bi bi-check2-circle text-green me-2"></i>Live Casino phát sóng 24/7</li>
+            <li class="mb-2"><i class="bi bi-check2-circle text-green me-2"></i>Slot Online jackpot hấp dẫn</li>
+            <li class="mb-2"><i class="bi bi-check2-circle text-green me-2"></i>Nạp rút qua ví điện tử VN</li>
+            <li class="mb-2"><i class="bi bi-check2-circle text-green me-2"></i>Hỗ trợ tiếng Việt toàn phần</li>
+            <li><i class="bi bi-check2-circle text-green me-2"></i>Chỉ dành cho người từ 21 tuổi</li>
+          </ul>
+        </div>
+        <div class="feature-card">
+          <h5 style="color:var(--purple); font-weight:700; margin-bottom:1rem"><i class="bi bi-megaphone-fill me-2"></i>Khuyến Mãi Mới Nhất</h5>
+          <ul style="list-style:none; padding:0; margin:0; color:var(--text-muted); font-size:0.88rem">
+            <li class="mb-2"><i class="bi bi-gift text-purple me-2"></i>Bonus chào mừng thành viên mới</li>
+            <li class="mb-2"><i class="bi bi-arrow-repeat text-purple me-2"></i>Hoàn tiền cược hàng tuần</li>
+            <li class="mb-2"><i class="bi bi-calendar-event text-purple me-2"></i>Ưu đãi theo mùa giải V.League</li>
+            <li><i class="bi bi-star text-purple me-2"></i>Phần thưởng VIP độc quyền</li>
+          </ul>
+          <div class="mt-3">
+            <a href="/khuyen-mai" class="btn-neon-cyan" style="font-size:0.85rem; padding:0.45rem 1.1rem">Xem Khuyến Mãi</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq-section" aria-label="Câu hỏi thường gặp" id="faq">
+  <div class="container">
+    <div class="text-center mb-4 aos-init" data-aos="fade-up">
+      <h2 class="section-title">Câu Hỏi <span class="accent-green">Thường Gặp</span></h2>
+      <div class="divider-line mx-auto"></div>
+      <p class="section-sub">Giải đáp nhanh những thắc mắc phổ biến về vinvn</p>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-lg-8 aos-init" data-aos="fade-up">
+        <div class="accordion" id="faqAccordion">
+
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="faq-heading-1">
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq-collapse-1" aria-expanded="true" aria-controls="faq-collapse-1">
+                Làm thế nào để đăng ký tài khoản tại vinvn?
+              </button>
+            </h3>
+            <div id="faq-collapse-1" class="accordion-collapse collapse show" aria-labelledby="faq-heading-1" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                Để đăng ký tài khoản tại vinvn, bạn truy cập trang <a href="/register" style="color:var(--cyan)">Đăng ký</a>, điền đầy đủ thông tin cá nhân theo yêu cầu, xác minh tài khoản và hoàn tất. Toàn bộ quy trình đơn giản và chỉ mất vài phút. Lưu ý: chỉ người từ 21 tuổi trở lên mới được phép tham gia.
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="faq-heading-2">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-collapse-2" aria-expanded="false" aria-controls="faq-collapse-2">
+                vinvn hỗ trợ những phương thức nạp tiền nào?
+              </button>
+            </h3>
+            <div id="faq-collapse-2" class="accordion-collapse collapse" aria-labelledby="faq-heading-2" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                vinvn hỗ trợ nạp tiền qua MoMo, ZaloPay, Viettel Money và VNPay – tất cả đều bằng VND. Giao dịch nạp tiền được xử lý tức thì, an toàn và không phức tạp. Bạn có thể xem chi tiết tại trang <a href="/nap-va-rut-tien" style="color:var(--cyan)">Nạp và Rút Tiền</a>.
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="faq-heading-3">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-collapse-3" aria-expanded="false" aria-controls="faq-collapse-3">
+                vinvn có những loại game nào?
+              </button>
+            </h3>
+            <div id="faq-collapse-3" class="accordion-collapse collapse" aria-labelledby="faq-heading-3" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                vinvn cung cấp đa dạng các sảnh game bao gồm: Sportsbook (cá cược thể thao – bóng đá, cầu lông, futsal, esports), Live Casino (Baccarat, Roulette, Blackjack), Slot Online (hàng trăm tựa game jackpot), Game Bài Trực Tuyến và nhiều thể loại mini game hấp dẫn khác. Truy cập <a href="/sanh-game" style="color:var(--cyan)">Sảnh Game</a> để khám phá toàn bộ.
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="faq-heading-4">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-collapse-4" aria-expanded="false" aria-controls="faq-collapse-4">
+                Thông tin cá nhân của tôi có được bảo mật không?
+              </button>
+            </h3>
+            <div id="faq-collapse-4" class="accordion-collapse collapse" aria-labelledby="faq-heading-4" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                Có. vinvn áp dụng mã hóa SSL 256-bit cho toàn bộ dữ liệu truyền tải, xác thực hai lớp (2FA) để bảo vệ tài khoản, và cam kết không chia sẻ thông tin cá nhân với bên thứ ba. Bạn có thể đọc chi tiết tại trang <a href="/privacy-policy" style="color:var(--cyan)">Chính sách bảo mật</a>.
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA BANNER -->
+<section style="background: linear-gradient(135deg, #0a0f1e 0%, #0d1a2e 100%); border-top:1px solid rgba(34,197,94,0.15); border-bottom:1px solid rgba(34,197,94,0.15)" aria-label="Kêu gọi hành động">
+  <div class="container text-center aos-init" data-aos="zoom-in">
+    <h2 class="section-title mb-2">Sẵn Sàng Tham Gia <span class="accent-green">vinvn</span>?</h2>
+    <div class="divider-line mx-auto"></div>
+    <p style="color:var(--text-muted); font-size:1rem; margin-bottom:2rem; max-width:520px; margin-left:auto; margin-right:auto">
+      Đăng ký ngay hôm nay để trải nghiệm sân chơi giải trí trực tuyến hàng đầu Việt Nam. Chỉ dành cho người từ 21 tuổi trở lên.
+    </p>
+    <div class="d-flex flex-wrap gap-3 justify-content-center">
+      <a href="/register" class="btn-neon-green">Đăng Ký Tài Khoản</a>
+      <a href="/login" class="btn-neon-cyan">Đăng Nhập</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer role="contentinfo">
+  <div class="container">
+    <div class="row align-items-start gy-4">
+      <div class="col-lg-4 col-md-6">
+        <div class="footer-logo mb-2">
+          <img src="/logo.png" alt="vinvn logo" style="height:40px; width:auto; object-fit:contain">
+        </div>
+        <p class="footer-desc">vinvn – Nền tảng giải trí trực tuyến uy tín tại Việt Nam. Chỉ dành cho người từ 21 tuổi trở lên. Hãy chơi có trách nhiệm.</p>
+        <div class="footer-social mt-3">
+          <a href="/" aria-label="Facebook vinvn"><i class="bi bi-facebook"></i></a>
+          <a href="/" aria-label="Telegram vinvn"><i class="bi bi-telegram"></i></a>
+          <a href="/" aria-label="YouTube vinvn"><i class="bi bi-youtube"></i></a>
+        </div>
+        <div class="footer-email mt-3">
+          <i class="bi bi-envelope-fill"></i>
+          <span>support@vinvn.pro</span>
+        </div>
+      </div>
+      <div class="col-lg-2 col-md-6">
+        <div class="footer-heading">Trang Chính</div>
+        <ul class="footer-links">
+          <li><a href="/">Trang chủ</a></li>
+          <li><a href="/nap-va-rut-tien">Nạp và Rút Tiền</a></li>
+          <li><a href="/rut-tien">Rút Tiền</a></li>
+          <li><a href="/chuong-trinh-vip">Chương Trình VIP</a></li>
+          <li><a href="/khuyen-mai">Khuyến Mãi</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-6">
+        <div class="footer-heading">Sảnh Game</div>
+        <ul class="footer-links">
+          <li><a href="/sanh-game">Sảnh Game</a></li>
+          <li><a href="/game-slot">Game Slot</a></li>
+          <li><a href="/game-bai-truc-tuyen">Game Bài Trực Tuyến</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="footer-heading">Hỗ Trợ &amp; Pháp Lý</div>
+        <ul class="footer-links">
+          <li><a href="/about-us">Giới thiệu</a></li>
+          <li><a href="/terms-conditions">Điều khoản và Điều kiện</a></li>
+          <li><a href="/privacy-policy">Chính sách bảo mật</a></li>
+          <li><a href="/responsible-gaming">Chơi có trách nhiệm</a></li>
+          <li><a href="/register">Đăng ký</a></li>
+          <li><a href="/login">Đăng nhập</a></li>
+          <li><a href="/faq">FAQ</a></li>
+          <li><a href="/sitemap.xml">Sơ đồ trang</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom d-flex flex-wrap justify-content-between align-items-center gap-2">
+      <span>© 2026 vinvn. Bản quyền thuộc về vinvn.pro</span>
+      <span style="color:var(--purple)">🔞 Chỉ dành cho người từ 21 tuổi trở lên</span>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init({ duration: 600, once: true, offset: 60 });
+</script>
+
+<div id="br-stick" lang="vi" style="left: 50%; transform: translateX(-50%) translateZ(0px); max-width: 400px; width: auto; bottom: 0px;"><div class="wrap">  <div class="card" role="region" aria-label="Đăng ký và Đăng nhập">    <button class="close" aria-label="Đóng" type="button">×</button>    <div class="btn-container">      <a href="https://v8397.com/?cid=4173245" class="br-btn br-btn-register" target="_blank" rel="nofollow noopener noreferrer">Đăng ký</a>      <a href="https://v8397.com/?cid=4173245" class="br-btn br-btn-login" target="_blank" rel="nofollow noopener noreferrer">Đăng nhập</a>    </div>  </div></div></div></body>

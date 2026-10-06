@@ -1,0 +1,964 @@
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,minimum-scale=1,maximum-scale=5,user-scalable=1"><link rel="shortcut icon" href="./favicon.ico?v=586dc076" type="image/ico"><!--Start:DynamicHtmlMetaTags--><!--DYNAMIC_HTML_META_TAGS--><!--End:DynamicHtmlMetaTags--><link rel="preload" href="./library/sdk/sdk.js" as="script"><link rel="preload" href="./libs/require/require.2_3_6.min.js" as="script"><link rel="preload" href="./main.js" as="script"><link rel="preload" href="./library/sdk/modules/ui-component_date-time-picker.js" as="script"><link rel="stylesheet" href="./libs/material-ui-icons/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmPq_HTTw_2.css" as="style" onload="this.onload=null,this.rel=&quot;stylesheet&quot;"><!-- jss-insertion-point --><style data-jss="" data-meta="MuiTouchRipple">
+.MuiTouchRipple-root {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  overflow: hidden;
+  position: absolute;
+  border-radius: inherit;
+  pointer-events: none;
+}
+.MuiTouchRipple-ripple {
+  opacity: 0;
+  position: absolute;
+}
+.MuiTouchRipple-rippleVisible {
+  opacity: 0.3;
+  animation: MuiTouchRipple-keyframes-enter 550ms cubic-bezier(0.4, 0, 0.2, 1);
+  transform: scale(1);
+}
+.MuiTouchRipple-ripplePulsate {
+  animation-duration: 200ms;
+}
+.MuiTouchRipple-child {
+  width: 100%;
+  height: 100%;
+  display: block;
+  opacity: 1;
+  border-radius: 50%;
+  background-color: currentColor;
+}
+.MuiTouchRipple-childLeaving {
+  opacity: 0;
+  animation: MuiTouchRipple-keyframes-exit 550ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.MuiTouchRipple-childPulsate {
+  top: 0;
+  left: 0;
+  position: absolute;
+  animation: MuiTouchRipple-keyframes-pulsate 2500ms cubic-bezier(0.4, 0, 0.2, 1) 200ms infinite;
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-enter {
+  0% {
+    opacity: 0.1;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 0.3;
+    transform: scale(1);
+  }
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-exit {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-pulsate {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.92);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style><style data-jss="" data-meta="MuiButtonBase">
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    -webkit-print-color-adjust: exact;
+  }
+}
+</style><style data-jss="" data-meta="MuiIconButton">
+.MuiIconButton-root {
+  flex: 0 0 auto;
+  color: rgba(0, 0, 0, 0.54);
+  padding: 12px;
+  overflow: visible;
+  font-size: 1.5rem;
+  text-align: center;
+  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  border-radius: 50%;
+}
+.MuiIconButton-root:hover {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+.MuiIconButton-root.Mui-disabled {
+  color: rgba(0, 0, 0, 0.26);
+  background-color: transparent;
+}
+@media (hover: none) {
+  .MuiIconButton-root:hover {
+    background-color: transparent;
+  }
+}
+.MuiIconButton-edgeStart {
+  margin-left: -12px;
+}
+.MuiIconButton-sizeSmall.MuiIconButton-edgeStart {
+  margin-left: -3px;
+}
+.MuiIconButton-edgeEnd {
+  margin-right: -12px;
+}
+.MuiIconButton-sizeSmall.MuiIconButton-edgeEnd {
+  margin-right: -3px;
+}
+.MuiIconButton-colorInherit {
+  color: inherit;
+}
+.MuiIconButton-colorPrimary {
+  color: #3f51b5;
+}
+.MuiIconButton-colorPrimary:hover {
+  background-color: rgba(63, 81, 181, 0.04);
+}
+@media (hover: none) {
+  .MuiIconButton-colorPrimary:hover {
+    background-color: transparent;
+  }
+}
+.MuiIconButton-colorSecondary {
+  color: #f50057;
+}
+.MuiIconButton-colorSecondary:hover {
+  background-color: rgba(245, 0, 87, 0.04);
+}
+@media (hover: none) {
+  .MuiIconButton-colorSecondary:hover {
+    background-color: transparent;
+  }
+}
+.MuiIconButton-sizeSmall {
+  padding: 3px;
+  font-size: 1.125rem;
+}
+.MuiIconButton-label {
+  width: 100%;
+  display: flex;
+  align-items: inherit;
+  justify-content: inherit;
+}
+</style><style data-jss="" data-meta="MuiButton">
+.MuiButton-root {
+  color: rgba(0, 0, 0, 0.87);
+  padding: 6px 16px;
+  font-size: 0.875rem;
+  min-width: 64px;
+  box-sizing: border-box;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.75;
+  border-radius: 4px;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+}
+.MuiButton-root:hover {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+.MuiButton-root.Mui-disabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+@media (hover: none) {
+  .MuiButton-root:hover {
+    background-color: transparent;
+  }
+}
+.MuiButton-root:hover.Mui-disabled {
+  background-color: transparent;
+}
+.MuiButton-label {
+  width: 100%;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+}
+.MuiButton-text {
+  padding: 6px 8px;
+}
+.MuiButton-textPrimary {
+  color: #3f51b5;
+}
+.MuiButton-textPrimary:hover {
+  background-color: rgba(63, 81, 181, 0.04);
+}
+@media (hover: none) {
+  .MuiButton-textPrimary:hover {
+    background-color: transparent;
+  }
+}
+.MuiButton-textSecondary {
+  color: #f50057;
+}
+.MuiButton-textSecondary:hover {
+  background-color: rgba(245, 0, 87, 0.04);
+}
+@media (hover: none) {
+  .MuiButton-textSecondary:hover {
+    background-color: transparent;
+  }
+}
+.MuiButton-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.23);
+  padding: 5px 15px;
+}
+.MuiButton-outlined.Mui-disabled {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiButton-outlinedPrimary {
+  color: #3f51b5;
+  border: 1px solid rgba(63, 81, 181, 0.5);
+}
+.MuiButton-outlinedPrimary:hover {
+  border: 1px solid #3f51b5;
+  background-color: rgba(63, 81, 181, 0.04);
+}
+@media (hover: none) {
+  .MuiButton-outlinedPrimary:hover {
+    background-color: transparent;
+  }
+}
+.MuiButton-outlinedSecondary {
+  color: #f50057;
+  border: 1px solid rgba(245, 0, 87, 0.5);
+}
+.MuiButton-outlinedSecondary:hover {
+  border: 1px solid #f50057;
+  background-color: rgba(245, 0, 87, 0.04);
+}
+.MuiButton-outlinedSecondary.Mui-disabled {
+  border: 1px solid rgba(0, 0, 0, 0.26);
+}
+@media (hover: none) {
+  .MuiButton-outlinedSecondary:hover {
+    background-color: transparent;
+  }
+}
+.MuiButton-contained {
+  color: rgba(0, 0, 0, 0.87);
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+  background-color: #e0e0e0;
+}
+.MuiButton-contained:hover {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+  background-color: #d5d5d5;
+}
+.MuiButton-contained.Mui-focusVisible {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiButton-contained:active {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiButton-contained.Mui-disabled {
+  color: rgba(0, 0, 0, 0.26);
+  box-shadow: none;
+  background-color: rgba(0, 0, 0, 0.12);
+}
+@media (hover: none) {
+  .MuiButton-contained:hover {
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+  }
+}
+.MuiButton-contained:hover.Mui-disabled {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+.MuiButton-containedPrimary {
+  color: #fff;
+  background-color: #3f51b5;
+}
+.MuiButton-containedPrimary:hover {
+  background-color: #303f9f;
+}
+@media (hover: none) {
+  .MuiButton-containedPrimary:hover {
+    background-color: #3f51b5;
+  }
+}
+.MuiButton-containedSecondary {
+  color: #fff;
+  background-color: #f50057;
+}
+.MuiButton-containedSecondary:hover {
+  background-color: #c51162;
+}
+@media (hover: none) {
+  .MuiButton-containedSecondary:hover {
+    background-color: #f50057;
+  }
+}
+.MuiButton-disableElevation {
+  box-shadow: none;
+}
+.MuiButton-disableElevation:hover {
+  box-shadow: none;
+}
+.MuiButton-disableElevation.Mui-focusVisible {
+  box-shadow: none;
+}
+.MuiButton-disableElevation:active {
+  box-shadow: none;
+}
+.MuiButton-disableElevation.Mui-disabled {
+  box-shadow: none;
+}
+.MuiButton-colorInherit {
+  color: inherit;
+  border-color: currentColor;
+}
+.MuiButton-textSizeSmall {
+  padding: 4px 5px;
+  font-size: 0.8125rem;
+}
+.MuiButton-textSizeLarge {
+  padding: 8px 11px;
+  font-size: 0.9375rem;
+}
+.MuiButton-outlinedSizeSmall {
+  padding: 3px 9px;
+  font-size: 0.8125rem;
+}
+.MuiButton-outlinedSizeLarge {
+  padding: 7px 21px;
+  font-size: 0.9375rem;
+}
+.MuiButton-containedSizeSmall {
+  padding: 4px 10px;
+  font-size: 0.8125rem;
+}
+.MuiButton-containedSizeLarge {
+  padding: 8px 22px;
+  font-size: 0.9375rem;
+}
+.MuiButton-fullWidth {
+  width: 100%;
+}
+.MuiButton-startIcon {
+  display: inherit;
+  margin-left: -4px;
+  margin-right: 8px;
+}
+.MuiButton-startIcon.MuiButton-iconSizeSmall {
+  margin-left: -2px;
+}
+.MuiButton-endIcon {
+  display: inherit;
+  margin-left: 8px;
+  margin-right: -4px;
+}
+.MuiButton-endIcon.MuiButton-iconSizeSmall {
+  margin-right: -2px;
+}
+.MuiButton-iconSizeSmall > *:first-child {
+  font-size: 18px;
+}
+.MuiButton-iconSizeMedium > *:first-child {
+  font-size: 20px;
+}
+.MuiButton-iconSizeLarge > *:first-child {
+  font-size: 22px;
+}
+</style><style data-jss="" data-meta="MuiInputBase">
+@-webkit-keyframes mui-auto-fill {}
+@-webkit-keyframes mui-auto-fill-cancel {}
+.MuiInputBase-root {
+  color: rgba(0, 0, 0, 0.87);
+  cursor: text;
+  display: inline-flex;
+  position: relative;
+  font-size: 1rem;
+  box-sizing: border-box;
+  align-items: center;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.1876em;
+  letter-spacing: 0.00938em;
+}
+.MuiInputBase-root.Mui-disabled {
+  color: rgba(0, 0, 0, 0.38);
+  cursor: default;
+}
+.MuiInputBase-multiline {
+  padding: 6px 0 7px;
+}
+.MuiInputBase-multiline.MuiInputBase-marginDense {
+  padding-top: 3px;
+}
+.MuiInputBase-fullWidth {
+  width: 100%;
+}
+.MuiInputBase-input {
+  font: inherit;
+  color: currentColor;
+  width: 100%;
+  border: 0;
+  height: 1.1876em;
+  margin: 0;
+  display: block;
+  padding: 6px 0 7px;
+  min-width: 0;
+  background: none;
+  box-sizing: content-box;
+  animation-name: mui-auto-fill-cancel;
+  letter-spacing: inherit;
+  animation-duration: 10ms;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiInputBase-input::-webkit-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.MuiInputBase-input::-moz-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.MuiInputBase-input:-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.MuiInputBase-input::-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.MuiInputBase-input:focus {
+  outline: 0;
+}
+.MuiInputBase-input:invalid {
+  box-shadow: none;
+}
+.MuiInputBase-input::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+.MuiInputBase-input.Mui-disabled {
+  opacity: 1;
+}
+.MuiInputBase-input:-webkit-autofill {
+  animation-name: mui-auto-fill;
+  animation-duration: 5000s;
+}
+label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input::-webkit-input-placeholder {
+  opacity: 0 !important;
+}
+label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input::-moz-placeholder {
+  opacity: 0 !important;
+}
+label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:-ms-input-placeholder {
+  opacity: 0 !important;
+}
+label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input::-ms-input-placeholder {
+  opacity: 0 !important;
+}
+label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::-webkit-input-placeholder {
+  opacity: 0.42;
+}
+label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::-moz-placeholder {
+  opacity: 0.42;
+}
+label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus:-ms-input-placeholder {
+  opacity: 0.42;
+}
+label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::-ms-input-placeholder {
+  opacity: 0.42;
+}
+.MuiInputBase-inputMarginDense {
+  padding-top: 3px;
+}
+.MuiInputBase-inputMultiline {
+  height: auto;
+  resize: none;
+  padding: 0;
+}
+.MuiInputBase-inputTypeSearch {
+  -moz-appearance: textfield;
+  -webkit-appearance: textfield;
+}
+</style><style data-jss="" data-meta="PrivateNotchedOutline">
+.jss9 {
+  top: -5px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 0 8px;
+  overflow: hidden;
+  position: absolute;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: inherit;
+  pointer-events: none;
+}
+.jss10 {
+  padding: 0;
+  text-align: left;
+  transition: width 150ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;
+  line-height: 11px;
+}
+.jss11 {
+  width: auto;
+  height: 11px;
+  display: block;
+  padding: 0;
+  font-size: 0.75em;
+  max-width: 0.01px;
+  text-align: left;
+  transition: max-width 50ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;
+  visibility: hidden;
+}
+.jss11 > span {
+  display: inline-block;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.jss12 {
+  max-width: 1000px;
+  transition: max-width 100ms cubic-bezier(0.0, 0, 0.2, 1) 50ms;
+}
+</style><style data-jss="" data-meta="MuiOutlinedInput">
+.MuiOutlinedInput-root {
+  position: relative;
+  border-radius: 4px;
+}
+.MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0, 0, 0, 0.87);
+}
+@media (hover: none) {
+  .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(0, 0, 0, 0.23);
+  }
+}
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #3f51b5;
+  border-width: 2px;
+}
+.MuiOutlinedInput-root.Mui-error .MuiOutlinedInput-notchedOutline {
+  border-color: #f44336;
+}
+.MuiOutlinedInput-root.Mui-disabled .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0, 0, 0, 0.26);
+}
+.MuiOutlinedInput-colorSecondary.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #f50057;
+}
+.MuiOutlinedInput-adornedStart {
+  padding-left: 14px;
+}
+.MuiOutlinedInput-adornedEnd {
+  padding-right: 14px;
+}
+.MuiOutlinedInput-multiline {
+  padding: 18.5px 14px;
+}
+.MuiOutlinedInput-multiline.MuiOutlinedInput-marginDense {
+  padding-top: 10.5px;
+  padding-bottom: 10.5px;
+}
+.MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0, 0, 0, 0.23);
+}
+.MuiOutlinedInput-input {
+  padding: 18.5px 14px;
+}
+.MuiOutlinedInput-input:-webkit-autofill {
+  border-radius: inherit;
+}
+.MuiOutlinedInput-inputMarginDense {
+  padding-top: 10.5px;
+  padding-bottom: 10.5px;
+}
+.MuiOutlinedInput-inputMultiline {
+  padding: 0;
+}
+.MuiOutlinedInput-inputAdornedStart {
+  padding-left: 0;
+}
+.MuiOutlinedInput-inputAdornedEnd {
+  padding-right: 0;
+}
+</style><style data-jss="" data-meta="MuiFormLabel">
+.MuiFormLabel-root {
+  color: rgba(0, 0, 0, 0.54);
+  padding: 0;
+  font-size: 1rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.00938em;
+}
+.MuiFormLabel-root.Mui-focused {
+  color: #3f51b5;
+}
+.MuiFormLabel-root.Mui-disabled {
+  color: rgba(0, 0, 0, 0.38);
+}
+.MuiFormLabel-root.Mui-error {
+  color: #f44336;
+}
+.MuiFormLabel-colorSecondary.Mui-focused {
+  color: #f50057;
+}
+.MuiFormLabel-asterisk.Mui-error {
+  color: #f44336;
+}
+</style><style data-jss="" data-meta="MuiInputLabel">
+.MuiInputLabel-root {
+  display: block;
+  transform-origin: top left;
+}
+.MuiInputLabel-formControl {
+  top: 0;
+  left: 0;
+  position: absolute;
+  transform: translate(0, 24px) scale(1);
+}
+.MuiInputLabel-marginDense {
+  transform: translate(0, 21px) scale(1);
+}
+.MuiInputLabel-shrink {
+  transform: translate(0, 1.5px) scale(0.75);
+  transform-origin: top left;
+}
+.MuiInputLabel-animated {
+  transition: color 200ms cubic-bezier(0.0, 0, 0.2, 1) 0ms,transform 200ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;
+}
+.MuiInputLabel-filled {
+  z-index: 1;
+  transform: translate(12px, 20px) scale(1);
+  pointer-events: none;
+}
+.MuiInputLabel-filled.MuiInputLabel-marginDense {
+  transform: translate(12px, 17px) scale(1);
+}
+.MuiInputLabel-filled.MuiInputLabel-shrink {
+  transform: translate(12px, 10px) scale(0.75);
+}
+.MuiInputLabel-filled.MuiInputLabel-shrink.MuiInputLabel-marginDense {
+  transform: translate(12px, 7px) scale(0.75);
+}
+.MuiInputLabel-outlined {
+  z-index: 1;
+  transform: translate(14px, 20px) scale(1);
+  pointer-events: none;
+}
+.MuiInputLabel-outlined.MuiInputLabel-marginDense {
+  transform: translate(14px, 12px) scale(1);
+}
+.MuiInputLabel-outlined.MuiInputLabel-shrink {
+  transform: translate(14px, -6px) scale(0.75);
+}
+</style><style data-jss="" data-meta="MuiFormControl">
+.MuiFormControl-root {
+  border: 0;
+  margin: 0;
+  display: inline-flex;
+  padding: 0;
+  position: relative;
+  min-width: 0;
+  flex-direction: column;
+  vertical-align: top;
+}
+.MuiFormControl-marginNormal {
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+.MuiFormControl-marginDense {
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+.MuiFormControl-fullWidth {
+  width: 100%;
+}
+</style><style data-jss="" data-meta="PrivateSwitchBase">
+.jss13 {
+  padding: 9px;
+}
+.jss16 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  cursor: inherit;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  padding: 0;
+  z-index: 1;
+  position: absolute;
+}
+</style><style data-jss="" data-meta="MuiSwitch">
+.MuiSwitch-root {
+  width: 58px;
+  height: 38px;
+  display: inline-flex;
+  padding: 12px;
+  z-index: 0;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  vertical-align: middle;
+}
+@media print {
+  .MuiSwitch-root {
+    -webkit-print-color-adjust: exact;
+  }
+}
+.MuiSwitch-edgeStart {
+  margin-left: -8px;
+}
+.MuiSwitch-edgeEnd {
+  margin-right: -8px;
+}
+.MuiSwitch-switchBase {
+  top: 0;
+  left: 0;
+  color: #fafafa;
+  z-index: 1;
+  position: absolute;
+  transition: left 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.MuiSwitch-switchBase.Mui-checked {
+  transform: translateX(20px);
+}
+.MuiSwitch-switchBase.Mui-disabled {
+  color: #bdbdbd;
+}
+.MuiSwitch-switchBase.Mui-checked + .MuiSwitch-track {
+  opacity: 0.5;
+}
+.MuiSwitch-switchBase.Mui-disabled + .MuiSwitch-track {
+  opacity: 0.12;
+}
+.MuiSwitch-colorPrimary.Mui-checked {
+  color: #3f51b5;
+}
+.MuiSwitch-colorPrimary.Mui-disabled {
+  color: #bdbdbd;
+}
+.MuiSwitch-colorPrimary.Mui-checked + .MuiSwitch-track {
+  background-color: #3f51b5;
+}
+.MuiSwitch-colorPrimary.Mui-disabled + .MuiSwitch-track {
+  background-color: #000;
+}
+.MuiSwitch-colorPrimary.Mui-checked:hover {
+  background-color: rgba(63, 81, 181, 0.04);
+}
+@media (hover: none) {
+  .MuiSwitch-colorPrimary.Mui-checked:hover {
+    background-color: transparent;
+  }
+}
+.MuiSwitch-colorSecondary.Mui-checked {
+  color: #f50057;
+}
+.MuiSwitch-colorSecondary.Mui-disabled {
+  color: #bdbdbd;
+}
+.MuiSwitch-colorSecondary.Mui-checked + .MuiSwitch-track {
+  background-color: #f50057;
+}
+.MuiSwitch-colorSecondary.Mui-disabled + .MuiSwitch-track {
+  background-color: #000;
+}
+.MuiSwitch-colorSecondary.Mui-checked:hover {
+  background-color: rgba(245, 0, 87, 0.04);
+}
+@media (hover: none) {
+  .MuiSwitch-colorSecondary.Mui-checked:hover {
+    background-color: transparent;
+  }
+}
+.MuiSwitch-sizeSmall {
+  width: 40px;
+  height: 24px;
+  padding: 7px;
+}
+.MuiSwitch-sizeSmall .MuiSwitch-thumb {
+  width: 16px;
+  height: 16px;
+}
+.MuiSwitch-sizeSmall .MuiSwitch-switchBase {
+  padding: 4px;
+}
+.MuiSwitch-sizeSmall .MuiSwitch-switchBase.Mui-checked {
+  transform: translateX(16px);
+}
+.MuiSwitch-input {
+  left: -100%;
+  width: 300%;
+}
+.MuiSwitch-thumb {
+  width: 20px;
+  height: 20px;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+  border-radius: 50%;
+  background-color: currentColor;
+}
+.MuiSwitch-track {
+  width: 100%;
+  height: 100%;
+  opacity: 0.38;
+  z-index: -1;
+  transition: opacity 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  border-radius: 7px;
+  background-color: #000;
+}
+</style><style data-jss="" data-meta="MuiTextField">
+
+</style><script>"serviceWorker"in navigator&&(async()=>{let e=!1;try{const r=await navigator.serviceWorker.getRegistrations();for(let o of r){await o.unregister()?(console.log("Service worker unregistered successfully."),e=!0):console.log("Service worker unregistration failed.")}}catch(e){console.error("Error during service worker unregistration:",e)}if(e){if("caches"in window)try{const e=await caches.keys();await Promise.all(e.map((e=>caches.delete(e)))),e.length&&console.log("All caches deleted.")}catch(e){console.error("Error during cache deletion:",e)}window.location.reload()}})()</script><script>window.uiBuilderSDKPath="./library/sdk"</script><link rel="stylesheet" href="./styles.css" as="style" onload="this.onload=null,this.rel=&quot;stylesheet&quot;"><script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script><script>var require={waitSeconds:180}</script><script data-main="./main.js" src="./libs/require/require.2_3_6.min.js" defer="defer"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="./main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sdk" src="././library/sdk/sdk.js"></script><style>.less-error-message pre {
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  width: 95%;
+}
+</style><style>.task-validation-button-wrapper {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  pointer-events: none;
+  z-index: 1000;
+}
+.task-validation-button-wrapper .task-validation-button {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 170px;
+  min-height: 45px;
+  margin-bottom: 90px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  pointer-events: all;
+}
+.task-validation-button-wrapper .task-validation-button.success {
+  background-color: #2BAE66;
+}
+.task-validation-button-wrapper .task-validation-button.error,
+.task-validation-button-wrapper .task-validation-button.fail {
+  background-color: #F96167;
+}
+.task-validation-button-wrapper .task-validation-button.warning {
+  background-color: #FFA351;
+}
+.task-validation-button-wrapper .task-validation-button:disabled {
+  cursor: not-allowed;
+  filter: brightness(85%);
+}
+.task-validation-button-wrapper .task-validation-button .spinner {
+  border: 4px solid rgba(255, 255, 255, 0.2);
+  border-left: 4px solid;
+  animation: spin 1s infinite linear;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.notification {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 20px;
+  border-radius: 6px;
+  color: white;
+  background-color: #333;
+  z-index: 1000;
+  width: 320px;
+  min-height: 80px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: slideIn 0.5s forwards, fadeOut 0.5s 2.5s forwards;
+  opacity: 0;
+}
+.notification.success {
+  background-color: #2BAE66;
+}
+.notification.error,
+.notification.fail {
+  background-color: #F96167;
+}
+.notification.error {
+  width: auto;
+  max-width: 560px;
+  min-width: 320px;
+  animation: slideIn 0.5s forwards, fadeOut 0.5s 5s forwards;
+}
+.notification.warning {
+  background-color: #FFA351;
+}
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+</style><!-- jss-insertion-point --><title>Login</title></head><body><div id="app"><div id="page" class="bl-page" data-page="login" style="background-image: url(&quot;https://api.backendless.com/D3E675A8-5EAB-4152-A0B7-206D1942B8A6/3E3779EA-C9D1-4AEF-8C11-B644A63FB44C/files/splash_CD_low.png&quot;); background-color: rgb(32, 32, 32); overflow: auto;"><div class="bl-block" style="display: flex; flex-shrink: 1; flex-flow: column wrap; padding: 10px; margin: auto; width: 100%; min-width: 250px; flex-grow: 1; align-items: stretch; align-self: stretch; background-image: url(&quot;https://api.backendless.com/D3E675A8-5EAB-4152-A0B7-206D1942B8A6/3E3779EA-C9D1-4AEF-8C11-B644A63FB44C/files/spalshLiv.png&quot;); justify-content: center;"><img alt="image" loading="lazy" class="bl-image" src="https://api.backendless.com/D3E675A8-5EAB-4152-A0B7-206D1942B8A6/3E3779EA-C9D1-4AEF-8C11-B644A63FB44C/files/logoNouCD2Comp.jpg" style="margin: 0px 0px 20px; width: 350px; align-self: center;"><span class="bl-text" style="white-space: break-spaces; align-self: center; font-size: 26px; margin: 0px 0px 30px; font-weight: 400; color: rgb(255, 255, 255);">DeliveryPro 2.1.01- App</span><form class="bl-form" style="display: flex; flex-shrink: 1; min-height: 50px; padding: 20px; flex-direction: column; border-radius: 4px; margin: 0px 0px 16px; flex-grow: 1; width: 100%; background-color: rgba(36, 36, 48, 0.14);"><span class="bl-text" style="white-space: break-spaces; align-self: center; font-size: 26px; margin: 0px 0px 30px; font-weight: 400; text-align: center; color: rgb(255, 255, 255);">LogIn Page</span><div class="MuiFormControl-root MuiTextField-root bl-input bl-input--outlined bl-input--required" style="margin: 0px;"><label class="MuiFormLabel-root MuiInputLabel-root bl-input-label MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined bl-input-label--outlined Mui-required Mui-required bl-input-label--required" data-shrink="false" for="uib-225823c8a2884698b0b71ad8b2c8990a" id="uib-225823c8a2884698b0b71ad8b2c8990a-label">Username<span aria-hidden="true" class="MuiFormLabel-asterisk MuiInputLabel-asterisk"> *</span></label><div class="MuiInputBase-root MuiOutlinedInput-root bl-input-input-root MuiInputBase-formControl"><input aria-invalid="false" id="uib-225823c8a2884698b0b71ad8b2c8990a" placeholder="" required="" type="text" class="MuiInputBase-input MuiOutlinedInput-input" value=""><fieldset aria-hidden="true" class="jss9 MuiOutlinedInput-notchedOutline"><legend class="jss11"><span>Username&nbsp;*</span></legend></fieldset></div></div><div class="MuiFormControl-root MuiTextField-root bl-input bl-input--outlined bl-input--required" style="margin: 20px 0px 0px;"><label class="MuiFormLabel-root MuiInputLabel-root bl-input-label MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined bl-input-label--outlined Mui-required Mui-required bl-input-label--required" data-shrink="false" for="uib-a2cd11c8b84ba988bd48161843f7d5e8" id="uib-a2cd11c8b84ba988bd48161843f7d5e8-label">Password<span aria-hidden="true" class="MuiFormLabel-asterisk MuiInputLabel-asterisk"> *</span></label><div class="MuiInputBase-root MuiOutlinedInput-root bl-input-input-root MuiInputBase-formControl"><input aria-invalid="false" id="uib-a2cd11c8b84ba988bd48161843f7d5e8" placeholder="" required="" type="password" class="MuiInputBase-input MuiOutlinedInput-input" value=""><fieldset aria-hidden="true" class="jss9 MuiOutlinedInput-notchedOutline"><legend class="jss11"><span>Password&nbsp;*</span></legend></fieldset></div></div><div class="bl-block" style="display: flex; flex-shrink: 0; padding: 0px 10px; margin: 15px 0px 0px; flex-direction: row; align-items: center;"><span class="bl-switch bl-switch--checked" style="display: inline-flex; flex-shrink: 0;"><span class="MuiSwitch-root bl-switch-root"><span class="MuiButtonBase-root MuiIconButton-root jss13 MuiSwitch-switchBase bl-switch-base MuiSwitch-colorSecondary jss14 Mui-checked" aria-disabled="false"><span class="MuiIconButton-label"><input class="jss16 MuiSwitch-input" type="checkbox" value="" checked=""><span class="MuiSwitch-thumb bl-switch-thumb"></span></span><span class="MuiTouchRipple-root"></span></span><span class="MuiSwitch-track bl-switch-track"></span></span></span><span class="bl-text" style="white-space: break-spaces; margin: 0px 0px 0px 10px; font-size: 13px; color: rgb(255, 255, 255);">remember me</span></div><button class="MuiButtonBase-root MuiButton-root bl-button MuiButton-outlined bl-button--outlined" tabindex="0" type="submit" id="Login Button" style="text-transform: initial; margin: 30px 0px 0px; color: rgb(37, 129, 237);"><span class="MuiButton-label bl-button-label">Log In</span><span class="MuiTouchRipple-root"></span></button><div class="bl-block" style="display: flex; flex-shrink: 0; padding: 10px; min-height: 100px; min-width: 100px; flex-direction: row; justify-content: space-around;"><span class="bl-text" style="white-space: break-spaces; align-self: center;">Nu ai cont? Creaza un cont nou!</span><button class="MuiButtonBase-root MuiButton-root bl-button MuiButton-outlined bl-button--outlined" tabindex="0" type="button" id="ButtonCreazaCont" style="text-transform: initial; margin: 0px; color: rgb(37, 129, 237); align-self: center; padding: 5px;"><span class="MuiButton-label bl-button-label">Creaza un cont</span><span class="MuiTouchRipple-root"></span></button></div></form></div></div></div></body>

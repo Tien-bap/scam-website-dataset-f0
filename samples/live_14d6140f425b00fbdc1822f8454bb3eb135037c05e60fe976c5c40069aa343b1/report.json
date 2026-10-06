@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_14d6140f425b00fbdc1822f8454bb3eb135037c05e60fe976c5c40069aa343b1",
+  "candidate_sha256": "8055afbde18f1e5c5e199d0d09ff9e858f234ef31163b27b01e0d8b160ed3fcb",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://www.finsvit.com.ua/includes/6e.php",
+  "requested_url": "https://www.finsvit.com.ua/includes/6e.php",
+  "browser_final_url": "https://www.finsvit.com.ua/",
+  "source_urls": [
+    "http://www.finsvit.com.ua/includes/6e.php"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 32556,
+      "source_url": "http://www.finsvit.com.ua/includes/6e.php",
+      "source_hostname": "www.finsvit.com.ua",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://www.finsvit.com.ua/includes/6e.php",
+      "final_hostname": "www.finsvit.com.ua",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 1971,
+      "elapsed_ms": 639,
+      "checked_at": "2026-10-05T12:46:59.850990+00:00",
+      "error": null,
+      "normalized_source_url": "http://www.finsvit.com.ua/includes/6e.php",
+      "normalized_final_url": "https://www.finsvit.com.ua/includes/6e.php",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_14d6140f425b00fbdc1822f8454bb3eb135037c05e60fe976c5c40069aa343b1",
+    "representative_source_index": 32556,
+    "representative_source_url": "http://www.finsvit.com.ua/includes/6e.php",
+    "representative_final_url": "https://www.finsvit.com.ua/includes/6e.php",
+    "normalized_final_url": "https://www.finsvit.com.ua/includes/6e.php",
+    "source_hostname": "www.finsvit.com.ua",
+    "final_hostname": "www.finsvit.com.ua",
+    "source_urls": [
+      "http://www.finsvit.com.ua/includes/6e.php"
+    ],
+    "provenance": [
+      {
+        "source_index": 32556,
+        "source_url": "http://www.finsvit.com.ua/includes/6e.php",
+        "source_hostname": "www.finsvit.com.ua",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://www.finsvit.com.ua/includes/6e.php",
+        "final_hostname": "www.finsvit.com.ua",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 1971,
+        "elapsed_ms": 639,
+        "checked_at": "2026-10-05T12:46:59.850990+00:00",
+        "error": null,
+        "normalized_source_url": "http://www.finsvit.com.ua/includes/6e.php",
+        "normalized_final_url": "https://www.finsvit.com.ua/includes/6e.php",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Українська платіжна система «Фінансовий світ»",
+  "capture_timestamp": "2026-10-05T14:35:40.039745+00:00",
+  "dom_chars": 13101,
+  "screenshot_bytes": 840135,
+  "dom_sha256": "e14e941dcfbbd2407823b515122912370772531addcf67648bbb782621409a5e",
+  "screenshot_sha256": "1edc523908bda7ec93c4e03d27d92efa2be684a2543cde9f1119119d50c0d533",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://www.finsvit.com.ua/includes/6e.php",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://www.finsvit.com.ua/includes/6e.php",
+    "browser_final_url": "https://www.finsvit.com.ua/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 6004
+}

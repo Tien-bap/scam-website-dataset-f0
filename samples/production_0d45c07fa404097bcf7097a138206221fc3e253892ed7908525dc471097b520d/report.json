@@ -1,0 +1,27 @@
+{
+  "original_url": "http://teibertandassociates.com/Gtp/nbt/bHVrZS5sdUBzZ3MuY29t",
+  "hostname": "teibertandassociates.com",
+  "checked_at": "2026-10-04T15:51:12.948722+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f89bb-e9d5-73f8-928f-60fabfc86723",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-22T12:10:41.391Z",
+  "scan_original_url": "https://teibertandassociates.com/",
+  "final_url": "https://teibertandassociates.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4905,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 52.961,
+  "discovery": {
+    "batch_id": "0dda5f33a61091a502107dd2854bd28eef48eed23e366ba144b2704bd0e0bfc9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

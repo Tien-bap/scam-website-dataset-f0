@@ -1,0 +1,27 @@
+{
+  "original_url": "https://manoloastorga.cl/xx/Priv8/Priv8/index.html",
+  "hostname": "manoloastorga.cl",
+  "checked_at": "2026-10-04T14:16:05.222065+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f8e5e-8846-7045-9aaf-958f52eb35e6",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-23T09:46:57.582Z",
+  "scan_original_url": "http://manoloastorga.cl/file/new/s/?signin=d41d8cd98f00b204e9800998ecf8427e&auth=4f47ec6ae980a55bef830705d54eac3ee416dd9c1e6d90f016b45d742bc15ca262643823",
+  "final_url": "https://manoloastorga.cl/sample-page/?signin=d41d8cd98f00b204e9800998ecf8427e&auth=4f47ec6ae980a55bef830705d54eac3ee416dd9c1e6d90f016b45d742bc15ca262643823",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1262,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.015,
+  "discovery": {
+    "batch_id": "d072c1f83b3cf6769e2d01ad9258eca5422de40a1a1b86b0eb58b42cc5510290",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

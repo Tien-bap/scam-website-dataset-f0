@@ -1,0 +1,1696 @@
+<!DOCTYPE html><html lang="vi" prefix="og: https://ogp.me/ns#" class="js"><head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",(e=>{this.persisted=e.persisted})),window.addEventListener("DOMContentLoaded",(()=>{this._preconnect3rdParties()})),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e._triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"))}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{if(t.hasAttribute("src")){const n=new URL(t.src).origin;n!==location.origin&&e.push({src:n,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}})),e=[...new Map(e.map((e=>[JSON.stringify(e),e]))).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(e){}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._littleBreath(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t());try{e.parentNode.replaceChild(n,e)}catch(e){t()}}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var n=document.createDocumentFragment();e.forEach((e=>{if(e.src){const i=document.createElement("link");i.href=e.src,i.rel=t,"preconnect"!==t&&(i.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(i.crossOrigin=!0),e.crossOrigin&&(i.crossOrigin=e.crossOrigin),n.appendChild(i)}})),document.head.appendChild(n)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),await this._littleBreath();const e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+	
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://nhacai11bet.link/xmlrpc.php">
+
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Tối ưu hóa công cụ tìm kiếm bởi Rank Math - https://rankmath.com/ -->
+<title>11Bet - Lịch sử 11bet từ khi thành lập đến nay - Cuoc Tai 11Bet</title><link rel="stylesheet" href="https://nhacai11bet.link/wp-content/cache/min/1/f2a2931da107f5c5dcd073da7d37c78c.css" media="all" data-minify="1">
+<meta name="description" content="Image Box text">
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="https://nhacai11bet.link/">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:type" content="website">
+<meta property="og:title" content="11Bet - Lịch sử 11bet từ khi thành lập đến nay - Cuoc Tai 11Bet">
+<meta property="og:description" content="Image Box text">
+<meta property="og:url" content="https://nhacai11bet.link/">
+<meta property="og:site_name" content="Cuoc Tai 11Bet">
+<meta property="og:updated_time" content="2026-05-08T08:47:10+00:00">
+<meta property="article:published_time" content="2024-12-23T08:52:37+00:00">
+<meta property="article:modified_time" content="2026-05-08T08:47:10+00:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="11Bet - Lịch sử 11bet từ khi thành lập đến nay - Cuoc Tai 11Bet">
+<meta name="twitter:description" content="Image Box text">
+<meta name="twitter:label1" content="Được viết bởi">
+<meta name="twitter:data1" content="Trương Việt Hoàng">
+<meta name="twitter:label2" content="Thời gian để đọc">
+<meta name="twitter:data2" content="4 phút">
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://nhacai11bet.link/#place","address":{"@type":"PostalAddress","streetAddress":"801/67 X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh","addressLocality":"Ph\u01b0\u1eddng 26, B\u00ecnh Th\u1ea1nh","addressRegion":"Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh","postalCode":"70000","addressCountry":"Vi\u1ec7t Nam"}},{"@type":["Casino","Organization"],"@id":"https://nhacai11bet.link/#organization","name":"11Bet","url":"https://cuoctai11bet.me","email":"cuoctai11betme@gmail.com","address":{"@type":"PostalAddress","streetAddress":"801/67 X\u00f4 Vi\u1ebft Ngh\u1ec7 T\u0129nh","addressLocality":"Ph\u01b0\u1eddng 26, B\u00ecnh Th\u1ea1nh","addressRegion":"Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh","postalCode":"70000","addressCountry":"Vi\u1ec7t Nam"},"logo":{"@type":"ImageObject","@id":"https://nhacai11bet.link/#logo","url":"https://cuoctai11bet.me/wp-content/uploads/2022/09/logo-tron-cuoctai-11BET-me.png","contentUrl":"https://cuoctai11bet.me/wp-content/uploads/2022/09/logo-tron-cuoctai-11BET-me.png","caption":"11Bet","inLanguage":"vi","width":"400","height":"400"},"openingHours":["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],"location":{"@id":"https://nhacai11bet.link/#place"},"image":{"@id":"https://nhacai11bet.link/#logo"},"telephone":"0927783746"},{"@type":"WebSite","@id":"https://nhacai11bet.link/#website","url":"https://nhacai11bet.link","name":"11Bet","publisher":{"@id":"https://nhacai11bet.link/#organization"},"inLanguage":"vi","potentialAction":{"@type":"SearchAction","target":"https://nhacai11bet.link/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://nhacai11bet.link/#webpage","url":"https://nhacai11bet.link/","name":"11Bet - L\u1ecbch s\u1eed 11bet t\u1eeb khi th\u00e0nh l\u1eadp \u0111\u1ebfn nay - Cuoc Tai 11Bet","datePublished":"2024-12-23T08:52:37+00:00","dateModified":"2026-05-08T08:47:10+00:00","about":{"@id":"https://nhacai11bet.link/#organization"},"isPartOf":{"@id":"https://nhacai11bet.link/#website"},"inLanguage":"vi"},{"@type":"Person","@id":"https://nhacai11bet.link/author/quantri-11bet/","name":"Tr\u01b0\u01a1ng Vi\u1ec7t Ho\u00e0ng","url":"https://nhacai11bet.link/author/quantri-11bet/","image":{"@type":"ImageObject","@id":"https://nhacai11bet.link/wp-content/uploads/2023/06/huan-luyen-vien-truong-viet-hoang-co-ten-khai-sinh-day-du-la-truong-viet-hoang-150x150.png","url":"https://nhacai11bet.link/wp-content/uploads/2023/06/huan-luyen-vien-truong-viet-hoang-co-ten-khai-sinh-day-du-la-truong-viet-hoang-150x150.png","caption":"Tr\u01b0\u01a1ng Vi\u1ec7t Ho\u00e0ng","inLanguage":"vi"},"sameAs":["https://cuoctai11bet.me","https://truongviethoang.com/"],"worksFor":{"@id":"https://nhacai11bet.link/#organization"}},{"@type":"Article","headline":"11Bet - L\u1ecbch s\u1eed 11bet t\u1eeb khi th\u00e0nh l\u1eadp \u0111\u1ebfn nay - Cuoc Tai 11Bet","datePublished":"2024-12-23T08:52:37+00:00","dateModified":"2026-05-08T08:47:10+00:00","author":{"@id":"https://nhacai11bet.link/author/quantri-11bet/","name":"Tr\u01b0\u01a1ng Vi\u1ec7t Ho\u00e0ng"},"publisher":{"@id":"https://nhacai11bet.link/#organization"},"description":"Image Box text","name":"11Bet - L\u1ecbch s\u1eed 11bet t\u1eeb khi th\u00e0nh l\u1eadp \u0111\u1ebfn nay - Cuoc Tai 11Bet","@id":"https://nhacai11bet.link/#richSnippet","isPartOf":{"@id":"https://nhacai11bet.link/#webpage"},"inLanguage":"vi","mainEntityOfPage":{"@id":"https://nhacai11bet.link/#webpage"}}]}</script>
+<!-- /Plugin SEO WordPress Rank Math -->
+
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//maps.googleapis.com">
+<link rel="dns-prefetch" href="//maps.gstatic.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//apis.google.com">
+<link rel="dns-prefetch" href="//google-analytics.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//ssl.google-analytics.com">
+<link rel="dns-prefetch" href="//youtube.com">
+<link rel="dns-prefetch" href="//api.pinterest.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="dns-prefetch" href="//platform.twitter.com">
+<link rel="dns-prefetch" href="//syndication.twitter.com">
+<link rel="dns-prefetch" href="//platform.instagram.com">
+<link rel="dns-prefetch" href="//disqus.com">
+<link rel="dns-prefetch" href="//sitename.disqus.com">
+<link rel="dns-prefetch" href="//s7.addthis.com">
+<link rel="dns-prefetch" href="//platform.linkedin.com">
+<link rel="dns-prefetch" href="//w.sharethis.com">
+<link rel="dns-prefetch" href="//i0.wp.com">
+<link rel="dns-prefetch" href="//i1.wp.com">
+<link rel="dns-prefetch" href="//i2.wp.com">
+<link rel="dns-prefetch" href="//stats.wp.com">
+<link rel="dns-prefetch" href="//pixel.wp.com">
+<link rel="dns-prefetch" href="//s.gravatar.com">
+<link rel="dns-prefetch" href="//0.gravatar.com">
+<link rel="dns-prefetch" href="//2.gravatar.com">
+<link rel="dns-prefetch" href="//1.gravatar.com">
+
+<link rel="prefetch" href="https://nhacai11bet.link/wp-content/themes/flatsome/assets/js/flatsome.js?ver=43f05e0ca79aa585a6aa">
+<link rel="prefetch" href="https://nhacai11bet.link/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.17.7">
+<link rel="prefetch" href="https://nhacai11bet.link/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.17.7">
+<link rel="prefetch" href="https://nhacai11bet.link/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.17.7">
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin Cuoc Tai 11Bet »" href="https://nhacai11bet.link/feed/">
+<link rel="alternate" type="application/rss+xml" title="Cuoc Tai 11Bet » Dòng bình luận" href="https://nhacai11bet.link/comments/feed/">
+<link rel="alternate" title="oNhúng (JSON)" type="application/json+oembed" href="https://nhacai11bet.link/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnhacai11bet.link%2F">
+<link rel="alternate" title="oNhúng (XML)" type="text/xml+oembed" href="https://nhacai11bet.link/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnhacai11bet.link%2F&amp;format=xml">
+<style id="wp-img-auto-sizes-contain-inline-css" type="text/css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css" type="text/css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+
+<style id="fixedtoc-style-inline-css" type="text/css">
+.ftwp-in-post#ftwp-container-outer { height: auto; } #ftwp-container.ftwp-wrap #ftwp-contents { width: 250px; height: auto; } .ftwp-in-post#ftwp-container-outer #ftwp-contents { height: auto; } .ftwp-in-post#ftwp-container-outer.ftwp-float-none #ftwp-contents { width: 1000px; } #ftwp-container.ftwp-wrap #ftwp-trigger { width: 50px; height: 50px; font-size: 30px; } #ftwp-container #ftwp-trigger.ftwp-border-medium { font-size: 29px; } #ftwp-container.ftwp-wrap #ftwp-header { font-size: 18px; font-family: inherit; } #ftwp-container.ftwp-wrap #ftwp-header-title { font-weight: normal; } #ftwp-container.ftwp-wrap #ftwp-list { font-size: 14px; font-family: inherit; } #ftwp-container #ftwp-list.ftwp-liststyle-decimal .ftwp-anchor::before { font-size: 14px; } #ftwp-container #ftwp-list.ftwp-strong-first>.ftwp-item>.ftwp-anchor .ftwp-text { font-size: 15.4px; } #ftwp-container #ftwp-list.ftwp-strong-first.ftwp-liststyle-decimal>.ftwp-item>.ftwp-anchor::before { font-size: 15.4px; } #ftwp-container.ftwp-wrap #ftwp-trigger { color: #333; background: rgba(243,243,243,0.95); } #ftwp-container.ftwp-wrap #ftwp-trigger { border-color: rgba(51,51,51,0.95); } #ftwp-container.ftwp-wrap #ftwp-header { color: #333; background: rgba(243,243,243,0.95); } #ftwp-container.ftwp-wrap #ftwp-contents:hover #ftwp-header { background: #f3f3f3; } #ftwp-container.ftwp-wrap #ftwp-list { color: #333; background: rgba(243,243,243,0.95); } #ftwp-container.ftwp-wrap #ftwp-contents:hover #ftwp-list { background: #f3f3f3; } #ftwp-container.ftwp-wrap #ftwp-list .ftwp-anchor:hover { color: #00A368; } #ftwp-container.ftwp-wrap #ftwp-list .ftwp-anchor:focus, #ftwp-container.ftwp-wrap #ftwp-list .ftwp-active, #ftwp-container.ftwp-wrap #ftwp-list .ftwp-active:hover { color: #fff; } #ftwp-container.ftwp-wrap #ftwp-list .ftwp-text::before { background: rgba(221,51,51,0.95); } .ftwp-heading-target::before { background: rgba(221,51,51,0.95); }
+/*# sourceURL=fixedtoc-style-inline-css */
+</style>
+
+<style id="flatsome-main-inline-css" type="text/css">
+@font-face {
+				font-family: "fl-icons";
+				font-display: block;
+				src: url(https://nhacai11bet.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.17.7);
+				src:
+					url(https://nhacai11bet.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.17.7) format("embedded-opentype"),
+					url(https://nhacai11bet.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.17.7) format("woff2"),
+					url(https://nhacai11bet.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.17.7) format("truetype"),
+					url(https://nhacai11bet.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.17.7) format("woff"),
+					url(https://nhacai11bet.link/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.17.7#fl-icons) format("svg");
+			}
+/*# sourceURL=flatsome-main-inline-css */
+</style>
+
+<style id="rocket-lazyload-inline-css" type="text/css">
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://nhacai11bet.link/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+/*# sourceURL=rocket-lazyload-inline-css */
+</style>
+<script type="text/javascript" src="https://nhacai11bet.link/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" defer=""></script>
+<script type="text/javascript" src="https://nhacai11bet.link/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" defer=""></script>
+<link rel="https://api.w.org/" href="https://nhacai11bet.link/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://nhacai11bet.link/wp-json/wp/v2/pages/1343"><style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3ZMERM1MCC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3ZMERM1MCC');
+</script><link rel="icon" href="https://nhacai11bet.link/wp-content/uploads/2022/09/logo-tron-cuoctai-11BET-me-150x150.png" sizes="32x32">
+<link rel="icon" href="https://nhacai11bet.link/wp-content/uploads/2022/09/logo-tron-cuoctai-11BET-me-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://nhacai11bet.link/wp-content/uploads/2022/09/logo-tron-cuoctai-11BET-me-300x300.png">
+<meta name="msapplication-TileImage" content="https://nhacai11bet.link/wp-content/uploads/2022/09/logo-tron-cuoctai-11BET-me-300x300.png">
+<style id="custom-css" type="text/css">:root {--primary-color: #598e2d;}.container-width, .full-width .ubermenu-nav, .container, .row{max-width: 1250px}.row.row-collapse{max-width: 1220px}.row.row-small{max-width: 1242.5px}.row.row-large{max-width: 1280px}.header-main{height: 90px}#logo img{max-height: 90px}#logo{width:200px;}.header-bottom{min-height: 61px}.header-top{min-height: 30px}.transparent .header-main{height: 90px}.transparent #logo img{max-height: 90px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 90px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.header-bg-color {background-color: #212123}.header-bottom {background-color: #b3090f}.header-bottom-nav > li > a{line-height: 16px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #598e2d;}/* Color !important */[data-text-color="primary"]{color: #598e2d!important;}/* Background Color */[data-text-bg="primary"]{background-color: #598e2d;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .header-vertical-menu__opener ,.is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #598e2d;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #598e2d}.nav-tabs > li.active > a{border-top-color: #598e2d}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #598e2d }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #598e2d }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #598e2d;}/* Focus */.primary:focus-visible, .submit-button:focus-visible, button[type="submit"]:focus-visible { outline-color: #598e2d!important; }/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#dd9933; }[data-text-bg="secondary"]{background-color: #dd9933;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #dd9933}/* Color !important */[data-text-color="secondary"]{color: #dd9933!important;}/* Border */.secondary.is-outline:hover{border-color:#dd9933}/* Focus */.secondary:focus-visible, .alt:focus-visible { outline-color: #dd9933!important; }.success.is-underline:hover,.success.is-outline:hover,.success{background-color: #81d742}.success-color, .success.is-link, .success.is-outline{color: #81d742;}.success-border{border-color: #81d742!important;}/* Color !important */[data-text-color="success"]{color: #81d742!important;}/* Background Color */[data-text-bg="success"]{background-color: #81d742;}body{color: #000000}h1,h2,h3,h4,h5,h6,.heading-font{color: #598e2d;}body{font-family: Roboto, sans-serif;}body {font-weight: 400;font-style: normal;}.nav > li > a {font-family: Roboto, sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family: Roboto, sans-serif;}.nav > li > a,.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 700;font-style: normal;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: Roboto, sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2 {font-weight: 700;font-style: normal;}.alt-font{font-family: "Dancing Script", sans-serif;}.alt-font {font-weight: 400!important;font-style: normal!important;}a{color: #dd9933;}a:hover{color: #111111;}.tagcloud a:hover{border-color: #111111;background-color: #111111;}.footer-2{background-color: #b3090f}.absolute-footer, html{background-color: #1a1b1f}.nav-vertical-fly-out > li + li {border-top-width: 1px; border-top-style: solid;}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style><style id="kirki-inline-styles">/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmZiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmQiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmYiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmXiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVnoiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVn6iAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmbiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQm_20.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmZiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmQiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmYiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmXiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalnoiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjaln6iAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmbiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmaiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiAz0klQm_20.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* vietnamese */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Rep6hNX6pmRMjLo.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp6hNX6pmRMjLo.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://nhacai11bet.link/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup6hNX6pmRM.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><link href="https://nhacai11bet.link/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" rel="preload" as="script"><link href="https://nhacai11bet.link/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" rel="preload" as="script"><link href="https://nhacai11bet.link/wp-includes/js/hoverIntent.min.js?ver=1.10.2" rel="preload" as="script"><link href="https://nhacai11bet.link/wp-content/cache/min/1/wp-content/themes/flatsome/assets/js/flatsome.js?ver=1778228763" rel="preload" as="script"><link href="https://nhacai11bet.link/wp-content/cache/min/1/wp-content/themes/flatsome/inc/integrations/wp-rocket/flatsome-wp-rocket.js?ver=1778228763" rel="preload" as="script"><link href="https://nhacai11bet.link/wp-content/cache/min/1/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=1778228763" rel="preload" as="script"><link href="https://nhacai11bet.link/wp-content/plugins/fixed-toc/frontend/assets/js/ftoc.min.js?ver=3.1.24" rel="preload" as="script"><link href="https://nhacai11bet.link/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.12.4" rel="preload" as="script"><link href="https://www.googletagmanager.com/gtag/js?id=G-3ZMERM1MCC" rel="preload" as="script"><link href="https://www.googletagmanager.com" rel="preconnect"></head>
+
+<body data-rsssl="1" class="home wp-singular page-template page-template-page-blank page-template-page-blank-php page page-id-1343 wp-theme-flatsome wp-child-theme-b88bet lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border has-ftoc">
+
+
+<a class="skip-link screen-reader-text" href="#main" rel="nofollow">Skip to content</a>
+
+<div id="wrapper">
+
+	
+	<header id="header" class="header has-sticky sticky-jump">
+		<div class="header-wrapper">
+			<div id="masthead" class="header-main nav-dark">
+      <div class="header-inner flex-row container logo-left medium-logo-left" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            
+<!-- Header logo -->
+<a href="https://nhacai11bet.link/" title="Cuoc Tai 11Bet" rel="nofollow" data-wpel-link="internal" target="_self">
+		<img width="500" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20200'%3E%3C/svg%3E" class="header_logo header-logo" alt="Cuoc Tai 11Bet" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me.png"><noscript><img width="500" height="200" src="https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me.png" class="header_logo header-logo" alt="Cuoc Tai 11Bet"/></noscript><img width="500" height="200" src="https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me.png" class="header-logo-dark entered lazyloaded" alt="Cuoc Tai 11Bet" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me.png" data-ll-status="loaded"><noscript><img  width="500" height="200" src="https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me.png" class="header-logo-dark" alt="Cuoc Tai 11Bet"/></noscript></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="html header-button-1">
+	<div class="header-button">
+	<a rel="nofollow" href="/qc/dang-ky" target="_blank" class="button alert" style="border-radius:99px;" data-wpel-link="internal">
+    <span>Đăng ký</span>
+  </a>
+	</div>
+</li>
+
+
+<li class="html header-button-2">
+	<div class="header-button">
+	<a rel="nofollow" href="/qc/dang-ky" target="_blank" class="button success" style="border-radius:99px;" data-wpel-link="internal">
+    <span>Đăng nhập</span>
+  </a>
+	</div>
+</li>
+            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-uppercase">
+              <li id="menu-item-497" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-497 menu-item-design-default"><a href="https://nhacai11bet.link/dang-ky-11bet/" class="nav-top-link" data-wpel-link="internal" target="_self" rel="nofollow">Đăng ký</a></li>
+<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-498 menu-item-design-default"><a href="https://nhacai11bet.link/nap-tien-11bet/" class="nav-top-link" data-wpel-link="internal" target="_self" rel="nofollow">Nạp tiền</a></li>
+<li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-499 menu-item-design-default"><a href="https://nhacai11bet.link/rut-tien-11bet/" class="nav-top-link" data-wpel-link="internal" target="_self" rel="nofollow">Rút tiền</a></li>
+<li id="menu-item-290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-290 menu-item-design-default"><a href="https://nhacai11bet.link/nha-cai-uy-tin/" class="nav-top-link" data-wpel-link="internal" target="_self" rel="nofollow">Nhà cái uy tín</a></li>
+<li id="menu-item-400" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400 menu-item-design-default"><a href="https://nhacai11bet.link/link-truc-tiep-bong-da/" class="nav-top-link" data-wpel-link="internal" target="_self" rel="nofollow">Link trực tiếp bóng đá</a></li>
+<li id="menu-item-291" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-291 menu-item-design-default"><a href="https://nhacai11bet.link/gai-xinh/" class="nav-top-link" data-wpel-link="internal" target="_self" rel="nofollow">Gái xinh</a></li>
+            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
+              <li class="html header-button-1">
+	<div class="header-button">
+	<a rel="nofollow" href="/qc/dang-ky" target="_blank" class="button alert" style="border-radius:99px;" data-wpel-link="internal">
+    <span>Đăng ký</span>
+  </a>
+	</div>
+</li>
+
+
+<li class="html header-button-2">
+	<div class="header-button">
+	<a rel="nofollow" href="/qc/dang-ky" target="_blank" class="button success" style="border-radius:99px;" data-wpel-link="internal">
+    <span>Đăng nhập</span>
+  </a>
+	</div>
+</li>
+            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="nav-icon has-icon">
+  <div class="header-button">		<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="icon primary button circle is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false" rel="nofollow">
+
+		  <i class="icon-menu"></i>
+		  		</a>
+	 </div> </li>
+            </ul>
+          </div>
+
+      </div>
+
+            <div class="container"><div class="top-divider full-width"></div></div>
+      </div>
+
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+	</header>
+
+	
+	<main id="main" class="">
+
+
+<div id="content" role="main" class="content-area">
+
+		
+			<div id="ftwp-postcontent"><div class="slider-wrapper relative" id="slider-212037764">
+    <div class="slider slider-nav-circle slider-nav-large slider-nav-light slider-style-normal" data-flickity-options="{
+            &quot;cellAlign&quot;: &quot;center&quot;,
+            &quot;imagesLoaded&quot;: true,
+            &quot;lazyLoad&quot;: 1,
+            &quot;freeScroll&quot;: false,
+            &quot;wrapAround&quot;: true,
+            &quot;autoPlay&quot;: 6000,
+            &quot;pauseAutoPlayOnHover&quot; : true,
+            &quot;prevNextButtons&quot;: true,
+            &quot;contain&quot; : true,
+            &quot;adaptiveHeight&quot; : true,
+            &quot;dragThreshold&quot; : 10,
+            &quot;percentPosition&quot;: true,
+            &quot;pageDots&quot;: true,
+            &quot;rightToLeft&quot;: false,
+            &quot;draggable&quot;: true,
+            &quot;selectedAttraction&quot;: 0.1,
+            &quot;parallax&quot; : 0,
+            &quot;friction&quot;: 0.6        }">
+        
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_504141493">
+								<div class="img-inner dark">
+			<img decoding="async" width="2560" height="569" src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-scaled.webp" class="attachment-original size-original entered lazyloaded" alt="banner 11bet quan tri scaled" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-scaled.webp 2560w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-300x67.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-1024x228.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-768x171.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-1536x341.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-2048x455.webp 2048w" data-lazy-sizes="(max-width: 2560px) 100vw, 2560px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 39" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-scaled.webp" data-ll-status="loaded" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-scaled.webp 2560w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-300x67.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-1024x228.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-768x171.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-1536x341.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-2048x455.webp 2048w"><noscript><img decoding="async" width="2560" height="569" src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-scaled.webp" class="attachment-original size-original" alt="banner 11bet quan tri scaled" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-scaled.webp 2560w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-300x67.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-1024x228.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-768x171.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-1536x341.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-quan-tri-2048x455.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 39"></noscript>						
+					</div>
+								
+<style>
+#image_504141493 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1764503997">
+								<div class="img-inner dark">
+			<img decoding="async" width="2560" height="569" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%20569'%3E%3C/svg%3E" class="attachment-original size-original" alt="banner 11bet dua top scaled" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-scaled.webp 2560w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-300x67.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-1024x228.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-768x171.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-1536x341.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-2048x455.webp 2048w" data-lazy-sizes="(max-width: 2560px) 100vw, 2560px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 40" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-scaled.webp"><noscript><img decoding="async" width="2560" height="569" src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-scaled.webp" class="attachment-original size-original" alt="banner 11bet dua top scaled" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-scaled.webp 2560w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-300x67.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-1024x228.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-768x171.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-1536x341.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-dua-top-2048x455.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 40"></noscript>						
+					</div>
+								
+<style>
+#image_1764503997 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_399237859">
+								<div class="img-inner dark">
+			<img decoding="async" width="2160" height="480" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202160%20480'%3E%3C/svg%3E" class="attachment-original size-original" alt="banner 11bet" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet.webp 2160w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-300x67.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-1024x228.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-768x171.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-1536x341.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-2048x455.webp 2048w" data-lazy-sizes="(max-width: 2160px) 100vw, 2160px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 41" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet.webp"><noscript><img decoding="async" width="2160" height="480" src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet.webp" class="attachment-original size-original" alt="banner 11bet" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet.webp 2160w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-300x67.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-1024x228.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-768x171.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-1536x341.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-2048x455.webp 2048w" sizes="(max-width: 2160px) 100vw, 2160px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 41"></noscript>						
+					</div>
+								
+<style>
+#image_399237859 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1027321276">
+								<div class="img-inner dark">
+			<img decoding="async" width="2560" height="569" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%20569'%3E%3C/svg%3E" class="attachment-original size-original" alt="banner 11bet gamebai scaled" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-scaled.webp 2560w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-300x67.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-1024x228.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-768x171.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-1536x341.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-2048x455.webp 2048w" data-lazy-sizes="(max-width: 2560px) 100vw, 2560px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 42" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-scaled.webp"><noscript><img decoding="async" width="2560" height="569" src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-scaled.webp" class="attachment-original size-original" alt="banner 11bet gamebai scaled" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-scaled.webp 2560w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-300x67.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-1024x228.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-768x171.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-1536x341.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-11bet-gamebai-2048x455.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 42"></noscript>						
+					</div>
+								
+<style>
+#image_1027321276 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+     </div>
+
+     <div class="loading-spin dark large centered" style="display: none;"></div>
+
+	</div>
+
+
+	<section class="section dark" id="section_1831397217">
+		<div class="bg section-bg fill bg-fill bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+<div class="row row-large" id="row-287372115">
+
+	<div id="col-1098271184" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+<div id="ftwp-container-outer" class="ftwp-in-post ftwp-float-none" style="height: auto;"><div id="ftwp-container" class="ftwp-wrap ftwp-minimize ftwp-middle-right" style=""><button type="button" id="ftwp-trigger" class="ftwp-shape-round ftwp-border-medium" title="click To Maximize The Table Of Contents"><span class="ftwp-trigger-icon ftwp-icon-number"></span></button><nav id="ftwp-contents" class="ftwp-shape-square ftwp-border-none" data-colexp="collapse" style="height: auto;"><header id="ftwp-header"><span id="ftwp-header-control" class="ftwp-icon-number"></span><button type="button" id="ftwp-header-minimize" class="ftwp-icon-collapse" aria-labelledby="ftwp-header-title" aria-label="Expand or collapse"></button><span id="ftwp-header-title">Mục lục</span></header><ol id="ftwp-list" class="ftwp-liststyle-decimal ftwp-effect-bounce-to-right ftwp-list-nest ftwp-strong-first ftwp-colexp ftwp-colexp-icon" style="display: none; height: auto;"><li class="ftwp-item ftwp-has-sub ftwp-expand"><button type="button" aria-label="Expand or collapse" class="ftwp-icon-expand"></button><a class="ftwp-anchor" href="#link-truy-cap-nha-cai-11bet-chinh-thuc" rel="nofollow"><span class="ftwp-text">LINK TRUY CẬP NHÀ CÁI 11BET CHÍNH THỨC</span></a><ol class="ftwp-sub"><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-2" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-3" rel="nofollow"><span class="ftwp-text">A title</span></a></li></ol></li><li class="ftwp-item ftwp-has-sub ftwp-expand"><button type="button" aria-label="Expand or collapse" class="ftwp-icon-expand"></button><a class="ftwp-anchor" href="#cac-san-pham-dac-sac-tai-nha-cai-11bet" rel="nofollow"><span class="ftwp-text">CÁC SẢN PHẨM ĐẶC SẮC TẠI NHÀ CÁI 11BET</span></a><ol class="ftwp-sub"><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-4" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-5" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-6" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-7" rel="nofollow"><span class="ftwp-text">A title</span></a></li></ol></li><li class="ftwp-item ftwp-has-sub ftwp-expand"><button type="button" aria-label="Expand or collapse" class="ftwp-icon-expand"></button><a class="ftwp-anchor" href="#khuyen-mai-noi-bat-cua-nha-cai-11bet" rel="nofollow"><span class="ftwp-text">KHUYẾN MÃI NỔI BẬT CỦA NHÀ CÁI 11BET</span></a><ol class="ftwp-sub"><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-8" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-9" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-10" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-11" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-12" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-13" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-14" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-15" rel="nofollow"><span class="ftwp-text">A title</span></a></li></ol></li><li class="ftwp-item ftwp-has-sub ftwp-expand"><button type="button" aria-label="Expand or collapse" class="ftwp-icon-expand"></button><a class="ftwp-anchor" href="#huong-dan" rel="nofollow"><span class="ftwp-text">HƯỚNG DẪN</span></a><ol class="ftwp-sub"><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-16" rel="nofollow"><span class="ftwp-text">A title</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#a-title-17" rel="nofollow"><span class="ftwp-text">A title</span></a></li></ol></li><li class="ftwp-item ftwp-has-sub ftwp-expand"><button type="button" aria-label="Expand or collapse" class="ftwp-icon-expand"></button><a class="ftwp-anchor" href="#nha-cai-uy-tin-11bet" rel="nofollow"><span class="ftwp-text">NHÀ CÁI UY TÍN 11BET</span></a><ol class="ftwp-sub"><li class="ftwp-item"><a class="ftwp-anchor" href="#11bet-online-nha-cai-uy-tin-hang-dau-tai-viet-nam" rel="nofollow"><span class="ftwp-text">11bet online – Nhà cái uy tín hàng đầu tại Việt Nam</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#11bet-online-nha-cai-uy-tin-hang-dau-tai-viet-nam-2" rel="nofollow"><span class="ftwp-text">11bet online – Nhà cái uy tín hàng đầu tại Việt Nam</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#11bet-net-ten-mien-moi-sau-6-nam-hoat-dong" rel="nofollow"><span class="ftwp-text">11bet net – Tên miền mới sau 6 năm hoạt động</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#11bet-club-kenh-ca-cuoc-so-1-dong-dao-moi-nguoi-yeu-thich" rel="nofollow"><span class="ftwp-text">11Bet Club – Kênh cá cược số 1 đông đảo mọi người yêu thích</span></a></li></ol></li><li class="ftwp-item ftwp-has-sub ftwp-expand"><button type="button" aria-label="Expand or collapse" class="ftwp-icon-expand"></button><a class="ftwp-anchor" href="#link-truc-tiep-bong-da" rel="nofollow"><span class="ftwp-text">LINK TRỰC TIẾP BÓNG ĐÁ</span></a><ol class="ftwp-sub"><li class="ftwp-item"><a class="ftwp-anchor" href="#7m-trang-soi-keo-cap-nhat-thong-tin-bong-da-hang-dau" rel="nofollow"><span class="ftwp-text">7M – Trang soi kèo &amp; cập nhật thông tin bóng đá hàng đầu</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#banhkhuc-trang-xem-truc-tiep-bong-da-chat-luong-cao-hang-dau" rel="nofollow"><span class="ftwp-text">Banhkhuc – Trang xem trực tiếp bóng đá chất lượng cao hàng đầu</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#ibongda-kenh-xem-truc-tiep-bong-da-voi-toc-do-cao" rel="nofollow"><span class="ftwp-text">iBongda – Kênh xem trực tiếp bóng đá với tốc độ cao</span></a></li></ol></li></ol></nav></div></div><h2 id="link-truy-cap-nha-cai-11bet-chinh-thuc" class="ftwp-heading" style="text-align: center;"><strong>LINK TRUY CẬP NHÀ CÁI 11BET CHÍNH THỨC</strong></h2>
+<div class="row row-small" id="row-998176202">
+
+	<div id="col-1621157811" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="350" height="67" src="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-com.png" class="attachment-2048x2048 size-2048x2048 entered lazyloaded" alt="link 11bet com" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-com.png 350w, https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-com-300x57.png 300w" data-lazy-sizes="(max-width: 350px) 100vw, 350px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 43" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-com.png" data-ll-status="loaded" sizes="(max-width: 350px) 100vw, 350px" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-com.png 350w, https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-com-300x57.png 300w"><noscript><img decoding="async" width="350" height="67" src="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-com.png" class="attachment-2048x2048 size-2048x2048" alt="link 11bet com" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-com.png 350w, https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-com-300x57.png 300w" sizes="(max-width: 350px) 100vw, 350px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 43"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-1746305841" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="350" height="67" src="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-net.png" class="attachment-2048x2048 size-2048x2048 entered lazyloaded" alt="link 11bet net" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-net.png 350w, https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-net-300x57.png 300w" data-lazy-sizes="(max-width: 350px) 100vw, 350px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 44" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-net.png" data-ll-status="loaded" sizes="(max-width: 350px) 100vw, 350px" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-net.png 350w, https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-net-300x57.png 300w"><noscript><img decoding="async" width="350" height="67" src="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-net.png" class="attachment-2048x2048 size-2048x2048" alt="link 11bet net" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-net.png 350w, https://nhacai11bet.link/wp-content/uploads/2024/12/link-11bet-net-300x57.png 300w" sizes="(max-width: 350px) 100vw, 350px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 44"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-2" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-938663148" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="350" height="67" src="https://nhacai11bet.link/wp-content/uploads/2024/12/11bet-org.png" class="attachment-2048x2048 size-2048x2048 entered lazyloaded" alt="11bet org" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/11bet-org.png 350w, https://nhacai11bet.link/wp-content/uploads/2024/12/11bet-org-300x57.png 300w" data-lazy-sizes="(max-width: 350px) 100vw, 350px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 45" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/11bet-org.png" data-ll-status="loaded" sizes="(max-width: 350px) 100vw, 350px" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/11bet-org.png 350w, https://nhacai11bet.link/wp-content/uploads/2024/12/11bet-org-300x57.png 300w"><noscript><img decoding="async" width="350" height="67" src="https://nhacai11bet.link/wp-content/uploads/2024/12/11bet-org.png" class="attachment-2048x2048 size-2048x2048" alt="11bet org" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/11bet-org.png 350w, https://nhacai11bet.link/wp-content/uploads/2024/12/11bet-org-300x57.png 300w" sizes="(max-width: 350px) 100vw, 350px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 45"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-3" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+					</div>
+
+	
+</div>
+<div class="row row-large" id="row-313351394">
+
+	<div id="col-559662484" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+<h2 id="cac-san-pham-dac-sac-tai-nha-cai-11bet" class="ftwp-heading" style="text-align: center;"><strong>CÁC SẢN PHẨM ĐẶC SẮC TẠI NHÀ CÁI 11BET</strong></h2>
+<div class="row row-small" id="row-790025772">
+
+	<div id="col-1767377965" class="col medium-3 small-6 large-3">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="510" height="640" src="https://nhacai11bet.link/wp-content/uploads/2024/12/a-sports.webp" class="attachment-2048x2048 size-2048x2048 entered lazyloaded" alt="a sports" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/a-sports.webp 510w, https://nhacai11bet.link/wp-content/uploads/2024/12/a-sports-239x300.webp 239w" data-lazy-sizes="(max-width: 510px) 100vw, 510px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 46" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/a-sports.webp" data-ll-status="loaded" sizes="(max-width: 510px) 100vw, 510px" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/a-sports.webp 510w, https://nhacai11bet.link/wp-content/uploads/2024/12/a-sports-239x300.webp 239w"><noscript><img decoding="async" width="510" height="640" src="https://nhacai11bet.link/wp-content/uploads/2024/12/a-sports.webp" class="attachment-2048x2048 size-2048x2048" alt="a sports" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/a-sports.webp 510w, https://nhacai11bet.link/wp-content/uploads/2024/12/a-sports-239x300.webp 239w" sizes="(max-width: 510px) 100vw, 510px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 46"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-4" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-1009859285" class="col medium-3 small-6 large-3">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="510" height="640" src="https://nhacai11bet.link/wp-content/uploads/2024/12/k-sports.webp" class="attachment-2048x2048 size-2048x2048 entered lazyloaded" alt="k sports" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/k-sports.webp 510w, https://nhacai11bet.link/wp-content/uploads/2024/12/k-sports-239x300.webp 239w" data-lazy-sizes="(max-width: 510px) 100vw, 510px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 47" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/k-sports.webp" data-ll-status="loaded" sizes="(max-width: 510px) 100vw, 510px" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/k-sports.webp 510w, https://nhacai11bet.link/wp-content/uploads/2024/12/k-sports-239x300.webp 239w"><noscript><img decoding="async" width="510" height="640" src="https://nhacai11bet.link/wp-content/uploads/2024/12/k-sports.webp" class="attachment-2048x2048 size-2048x2048" alt="k sports" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/k-sports.webp 510w, https://nhacai11bet.link/wp-content/uploads/2024/12/k-sports-239x300.webp 239w" sizes="(max-width: 510px) 100vw, 510px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 47"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-5" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-391095185" class="col medium-3 small-6 large-3">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="510" height="640" src="https://nhacai11bet.link/wp-content/uploads/2024/12/p-sports.webp" class="attachment-2048x2048 size-2048x2048 entered lazyloaded" alt="p sports" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/p-sports.webp 510w, https://nhacai11bet.link/wp-content/uploads/2024/12/p-sports-239x300.webp 239w" data-lazy-sizes="(max-width: 510px) 100vw, 510px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 48" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/p-sports.webp" data-ll-status="loaded" sizes="(max-width: 510px) 100vw, 510px" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/p-sports.webp 510w, https://nhacai11bet.link/wp-content/uploads/2024/12/p-sports-239x300.webp 239w"><noscript><img decoding="async" width="510" height="640" src="https://nhacai11bet.link/wp-content/uploads/2024/12/p-sports.webp" class="attachment-2048x2048 size-2048x2048" alt="p sports" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/p-sports.webp 510w, https://nhacai11bet.link/wp-content/uploads/2024/12/p-sports-239x300.webp 239w" sizes="(max-width: 510px) 100vw, 510px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 48"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-6" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-1240007068" class="col medium-3 small-6 large-3">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="765" height="960" src="https://nhacai11bet.link/wp-content/uploads/2024/12/virtual-sports.webp" class="attachment-2048x2048 size-2048x2048 entered lazyloaded" alt="virtual sports" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/virtual-sports.webp 765w, https://nhacai11bet.link/wp-content/uploads/2024/12/virtual-sports-239x300.webp 239w" data-lazy-sizes="(max-width: 765px) 100vw, 765px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 49" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/virtual-sports.webp" data-ll-status="loaded" sizes="(max-width: 765px) 100vw, 765px" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/virtual-sports.webp 765w, https://nhacai11bet.link/wp-content/uploads/2024/12/virtual-sports-239x300.webp 239w"><noscript><img decoding="async" width="765" height="960" src="https://nhacai11bet.link/wp-content/uploads/2024/12/virtual-sports.webp" class="attachment-2048x2048 size-2048x2048" alt="virtual sports" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/virtual-sports.webp 765w, https://nhacai11bet.link/wp-content/uploads/2024/12/virtual-sports-239x300.webp 239w" sizes="(max-width: 765px) 100vw, 765px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 49"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-7" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+</div>
+<div class="row row-small align-middle" id="row-252752161">
+
+	<div id="col-1760861955" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-overlay dark box-text-middle">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="1536" height="524" class="attachment-original size-original entered exited" alt="volta" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/volta.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/volta-300x102.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/volta-1024x349.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/volta-768x262.webp 768w" data-lazy-sizes="(max-width: 1536px) 100vw, 1536px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 50" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/volta.webp" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201536%20524'%3E%3C/svg%3E"><noscript><img decoding="async" width="1536" height="524" src="https://nhacai11bet.link/wp-content/uploads/2024/12/volta.webp" class="attachment-original size-original" alt="volta" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/volta.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/volta-300x102.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/volta-1024x349.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/volta-768x262.webp 768w" sizes="(max-width: 1536px) 100vw, 1536px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 50"></noscript>				<div class="overlay" style="background-color:1"></div>							</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+	<div id="text-1590122052" class="text">
+		
+<p><strong>VOLTA 3X3</strong><br>
+		
+<style>
+#text-1590122052 {
+  text-align: left;
+}
+</style>
+	</p></div>
+	
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-801344285" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-overlay dark box-text-middle">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="1536" height="524" class="attachment-original size-original entered exited" alt="thethaoao" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/thethaoao.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/thethaoao-300x102.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/thethaoao-1024x349.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/thethaoao-768x262.webp 768w" data-lazy-sizes="(max-width: 1536px) 100vw, 1536px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 51" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/thethaoao.webp" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201536%20524'%3E%3C/svg%3E"><noscript><img decoding="async" width="1536" height="524" src="https://nhacai11bet.link/wp-content/uploads/2024/12/thethaoao.webp" class="attachment-original size-original" alt="thethaoao" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/thethaoao.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/thethaoao-300x102.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/thethaoao-1024x349.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/thethaoao-768x262.webp 768w" sizes="(max-width: 1536px) 100vw, 1536px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 51"></noscript>				<div class="overlay" style="background-color:1"></div>							</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<p style="text-align: left;"><strong>THỂ THAO ẢO</strong></p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-1330512568" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-overlay dark box-text-middle">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="1536" height="524" class="attachment-original size-original entered exited" alt="e sports" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/e-sports.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/e-sports-300x102.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/e-sports-1024x349.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/e-sports-768x262.webp 768w" data-lazy-sizes="(max-width: 1536px) 100vw, 1536px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 52" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/e-sports.webp" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201536%20524'%3E%3C/svg%3E"><noscript><img decoding="async" width="1536" height="524" src="https://nhacai11bet.link/wp-content/uploads/2024/12/e-sports.webp" class="attachment-original size-original" alt="e sports" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/e-sports.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/e-sports-300x102.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/e-sports-1024x349.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/e-sports-768x262.webp 768w" sizes="(max-width: 1536px) 100vw, 1536px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 52"></noscript>				<div class="overlay" style="background-color:1"></div>							</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<p style="text-align: left;"><strong>E – SPORTS</strong></p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+					</div>
+
+	
+</div>
+<div class="row row-large" id="row-407834818">
+
+	<div id="col-874637929" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+<h2 id="khuyen-mai-noi-bat-cua-nha-cai-11bet" class="ftwp-heading" style="text-align: center;"><strong>KHUYẾN MÃI NỔI BẬT CỦA NHÀ CÁI 11BET</strong></h2>
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="2048" height="418" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202048%20418'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048" alt="hoan the thao" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-2048x418.webp 2048w, https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-300x61.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-1024x209.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-768x157.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-1536x314.webp 1536w" data-lazy-sizes="(max-width: 2048px) 100vw, 2048px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 53" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-2048x418.webp"><noscript><img decoding="async" width="2048" height="418" src="https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-2048x418.webp" class="attachment-2048x2048 size-2048x2048" alt="hoan the thao" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-2048x418.webp 2048w, https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-300x61.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-1024x209.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-768x157.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-the-thao-1536x314.webp 1536w" sizes="(max-width: 2048px) 100vw, 2048px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 53"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-8" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+	<div id="gap-76794366" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-76794366 {
+  padding-top: 30px;
+}
+</style>
+	</div>
+	
+<div class="row row-small" id="row-886813675">
+
+	<div id="col-450875804" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image" style="border-radius:5%;">
+						<div class="image-zoom">
+				<img decoding="async" width="700" height="350" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20350'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048" alt="tuong nap dau" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/tuong-nap-dau.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/tuong-nap-dau-300x150.webp 300w" data-lazy-sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 54" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/tuong-nap-dau.webp"><noscript><img decoding="async" width="700" height="350" src="https://nhacai11bet.link/wp-content/uploads/2024/12/tuong-nap-dau.webp" class="attachment-2048x2048 size-2048x2048" alt="tuong nap dau" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/tuong-nap-dau.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/tuong-nap-dau-300x150.webp 300w" sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 54"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-9" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-1591616500" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image" style="border-radius:5%;">
+						<div class="image-zoom">
+				<img decoding="async" width="700" height="350" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20350'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048" alt="tang tien nap" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/tang-tien-nap.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/tang-tien-nap-300x150.webp 300w" data-lazy-sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 55" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/tang-tien-nap.webp"><noscript><img decoding="async" width="700" height="350" src="https://nhacai11bet.link/wp-content/uploads/2024/12/tang-tien-nap.webp" class="attachment-2048x2048 size-2048x2048" alt="tang tien nap" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/tang-tien-nap.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/tang-tien-nap-300x150.webp 300w" sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 55"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-10" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-991274740" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image" style="border-radius:5%;">
+						<div class="image-zoom">
+				<img decoding="async" width="700" height="350" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20350'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048" alt="sut" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/sut.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/sut-300x150.webp 300w" data-lazy-sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 56" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/sut.webp"><noscript><img decoding="async" width="700" height="350" src="https://nhacai11bet.link/wp-content/uploads/2024/12/sut.webp" class="attachment-2048x2048 size-2048x2048" alt="sut" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/sut.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/sut-300x150.webp 300w" sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 56"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-11" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+</div>
+<div class="row row-small" id="row-1392835014">
+
+	<div id="col-166295558" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image" style="border-radius:5%;">
+						<div class="image-zoom">
+				<img decoding="async" width="700" height="350" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20350'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048" alt="mua tien thuong" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/mua-tien-thuong.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/mua-tien-thuong-300x150.webp 300w" data-lazy-sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 57" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/mua-tien-thuong.webp"><noscript><img decoding="async" width="700" height="350" src="https://nhacai11bet.link/wp-content/uploads/2024/12/mua-tien-thuong.webp" class="attachment-2048x2048 size-2048x2048" alt="mua tien thuong" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/mua-tien-thuong.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/mua-tien-thuong-300x150.webp 300w" sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 57"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-12" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-223122162" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image" style="border-radius:5%;">
+						<div class="image-zoom">
+				<img decoding="async" width="700" height="350" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20350'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048" alt="hoan thua the thao" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-thua-the-thao.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-thua-the-thao-300x150.webp 300w" data-lazy-sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 58" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-thua-the-thao.webp"><noscript><img decoding="async" width="700" height="350" src="https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-thua-the-thao.webp" class="attachment-2048x2048 size-2048x2048" alt="hoan thua the thao" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-thua-the-thao.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/hoan-thua-the-thao-300x150.webp 300w" sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 58"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-13" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-1348317231" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image" style="border-radius:5%;">
+						<div class="image-zoom">
+				<img decoding="async" width="700" height="350" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20350'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048" alt="dua top" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/dua-top.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/dua-top-300x150.webp 300w" data-lazy-sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 59" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/dua-top.webp"><noscript><img decoding="async" width="700" height="350" src="https://nhacai11bet.link/wp-content/uploads/2024/12/dua-top.webp" class="attachment-2048x2048 size-2048x2048" alt="dua top" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/dua-top.webp 700w, https://nhacai11bet.link/wp-content/uploads/2024/12/dua-top-300x150.webp 300w" sizes="(max-width: 700px) 100vw, 700px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 59"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-14" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+</div>
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+						<div class="image-zoom">
+				<img decoding="async" width="2048" height="418" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202048%20418'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048" alt="banner khuyen mai the theo" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-2048x418.webp 2048w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-300x61.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-1024x209.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-768x157.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-1536x314.webp 1536w" data-lazy-sizes="(max-width: 2048px) 100vw, 2048px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 60" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-2048x418.webp"><noscript><img decoding="async" width="2048" height="418" src="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-2048x418.webp" class="attachment-2048x2048 size-2048x2048" alt="banner khuyen mai the theo" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-2048x418.webp 2048w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-300x61.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-1024x209.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-768x157.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/banner-khuyen-mai-the-theo-1536x314.webp 1536w" sizes="(max-width: 2048px) 100vw, 2048px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 60"></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-15" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+		</div>
+					</div>
+
+	
+</div>
+<div class="row row-small" id="row-137924488">
+
+	<div id="col-1000127970" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+			
+<h2 id="huong-dan" class="ftwp-heading" style="text-align: center;"><strong>HƯỚNG DẪN</strong></h2>
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+			<a href="https://nhacai11bet.link/nap-tien-11bet/" data-wpel-link="internal" target="_self" rel="nofollow">			<div class="">
+				<img decoding="async" width="810" height="242" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20810%20242'%3E%3C/svg%3E" class="attachment-original size-original" alt="huong dan nap tien" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-nap-tien.webp 810w, https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-nap-tien-300x90.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-nap-tien-768x229.webp 768w" data-lazy-sizes="(max-width: 810px) 100vw, 810px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 61" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-nap-tien.webp"><noscript><img decoding="async" width="810" height="242" src="https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-nap-tien.webp" class="attachment-original size-original" alt="huong dan nap tien" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-nap-tien.webp 810w, https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-nap-tien-300x90.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-nap-tien-768x229.webp 768w" sizes="(max-width: 810px) 100vw, 810px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 61"></noscript>											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-16" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+	<div id="gap-232129263" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-232129263 {
+  padding-top: 15px;
+}
+</style>
+	</div>
+	
+	<div class="box has-hover   has-hover box-none box-text-bottom">
+
+		<div class="box-image">
+			<a href="https://nhacai11bet.link/rut-tien-11bet/" data-wpel-link="internal" target="_self" rel="nofollow">			<div class="">
+				<img decoding="async" width="810" height="242" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20810%20242'%3E%3C/svg%3E" class="attachment-original size-original" alt="huong dan rut tien" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-rut-tien.webp 810w, https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-rut-tien-300x90.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-rut-tien-768x229.webp 768w" data-lazy-sizes="(max-width: 810px) 100vw, 810px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 62" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-rut-tien.webp"><noscript><img decoding="async" width="810" height="242" src="https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-rut-tien.webp" class="attachment-original size-original" alt="huong dan rut tien" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-rut-tien.webp 810w, https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-rut-tien-300x90.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/huong-dan-rut-tien-768x229.webp 768w" sizes="(max-width: 810px) 100vw, 810px" title="11Bet - Lịch sử 11bet từ khi thành lập đến nay 62"></noscript>											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+<h4 id="a-title-17" class="ftwp-heading">A title</h4>
+<p>Image Box text</p>
+			</div>
+		</div>
+	</div>
+	
+	<div id="gap-1527059424" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-1527059424 {
+  padding-top: 15px;
+}
+</style>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-1373308385" class="col medium-8 small-12 large-8">
+				<div class="col-inner">
+			
+			
+<h2 id="nha-cai-uy-tin-11bet" class="ftwp-heading" style="text-align: center;"><strong>NHÀ CÁI UY TÍN 11BET</strong></h2>
+<div class="row row-small" id="row-65742533">
+
+	<div id="col-1521000059" class="col medium-6 small-12 large-6">
+				<div class="col-inner">
+			
+			
+
+  
+    <div class="row large-columns-1 medium-columns-1 small-columns-1 row-small">
+  <div class="col post-item">
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:5%;">
+  						<div class="image-cover" style="padding-top:60%;">
+							<a href="https://nhacai11bet.link/11bet-online/" class="plain" aria-label="11bet online – Nhà cái uy tín hàng đầu tại Việt Nam" data-wpel-link="internal" target="_self" rel="nofollow">
+								<img decoding="async" width="1917" height="951" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201917%20951'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Giới thiệu nhà cái 11Bet Onl" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl.jpg 1917w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-300x149.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-1024x508.jpg 1024w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-768x381.jpg 768w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-1536x762.jpg 1536w" data-lazy-sizes="(max-width: 1917px) 100vw, 1917px" title="11bet online - Nhà cái uy tín hàng đầu tại Việt Nam 32" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl.jpg"><noscript><img decoding="async" width="1917" height="951" src="https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl.jpg" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Giới thiệu nhà cái 11Bet Onl" srcset="https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl.jpg 1917w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-300x149.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-1024x508.jpg 1024w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-768x381.jpg 768w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-1536x762.jpg 1536w" sizes="(max-width: 1917px) 100vw, 1917px" title="11bet online - Nhà cái uy tín hàng đầu tại Việt Nam 32"></noscript>							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-center is-xsmall">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 id="11bet-online-nha-cai-uy-tin-hang-dau-tai-viet-nam" class="post-title is-large ftwp-heading">
+						<a href="https://nhacai11bet.link/11bet-online/" class="plain" data-wpel-link="internal" target="_self" rel="nofollow">11bet online – Nhà cái uy tín hàng đầu tại Việt Nam</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div></div>
+		</div>
+					</div>
+
+	
+
+	<div id="col-699721596" class="col medium-6 small-12 large-6">
+				<div class="col-inner">
+			
+			
+
+  
+    <div class="row large-columns-1 medium-columns-1 small-columns-1 row-small">
+  <div class="col post-item">
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:5%;width:38%;">
+  						<div class="image-cover" style="padding-top:50%;">
+							<a href="https://nhacai11bet.link/11bet-online/" class="plain" aria-label="11bet online – Nhà cái uy tín hàng đầu tại Việt Nam" data-wpel-link="internal" target="_self" rel="nofollow">
+								<img decoding="async" width="1917" height="951" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201917%20951'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Giới thiệu nhà cái 11Bet Onl" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl.jpg 1917w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-300x149.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-1024x508.jpg 1024w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-768x381.jpg 768w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-1536x762.jpg 1536w" data-lazy-sizes="(max-width: 1917px) 100vw, 1917px" title="11bet online - Nhà cái uy tín hàng đầu tại Việt Nam 33" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl.jpg"><noscript><img decoding="async" width="1917" height="951" src="https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl.jpg" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Giới thiệu nhà cái 11Bet Onl" srcset="https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl.jpg 1917w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-300x149.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-1024x508.jpg 1024w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-768x381.jpg 768w, https://nhacai11bet.link/wp-content/uploads/2022/10/gioi-thieu-nha-cai-11bet-onl-1536x762.jpg 1536w" sizes="(max-width: 1917px) 100vw, 1917px" title="11bet online - Nhà cái uy tín hàng đầu tại Việt Nam 33"></noscript>							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left is-xsmall">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 id="11bet-online-nha-cai-uy-tin-hang-dau-tai-viet-nam-2" class="post-title is-large ftwp-heading">
+						<a href="https://nhacai11bet.link/11bet-online/" class="plain" data-wpel-link="internal" target="_self" rel="nofollow">11bet online – Nhà cái uy tín hàng đầu tại Việt Nam</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:5%;width:38%;">
+  						<div class="image-cover" style="padding-top:50%;">
+							<a href="https://nhacai11bet.link/11bet-net/" class="plain" aria-label="11bet net – Tên miền mới sau 6 năm hoạt động" data-wpel-link="internal" target="_self" rel="nofollow">
+								<img decoding="async" width="1918" height="950" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201918%20950'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Domain 11bet.net - chính chủ" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu.jpg 1918w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu-300x149.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu-1024x507.jpg 1024w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu-768x380.jpg 768w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu-1536x761.jpg 1536w" data-lazy-sizes="(max-width: 1918px) 100vw, 1918px" title="11bet net - Tên miền mới sau 6 năm hoạt động 34" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu.jpg"><noscript><img decoding="async" width="1918" height="950" src="https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu.jpg" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Domain 11bet.net - chính chủ" srcset="https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu.jpg 1918w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu-300x149.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu-1024x507.jpg 1024w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu-768x380.jpg 768w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-11bet-net-chinh-chu-1536x761.jpg 1536w" sizes="(max-width: 1918px) 100vw, 1918px" title="11bet net - Tên miền mới sau 6 năm hoạt động 34"></noscript>							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left is-xsmall">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 id="11bet-net-ten-mien-moi-sau-6-nam-hoat-dong" class="post-title is-large ftwp-heading">
+						<a href="https://nhacai11bet.link/11bet-net/" class="plain" data-wpel-link="internal" target="_self" rel="nofollow">11bet net – Tên miền mới sau 6 năm hoạt động</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:5%;width:38%;">
+  						<div class="image-cover" style="padding-top:50%;">
+							<a href="https://nhacai11bet.link/11bet-pro/" class="plain" aria-label="11Bet pro – Kênh giải trí trực tuyến thịnh hành trên thị trường" data-wpel-link="internal" target="_self" rel="nofollow">
+								<img decoding="async" width="1916" height="949" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201916%20949'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Domain chính chủ 11Bet Pro" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro.jpg 1916w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro-300x149.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro-1024x507.jpg 1024w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro-768x380.jpg 768w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro-1536x761.jpg 1536w" data-lazy-sizes="(max-width: 1916px) 100vw, 1916px" title="11Bet pro – Kênh giải trí trực tuyến thịnh hành trên thị trường 35" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro.jpg"><noscript><img decoding="async" width="1916" height="949" src="https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro.jpg" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Domain chính chủ 11Bet Pro" srcset="https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro.jpg 1916w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro-300x149.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro-1024x507.jpg 1024w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro-768x380.jpg 768w, https://nhacai11bet.link/wp-content/uploads/2022/10/domain-chinh-chu-11bet-pro-1536x761.jpg 1536w" sizes="(max-width: 1916px) 100vw, 1916px" title="11Bet pro – Kênh giải trí trực tuyến thịnh hành trên thị trường 35"></noscript>							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left is-xsmall">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://nhacai11bet.link/11bet-pro/" class="plain" data-wpel-link="internal" target="_self" rel="nofollow">11Bet pro – Kênh giải trí trực tuyến thịnh hành trên thị trường</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div></div>
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+					</div>
+
+	
+</div>
+<div class="row row-large" id="row-711360257">
+
+	<div id="col-2086543107" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+<h2 id="link-truc-tiep-bong-da" class="ftwp-heading" style="text-align: center;"><strong>LINK TRỰC TIẾP BÓNG ĐÁ</strong></h2>
+
+  
+    <div class="row large-columns-3 medium-columns-1 small-columns-1 row-small">
+  <div class="col post-item">
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:5%;">
+  						<div class="image-cover" style="padding-top:56.25%;">
+							<a href="https://nhacai11bet.link/7m/" class="plain" aria-label="7M – Trang soi kèo &amp; cập nhật thông tin bóng đá hàng đầu" data-wpel-link="internal" target="_self" rel="nofollow">
+								<img decoding="async" width="1000" height="599" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20599'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Tại 7M cung cấp thông tin, bảng tỷ lệ kèo chính xác và đầy đủ nhất" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2023/02/tai-7m-cung-cap-thong-tin-bang-ty-le-keo-chinh-xac-va-day-du-nhat.jpg 1000w, https://nhacai11bet.link/wp-content/uploads/2023/02/tai-7m-cung-cap-thong-tin-bang-ty-le-keo-chinh-xac-va-day-du-nhat-300x180.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2023/02/tai-7m-cung-cap-thong-tin-bang-ty-le-keo-chinh-xac-va-day-du-nhat-768x460.jpg 768w" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" title="7M – Trang soi kèo &amp; cập nhật thông tin bóng đá hàng đầu 36" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2023/02/tai-7m-cung-cap-thong-tin-bang-ty-le-keo-chinh-xac-va-day-du-nhat.jpg"><noscript><img decoding="async" width="1000" height="599" src="https://nhacai11bet.link/wp-content/uploads/2023/02/tai-7m-cung-cap-thong-tin-bang-ty-le-keo-chinh-xac-va-day-du-nhat.jpg" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Tại 7M cung cấp thông tin, bảng tỷ lệ kèo chính xác và đầy đủ nhất" srcset="https://nhacai11bet.link/wp-content/uploads/2023/02/tai-7m-cung-cap-thong-tin-bang-ty-le-keo-chinh-xac-va-day-du-nhat.jpg 1000w, https://nhacai11bet.link/wp-content/uploads/2023/02/tai-7m-cung-cap-thong-tin-bang-ty-le-keo-chinh-xac-va-day-du-nhat-300x180.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2023/02/tai-7m-cung-cap-thong-tin-bang-ty-le-keo-chinh-xac-va-day-du-nhat-768x460.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" title="7M – Trang soi kèo &amp; cập nhật thông tin bóng đá hàng đầu 36"></noscript>							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-center is-small">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 id="7m-trang-soi-keo-cap-nhat-thong-tin-bong-da-hang-dau" class="post-title is-large ftwp-heading">
+						<a href="https://nhacai11bet.link/7m/" class="plain" data-wpel-link="internal" target="_self" rel="nofollow">7M – Trang soi kèo &amp; cập nhật thông tin bóng đá hàng đầu</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:5%;">
+  						<div class="image-cover" style="padding-top:56.25%;">
+							<a href="https://nhacai11bet.link/banhkhuc/" class="plain" aria-label="Banhkhuc – Trang xem trực tiếp bóng đá chất lượng cao hàng đầu" data-wpel-link="internal" target="_self" rel="nofollow">
+								<img decoding="async" width="800" height="500" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20500'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Những giải đấu hiện có mặt tại trang bóng đá Banhkhuc" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2023/02/nhung-giai-dau-hien-co-mat-tai-trang-bong-da-banhkhuc.jpg 800w, https://nhacai11bet.link/wp-content/uploads/2023/02/nhung-giai-dau-hien-co-mat-tai-trang-bong-da-banhkhuc-300x188.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2023/02/nhung-giai-dau-hien-co-mat-tai-trang-bong-da-banhkhuc-768x480.jpg 768w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" title="Banhkhuc – Trang xem trực tiếp bóng đá chất lượng cao hàng đầu 37" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2023/02/nhung-giai-dau-hien-co-mat-tai-trang-bong-da-banhkhuc.jpg"><noscript><img decoding="async" width="800" height="500" src="https://nhacai11bet.link/wp-content/uploads/2023/02/nhung-giai-dau-hien-co-mat-tai-trang-bong-da-banhkhuc.jpg" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="Những giải đấu hiện có mặt tại trang bóng đá Banhkhuc" srcset="https://nhacai11bet.link/wp-content/uploads/2023/02/nhung-giai-dau-hien-co-mat-tai-trang-bong-da-banhkhuc.jpg 800w, https://nhacai11bet.link/wp-content/uploads/2023/02/nhung-giai-dau-hien-co-mat-tai-trang-bong-da-banhkhuc-300x188.jpg 300w, https://nhacai11bet.link/wp-content/uploads/2023/02/nhung-giai-dau-hien-co-mat-tai-trang-bong-da-banhkhuc-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" title="Banhkhuc – Trang xem trực tiếp bóng đá chất lượng cao hàng đầu 37"></noscript>							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-center is-small">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 id="banhkhuc-trang-xem-truc-tiep-bong-da-chat-luong-cao-hang-dau" class="post-title is-large ftwp-heading">
+						<a href="https://nhacai11bet.link/banhkhuc/" class="plain" data-wpel-link="internal" target="_self" rel="nofollow">Banhkhuc – Trang xem trực tiếp bóng đá chất lượng cao hàng đầu</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:5%;">
+  						<div class="image-cover" style="padding-top:56.25%;">
+							<a href="https://nhacai11bet.link/ibongda/" class="plain" aria-label="iBongda – Kênh xem trực tiếp bóng đá với tốc độ cao" data-wpel-link="internal" target="_self" rel="nofollow">
+								<img decoding="async" width="725" height="521" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20725%20521'%3E%3C/svg%3E" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="iBongda sở hữu rất nhiều điểm cộng lớn thu hút đông đảo người hâm mộ bóng đá" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2023/02/ibongda-so-huu-rat-nhieu-diem-cong-lon-thu-hut-dong-dao-nguoi-ham-mo-bong-da.jpeg 725w, https://nhacai11bet.link/wp-content/uploads/2023/02/ibongda-so-huu-rat-nhieu-diem-cong-lon-thu-hut-dong-dao-nguoi-ham-mo-bong-da-300x216.jpeg 300w" data-lazy-sizes="(max-width: 725px) 100vw, 725px" title="iBongda - Kênh xem trực tiếp bóng đá với tốc độ cao 38" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2023/02/ibongda-so-huu-rat-nhieu-diem-cong-lon-thu-hut-dong-dao-nguoi-ham-mo-bong-da.jpeg"><noscript><img decoding="async" width="725" height="521" src="https://nhacai11bet.link/wp-content/uploads/2023/02/ibongda-so-huu-rat-nhieu-diem-cong-lon-thu-hut-dong-dao-nguoi-ham-mo-bong-da.jpeg" class="attachment-2048x2048 size-2048x2048 wp-post-image" alt="iBongda sở hữu rất nhiều điểm cộng lớn thu hút đông đảo người hâm mộ bóng đá" srcset="https://nhacai11bet.link/wp-content/uploads/2023/02/ibongda-so-huu-rat-nhieu-diem-cong-lon-thu-hut-dong-dao-nguoi-ham-mo-bong-da.jpeg 725w, https://nhacai11bet.link/wp-content/uploads/2023/02/ibongda-so-huu-rat-nhieu-diem-cong-lon-thu-hut-dong-dao-nguoi-ham-mo-bong-da-300x216.jpeg 300w" sizes="(max-width: 725px) 100vw, 725px" title="iBongda - Kênh xem trực tiếp bóng đá với tốc độ cao 38"></noscript>							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-center is-small">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 id="ibongda-kenh-xem-truc-tiep-bong-da-voi-toc-do-cao" class="post-title is-large ftwp-heading">
+						<a href="https://nhacai11bet.link/ibongda/" class="plain" data-wpel-link="internal" target="_self" rel="nofollow">iBongda – Kênh xem trực tiếp bóng đá với tốc độ cao</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div></div>
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+
+		
+<style>
+#section_1831397217 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(40, 40, 40);
+}
+</style>
+	</section>
+	
+</div>
+		
+</div>
+
+
+
+</main>
+
+<footer id="footer" class="footer-wrapper">
+
+		<section class="section dark" id="section_175415217">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row row-small" id="row-156919518">
+
+
+	<div id="col-907230899" class="col medium-4 small-6 large-4">
+				<div class="col-inner">
+			
+			
+
+	<div class="box has-hover   has-hover box-text-bottom">
+
+		<div class="box-image">
+						<div class="">
+				<img width="500" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20200'%3E%3C/svg%3E" class="attachment- size-" alt="" decoding="async" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me.png 500w, https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me-300x120.png 300w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me.png"><noscript><img width="500" height="200" src="https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me.png" class="attachment- size-" alt="" decoding="async" srcset="https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me.png 500w, https://nhacai11bet.link/wp-content/uploads/2022/09/cuoctai11BET-me-300x120.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></noscript>											</div>
+					</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+
+<p style="text-align: justify;">11bet là một trong những địa chỉ giải trí được rất nhiều người yêu thích. Lịch sử 11bet có mặt trên thị trường từ khá lâu, bắt đầu hoạt động từ 2011 và trở thành một trong những địa chỉ giải trí chiếm được rất nhiều tình cảm từ đông đảo người chơi ở khắp mọi nơi.</p>
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-617963810" class="col medium-5 small-6 large-5">
+				<div class="col-inner">
+			
+			
+
+<h2 style="text-align: center;"><strong>THÔNG TIN</strong></h2>
+	<div class="ux-menu stack stack-col justify-start">
+		
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://nhacai11bet.link" data-wpel-link="internal" target="_self" rel="nofollow">
+			<i class="ux-menu-link__icon text-center icon-map-pin-fill"></i>			<span class="ux-menu-link__text">
+				Địa Chỉ: 801/67 Xô Viết Nghệ Tĩnh, Phường 26, Bình Thạnh, Tp. HCM			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://nhacai11bet.link" data-wpel-link="internal" target="_self" rel="nofollow">
+			<i class="ux-menu-link__icon text-center icon-phone"></i>			<span class="ux-menu-link__text">
+				Hotline: 0927783746			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://nhacai11bet.link" data-wpel-link="internal" target="_self" rel="nofollow">
+			<i class="ux-menu-link__icon text-center icon-envelop"></i>			<span class="ux-menu-link__text">
+				Email: cuoctai11betme@gmail.com			</span>
+		</a>
+	</div>
+	
+
+	<div class="ux-menu-link flex menu-item">
+		<a class="ux-menu-link__link flex" href="https://nhacai11bet.link" data-wpel-link="internal" target="_self" rel="nofollow">
+			<i class="ux-menu-link__icon text-center icon-menu"></i>			<span class="ux-menu-link__text">
+				Website: https://nhacai11bet.link			</span>
+		</a>
+	</div>
+	
+
+
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1724799646" class="col medium-3 small-6 large-3">
+				<div class="col-inner">
+			
+			
+
+<h2 style="text-align: center;"><strong>BẢN ĐỒ</strong></h2>
+
+
+<iframe src="about:blank" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15675.75857914027!2d106.7149324!3d10.8159309!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752912b284d2e9%3A0x914deea804c1beef!2s11Bet!5e0!3m2!1svi!2ssg!4v1678270833405!5m2!1svi!2ssg"></iframe><noscript><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15675.75857914027!2d106.7149324!3d10.8159309!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752912b284d2e9%3A0x914deea804c1beef!2s11Bet!5e0!3m2!1svi!2ssg!4v1678270833405!5m2!1svi!2ssg" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></noscript>
+
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1901769746" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+
+
+  
+    <div class="row large-columns-8 medium-columns-8 small-columns-4 row-small">
+  <div class="gallery-col col">
+          <div class="col-inner">
+                        <div class="box has-hover gallery-box box-default">
+              <div class="box-image" style="width:70%;">
+                <img width="300" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20144'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" data-lazy-srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/go88-300x144.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/go88-1024x493.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/go88-768x370.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/go88-1536x739.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/go88-2048x986.webp 2048w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/go88-300x144.webp"><noscript><img width="300" height="144" src="https://nhacai11bet.link/wp-content/uploads/2024/12/go88-300x144.webp" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" srcset="https://nhacai11bet.link/wp-content/uploads/2024/12/go88-300x144.webp 300w, https://nhacai11bet.link/wp-content/uploads/2024/12/go88-1024x493.webp 1024w, https://nhacai11bet.link/wp-content/uploads/2024/12/go88-768x370.webp 768w, https://nhacai11bet.link/wp-content/uploads/2024/12/go88-1536x739.webp 1536w, https://nhacai11bet.link/wp-content/uploads/2024/12/go88-2048x986.webp 2048w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>                                                              </div>
+              <div class="box-text text-left" style="padding:0px 0px 0px 0px;">
+                 <p></p>
+              </div>
+            </div>
+                      </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+                        <div class="box has-hover gallery-box box-default">
+              <div class="box-image" style="width:70%;">
+                <img width="194" height="80" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20194%2080'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/im.webp"><noscript><img width="194" height="80" src="https://nhacai11bet.link/wp-content/uploads/2024/12/im.webp" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" /></noscript>                                                              </div>
+              <div class="box-text text-left" style="padding:0px 0px 0px 0px;">
+                 <p></p>
+              </div>
+            </div>
+                      </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+                        <div class="box has-hover gallery-box box-default">
+              <div class="box-image" style="width:70%;">
+                <img width="174" height="80" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20174%2080'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/saba.webp"><noscript><img width="174" height="80" src="https://nhacai11bet.link/wp-content/uploads/2024/12/saba.webp" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" /></noscript>                                                              </div>
+              <div class="box-text text-left" style="padding:0px 0px 0px 0px;">
+                 <p></p>
+              </div>
+            </div>
+                      </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+                        <div class="box has-hover gallery-box box-default">
+              <div class="box-image" style="width:70%;">
+                <img width="172" height="80" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2080'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/pg.webp"><noscript><img width="172" height="80" src="https://nhacai11bet.link/wp-content/uploads/2024/12/pg.webp" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" /></noscript>                                                              </div>
+              <div class="box-text text-left" style="padding:0px 0px 0px 0px;">
+                 <p></p>
+              </div>
+            </div>
+                      </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+                        <div class="box has-hover gallery-box box-default">
+              <div class="box-image" style="width:70%;">
+                <img width="187" height="80" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20187%2080'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/bti.webp"><noscript><img width="187" height="80" src="https://nhacai11bet.link/wp-content/uploads/2024/12/bti.webp" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" /></noscript>                                                              </div>
+              <div class="box-text text-left" style="padding:0px 0px 0px 0px;">
+                 <p></p>
+              </div>
+            </div>
+                      </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+                        <div class="box has-hover gallery-box box-default">
+              <div class="box-image" style="width:70%;">
+                <img width="271" height="80" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20271%2080'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/spribe.webp"><noscript><img width="271" height="80" src="https://nhacai11bet.link/wp-content/uploads/2024/12/spribe.webp" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" /></noscript>                                                              </div>
+              <div class="box-text text-left" style="padding:0px 0px 0px 0px;">
+                 <p></p>
+              </div>
+            </div>
+                      </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+                        <div class="box has-hover gallery-box box-default">
+              <div class="box-image" style="width:70%;">
+                <img width="261" height="80" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20261%2080'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/techplay-fishing.webp"><noscript><img width="261" height="80" src="https://nhacai11bet.link/wp-content/uploads/2024/12/techplay-fishing.webp" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" /></noscript>                                                              </div>
+              <div class="box-text text-left" style="padding:0px 0px 0px 0px;">
+                 <p></p>
+              </div>
+            </div>
+                      </div>
+         </div><div class="gallery-col col">
+          <div class="col-inner">
+                        <div class="box has-hover gallery-box box-default">
+              <div class="box-image" style="width:70%;">
+                <img width="292" height="80" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20292%2080'%3E%3C/svg%3E" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" data-lazy-src="https://nhacai11bet.link/wp-content/uploads/2024/12/evolution.webp"><noscript><img width="292" height="80" src="https://nhacai11bet.link/wp-content/uploads/2024/12/evolution.webp" class="attachment-medium size-medium" alt="" ids="1452,1454,1455,1456,1457,1458,1459,1460" style="default" lightbox="false" col_spacing="small" columns="8" columns__sm="4" columns__md="8" image_width="70" text_padding="0px 0px 0px 0px" decoding="async" /></noscript>                                                              </div>
+              <div class="box-text text-left" style="padding:0px 0px 0px 0px;">
+                 <p></p>
+              </div>
+            </div>
+                      </div>
+         </div></div>
+
+
+		</div>
+				
+<style>
+#col-1901769746 > .col-inner {
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px -27px 0px;
+}
+</style>
+	</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_175415217 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(33, 33, 35);
+}
+</style>
+	</section>
+	
+<div class="absolute-footer dark medium-text-center text-center">
+  <div class="container clearfix">
+
+    
+    <div class="footer-primary pull-left">
+              <div class="menu-menu-footer-container"><ul id="menu-menu-footer" class="links footer-nav uppercase"><li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-292"><a rel="nofollow" href="https://nhacai11bet.link/chinh-sach-bao-mat/" data-wpel-link="internal" target="_self">Chính sách bảo mật</a></li>
+</ul></div>            <div class="copyright-footer">
+        Copyright 2026 © <strong>cuoctai11bet.me</strong>      </div>
+          </div>
+  </div>
+</div>
+
+<a href="#top" class="back-to-top button icon invert plain fixed bottom z-1 is-outline hide-for-medium circle" id="top-link" aria-label="Go to top" rel="nofollow"><i class="icon-angle-up"></i></a>
+
+</footer>
+
+</div>
+
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+
+	
+	<div class="sidebar-menu no-scrollbar ">
+
+		
+					<ul class="nav nav-sidebar nav-vertical nav-uppercase" data-tab="1">
+				<li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative is-normal"><form method="get" class="searchform" action="https://nhacai11bet.link/" role="search">
+		<div class="flex-row relative">
+			<div class="flex-col flex-grow">
+	   	   <input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Search…" autocomplete="off">
+			</div>
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Submit">
+					<i class="icon-search"></i>				</button>
+			</div>
+		</div>
+    <div class="live-search-results text-left z-top"><div class="autocomplete-suggestions" style="position: absolute; display: none; max-height: 300px; z-index: 9999;"></div></div>
+</form>
+</div>	</div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-497"><a href="https://nhacai11bet.link/dang-ky-11bet/" data-wpel-link="internal" target="_self" rel="nofollow">Đăng ký</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-498"><a href="https://nhacai11bet.link/nap-tien-11bet/" data-wpel-link="internal" target="_self" rel="nofollow">Nạp tiền</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-499"><a href="https://nhacai11bet.link/rut-tien-11bet/" data-wpel-link="internal" target="_self" rel="nofollow">Rút tiền</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-290"><a href="https://nhacai11bet.link/nha-cai-uy-tin/" data-wpel-link="internal" target="_self" rel="nofollow">Nhà cái uy tín</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400"><a href="https://nhacai11bet.link/link-truc-tiep-bong-da/" data-wpel-link="internal" target="_self" rel="nofollow">Link trực tiếp bóng đá</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-291"><a href="https://nhacai11bet.link/gai-xinh/" data-wpel-link="internal" target="_self" rel="nofollow">Gái xinh</a></li>
+			</ul>
+		
+		
+	</div>
+
+	
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/b88bet/*","/wp-content/themes/flatsome/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>window.addEventListener('DOMContentLoaded', function() {
+jQuery(document).ready(function(){if(jQuery('body.home').length){jQuery('body a').not('a[href$="https://cuoctai11bet.me/"]').not('a[href$="https://cuoctai11bet.me"]').attr('rel','nofollow')}
+});
+});</script>
+
+<!-- Code shortlink -->
+<script>document.querySelectorAll("a[rel]").forEach(a=>a.rel=a.rel.replace(/noreferrer|noopener/gi,"").trim());</script>
+        <!--[if lte IE 9]>
+        <script>
+            'use strict';
+            (function($) {
+                $(document).ready(function() {
+                    $('#ftwp-container').addClass('ftwp-ie9');
+                });
+            })(jQuery);
+        </script>
+        <![endif]-->
+		<script type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index\\.php/)?wp\\-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://nhacai11bet.link","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nhacai11bet.link/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js" defer=""></script>
+<script type="text/javascript" id="flatsome-js-js-extra">
+/* <![CDATA[ */
+var flatsomeVars = {"theme":{"version":"3.17.7"},"ajaxurl":"https://nhacai11bet.link/wp-admin/admin-ajax.php","rtl":"","sticky_height":"70","stickyHeaderHeight":"0","scrollPaddingTop":"0","assets_url":"https://nhacai11bet.link/wp-content/themes/flatsome/assets/","lightbox":{"close_markup":"\u003Cbutton title=\"%title%\" type=\"button\" class=\"mfp-close\"\u003E\u003Csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"\u003E\u003Cline x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"\u003E\u003C/line\u003E\u003Cline x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"\u003E\u003C/line\u003E\u003C/svg\u003E\u003C/button\u003E","close_btn_inside":true},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu","toggleButton":"Toggle"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_disable_deselect":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_limited":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"}};
+//# sourceURL=flatsome-js-js-extra
+/* ]]> */
+</script>
+<script data-minify="1" type="text/javascript" src="https://nhacai11bet.link/wp-content/cache/min/1/wp-content/themes/flatsome/assets/js/flatsome.js?ver=1778228763" id="flatsome-js-js" defer=""></script>
+<script data-minify="1" type="text/javascript" src="https://nhacai11bet.link/wp-content/cache/min/1/wp-content/themes/flatsome/inc/integrations/wp-rocket/flatsome-wp-rocket.js?ver=1778228763" id="flatsome-wp-rocket-js" defer=""></script>
+<script data-minify="1" type="text/javascript" src="https://nhacai11bet.link/wp-content/cache/min/1/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=1778228763" id="flatsome-live-search-js" defer=""></script>
+<script type="text/javascript" id="fixedtoc-js-js-extra">
+/* <![CDATA[ */
+var fixedtocOption = {"showAdminbar":"","inOutEffect":"zoom","isNestedList":"1","isColExpList":"1","showColExpIcon":"1","isAccordionList":"","isQuickMin":"1","isEscMin":"1","isEnterMax":"1","fixedMenu":"","scrollOffset":"10","fixedOffsetX":"10","fixedOffsetY":"0","fixedPosition":"middle-right","contentsFixedHeight":"","inPost":"1","contentsFloatInPost":"none","contentsWidthInPost":"1000","contentsHeightInPost":"","contentsColexpInitMobile":"1","inWidget":"","fixedWidget":"","triggerBorder":"medium","contentsBorder":"none","triggerSize":"50","isClickableHeader":"","debug":"0","postContentSelector":"#ftwp-postcontent","mobileMaxWidth":"768","disappearPoint":"content-bottom","contentsColexpInit":"1"};
+//# sourceURL=fixedtoc-js-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nhacai11bet.link/wp-content/plugins/fixed-toc/frontend/assets/js/ftoc.min.js?ver=3.1.24" id="fixedtoc-js-js" defer=""></script>
+<script type="text/javascript" src="https://nhacai11bet.link/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.12.4" id="heartbeat-js" defer=""></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async="" src="https://nhacai11bet.link/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="play Youtube video"></button>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var e,t,p,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});</script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;b26b79fbb23647c3a1fde683f7d331bb&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+
+
+</body></html>

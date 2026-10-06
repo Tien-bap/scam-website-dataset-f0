@@ -1,0 +1,27 @@
+{
+  "original_url": "https://bulgan-shuukh.mn/Blessing/nnedrive/nedrive/?i=1",
+  "hostname": "bulgan-shuukh.mn",
+  "checked_at": "2026-10-04T14:10:15.679653+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a02df2-d672-7408-8852-aa952577cf1e",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-23T09:28:14.498Z",
+  "scan_original_url": "http://bulgan-shuukh.mn/wp-storage",
+  "final_url": "https://bulgan-shuukh.mn/wp-storage",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 234,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.387,
+  "discovery": {
+    "batch_id": "9d70617a6ba3c92c57213ce97be299f61ce7ffa414dc91095baad7dc4b3a9810",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

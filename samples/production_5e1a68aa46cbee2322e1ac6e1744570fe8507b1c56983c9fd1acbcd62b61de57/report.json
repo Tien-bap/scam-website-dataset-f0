@@ -1,0 +1,27 @@
+{
+  "original_url": "https://landauinsurance.com/doc-via-virtru/virtru-RD538-new_win/off/",
+  "hostname": "landauinsurance.com",
+  "checked_at": "2026-10-04T15:03:12.959153+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fce22-e9f0-71a1-9b39-f2e98a6d429a",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-04T18:57:12.718Z",
+  "scan_original_url": "https://landauinsurance.com/",
+  "final_url": "https://landauinsurance.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 9558,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.674,
+  "discovery": {
+    "batch_id": "ea09de9490a8fb3fa212f74fa63a843015acaa5cf4f535cd9127269ecb333ff5",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

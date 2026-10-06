@@ -1,0 +1,27 @@
+{
+  "original_url": "https://claybornautosales.com/wp-content/index.html",
+  "hostname": "claybornautosales.com",
+  "checked_at": "2026-10-04T14:36:08.013812+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f8f53-9bba-74b8-8a40-e03df1318b1e",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-23T14:14:44.465Z",
+  "scan_original_url": "http://claybornautosales.com/",
+  "final_url": "https://claybornautosales.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3706,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.871,
+  "discovery": {
+    "batch_id": "cb6347e5e7d275d118c2a2887a782e5dd99cde055b60344e7d8595724690a4b4",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

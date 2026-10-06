@@ -1,0 +1,365 @@
+<!DOCTYPE html><html lang="pt-br"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Facebook - entre ou cadastre-se</title>
+	<link rel="shortcut icon" href="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-2-1.png" type="image/x-icon">
+	<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+	<div class="container">
+		<header>
+			<div class="centro">
+				<h2 class="logo" title="Ir para a página inicial do Facebook">
+					<a href="index.htm">facebook</a>
+				</h2>
+	
+				<div class="login">
+					<div class="email">
+						<label class="texto" for="email">Email ou telefone</label>
+						<input type="email" name="email" class="texto">
+					</div>
+					<div class="senha">
+						<label class="texto" for="senha">Senha</label>
+						<input type="password" name="senha" class="texto">
+						<a href="#" class="texto">Esqueceu a conta?</a>
+					</div>
+					<input value="Entrar" id="entrar" type="submit">
+				</div>
+			</div>
+		</header>
+		<main class="principal">
+			<div class="slogan">O Facebook ajuda você a se conectar e
+					compartilhar com as pessoas que fazem parte
+					da sua vida.</div>
+			<figure>
+				<img src="https://static.xx.fbcdn.net/rsrc.php/v3/yi/r/OBaVg52wtTZ.png" alt="logo-meio">
+			</figure>
+			<div class="cadastro">
+				<h2>Abra uma conta</h2>
+				<span>É rápido e fácil.</span>
+
+				<div class="nome-sobrenome">
+					<input type="text" placeholder="Nome" required="">
+					<input type="text" placeholder="Sobrenome" required="">
+				</div>
+				
+				<input class="email-senha-cadastro" type="text" placeholder="Celular ou email" required="">
+				<input class="email-senha-cadastro" type="text" placeholder="Nova senha" required="">
+
+				<div class="nascimento-nome">Data de nascimento</div>
+				<div class="nascimento">
+					<select name="dia" class="dia">
+						<option value="dia">Dia</option>
+						<option>1</option>
+						<option>2</option>
+						<option>3</option>
+						<option>4</option>
+						<option>5</option>
+						<option>6</option>
+						<option>7</option>
+						<option>8</option>
+						<option>9</option>
+						<option>10</option>
+						<option>11</option>
+						<option>12</option>
+						<option>13</option>
+						<option>14</option>
+						<option>15</option>
+						<option>16</option>
+						<option>17</option>
+						<option>18</option>
+						<option>19</option>
+						<option>20</option>
+						<option>21</option>
+						<option>22</option>
+						<option>23</option>
+						<option>24</option>
+						<option>25</option>
+						<option>26</option>
+						<option>27</option>
+						<option>28</option>
+						<option>29</option>
+						<option>30</option>
+						<option>31</option>
+					</select>
+					<select name="mês" class="mes">
+						<option value="mês">Mês</option>
+						<option>Jan</option>
+						<option>Fev</option>
+						<option>Mar</option>
+						<option>Abr</option>
+						<option>Mai</option>
+						<option>Jun</option>
+						<option>Jul</option>
+						<option>Ago</option>
+						<option>Set</option>
+						<option>Out</option>
+						<option>Nov</option>
+						<option>Dez</option>
+					</select>
+					<select name="ano" class="ano">
+						<option value="Ano">Ano</option>
+						<option>2020</option>
+						<option>2019</option>
+						<option>2018</option>
+						<option>2017</option>
+						<option>2016</option>
+						<option>2015</option>
+						<option>2014</option>
+						<option>2013</option>
+						<option>2012</option>
+						<option>2011</option>
+						<option>2010</option>
+						<option>2009</option>
+						<option>2008</option>
+						<option>2007</option>
+						<option>2006</option>
+						<option>2005</option>
+						<option>2004</option>
+						<option>2003</option>
+						<option>2002</option>
+						<option>2001</option>
+						<option>2000</option>
+						<option>1999</option>
+						<option>1998</option>
+						<option>1997</option>
+						<option>1996</option>
+						<option>1995</option>
+						<option>1994</option>
+						<option>1993</option>
+						<option>1992</option>
+						<option>1991</option>
+						<option>1990</option>
+					</select>
+					<div class="ajuda">?</div>
+				</div>
+
+				<div class="genero-nome">Gênero</div>
+				<form class="genero">
+					<span>
+						<input type="radio" name="genero">
+						<label for="genero">Feminino</label> 
+					</span>
+
+					<span>
+						<input type="radio" name="genero"> 
+						<label for="genero">Masculino</label> 
+					</span>
+
+					<span>
+						<input type="radio" name="genero">
+						<label for="genero">Personalizado</label>
+					</span>
+				</form>
+				
+				<div class="ajuda-input">?</div>
+
+				<p class="termos">Ao clicar em Cadastre-se, você concorda com nossos <a href="https://www.facebook.com/legal/terms/update">Termos</a>, <a href="https://www.facebook.com/about/privacy/update">Política de Dados</a> e <a href="https://www.facebook.com/policies/cookies/">Política de Cookies</a>. Você pode receber notificações por SMS e pode cancelar isso quando quiser.</p>
+
+				<button class="botao-cadastrar">Cadastre-se</button>
+				<hr>
+
+				<div class="criar-pagina">
+					<a href="https://www.facebook.com/pages/create/?ref_type=registration_form">Criar uma Página</a> para uma celebridade, banda ou empresa.
+				</div>
+			</div>
+		</main>
+
+		<footer class="rodape">
+			<div class="largura-rodape">
+				<ul class="lista-1">
+					<li class="portugues">Português (Brasil)</li>
+					<li>
+						<a href="#">English (US)</a>
+					</li>
+					<li>
+						<a href="#">Español</a>
+					</li>
+					<li>
+						<a href="#">Français (France)</a>
+					</li>
+					<li>
+						<a href="#">Italiano</a>
+					</li>
+					<li>
+						<a href="#">العربية</a>
+					</li>
+					<li>
+						<a href="#">Deutsch</a>
+					</li>
+					<li>
+						<a href="#">हिन्दी</a>
+					</li>
+					<li>
+						<a href="#">中文(简体)</a>
+					</li>
+					<li>
+						<a href="#">日本語</a>
+					</li>
+					<li>
+						<a href="#" id="mais-idiomas">+</a>
+					</li>
+				</ul>
+				<hr>
+
+				<ul class="lista-2">
+					<li>
+						<a href="#">
+						  Cadastre-se
+						</a>
+					</li>
+					<li>
+						<a href="#">
+					  	Entrar
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Messenger
+						</a>
+					</li>
+					<li>
+						<a href="#">
+						  Facebook Lite
+					  </a>
+					</li>
+					<li>
+					  <a href="#">
+						  Watch
+					  </a>
+					</li>
+					<li>
+						<a href="#">
+							Pessoas
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Páginas
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Categorias de Página
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Locais
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Jogos
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Locais
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Marketplace
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Facebook Pay
+						</a>
+					</li>
+				<ul>
+					<li>
+						<a href="#">
+							Grupos
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Oculus
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Portal
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Instagram
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Local
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Campanhas de arrecadação de fundos
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Serviços
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Sobre
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Criar anúncio
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Criar Página
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Desenvolvedores
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Carreiras
+						</a>
+					</li>					
+				</ul>
+					<li>
+						<a href="#">
+							Privacidade
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Cookies
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Opções de anúncio
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Termos
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							Ajuda
+						</a>
+					</li>
+				</ul>
+
+				<p class="copyrigth">Facebook © 2020</p>
+			</div>
+		</footer>
+	</div>
+
+</body></html>

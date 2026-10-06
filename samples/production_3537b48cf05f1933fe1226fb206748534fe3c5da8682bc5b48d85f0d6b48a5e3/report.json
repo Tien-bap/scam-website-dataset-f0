@@ -1,0 +1,21 @@
+{
+  "original_url": "baoxinviec.shop",
+  "hostname": "baoxinviec.shop",
+  "checked_at": "2026-10-04T10:34:44.274214+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 24,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f02f4-9c5e-7449-a682-d67aa1f60fcc",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-06-26T08:03:43.779Z",
+  "scan_original_url": "http://baoxinviec.shop/",
+  "final_url": "https://baoxinviec.shop/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 30873,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.888
+}

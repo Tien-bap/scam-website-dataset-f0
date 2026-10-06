@@ -1,0 +1,27 @@
+{
+  "original_url": "http://s4nnur-modalsepuluhribu.blogspot.com/",
+  "hostname": "s4nnur-modalsepuluhribu.blogspot.com",
+  "checked_at": "2026-10-04T13:39:24.026955+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 9,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a10511-9e33-75da-a76b-0786abcc4b08",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-10-04T04:00:12.322Z",
+  "scan_original_url": "http://s4nnur-modalsepuluhribu.blogspot.in/",
+  "final_url": "https://s4nnur-modalsepuluhribu.blogspot.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 24201,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.187,
+  "discovery": {
+    "batch_id": "ee34c4e7a562c4af8d7e95b30c4c8a23c1523ec25a28decea5e0a1c244c6dcd3",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "candidate_id": "live_0d82b7e3276456d593cab565b18e8ec477001e320b714c45b848deecd2bc8710",
+  "candidate_sha256": "24c6c7714e8f780833fa943929138d7c952811c7a7285b6af8c38087d7ba03d5",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://americanfamilynetwork.us/review",
+  "requested_url": "http://americanfamilynetwork.us/review",
+  "browser_final_url": "http://americanfamilynetwork.us/review",
+  "source_urls": [
+    "http://americanfamilynetwork.us/review"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 100027,
+      "source_url": "http://americanfamilynetwork.us/review",
+      "source_hostname": "americanfamilynetwork.us",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://americanfamilynetwork.us/review",
+      "final_hostname": "americanfamilynetwork.us",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 32079,
+      "elapsed_ms": 465,
+      "checked_at": "2026-10-05T13:06:51.217917+00:00",
+      "error": null,
+      "normalized_source_url": "http://americanfamilynetwork.us/review",
+      "normalized_final_url": "http://americanfamilynetwork.us/review",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_0d82b7e3276456d593cab565b18e8ec477001e320b714c45b848deecd2bc8710",
+    "representative_source_index": 100027,
+    "representative_source_url": "http://americanfamilynetwork.us/review",
+    "representative_final_url": "http://americanfamilynetwork.us/review",
+    "normalized_final_url": "http://americanfamilynetwork.us/review",
+    "source_hostname": "americanfamilynetwork.us",
+    "final_hostname": "americanfamilynetwork.us",
+    "source_urls": [
+      "http://americanfamilynetwork.us/review"
+    ],
+    "provenance": [
+      {
+        "source_index": 100027,
+        "source_url": "http://americanfamilynetwork.us/review",
+        "source_hostname": "americanfamilynetwork.us",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://americanfamilynetwork.us/review",
+        "final_hostname": "americanfamilynetwork.us",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 32079,
+        "elapsed_ms": 465,
+        "checked_at": "2026-10-05T13:06:51.217917+00:00",
+        "error": null,
+        "normalized_source_url": "http://americanfamilynetwork.us/review",
+        "normalized_final_url": "http://americanfamilynetwork.us/review",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Parked Domain name on Hostinger DNS system",
+  "capture_timestamp": "2026-10-05T14:34:55.536118+00:00",
+  "dom_chars": 32479,
+  "screenshot_bytes": 55320,
+  "dom_sha256": "5291792a430ffb828808e90d5365b79bf6bcb545f888253b0959812ec92aeb22",
+  "screenshot_sha256": "9d10b715c3b2bde000a6329c3d46571baf7c63d0775e86f5891c5829c1bfad00",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [
+    "possible_parking_page"
+  ],
+  "navigation_chain": [
+    {
+      "url": "http://americanfamilynetwork.us/review",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://americanfamilynetwork.us/review",
+    "browser_final_url": "http://americanfamilynetwork.us/review",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 2808
+}

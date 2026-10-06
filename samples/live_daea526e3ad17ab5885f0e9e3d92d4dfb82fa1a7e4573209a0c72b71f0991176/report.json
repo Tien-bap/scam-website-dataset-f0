@@ -1,0 +1,143 @@
+{
+  "candidate_id": "live_daea526e3ad17ab5885f0e9e3d92d4dfb82fa1a7e4573209a0c72b71f0991176",
+  "candidate_sha256": "8f90224c047a926f27da908247896182682bd771bb23252eb7bf18efb723093a",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://247help.app/",
+  "requested_url": "https://247help.app/",
+  "browser_final_url": "https://247help.app/",
+  "source_urls": [
+    "https://247help.app/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 31981,
+      "source_url": "https://247help.app/",
+      "source_hostname": "247help.app",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://247help.app/",
+      "final_hostname": "247help.app",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 1676,
+      "elapsed_ms": 1057,
+      "checked_at": "2026-10-05T12:46:49.445212+00:00",
+      "error": null,
+      "normalized_source_url": "https://247help.app/",
+      "normalized_final_url": "https://247help.app/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_daea526e3ad17ab5885f0e9e3d92d4dfb82fa1a7e4573209a0c72b71f0991176",
+    "representative_source_index": 31981,
+    "representative_source_url": "https://247help.app/",
+    "representative_final_url": "https://247help.app/",
+    "normalized_final_url": "https://247help.app/",
+    "source_hostname": "247help.app",
+    "final_hostname": "247help.app",
+    "source_urls": [
+      "https://247help.app/"
+    ],
+    "provenance": [
+      {
+        "source_index": 31981,
+        "source_url": "https://247help.app/",
+        "source_hostname": "247help.app",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://247help.app/",
+        "final_hostname": "247help.app",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 1676,
+        "elapsed_ms": 1057,
+        "checked_at": "2026-10-05T12:46:49.445212+00:00",
+        "error": null,
+        "normalized_source_url": "https://247help.app/",
+        "normalized_final_url": "https://247help.app/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "timeout",
+  "capture_status": "partial",
+  "technical_complete": true,
+  "title": "247Help",
+  "capture_timestamp": "2026-10-05T14:57:51.019725+00:00",
+  "dom_chars": 1611,
+  "screenshot_bytes": 85005,
+  "dom_sha256": "320e041f11fd6def19ebf8080ee3b7b979386630930c2ef47bb98ae0d7989309",
+  "screenshot_sha256": "767e0807a9e09cf0bc2819e864bf384139d1c79392d8237e4f1356b348f2a0c0",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://247help.app/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://247help.app/",
+    "browser_final_url": "https://247help.app/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": "Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://247help.app/\", waiting until \"domcontentloaded\"\n",
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 16652
+}

@@ -1,0 +1,147 @@
+{
+  "candidate_id": "live_e4ccf4ae05bf187f87971e1d63f185cecb2cec96ad020712d4c36bb1a0947bf2",
+  "candidate_sha256": "9d2a0768b42d9187cd12adc5fae83742f00d5f1efb47d66b604a92656f12d361",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://helps.unaux.com/",
+  "requested_url": "http://helps.unaux.com/",
+  "browser_final_url": "http://helps.unaux.com/?i=1",
+  "source_urls": [
+    "http://helps.unaux.com/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 86506,
+      "source_url": "http://helps.unaux.com/",
+      "source_hostname": "helps.unaux.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://helps.unaux.com/",
+      "final_hostname": "helps.unaux.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 841,
+      "elapsed_ms": 1229,
+      "checked_at": "2026-10-05T13:03:19.219774+00:00",
+      "error": null,
+      "normalized_source_url": "http://helps.unaux.com/",
+      "normalized_final_url": "http://helps.unaux.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_e4ccf4ae05bf187f87971e1d63f185cecb2cec96ad020712d4c36bb1a0947bf2",
+    "representative_source_index": 86506,
+    "representative_source_url": "http://helps.unaux.com/",
+    "representative_final_url": "http://helps.unaux.com/",
+    "normalized_final_url": "http://helps.unaux.com/",
+    "source_hostname": "helps.unaux.com",
+    "final_hostname": "helps.unaux.com",
+    "source_urls": [
+      "http://helps.unaux.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 86506,
+        "source_url": "http://helps.unaux.com/",
+        "source_hostname": "helps.unaux.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://helps.unaux.com/",
+        "final_hostname": "helps.unaux.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 841,
+        "elapsed_ms": 1229,
+        "checked_at": "2026-10-05T13:03:19.219774+00:00",
+        "error": null,
+        "normalized_source_url": "http://helps.unaux.com/",
+        "normalized_final_url": "http://helps.unaux.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Home - My Blog",
+  "capture_timestamp": "2026-10-05T14:59:09.465245+00:00",
+  "dom_chars": 161292,
+  "screenshot_bytes": 353424,
+  "dom_sha256": "63790987113eec7c9696e6499c97d3b0777b28c3aef6b439d7bd036195c7adb2",
+  "screenshot_sha256": "a92114216ab69973317dd35d4623537cda4f7c74993a49511be6dab379612a20",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://helps.unaux.com/",
+      "http_status": 200
+    },
+    {
+      "url": "http://helps.unaux.com/?i=1",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://helps.unaux.com/",
+    "browser_final_url": "http://helps.unaux.com/?i=1",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 9291
+}

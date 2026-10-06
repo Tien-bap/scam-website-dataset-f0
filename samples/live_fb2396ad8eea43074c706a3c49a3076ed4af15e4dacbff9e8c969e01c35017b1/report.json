@@ -1,0 +1,155 @@
+{
+  "candidate_id": "live_fb2396ad8eea43074c706a3c49a3076ed4af15e4dacbff9e8c969e01c35017b1",
+  "candidate_sha256": "e94092e7b7c6ec65ddbdc539d7b32037bbedca45619efd40d093c7956c3923bd",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://mcw77.org",
+  "requested_url": "https://mcw77.org",
+  "browser_final_url": "https://mcw77.org/",
+  "source_urls": [
+    "https://mcw77.org"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1398,
+      "source_url": "https://mcw77.org",
+      "source_hostname": "mcw77.org",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://mcw77.org",
+      "final_hostname": "mcw77.org",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 64329,
+      "elapsed_ms": 898,
+      "checked_at": "2026-10-05T12:18:46.753528+00:00",
+      "error": null,
+      "normalized_source_url": "https://mcw77.org/",
+      "normalized_final_url": "https://mcw77.org/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_fb2396ad8eea43074c706a3c49a3076ed4af15e4dacbff9e8c969e01c35017b1",
+    "representative_source_index": 1398,
+    "representative_source_url": "https://mcw77.org",
+    "representative_final_url": "https://mcw77.org",
+    "normalized_final_url": "https://mcw77.org/",
+    "source_hostname": "mcw77.org",
+    "final_hostname": "mcw77.org",
+    "source_urls": [
+      "https://mcw77.org"
+    ],
+    "provenance": [
+      {
+        "source_index": 1398,
+        "source_url": "https://mcw77.org",
+        "source_hostname": "mcw77.org",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://mcw77.org",
+        "final_hostname": "mcw77.org",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 64329,
+        "elapsed_ms": 898,
+        "checked_at": "2026-10-05T12:18:46.753528+00:00",
+        "error": null,
+        "normalized_source_url": "https://mcw77.org/",
+        "normalized_final_url": "https://mcw77.org/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "MCW 77 – Cổng Cá Cược Trực Tuyến Uy Tín Số 1 Việt Nam",
+  "capture_timestamp": "2026-10-05T16:55:53.572834+00:00",
+  "dom_chars": 64760,
+  "screenshot_bytes": 731927,
+  "dom_sha256": "558c0426823d01ba6424aa59f526f3e69a0281623318df76d01df1908e47081a",
+  "screenshot_sha256": "b32d3458dcdef74c6f762a613f8d8c7fce653bdb7eb58a838704f80770f311cf",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://mcw77.org/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://mcw77.org",
+    "browser_final_url": "https://mcw77.org/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 1
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 3133,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T15:01:13.876643+00:00",
+    "previous_report_sha256": "a2526fdcec21491919bdfab4d72b4d3e9ebf00ee60f851f458addfc1f7d3f410",
+    "recovered_at": "2026-10-05T16:55:53.572834+00:00",
+    "result": "complete"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://pearlfilms.com/longevitylogic/to__.html",
+  "hostname": "pearlfilms.com",
+  "checked_at": "2026-10-04T13:39:56.115804+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0426b-8ebd-7666-8a2e-0776543e171e",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-27T08:52:27.576Z",
+  "scan_original_url": "http://pearlfilms.com/",
+  "final_url": "https://pearlfilms.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 7543,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.296,
+  "discovery": {
+    "batch_id": "460d924d7ed50ff85eb371c2893a45558e9645788ad8678d92b7740467ae389c",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

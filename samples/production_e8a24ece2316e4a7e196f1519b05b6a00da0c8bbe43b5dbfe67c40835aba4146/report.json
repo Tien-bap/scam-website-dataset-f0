@@ -1,0 +1,27 @@
+{
+  "original_url": "http://sainathhospital.com/media/tinymce/plugins/moxiemanager/plugins/BasicAuthenticator/faq03_privacy/openx-2/nofollow.php/usfuq",
+  "hostname": "sainathhospital.com",
+  "checked_at": "2026-10-04T13:59:18.652026+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f95b9-83fc-7251-acb0-37a33ee54e51",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-24T20:03:24.687Z",
+  "scan_original_url": "http://sainathhospital.com/",
+  "final_url": "https://sainathhospital.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 4551,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.242,
+  "discovery": {
+    "batch_id": "d74469934f83da968c6cd0513146deebc55679f0f6bf5d2c6654ecb2dc3db605",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

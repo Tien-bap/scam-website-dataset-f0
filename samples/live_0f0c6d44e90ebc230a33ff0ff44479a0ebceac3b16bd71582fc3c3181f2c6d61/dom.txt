@@ -1,0 +1,225 @@
+<!DOCTYPE html><html dir="ltr" lang="en-gb" slick-uniqueid="3"><head>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes" name="viewport">
+<meta content="true" name="HandheldFriendly">
+<meta content="YES" name="apple-mobile-web-app-capable">
+<meta charset="utf-8">
+
+<meta content="Joomla! - Open Source Content Management" name="generator">
+<title>Home</title>
+
+
+<link href="/templates/beez3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="/index.php/component/search__q_001c88820c/index.bin" rel="search" title="Search Dr. Afrouz Haghbin" type="application/opensearchdescription+xml">
+<link href="/templates/system/css/system__q_6143c96726.css" rel="stylesheet">
+<link href="/templates/beez3/css/position__q_6143c96726.css" rel="stylesheet">
+<link href="/templates/beez3/css/layout__q_6143c96726.css" rel="stylesheet">
+<link href="/templates/beez3/css/print__q_6143c96726.css" media="print" rel="stylesheet">
+<link href="/templates/beez3/css/general__q_6143c96726.css" rel="stylesheet">
+<link href="/templates/beez3/css/personal__q_6143c96726.css" rel="stylesheet">
+<!--[if IE 7]><link href="/templates/beez3/css/ie7only.css?ccb6d6340d193577042e1f92d85a6020" rel="stylesheet" /><![endif]-->
+<style>
+div.mod_search87 input[type="search"]{ width:auto; }
+	</style>
+<script class="joomla-script-options loaded" type="application/json">{"csrf.token":"36df0d065b04b821e6a71902459efc87","system.paths":{"root":"","base":""},"joomla.jtext":{"TPL_BEEZ3_ALTOPEN":"is open","TPL_BEEZ3_ALTCLOSE":"is closed","TPL_BEEZ3_TEXTRIGHTOPEN":"Open info","TPL_BEEZ3_TEXTRIGHTCLOSE":"Close info","TPL_BEEZ3_FONTSIZE":"Font Size","TPL_BEEZ3_BIGGER":"Bigger","TPL_BEEZ3_RESET":"Reset","TPL_BEEZ3_SMALLER":"Smaller","TPL_BEEZ3_INCREASE_SIZE":"Increase size","TPL_BEEZ3_REVERT_STYLES_TO_DEFAULT":"Revert styles to default","TPL_BEEZ3_DECREASE_SIZE":"Decrease size","TPL_BEEZ3_OPENMENU":"Open Menu","TPL_BEEZ3_CLOSEMENU":"Close Menu"}}</script>
+<script src="/media/jui/js/jquery.min__q_6143c96726.js"></script>
+<script src="/media/jui/js/jquery-noconflict__q_6143c96726.js"></script>
+<script src="/media/jui/js/jquery-migrate.min__q_6143c96726.js"></script>
+<script src="/media/system/js/caption__q_6143c96726.js"></script>
+<script src="/media/system/js/mootools-core__q_6143c96726.js"></script>
+<script src="/media/system/js/core__q_6143c96726.js"></script>
+<script src="/media/system/js/mootools-more__q_6143c96726.js"></script>
+<script src="/media/jui/js/bootstrap.min__q_6143c96726.js"></script>
+<script src="/templates/beez3/javascript/md_stylechanger__q_6143c96726.js"></script>
+<script src="/templates/beez3/javascript/hide__q_6143c96726.js"></script>
+<script src="/templates/beez3/javascript/respond.src__q_6143c96726.js"></script>
+<script src="/templates/beez3/javascript/template__q_6143c96726.js"></script>
+<!--[if lt IE 9]><script src="/media/jui/js/html5.js?ccb6d6340d193577042e1f92d85a6020"></script><![endif]-->
+<!--[if lt IE 9]><script src="/media/system/js/html5fallback.js?ccb6d6340d193577042e1f92d85a6020"></script><![endif]-->
+<script>
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	var big        = '72%';
+	var small      = '53%';
+	var bildauf    = '/templates/beez3/images/plus.png';
+	var bildzu     = '/templates/beez3/images/minus.png';
+	var rightopen  = 'Open info';
+	var rightclose = 'Close info';
+	var altopen    = 'is open';
+	var altclose   = 'is closed';
+
+	</script>
+</head>
+<body id="shadow" style="font-size: 100%;">
+<div id="all">
+<div id="back">
+<header id="header">
+<div class="logoheader">
+<h1 id="logo">
+<img alt="Dr. Haghbin" src="/images/header1.jpg">
+<span class="header1">
+</span></h1>
+</div><!-- end logoheader -->
+<ul class="skiplinks">
+<li><a class="u2" href="#main">Skip to content</a></li>
+<li><a class="u2" href="#nav">Jump to main navigation and login</a></li>
+<li><a class="u2" href="#right">Jump to additional information</a></li>
+</ul>
+<h2 class="unseen">Nav view search</h2>
+<h3 class="unseen">Navigation</h3>
+<div id="line">
+<div id="fontsize"><h3>Font Size</h3><p><a title="Increase size" href="#" onclick="changeFontSize(2); return false">Bigger</a><span class="unseen">.</span><a href="#" title="Revert styles to default" onclick="revertStyles(); return false">Reset</a><span class="unseen">.</span><a href="#" title="Decrease size" onclick="changeFontSize(-2); return false">Smaller</a></p></div>
+<h3 class="unseen">Search</h3>
+<div class="search mod_search87">
+<form action="/index.php" class="form-inline" method="post" role="search">
+<label class="element-invisible" for="mod-search-searchword87">Search ...</label> <input class="inputbox search-query input-medium" id="mod-search-searchword87" maxlength="200" name="searchword" placeholder="Search ..." size="20" type="search"> <input name="task" type="hidden" value="search">
+<input name="option" type="hidden" value="com_search">
+<input name="Itemid" type="hidden" value="101">
+</form>
+</div>
+</div> <!-- end line -->
+</header><!-- end header -->
+<div id="contentarea2">
+<div id="breadcrumbs">
+<div class="breadcrumbs">
+<span class="showHere">You are here: </span><span>Home</span></div>
+</div>
+<nav class="left1" id="nav" role="navigation">
+<div class="moduletable_menu">
+<h3>Main Menu</h3>
+<ul class="nav menu mod-list">
+<li class="item-101 default current active"><a href="/index.php/">Home</a></li><li class="item-103"><a href="/index.php/about-me/">About Me</a></li><li class="item-102 parent"><a href="/index.php/courses/">Courses</a></li><li class="item-110"><a href="https://scholar.google.com/citations?user=iVyj_CgAAAAJ&amp;hl=en" rel="noopener noreferrer" target="_blank">Publication</a></li><li class="item-112"><a href="/index.php/researches/">Research</a></li><li class="item-106"><a href="/index.php/links/">Links</a></li></ul>
+</div>
+<div class="moduletable_js"><h3 class="js_heading"> Usefull files for students <a class="opencloselink" href="#" id="link_90" onclick="auf('module_90'); return false" title="select" role="tab" aria-controls="module_90"> <span class="no"><img alt="is closed" src="/templates/beez3/images/plus.png">
+</span></a></h3> <div class="module_content" id="module_90" tabindex="-1" role="tabpanel" aria-labelledby="link_90" aria-expanded="false" style="display: none;">
+<div class="custom">
+<p>» <a href="/usefull files for students/PhD proposal acceptance procedure.pdf" target="_blank">PhD proposal acceptance procedure</a><br> »&nbsp;<a href="/usefull files for students/proposal_ms93-9-9-.doc" target="_blank">MS thesis proposal form</a><br> »&nbsp;<a href="/usefull files for students/proposal93-9-9_MS_how.doc" target="_blank">MS thesis proposal form (howto)</a><br> »&nbsp;<a href="/usefull files for students/2013-JCR-Published Sep. 2014.xls" target="_blank">Journal Citation Reports</a></p></div>
+</div>
+</div>
+</nav><!-- end navi -->
+<div id="wrapper">
+<div id="main" role="main">
+<div id="system-message-container">
+</div>
+<section class="blog-featured">
+<div class="items-leading">
+<article class="leading-0">
+<h2>
+<a href="/index.php/about-me/">
+			Introduction</a>
+</h2>
+<div class="pull-left"></div>
+<div class="img-intro-right">
+<img alt="" src="/courses/images.jpg">
+</div>
+<p>This website is constructed by <strong>Dr. Afrooz Haghbin</strong> to help the students finding some required educational contents in Electrical Engineering. Also, some related research materials are presented here.</p>
+<p class="readmore">
+<a href="/index.php/about-me/">
+					Read more ...</a>
+</p>
+<div class="item-separator"></div>
+</article>
+</div>
+<div class="items-row cols-3 row-0">
+<article class="item column-1">
+<h2>
+<a href="/index.php/2-uncategorised/13-news-events/">
+			News &amp; Events</a>
+</h2>
+<div class="pull-left"></div>
+<div><span style="color: #ff0000;"></span></div>
+<div>&nbsp;</div>
+<p><a href="/index.php/courses/graduate-courses/1-stochastic-processes/">Stochastic Processes, Assignment #8</a></p>
+<p><a href="/index.php/courses/graduate-courses/2-information-theory-ii-channel-coding/">Information Theory II, Assignment #7</a></p>
+<p>&nbsp;</p>
+<div class="item-separator"></div>
+</article>
+<span class="row-separator"></span>
+</div>
+</section>
+</div><!-- end main -->
+</div><!-- end wrapper -->
+<div id="close">
+<a href="#" onclick="auf('right')">
+<span id="bild">
+								Close info							</span>
+</a>
+</div>
+<aside id="right" role="contentinfo">
+<h2 class="unseen">Additional information</h2>
+<div class="moduletable">
+<h3>Graduate Courses</h3>
+<ul class="category-module mod-list">
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/graduate-courses/4-advanced-theory-of-communications/">Advanced Theory of Communications</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/graduate-courses/2-information-theory-ii-channel-coding/">Channel Coding</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/graduate-courses/5-detection-and-estimation-theory/">Detection and Estimation Theory</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/graduate-courses/19-estimation-theory/">Estimation Theory</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/graduate-courses/3-information-theory-i/">Information Theory I</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/graduate-courses/6-matrix-calculations/">Matrix Calculations</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/graduate-courses/16-research-methodology/">Research Methodology</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/graduate-courses/1-stochastic-processes/">Stochastic Processes</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/graduate-courses/14-topics-in-digital-communications/">Topics in Digital Communications</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/graduate-courses/15-wireless-communications/">Wireless Communications</a>
+</li>
+</ul>
+</div>
+<div class="moduletable">
+<h3>Undergraduate Courses</h3>
+<ul class="category-module mod-list">
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/under-graduate-courses/23-differential-equations/">Differential Equations</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/under-graduate-courses/7-communications-systems-ii/">Digital Communications</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/under-graduate-courses/8-electrical-circuits-i/">Electrical Circuits I</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/under-graduate-courses/21-introduction-to-electrical-engineering/">Introduction to Electrical Engineering</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/under-graduate-courses/9-principles-of-electrical-engineering-i/">Principles of Electrical Eng. I</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/under-graduate-courses/10-principles-of-electrical-engineering-lab-i/">Principles of Electrical Eng. Lab I</a>
+</li>
+<li>
+<a class="mod-articles-category-title" href="/index.php/courses/under-graduate-courses/22-probability-and-statistics/">Probability and Statistics</a>
+</li>
+</ul>
+</div>
+</aside><!-- end right -->
+<div class="wrap"></div>
+</div> <!-- end contentarea -->
+</div><!-- back -->
+</div><!-- all -->
+<div id="footer-outer">
+<div id="footer-sub">
+<footer id="footer">
+</footer><!-- end footer -->
+</div>
+</div>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;6c38f7a54143475c85cea410cc54fa5b&quot;,&quot;r&quot;:1,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+</body></html>

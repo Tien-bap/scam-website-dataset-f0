@@ -1,0 +1,27 @@
+{
+  "original_url": "http://southwindbuilders.com/kkkkkkkkkkkkkkkk/",
+  "hostname": "southwindbuilders.com",
+  "checked_at": "2026-10-04T16:00:10.662196+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fa95a-1800-709d-a473-aae83002574b",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-28T15:31:38.737Z",
+  "scan_original_url": "https://southwindbuilders.com/",
+  "final_url": "https://www.southwindbuilders.com/?d=southwindbuilders.com",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 1117,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.052,
+  "discovery": {
+    "batch_id": "96e9fe932a70e8278f46863c27c1938e162692238648861663ba7ada8783dd4c",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

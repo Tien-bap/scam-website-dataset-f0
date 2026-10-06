@@ -1,0 +1,27 @@
+{
+  "original_url": "https://rkbanking.com/logs/update-your-account-information/security-measure/log-in/",
+  "hostname": "rkbanking.com",
+  "checked_at": "2026-10-04T13:42:54.658751+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fb810-4f3d-7058-b1de-04ec292d726f",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-31T12:05:15.822Z",
+  "scan_original_url": "https://rkbanking.com/",
+  "final_url": "https://rkbanking.com/lander",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 553,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.638,
+  "discovery": {
+    "batch_id": "dc4fcc308e5a05322949174e6469974302e1f6a8d9715fe1932f5d6d35e43b78",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

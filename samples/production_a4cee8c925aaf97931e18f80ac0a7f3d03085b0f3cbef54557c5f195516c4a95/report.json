@@ -1,0 +1,27 @@
+{
+  "original_url": "https://linkneverdie.net",
+  "hostname": "linkneverdie.net",
+  "checked_at": "2026-10-04T13:34:37.194331+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f553a-d23f-77d1-b255-3d47e436bccd",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-12T07:29:12.587Z",
+  "scan_original_url": "https://linkneverdie.net/vietnamese-games/?p=1",
+  "final_url": "https://linkneverdie.net/vietnamese-games/?p=1",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 102877,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 4.515,
+  "discovery": {
+    "batch_id": "88304fb32f971f030fd79a69b918e4299d2346f58e8160995c7f9b315ba5e2b9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

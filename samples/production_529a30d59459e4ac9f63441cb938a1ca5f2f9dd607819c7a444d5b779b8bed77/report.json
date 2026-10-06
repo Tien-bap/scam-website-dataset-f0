@@ -1,0 +1,21 @@
+{
+  "original_url": "mc-credition.online",
+  "hostname": "mc-credition.online",
+  "checked_at": "2026-10-04T10:35:07.277092+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "4110119b-c074-4c29-bfa1-c0c3e0049754",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2024-11-13T00:02:03.700Z",
+  "scan_original_url": "https://mc-credition.online/",
+  "final_url": "https://mc-credition.online/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 102,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 5.008
+}

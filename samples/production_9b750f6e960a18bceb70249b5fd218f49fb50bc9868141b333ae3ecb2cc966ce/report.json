@@ -1,0 +1,27 @@
+{
+  "original_url": "https://cashonyourmobile.net.au/wp/wp-admin/htt/httd/?email=",
+  "hostname": "cashonyourmobile.net.au",
+  "checked_at": "2026-10-04T13:57:44.852852+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0a37a-23f2-7048-91b0-f10e871c145b",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-15T05:11:34.051Z",
+  "scan_original_url": "http://cashonyourmobile.net.au/car-loans/htt2021/httd/result",
+  "final_url": "https://cashonyourmobile.net.au/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 10337,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 19.008,
+  "discovery": {
+    "batch_id": "068e589cf0d03ef0e2d7b3eb8b9e88ca8d8892c961f8f80dff29a38547122cff",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "https://gnosisargentina.org.ar/uoyy/index.php/",
+  "hostname": "gnosisargentina.org.ar",
+  "checked_at": "2026-10-04T15:04:05.800870+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a05286-a81f-7290-a387-04e75b85d597",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-08-30T11:56:01.399Z",
+  "scan_original_url": "http://gnosisargentina.org.ar/",
+  "final_url": "https://gnosisargentina.org.ar/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3496,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.798,
+  "discovery": {
+    "batch_id": "a44cb711a8101fb7a94c6b54a15cb5875a2e24991a91dfe3b9170bb846921b19",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "http://www.lnstagrem.com/i/",
+  "hostname": "www.lnstagrem.com",
+  "checked_at": "2026-10-04T14:33:04.022273+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f65ac-e675-743a-ada0-3d540536f9f2",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-15T12:07:45.558Z",
+  "scan_original_url": "http://www.lnstagrem.com/",
+  "final_url": "https://www.lnstagrem.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 804,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.395,
+  "discovery": {
+    "batch_id": "eac33d382f12b34b7a615ca447bc5dfca7d4590caec67ebf11774d6575af04f5",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

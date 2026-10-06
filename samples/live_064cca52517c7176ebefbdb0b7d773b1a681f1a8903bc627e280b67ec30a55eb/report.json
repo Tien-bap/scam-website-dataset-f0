@@ -1,0 +1,240 @@
+{
+  "candidate_id": "live_064cca52517c7176ebefbdb0b7d773b1a681f1a8903bc627e280b67ec30a55eb",
+  "candidate_sha256": "c3291d974e76bbe485c1312b0940ace2e9113bff3b38783d03509c6458adabec",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "https://go88m.us",
+  "requested_url": "https://000go8.com/",
+  "browser_final_url": "https://000go8.com/",
+  "source_urls": [
+    "https://go88m.us"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 1753,
+      "source_url": "https://go88m.us",
+      "source_hostname": "go88m.us",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://000go8.com/",
+      "final_hostname": "000go8.com",
+      "redirect_count": 1,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 2555,
+      "checked_at": "2026-10-05T12:19:07.174990+00:00",
+      "error": null,
+      "normalized_source_url": "https://go88m.us/",
+      "normalized_final_url": "https://000go8.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_064cca52517c7176ebefbdb0b7d773b1a681f1a8903bc627e280b67ec30a55eb",
+    "representative_source_index": 1753,
+    "representative_source_url": "https://go88m.us",
+    "representative_final_url": "https://000go8.com/",
+    "normalized_final_url": "https://000go8.com/",
+    "source_hostname": "go88m.us",
+    "final_hostname": "000go8.com",
+    "source_urls": [
+      "https://go88m.us"
+    ],
+    "provenance": [
+      {
+        "source_index": 1753,
+        "source_url": "https://go88m.us",
+        "source_hostname": "go88m.us",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://000go8.com/",
+        "final_hostname": "000go8.com",
+        "redirect_count": 1,
+        "content_type": "text/html; charset=UTF-8",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 2555,
+        "checked_at": "2026-10-05T12:19:07.174990+00:00",
+        "error": null,
+        "normalized_source_url": "https://go88m.us/",
+        "normalized_final_url": "https://000go8.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "commit_salvaged",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Go8 [Go8.com]🎖️TRANG CHỦ CHÍNH THỨC GÔ8 - ĐKÝ, NẠP +86K",
+  "capture_timestamp": "2026-10-06T02:41:56.143871+00:00",
+  "dom_chars": 107695,
+  "screenshot_bytes": 1180784,
+  "dom_sha256": "e7fc760061374bbbbd0501150c12af369eff28d952e6d81a1ed32cc7a7aa4c9e",
+  "screenshot_sha256": "caef0cf86f2938e261ecca12917a2d55c01c200a47b9f8e137549a9b42521c2f",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://000go8.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://000go8.com/",
+    "browser_final_url": "https://000go8.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "resource": 4,
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "dom_source": "rendered",
+  "recovery_strategy": "commit_fallback",
+  "timeline": [
+    {
+      "event": "context created",
+      "timestamp": "2026-10-06T02:41:56.204638+00:00",
+      "elapsed_ms": 65
+    },
+    {
+      "event": "goto(commit) start",
+      "timestamp": "2026-10-06T02:41:56.313741+00:00",
+      "elapsed_ms": 174
+    },
+    {
+      "event": "HTTP response: 200 https://000go8.com/",
+      "timestamp": "2026-10-06T02:41:58.541185+00:00",
+      "elapsed_ms": 2401
+    },
+    {
+      "event": "response committed",
+      "timestamp": "2026-10-06T02:41:58.554280+00:00",
+      "elapsed_ms": 2414
+    },
+    {
+      "event": "goto end: commit_failed",
+      "timestamp": "2026-10-06T02:41:58.554303+00:00",
+      "elapsed_ms": 2414
+    },
+    {
+      "event": "settle start",
+      "timestamp": "2026-10-06T02:41:58.554316+00:00",
+      "elapsed_ms": 2414
+    },
+    {
+      "event": "settle end",
+      "timestamp": "2026-10-06T02:42:02.555782+00:00",
+      "elapsed_ms": 6416
+    },
+    {
+      "event": "page.url: https://000go8.com/ HTTP: 200",
+      "timestamp": "2026-10-06T02:42:02.557423+00:00",
+      "elapsed_ms": 6418
+    },
+    {
+      "event": "title start",
+      "timestamp": "2026-10-06T02:42:02.557447+00:00",
+      "elapsed_ms": 6418
+    },
+    {
+      "event": "title end",
+      "timestamp": "2026-10-06T02:42:02.584343+00:00",
+      "elapsed_ms": 6444
+    },
+    {
+      "event": "content start",
+      "timestamp": "2026-10-06T02:42:02.584365+00:00",
+      "elapsed_ms": 6444
+    },
+    {
+      "event": "content end",
+      "timestamp": "2026-10-06T02:42:02.613135+00:00",
+      "elapsed_ms": 6473
+    },
+    {
+      "event": "screenshot start",
+      "timestamp": "2026-10-06T02:42:02.613527+00:00",
+      "elapsed_ms": 6474
+    },
+    {
+      "event": "screenshot end",
+      "timestamp": "2026-10-06T02:42:03.016412+00:00",
+      "elapsed_ms": 6877
+    },
+    {
+      "event": "context close start",
+      "timestamp": "2026-10-06T02:42:03.073406+00:00",
+      "elapsed_ms": 6934
+    },
+    {
+      "event": "context close end",
+      "timestamp": "2026-10-06T02:42:03.099296+00:00",
+      "elapsed_ms": 6959
+    }
+  ],
+  "artifact_errors": [],
+  "elapsed_ms": 6959,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T16:32:54.021806+00:00",
+    "previous_report_sha256": "e47b52b4ab1d94d346b9198f487a6e023c3a18dd702ee81e8e89e7eb058504b1",
+    "recovered_at": "2026-10-06T02:41:56.143871+00:00",
+    "result": "commit_salvaged"
+  }
+}

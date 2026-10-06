@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_31e9c1b972a83b9f8f067adde28f5fc7c59d4006f8887ecbf06c8f1a3701b9a8",
+  "candidate_sha256": "9774eda1a633fd2857a4477c03e121e332c2027a6658d08110a8ccec06993e51",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "en.hanami.co.th",
+  "requested_url": "https://en.hanami.co.th",
+  "browser_final_url": "https://en.hanami.co.th/",
+  "source_urls": [
+    "en.hanami.co.th"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 21,
+      "source_url": "en.hanami.co.th",
+      "source_hostname": "en.hanami.co.th",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://en.hanami.co.th",
+      "final_hostname": "en.hanami.co.th",
+      "redirect_count": 0,
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 39313,
+      "elapsed_ms": 628,
+      "checked_at": "2026-10-05T12:17:32.367268+00:00",
+      "error": null,
+      "normalized_source_url": "https://en.hanami.co.th/",
+      "normalized_final_url": "https://en.hanami.co.th/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_31e9c1b972a83b9f8f067adde28f5fc7c59d4006f8887ecbf06c8f1a3701b9a8",
+    "representative_source_index": 21,
+    "representative_source_url": "en.hanami.co.th",
+    "representative_final_url": "https://en.hanami.co.th",
+    "normalized_final_url": "https://en.hanami.co.th/",
+    "source_hostname": "en.hanami.co.th",
+    "final_hostname": "en.hanami.co.th",
+    "source_urls": [
+      "en.hanami.co.th"
+    ],
+    "provenance": [
+      {
+        "source_index": 21,
+        "source_url": "en.hanami.co.th",
+        "source_hostname": "en.hanami.co.th",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://en.hanami.co.th",
+        "final_hostname": "en.hanami.co.th",
+        "redirect_count": 0,
+        "content_type": "text/html; charset=utf-8",
+        "bytes_sampled": 39313,
+        "elapsed_ms": 628,
+        "checked_at": "2026-10-05T12:17:32.367268+00:00",
+        "error": null,
+        "normalized_source_url": "https://en.hanami.co.th/",
+        "normalized_final_url": "https://en.hanami.co.th/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Home - ฮานามิ",
+  "capture_timestamp": "2026-10-05T14:39:32.778226+00:00",
+  "dom_chars": 40691,
+  "screenshot_bytes": 721479,
+  "dom_sha256": "299f83e7283296e18a17eb33e1d8cebd3d2d2467dd030055842b08edffa0d6d5",
+  "screenshot_sha256": "9a1d08254e1f1bd5755931346837b2666cf8420b7fc0f1eccd085809155351e5",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://en.hanami.co.th/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://en.hanami.co.th",
+    "browser_final_url": "https://en.hanami.co.th/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 2
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 3553
+}

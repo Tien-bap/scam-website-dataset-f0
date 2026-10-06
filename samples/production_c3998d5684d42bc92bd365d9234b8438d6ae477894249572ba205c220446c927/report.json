@@ -1,0 +1,27 @@
+{
+  "original_url": "http://socioemprendedor.com/wp-softdocs",
+  "hostname": "socioemprendedor.com",
+  "checked_at": "2026-10-04T14:58:16.455190+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019f8e8c-3028-76fd-a926-13cc6185ba3a",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-07-23T10:36:56.583Z",
+  "scan_original_url": "http://socioemprendedor.com/",
+  "final_url": "https://www.socioemprendedor.com/carrito/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 698,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 48.015,
+  "discovery": {
+    "batch_id": "d69bf9aae9ffeb482d2956dff9c6a7b8e72d15eea8c07f829d0bd02ca9157ff0",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

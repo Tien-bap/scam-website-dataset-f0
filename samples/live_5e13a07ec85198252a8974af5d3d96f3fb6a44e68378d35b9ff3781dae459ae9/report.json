@@ -1,0 +1,155 @@
+{
+  "candidate_id": "live_5e13a07ec85198252a8974af5d3d96f3fb6a44e68378d35b9ff3781dae459ae9",
+  "candidate_sha256": "5a9474f8a7e6ce46669d4d4dc615f0f2033c04ec79d5336af82bbfc8644b4dc0",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://mudevuong.net/",
+  "requested_url": "https://mudevuong.net/",
+  "browser_final_url": "https://mudevuong.net/",
+  "source_urls": [
+    "http://mudevuong.net/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 15366,
+      "source_url": "http://mudevuong.net/",
+      "source_hostname": "mudevuong.net",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://mudevuong.net/",
+      "final_hostname": "mudevuong.net",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 26584,
+      "elapsed_ms": 754,
+      "checked_at": "2026-10-05T12:41:55.827613+00:00",
+      "error": null,
+      "normalized_source_url": "http://mudevuong.net/",
+      "normalized_final_url": "https://mudevuong.net/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_5e13a07ec85198252a8974af5d3d96f3fb6a44e68378d35b9ff3781dae459ae9",
+    "representative_source_index": 15366,
+    "representative_source_url": "http://mudevuong.net/",
+    "representative_final_url": "https://mudevuong.net/",
+    "normalized_final_url": "https://mudevuong.net/",
+    "source_hostname": "mudevuong.net",
+    "final_hostname": "mudevuong.net",
+    "source_urls": [
+      "http://mudevuong.net/"
+    ],
+    "provenance": [
+      {
+        "source_index": 15366,
+        "source_url": "http://mudevuong.net/",
+        "source_hostname": "mudevuong.net",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://mudevuong.net/",
+        "final_hostname": "mudevuong.net",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 26584,
+        "elapsed_ms": 754,
+        "checked_at": "2026-10-05T12:41:55.827613+00:00",
+        "error": null,
+        "normalized_source_url": "http://mudevuong.net/",
+        "normalized_final_url": "https://mudevuong.net/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "MU ĐẾ VƯƠNG - MU ONLINE - MU MIỄN PHÍ - MU MỚI RA - OPEN NGÀY 08/09/2026 - wWw.MuDeVuong.Com - Mu Season 6",
+  "capture_timestamp": "2026-10-05T16:39:06.048490+00:00",
+  "dom_chars": 27467,
+  "screenshot_bytes": 1404747,
+  "dom_sha256": "e5330feb7a8ed727bdb4e38763894c1d0b6533653aad77d26a59fa4a8e6ce4ec",
+  "screenshot_sha256": "665ad2c3745840fcff882c0ed1eb02d16a86f8c424394dce496f1a1d0bec8e11",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://mudevuong.net/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://mudevuong.net/",
+    "browser_final_url": "https://mudevuong.net/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 4
+  },
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 6789,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:43:57.375367+00:00",
+    "previous_report_sha256": "3bb6886708d1cbfd02664157cb5230de29fcf310105773067c16fd36295b4b27",
+    "recovered_at": "2026-10-05T16:39:06.048490+00:00",
+    "result": "complete"
+  }
+}

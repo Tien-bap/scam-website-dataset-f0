@@ -1,0 +1,21 @@
+{
+  "original_url": "vtp-vandon.online",
+  "hostname": "vtp-vandon.online",
+  "checked_at": "2026-10-04T10:33:49.569014+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 3,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01958297-a8ba-7001-82b4-2148113f3507",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-11T00:25:40.004Z",
+  "scan_original_url": "http://vtp-vandon.online/",
+  "final_url": "https://vtp-vandon.online/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 401,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 6.73
+}

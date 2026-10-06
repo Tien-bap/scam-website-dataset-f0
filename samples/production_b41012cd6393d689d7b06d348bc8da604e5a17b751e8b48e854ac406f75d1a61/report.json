@@ -1,0 +1,27 @@
+{
+  "original_url": "https://earthmd.ca/loggs/",
+  "hostname": "earthmd.ca",
+  "checked_at": "2026-10-04T15:36:17.150472+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 18,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0c3a8-6ccc-763f-a8f5-86e67d1bca9d",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-21T11:09:59.033Z",
+  "scan_original_url": "http://earthmd.ca/",
+  "final_url": "https://www.earthmd.ca/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 2609,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 49.119,
+  "discovery": {
+    "batch_id": "24d8a97916514f7e1b22205d540c456a6ba827de90c38d609f604c4113fdcff9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

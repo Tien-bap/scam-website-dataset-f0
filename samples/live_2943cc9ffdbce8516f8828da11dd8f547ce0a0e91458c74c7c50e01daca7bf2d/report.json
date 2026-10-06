@@ -1,0 +1,155 @@
+{
+  "candidate_id": "live_2943cc9ffdbce8516f8828da11dd8f547ce0a0e91458c74c7c50e01daca7bf2d",
+  "candidate_sha256": "4ce2e23912d56cb4aedc7fb2e11c0b5d71b624377b61eed976f7b1065938a1da",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://45.9.148.110/",
+  "requested_url": "http://45.9.148.110/",
+  "browser_final_url": "http://45.9.148.110/#/index",
+  "source_urls": [
+    "http://45.9.148.110/"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 76082,
+      "source_url": "http://45.9.148.110/",
+      "source_hostname": "45.9.148.110",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://45.9.148.110/",
+      "final_hostname": "45.9.148.110",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 1054,
+      "elapsed_ms": 471,
+      "checked_at": "2026-10-05T12:59:56.761767+00:00",
+      "error": null,
+      "normalized_source_url": "http://45.9.148.110/",
+      "normalized_final_url": "http://45.9.148.110/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_2943cc9ffdbce8516f8828da11dd8f547ce0a0e91458c74c7c50e01daca7bf2d",
+    "representative_source_index": 76082,
+    "representative_source_url": "http://45.9.148.110/",
+    "representative_final_url": "http://45.9.148.110/",
+    "normalized_final_url": "http://45.9.148.110/",
+    "source_hostname": "45.9.148.110",
+    "final_hostname": "45.9.148.110",
+    "source_urls": [
+      "http://45.9.148.110/"
+    ],
+    "provenance": [
+      {
+        "source_index": 76082,
+        "source_url": "http://45.9.148.110/",
+        "source_hostname": "45.9.148.110",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://45.9.148.110/",
+        "final_hostname": "45.9.148.110",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 1054,
+        "elapsed_ms": 471,
+        "checked_at": "2026-10-05T12:59:56.761767+00:00",
+        "error": null,
+        "normalized_source_url": "http://45.9.148.110/",
+        "normalized_final_url": "http://45.9.148.110/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "BSP",
+  "capture_timestamp": "2026-10-05T16:35:50.464225+00:00",
+  "dom_chars": 106432,
+  "screenshot_bytes": 271020,
+  "dom_sha256": "da691493488e6c0d506ecd7ecddec519dda49aa42868e9f6576a2974e0aac25b",
+  "screenshot_sha256": "df58f821aed40b0d5583e85284f28b78f5f973fcbf47f51f13e629e085345102",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://45.9.148.110/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://45.9.148.110/",
+    "browser_final_url": "http://45.9.148.110/#/index",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 4
+  },
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 6330,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:38:20.965196+00:00",
+    "previous_report_sha256": "ce3305e945276c7e265e710f8b633c51298c91e89eaa9f2f0221c07ae206f6b2",
+    "recovered_at": "2026-10-05T16:35:50.464225+00:00",
+    "result": "complete"
+  }
+}

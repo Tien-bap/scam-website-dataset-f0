@@ -1,0 +1,1740 @@
+<head>
+    
+    <!-- Google Tag Manager -->
+    <script type="text/javascript" async="" src="https://capi-automation.s3.us-east-2.amazonaws.com/public/client_js/capiParamBuilder/clientParamBuilder.bundle.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-%5Bobject%20Object%5D&amp;cx=c&amp;gtm=4e68q1"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://connect.facebook.net/signals/config/615084810003191?v=2.9.385&amp;r=stable&amp;domain=gnosisargentina.org.ar&amp;hme=1a72ec78e057d90ba48afa55a82b063b1c9b6ab7c0155009fecc72226a622ed2&amp;ex_m=113%2C218%2C164%2C25%2C78%2C79%2C156%2C74%2C73%2C11%2C174%2C98%2C19%2C148%2C136%2C43%2C81%2C86%2C144%2C169%2C176%2C29%2C17%2C30%2C31%2C32%2C34%2C52%2C157%2C83%2C121%2C21%2C23%2C48%2C44%2C46%2C45%2C91%2C100%2C104%2C119%2C155%2C158%2C50%2C120%2C27%2C24%2C128%2C75%2C40%2C160%2C159%2C161%2C152%2C150%2C28%2C39%2C63%2C118%2C171%2C76%2C20%2C123%2C89%2C72%2C22%2C93%2C94%2C125%2C92%2C146%2C145%2C149%2C105%2C170%2C173%2C38%2C53%2C122%2C51%2C8%2C4%2C5%2C7%2C6%2C3%2C99%2C110%2C177%2C185%2C232%2C80%2C245%2C244%2C243%2C14%2C26%2C37%2C59%2C112%2C65%2C10%2C69%2C106%2C107%2C108%2C114%2C139%2C35%2C33%2C141%2C142%2C143%2C138%2C137%2C165%2C82%2C168%2C166%2C167%2C54%2C64%2C132%2C18%2C172%2C49%2C293%2C294%2C292%2C307%2C329%2C225%2C214%2C66%2C215%2C213%2C332%2C323%2C56%2C226%2C116%2C140%2C88%2C130%2C58%2C129%2C135%2C134%2C62%2C70%2C68%2C162%2C84%2C85%2C124%2C41%2C36%2C57%2C60%2C109%2C175%2C1%2C133%2C16%2C131%2C12%2C2%2C61%2C101%2C15%2C71%2C67%2C127%2C97%2C96%2C178%2C179%2C102%2C103%2C9%2C111%2C55%2C153%2C95%2C87%2C77%2C126%2C115%2C47%2C154%2C0%2C90%2C147%2C151%2C163%2C42%2C117%2C13%2C180" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-YXTHZHS05Z&amp;cx=c&amp;gtm=4e68q1"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T58MH9P"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T58MH9P');</script>
+    <!-- End Google Tag Manager -->
+    
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Inicio | Gnosis Argentina | Auto-Conocimiento</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+    <!-- Place favicon.ico in the root directory -->
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="https://gnosisargentina.org.ar/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://gnosisargentina.org.ar/css/aos.min.css">
+    <link rel="stylesheet" href="https://gnosisargentina.org.ar/css/icofont.min.css">
+    <link rel="stylesheet" href="https://gnosisargentina.org.ar/css/glightbox.min.css">
+    <link rel="stylesheet" href="https://gnosisargentina.org.ar/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="https://gnosisargentina.org.ar/css/style_front.css?v=1762873178">
+
+
+        <!--script>
+        if (!("theme-color" in localStorage)) {
+            localStorage.setItem("theme-color", "dark");
+        }
+        // On page load or when changing themes, best to add inline in `head` to avoid FOUC
+        if (localStorage.getItem("theme-color") === "dark" || (!("theme-color" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+          document.documentElement.classList.add("is_dark");
+        } 
+        if (localStorage.getItem("theme-color") === "light") {
+          document.documentElement.classList.remove("is_dark");
+        } 
+    </script-->
+    
+    <script>
+        localStorage.setItem("theme-color", "light");
+    </script>
+    
+            <!-- Open Graph: para Facebook, WhatsApp, LinkedIn, etc. -->
+<meta property="og:title" content="Gnosis Argentina">
+<meta property="og:description" content="Únete a Gnosis Argentina
+Disfruta de nuestro contenido sobre Autoconocimiento
+Acceso 100% libre">
+<meta property="og:image" content="https://gnosisargentina.org.ar/storage/Tipo_de_elemento/9wlqm8LNJ74k9xUcUELao8WuTV0FzSYjECnbioF9.jpeg">
+<meta property="og:url" content="https://gnosisargentina.org.ar">
+<meta property="og:type" content="website">
+
+<!-- Twitter Card: para mejor visualización en X (Twitter) -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Gnosis Argentina">
+<meta name="twitter:description" content="Únete a Gnosis Argentina
+Disfruta de nuestro contenido sobre Autoconocimiento
+Acceso 100% libre">
+<meta name="twitter:image" content="https://gnosisargentina.org.ar/storage/Tipo_de_elemento/9wlqm8LNJ74k9xUcUELao8WuTV0FzSYjECnbioF9.jpeg">
+<meta name="twitter:url" content="https://gnosisargentina.org.ar">    
+
+
+</head><body class="body__wrapper" data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="0">
+    
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T58MH9P"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- PRELOADER -->
+    <!--div id="back__preloader">
+        <div id="back__circle_loader"></div>
+        <div class="back__loader_logo">
+            <img loading="lazy"  src="https://gnosisargentina.org.ar/img/pre.png" alt="Preload">
+        </div>
+    </div-->
+    <!-- PRELOADER -->
+    
+
+    <!-- Dark/Light area start -->
+    <!--div class="mode_switcher my_switcher">
+        <button id="light--to-dark-button" class="light align-items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ionicon dark__mode" viewBox="0 0 512 512"><path d="M160 136c0-30.62 4.51-61.61 16-88C99.57 81.27 48 159.32 48 248c0 119.29 96.71 216 216 216 88.68 0 166.73-51.57 200-128-26.39 11.49-57.38 16-88 16-119.29 0-216-96.71-216-216z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
+
+            <svg xmlns="http://www.w3.org/2000/svg" class="ionicon light__mode" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M256 48v48M256 416v48M403.08 108.92l-33.94 33.94M142.86 369.14l-33.94 33.94M464 256h-48M96 256H48M403.08 403.08l-33.94-33.94M142.86 142.86l-33.94-33.94"/><circle cx="256" cy="256" r="80" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32"/></svg>
+
+            <span class="light__mode">Light</span>
+            <span class="dark__mode">Dark</span>
+        </button>
+    </div-->
+    <!-- Dark/Light area end -->
+
+
+    <main class="main_wrapper overflow-hidden">
+
+                <!-- BANNER SUPERIOR TEMAS  -->
+
+            <div class="header__animate__search">
+                <select id="concepto-selector" name="concepto" class="form-control">
+                    <option value="">Elegí un tema</option>
+                    <option value="6">Introducción y Fundamentos de la Gnosis</option>
+                    <option value="9">Psicología Gnóstica y Autoconocimiento</option>
+                    <option value="10">Reencarnación, Karma y Leyes Cósmicas</option>
+                    <option value="1">Antropología y Cosmología Gnóstica</option>
+                    <option value="2">Aplicación Social, Ética y Educación</option>
+                    <option value="3">Arte, Cultura y Simbolismo Esotérico</option>
+                    <option value="4">Cábala, Alquimia y Magia</option>
+                    <option value="5">Cristología y Misticismo Universal</option>
+                    <option value="7">Metafísica, Ciencias Ocultas y Fenómenos Internos</option>
+                    <option value="8">Prácticas Internas y Disciplina Esotérica</option>
+                </select>
+            </div>
+
+            <div class="header__animate">
+                <div class="container-fluid">
+
+                    <div class="header__animate__wraper">
+
+                        <div class="header__animate__item">
+                            <img src="https://gnosisargentina.org.ar/brand/brand__4.png" alt="">
+                            <h3>MEDITACION</h3>
+                        </div>
+
+                        <div class="header__animate__item">
+                            <img src="https://gnosisargentina.org.ar/brand/brand__4.png" alt="">
+                            <h3>KARMA Y DHARMA</h3>
+                        </div>
+
+                        <div class="header__animate__item">
+                            <img src="https://gnosisargentina.org.ar/brand/brand__4.png" alt="">
+                            <h3>REENCARNACION Y RETORNO</h3>
+                        </div>
+
+                        <div class="header__animate__item">
+                            <img src="https://gnosisargentina.org.ar/brand/brand__4.png" alt="">
+                            <h3>SUEÑOS Y VIAJES ASTRALES</h3>
+                        </div>
+
+                        <div class="header__animate__item">
+                            <img src="https://gnosisargentina.org.ar/brand/brand__4.png" alt="">
+                            <h3>AUTOCONOCIMIENTO</h3>
+                        </div>
+
+                        <div class="header__animate__item">
+                            <img src="https://gnosisargentina.org.ar/brand/brand__4.png" alt="">
+                            <h3>LEYES METAFISICAS</h3>
+                        </div>
+
+                        <div class="header__animate__item">
+                            <img src="https://gnosisargentina.org.ar/brand/brand__4.png" alt="">
+                            <h3>TAROT Y KABALA</h3>
+                        </div>
+
+                        <div class="header__animate__item">
+                            <img src="https://gnosisargentina.org.ar/brand/brand__4.png" alt="">
+                            <h3>DESPERTAR CONCIENCIA</h3>
+                        </div>
+
+                        <div class="header__animate__item">
+                            <img src="https://gnosisargentina.org.ar/brand/brand__4.png" alt="">
+                            <h3>ELEMENTALES DE LA NATURALEZA</h3>
+                        </div>
+                        
+                        <div class="header__animate__item">
+                            <img src="https://gnosisargentina.org.ar/brand/brand__4.png" alt="">
+                            <h3>ALQUIMIA Y TRANSMUTACION</h3>
+                        </div>
+                    
+                    </div> 
+
+                </div>
+            </div>
+        <!-- BANNER SUPERIOR TEMAS  -->
+
+        
+        <!-- MENUS -->
+            <!-- header__start -->
+            <header>
+            
+                <div class="headerarea headerarea--3 headerarea__display__none header__sticky bg__black">
+                    
+                    <!-- MENU ESCRITORIO -->
+                    <div class="container desktop__menu__wrapper">
+                        <div class="headerarea__main__wrapper headerarea__main__wrapper--3 position-relative">
+
+                            <div class="headerarea__component__wrap">
+                                <div class="headerarea__component">
+                                    <div class="headerarea__logo">
+                                    <a href="https://gnosisargentina.org.ar/home"><img src="https://gnosisargentina.org.ar/img/logo/Logo_1.png" alt="Gnosis Argentina Logo"></a>
+                                    </div>
+                                </div>
+
+
+
+                                <div class="headerarea__component">
+                                    <div class="headerarea__main__menu">
+                                        <nav>
+                                            <ul>
+                                                <li><a href="https://gnosisargentina.org.ar/home">INICIO</a></li>
+                                                <li><a href="https://gnosisargentina.org.ar/cursos">CURSOS</a></li>
+                                                <li><a href="https://gnosisargentina.org.ar/eventos">EVENTOS</a></li>
+                                                <li><a href="https://gnosisargentina.org.ar/meditacion">MEDITACIÓN</a></li>
+
+                                                <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown">SEDES<i class="icofont-long-arrow-down"></i></a>
+                                                    <ul class="headerarea__submenu headerarea__submenu--five--wrap">
+                                                        <li><a href="https://gnosisargentina.org.ar/sedes/argentina">SEDES EN ARGENTINA</a></li>
+                                                        <li><a href="https://gnosisargentina.org.ar/sedes/internacionales">SEDES INTERNACIONALES</a></li>
+                                                        <li><a href="https://gnosisargentina.org.ar/grupos-de-whatsapp/argentina">GRUPO DE WHATSAPP</a></li>
+                                                        <!--li><a href="https://gnosisargentina.org.ar/quiero-participar/argentina">QUIERO PARTICIPAR</a></li-->
+                                                    </ul>
+
+                                                </li>
+                                                <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown">MAS<i class="icofont-long-arrow-down"></i></a>
+
+
+                                                    <ul class="headerarea__submenu headerarea__submenu--five--wrap">
+
+                                                        <li>
+                                                            <a>AUDIO<i class="icofont-long-arrow-right"></i></a>
+                                            
+                                                            <ul class="headerarea__submenu--five">
+                                                                <li><a href="https://gnosisargentina.org.ar/audio-libros">AUDIO LIBROS</a></li>
+                                                                <li><a href="https://gnosisargentina.org.ar/mp3">MP3s</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li>
+                                                            <a>LIBROS Y DOCs<i class="icofont-long-arrow-right"></i></a>
+                                            
+                                                            <ul class="headerarea__submenu--five">
+                                                                <li><a href="https://gnosisargentina.org.ar/libros">LIBROS</a></li>
+                                                                <li><a href="https://gnosisargentina.org.ar/pdfs">PDFs</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li>
+                                                            <a>TV Y RADIO<i class="icofont-long-arrow-right"></i></a>
+                                            
+                                                            <ul class="headerarea__submenu--five">
+                                                                <li><a href="https://gnosisargentina.org.ar/streaming">STREAMING</a></li>
+                                                                <li><a href="https://gnosisargentina.org.ar/programas-tv">PROGRAMAS DE TV</a></li>
+                                                                <li><a href="https://gnosisargentina.org.ar/programas-radiales">PROGRAMAS DE RADIO</a></li>
+                                                                <li><a href="https://gnosisargentina.org.ar/entrevistas-radiales">ENTREVISTAS DE RADIO</a></li>
+                                                                <li><a href="https://gnosisargentina.org.ar/entrevistas-tv">ENTREVISTAS EN TV</a></li>
+                                                                <li><a href="https://gnosisargentina.org.ar/documentales">DOCUMENTALES</a></li>
+                                                            </ul>
+                                                
+                                                        </li>
+                                                        <li>
+                                                            <a>APPs<i class="icofont-long-arrow-right"></i></a>
+                                            
+                                                            <ul class="headerarea__submenu--five">
+                                                                <li><a href="https://gnosisargentina.org.ar/landing/33/app-consultar-mis-suenios" target="_blank">CONSULTAR MIS SUEÑOS</a></li>
+                                                                <li><a href="https://gnosisargentina.org.ar/landing/34/app-kabala-y-numerologia" target="_blank">CONSULTAR MI DESTINO</a></li>
+                                                                <li><a href="https://gnosisargentina.org.ar/landing/35/diccionario-esoterico" target="_blank">DICCIONARIO ESOTÉRICO</a></li>
+                                                            </ul>
+                                                
+                                                        </li>
+                                                        <li><a href="https://gnosisargentina.org.ar/preguntas">PREGUNTAS</a></li>
+                                                        <li><a href="https://gnosisargentina.org.ar/clases-en-vivo">CLASES EN VIVO</a></li>
+                                                        <!--li><a href="https://gnosisargentina.org.ar/blog/articulos/todos/todos">BLOG</a></li-->
+                                                        <li><a href="https://gnosisargentina.org.ar/practicas">PRACTICAS</a></li>
+                                                        <li><a href="https://gnosisargentina.org.ar/testimonios">TESTIMONIOS</a></li>
+                                                        <li><a href="https://gnosisargentina.org.ar/podcast" target="_blank">PODCAST</a></li>
+                                                    </ul>
+
+                                                </li>
+
+
+                                                <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown">NOSOTROS<i class="icofont-long-arrow-down"></i></a>
+                                                    <ul class="headerarea__submenu headerarea__submenu--five--wrap">
+                                                        <li><a href="https://gnosisargentina.org.ar/nosotros">QUIENES SOMOS</a></li>
+                                                        <li><a href="https://gnosisargentina.org.ar/ver/380/cv-institucional" target="_blank">CV INSTITUCIONAL</a></li>
+                                                    </ul>
+
+                                                </li>
+                                            
+                                                        <li><a href="https://gnosisargentina.org.ar/contactowa" target="_blank">CONTACTO</a></li>
+                                            
+                                            </ul>
+                                        </nav>
+                                    </div>
+                                </div>
+
+                                <div class="headerarea__component">
+                                    <div class="headerarea__right">
+                                        <div class="headerarea__cart__wraper">
+                                            <div class="headerarea__cart__icon">
+                                                <a href="https://gnosisargentina.org.ar/contactowa">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="2 -2 10 24" fill="currentColor" class="bi bi-whatsapp">
+                                                      <path d="M13.601 2.326A7.85 7.85 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.9 7.9 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.9 7.9 0 0 0 13.6 2.326zM7.994 14.521a6.6 6.6 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.56 6.56 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592m3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.73.73 0 0 0-.529.247c-.182.198-.691.677-.691 1.654s.71 1.916.81 2.049c.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232"></path>
+                                                    </svg>
+                                                </a>
+                                            </div>
+
+
+                                            
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- MENU ESCRITORIO -->
+
+
+                    <!-- CONTENEDOR MENU CELULAR -->
+                    <div class="mob_menu_wrapper container-fluid">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="offcanvas__header--menu__open ">
+                                <a class="offcanvas__header--menu__open--btn" href="javascript:void(0)" data-offcanvas="">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="ionicon offcanvas__header--menu__open--svg" viewBox="0 0 512 512"><path fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M80 160h352M80 256h352M80 352h352"></path></svg>
+                                    <span class="visually-hidden">Offcanvas Menu Open</span>
+                                </a>
+                            </div>
+                            <div class="mobile__log">
+                                <div class="mobile__log--title"><a class="mobile__log--link" href="home">
+                                    <img class="mobile__log--img" src="https://gnosisargentina.org.ar/img/logo/Logo_1.png" alt="logo-img">
+                                </a></div>
+                            </div>
+
+                            <div class="headerarea__component mobile__component__right">
+                                <div class="headerarea__right">
+                                    <div class="headerarea__cart__wraper">
+                                        <div class="headerarea__cart__icon">
+                                            <a href="https://gnosisargentina.org.ar/contactowa"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 16 16">
+                                              <path d="M13.601 2.326A7.85 7.85 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.9 7.9 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.9 7.9 0 0 0 13.6 2.326zM7.994 14.521a6.6 6.6 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.56 6.56 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592m3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.73.73 0 0 0-.529.247c-.182.198-.691.677-.691 1.654s.71 1.916.81 2.049c.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232"></path>
+                                            </svg></a>
+                                        </div>
+
+
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- CONTENEDOR MENU CELULAR -->
+
+
+                </div>
+            </header>
+            <!-- header__end -->
+
+                
+            <!-- OPCIONES MENU CELULAR Start Offcanvas header menu -->
+            <div class="offcanvas__header">
+                <div class="offcanvas__inner">
+                    <div class="offcanvas__logo">
+                        <a class="offcanvas__logo_link" href="home">
+                            <img src="https://gnosisargentina.org.ar/img/logo/Logo_2.png" alt="Logo-img">
+                        </a>
+                        <button class="offcanvas__close--btn" data-offcanvas="">Cerrar</button>
+                    </div>
+                    <nav class="offcanvas__menu">
+                        <ul class="offcanvas__menu_ul">
+                            <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/home">Inicio</a></li>
+                            <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/cursos">Cursos</a></li>
+                            <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/eventos">Eventos</a></li>
+                            <li class="offcanvas__menu_li">
+                                <a class="offcanvas__menu_item">Sedes</a>
+                                <ul class="offcanvas__sub_menu">
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/sedes/argentina" class="offcanvas__sub_menu_item">Seddes en Argentina</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/sedes/internacionales" class="offcanvas__sub_menu_item">Sedes Internacionales</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/grupos-de-whatsapp/argentina" class="offcanvas__sub_menu_item">GRUPO DE WHATSAPP</a></li>
+                                    <!--li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/quiero-participar/argentina" class="offcanvas__sub_menu_item">Quiero participar</a></li-->
+                                </ul>
+                            <button class="offcanvas__sub_menu_toggle"></button></li>
+                            <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/meditacion">Meditación</a></li>
+                            <li class="offcanvas__menu_li">
+                                <a class="offcanvas__menu_item">Audios</a>
+                                <ul class="offcanvas__sub_menu">
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/audio-libros" class="offcanvas__sub_menu_item">Audio Libros</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/mp3" class="offcanvas__sub_menu_item">MP3s</a></li>
+                                </ul>
+                            <button class="offcanvas__sub_menu_toggle"></button></li>
+                            <li class="offcanvas__menu_li">
+                                <a class="offcanvas__menu_item">Libros y Docs</a>
+                                <ul class="offcanvas__sub_menu">
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/libros" class="offcanvas__sub_menu_item">Libros</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/pdfs" class="offcanvas__sub_menu_item">PDFs</a></li>
+                                </ul>
+                            <button class="offcanvas__sub_menu_toggle"></button></li>
+                            <li class="offcanvas__menu_li">
+                                <a class="offcanvas__menu_item">TV y Radio</a>
+                                <ul class="offcanvas__sub_menu">
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/streaming" class="offcanvas__sub_menu_item">Streaming</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/programas-tv" class="offcanvas__sub_menu_item">Programas de TV</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/programas-radiales" class="offcanvas__sub_menu_item">Programas de Radio</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/entrevistas-radiales" class="offcanvas__sub_menu_item">Entrevistas de Radio</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/entrevistas-tv" class="offcanvas__sub_menu_item">Entrevistas en TV</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/documentales" class="offcanvas__sub_menu_item">Documentales</a></li>
+                                </ul>
+                            <button class="offcanvas__sub_menu_toggle"></button></li>
+                            <li class="offcanvas__menu_li">
+                                <a class="offcanvas__menu_item">APPs</a>
+                                <ul class="offcanvas__sub_menu">
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/landing/33/app-consultar-mis-suenios" class="offcanvas__sub_menu_item">Consultar mis Sueños</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/landing/34/app-kabala-y-numerologia" class="offcanvas__sub_menu_item">Consultar mi destino</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/landing/35/app-diccionario-esoterico" class="offcanvas__sub_menu_item">Diccionario Esotérico</a></li>
+                                </ul>
+                            <button class="offcanvas__sub_menu_toggle"></button></li>
+                            <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/preguntas">Preguntas</a></li>
+                            <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/clases-en-vivo">Clases En Vivo</a></li>
+                            <!--li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/blog/articulos/todos/todos">Blog</a></li-->
+                            <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/practicas">Prácticas</a></li>
+                            <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/testimonios">Testimonios</a></li>
+                            <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/podcast" target="_blank">Podcast</a></li>
+                            <li class="offcanvas__menu_li">
+                                <a class="offcanvas__menu_item">Nosotros</a>
+                                <ul class="offcanvas__sub_menu">
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/nosotros" class="offcanvas__sub_menu_item">Quienes Somos</a></li>
+                                    <li class="offcanvas__sub_menu_li"><a href="https://gnosisargentina.org.ar/ver/380/cv-institucional" class="offcanvas__sub_menu_item" target="_blank">CV Institucional</a></li>
+                                </ul>
+                            <button class="offcanvas__sub_menu_toggle"></button></li>                            
+                            <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="https://gnosisargentina.org.ar/contactowa" target="_blank">Contacto</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <!-- OPCIONES MENU CELULAR End Offcanvas header menu -->
+        <!-- MENUS -->
+            
+
+        
+  <!-- theme fixed shadow -->
+  <div>
+      <div class="theme__shadow__circle"></div>
+      <div class="theme__shadow__circle shadow__right"></div>
+  </div>
+  <!-- theme fixed shadow -->
+
+  <!-- herobanner__section__start -->
+  <div class="herobanner herobanner--3">
+
+          <div class="herobanner__wrapper">
+
+
+              <div class="herobanner__slider__active swiper slider__bg__position swiper-initialized swiper-horizontal swiper-backface-hidden">
+                  <div class="swiper-wrapper" id="swiper-wrapper-d6ad22918196929b" aria-live="polite" style="cursor: grab;">
+
+                      <div class="herobanner__single swiper-slide position-relative swiper-slide-active" style="background: url(&quot;https://gnosisargentina.org.ar/storage/Tipo_de_elemento/arm8ZDJXuqnrezpkKD8aBCx8ZDsusEEXUdkUyzht.jpeg&quot;); width: 1600px;" role="group" aria-label="1 / 2">
+                          <div class="container">
+                              <div class="row align-items-center height__950">
+                                  <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-8 col-sm-12 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1500">
+                                      <div class="herobanner__content__wrapper">
+                                          <div class="herobanner__title herobanner__title--mid">
+                                              <h1><span class="ht__white__bg">GNOSIS ARGENTINA</span>  <span style="color: #000;">un espacio para quienes </span><span class="ht__gradient__bg"> buscan UN CAMBIO PROFUNDO</span><span class="text__gradient"></span></h1>
+                                          </div>
+                                          <!--div class="herobanner__text">
+                                              <p>Un conocimiento vivencial para descubrir quiénes somos, de dónde venimos y hacia dónde vamos. Explorá el autoconocimiento, la meditación y las enseñanzas universales de las grandes culturas espirituales. Si sentís que la vida tiene un sentido más profundo, este espacio es para vos.</p>
+                                          </div-->
+                                          <div class="herobanner__button">
+                                              <a class="default__button" href="https://gnosisargentina.org.ar/cursos">Acceso 100% gratuito</a>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="herobanner__single swiper-slide position-relative swiper-slide-next" style="background: url(&quot;https://gnosisargentina.org.ar/storage/Tipo_de_elemento/sUmAJuOx6izwhY6nXuk097RymMkLMR6SPLOLLEkm.jpeg&quot;); width: 1600px;" role="group" aria-label="2 / 2">
+                          <div class="container">
+                              <div class="row align-items-center height__950">
+                                  <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-8 col-sm-12 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1500">
+                                      <div class="herobanner__content__wrapper">
+                                          <div class="herobanner__title herobanner__title--mid">
+                                              <h1><span class="ht__white__bg">STREAMINGS</span> <span style="color: #000;">CURSOS </span><span class="ht__gradient__bg"> PRÁCTICAS</span> <span style="color: #000;">PRESENCIAL/ONLINE</span></h1>
+                                          </div>
+                                          <div class="herobanner__text">
+                                              <p>Accede a nuestros cursos, conferencias y material gratuito desde tu hogar.</p>
+                                          </div>
+                                          <div class="herobanner__button">
+                                              <a class="default__button" href="https://gnosisargentina.org.ar/cursos">Acceso 100% gratuito</a>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      <!--div class="herobanner__single swiper-slide position-relative" style="background: url(img/herobaner/slider_33.jpg);">
+                          <div class="container">
+                              <div class="row align-items-center height__800">
+                                  <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-8 col-sm-12" data-aos="fade-up" data-aos-duration="1500">
+                                      <div class="herobanner__content__wrapper">
+                                          <div class="herobanner__title herobanner__title--mid">
+                                              <h1><span class="ht__white__bg">HIGH-QUALITY</span> CONSULTING FOR <span class="ht__gradient__bg">YOUR CORPORATE</span> BUSINESS</h1>
+                                          </div>
+                                          <div class="herobanner__text">
+                                              <p>Sagittis purus amet volutpat consequat mauris nunc congue nisi and tortor.</p>
+                                          </div>
+                                          <div class="herobanner__button">
+                                              <a class="default__button" href="#">OUR ALL SERVICES</a>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div-->
+
+                  </div>
+
+              <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+              <div class="slider__controls__wrap slider__controls__pagination slider__controls__arrows herobanner__arrow__1 herobanner__arrow__1--2" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); color: #000;">
+                  <div class="swiper-button-next arrow-btn arrow-btn-3" style="background-color: #FFF; opacity: 0.7;" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-d6ad22918196929b" aria-disabled="false">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M14.4297 5.92999L20.4997 12L14.4297 18.07" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                          <path d="M3.5 12H20.33" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                          </svg>
+                          
+                  </div>
+                  <div class="swiper-button-prev arrow-btn arrow-btn-3 swiper-button-disabled" style="background-color: #FFF; opacity: 0.7;" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-d6ad22918196929b" aria-disabled="true">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M9.57031 5.92999L3.50031 12L9.57031 18.07" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                          <path d="M20.5 12H3.67" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                          </svg>
+                  </div>
+                  <!-- <div class="swiper-pagination"></div> -->
+              </div>
+
+          </div>
+
+          <div class="bastun__brand__badge">
+              <div class="bastun__brand__badge__inner position-relative">
+                  <a href="https://gnosisargentina.org.ar/cursos">
+                      <img class="bbb__animate" src="img/herobaner/hero__badge_1.png" alt="Hero badge">
+                      <img class="bbb__icon" src="img/herobaner/hero__badge_icon.png" alt="Hero icon badge">
+                  </a>
+              </div>
+          </div>
+
+  </div>
+  <!-- herobanner__section__end -->
+
+  <!-- HERO BANNER herobanner__section__start -->
+  <!--div class="herobanner d-flex align-items-center height__800 herobanner__front__img__wrapper position-relative" >
+      <div class="container">
+          <div class="herobanner__wrapper">
+
+              <div class="herobanner__single">
+                  <div class="row align-items-center">
+                      <div class="col-xxl-6 col-xl-7 col-lg-6 col-md-12 col-sm-12" data-aos="fade-up" data-aos-duration="1500">
+                          <div class="herobanner__content__wrapper herobanner__content__wrapper--2 herobanner__content__wrapper--3">
+                              <div class="herobanner__text">
+                                  <p>Accede a nuestros cursos, conferencias y material gratuito desde tu hogar.
+                                  </p>
+                                  <p>Ciencia y Cultura del hombre hacia la búsqueda del SER</p>
+                              </div>
+                              <div class="herobanner__title">
+                                  <h1>Participa de<br>                                        
+
+                                      <span class="animated--header-first-word">-> </span>
+                                      <span class="txt-type text__gradient" data-wait="3000" data-words='["Streamings", "Cursos", "Conferencias", " Sedes"]'> </span>
+
+                                  </h1>
+
+                              </div>
+                              <div class="herobanner__button">
+                                  <a class="default__button" href="#">Acceso 100% gratuito</a>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="col-xxl-6 col-xl-5 col-lg-6 col-md-12 col-sm-12">
+                          <div class="herobanner__front__img position-relative" data-tilt>
+                              <img class="rounded" src="img/herobaner/gnosis_herobanner.png" alt="Event">
+                              <div class="video__button">
+                                  <a class="video__card--link glightbox" data-gallery="video_popup" href="https://www.youtube.com/watch?v=OixxB516buo">
+                                      <svg width="13" height="15" viewBox="0 0 13 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <path d="M13 7.5L0.250002 14.8612L0.250003 0.138783L13 7.5Z" fill="#F8422E"></path>
+                                      </svg>                                            
+                                  </a>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="col-xxl-6 col-xl-5 col-lg-6 col-md-12 col-sm-12">
+                          <div class="video-responsive herobanner__front__img position-relative" data-tilt>
+                              <iframe src="https://www.youtube.com/embed/OixxB516buo?si=z0jYJkuT6xgUMa6V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+
+          </div>
+
+      </div>
+
+      <div class="herobanner__icon">
+          <img class="herobanner__vector hero__icon__1" src="img/herobaner/vector__1.png" alt="Vector photo">
+          <img class="herobanner__vector hero__icon__4" src="img/herobaner/vector__4.png" alt="Vector photo">
+      </div>
+
+  </div-->
+  <!-- HERO BANNER herobanner__section__end -->
+
+
+
+
+   <!-- ACCEDE AL CONOCIMIENTO GNÓSTICO -->
+   <div class="service sp_top_140 sp_bottom_100 special__spacing aos-init aos-animate" id="service__area" style="background: var(--pinkcolor) url(img/service/service__bg__img.png);" data-aos="fade-up">
+      <div class="container">
+          <div class="row">
+              <div class="col-xl-12">
+                  <div class="section__title text-center sp_bottom_90">
+                      <div class="section__title__button">
+                          <span>100% GRATUITO</span>
+                      </div>
+                      <div class="section__title__heading">
+                          <h3>ACCEDE AL CONOCIMIENTO GNÓSTICO</h3>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="row">
+              <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 aos-init" data-aos="fade-up" data-aos-duration="1500">
+                  <div class="service__single__wraper common__gradient__bg single__transform">
+                      <div class="service__single__inner">
+                          <div class="service__img">
+                              <img src="https://gnosisargentina.org.ar/img/service/service__1.png" alt="">
+                          </div>
+
+                          <div class="service__content">
+                              <div class="service__heading">
+                                  <h5><a href="https://gnosisargentina.org.ar/sedes/argentina">CURSO PRESENCIAL</a></h5>
+                              </div>
+                              <div class="service__text">
+                                  <p>170 Sedes en Argentina | Cursos de GNOSIS | Autoconocimiento | Prácticas de Meditación Relajación y Concentración</p>
+                              </div>
+                                <a class="default__button" href="https://gnosisargentina.org.ar/sedes/argentina"><span>SEDES EN ARGENTINA</span></a>
+                                <a class="default__button mt-3" href="https://gnosisargentina.org.ar/sedes/internacionales?"><span>INTERNACIONALES</span></a>
+                          </div>
+
+                      </div>
+                      <div class="service__img__bg">
+                          <img src="img/service/service__1__img__bg.svg" alt="">
+                      </div>
+                  </div>
+              </div>
+
+              <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 aos-init" data-aos="fade-up" data-aos-duration="1700">
+                  <div class="service__single__wraper common__gradient__bg single__transform">
+                      <div class="service__single__inner">
+                      <div class="service__img">
+                          <img src="https://gnosisargentina.org.ar/img/service/service__2.png" alt="">
+                      </div>
+                      <div class="service__content">
+                          <div class="service__heading">
+                              <h5><a href="https://gnosisargentina.org.ar/inscripcion-curso-online" target="_blank">CURSO ONLINE</a></h5>
+                          </div>
+                          <div class="service__text">
+                              <p>+ 1 Millón de Inscriptos en todo el mundo | Disponible en Español Inglés, Francés, Portugués, Japonés y Árabe</p>
+                          </div>
+                            <a class="default__button" href="https://gnosisargentina.org.ar/inscripcion-curso-online" target="_blank"><span>POR WHATSAPP</span></a>
+                            <a class="default__button mt-3" href="https://gnosisargentina.org.ar/inscripcion-curso-online-classroom" target="_blank"><span>POR CLASSROOM</span></a>
+                      </div>
+                  </div>
+                  <div class="service__img__bg">
+                      <img src="img/service/service__1__img__bg.svg" alt="">
+                  </div>
+              </div>
+              </div>
+
+              <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 aos-init" data-aos="fade-up" data-aos-duration="1900">
+                  <div class="service__single__wraper common__gradient__bg single__transform">
+                      <div class="service__single__inner">
+                      <div class="service__img">
+                          <img src="https://gnosisargentina.org.ar/img/service/service__3.png" alt="">
+                      </div>
+                      <div class="service__content">
+                          <div class="service__heading">
+                              <h5><a href="https://gnosisargentina.org.ar/eventos">EVENTOS EN ARGENTINA</a></h5>
+                          </div>
+                          <div class="service__text">
+                              <p>Conferencias Presenciales en 140 ciudades | Seminarios y Talleres | Eventos de Meditación Stands y Ferias</p>
+                          </div>
+                            <a class="default__button" href="https://gnosisargentina.org.ar/eventos"><span>VER EVENTOS</span></a>
+                      </div>
+                  </div>
+                  <div class="service__img__bg">
+                      <img src="img/service/service__1__img__bg.svg" alt="">
+                  </div>
+              </div>
+              </div>
+
+              <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 aos-init" data-aos="fade-up" data-aos-duration="2100">
+                  <div class="service__single__wraper common__gradient__bg single__transform">
+                      <div class="service__single__inner">
+                          <div class="service__img">
+                              <img src="https://gnosisargentina.org.ar/img/service/service__4.png" alt="">
+                          </div>
+                          <div class="service__content">
+                              <div class="service__heading">
+                                  <h5><a href="https://gnosisargentina.org.ar/mp3">MATERIAL DE DESCARGA</a></h5>
+                              </div>
+                              <div class="service__text">
+                                  <p>+ 1.000 Archivos | Libros, Documentos, Audios, Videos, Prácticas y Ejercicios </p>
+                              </div>
+                                <a class="default__button" href="https://gnosisargentina.org.ar/mp3"><span>VER MATERIAL</span></a>
+                          </div>
+
+                      </div>
+                      <div class="service__img__bg">
+                          <img src="img/service/service__1__img__bg.svg" alt="">
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <div class="section__strock__line__animation">
+          <img class="ssla__animation service__line__animation" src="img/service/service__small__img.png" alt="">
+      </div>
+  </div>
+   <!-- ACCEDE AL CONOCIMIENTO GNÓSTICO -->
+
+
+  <!-- CONTENIDOS FAVORITOS -->
+  <!--div class="project__3 sp_top_140 sp_bottom_140">
+      <div class="container">
+          <div class="row sp_bottom_70"  data-aos="fade-up" data-aos-duration="1500">
+              <div class="col-xl-9 col-lg-9 col-md-9 col-sm-8 col-8">
+                  <div class="section__title section__title--2  section__title--3">
+                      <div class="section__title__button">
+                          <span>MAS VISTO</span>
+                      </div>
+                      <div class="section__title__heading">
+                          <h3>Contenidos favoritos de nuestros seguidores</h3>
+                      </div>  
+                  </div>
+              </div>
+              <div class="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-4">
+                  <div class="slider__control__top__wrap position-relative">
+                      <div class="slider__controls__wrap slider__controls__pagination slider__controls__arrows slider__controls__arrows--3">
+                          <div class="swiper-button-next arrow-btn">
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M14.4297 5.92999L20.4997 12L14.4297 18.07" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                  <path d="M3.5 12H20.33" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                  </svg>
+                                  
+                          </div>
+                          <div class="swiper-button-prev arrow-btn">
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M9.57031 5.92999L3.50031 12L9.57031 18.07" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                  <path d="M20.5 12H3.67" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                  </svg>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+
+          </div>
+          <div class="row"  data-aos="fade-up" data-aos-duration="1500">
+              <div class="project__slider__active swiper">
+                  <div class="swiper-wrapper">
+                      <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 swiper-slide"  data-aos="fade-up" data-aos-duration="1500">
+                          <div class="project__3__img single__transform">
+                              <img src="img/project/project__8.png" alt="">
+                              <div class="project__3__name">
+                                  <h6><a href="project-details.html">Risk assessment and management</a></h6>
+                                  <div class="project__3__icon">
+                                      <a class="direction__btn" href="project-details.html">
+                                          <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <path d="M14.4258 10.9898L23.0101 10.9898L23.0101 19.5741" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                          <path d="M10.9902 23.0106L22.8908 11.11" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                          </svg>
+                                          </a>
+                                  </div>    
+                              </div>
+                          </div>
+                      </div>
+                      <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 swiper-slide"  data-aos="fade-up" data-aos-duration="1800">
+                          <div class="project__3__img single__transform">
+                              <img src="img/project/project__9.png" alt="">
+                              <div class="project__3__name">
+                                  <h6><a href="project-details.html">Best assessment and management</a></h6>
+                                  <div class="project__3__icon">
+                                      <a class="direction__btn" href="project-details.html">
+                                          <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <path d="M14.4258 10.9898L23.0101 10.9898L23.0101 19.5741" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                          <path d="M10.9902 23.0106L22.8908 11.11" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                          </svg>
+                                          </a>
+                                  </div>    
+                              </div>
+                          </div>
+                      </div>
+                      <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 swiper-slide"  data-aos="fade-up" data-aos-duration="2100">
+                          <div class="project__3__img single__transform">
+                              <img src="img/project/project__10.png" alt="">
+                              <div class="project__3__name">
+                                  <h6><a href="project-details.html">Asset assessment and management</a></h6>
+                                  <div class="project__3__icon">
+                                      <a class="direction__btn" href="project-details.html">
+                                          <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <path d="M14.4258 10.9898L23.0101 10.9898L23.0101 19.5741" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                          <path d="M10.9902 23.0106L22.8908 11.11" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                          </svg>
+                                          </a>
+                                  </div>   
+                              </div>
+                          </div>
+                      </div>
+                      <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 swiper-slide"  data-aos="fade-up" data-aos-duration="2400">
+                          <div class="project__3__img single__transform">
+                              <img src="img/project/project__8.png" alt="">
+                              <div class="project__3__name">
+                                  <h6><a href="project-details.html">Asset assessment and management</a></h6>
+                                  <div class="project__3__icon">
+                                      <a class="direction__btn" href="project-details.html">
+                                          <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <path d="M14.4258 10.9898L23.0101 10.9898L23.0101 19.5741" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                          <path d="M10.9902 23.0106L22.8908 11.11" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                                          </svg>
+                                          </a>
+                                  </div>   
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+
+              <div class="col-xl-12"  data-aos="fade-up" data-aos-duration="1500">
+                  <div class="project__3__button">
+                      <a class="default__button" href="#">VIEW OTHER PROJECTS</a>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div-->
+  <!-- CONTENIDOS FAVORITOS -->
+
+
+  <!-- COOPERACION -->
+  <div class="work__process sp_top_140 sp_bottom_140 " style="background: var(--whiteColor) url(img/process/process__bg__1.png);">
+      <div class="container">
+          <div class="row">
+              <div class="col-xl-12 aos-init" data-aos="fade-up" data-aos-duration="1500">
+                  <div class="section__title text-center sp_bottom_70">
+                      <div class="section__title__button">
+                          <span>cooperación</span>
+                      </div>
+                      <div class="section__title__heading">
+                          <h3>CONTENIDO + COMUNIDAD</h3>
+                      </div>
+                  
+                  </div>
+              </div>
+          </div>
+          <div class="work__process__inner__wrap">
+              <div class="work__process__single single__transform aos-init" data-aos="fade-up" data-aos-duration="1500">
+                  <div class="work__process__icon">
+                      <a href="#">       
+                              <svg width="58" height="58" viewBox="0 0 58 58" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                              <mask id="mask0_1230_28533" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="58" height="58">
+                              <rect width="58" height="58" fill="url(#pattern10)"></rect>
+                              </mask>
+                              <g mask="url(#mask0_1230_28533)">
+                              <rect width="58" height="58" fill="url(#paint0_linear_1230_5555)"></rect>
+                              </g>
+                              <defs>
+                              <pattern id="pattern10" patternContentUnits="objectBoundingBox" width="1" height="1">
+                              <use xlink:href="#image0_1230_28534" transform="scale(0.0078125)"></use>
+                              </pattern>
+                              <linearGradient id="paint0_linear_1230_5555" x1="1.18439e-07" y1="34" x2="58" y2="34" gradientUnits="userSpaceOnUse">
+                              <stop offset=" " stop-color="#00229E"></stop>
+                              <stop offset="0.479167" stop-color="#6E1299"></stop>
+                              <stop offset="1" stop-color="#FE0094"></stop>
+                              </linearGradient>
+                              <image id="image0_1230_28534" width="128" height="128" xlink:href="data:image/png;base64,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"></image>
+                              </defs>
+                              </svg>
+                      </a>
+                          
+                  </div>
+                  <div class="work__process__content">
+                      <div class="work__process__name">
+                          <h6><a href="https://gnosisargentina.org.ar/clases-en-vivo">CONTENIDO LIBRE Y EXCLUSIVO</a></h6>
+                      </div>
+                      <div class="work__process__text">
+                          <p>Contenido para expandir la consciencia.</p>
+                      </div>
+                  </div>
+              </div>
+              <div class="work__process__arrow aos-init" data-aos="fade-up" data-aos-duration="1800">
+                  <a class="direction__btn direction__btn--2">
+                          
+                      </a>
+              </div>
+              <div class="work__process__single single__transform aos-init" data-aos="fade-up" data-aos-duration="2100">
+                  <div class="work__process__icon">
+                  <a href="#">
+
+                  <svg width="58" height="58" viewBox="0 0 58 58" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mask id="mask0_1230_2861" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="58" height="58">
+                      <rect width="58" height="58" fill="url(#pattern0_1230_2861)"></rect>
+                      </mask>
+                      <g mask="url(#mask0_1230_2861)">
+                          <rect width="58" height="58" fill="url(#paint0_linear_1230_5555)"></rect>
+                      </g>
+                      <defs>
+                      <pattern id="pattern0_1230_2861" patternContentUnits="objectBoundingBox" width="1" height="1">
+                      <use xlink:href="#image0_1230_2861" transform="scale(0.0078125)"></use>
+                      </pattern>
+                      <image id="image0_1230_2861" width="128" height="128" xlink:href="data:image/png;base64,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"></image>
+                      </defs>
+                      </svg>
+              
+              </a>
+                          
+                  </div>
+                  <div class="work__process__content">
+                      <div class="work__process__name">
+                          <h6><a href="#">COMUNIDAD</a></h6>
+                      </div>
+                      <div class="work__process__text">
+                          <p>Unite a mas de 1 millón de estudiantes de Gnosis en todo el Mundo.</p>
+                      </div>
+                  </div>
+              </div>
+              <div class="work__process__arrow aos-init" data-aos="fade-up" data-aos-duration="2400">
+                  <a class="direction__btn direction__btn--2">
+                          
+                      </a>
+              </div>
+              <div class="work__process__single single__transform aos-init" data-aos="fade-up" data-aos-duration="2700">
+                  <div class="work__process__icon">
+                  <a href="#">       
+                  
+                  <svg width="58" height="58" viewBox="0 0 58 58" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mask id="mask0_1230_2870" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="58" height="58">
+                      <rect width="58" height="58" fill="url(#pattern0_1230_2870)"></rect>
+                      </mask>
+                      <g mask="url(#mask0_1230_2870)">
+                      <rect width="58" height="58" fill="url(#paint0_linear_1230_2870)"></rect>
+                      </g>
+                      <defs>
+                      <pattern id="pattern0_1230_2870" patternContentUnits="objectBoundingBox" width="1" height="1">
+                      <use xlink:href="#image0_1230_2870" transform="scale(0.0078125)"></use>
+                      </pattern>
+                      <linearGradient id="paint0_linear_1230_2870" x1="1.18439e-07" y1="34" x2="58" y2="34" gradientUnits="userSpaceOnUse">
+                      <stop offset=" " stop-color="#00229E"></stop>
+                      <stop offset="0.479167" stop-color="#6E1299"></stop>
+                      <stop offset="1" stop-color="#FE0094"></stop>
+                      </linearGradient>
+                      <image id="image0_1230_2870" width="128" height="128" xlink:href="data:image/png;base64,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"></image>
+                      </defs>
+                      </svg>
+                      
+              
+              </a>
+                          
+                  </div>
+                  <div class="work__process__content">
+                      <div class="work__process__name">
+                          <h6><a href="https://gnosisargentina.org.ar/cursos">CURSOS GRATUITOS</a></h6>
+                      </div>
+                      <div class="work__process__text">
+                          <p>Accede a nuestras actividades presenciales en todo el pais.</p>
+                      </div>
+                  
+              </div>
+          
+          </div>
+          </div>
+
+
+  
+
+
+
+      </div>
+  </div>
+  <!-- COOPERACION -->
+
+
+
+  <!-- CIFRAS Y ESTADISTICAS -->
+  <div class="facts sp_40">
+      <div class="container">
+          <div class="facts__inner--3" id="funfactId">
+              <div class="facts__single facts__single--3 aos-init" data-aos="fade-up" data-aos-duration="1500">
+                  <div class="facts__img">
+                      <img src="img/brand/brand__6.png" alt="">
+                      </div>
+                  <div class="facts__single__counter">
+                  <div class="counter__number">
+                      <span class="counter js-counter" data-count="170">170</span>+
+                  </div>
+                  <p>Sedes en Argentina</p>
+                  </div>
+
+                  <div class="facts__icon">
+                  <img src="img/brand/brand__5.png" alt="">
+                  </div>
+              
+              </div>
+              
+              <div class="facts__single facts__single--3 aos-init" data-aos="fade-up" data-aos-duration="1800">
+                  <div class="facts__img">
+                      <img src="img/brand/brand__7.png" alt="">
+                      </div>
+                  <div class="facts__single__counter">
+                      <div class="counter__number">
+                          <span class="counter js-counter" data-count="1000000">+ 1.000.000</span>+
+                      </div>
+                      <p>Alumnos</p>
+                      </div>
+                      <div class="facts__icon">
+                      <img src="img/brand/brand__5.png" alt="">
+                      </div>
+              </div>
+              
+              <div class="facts__single facts__single--3 aos-init" data-aos="fade-up" data-aos-duration="2100">
+                  <div class="facts__img">
+                      <img src="img/brand/brand__8.png" alt="">
+                      </div>
+                  <div class="facts__single__counter">
+                      <div class="counter__number">
+                          <span class="counter  js-counter" data-count="35">35</span>+
+                      </div>
+                      <p>Paises</p>
+                      </div>
+                      <div class="facts__icon">
+                      <img src="img/brand/brand__5.png" alt="">
+                      </div>
+              </div>
+          
+              <div class="facts__single facts__single--3 aos-init" data-aos="fade-up" data-aos-duration="2400">
+                  <div class="facts__img">
+                      <img src="img/brand/brand__9.png" alt="">
+                      </div>
+                  <div class="facts__single__counter">
+                      <div class="counter__number">
+                          <span class="counter  js-counter" data-count="1500">1500</span>+
+                      </div>
+                      <p>Instructores</p>
+                      </div>
+                  
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- CIFRAS Y ESTADISTICAS -->
+
+
+   <!-- COMO TE AYUDAMOS -->
+  <div class="about ext-about position-relative sp_top_140 sp_bottom_140" style="background: var(--pinkcolor) url(img/process/process__bg__1.png);">
+      <div class="container">
+          <div class="row">
+              <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 aos-init" data-aos="fade-up" data-aos-duration="1800">
+                  <div class="about__img__wrapper about__img__wrapper--2 position-relative" data-tilt="" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
+                      <img class="about__img__1" src="img/about/event__about.png" alt="about__event">
+
+                      <div class="video__button">
+                          <a class="video__card--link glightbox" data-gallery="video_popup" href="https://www.youtube.com/watch?v=OixxB516buo">
+                              <svg width="13" height="15" viewBox="0 0 13 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M13 7.5L0.250002 14.8612L0.250003 0.138783L13 7.5Z" fill="#F8422E"></path>
+                              </svg>                                            
+                          </a>
+                      </div>
+
+                  </div>
+              </div>
+              <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 aos-init" data-aos="fade-up" data-aos-duration="2100">
+                  <div class="about__inner about__inner--2">
+
+                      <div class="section__title  sp_bottom_20">
+                          <div class="section__title__button">
+                              <span class="text__gradient">Cómo te ayudamos?</span>
+                          </div>
+                          <div class="section__title__heading">
+                              <h3>Contenido para activar tu SUPRACONCIENCIA</h3>
+                          </div>
+                          
+                      </div>
+                      <p class="sp_bottom_10" style="color: var(--blackcolor)">
+                          Llegaste hasta acá porque sabés que hay algo más profundo y misterioso en la vida. El gnosticismo universal te acerca a la fuente del conocimiento para despertar todo tu potencial interior y comprender  el verdadero sentido de tu existencia. Recordá: <i>"Eres un misterio, descúbrete"</i></p>
+
+                      <div class="about__list">
+                          <ul>
+                              <li><i class="icofont-check"></i>Eventos en Streaming y Presenciales</li>
+                              <li><i class="icofont-check"></i>Evento Nacional: Medita Argentina</li>
+                              <li><i class="icofont-check"></i>Prácticas de Respiración, Relajación y Meditación</li>
+                              <li><i class="icofont-check"></i>Curso Online de Auto-Conocimiento</li>
+                              <li><i class="icofont-check"></i>Biblioteca Esotérica en PDF</li>
+                              <li><i class="icofont-check"></i>Sedes en mas de 140 ciudades de Argentina</li>
+                              <li><i class="icofont-check"></i>Sedes en mas de 30 Paises y 4 continentes</li>
+                          </ul>
+                      </div>
+                      <div class="about__vision__wrapper">
+                          <div class="about__button">
+                              <a class="default__button" href="https://gnosisargentina.org.ar/cursos">Curso de Autoconocimiento</a>
+                          </div>
+                      </div>
+                  </div>
+                  
+
+                  </div>
+              </div>
+          </div>
+  </div>
+  <!-- COMO TE AYUDAMOS-->
+
+
+
+
+
+  <!-- ACCEDE EL CONOCIMIENTO GNÓSTICO VIEJO -->
+  <!--div class="pricing sp_top_120 sp_bottom_120 special__spacing" style="background: var(--blackBlue) url(img/service/service__bg__3.png);">
+      <div class="container">
+
+          <div class="row">
+              <div class="col-xl-12 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1500">
+                  <div class="section__title section__title--3 text-center sp_bottom_70">
+                      <div class="section__title__button">
+                          <span>100% GRUITO</span>
+                      </div>
+                      <div class="section__title__heading">
+                          <h3>ACCEDE EL CONOCIMIENTO GNÓSTICO</h3>
+                      </div>
+                  
+                  </div>
+              </div>
+          </div>
+
+          <div class="row">
+              <div class="col-xl-12" data-aos="fade-up" data-aos-duration="1500">
+                  <ul class="nav  pricing__tab" id="myTab" role="tablist">
+                      <li class="nav-item" role="presentation">
+                          <button class="pricing__tab__link active" data-bs-toggle="tab" data-bs-target="#projects__one"
+                              type="button">BILLED MONTHLY</button>
+                      </li>
+                      <li class="nav-item" role="presentation">
+                          <button class="pricing__tab__link" data-bs-toggle="tab"
+                              data-bs-target="#projects__two" type="button">BILLED YEARLY</button>
+                      </li>
+
+                  </ul>
+
+              </div>
+          </div>
+
+          <div class="tab-content tab__content__wrapper" id="myTabContent">
+
+              <div class="tab-pane fade active show" id="projects__one" role="tabpanel"
+                  aria-labelledby="projects__one">
+                  <div class="social__wrapper">
+
+                      <div class="row">
+
+                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12 pricing__single__wrap" data-aos="fade-up" data-aos-duration="1500">
+                              <div class="common__gradient__bg pricing__gradient single__transform">
+                                  <div class="pricing__single">
+                                      <div class="pricing__small__button">
+                                          <span>CURSO PRESENCIAL</span>
+                                      </div>
+                                      <div class="common__gradient__bg pricing__inner__gradient">
+                                          <div class="pricing__single__price">
+                                              <h6 class="text__gradient ">170 Sedes</h6>
+                                              <span>en Argentina</span>
+                                          </div>
+                                      </div>
+                                      <div class="pricing__single__text">
+                                          <ul>
+                                              <li>Cursos de GNOSIS</li>
+                                              <li>Autoconocimiento</li>
+                                              <li>Prácticas de Meditación</li>
+                                              <li>Relajación y Concentración</li>
+                                          </ul>
+                                      </div>
+                                      <div class="pricing__single__button">
+                                          <a class="default__button common__gradient__bg" href="#"><span>VER SEDES</span></a>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+
+                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12 pricing__single__wrap" data-aos="fade-up" data-aos-duration="1800">
+                              <div class="common__gradient__bg pricing__gradient single__transform">
+                                  <div class="pricing__single">
+                                      <div class="pricing__small__button">
+                                          <span>CURSO ONLINE</span>
+                                      </div>
+                                      <div class="common__gradient__bg pricing__inner__gradient">
+                                          <div class="pricing__single__price">
+                                              <h6 class="text__gradient ">+ 1 Millón</h6>
+                                              <span>de Inscriptos</span>
+                                          </div>
+                                      </div>
+                                      <div class="pricing__single__text">
+                                          <ul>
+                                              <li>En todo el mundo</li>
+                                              <li>Disponible en Español</li>
+                                              <li>Inglés, Francés, Portugués</li>
+                                              <li>Japonés y Árabe</li>
+                                          </ul>
+                                          </div>
+                                      <div class="pricing__single__button">
+                                          <a class="default__button common__gradient__bg" href="#"><span>POR WHATSAPP</span></a>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+
+                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12 pricing__single__wrap" data-aos="fade-up" data-aos-duration="2100">
+                              <div class="common__gradient__bg pricing__gradient single__transform ">
+                                  <div class="pricing__single">
+                                      <div class="pricing__small__button">
+                                          <span>EVENTOS EN ARGENTINA</span>
+                                      </div>
+                                      <div class="common__gradient__bg pricing__inner__gradient">
+                                          <div class="pricing__single__price">
+                                              <h6 class="text__gradient ">Conferencias</h6>
+                                              <span>en 140 ciudades</span>
+                                          </div>
+                                      </div>
+                                      <div class="pricing__single__text">
+                                          <ul>
+                                              <li>Conferencias Presenciales</li>
+                                              <li>Seminarios y Talleres</li>
+                                              <li>Eventos de Meditación</li>
+                                              <li>Stands y Ferias</li>
+                                          </ul>
+                                      </div>
+                                      <div class="pricing__single__button">
+                                          <a class="default__button common__gradient__bg" href="#"><span>VER CONFERENCIAS</span></a>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+
+                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12 pricing__single__wrap" data-aos="fade-up" data-aos-duration="2400">
+
+                              <div class="common__gradient__bg pricing__gradient single__transform">
+                                  <div class="pricing__single pricing__special">
+                                      <div class="pricing__special__badge">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="36" height="55"
+                                              viewBox="0 0 36 55" fill="none">
+                                              <path
+                                                  d="M14.8596 32.0792L18.1387 30.3798L21.4161 32.0742L20.7867 28.4819L23.4394 25.9344L19.7738 25.4119L18.134 22.1436L16.496 25.4149L12.832 25.9407L15.4843 28.4835L14.8596 32.0792Z"
+                                                  fill="#07B318" />
+                                              <path d="M0 0H36V6.55273H0V0Z" fill="#07B318" />
+                                              <path
+                                                  d="M0 55L18 45.5225L36 55V9.77539H0V55ZM14.3229 22.4692L18.1308 14.8611L21.9469 22.4663L30.4709 23.6811L24.306 29.6056L25.7663 37.9657L18.1389 34.0208L10.5166 37.9707L11.9693 29.6103L5.79759 23.6937L14.3229 22.4692Z"
+                                                  fill="#07B318" />
+                                          </svg>
+                                      </div>
+                                      <div class="pricing__small__button">
+                                          <span>MATERIAL DE DESCARGA</span>
+                                      </div>
+
+                                      <div class="common__gradient__bg pricing__inner__gradient">
+                                          <div class="pricing__single__price">
+                                              <h6 class="text__gradient ">+ 1.000</h6>
+                                              <span>Archivos</span>
+                                          </div>
+                                      </div>
+                                      <div class="pricing__single__text">
+                                          <ul>
+                                              <li>Libros y Documentos</li>
+                                              <li>Audios y Videos</li>
+                                              <li>Prácticas y Ejercicios</li>
+                                              <li>Libre y gratuito</li>
+                                          </ul>
+                                      </div>
+                                      <div class="pricing__single__button">
+                                          <a class="default__button common__gradient__bg" href="#"><span>VER MATERIAL</span></a>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+
+              <div class="tab-pane fade" id="projects__two" role="tabpanel" aria-labelledby="projects__two">
+                  <div class="social__wrapper">
+                      <div class="row">
+
+                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12 pricing__single__wrap" data-aos="fade-up" data-aos-duration="1500">
+                              <div class="common__gradient__bg pricing__gradient single__transform">
+                                  <div class="pricing__single">
+                                      <div class="pricing__small__button">
+                                          <span>BASIC PLAN</span>
+                                      </div>
+                                      <div class="common__gradient__bg pricing__inner__gradient">
+                                          <div class="pricing__single__price">
+                                              <h6 class="text__gradient ">$380.26</h6>
+                                              <span>Small Business</span>
+                                          </div>
+                                      </div>
+                                      <div class="pricing__single__text">
+                                          <ul>
+                                              <li>Initial Consultation</li>
+                                              <li>Strategy Development</li>
+                                              <li>Market Research</li>
+                                              <li>Marketing Strategy</li>
+                                              <li>Risk Management</li>
+                                          </ul>
+                                      </div>
+                                      <div class="pricing__single__button">
+                                          <a class="default__button common__gradient__bg" href="#"><span>GET
+                                                  STARTED</span></a>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+
+                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12 pricing__single__wrap" data-aos="fade-up" data-aos-duration="1800">
+                              <div class="common__gradient__bg pricing__gradient single__transform">
+                                  <div class="pricing__single">
+                                      <div class="pricing__small__button">
+                                          <span>SLIVER PLAN</span>
+                                      </div>
+                                      <div class="common__gradient__bg pricing__inner__gradient">
+                                          <div class="pricing__single__price">
+                                              <h6 class="text__gradient ">$390.26</h6>
+                                              <span>Mid Business</span>
+                                          </div>
+                                      </div>
+                                      <div class="pricing__single__text">
+                                          <ul>
+                                              <li>Initial Consultation</li>
+                                              <li>Strategy Development</li>
+                                              <li>Market Research</li>
+                                              <li>Marketing Strategy</li>
+                                              <li>Risk Management</li>
+                                          </ul>
+                                      </div>
+                                      <div class="pricing__single__button">
+                                          <a class="default__button common__gradient__bg" href="#"><span>GET
+                                                  STARTED</span></a>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+
+                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12 pricing__single__wrap" data-aos="fade-up" data-aos-duration="2100">
+                              <div class="common__gradient__bg pricing__gradient single__transform ">
+                                  <div class="pricing__single">
+                                      <div class="pricing__small__button">
+                                          <span>GOLD PLAN</span>
+                                      </div>
+                                      <div class="common__gradient__bg pricing__inner__gradient">
+                                          <div class="pricing__single__price">
+                                              <h6 class="text__gradient ">$395.26</h6>
+                                              <span>Big Business</span>
+                                          </div>
+                                      </div>
+                                      <div class="pricing__single__text">
+                                          <ul>
+                                              <li>Initial Consultation</li>
+                                              <li>Strategy Development</li>
+                                              <li>Market Research</li>
+                                              <li>Marketing Strategy</li>
+                                              <li>Risk Management</li>
+                                          </ul>
+                                      </div>
+                                      <div class="pricing__single__button">
+                                          <a class="default__button common__gradient__bg" href="#"><span>GET
+                                                  STARTED</span></a>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+
+                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12 pricing__single__wrap" data-aos="fade-up" data-aos-duration="2400">
+
+                              <div class="common__gradient__bg pricing__gradient single__transform">
+                                  <div class="pricing__single pricing__special">
+                                      <div class="pricing__special__badge">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="36" height="55"
+                                              viewBox="0 0 36 55" fill="none">
+                                              <path
+                                                  d="M14.8596 32.0792L18.1387 30.3798L21.4161 32.0742L20.7867 28.4819L23.4394 25.9344L19.7738 25.4119L18.134 22.1436L16.496 25.4149L12.832 25.9407L15.4843 28.4835L14.8596 32.0792Z"
+                                                  fill="#07B318" />
+                                              <path d="M0 0H36V6.55273H0V0Z" fill="#07B318" />
+                                              <path
+                                                  d="M0 55L18 45.5225L36 55V9.77539H0V55ZM14.3229 22.4692L18.1308 14.8611L21.9469 22.4663L30.4709 23.6811L24.306 29.6056L25.7663 37.9657L18.1389 34.0208L10.5166 37.9707L11.9693 29.6103L5.79759 23.6937L14.3229 22.4692Z"
+                                                  fill="#07B318" />
+                                          </svg>
+                                      </div>
+                                      <div class="pricing__small__button">
+                                          <span>POPULAR PLAN</span>
+                                      </div>
+
+                                      <div class="common__gradient__bg pricing__inner__gradient">
+                                          <div class="pricing__single__price">
+                                              <h6 class="text__gradient ">$399.99</h6>
+                                              <span>All Business</span>
+                                          </div>
+                                      </div>
+                                      <div class="pricing__single__text">
+                                          <ul>
+                                              <li>Initial Consultation</li>
+                                              <li>Strategy Development</li>
+                                              <li>Market Research</li>
+                                              <li>Marketing Strategy</li>
+                                              <li>Risk Management</li>
+                                          </ul>
+                                      </div>
+                                      <div class="pricing__single__button">
+                                          <a class="default__button common__gradient__bg" href="#"><span>GET
+                                                  STARTED</span></a>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+              </div>
+
+          </div>
+
+      </div>
+  </div-->
+  <!-- ACCEDE EL CONOCIMIENTO GNÓSTICO VIEJO -->
+
+
+
+        <!-- COMPARTILO CON TUS AMIGOS -->
+        <div class="blog__details__social__icon sp_20 aos-init" data-aos="fade-up" data-aos-duration="1500">
+            <div class="container">
+                <div class="row footer__icon">
+                    <ul>
+                        <div class="blog__details__share sp_20">
+                            <span>Compartilo con tus amigos:</span>
+                        </div>
+                       
+                        <li>
+                            <a class="common__gradient__bg" href="https://www.facebook.com/sharer/sharer.php?u=https://gnosisargentina.org.ar" target="_blank"><span><i class="icofont-facebook"></i></span></a>
+                        </li>
+                        <li>
+                            <a class="common__gradient__bg" href="https://twitter.com/intent/tweet?url=https://gnosisargentina.org.ar&amp;text=Título%20del%20artículo" target="_blank"><span><i class="icofont-twitter"></i></span></a>
+                        </li>
+                        <li>
+                            <a class="common__gradient__bg" href="https://api.whatsapp.com/send?text=https://gnosisargentina.org.ar" target="_blank"><span><i class="icofont-whatsapp"></i></span></a>
+                        </li>
+                        <li>
+                            <a class="common__gradient__bg" href="https://t.me/share/url?url=https://gnosisargentina.org.ar&amp;text=Mir%C3%A1+esto" target="_blank"><span><i class="icofont-telegram"></i></span></a>
+                        </li>
+                        <li>
+                            <a class="common__gradient__bg" href="https://pinterest.com/pin/create/button/?url=https://gnosisargentina.org.ar&amp;media=URL-de-imagen&amp;description=Título%20del%20artículo" target="_blank"><span><i class="icofont-pinterest"></i></span></a>
+                        </li>
+                        <li>
+                            <a class="common__gradient__bg" href="mailto:?subject=Título del artículo&amp;body=Podés leerlo acá: https://gnosisargentina.org.ar" target="_blank"><span><i class="icofont-email"></i></span></a>
+                        </li>
+                   
+                    </ul>
+                 </div>
+            </div>
+        </div>
+        <!-- COMPARTILO CON TUS AMIGOS -->
+        
+        <!-- FOOTER -->
+        <div class="footer__3 position-relative sp_top_140 bg__black">
+
+            <div class="container">
+                <div class="footer__wrapper sp_bottom_110">
+                    <div class="row">
+                        <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 aos-init" data-aos="fade-up" data-aos-duration="1500">
+                            <div class="footer__widget footer__left">
+                                <div class="footer__logo">
+                                    <img src="https://gnosisargentina.org.ar/img/logo/Logo_1.png" alt="">
+                                    <p>Ciencia y Cultura del hombre hacia la búsqueda del SER</p>
+                                </div>
+                            </div>
+                            <div class="footer__widget footer__left">
+                                <div class="footer__icon">
+                                    <ul>
+                                        <li>
+                                            <a href="https://www.instagram.com/gnosisargentina/" target="_blank"><i class="icofont-instagram"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.youtube.com/c/GnosisArgentinaOficial" target="_blank"><i class="icofont-youtube"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/gnosisarg" target="_blank"><i class="icofont-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://twitter.com/GnosisArgentina" target="_blank"><i class="icofont-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://open.spotify.com/show/2SmU0Cp4Owp6BG9wtTnmj9" target="_blank"><i class="icofont-spotify"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.tiktok.com/@gnosisargentinaoficial" target="_blank"><img src="https://gnosisargentina.org.ar/fonts/tiktok.svg" style="width: 24px; height: 24px;"></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://t.me/gnosisargentina" target="_blank"><i class="icofont-telegram" target="_blank"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://whatsapp.com/channel/0029VaHZnAM4inoln0wd3L3R" target="_blank"><i class="icofont-whatsapp" target="_blank"></i></a>
+                                        </li>
+                                    </ul>
+
+                                        <div class="headerarea__button sp_20">
+                                            <a class="default__button btn__white" href="https://gnosisargentina.org.ar/donar-web"><i class="icofont-heart"></i> DONAR</a>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!--div class="col-xl-2 col-lg-2 col-md-6 col-sm-6" data-aos="fade-up" data-aos-duration="1800">
+                            <div class="footer__widget footer__quick">
+                                <div class="footer__menu__title">
+                                    <h6>Accesos Directos:</h6>
+                                </div>
+                                <div class="footer__menu">
+                                    <ul>
+                                        <li>
+                                            <a href="https://gnosisargentina.org.ar/cursos">Cursos</a> | 
+                                        </li>
+                                        <li>
+                                            <a href="https://gnosisargentina.org.ar/cursos">Sedes</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://gnosisargentina.org.ar/contactowa" target="_blank">Escribinos por WhatsApp</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div-->
+                        <!--div class="col-xl-3 col-lg-3 col-md-6 col-sm-6" data-aos="fade-up" data-aos-duration="2100">
+                            <div class="footer__widget footer__right footer__right--2">
+                                <div class="footer__menu__title">
+                                    <h6>SUBSCRIP NEWSLETTER :</h6>
+                                </div>
+                                <div class="footer__input">
+                                    <input type="text" placeholder="Enter your email:">
+                                </div>
+                                <div class="footer__bottom">
+                                    <a class="default__button" href="#">SUBSCRIBE NOW</a>
+                                </div>
+                            </div>
+                        </div-->
+                        <!--div class="col-xl-3 col-lg-3 col-md-6 col-sm-12" data-aos="fade-up" data-aos-duration="2400">
+                            <div class=" footer__widget footer__gallery">
+                                <div class="footer__menu__title">
+                                    <h6>OUR GALLERY:</h6>
+                                </div>
+                                <div class="footer__gallery__img">
+        
+                                    <div class="footer__single__gallery__img">
+                                        <img src="https://gnosisargentina.org.ar/img/footer/footer__Small__1.png" alt="photo">
+                                        <div class="footer__gallery__icon">
+                                            <a class="direction__btn" href="blog-details.html"><svg width="34" height="34"
+                                                    viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                    <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </div>
+        
+                                    <div class="footer__single__gallery__img">
+                                        <img src="https://gnosisargentina.org.ar/img/footer/footer__Small__2.png" alt="photo">
+                                        <div class="footer__gallery__icon">
+                                            <a class="direction__btn" href="blog-details.html"><svg width="34" height="34"
+                                                    viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                    <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </div>
+        
+        
+                                    <div class="footer__single__gallery__img">
+                                        <img src="https://gnosisargentina.org.ar/img/footer/footer__Small__3.png" alt="photo">
+                                        <div class="footer__gallery__icon">
+                                            <a class="direction__btn" href="blog-details.html"><svg width="34" height="34"
+                                                    viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                    <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </div>
+        
+        
+                                    <div class="footer__single__gallery__img">
+                                        <img src="https://gnosisargentina.org.ar/img/footer/footer__Small__4.png" alt="photo">
+                                        <div class="footer__gallery__icon">
+                                            <a class="direction__btn" href="blog-details.html"><svg width="34" height="34"
+                                                    viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                    <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </div>
+        
+                                    <div class="footer__single__gallery__img">
+                                        <img src="https://gnosisargentina.org.ar/img/footer/footer__Small__5.png" alt="photo">
+                                        <div class="footer__gallery__icon">
+                                            <a class="direction__btn" href="blog-details.html"><svg width="34" height="34"
+                                                    viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                    <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </div>
+        
+                                    <div class="footer__single__gallery__img">
+                                        <img src="https://gnosisargentina.org.ar/img/footer/footer__Small__1.png" alt="photo">
+                                        <div class="footer__gallery__icon">
+                                            <a class="direction__btn" href="blog-details.html"><svg width="34" height="34"
+                                                    viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                    <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624"
+                                                        stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </div>
+        
+        
+                                </div>
+                            </div>
+                        </div-->
+                    </div>
+                </div>
+        
+        
+            </div>
+        </div>
+        <!-- FOOTER -->
+        
+        
+        <!-- COPYRIGHT -->
+        <div class="copyright copyright--4">
+            <div class="container">
+                <div class="row row align-items-center">
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                        <div class="copyright__left copyright__left--2">
+                            <p>Copyright © 2024 Gnosis Argentina. Todos los derechos reservados</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                        <div class="copyright__right">
+                            <ul>
+                                <li>
+                                    <a href="#">Políticas de Privacidad</a>
+                                </li>
+                                <li>
+                                    <a href="">||</a>
+                                </li>
+                                <li>
+                                    <a href="#">Términos y Condiciones</a>
+                                </li>
+                            </ul>
+        
+                        </div>
+                    </div>
+                </div>
+        
+            </div>
+        </div>
+        <!-- COPYRIGHT -->
+
+
+
+
+
+    </main>
+
+    <!-- Burbuja de WhatsApp -->
+        <div class="whatsapp-bubble">
+        <a href="https://gnosisargentina.org.ar/contactowa" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="2 -2 10 24" class="bi bi-whatsapp">
+              <path d="M13.601 2.326A7.85 7.85 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.9 7.9 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.9 7.9 0 0 0 13.6 2.326zM7.994 14.521a6.6 6.6 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.56 6.56 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592m3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.73.73 0 0 0-.529.247c-.182.198-.691.677-.691 1.654s.71 1.916.81 2.049c.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232"></path>
+            </svg>
+        </a>
+    </div>
+        <!-- Fin Burbuja de WhatsApp -->
+
+
+    <!-- JS here -->
+    <script src="https://gnosisargentina.org.ar/js/popper.min.js"></script>
+    <script src="https://gnosisargentina.org.ar/js/bootstrap.min.js"></script>
+    <script src="https://gnosisargentina.org.ar/js/glightbox.min.js"></script>
+    <script src="https://gnosisargentina.org.ar/js/plugins.js"></script>
+    <script src="https://gnosisargentina.org.ar/js/swiper-bundle.min.js"></script>
+    <script src="https://gnosisargentina.org.ar/js/main.js"></script>
+
+    <script>
+        // On page load or when changing themes, best to add inline in `head` to avoid FOUC
+        //if (localStorage.getItem("theme-color") === "dark" || (!("theme-color" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+          document.getElementById("light--to-dark-button")?.classList.add("dark--mode");
+        //} 
+        //if (localStorage.getItem("theme-color") === "light") {
+          //document.getElementById("light--to-dark-button")?.classList.remove("dark--mode");
+        //} 
+    </script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const selector = document.getElementById('concepto-selector');
+
+            selector.addEventListener('change', function() {
+                const id = this.value;
+                if (id) {
+                    // Laravel no puede procesar 'id' directamente, así que dejamos un marcador.
+                    const url = "https://gnosisargentina.org.ar/categoria/:id";
+                    window.location.href = url.replace(':id', id);
+                }
+            });
+        });
+    </script>
+    
+
+
+</body>

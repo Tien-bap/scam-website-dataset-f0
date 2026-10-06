@@ -1,0 +1,211 @@
+{
+  "candidate_id": "live_d45bd70cd45bc861c8417657eec702d16c3c3230da894b16f4a907fe148d4d62",
+  "candidate_sha256": "3b63433170cc3f3182b6d684d28a2b43781c69ab6dea93779bd56316bea006a1",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://dansdata.com/files/ebay_archangel.htm",
+  "requested_url": "http://dansdata.com/files/ebay_archangel.htm",
+  "browser_final_url": "http://dansdata.com/files/ebay_archangel.htm",
+  "source_urls": [
+    "http://dansdata.com/files/ebay_archangel.htm"
+  ],
+  "source_count": 2,
+  "provenance": [
+    {
+      "source_index": 68591,
+      "source_url": "http://dansdata.com/files/ebay_archangel.htm",
+      "source_hostname": "dansdata.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://dansdata.com/files/ebay_archangel.htm",
+      "final_hostname": "dansdata.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1442,
+      "checked_at": "2026-10-05T13:13:21.773940+00:00",
+      "error": null,
+      "normalized_source_url": "http://dansdata.com/files/ebay_archangel.htm",
+      "normalized_final_url": "http://dansdata.com/files/ebay_archangel.htm",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 114803,
+      "source_url": "http://dansdata.com/files/ebay_archangel.htm",
+      "source_hostname": "dansdata.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://dansdata.com/files/ebay_archangel.htm",
+      "final_hostname": "dansdata.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 65536,
+      "elapsed_ms": 1013,
+      "checked_at": "2026-10-05T13:17:23.442867+00:00",
+      "error": null,
+      "normalized_source_url": "http://dansdata.com/files/ebay_archangel.htm",
+      "normalized_final_url": "http://dansdata.com/files/ebay_archangel.htm",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_d45bd70cd45bc861c8417657eec702d16c3c3230da894b16f4a907fe148d4d62",
+    "representative_source_index": 68591,
+    "representative_source_url": "http://dansdata.com/files/ebay_archangel.htm",
+    "representative_final_url": "http://dansdata.com/files/ebay_archangel.htm",
+    "normalized_final_url": "http://dansdata.com/files/ebay_archangel.htm",
+    "source_hostname": "dansdata.com",
+    "final_hostname": "dansdata.com",
+    "source_urls": [
+      "http://dansdata.com/files/ebay_archangel.htm"
+    ],
+    "provenance": [
+      {
+        "source_index": 68591,
+        "source_url": "http://dansdata.com/files/ebay_archangel.htm",
+        "source_hostname": "dansdata.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://dansdata.com/files/ebay_archangel.htm",
+        "final_hostname": "dansdata.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1442,
+        "checked_at": "2026-10-05T13:13:21.773940+00:00",
+        "error": null,
+        "normalized_source_url": "http://dansdata.com/files/ebay_archangel.htm",
+        "normalized_final_url": "http://dansdata.com/files/ebay_archangel.htm",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 114803,
+        "source_url": "http://dansdata.com/files/ebay_archangel.htm",
+        "source_hostname": "dansdata.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://dansdata.com/files/ebay_archangel.htm",
+        "final_hostname": "dansdata.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 65536,
+        "elapsed_ms": 1013,
+        "checked_at": "2026-10-05T13:17:23.442867+00:00",
+        "error": null,
+        "normalized_source_url": "http://dansdata.com/files/ebay_archangel.htm",
+        "normalized_final_url": "http://dansdata.com/files/ebay_archangel.htm",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 2,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Black Magic/Hex Removal Spell Call Upon the most Powerful Archangel in Universe | eBay",
+  "capture_timestamp": "2026-10-05T14:56:56.046203+00:00",
+  "dom_chars": 139900,
+  "screenshot_bytes": 158313,
+  "dom_sha256": "7263e0e8e5582732e1e68950ac1167d62cad05c894a12ae88b224d4b1b529f43",
+  "screenshot_sha256": "91cff6d6fdb9cb0ffbb29e41796279f12c77048c07a760382a54c54af33e4dc8",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://dansdata.com/files/ebay_archangel.htm",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://dansdata.com/files/ebay_archangel.htm",
+    "browser_final_url": "http://dansdata.com/files/ebay_archangel.htm",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "download_extension": 3
+  },
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "elapsed_ms": 8787
+}

@@ -1,0 +1,27 @@
+{
+  "original_url": "vinvn.pro",
+  "hostname": "vinvn.pro",
+  "checked_at": "2026-10-04T13:33:36.267530+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "019fe461-a071-76d9-ac99-7516b10cf9f3",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-08-09T02:37:18.469Z",
+  "scan_original_url": "https://vinvn.pro/",
+  "final_url": "https://vinvn.pro/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 10563,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.0,
+  "discovery": {
+    "batch_id": "205e1872a392fb3a4f32dbbabd50ca6041a8e9e82eeb6e482f26bb8dbbbb90d3",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

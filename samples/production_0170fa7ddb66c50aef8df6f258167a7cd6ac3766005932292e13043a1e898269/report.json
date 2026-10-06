@@ -1,0 +1,27 @@
+{
+  "original_url": "http://it-notif.com/hr/4905297-G8cYSz7DkguU5A",
+  "hostname": "it-notif.com",
+  "checked_at": "2026-10-04T16:03:07.424206+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 2,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0fdd3-6cce-73f9-94fa-3b42f48f36f0",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-10-02T18:14:52.543Z",
+  "scan_original_url": "https://it-notif.com/",
+  "final_url": "https://it-notif.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 746,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 1.107,
+  "discovery": {
+    "batch_id": "65d7f82374175ad7dee686227c9e67daa946786e937b8332d2b35751e1dcf7e2",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

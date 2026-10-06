@@ -1,0 +1,145 @@
+{
+  "candidate_id": "live_dbc3da9769c9c733fa753865417c26c1256384f1579116235e1f8269898bdfe3",
+  "candidate_sha256": "6bef930c36575423231294d43a27a93f16710613026ffb9aff7ea840ee278e22",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://h5.kimungvay.site",
+  "requested_url": "http://h5.kimungvay.site",
+  "browser_final_url": "http://h5.kimungvay.site/",
+  "source_urls": [
+    "http://h5.kimungvay.site"
+  ],
+  "source_count": 1,
+  "provenance": [
+    {
+      "source_index": 2046,
+      "source_url": "http://h5.kimungvay.site",
+      "source_hostname": "h5.kimungvay.site",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "http://h5.kimungvay.site",
+      "final_hostname": "h5.kimungvay.site",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 1346,
+      "elapsed_ms": 213,
+      "checked_at": "2026-10-05T12:19:29.363192+00:00",
+      "error": null,
+      "normalized_source_url": "http://h5.kimungvay.site/",
+      "normalized_final_url": "http://h5.kimungvay.site/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_dbc3da9769c9c733fa753865417c26c1256384f1579116235e1f8269898bdfe3",
+    "representative_source_index": 2046,
+    "representative_source_url": "http://h5.kimungvay.site",
+    "representative_final_url": "http://h5.kimungvay.site",
+    "normalized_final_url": "http://h5.kimungvay.site/",
+    "source_hostname": "h5.kimungvay.site",
+    "final_hostname": "h5.kimungvay.site",
+    "source_urls": [
+      "http://h5.kimungvay.site"
+    ],
+    "provenance": [
+      {
+        "source_index": 2046,
+        "source_url": "http://h5.kimungvay.site",
+        "source_hostname": "h5.kimungvay.site",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "http://h5.kimungvay.site",
+        "final_hostname": "h5.kimungvay.site",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 1346,
+        "elapsed_ms": 213,
+        "checked_at": "2026-10-05T12:19:29.363192+00:00",
+        "error": null,
+        "normalized_source_url": "http://h5.kimungvay.site/",
+        "normalized_final_url": "http://h5.kimungvay.site/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 1,
+    "unique_source_url_count": 1,
+    "http_status": 200,
+    "redirect_count": 0,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "",
+  "capture_timestamp": "2026-10-05T14:58:01.666818+00:00",
+  "dom_chars": 58419,
+  "screenshot_bytes": 20515,
+  "dom_sha256": "e68a9140d891f0dc2ec8dfd3836958ec522051dacf4a424ee38dd12d595410cc",
+  "screenshot_sha256": "5cd34ea8781ccc135ddaeb6df98af545e81fb6303c0252ad8ed0dd8ee9ae0a4a",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "http://h5.kimungvay.site/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "http://h5.kimungvay.site",
+    "browser_final_url": "http://h5.kimungvay.site/",
+    "url_changed": true,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {
+    "method": 4
+  },
+  "blocked_responses": 1,
+  "downloaded_files": 0,
+  "elapsed_ms": 3084
+}

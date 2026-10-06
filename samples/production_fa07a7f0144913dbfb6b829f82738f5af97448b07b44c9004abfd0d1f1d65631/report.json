@@ -1,0 +1,27 @@
+{
+  "original_url": "https://thabet.asia",
+  "hostname": "thabet.asia",
+  "checked_at": "2026-10-04T13:34:08.370825+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a0e9c2-96f7-71a1-bdb0-4396382e7096",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2026-09-28T20:44:15.596Z",
+  "scan_original_url": "http://thabet.asia/",
+  "final_url": "https://www.thabet.asia/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 384,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 2.673,
+  "discovery": {
+    "batch_id": "3b26d33d5ea0cc7e0d4354006965574d0bd51b1fbd929047912b8466ee857b8b",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

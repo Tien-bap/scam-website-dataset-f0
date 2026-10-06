@@ -1,0 +1,27 @@
+{
+  "original_url": "http://en.baikal-planet.ru/modules/locale/tests/translations/YY2X92NBPQSOK96123VVPSKOFDOCKCkKOAfr/",
+  "hostname": "en.baikal-planet.ru",
+  "checked_at": "2026-10-04T14:26:10.453836+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a07e9b-d1eb-7234-a92d-a458798e057c",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-08T01:22:29.358Z",
+  "scan_original_url": "http://en.baikal-planet.ru/content/irkutsk",
+  "final_url": "http://en.baikal-planet.ru/content/irkutsk",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 5965,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 52.689,
+  "discovery": {
+    "batch_id": "cebdb1a46ae969ebd2459c98302495b1a96c61b04f8e4b93edfb7121be3e81b9",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

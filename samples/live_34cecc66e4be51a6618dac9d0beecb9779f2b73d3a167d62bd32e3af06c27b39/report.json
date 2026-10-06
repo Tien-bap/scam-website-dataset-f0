@@ -1,0 +1,353 @@
+{
+  "candidate_id": "live_34cecc66e4be51a6618dac9d0beecb9779f2b73d3a167d62bd32e3af06c27b39",
+  "candidate_sha256": "a53f84c313db3b37f7f7080d2e4c59d5c2e87a277bdcfe4f742028ca00af2890",
+  "capture_source": "live_playwright",
+  "source": "tinnhiemmang",
+  "representative_source_url": "http://alternatifklinik.com/",
+  "requested_url": "https://alternatifklinik.com/",
+  "browser_final_url": "https://alternatifklinik.com/",
+  "source_urls": [
+    "http://alternatifklinik.com/",
+    "https://alternatifklinik.com/"
+  ],
+  "source_count": 4,
+  "provenance": [
+    {
+      "source_index": 57889,
+      "source_url": "http://alternatifklinik.com/",
+      "source_hostname": "alternatifklinik.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://alternatifklinik.com/",
+      "final_hostname": "alternatifklinik.com",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 21355,
+      "elapsed_ms": 4200,
+      "checked_at": "2026-10-05T12:54:40.164381+00:00",
+      "error": null,
+      "normalized_source_url": "http://alternatifklinik.com/",
+      "normalized_final_url": "https://alternatifklinik.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 74624,
+      "source_url": "https://alternatifklinik.com/",
+      "source_hostname": "alternatifklinik.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://alternatifklinik.com/",
+      "final_hostname": "alternatifklinik.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 21355,
+      "elapsed_ms": 1702,
+      "checked_at": "2026-10-05T13:14:46.683664+00:00",
+      "error": null,
+      "normalized_source_url": "https://alternatifklinik.com/",
+      "normalized_final_url": "https://alternatifklinik.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 81010,
+      "source_url": "https://alternatifklinik.com/",
+      "source_hostname": "alternatifklinik.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://alternatifklinik.com/",
+      "final_hostname": "alternatifklinik.com",
+      "redirect_count": 0,
+      "content_type": "text/html",
+      "bytes_sampled": 21355,
+      "elapsed_ms": 1701,
+      "checked_at": "2026-10-05T13:17:37.744300+00:00",
+      "error": null,
+      "normalized_source_url": "https://alternatifklinik.com/",
+      "normalized_final_url": "https://alternatifklinik.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    },
+    {
+      "source_index": 110975,
+      "source_url": "http://alternatifklinik.com/",
+      "source_hostname": "alternatifklinik.com",
+      "status": "live_html",
+      "http_status": 200,
+      "final_url": "https://alternatifklinik.com/",
+      "final_hostname": "alternatifklinik.com",
+      "redirect_count": 1,
+      "content_type": "text/html",
+      "bytes_sampled": 21355,
+      "elapsed_ms": 2333,
+      "checked_at": "2026-10-05T13:18:08.882552+00:00",
+      "error": null,
+      "normalized_source_url": "http://alternatifklinik.com/",
+      "normalized_final_url": "https://alternatifklinik.com/",
+      "clean_match": {
+        "source": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "final": {
+          "exact": [],
+          "normalized": [],
+          "hostname_path": [],
+          "hostname": []
+        },
+        "strong": false,
+        "type": "none"
+      }
+    }
+  ],
+  "candidate_metadata": {
+    "candidate_id": "live_34cecc66e4be51a6618dac9d0beecb9779f2b73d3a167d62bd32e3af06c27b39",
+    "representative_source_index": 57889,
+    "representative_source_url": "http://alternatifklinik.com/",
+    "representative_final_url": "https://alternatifklinik.com/",
+    "normalized_final_url": "https://alternatifklinik.com/",
+    "source_hostname": "alternatifklinik.com",
+    "final_hostname": "alternatifklinik.com",
+    "source_urls": [
+      "http://alternatifklinik.com/",
+      "https://alternatifklinik.com/"
+    ],
+    "provenance": [
+      {
+        "source_index": 57889,
+        "source_url": "http://alternatifklinik.com/",
+        "source_hostname": "alternatifklinik.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://alternatifklinik.com/",
+        "final_hostname": "alternatifklinik.com",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 21355,
+        "elapsed_ms": 4200,
+        "checked_at": "2026-10-05T12:54:40.164381+00:00",
+        "error": null,
+        "normalized_source_url": "http://alternatifklinik.com/",
+        "normalized_final_url": "https://alternatifklinik.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 74624,
+        "source_url": "https://alternatifklinik.com/",
+        "source_hostname": "alternatifklinik.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://alternatifklinik.com/",
+        "final_hostname": "alternatifklinik.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 21355,
+        "elapsed_ms": 1702,
+        "checked_at": "2026-10-05T13:14:46.683664+00:00",
+        "error": null,
+        "normalized_source_url": "https://alternatifklinik.com/",
+        "normalized_final_url": "https://alternatifklinik.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 81010,
+        "source_url": "https://alternatifklinik.com/",
+        "source_hostname": "alternatifklinik.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://alternatifklinik.com/",
+        "final_hostname": "alternatifklinik.com",
+        "redirect_count": 0,
+        "content_type": "text/html",
+        "bytes_sampled": 21355,
+        "elapsed_ms": 1701,
+        "checked_at": "2026-10-05T13:17:37.744300+00:00",
+        "error": null,
+        "normalized_source_url": "https://alternatifklinik.com/",
+        "normalized_final_url": "https://alternatifklinik.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      },
+      {
+        "source_index": 110975,
+        "source_url": "http://alternatifklinik.com/",
+        "source_hostname": "alternatifklinik.com",
+        "status": "live_html",
+        "http_status": 200,
+        "final_url": "https://alternatifklinik.com/",
+        "final_hostname": "alternatifklinik.com",
+        "redirect_count": 1,
+        "content_type": "text/html",
+        "bytes_sampled": 21355,
+        "elapsed_ms": 2333,
+        "checked_at": "2026-10-05T13:18:08.882552+00:00",
+        "error": null,
+        "normalized_source_url": "http://alternatifklinik.com/",
+        "normalized_final_url": "https://alternatifklinik.com/",
+        "clean_match": {
+          "source": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "final": {
+            "exact": [],
+            "normalized": [],
+            "hostname_path": [],
+            "hostname": []
+          },
+          "strong": false,
+          "type": "none"
+        }
+      }
+    ],
+    "source_count": 4,
+    "unique_source_url_count": 2,
+    "http_status": 200,
+    "redirect_count": 1,
+    "clean_overlap": false,
+    "clean_overlap_type": "none",
+    "clean_matches": {
+      "exact": [],
+      "normalized": [],
+      "hostname_path": [],
+      "hostname": []
+    },
+    "capture_recommended": true
+  },
+  "http_status": 200,
+  "navigation_status": "complete",
+  "capture_status": "complete",
+  "technical_complete": true,
+  "title": "Alternatif Klinik | Sakarya Akupuntur | Bülent Hazer",
+  "capture_timestamp": "2026-10-05T16:36:59.904139+00:00",
+  "dom_chars": 26466,
+  "screenshot_bytes": 479891,
+  "dom_sha256": "b1a55b263a8ba587ac4c7dcd3f24bb27d74f648bf0da66ecb866aea446953cee",
+  "screenshot_sha256": "c61bfd5066d239cb0ebc121729fcbf6757ab5bee3e0641c4776546820c69f0f1",
+  "viewport": {
+    "width": 1365,
+    "height": 768
+  },
+  "screenshot_mode": "viewport",
+  "quality_flags": [],
+  "navigation_chain": [
+    {
+      "url": "https://alternatifklinik.com/",
+      "http_status": 200
+    }
+  ],
+  "redirect_relationship": {
+    "requested_url": "https://alternatifklinik.com/",
+    "browser_final_url": "https://alternatifklinik.com/",
+    "url_changed": false,
+    "cross_hostname": false,
+    "http_redirect_count": 0
+  },
+  "error": null,
+  "policy_errors": [],
+  "blocked_requests": {},
+  "blocked_responses": 0,
+  "downloaded_files": 0,
+  "artifact_errors": [],
+  "elapsed_ms": 9579,
+  "recovery": {
+    "attempted": true,
+    "original_status": "failed",
+    "original_navigation_status": "complete",
+    "original_capture_timestamp": "2026-10-05T14:39:58.334135+00:00",
+    "previous_report_sha256": "a9b855dabf98c3535f8bf49b239f2c3a3c25f20087babd05664d259763e0ec6b",
+    "recovered_at": "2026-10-05T16:36:59.904139+00:00",
+    "result": "complete"
+  }
+}

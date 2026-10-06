@@ -1,0 +1,27 @@
+{
+  "original_url": "https://inclusivestandard.com/payment/ture_login/Login/",
+  "hostname": "inclusivestandard.com",
+  "checked_at": "2026-10-04T15:03:09.427062+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 4,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01a09499-d2de-7162-a000-57e4e242b404",
+  "match_kind": "same_hostname",
+  "capture_timestamp": "2026-09-12T07:51:51.062Z",
+  "scan_original_url": "https://www.inclusivestandard.com/",
+  "final_url": "https://inclusivestandard.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 751,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 3.627,
+  "discovery": {
+    "batch_id": "b5ffa483d93b9f19507f6bd12c44fb662795d753c75d86a1414f84d4a0a5e809",
+    "possible_truncation": false,
+    "warnings": [],
+    "discovery_source": "batch_search"
+  }
+}

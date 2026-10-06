@@ -1,0 +1,21 @@
+{
+  "original_url": "mouserus.net",
+  "hostname": "mouserus.net",
+  "checked_at": "2026-10-04T10:35:04.278099+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 1,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01958003-0394-7000-abd5-bdb512e3f469",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-03-10T12:24:06.789Z",
+  "scan_original_url": "http://mouserus.net/",
+  "final_url": "http://www.mouserus.net/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 425,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 7.281
+}

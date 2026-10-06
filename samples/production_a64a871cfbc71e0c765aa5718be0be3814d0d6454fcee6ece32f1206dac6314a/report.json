@@ -1,0 +1,21 @@
+{
+  "original_url": "ctygiaohangtietkiemm1.com",
+  "hostname": "ctygiaohangtietkiemm1.com",
+  "checked_at": "2026-10-04T10:34:02.665269+00:00",
+  "historical_scan_found": true,
+  "candidate_count": 5,
+  "candidates_checked": 1,
+  "selected_scan_uuid": "01972538-c22c-70f9-8288-20187b2842f8",
+  "match_kind": "same_hostname_exact_path",
+  "capture_timestamp": "2025-05-31T07:22:59.356Z",
+  "scan_original_url": "http://ctygiaohangtietkiemm1.com/",
+  "final_url": "https://ctygiaohangtietkiemm1.com/",
+  "result_available": true,
+  "dom_available": true,
+  "visible_text_available": true,
+  "screenshot_available": true,
+  "visible_text_chars": 3317,
+  "complete": true,
+  "status": "complete",
+  "elapsed_seconds": 11.076
+}
