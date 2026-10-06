@@ -29,3 +29,17 @@ Use for research and defensive security. Treat HTML and URLs as untrusted; do no
 
 ## Citation
 No formal paper/DOI is assigned. Cite “F0 Scam/Phishing Website Dataset, F0-v1”, the repository URL and snapshot date when available. Repository URL/authors are to be supplied by the publisher; no license is inferred for third-party captured content.
+
+## Dataset Viewer
+
+A zero-build, read-only static viewer provides a scrollable gallery of all 488 F0-v1 samples, search/source/strategy/year filters, screenshot details and plain-text DOM previews. Dataset URLs are displayed as text; captured HTML is not rendered or executed. Images and requested DOM previews come only from local repository artifacts. No review interface or review state is included.
+
+### GitHub Pages
+
+After pushing the viewer, configure **Settings → Pages → Deploy from a branch → main → /(root)**. The expected URL is `https://tien-bap.github.io/scam-website-dataset-f0/`; deployment has not been verified. GitHub publishes the selected source folder, so `/docs` would not include sibling `samples/`. The root entrypoint and `.nojekyll` serve the existing sample artifacts without copying them.
+
+### Local viewing and regeneration
+
+From the repository root, run `python3 -m http.server 8000`, then open `http://localhost:8000/`. Python is only an optional local static server/offline metadata generator; the hosted viewer has no backend, Flask or database. To regenerate the deterministic metadata projection: `python3 tools/build_viewer_manifest.py`.
+
+`SHA256SUMS` continues to cover the dataset snapshot files; only its README hash changes for this documentation update. `VIEWER_SHA256SUMS` covers the viewer, generator, tests and viewer documentation separately. Original dataset statistics describe the F0-v1 snapshot and exclude the added viewer files. Samples, source manifest, reports, DOM, screenshots, provenance and review semantics are unchanged.
