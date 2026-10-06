@@ -1,0 +1,11 @@
+{
+  "datasets": [
+    {
+      "id": "F0",
+      "name": "F0",
+      "version": "F0-v1",
+      "sample_count": 488,
+      "manifest": "F0.json"
+    }
+  ]
+}

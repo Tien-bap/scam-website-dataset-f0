@@ -1,0 +1,20 @@
+{
+  "all_live_traceable_to_keep": true,
+  "manifest_directory_bijection": true,
+  "no_zero_byte_artifacts": true,
+  "original_hashes_preserved": true,
+  "passed": true,
+  "public_artifact_hashes_verified": true,
+  "recognized_patterns_remaining": 0,
+  "refactor_artifact_bytes_preserved": true,
+  "refactor_security_pattern_audit": {
+    "artifact_modified": false,
+    "mapbox_match_preexists_refactor_head": true,
+    "mapbox_pattern_matches": 1,
+    "network_validation_performed": false,
+    "other_recognized_patterns_remaining": 0,
+    "screenshot_ocr_performed": false,
+    "text_files_scanned": 989
+  },
+  "samples": 488
+}

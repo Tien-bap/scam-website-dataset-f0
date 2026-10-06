@@ -9,7 +9,7 @@
       "navigation_timeout_with_artifacts": 42,
       "unknown": 15
     },
-    "taxonomy": "browser_stall.classify on latest production reports; no historical error override; diagnostic categories, not causal ground truth",
+    "taxonomy": "Phân loại heuristic theo report cuối; không dùng lỗi cũ ghi đè; không phải kết luận nguyên nhân",
     "total": 388
   },
   "dataset_version": "F0-v1",
@@ -46,21 +46,13 @@
       "path": "F0/live_check/results.jsonl",
       "sha256": "c07f8532e09e8bf042eab32e8b7e436b0f2a9fe10e7de02a7de7099bb93058e7"
     },
-    "merge_audit": {
-      "path": "F0_clean_share/merge_audit.json",
-      "sha256": "3634f162b56cd87a7723c79012370fa596318969d7e291686d04ee1bdf2d5665"
-    },
     "raw_input": {
       "path": "F0/collected_tinnhiemmang/website_lua_dao.jsonl",
       "sha256": "48b89a996d223d5408c9ec0805c29ab064733fdf09e4d2a3ba4dabd1f60bb7d0"
     },
-    "review_state": {
-      "path": "F0/live_capture/review_data/decisions.json",
-      "sha256": "736ef17216bf47e131d7427b3883d6fbacab88257c057241662c9ec9b49a2154"
-    },
     "share_manifest": {
-      "path": "F0_clean_share/manifest.jsonl",
-      "sha256": "03c0bfae7d1602e21819b0ccbd1769260f21c1cc8a46adb2de275ca591de28c5"
+      "path": "datasets/F0/manifest.jsonl",
+      "sha256": "e5066b0aed941e9cb252d59ef8013cf472da8a1e847d240ebd0712fd4940541e"
     }
   },
   "final": {
@@ -89,52 +81,52 @@
   "funnel": [
     {
       "count": 124947,
-      "notes": "Tín Nhiệm Mạng input records",
+      "notes": "Bản ghi đầu vào Tín Nhiệm Mạng",
       "percent_of_previous": 100,
       "previous_stage_count": null,
-      "stage": "Raw reported suspicious/scam URLs"
+      "stage": "URL được báo cáo"
     },
     {
       "count": 1782,
-      "notes": "Live-check HTML heuristic; not a maliciousness verdict",
+      "notes": "Heuristic HTML, không phải kết luận tính độc hại",
       "percent_of_previous": 1.426204710797378,
       "previous_stage_count": 124947,
-      "stage": "Live HTML records"
+      "stage": "Bản ghi live HTML"
     },
     {
       "count": 1616,
-      "notes": "Collapse source records sharing a normalized final URL; unit changes to destination groups",
+      "notes": "Gộp bản ghi cùng normalized final URL; chuyển đơn vị thành nhóm destination",
       "percent_of_previous": 90.68462401795735,
       "previous_stage_count": 1782,
-      "stage": "Normalized final destinations"
+      "stage": "Destination cuối đã chuẩn hóa"
     },
     {
       "count": 1579,
-      "notes": "Exclude strong normalized-URL overlap with historical clean samples",
+      "notes": "Bỏ normalized URL overlap mạnh với bộ lịch sử",
       "percent_of_previous": 97.71039603960396,
       "previous_stage_count": 1616,
-      "stage": "Capture candidates"
+      "stage": "Candidate capture"
     },
     {
       "count": 1191,
-      "notes": "Current browser artifacts satisfy technical usability after recovery",
+      "notes": "Artifact browser hiện tại sử dụng được sau recovery",
       "percent_of_previous": 75.42748575047499,
       "previous_stage_count": 1579,
-      "stage": "Reviewable captures"
+      "stage": "Mẫu có thể review"
     },
     {
       "count": 205,
-      "notes": "Manual inclusion/quality decision",
+      "notes": "Quyết định inclusion/chất lượng thủ công",
       "percent_of_previous": 17.212426532325775,
       "previous_stage_count": 1191,
-      "stage": "Manual KEEP"
+      "stage": "KEEP thủ công"
     },
     {
       "count": 201,
-      "notes": "Skip only screenshot AND DOM duplicate with the same retained sample",
+      "notes": "Chỉ bỏ khi screenshot và DOM trùng với cùng mẫu được giữ",
       "percent_of_previous": 98.04878048780488,
       "previous_stage_count": 205,
-      "stage": "Final unique live samples"
+      "stage": "Mẫu live cuối sau dedup"
     }
   ],
   "http_error_status_distribution": {
@@ -197,12 +189,12 @@
       "possible_parking_page": 16,
       "very_small_dom": 424
     },
-    "source": "current report.json quality_flags only; summary-derived duplicate annotations are excluded"
+    "source": "Chỉ quality_flags trong report hiện tại; không gồm annotation trùng lặp phát sinh từ summary"
   },
   "recovery_acquisition": {
     "commit_additional_current_usable": 6,
     "initial_pass_usable": 1129,
-    "method": "Current usable report recovery markers identify the latest successful acquisition; intermediate failed attempts are not counted as successes",
+    "method": "Marker trong report sử dụng được hiện tại xác định lần capture thành công cuối; không cộng các lần thất bại",
     "nojs_additional_current_usable": 2,
     "pass2_additional_current_usable": 54,
     "total_current_usable": 1191

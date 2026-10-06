@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'; frame-src 'none'">
+<meta name="referrer" content="no-referrer">
+<title>Reviewer bộ dữ liệu website lừa đảo</title><link rel="stylesheet" href="style.css"><script defer src="app.js"></script>
+</head>
+<body>
+<header><div><p class="eyebrow">DỮ LIỆU ĐỀ TÀI · CHỈ XEM</p><h1>Reviewer bộ dữ liệu website lừa đảo</h1><p id="dataset-subtitle">Đang tải bộ dữ liệu…</p></div><nav aria-label="Tài liệu dataset"><a id="dataset-readme">Giới thiệu dataset</a><a id="dataset-report">Báo cáo dataset</a><a href="https://github.com/Tien-bap/scam-website-dataset-f0" target="_blank" rel="noopener noreferrer">Repository GitHub ↗</a></nav></header>
+<main><p id="source-summary" class="muted"></p>
+<div class="filters"><label>Dataset<select id="dataset" aria-label="Dataset"></select></label><label class="search">Tìm kiếm<input id="search" type="search" placeholder="Hostname, URL, mã mẫu hoặc tiêu đề" autocomplete="off"></label><label>Nguồn<select id="source"><option value="all">Tất cả</option><option value="urlscan">URLScan</option><option value="live_playwright">Playwright live</option></select></label><label>Chiến lược capture<select id="strategy"><option value="all">Tất cả</option><option value="normal">Thông thường</option><option value="recovery">Khôi phục</option><option value="commit">Commit fallback</option><option value="nojs">No-JS</option><option value="historical">Lịch sử</option></select></label><label>Năm capture<select id="year"><option value="all">Tất cả</option></select></label></div>
+<p id="showing" role="status" aria-live="polite"></p><div id="gallery" class="gallery" aria-label="Screenshot của dataset"></div><p id="load-error" role="alert" hidden></p>
+</main>
+<dialog id="detail" aria-labelledby="detail-heading"><div class="detail-toolbar"><h2 id="detail-heading"></h2><div><button id="previous" type="button">← Mẫu trước</button><button id="next" type="button">Mẫu tiếp theo →</button><button id="close" type="button">Đóng ✕</button></div></div><p id="position" class="muted"></p><div id="detail-badges" class="badges"></div><img id="detail-image" alt="Screenshot website đã capture"><div class="detail-columns"><section><h3>Thông tin mẫu</h3><dl id="metadata"></dl></section><section><h3>Artifact cục bộ</h3><p class="muted">URL hiển thị dạng văn bản. DOM chỉ được xem như văn bản thuần, không thực thi HTML.</p><a id="report-link" target="_blank" rel="noopener noreferrer">Xem report JSON cục bộ ↗</a><p><button id="view-dom" type="button">Xem DOM</button></p><p id="dom-status" role="status"></p><pre id="dom-text" hidden></pre></section></div></dialog>
+<footer>Các snapshot từ nguồn báo cáo đã qua chọn lọc thủ công; không phải kết luận độc lập về tính độc hại. Reviewer không truy cập website trong dataset.</footer>
+</body></html>

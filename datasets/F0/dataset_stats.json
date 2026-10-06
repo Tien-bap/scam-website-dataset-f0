@@ -125,7 +125,6 @@
     "2025": 28,
     "2026": 450
   },
-  "clean_samples": 488,
   "dom_bytes": 121952776,
   "duplicate_audit_classifications": {
     "duplicate_with_live": 8,
@@ -417,7 +416,7 @@
   "screenshot_bytes": 155650802,
   "storage": {
     "at_least_100_mib": [],
-    "file_count": 1476,
+    "file_count": 1464,
     "largest_files": [
       {
         "bytes": 18969725,
@@ -436,10 +435,6 @@
         "path": "samples/production_70bd2db5efc84164460dfe071c8761b171f789b4e3823df79b40949120ff0b88/dom.txt"
       },
       {
-        "bytes": 3279620,
-        "path": "merge_audit.json"
-      },
-      {
         "bytes": 2655109,
         "path": "samples/live_fcb3ef3c6b2306fcd112c71a9358c4e7bba3c0e75e221ef64c5fcd45170b238d/dom.txt"
       },
@@ -456,15 +451,18 @@
         "path": "samples/production_b3ddb0ffff1d41ae3508e9b58c10d6e2ab01f427c86d9508ac3b78d1f132daf8/dom.txt"
       },
       {
-        "bytes": 1467910,
-        "path": "manifest.json"
+        "bytes": 1461644,
+        "path": "samples/live_d3304b8fe5ef5dd84408ca4145ee7cb76b1458dccbae77328ade4f1e5728f898/screenshot.png"
+      },
+      {
+        "bytes": 1419929,
+        "path": "samples/production_340c7a2fb36f11670af71d0e41b237d01bdde666331f194ded66bf5d78b4134e/dom.txt"
       }
     ],
-    "over_100_mib": [],
     "over_25_mib": [],
     "over_50_mib": [],
-    "total_bytes": 285370413,
-    "unusual_paths": []
+    "scope": "samples/ only; excludes metadata, reviewer and .git",
+    "total_bytes": 279051919
   },
   "unique_captured_hostnames": 454,
   "unique_final_urls": 470,
