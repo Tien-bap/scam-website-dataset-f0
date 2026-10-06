@@ -1,0 +1,218 @@
+{
+  "current_capture_exclusions": {
+    "primary_evidence_categories": {
+      "DNS": 5,
+      "TLS": 97,
+      "artifact_only_failure": 217,
+      "browser_stall_after_http": 10,
+      "connection": 2,
+      "navigation_timeout_with_artifacts": 42,
+      "unknown": 15
+    },
+    "taxonomy": "browser_stall.classify on latest production reports; no historical error override; diagnostic categories, not causal ground truth",
+    "total": 388
+  },
+  "dataset_version": "F0-v1",
+  "destination_dedup": {
+    "capture_candidates": 1579,
+    "collapsed_records": 166,
+    "historical_overlap_groups": 37,
+    "live_html_records": 1782,
+    "normalized_destinations": 1616,
+    "records_in_overlap_groups": 48
+  },
+  "evidence": {
+    "candidate_analysis": {
+      "path": "F0/live_check/live_candidate_analysis.json",
+      "sha256": "64c61b834ed0b04104872f1e11784ac1044cc48e370f184313e86a0984659daa"
+    },
+    "candidate_input": {
+      "path": "F0/live_check/live_capture_candidates.jsonl",
+      "sha256": "16536940ce89ef43d8ee392de6d8d9b74d772732ee87e43889a206c055fcbc52"
+    },
+    "canonical_manifest": {
+      "path": "F0_clean/manifest.json",
+      "sha256": "36b2d6b560fea7e221f760b3f5630846232e888300c531ed1a404a597cd040f7"
+    },
+    "classifier": {
+      "path": "F0/browser_stall.py",
+      "sha256": "62b82bbaf009b2d2febcc96f4b731a9fe9c0cd8b238c07b9942262b85b716b76"
+    },
+    "completed": {
+      "path": "F0/live_capture/completed.jsonl",
+      "sha256": "27af7a687eec0ccfa33352ba097fdea1ab5deb2a0fada5df17617e42b9573d9b"
+    },
+    "live_check": {
+      "path": "F0/live_check/results.jsonl",
+      "sha256": "c07f8532e09e8bf042eab32e8b7e436b0f2a9fe10e7de02a7de7099bb93058e7"
+    },
+    "merge_audit": {
+      "path": "F0_clean_share/merge_audit.json",
+      "sha256": "3634f162b56cd87a7723c79012370fa596318969d7e291686d04ee1bdf2d5665"
+    },
+    "raw_input": {
+      "path": "F0/collected_tinnhiemmang/website_lua_dao.jsonl",
+      "sha256": "48b89a996d223d5408c9ec0805c29ab064733fdf09e4d2a3ba4dabd1f60bb7d0"
+    },
+    "review_state": {
+      "path": "F0/live_capture/review_data/decisions.json",
+      "sha256": "736ef17216bf47e131d7427b3883d6fbacab88257c057241662c9ec9b49a2154"
+    },
+    "share_manifest": {
+      "path": "F0_clean_share/manifest.jsonl",
+      "sha256": "03c0bfae7d1602e21819b0ccbd1769260f21c1cc8a46adb2de275ca591de28c5"
+    }
+  },
+  "final": {
+    "end_to_end_live_percent": 0.160868208120243,
+    "historical": 287,
+    "live": 201,
+    "live_strategy_counts": {
+      "commit_fallback": 6,
+      "javascript_disabled_fallback": 2,
+      "normal": 149,
+      "timeout_recovery_salvage": 44
+    },
+    "live_strategy_percent": {
+      "commit_fallback": 2.985074626865672,
+      "javascript_disabled_fallback": 0.9950248756218906,
+      "normal": 74.12935323383084,
+      "timeout_recovery_salvage": 21.890547263681594
+    },
+    "live_strong_duplicate_skips": 4,
+    "source_composition_percent": {
+      "live_playwright": 41.18852459016394,
+      "urlscan": 58.81147540983606
+    },
+    "total": 488
+  },
+  "funnel": [
+    {
+      "count": 124947,
+      "notes": "Tín Nhiệm Mạng input records",
+      "percent_of_previous": 100,
+      "previous_stage_count": null,
+      "stage": "Raw reported suspicious/scam URLs"
+    },
+    {
+      "count": 1782,
+      "notes": "Live-check HTML heuristic; not a maliciousness verdict",
+      "percent_of_previous": 1.426204710797378,
+      "previous_stage_count": 124947,
+      "stage": "Live HTML records"
+    },
+    {
+      "count": 1616,
+      "notes": "Collapse source records sharing a normalized final URL; unit changes to destination groups",
+      "percent_of_previous": 90.68462401795735,
+      "previous_stage_count": 1782,
+      "stage": "Normalized final destinations"
+    },
+    {
+      "count": 1579,
+      "notes": "Exclude strong normalized-URL overlap with historical clean samples",
+      "percent_of_previous": 97.71039603960396,
+      "previous_stage_count": 1616,
+      "stage": "Capture candidates"
+    },
+    {
+      "count": 1191,
+      "notes": "Current browser artifacts satisfy technical usability after recovery",
+      "percent_of_previous": 75.42748575047499,
+      "previous_stage_count": 1579,
+      "stage": "Reviewable captures"
+    },
+    {
+      "count": 205,
+      "notes": "Manual inclusion/quality decision",
+      "percent_of_previous": 17.212426532325775,
+      "previous_stage_count": 1191,
+      "stage": "Manual KEEP"
+    },
+    {
+      "count": 201,
+      "notes": "Skip only screenshot AND DOM duplicate with the same retained sample",
+      "percent_of_previous": 98.04878048780488,
+      "previous_stage_count": 205,
+      "stage": "Final unique live samples"
+    }
+  ],
+  "http_error_status_distribution": {
+    "400": 267,
+    "401": 10,
+    "402": 23,
+    "403": 879,
+    "404": 8040,
+    "406": 46,
+    "409": 7,
+    "410": 452,
+    "412": 18,
+    "423": 2,
+    "429": 117,
+    "451": 8,
+    "500": 330,
+    "502": 9,
+    "503": 664,
+    "509": 5,
+    "520": 2,
+    "521": 10,
+    "522": 1,
+    "523": 4,
+    "525": 4,
+    "526": 39,
+    "530": 4,
+    "999": 9
+  },
+  "live_check_status_distribution": {
+    "connection_error": 800,
+    "dns_error": 36996,
+    "http_error": 10950,
+    "invalid_url": 2236,
+    "live_html": 1782,
+    "live_other": 26,
+    "redirect_loop": 9,
+    "timeout": 70936,
+    "tls_error": 1212
+  },
+  "manual_rejection_reasons": {
+    "exact_reason_counts_reported": false,
+    "observed_state_fields": [
+      "decision",
+      "identity",
+      "reviewed_at"
+    ],
+    "structured_taxonomy_available": false
+  },
+  "observed_reviewable_quality_flags": {
+    "keep": {
+      "possible_challenge": 24,
+      "possible_parking_page": 15
+    },
+    "non_exclusive": true,
+    "not_manual_rejection_reasons": true,
+    "reject": {
+      "blank_screenshot_suspected": 233,
+      "possible_404": 50,
+      "possible_challenge": 16,
+      "possible_parking_page": 16,
+      "very_small_dom": 424
+    },
+    "source": "current report.json quality_flags only; summary-derived duplicate annotations are excluded"
+  },
+  "recovery_acquisition": {
+    "commit_additional_current_usable": 6,
+    "initial_pass_usable": 1129,
+    "method": "Current usable report recovery markers identify the latest successful acquisition; intermediate failed attempts are not counted as successes",
+    "nojs_additional_current_usable": 2,
+    "pass2_additional_current_usable": 54,
+    "total_current_usable": 1191
+  },
+  "review": {
+    "keep": 205,
+    "keep_percent": 17.212426532325775,
+    "pending": 0,
+    "reject": 986,
+    "reject_percent": 82.78757346767422,
+    "total": 1191
+  }
+}

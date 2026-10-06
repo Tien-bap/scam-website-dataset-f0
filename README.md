@@ -1,34 +1,76 @@
 # F0 Scam/Phishing Website Dataset
 
-## Overview
-F0-v1 is a curated snapshot for research into scam/phishing website detection. URLs were reported as suspicious by Tín Nhiệm Mạng and artifacts were manually selected for research quality. Source reports and KEEP decisions do not independently prove maliciousness or establish absolute ground truth. Website content belongs to its respective authors; this snapshot does not assert ownership or grant rights beyond those held by the sources.
+**F0-v1 · 488 curated scam/phishing website snapshots**
 
-## Data sources
-Historical recovery uses Tín Nhiệm Mạng URLs and URLScan historical snapshots (`capture_source=urlscan`). Live recovery uses the same reported-URL source, passive HTTP discovery and isolated Playwright capture (`capture_source=live_playwright`). Original URLs, timestamps and provenance are recorded in reports/manifests.
+| Acquisition path | Samples | Composition |
+|---|---:|---:|
+| Historical URLScan | 287 | 58.8% |
+| Live captures | 201 | 41.2% |
 
-## Collection methodology
-Reported suspicious URLs → historical/live acquisition → technical filtering and destination deduplication → browser capture → bounded recovery strategies → manual quality review → exact artifact deduplication → final validation. Historical and live contributions are described separately in DATASET_REPORT.md.
+Live manual review: **205 / 1,191 reviewable captures KEEP**, yielding **201 final unique live samples** after dedup. This is a curated research snapshot, not a raw dump or an independently proven maliciousness ground truth.
 
-## Dataset structure
-`manifest.jsonl` (and equivalent `manifest.json`) maps one retained sample per row to `samples/<sample_id>/report.json`, `dom.txt`, and `screenshot.png`. DOM is inert text for sharing, not a page to execute. Reports contain original capture metadata with recognized credential-like values redacted. `dataset_stats.json`, `merge_audit.json`, `validation.json`, `sharing_safety.json`, `final_dataset_summary.json` and `SHA256SUMS` support audit and reproduction. SHA256SUMS covers all files except itself.
+## Data sources and selection funnel
+
+Tín Nhiệm Mạng supplies reported suspicious/scam URLs. Historical acquisition recovers URLScan snapshots; live acquisition checks availability and captures current pages. Website content belongs to its respective authors; no ownership or third-party license is asserted.
+
+| Stage | Count | % of previous stage | Notes |
+|---|---|---|---|
+| Raw reported suspicious/scam URLs | 124,947 | 100.00% | Tín Nhiệm Mạng input records |
+| Live HTML records | 1,782 | 1.43% | Live-check HTML heuristic; not a maliciousness verdict |
+| Normalized final destinations | 1,616 | 90.68% | Collapse source records sharing a normalized final URL; unit changes to destination groups |
+| Capture candidates | 1,579 | 97.71% | Exclude strong normalized-URL overlap with historical clean samples |
+| Reviewable captures | 1,191 | 75.43% | Current browser artifacts satisfy technical usability after recovery |
+| Manual KEEP | 205 | 17.21% | Manual inclusion/quality decision |
+| Final unique live samples | 201 | 98.05% | Skip only screenshot AND DOM duplicate with the same retained sample |
+| Historical URLScan | 287 | — | Separate acquisition path; not added to the live denominator |
+| **F0-v1 final** | **488** | — | 287 historical + 201 live |
+
+Only **0.161%** of the original reported-URL pool ultimately became unique, review-approved live samples in F0-v1. This is an acquisition/inclusion rate, **not the proportion of malicious URLs**. Historical samples are a separate path and are not mixed into that denominator.
+
+```text
+Historical URLScan snapshots → quality validation + manual selection → 287 ─┐
+                                                                                ├→ F0-v1: 488
+124,947 reported URLs → live-check → dedup/filter → capture + recovery        │
+                       → manual review → final artifact dedup → 201 ─────────┘
+```
+
+Counts and denominators are verified from local source/capture/review artifacts; [DATASET_REPORT.md](DATASET_REPORT.md) and [selection_funnel.json](selection_funnel.json) provide distributions, calculation methods and evidence hashes.
+
+## Why were URLs/samples excluded?
+
+**Exclusion does not mean that a reported URL was determined to be benign.** This is an acquisition/quality-selection funnel, not benign-vs-malicious classification.
+
+- **Live-check:** 123,165 records did not meet the live-HTML criterion. Recorded outcomes include timeout, DNS/connection/TLS failure, HTTP errors (including 403/404/5xx), invalid URL, redirect loop, and non-HTML response. Failure means no suitable live page was obtained at check time; it does not prove benignness or permanent unavailability. Historical infrastructure may have expired or been taken down, but the logs do not establish the cause for each URL.
+- **Destination/overlap filtering:** 166 repeated source records collapsed into normalized destinations, then 37 destination groups overlapped historical clean URLs. Same hostname alone never removes a candidate.
+- **Browser capture:** 388 / 1,579 candidates (24.57%) remained non-usable after the final recovery passes. Navigation/network/TLS errors, renderer stalls and insufficient/missing DOM or screenshot can prevent technical completion. Quality flags such as possible parking/error/challenge pages, small DOM or suspected blank screenshots are hints, not automatic exclusion rules. Quality flags are non-exclusive; one capture may have multiple flags.
+- **Manual review:** 205 KEEP (17.21%) and 986 REJECT (82.79%) among 1,191 reviewable captures; PENDING = 0. KEEP means the sample met this project's quality/research inclusion criteria under source provenance and manual inspection, not cryptographic proof of phishing. Possible rejection considerations include parking/default/error pages, incomplete or irrelevant content, changed destinations, low-information/duplicate artifacts, or insufficient evidence/quality. These are possible considerations, not measured rejection categories. **Individual manual rejection reasons were not recorded as a mutually exclusive structured taxonomy, so exact per-reason counts are not reported.**
+- **Final cross-dedup:** 4 KEEP aliases were skipped because both screenshot and DOM hashes matched the same retained sample. Same hostname, same URL, a single matching artifact or quality flag alone did not justify a skip; provenance remains in merge_audit.json.
 
 ## Capture strategies
-Normal live capture waits for DOMContentLoaded. Timeout salvage inspects current artifacts after bounded navigation. Commit fallback waits only for navigation response commit, then bounded settle and independent artifact extraction. Final no-JS fallback uses `capture_strategy=javascript_disabled_fallback`, `javascript_enabled=false`, `navigation_status=nojs_salvaged`. No-JS snapshots represent the website with JavaScript disabled and are not equivalent to JS-enabled rendering. Historical snapshots retain their source capture semantics.
 
-## Manual review
-Technical usability only makes a candidate reviewable. Every retained live sample maps to a manual KEEP decision; technical completion does not imply KEEP. URL overlap, quality flags, same hostname, or one-artifact duplicates never automatically discard a KEEP. Only matching screenshot AND DOM hashes against the same retained sample causes a strong-duplicate skip, with all aliases retained in the audit.
+A successful HTTP response can still leave the browser unable to produce usable artifacts. Recovery therefore uses bounded artifact salvage, response-commit navigation or, for narrowly selected renderer-stall cases, JavaScript-disabled contexts.
 
-## Limitations
-Websites change over time and artifacts are snapshots. Historical scan times and live capture times differ; they are not Tín Nhiệm Mạng collection times. Manual review is subjective. No-JS rendering can omit interactive content. Exact hashes cannot detect all near-duplicates. Reported URLs and manual review do not prove maliciousness absolutely. Pattern-based sanitization does not certify absence of every sensitive value, including values visible in screenshots.
+| Capture strategy | Final live samples | % of final live |
+|---|---|---|
+| Normal | 149 | 74.13% |
+| Timeout/recovery salvage | 44 | 21.89% |
+| Commit fallback | 6 | 2.99% |
+| JavaScript-disabled fallback | 2 | 1.00% |
+| **Total live** | 201 | 100.00% |
 
-## Reproducibility / provenance
-Stable sample/candidate IDs, source/final URLs, source-specific timestamps, original/derivative hashes, recovery metadata and duplicate-alias mappings are retained. `source_dom_sha256` and `source_report_sha256` identify private original artifacts; public hashes verify the sharing derivatives. Canonical artifacts were preserved unchanged. The offline finalization script and input hash snapshot are recorded in final_dataset_summary.json; recreating the exact public snapshot requires the archived private inputs and matching script version.
+The two no-JS samples retain `javascript_enabled=false`, `capture_strategy=javascript_disabled_fallback`, and `navigation_status=nojs_salvaged`. They represent the site with JavaScript disabled and are not equivalent to JS-enabled rendering. Capture timestamps refer to historical URLScan or live browser capture, not reported-URL collection time.
 
-## Ethical use
-Use for research and defensive security. Treat HTML and URLs as untrusted; do not casually visit embedded URLs or execute captured content. No network requests were performed during finalization. No reviewer runtime state, failed/rejected artifacts, browser binaries, debug directories or raw collection logs are shipped.
+## Dataset structure and provenance
 
-## Citation
-No formal paper/DOI is assigned. Cite “F0 Scam/Phishing Website Dataset, F0-v1”, the repository URL and snapshot date when available. Repository URL/authors are to be supplied by the publisher; no license is inferred for third-party captured content.
+`manifest.jsonl` / `manifest.json` map each sample to `samples/<sample_id>/screenshot.png`, `dom.txt` and `report.json`. DOM is inert text, not content to execute. Reports retain provenance and capture/recovery metadata, with recognized credential-like values redacted in this public derivative. Original/derivative hashes, duplicate aliases, statistics and validation are recorded in the accompanying JSON files. Private canonical artifacts remain unchanged. Reproducing raw acquisition counts requires the private artifacts identified by hash in selection_funnel.json; the public file contains aggregate statistics, not reviewer runtime state.
+
+## Selection bias and interpretation
+
+F0-v1 favors reported sites with available historical artifacts or live accessibility, successful capture, sufficient DOM/screenshots and manual approval. It is **not a random or representative sample of the original reported-URL pool**. Dead/taken-down and non-capturable sites are underrepresented; this matters when training or evaluating ML. Sites change over time, manual review is subjective, no-JS snapshots differ from normal rendering, and exact hashes do not detect all near-duplicates. Source reports do not independently prove maliciousness. Pattern-based sanitization cannot certify absence of every sensitive value; screenshot pixels were not OCR-scanned.
+
+## Ethical use and citation
+
+Use for research and defensive security. Treat DOM and embedded URLs as untrusted; do not casually visit them or execute captured content. No formal DOI/paper is assigned: cite “F0 Scam/Phishing Website Dataset, F0-v1”, repository URL and snapshot date, with publisher authors supplied when available. No license for third-party website content is inferred.
 
 ## Dataset Viewer
 
@@ -42,4 +84,4 @@ After pushing the viewer, configure **Settings → Pages → Deploy from a branc
 
 From the repository root, run `python3 -m http.server 8000`, then open `http://localhost:8000/`. Python is only an optional local static server/offline metadata generator; the hosted viewer has no backend, Flask or database. To regenerate the deterministic metadata projection: `python3 tools/build_viewer_manifest.py`.
 
-`SHA256SUMS` continues to cover the dataset snapshot files; only its README hash changes for this documentation update. `VIEWER_SHA256SUMS` covers the viewer, generator, tests and viewer documentation separately. Original dataset statistics describe the F0-v1 snapshot and exclude the added viewer files. Samples, source manifest, reports, DOM, screenshots, provenance and review semantics are unchanged.
+`SHA256SUMS` continues to cover the dataset snapshot files; README/report hashes are refreshed and selection_funnel.json is added for this documentation update. `VIEWER_SHA256SUMS` covers the viewer, generator, tests and viewer documentation separately. Original dataset statistics describe the F0-v1 snapshot and exclude the added viewer files. Samples, source manifest, reports, DOM, screenshots, provenance and review semantics are unchanged.
