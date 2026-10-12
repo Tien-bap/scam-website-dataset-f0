@@ -21,11 +21,3 @@ datasets/
 └── F0/       # Dữ liệu, manifest và tài liệu F0-v1
 reviewer/     # Giao diện chung cho F0, F1, F2…
 ```
-
-## Lưu ý
-
-Dataset đã qua chọn lọc chất lượng. **URL bị loại không đồng nghĩa URL được xác định là an toàn (benign).**
-
-Chi tiết xây dựng F0: [README của F0](datasets/F0/README.md) và [báo cáo dataset](datasets/F0/DATASET_REPORT.md).
-
-GitHub Pages sử dụng nhánh `main`, thư mục `/(root)`; reviewer nằm tại `/reviewer/`. Để xem cục bộ, phục vụ repository qua HTTP rồi mở đường dẫn này.
